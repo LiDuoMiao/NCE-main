@@ -90,7 +90,7 @@
 
 如果这个项目对你学习英语有帮助，欢迎：
 
-- **点个 Star** ⭐（这是对原作者最大的鼓励）
+- **点个 Star** ⭐（[给原作者点个 Star](https://github.com/ichochy/nce)）
 - 打赏一杯咖啡 / 一点生命值（可选）
 
 <img src="sponsor.jpg" width="200" />
