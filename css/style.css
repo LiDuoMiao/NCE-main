@@ -1443,10 +1443,19 @@ body::-webkit-scrollbar-thumb:hover,
 .popup-meaning {
   font-size: 15px;
   color: var(--ink-1);
-  line-height: 1.5;
+  line-height: 1.6;
   margin-bottom: 16px;
   padding-bottom: 16px;
   border-bottom: 1px solid var(--border);
+}
+
+.popup-meaning .pos-group {
+  margin-bottom: 6px;
+}
+
+.popup-meaning .pos-label {
+  color: var(--teal);
+  font-weight: 600;
 }
 
 .popup-examples {

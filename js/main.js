@@ -841,6 +841,25 @@ class ReadingSystem {
     this.fetchTranslation(word);
   }
 
+  // POS 中文映射
+  static POS_LABELS = {
+    'noun': '名',
+    'verb': '动',
+    'adjective': '形',
+    'adverb': '副',
+    'pronoun': '代',
+    'preposition': '介',
+    'conjunction': '连',
+    'interjection': '叹',
+    'determiner': '冠',
+    'phrase': '短语'
+  };
+
+  // 简化词性标签
+  getPosLabel(pos) {
+    return ReadingSystem.POS_LABELS[pos.toLowerCase()] || pos;
+  }
+
   async fetchTranslation(word) {
     const popup = qs('#wordPopup');
     if (!popup) return;
@@ -862,6 +881,9 @@ class ReadingSystem {
       let pos = '';
       let examples = [];
       let chineseTranslation = '';
+
+      // 按词性分组的中文释义
+      let meaningsByPos = {};
 
       // 解析 Free Dictionary API 响应
       if (dictResponse.ok) {
@@ -895,46 +917,67 @@ class ReadingSystem {
           if (!ukPhonetic && entry.phonetic) ukPhonetic = entry.phonetic;
           if (!usPhonetic && entry.phonetic) usPhonetic = entry.phonetic;
 
-          // 收集词性和释义
-          const meanings = [];
+          // 收集词性和释义，并按 POS 分组
           if (entry.meanings) {
             entry.meanings.forEach(meaning => {
               const posText = meaning.partOfSpeech;
+              if (!meaningsByPos[posText]) {
+                meaningsByPos[posText] = [];
+              }
               meaning.definitions.forEach(def => {
-                meanings.push({ pos: posText, definition: def.definition, example: def.example || '' });
+                meaningsByPos[posText].push({
+                  definition: def.definition,
+                  example: def.example || ''
+                });
               });
             });
           }
 
-          // 设置词性
-          if (meanings.length > 0) {
-            pos = meanings.map(m => m.pos).filter((v, i, a) => a.indexOf(v) === i).join(', ');
-          }
-
-          // 设置释义（取第一个英文释义）
-          if (meanings.length > 0) {
-            chineseTranslation = meanings[0].definition;
+          // 设置词性标签
+          const posKeys = Object.keys(meaningsByPos);
+          if (posKeys.length > 0) {
+            pos = posKeys.map(p => `${this.getPosLabel(p)} (${p})`).join(' | ');
           }
 
           // 收集例句（英文例句）
-          examples = meanings
-            .filter(m => m.example)
-            .slice(0, 3)
-            .map(m => m.example);
+          examples = [];
+          posKeys.forEach(p => {
+            meaningsByPos[p].forEach(m => {
+              if (m.example) {
+                examples.push(m.example);
+              }
+            });
+          });
+          examples = examples.slice(0, 3);
         }
       }
 
       // 解析 MyMemory API 响应（用于中文翻译）
+      let myMemoryTranslation = '';
       if (myMemoryResponse.ok) {
         const myMemoryData = await myMemoryResponse.json();
         if (myMemoryData.responseStatus === 200 && myMemoryData.responseData) {
           const translation = myMemoryData.responseData.translatedText;
           // 移除拼音 [xxx] 格式
-          const cleanTranslation = translation.replace(/\s*\[[^\]]+\]$/, '').trim();
-          if (cleanTranslation) {
-            chineseTranslation = cleanTranslation;
-          }
+          myMemoryTranslation = translation.replace(/\s*\[[^\]]+\]$/, '').trim();
         }
+      }
+
+      // 构建按词性分组的中文释义显示
+      if (Object.keys(meaningsByPos).length > 0) {
+        // 如果有多个词性，按词性分组显示中文释义
+        const groupedMeanings = [];
+        posKeys.forEach(posKey => {
+          const defs = meaningsByPos[posKey];
+          const defsText = defs.map(d => d.definition).join('；');
+          const posLabel = this.getPosLabel(posKey);
+          groupedMeanings.push(`<div class="pos-group"><span class="pos-label">【${posLabel}】</span>${defsText}</div>`);
+        });
+        chineseTranslation = groupedMeanings.join('');
+      } else if (myMemoryTranslation) {
+        chineseTranslation = myMemoryTranslation;
+      } else {
+        chineseTranslation = '未找到翻译';
       }
 
       // 更新 UI - 显示 EN 🔊 /音标/  US 🔊 /音标/
@@ -953,7 +996,7 @@ class ReadingSystem {
         `;
       }
       if (posEl) posEl.textContent = pos;
-      if (meaningEl) meaningEl.textContent = chineseTranslation || '未找到翻译';
+      if (meaningEl) meaningEl.innerHTML = chineseTranslation || '未找到翻译';
       if (examplesEl && examples.length > 0) {
         examplesEl.innerHTML = examples.map(ex => `<div class="example">${ex}</div>`).join('');
       }
