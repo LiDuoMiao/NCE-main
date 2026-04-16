@@ -98,25 +98,56 @@
 
 ## 5. 实现步骤（分步）
 
-### Step 1: 页面结构调整
+### Step 1: 页面结构调整 ✅
 - 修改 `renderLyrics()` 方法，生成新的 HTML 结构
 - 添加 `.lyric-play-btn` 按钮
 - 英文单词用 `<span>` 包裹
 
-### Step 2: CSS 样式
+### Step 2: CSS 样式 ✅
 - 添加播放按钮样式
 - 添加弹窗样式
 
-### Step 3: 事件绑定
+### Step 3: 事件绑定 ✅
 - 绑定播放按钮点击事件
 - 绑定单词点击事件
 - 实现弹窗显示/隐藏逻辑
 
-### Step 4: 弹窗内容（测试数据）
+### Step 4: 弹窗内容（测试数据） ✅
 - 先用静态测试数据验证 UI
 - 弹窗显示单词、音标、释义等
 
-### Step 5: Google 翻译集成（后续步骤）
+### Step 5: MyMemory 翻译 API 集成 ✅
+- 调用 MyMemory API 获取真实翻译结果
+- API: `https://api.mymemory.translated.net/get?q={word}&langpair=en|zh-CN`
+- 无需 API Key
+
+---
+
+## 5.1 MyMemory API 集成
+
+### API 调用
+```
+GET https://api.mymemory.translated.net/get?q={word}&langpair=en|zh-CN
+```
+
+### 响应格式
+```json
+{
+  "responseData": {
+    "translatedText": "翻译结果"
+  },
+  "responseStatus": 200
+}
+```
+
+### 弹窗数据来源
+1. **单词**: 直接使用点击的单词
+2. **音标**: 使用 Forvo API 或简化为显示原文
+3. **发音**: 使用 Forvo API（免费语音发音）
+   - EN: `https://audio.forvo.com/audios/mp3/{word}_en.mp3`
+   - US: `https://audio.forvo.com/audios/mp3/{word}_us.mp3`
+4. **释义**: 来自 MyMemory API
+5. **例句**: 来自 MyMemory API（limit 3）
 
 ---
 

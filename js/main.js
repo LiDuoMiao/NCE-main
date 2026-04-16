@@ -674,6 +674,19 @@ class ReadingSystem {
         this.hideWordPopup();
       }
     });
+
+    // 发音按钮
+    const pronBtns = document.querySelectorAll('.pron-btn');
+    pronBtns.forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        const word = this.dom.wordPopup?.querySelector('.popup-word')?.textContent;
+        const lang = btn.dataset.lang;
+        if (word && lang) {
+          this.playPronunciation(word, lang);
+        }
+      });
+    });
   }
 
   bindTranslationToggle() {
@@ -808,7 +821,7 @@ class ReadingSystem {
     const overlay = qs('#wordPopupOverlay');
     if (!popup) return;
 
-    // 填充测试数据
+    // 显示加载状态
     const wordEl = popup.querySelector('.popup-word');
     const phoneticEl = popup.querySelector('.popup-phonetic');
     const posEl = popup.querySelector('.popup-pos');
@@ -816,19 +829,174 @@ class ReadingSystem {
     const examplesEl = popup.querySelector('.popup-examples');
 
     if (wordEl) wordEl.textContent = word;
-    if (phoneticEl) phoneticEl.textContent = `/${word}/`;
-    if (posEl) posEl.textContent = 'noun';
-    if (meaningEl) meaningEl.textContent = `这是单词 "${word}" 的中文释义`;
-    if (examplesEl) {
-      examplesEl.innerHTML = `
-        <div class="example">例句1: This is an example sentence with "${word}".</div>
-        <div class="example">例句2: The word "${word}" is commonly used in daily conversation.</div>
-        <div class="example">例句3: Can you use "${word}" in a sentence?</div>
-      `;
-    }
+    if (phoneticEl) phoneticEl.textContent = '加载中...';
+    if (posEl) posEl.textContent = '';
+    if (meaningEl) meaningEl.textContent = '加载翻译...';
+    if (examplesEl) examplesEl.innerHTML = '';
 
     popup.hidden = false;
     if (overlay) overlay.hidden = false;
+
+    // 调用 MyMemory API 获取翻译
+    this.fetchTranslation(word);
+  }
+
+  async fetchTranslation(word) {
+    const popup = qs('#wordPopup');
+    if (!popup) return;
+
+    const phoneticEl = popup.querySelector('.popup-phonetic');
+    const posEl = popup.querySelector('.popup-pos');
+    const meaningEl = popup.querySelector('.popup-meaning');
+    const examplesEl = popup.querySelector('.popup-examples');
+
+    try {
+      // 并行调用两个 API
+      const [dictResponse, myMemoryResponse] = await Promise.all([
+        fetch(`https://api.dictionaryapi.dev/api/v2/entries/en/${encodeURIComponent(word)}`),
+        fetch(`https://api.mymemory.translated.net/get?q=${encodeURIComponent(word)}&langpair=en|zh-CN`)
+      ]);
+
+      let ukPhonetic = '';
+      let usPhonetic = '';
+      let pos = '';
+      let examples = [];
+      let chineseTranslation = '';
+
+      // 解析 Free Dictionary API 响应
+      if (dictResponse.ok) {
+        const dictData = await dictResponse.json();
+        if (dictData && dictData.length > 0) {
+          const entry = dictData[0];
+
+          // 获取各语言的音标
+          if (entry.phonetics && entry.phonetics.length > 0) {
+            // 查找UK和US音标
+            entry.phonetics.forEach(ph => {
+              if (ph.text) {
+                if (ph.text.includes('UK') || ph.text.includes('/kə/')) {
+                  ukPhonetic = ph.text;
+                } else if (ph.text.includes('US') || ph.text.includes('/kə/')) {
+                  usPhonetic = ph.text;
+                }
+              }
+            });
+            // 如果没找到分别的，使用通用音标
+            if (!ukPhonetic || !usPhonetic) {
+              const ph = entry.phonetics.find(p => p.text);
+              if (ph && ph.text) {
+                if (!ukPhonetic) ukPhonetic = ph.text;
+                if (!usPhonetic) usPhonetic = ph.text;
+              }
+            }
+          }
+
+          // 获取默认音标
+          if (!ukPhonetic && entry.phonetic) ukPhonetic = entry.phonetic;
+          if (!usPhonetic && entry.phonetic) usPhonetic = entry.phonetic;
+
+          // 收集词性和释义
+          const meanings = [];
+          if (entry.meanings) {
+            entry.meanings.forEach(meaning => {
+              const posText = meaning.partOfSpeech;
+              meaning.definitions.forEach(def => {
+                meanings.push({ pos: posText, definition: def.definition, example: def.example || '' });
+              });
+            });
+          }
+
+          // 设置词性
+          if (meanings.length > 0) {
+            pos = meanings.map(m => m.pos).filter((v, i, a) => a.indexOf(v) === i).join(', ');
+          }
+
+          // 设置释义（取第一个英文释义）
+          if (meanings.length > 0) {
+            chineseTranslation = meanings[0].definition;
+          }
+
+          // 收集例句（英文例句）
+          examples = meanings
+            .filter(m => m.example)
+            .slice(0, 3)
+            .map(m => m.example);
+        }
+      }
+
+      // 解析 MyMemory API 响应（用于中文翻译）
+      if (myMemoryResponse.ok) {
+        const myMemoryData = await myMemoryResponse.json();
+        if (myMemoryData.responseStatus === 200 && myMemoryData.responseData) {
+          const translation = myMemoryData.responseData.translatedText;
+          // 移除拼音 [xxx] 格式
+          const cleanTranslation = translation.replace(/\s*\[[^\]]+\]$/, '').trim();
+          if (cleanTranslation) {
+            chineseTranslation = cleanTranslation;
+          }
+        }
+      }
+
+      // 更新 UI - 显示 EN 🔊 /音标/  US 🔊 /音标/
+      if (phoneticEl) {
+        phoneticEl.innerHTML = `
+          <span class="pron-item">
+            <span class="pron-label">EN</span>
+            <button class="pron-btn" data-lang="uk" data-word="${word}" title="英式发音">🔊</button>
+            <span class="pron-phonetic">${ukPhonetic || '/' + word + '/'}</span>
+          </span>
+          <span class="pron-item">
+            <span class="pron-label">US</span>
+            <button class="pron-btn" data-lang="us" data-word="${word}" title="美式发音">🔊</button>
+            <span class="pron-phonetic">${usPhonetic || '/' + word + '/'}</span>
+          </span>
+        `;
+      }
+      if (posEl) posEl.textContent = pos;
+      if (meaningEl) meaningEl.textContent = chineseTranslation || '未找到翻译';
+      if (examplesEl && examples.length > 0) {
+        examplesEl.innerHTML = examples.map(ex => `<div class="example">${ex}</div>`).join('');
+      }
+
+      // 重新绑定发音按钮事件
+      const pronBtns = popup.querySelectorAll('.pron-btn');
+      pronBtns.forEach(btn => {
+        btn.addEventListener('click', (e) => {
+          e.stopPropagation();
+          const w = btn.dataset.word;
+          const lang = btn.dataset.lang;
+          if (w && lang) {
+            this.playPronunciation(w, lang);
+          }
+        });
+      });
+
+    } catch (error) {
+      console.error('翻译 API 调用失败:', error);
+      if (meaningEl) meaningEl.textContent = '网络错误，请检查网络连接';
+    }
+  }
+
+  playPronunciation(word, lang) {
+    // 使用 Free Dictionary API 的音频
+    const audioUrl = lang === 'uk'
+      ? `https://api.dictionaryapi.dev/media/pronunciations/en/${word}-uk.mp3`
+      : `https://api.dictionaryapi.dev/media/pronunciations/en/${word}-us.ogg`;
+
+    const audio = new Audio(audioUrl);
+    audio.play().catch(() => {
+      // 如果失败，使用 Web Speech API
+      this.playWithSpeechSynthesis(word, lang === 'uk' ? 'en-GB' : 'en-US');
+    });
+  }
+
+  playWithSpeechSynthesis(word, lang) {
+    if ('speechSynthesis' in window) {
+      const utterance = new SpeechSynthesisUtterance(word);
+      utterance.lang = lang;
+      utterance.rate = 0.8;
+      speechSynthesis.speak(utterance);
+    }
   }
 
   hideWordPopup() {
