@@ -33,6 +33,10 @@ class ReadingSystem {
       isProgressDragging: false
     };
 
+    // PDF 相关
+    this.pdfDoc = null;
+    this.pdfCache = new Map();
+
     this.dom = {
       audioPlayer: qs('#audioPlayer'),
       lyricsDisplay: qs('#lyricsDisplay'),
@@ -95,6 +99,88 @@ class ReadingSystem {
     return this.state.books;
   }
 
+  // 获取 PDF 路径
+  getPDFPath(bookKey) {
+    const pdfMap = {
+      'NCE1': 'pdf/新概念[第1 册].pdf',
+      'NCE2': 'pdf/新概念[第2 册].pdf',
+      'NCE3': 'pdf/新概念[第3 册].pdf',
+      'NCE4': 'pdf/新概念[第4 册].pdf',
+      'NCE1(85)': 'pdf/新概念[第1 册].pdf',
+      'NCE2(85)': 'pdf/新概念[第2 册].pdf',
+      'NCE3(85)': 'pdf/新概念[第3 册].pdf',
+      'NCE4(85)': 'pdf/新概念[第4 册].pdf'
+    };
+    return pdfMap[bookKey] || null;
+  }
+
+  // 加载 PDF 文件
+  async loadPDF(bookKey) {
+    const pdfContainer = qs('#pdfContainer');
+    if (!pdfContainer) return;
+
+    const pdfPath = this.getPDFPath(bookKey);
+
+    if (!pdfPath) {
+      pdfContainer.innerHTML = '<div class="pdf-placeholder">未找到对应教材</div>';
+      return;
+    }
+
+    // 显示加载状态
+    pdfContainer.innerHTML = '<div class="pdf-placeholder">加载教材中...</div>';
+
+    try {
+      // 检查缓存
+      if (this.pdfCache.has(pdfPath)) {
+        await this.renderPDF(this.pdfCache.get(pdfPath), pdfContainer);
+        return;
+      }
+
+      // 加载 PDF
+      const loadingTask = pdfjsLib.getDocument(pdfPath);
+      const pdf = await loadingTask.promise;
+
+      // 缓存
+      this.pdfCache.set(pdfPath, pdf);
+
+      await this.renderPDF(pdf, pdfContainer);
+    } catch (error) {
+      console.error('PDF 加载失败:', error);
+      pdfContainer.innerHTML = '<div class="pdf-placeholder">教材加载失败</div>';
+    }
+  }
+
+  // 渲染 PDF
+  async renderPDF(pdf, container) {
+    container.innerHTML = '';
+
+    // 只渲染前几页，避免一次性加载太多
+    const maxPages = 5;
+    const pagesToRender = Math.min(pdf.numPages, maxPages);
+
+    for (let i = 1; i <= pagesToRender; i++) {
+      const page = await pdf.getPage(i);
+      const scale = container.clientWidth / page.getViewport({ scale: 1 }).width;
+      const viewport = page.getViewport({ scale });
+
+      const canvas = document.createElement('canvas');
+      canvas.width = viewport.width;
+      canvas.height = viewport.height;
+
+      const context = canvas.getContext('2d');
+      await page.render({ canvasContext: context, viewport }).promise;
+
+      container.appendChild(canvas);
+    }
+
+    if (pdf.numPages > maxPages) {
+      const moreDiv = document.createElement('div');
+      moreDiv.className = 'pdf-placeholder';
+      moreDiv.textContent = `共 ${pdf.numPages} 页，显示前 ${maxPages} 页，请滚动查看更多`;
+      container.appendChild(moreDiv);
+    }
+  }
+
   resolveBookByKey(bookKey) {
     if (!this.state.books.length) return null;
     const exact = this.state.books.find((book) => book && book.key === bookKey);
@@ -140,6 +226,9 @@ class ReadingSystem {
     this.renderUnitList();
     this.renderUnitSelect();
     this.resetUnitListScroll();
+
+    // 加载 PDF
+    await this.loadPDF(bookKey);
   }
 
   renderEmptyState(message) {
