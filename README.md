@@ -104,9 +104,9 @@
 
 本版本基于 [iChochy/NCE](https://github.com/ichochy/nce) 改编，新增了单词即点即译和 PDF 教材同步浏览功能。
 
-**修改者**：LiDuoMiao
-**GitHub**：https://github.com/LiDuoMiao
-**Email**：alexlibin.cn@gmail.com
+**修改者**：[LiDuoMiao](https://github.com/LiDuoMiao)
+**GitHub**：https://github.com/LiDuoMiao/NCE-main
+**Email**：[alexlibin.cn@gmail.com](mailto:alexlibin.cn@gmail.com)
 
 ---
 
