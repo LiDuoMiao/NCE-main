@@ -1,8 +1,8 @@
 
 # 新概念英语 · 全四册在线点读系统
 
-[![Stars](https://img.shields.io/github/stars/ichochy/nce.svg?style=social)](https://github.com/ichochy/nce/stargazers)
-[![License](https://img.shields.io/github/license/ichochy/nce)](https://github.com/ichochy/nce/blob/main/LICENSE)
+[![Stars](https://img.shields.io/github/stars/LiDuoMiao/nce-main.svg?style=social)](https://github.com/LiDuoMiao/NCE-main/stargazers)
+[![License](https://img.shields.io/github/license/LiDuoMiao/NCE-main)](https://github.com/LiDuoMiao/NCE-main/blob/main/LICENSE)
 
 **《 New Concept English 》** 全四册在线学习系统，集课文朗读、单句点读、中英对照、单词即点即译、PDF教材同步浏览于一体，随时随地自学英语！
 
@@ -22,9 +22,9 @@
 
 ### 📸 截图
 
-![pc.jpg](screenshot/pc.png)
+![pc_1.jpg](screenshot/pc_1.png)
 
-![mobile.jpg](screenshot/mobile.png)
+![pc_2.jpg](screenshot/pc_2.png)
 
 ### 📚 四册学习指南
 
