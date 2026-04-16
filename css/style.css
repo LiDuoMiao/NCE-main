@@ -1329,8 +1329,10 @@ body::-webkit-scrollbar-thumb:hover,
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  width: 320px;
+  width: 400px;
   max-width: 90vw;
+  max-height: 80vh;
+  overflow-y: auto;
   background: var(--glass-strong);
   border: 1px solid var(--border);
   border-radius: var(--radius-md);
@@ -1405,6 +1407,27 @@ body::-webkit-scrollbar-thumb:hover,
   color: var(--ink-2);
 }
 
+.popup-alternatives {
+  font-family: var(--font-sans);
+  font-size: 14px;
+  color: var(--accent-1);
+  margin-bottom: 12px;
+  padding: 8px 12px;
+  background: var(--paper-2);
+  border-radius: var(--radius-sm);
+}
+
+.alternatives-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.alternatives-list::before {
+  content: '释义：';
+  color: var(--ink-3);
+}
+
 .popup-pronunciation {
   display: flex;
   gap: 8px;
@@ -1450,12 +1473,44 @@ body::-webkit-scrollbar-thumb:hover,
 }
 
 .popup-meaning .pos-group {
-  margin-bottom: 6px;
+  margin-bottom: 14px;
+  padding-bottom: 14px;
+  border-bottom: 1px solid var(--border);
+}
+
+.popup-meaning .pos-group:last-child {
+  border-bottom: none;
+  margin-bottom: 0;
+  padding-bottom: 0;
 }
 
 .popup-meaning .pos-label {
   color: var(--teal);
   font-weight: 600;
+  margin-bottom: 4px;
+}
+
+.popup-meaning .pos-chinese {
+  font-size: 14px;
+  color: var(--ink-1);
+  margin-bottom: 4px;
+}
+
+.popup-meaning .pos-english {
+  font-size: 13px;
+  color: var(--ink-2);
+  margin-bottom: 4px;
+}
+
+.popup-meaning .pos-example {
+  font-size: 13px;
+  color: var(--ink-3);
+  margin-bottom: 2px;
+}
+
+.popup-meaning .pos-trans {
+  font-size: 13px;
+  color: var(--ink-3);
 }
 
 .popup-examples {

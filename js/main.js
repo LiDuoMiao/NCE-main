@@ -65,6 +65,8 @@ class ReadingSystem {
     this.lyricsBound = false;
     this.lrcCache = new Map();
     this.audioPreload = new Map();
+    // 翻译缓存，避免重复翻译相同内容
+    this.translateCache = new Map();
 
     this.init();
   }
@@ -860,6 +862,83 @@ class ReadingSystem {
     return ReadingSystem.POS_LABELS[pos.toLowerCase()] || pos;
   }
 
+  // 获取完整的词性标签
+  getPosFullLabel(pos) {
+    const labels = {
+      'noun': '名词',
+      'verb': '动词',
+      'adjective': '形容词',
+      'adverb': '副词',
+      'pronoun': '代词',
+      'preposition': '介词',
+      'conjunction': '连词',
+      'interjection': '感叹词',
+      'determiner': '限定词',
+      'phrase': '短语'
+    };
+    return labels[pos.toLowerCase()] || pos;
+  }
+
+  // 使用 LibreTranslate API 翻译短句为中文（带缓存）
+  async translateToChinese(text) {
+    if (!text || !text.trim()) return Promise.resolve('');
+
+    // 检查缓存
+    if (this.translateCache.has(text)) {
+      return this.translateCache.get(text);
+    }
+
+    try {
+      const response = await fetch('http://localhost:5001/translate', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          q: text,
+          source: 'en',
+          target: 'zh'
+        })
+      });
+      if (!response.ok) return null;
+      const data = await response.json();
+      const result = data.translatedText || null;
+
+      // 存入缓存
+      if (result) {
+        this.translateCache.set(text, result);
+      }
+
+      return result;
+    } catch (e) {
+      // 忽略错误
+    }
+    return null;
+  }
+
+  // 使用 LibreTranslate API 翻译单词并获取 alternatives
+  async translateWordWithAlternatives(word) {
+    try {
+      const response = await fetch('http://localhost:5001/translate', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          q: word,
+          source: 'en',
+          target: 'zh',
+          alternatives: 5
+        })
+      });
+      if (!response.ok) return null;
+      const data = await response.json();
+      return {
+        translatedText: data.translatedText || '',
+        alternatives: data.alternatives || []
+      };
+    } catch (e) {
+      // 忽略错误
+    }
+    return null;
+  }
+
   async fetchTranslation(word) {
     const popup = qs('#wordPopup');
     if (!popup) return;
@@ -868,19 +947,32 @@ class ReadingSystem {
     const posEl = popup.querySelector('.popup-pos');
     const meaningEl = popup.querySelector('.popup-meaning');
     const examplesEl = popup.querySelector('.popup-examples');
+    const alternativesEl = popup.querySelector('.popup-alternatives');
+
+    // 先清空所有内容，避免缓存问题
+    if (phoneticEl) phoneticEl.innerHTML = '';
+    if (posEl) posEl.textContent = '';
+    if (meaningEl) meaningEl.innerHTML = '';
+    if (examplesEl) examplesEl.innerHTML = '';
+    if (alternativesEl) alternativesEl.innerHTML = '';
+
+    // 显示加载状态
+    if (phoneticEl) phoneticEl.innerHTML = '<span class="loading-text">加载中...</span>';
+    if (meaningEl) meaningEl.innerHTML = '<span class="loading-text">加载翻译...</span>';
 
     try {
-      // 并行调用两个 API
-      const [dictResponse, myMemoryResponse] = await Promise.all([
+      // 并行调用两个主 API
+      const [dictResponse, wordTranslateResult] = await Promise.all([
         fetch(`https://api.dictionaryapi.dev/api/v2/entries/en/${encodeURIComponent(word)}`),
-        fetch(`https://api.mymemory.translated.net/get?q=${encodeURIComponent(word)}&langpair=en|zh-CN`)
+        this.translateWordWithAlternatives(word)
       ]);
 
       let ukPhonetic = '';
       let usPhonetic = '';
       let pos = '';
       let examples = [];
-      let chineseTranslation = '';
+      let wordTranslation = '';
+      let wordAlternatives = [];
 
       // 按词性分组的中文释义
       let meaningsByPos = {};
@@ -889,12 +981,12 @@ class ReadingSystem {
       // 解析 Free Dictionary API 响应
       if (dictResponse.ok) {
         const dictData = await dictResponse.json();
+        console.log('Free Dictionary API 响应:', JSON.stringify(dictData, null, 2));
         if (dictData && dictData.length > 0) {
           const entry = dictData[0];
 
           // 获取各语言的音标
           if (entry.phonetics && entry.phonetics.length > 0) {
-            // 查找UK和US音标
             entry.phonetics.forEach(ph => {
               if (ph.text) {
                 if (ph.text.includes('UK') || ph.text.includes('/kə/')) {
@@ -904,7 +996,6 @@ class ReadingSystem {
                 }
               }
             });
-            // 如果没找到分别的，使用通用音标
             if (!ukPhonetic || !usPhonetic) {
               const ph = entry.phonetics.find(p => p.text);
               if (ph && ph.text) {
@@ -914,7 +1005,6 @@ class ReadingSystem {
             }
           }
 
-          // 获取默认音标
           if (!ukPhonetic && entry.phonetic) ukPhonetic = entry.phonetic;
           if (!usPhonetic && entry.phonetic) usPhonetic = entry.phonetic;
 
@@ -928,7 +1018,9 @@ class ReadingSystem {
               meaning.definitions.forEach(def => {
                 meaningsByPos[posText].push({
                   definition: def.definition,
-                  example: def.example || ''
+                  chineseDefinition: null,
+                  example: def.example || '',
+                  chineseExample: null
                 });
               });
             });
@@ -940,7 +1032,7 @@ class ReadingSystem {
             pos = posKeys.map(p => `${this.getPosLabel(p)} (${p})`).join(' | ');
           }
 
-          // 收集例句（英文例句）
+          // 收集例句
           examples = [];
           posKeys.forEach(p => {
             meaningsByPos[p].forEach(m => {
@@ -950,38 +1042,24 @@ class ReadingSystem {
             });
           });
           examples = examples.slice(0, 3);
+
+          // 限制每个 POS 只翻译前 2 个定义
+          const MAX_DEFS_PER_POS = 2;
+          for (const posKey of posKeys) {
+            meaningsByPos[posKey] = meaningsByPos[posKey].slice(0, MAX_DEFS_PER_POS);
+          }
         }
       }
 
-      // 解析 MyMemory API 响应（用于中文翻译）
-      let myMemoryTranslation = '';
-      if (myMemoryResponse.ok) {
-        const myMemoryData = await myMemoryResponse.json();
-        if (myMemoryData.responseStatus === 200 && myMemoryData.responseData) {
-          const translation = myMemoryData.responseData.translatedText;
-          // 移除拼音 [xxx] 格式
-          myMemoryTranslation = translation.replace(/\s*\[[^\]]+\]$/, '').trim();
-        }
+      // 解析 LibreTranslate API 响应（单词中文翻译）
+      if (wordTranslateResult) {
+        console.log('LibreTranslate API 响应 (单词翻译):', JSON.stringify(wordTranslateResult, null, 2));
+        wordTranslation = wordTranslateResult.translatedText || '';
+        wordAlternatives = wordTranslateResult.alternatives || [];
       }
 
-      // 构建按词性分组的中文释义显示
-      if (Object.keys(meaningsByPos).length > 0) {
-        // 如果有多个词性，按词性分组显示中文释义
-        const groupedMeanings = [];
-        posKeys.forEach(posKey => {
-          const defs = meaningsByPos[posKey];
-          const defsText = defs.map(d => d.definition).join('；');
-          const posLabel = this.getPosLabel(posKey);
-          groupedMeanings.push(`<div class="pos-group"><span class="pos-label">【${posLabel}】</span>${defsText}</div>`);
-        });
-        chineseTranslation = groupedMeanings.join('');
-      } else if (myMemoryTranslation) {
-        chineseTranslation = myMemoryTranslation;
-      } else {
-        chineseTranslation = '未找到翻译';
-      }
-
-      // 更新 UI - 显示 EN 🔊 /音标/  US 🔊 /音标/
+      // ========== 第一阶段：立即显示已获取的内容 ==========
+      // 显示音标
       if (phoneticEl) {
         phoneticEl.innerHTML = `
           <span class="pron-item">
@@ -996,11 +1074,22 @@ class ReadingSystem {
           </span>
         `;
       }
-      if (posEl) posEl.textContent = pos;
-      if (meaningEl) meaningEl.innerHTML = chineseTranslation || '未找到翻译';
-      if (examplesEl && examples.length > 0) {
-        examplesEl.innerHTML = examples.map(ex => `<div class="example">${ex}</div>`).join('');
+
+      // 显示 alternatives
+      if (alternativesEl) {
+        if (wordAlternatives && wordAlternatives.length > 0) {
+          alternativesEl.innerHTML = `<div class="alternatives-list">${wordAlternatives.join(' | ')}</div>`;
+        } else {
+          alternativesEl.innerHTML = '';
+        }
       }
+
+      // 显示英文释义（不等待中文翻译）
+      if (posEl) posEl.textContent = '';
+      if (meaningEl) {
+        meaningEl.innerHTML = this.buildEnglishMeaningsHTML(word, wordTranslation, meaningsByPos, posKeys);
+      }
+      if (examplesEl) examplesEl.innerHTML = '';
 
       // 重新绑定发音按钮事件
       const pronBtns = popup.querySelectorAll('.pron-btn');
@@ -1015,9 +1104,131 @@ class ReadingSystem {
         });
       });
 
+      // ========== 第二阶段：后台翻译，完成后更新中文释义 ==========
+      this.translateAndUpdateMeanings(word, meaningsByPos, posKeys, wordTranslation);
+
     } catch (error) {
       console.error('翻译 API 调用失败:', error);
       if (meaningEl) meaningEl.textContent = '网络错误，请检查网络连接';
+    }
+  }
+
+  // 构建英文释义HTML（不含中文，用于第一阶段显示）
+  buildEnglishMeaningsHTML(word, wordTranslation, meaningsByPos, posKeys) {
+    if (Object.keys(meaningsByPos).length > 0) {
+      const groupedMeanings = [];
+      posKeys.forEach(posKey => {
+        const defs = meaningsByPos[posKey];
+        const firstDef = defs[0];
+        const posFull = this.getPosFullLabel(posKey);
+        const englishDef = firstDef?.definition || '';
+        const englishExample = firstDef?.example || '';
+
+        let html = `<div class="pos-group">`;
+        html += `<div class="pos-label">${posFull} (${posKey})</div>`;
+        html += `<div class="pos-english">英文释义：${englishDef || wordTranslation || ''}</div>`;
+        if (englishExample) {
+          html += `<div class="pos-example">例句：${englishExample}</div>`;
+        }
+        html += `<div class="pos-chinese loading">中文：加载中...</div>`;
+        html += `</div>`;
+        groupedMeanings.push(html);
+      });
+      return groupedMeanings.join('');
+    } else if (wordTranslation) {
+      return `<div class="pos-group"><div class="pos-chinese loading">中文：${wordTranslation}</div></div>`;
+    } else {
+      return '<div class="pos-group">未找到翻译</div>';
+    }
+  }
+
+  // 后台翻译释义，完成后更新UI
+  async translateAndUpdateMeanings(word, meaningsByPos, posKeys, wordTranslation) {
+    const popup = qs('#wordPopup');
+    if (!popup) return;
+
+    const meaningEl = popup.querySelector('.popup-meaning');
+
+    // 收集所有待翻译文本
+    const textsToTranslate = [];
+    const textMappings = [];
+
+    for (const posKey of posKeys) {
+      for (const def of meaningsByPos[posKey]) {
+        if (def.definition) {
+          textsToTranslate.push(def.definition);
+          textMappings.push({ def, field: 'chineseDefinition' });
+        } else {
+          textsToTranslate.push('');
+          textMappings.push({ def, field: 'chineseDefinition', isEmpty: true });
+        }
+        if (def.example) {
+          textsToTranslate.push(def.example);
+          textMappings.push({ def, field: 'chineseExample' });
+        } else if (def.definition) {
+          textsToTranslate.push('');
+          textMappings.push({ def, field: 'chineseExample', isEmpty: true });
+        }
+      }
+    }
+
+    // 过滤空文本，只保留有效翻译任务
+    const validMappings = textMappings.filter((m, i) => textsToTranslate[i] !== '');
+
+    try {
+      // 一次翻译所有文本
+      const combinedText = textsToTranslate.join('\n');
+      const translatedResult = await this.translateToChinese(combinedText);
+
+      console.log('翻译结果:', translatedResult);
+
+      // 拆分结果并写回
+      if (translatedResult) {
+        const translatedParts = translatedResult.split('\n');
+        let validIndex = 0;
+        translatedParts.forEach((t, i) => {
+          if (textMappings[i] && !textMappings[i].isEmpty) {
+            textMappings[i].def[textMappings[i].field] = t;
+          }
+        });
+      }
+
+      // ========== 第三阶段：用翻译结果更新UI ==========
+      if (Object.keys(meaningsByPos).length > 0) {
+        const groupedMeanings = [];
+        posKeys.forEach(posKey => {
+          const defs = meaningsByPos[posKey];
+          const firstDef = defs[0];
+          const posFull = this.getPosFullLabel(posKey);
+
+          const chineseWord = firstDef?.chineseDefinition || wordTranslation || '';
+          const englishDef = firstDef?.definition || '';
+          const chineseExample = firstDef?.chineseExample || '';
+          const englishExample = firstDef?.example || '';
+
+          let html = `<div class="pos-group">`;
+          html += `<div class="pos-label">${posFull} (${posKey})</div>`;
+          html += `<div class="pos-chinese">中文：${chineseWord}</div>`;
+          html += `<div class="pos-english">英文释义：${englishDef}</div>`;
+          if (englishExample) {
+            html += `<div class="pos-example">例句：${englishExample}</div>`;
+            if (chineseExample) {
+              html += `<div class="pos-trans">翻译：${chineseExample}</div>`;
+            }
+          }
+          html += `</div>`;
+          groupedMeanings.push(html);
+        });
+        if (meaningEl) meaningEl.innerHTML = groupedMeanings.join('');
+      } else if (wordTranslation) {
+        if (meaningEl) meaningEl.innerHTML = `<div class="pos-group"><div class="pos-chinese">中文：${wordTranslation}</div></div>`;
+      }
+    } catch (error) {
+      console.error('释义翻译失败:', error);
+      // 翻译失败时显示英文释义
+      if (meaningEl) {
+        meaningEl.innerHTML = this.buildEnglishMeaningsHTML(word, wordTranslation, meaningsByPos, posKeys).replace('加载中...', '翻译失败');
+      }
     }
   }
 

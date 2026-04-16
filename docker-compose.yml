@@ -1,0 +1,20 @@
+version: '3'
+services:
+  libretranslate:
+    container_name: libretranslate
+    image: libretranslate/libretranslate:latest
+    ports:
+      - "5001:5000"
+    restart: unless-stopped
+    # 👇 这一行是关键！个人电脑最强优化！
+    command: >
+      --load-only en,zh
+      --batch-limit 20
+      --threads 4
+      --req-limit -1
+      --char-limit -1
+    volumes:
+      - lt_models:/home/libretranslate/.local
+
+volumes:
+  lt_models:
