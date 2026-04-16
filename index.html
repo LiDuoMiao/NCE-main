@@ -8,231 +8,223 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport"
-        content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
-  <meta name="description" content="新概念英语 New Concept English 听力与课文播放器，支持课本选择、课程列表、逐句播放与中英对照。" />
-  <meta name="robots" content="index,follow,max-image-preview:large" />
-  <link rel="canonical" href="https://nce.ichochy.com/" />
-  <meta name="apple-mobile-web-app-capable" content="yes" />
-  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-  <meta name="theme-color" content="#f7f3ee" media="(prefers-color-scheme: light)" />
-  <meta name="theme-color" content="#0f1317" media="(prefers-color-scheme: dark)" />
-  <link rel="icon" href="favicon.png" type="image/png">
-  <link rel="apple-touch-icon" href="favicon.png">
-  <meta property="og:locale" content="zh_CN" />
-  <meta property="og:type" content="website" />
-  <meta property="og:site_name" content="新概念英语 NCE" />
-  <meta property="og:title" content="新概念英语 NCE 听力播放器 | New Concept English" />
-  <meta property="og:description" content="新概念英语 New Concept English 听力与课文播放器，支持课本选择、课程列表、逐句播放与中英对照。" />
-  <meta property="og:url" content="https://nce.ichochy.com/" />
-  <meta property="og:image" content="https://nce.ichochy.com/screenshot/pc.png" />
-  <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="新概念英语 NCE 听力播放器 | New Concept English" />
-  <meta name="twitter:description" content="新概念英语 New Concept English 听力与课文播放器，支持课本选择、课程列表、逐句播放与中英对照。" />
-  <meta name="twitter:image" content="https://nce.ichochy.com/screenshot/pc.png" />
-  <title>新概念英语 NCE 听力播放器 | New Concept English</title>
-  <link rel="stylesheet" href="css/style.css" />
-  <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "WebSite",
-      "name": "新概念英语 NCE",
-      "url": "https://nce.ichochy.com/",
-      "description": "新概念英语 New Concept English 听力与课文播放器，支持课本选择、课程列表、逐句播放与中英对照。",
-      "inLanguage": "zh-CN"
-    }
-  </script>
-  <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "WebApplication",
-      "name": "新概念英语 NCE 听力播放器",
-      "url": "https://nce.ichochy.com/",
-      "applicationCategory": "EducationApplication",
-      "operatingSystem": "All",
-      "isAccessibleForFree": true,
-      "description": "新概念英语 New Concept English 听力与课文播放器，支持课本选择、课程列表、逐句播放与中英对照。",
-      "inLanguage": "zh-CN",
-      "image": "https://nce.ichochy.com/screenshot/pc.png"
-    }
-  </script>
+    <meta charset="UTF-8"/>
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover"/>
+    <meta name="description"
+          content="新概念英语 New Concept English 听力与课文播放器，支持课本选择、课程列表、逐句播放与中英对照。"/>
+    <meta name="robots" content="index,follow,max-image-preview:large"/>
+    <link rel="canonical" href="https://nce.ichochy.com/"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+    <meta name="theme-color" content="#f7f3ee" media="(prefers-color-scheme: light)"/>
+    <meta name="theme-color" content="#0f1317" media="(prefers-color-scheme: dark)"/>
+    <link rel="icon" href="favicon.png" type="image/png">
+    <link rel="apple-touch-icon" href="favicon.png">
+    <meta property="og:locale" content="zh_CN"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:site_name" content="新概念英语 NCE"/>
+    <meta property="og:title" content="新概念英语 NCE 听力播放器 | New Concept English"/>
+    <meta property="og:description"
+          content="新概念英语 New Concept English 听力与课文播放器，支持课本选择、课程列表、逐句播放与中英对照。"/>
+    <meta property="og:url" content="https://nce.ichochy.com/"/>
+    <meta property="og:image" content="https://nce.ichochy.com/screenshot/pc.png"/>
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:title" content="新概念英语 NCE 听力播放器 | New Concept English"/>
+    <meta name="twitter:description"
+          content="新概念英语 New Concept English 听力与课文播放器，支持课本选择、课程列表、逐句播放与中英对照。"/>
+    <meta name="twitter:image" content="https://nce.ichochy.com/screenshot/pc.png"/>
+    <title>新概念英语 NCE 听力播放器 | New Concept English</title>
+    <link rel="stylesheet" href="css/style.css"/>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+    <script>
+        // 设置 pdf.js worker
+        pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+    </script>
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "WebSite",
+            "name": "新概念英语 NCE",
+            "url": "https://nce.ichochy.com/",
+            "description": "新概念英语 New Concept English 听力与课文播放器，支持课本选择、课程列表、逐句播放与中英对照。",
+            "inLanguage": "zh-CN"
+        }
+    </script>
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "WebApplication",
+            "name": "新概念英语 NCE 听力播放器",
+            "url": "https://nce.ichochy.com/",
+            "applicationCategory": "EducationApplication",
+            "operatingSystem": "All",
+            "isAccessibleForFree": true,
+            "description": "新概念英语 New Concept English 听力与课文播放器，支持课本选择、课程列表、逐句播放与中英对照。",
+            "inLanguage": "zh-CN",
+            "image": "https://nce.ichochy.com/screenshot/pc.png"
+        }
+    </script>
 </head>
 <body>
 <div id="app">
-  <header class="app-header">
-    <div class="header-content">
-      <h1>新概念英语</h1>
-      <p class="subtitle">New Concept English</p>
-    </div>
-    <div class="header-actions">
-      <span class="select-label">选择课本</span>
-      <label class="header-book-select">
-        <select class="book-select" id="bookSelect">
-          <option value="">选择课本</option>
-        </select>
-      </label>
-      <span class="status-pill"><a href="https://ichochy.com" target="_blank">Blog</a></span>
-      <button id="themeToggle" class="theme-toggle" aria-label="切换主题">
-      <svg class="sun-icon" width="20" height="20" viewBox="0 0 20 20" fill="none">
-        <circle cx="10" cy="10" r="4" stroke="currentColor" stroke-width="1.5" />
-        <path
-          d="M10 2V4M10 16V18M18 10H16M4 10H2M15.66 15.66L14.24 14.24M5.76 5.76L4.34 4.34M15.66 4.34L14.24 5.76M5.76 14.24L4.34 15.66"
-          stroke="currentColor" stroke-width="1.5" stroke-linecap="round" />
-      </svg>
-      <svg class="moon-icon" width="20" height="20" viewBox="0 0 20 20" fill="none">
-        <path
-          d="M17.5 11.18C16.82 11.39 16.11 11.5 15.37 11.5C11.47 11.5 8.31 8.34 8.31 4.44C8.31 3.7 8.42 2.99 8.63 2.31C5.46 3.07 3 5.92 3 9.37C3 13.27 6.16 16.43 10.06 16.43C13.51 16.43 16.36 13.97 17.12 10.8"
-          stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-      </svg>
-      </button>
-    </div>
-  </header>
+    <header class="app-header">
+        <div class="header-content">
+            <h1>新概念英语</h1>
+            <p class="subtitle">New Concept English</p>
+        </div>
+        <div class="header-actions">
+            <span class="select-label">选择课本</span>
+            <label class="header-book-select">
+                <select class="book-select" id="bookSelect">
+                    <option value="">选择课本</option>
+                </select>
+            </label>
+            <span class="status-pill"><a href="https://ichochy.com" target="_blank">Blog</a></span>
+            <button id="themeToggle" class="theme-toggle" aria-label="切换主题">
+                <svg class="sun-icon" width="20" height="20" viewBox="0 0 20 20" fill="none">
+                    <circle cx="10" cy="10" r="4" stroke="currentColor" stroke-width="1.5"/>
+                    <path
+                            d="M10 2V4M10 16V18M18 10H16M4 10H2M15.66 15.66L14.24 14.24M5.76 5.76L4.34 4.34M15.66 4.34L14.24 5.76M5.76 14.24L4.34 15.66"
+                            stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+                </svg>
+                <svg class="moon-icon" width="20" height="20" viewBox="0 0 20 20" fill="none">
+                    <path
+                            d="M17.5 11.18C16.82 11.39 16.11 11.5 15.37 11.5C11.47 11.5 8.31 8.34 8.31 4.44C8.31 3.7 8.42 2.99 8.63 2.31C5.46 3.07 3 5.92 3 9.37C3 13.27 6.16 16.43 10.06 16.43C13.51 16.43 16.36 13.97 17.12 10.8"
+                            stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+            </button>
+        </div>
+    </header>
 
-  <div class="container">
-    <!-- 左侧：Unit列表（桌面端） -->
-    <aside class="unit-list desktop-only">
-      <h2>课程列表</h2>
-      <div id="unitListContainer"></div>
-    </aside>
+    <div class="container">
+        <!-- 左侧：Unit列表（桌面端） -->
+        <aside class="unit-list desktop-only">
+            <h2>课程列表</h2>
+            <div id="unitListContainer"></div>
+        </aside>
 
-    <!-- 右侧：课本选择 + 播放器和歌词 -->
-    <div class="player-column">
-      <main class="player-section">
-        <div class="book-info">
-          <img id="bookCover" src="" alt="课本封面" class="book-cover" />
-          <div class="unit-info">
-            <div class="book-title-row">
-              <h2 id="bookName" class="book-name"></h2>
-              <p id="bookLevel" class="book-level"></p>
+        <!-- 右侧：课本选择 + 播放器和歌词 -->
+        <div class="player-column">
+            <main class="player-section">
+                <div class="book-info">
+                    <img id="bookCover" src="" alt="课本封面" class="book-cover"/>
+                    <div class="unit-info">
+                        <div class="book-title-row">
+                            <h2 id="bookName" class="book-name"></h2>
+                            <p id="bookLevel" class="book-level"></p>
+                        </div>
+                    </div>
+                    <span class="select-label">选择课程</span>
+                    <label class="unit-select-label">
+                        <select id="unitSelect" class="unit-select">
+                            <option value="">选择 Unit</option>
+                        </select>
+                    </label>
+                </div>
+
+                <!-- 上一课/下一课导航按钮 -->
+                <section class="control-panel" aria-label="课程与播放控制区">
+                    <div class="navigation-buttons">
+                        <button id="prevUnitBtn" class="nav-btn prev-btn" title="上一课">
+                            <svg width="16" height="16" viewBox="0 0 20 20" fill="none">
+                                <path d="M12 16L7 11L12 6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                      stroke-linejoin="round"/>
+                            </svg>
+                        </button>
+                        <button id="playPauseBtn" class="play-btn" aria-label="播放或暂停" disabled>
+                            <svg class="play-icon" width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+                                <path d="M8 5v14l11-7z"/>
+                            </svg>
+                            <svg class="pause-icon" width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+                                <path d="M6 4h4v16H6V4zm8 0h4v16h-4V4z"/>
+                            </svg>
+                        </button>
+
+                        <button id="nextUnitBtn" class="nav-btn next-btn" title="下一课">
+                            <svg width="16" height="16" viewBox="0 0 20 20" fill="none">
+                                <path d="M8 4L13 9L8 14" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                      stroke-linejoin="round"/>
+                            </svg>
+                        </button>
+                        <button id="speedBtn" class="speed-btn" title="播放速度">
+                            <span id="speedText">1.0x</span>
+                        </button>
+                        <button id="toggleTranslationBtn" class="toggle-translation-btn" type="button"
+                                aria-pressed="false">
+                            中
+                        </button>
+                        <!-- 播放模式控制 -->
+                        <button id="playModeBtn" class="play-mode-btn" type="button" title="单句点读"
+                                aria-label="单句点读" aria-pressed="false">
+                            <svg class="mode-icon" width="18" height="18" viewBox="0 0 18 18" fill="none"
+                                 aria-hidden="true">
+                                <g class="single-icon">
+                                    <path d="M10.4 5.1L14 9l-3.6 3.9" stroke="currentColor" stroke-width="1.8"
+                                          stroke-linecap="round" stroke-linejoin="round"/>
+                                    <path d="M4.4 9h8.8" stroke="currentColor" stroke-width="1.8"
+                                          stroke-linecap="round"/>
+                                    <circle cx="4.5" cy="4.7" r="2.1" stroke="currentColor" stroke-width="1.4"/>
+                                    <path d="M4.2 3.8h.7v1.9" stroke="currentColor" stroke-width="1.2"
+                                          stroke-linecap="round" stroke-linejoin="round"/>
+                                </g>
+                                <g class="continuous-icon">
+                                    <path d="M5 5.2h6.1c1.2 0 2.2 1 2.2 2.2v.6" stroke="currentColor" stroke-width="1.8"
+                                          stroke-linecap="round" stroke-linejoin="round"/>
+                                    <path d="M11.7 3.8L13.9 6l-2.2 2.2" stroke="currentColor" stroke-width="1.8"
+                                          stroke-linecap="round" stroke-linejoin="round"/>
+                                    <path d="M13 12.8H6.9c-1.2 0-2.2-1-2.2-2.2V10" stroke="currentColor"
+                                          stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+                                    <path d="M6.3 15.2L4.1 13l2.2-2.2" stroke="currentColor" stroke-width="1.8"
+                                          stroke-linecap="round" stroke-linejoin="round"/>
+                                </g>
+                            </svg>
+                        </button>
+                    </div>
+                    <!-- 音频播放器 -->
+                    <div class="audio-player">
+                        <audio id="audioPlayer"></audio>
+                        <div class="progress-container">
+                            <div class="progress-bar" id="progressBar">
+                                <div class="progress-fill" id="progressFill"></div>
+                                <div class="progress-handle" id="progressHandle"></div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- 歌词显示区域 -->
+                <section class="lyrics-container" aria-label="双语歌词区">
+                    <div id="lyricsDisplay" class="lyrics-display">
+                        <p class="placeholder">选择一个Unit开始学习...</p>
+                    </div>
+                </section>
+            </main>
+        </div>
+
+        <!-- 新增：右侧 PDF 预览区 -->
+        <aside class="pdf-viewer desktop-only">
+            <div id="pdfContainer">
+                <div class="pdf-placeholder">选择一个课本开始学习...</div>
             </div>
-          </div>
-          <span class="select-label">选择课程</span>
-          <label class="unit-select-label">
-            <select id="unitSelect" class="unit-select">
-              <option value="">选择 Unit</option>
-            </select>
-          </label>
-        </div>
-
-      <!-- 上一课/下一课导航按钮 -->
-      <section class="control-panel" aria-label="课程与播放控制区">
-        <div class="navigation-buttons">
-        <button id="prevUnitBtn" class="nav-btn prev-btn" title="上一课">
-          <svg width="16" height="16" viewBox="0 0 20 20" fill="none">
-            <path d="M12 16L7 11L12 6" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                  stroke-linejoin="round" />
-          </svg>
-        </button>
-            <button id="playPauseBtn" class="play-btn" aria-label="播放或暂停" disabled>
-            <svg class="play-icon" width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
-              <path d="M8 5v14l11-7z" />
-            </svg>
-            <svg class="pause-icon" width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
-              <path d="M6 4h4v16H6V4zm8 0h4v16h-4V4z" />
-            </svg>
-          </button>
-
-        <button id="nextUnitBtn" class="nav-btn next-btn" title="下一课">
-          <svg width="16" height="16" viewBox="0 0 20 20" fill="none">
-            <path d="M8 4L13 9L8 14" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                  stroke-linejoin="round" />
-          </svg>
-        </button>
-        <button id="speedBtn" class="speed-btn" title="播放速度">
-          <span id="speedText">1.0x</span>
-        </button>
-          <button id="toggleTranslationBtn" class="toggle-translation-btn" type="button" aria-pressed="false">
-            中
-          </button>
-          <!-- 播放模式控制 -->
-          <button id="playModeBtn" class="play-mode-btn" type="button" title="单句点读" aria-label="单句点读" aria-pressed="false">
-          <svg class="mode-icon" width="18" height="18" viewBox="0 0 18 18" fill="none" aria-hidden="true">
-            <g class="single-icon">
-              <path d="M10.4 5.1L14 9l-3.6 3.9" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
-              <path d="M4.4 9h8.8" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" />
-              <circle cx="4.5" cy="4.7" r="2.1" stroke="currentColor" stroke-width="1.4" />
-              <path d="M4.2 3.8h.7v1.9" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" />
-            </g>
-            <g class="continuous-icon">
-              <path d="M5 5.2h6.1c1.2 0 2.2 1 2.2 2.2v.6" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
-              <path d="M11.7 3.8L13.9 6l-2.2 2.2" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
-              <path d="M13 12.8H6.9c-1.2 0-2.2-1-2.2-2.2V10" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
-              <path d="M6.3 15.2L4.1 13l2.2-2.2" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
-            </g>
-          </svg>
-        </button>
-        </div>
-        <!-- 音频播放器 -->
-        <div class="audio-player">
-          <audio id="audioPlayer"></audio>
-          <div class="progress-container">
-            <div class="progress-bar" id="progressBar">
-              <div class="progress-fill" id="progressFill"></div>
-              <div class="progress-handle" id="progressHandle"></div>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      <!-- 歌词显示区域 -->
-      <section class="lyrics-container" aria-label="双语歌词区">
-        <div id="lyricsDisplay" class="lyrics-display">
-          <p class="placeholder">选择一个Unit开始学习...</p>
-        </div>
-        <div class="like-and-support">
-            <p>--nce.ichochy.com--</p>
-            <p>❤️❤️❤️</p>
-            <button id="supportBtn" class="support-btn" type="button">打赏支持</button>
-        </div>
-      </section>
-      </main>
+        </aside>
     </div>
-  </div>
-
-  <footer class="footer">
-    <a  target="_blank"  href="https://ichochy.com"><span>©2026 iChochy.</span></a>
-    <a href="mailto:me@ichochy.com"><span>邮箱反馈</span></a>
-    <a  target="_blank"  href="https://github.com/iChochy/NCE"><span>GitHub</span></a>
-    <a  target="_blank"  href="https://github.com/iChochy/NCE/issues"><span>issues</span></a>
-  </footer>
 
 </div>
 
 <div id="wordPopupOverlay" class="word-popup-overlay" hidden></div>
 <div id="wordPopup" class="word-popup" hidden>
-  <div class="popup-header">
-    <span class="popup-word"></span>
-    <button id="wordPopupClose" class="popup-close">×</button>
-  </div>
-  <div class="popup-phonetic">
-    <span class="phonetic-text"></span>
-  </div>
-  <div class="popup-alternatives"></div>
-  <div class="popup-pos"></div>
-  <div class="popup-meaning"></div>
-  <div class="popup-examples"></div>
-</div>
-
-<div id="supportModal" class="support-modal" aria-hidden="true" role="dialog" aria-labelledby="supportModalTitle">
-  <div class="support-modal-card">
-    <button id="supportCloseBtn" class="support-close-btn" type="button" aria-label="关闭弹窗">×</button>
-    <h3 id="supportModalTitle">🙏🙏🙏</h3>
-    <div class="support-text">
-      <h3>请帮忙点赞、收藏和转发</h3>
-      <h4>如果内容帮到过您，求打赏一点生命值(可选)</h4>
-      <h6>工作已停，药费没停</h6>
-      <h6>80后码农×白血病(CMML)</h6>
-      <img
-              class="support-qr"
-              src="sponsor.jpg"
-              alt="赞助二维码"
-              loading="lazy"
-      />
-      <h5>感谢您的善意</h5>
+    <div class="popup-header">
+        <span class="popup-word"></span>
+        <button id="wordPopupClose" class="popup-close">×</button>
     </div>
-
-  </div>
+    <div class="popup-phonetic">
+        <span class="phonetic-text"></span>
+    </div>
+    <div class="popup-alternatives"></div>
+    <div class="popup-pos"></div>
+    <div class="popup-meaning"></div>
+    <div class="popup-examples"></div>
 </div>
 
 <script src="js/main.js"></script>
