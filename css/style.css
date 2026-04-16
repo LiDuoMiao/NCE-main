@@ -1761,7 +1761,8 @@ body::-webkit-scrollbar-thumb:hover,
 .pdf-viewer {
   width: 50%;
   flex-shrink: 0;
-  background: var(--paper);
+  background: var(--glass);
+  box-shadow: var(--shadow-md);
   border-radius: var(--radius-md);
   overflow: hidden;
   display: flex;
