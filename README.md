@@ -2,7 +2,7 @@
 # 新概念英语 · 全四册在线点读系统
 
 [![Stars](https://img.shields.io/github/stars/LiDuoMiao/nce-main.svg?style=social)](https://github.com/LiDuoMiao/NCE-main/stargazers)
-[![License](https://img.shields.io/github/license/LiDuoMiao/NCE-main)](https://github.com/LiDuoMiao/NCE-main/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/LiDuoMiao/NCE-main)](https://github.com/LiDuoMiao/NCE-main/blob/master/LICENSE)
 
 **《 New Concept English 》** 全四册在线学习系统，集课文朗读、单句点读、中英对照、单词即点即译、PDF教材同步浏览于一体，随时随地自学英语！
 
@@ -68,7 +68,7 @@
 
 - 本项目**仅供个人学习研究使用**，非商业用途。
 - 所有内容来源于互联网，我们不拥有版权。
-- 如有侵权，请联系 [me@ichochy.com](mailto:me@ichochy.com) 及时处理。
+- 如有侵权，请联系 [alexlibin.cn@gmail.com](mailto:alexlibin.cn@gmail.com)和[me@ichochy.com](mailto:me@ichochy.com) 及时处理。
 - **强烈建议**支持正版，购买官方教材与音频。
 
 ---
