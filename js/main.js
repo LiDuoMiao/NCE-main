@@ -884,6 +884,7 @@ class ReadingSystem {
 
       // 按词性分组的中文释义
       let meaningsByPos = {};
+      let posKeys = [];
 
       // 解析 Free Dictionary API 响应
       if (dictResponse.ok) {
@@ -934,7 +935,7 @@ class ReadingSystem {
           }
 
           // 设置词性标签
-          const posKeys = Object.keys(meaningsByPos);
+          posKeys = Object.keys(meaningsByPos);
           if (posKeys.length > 0) {
             pos = posKeys.map(p => `${this.getPosLabel(p)} (${p})`).join(' | ');
           }
