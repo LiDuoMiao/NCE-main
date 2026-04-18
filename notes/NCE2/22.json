@@ -1,0 +1,363 @@
+{
+  "book": "NCE2",
+  "lesson": "22",
+  "title": "How did Jane receive a letter from a stranger?",
+  "vocabulary": [
+    {
+      "word": "stranger",
+      "phonetic": "/ˈstreɪndʒə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "陌生人",
+          "usage": "指不认识的人或不太熟悉的人"
+        }
+      ]
+    },
+    {
+      "word": "receive",
+      "phonetic": "/rɪˈsiːv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "收到；接到",
+          "usage": "表示被动地收到某物，如信件、礼物等"
+        }
+      ]
+    },
+    {
+      "word": "daughter",
+      "phonetic": "/ˈdɔːtə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "女儿",
+          "usage": "指女性后代，与son（儿子）相对"
+        }
+      ]
+    },
+    {
+      "word": "dream",
+      "phonetic": "/driːm/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "做梦；梦想",
+          "usage": "dream of doing something 表示梦想做某事"
+        }
+      ]
+    },
+    {
+      "word": "travelling",
+      "phonetic": "/ˈtrævəlɪŋ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "旅行；旅游",
+          "usage": "travel的现在分词形式，表示正在进行的动作"
+        }
+      ]
+    },
+    {
+      "word": "Channel",
+      "phonetic": "/ˈtʃænl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "海峡",
+          "usage": "特指英吉利海峡（the Channel）连接英国和法国"
+        }
+      ]
+    },
+    {
+      "word": "bottle",
+      "phonetic": "/ˈbɒtl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "瓶子",
+          "usage": "通常指玻璃或塑料容器，这里指装纸条的瓶子"
+        }
+      ]
+    },
+    {
+      "word": "address",
+      "phonetic": "/əˈdres/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "地址",
+          "usage": "指居住地或通信地址"
+        }
+      ]
+    },
+    {
+      "word": "sea",
+      "phonetic": "/siː/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "海；海洋",
+          "usage": "指大面积的咸水区域"
+        }
+      ]
+    },
+    {
+      "word": "regularly",
+      "phonetic": "/ˈreɡjələli/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "定期地；经常地",
+          "usage": "表示有规律地、频繁地做某事"
+        }
+      ]
+    },
+    {
+      "word": "post office",
+      "phonetic": "/pəʊst ˈɒfɪs/",
+      "meanings": [
+        {
+          "pos": "noun phrase",
+          "meaning": "邮局",
+          "usage": "指寄送信件和包裹的机构"
+        }
+      ]
+    },
+    {
+      "word": "certainly",
+      "phonetic": "/ˈsɜːtənli/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "当然；肯定地",
+          "usage": "表示肯定、毫无疑问"
+        }
+      ]
+    },
+    {
+      "word": "faster",
+      "phonetic": "/ˈfɑːstə(r)/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "更快地",
+          "usage": "fast的比较级"
+        }
+      ]
+    },
+    {
+      "word": "throw",
+      "phonetic": "/θrəʊ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "扔；抛；投",
+          "usage": "throw into 表示扔进某处"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "never dreamed of",
+      "usage": "表示从未想过、从不敢想，用于强调意外或惊讶",
+      "examples": [
+        {
+          "en": "She never dreamed of winning the lottery.",
+          "zh": "她从未想过会中彩票。"
+        }
+      ]
+    },
+    {
+      "phrase": "put...into",
+      "usage": "把...放入...，表示将东西放进容器或地方",
+      "examples": [
+        {
+          "en": "He put the letter into the envelope.",
+          "zh": "他把信放进信封里。"
+        }
+      ]
+    },
+    {
+      "phrase": "throw into",
+      "usage": "把...扔进...，强调动作的方向性",
+      "examples": [
+        {
+          "en": "She threw the bottle into the sea.",
+          "zh": "她把瓶子扔进了海里。"
+        }
+      ]
+    },
+    {
+      "phrase": "think of",
+      "usage": "想起；想到；考虑",
+      "examples": [
+        {
+          "en": "I often think of my childhood.",
+          "zh": "我经常想起我的童年。"
+        }
+      ]
+    },
+    {
+      "phrase": "write to",
+      "usage": "写信给...，表示通信联系",
+      "examples": [
+        {
+          "en": "I write to my parents every week.",
+          "zh": "我每周给父母写信。"
+        }
+      ]
+    },
+    {
+      "phrase": "decide to",
+      "usage": "决定做某事，表示经过思考后做出选择",
+      "examples": [
+        {
+          "en": "They decided to go camping.",
+          "zh": "他们决定去野营。"
+        }
+      ]
+    },
+    {
+      "phrase": "a little more",
+      "usage": "多一点，修饰不可数名词或形容词比较级",
+      "examples": [
+        {
+          "en": "I need a little more time.",
+          "zh": "我还需要一点时间。"
+        }
+      ]
+    },
+    {
+      "phrase": "ten months later",
+      "usage": "十个月后，表示过去某个时间点之后的时间",
+      "examples": [
+        {
+          "en": "He left home, and ten months later he returned.",
+          "zh": "他离开了家，十个月后他回来了。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "一般过去时（Simple Past Tense）",
+      "definition": "表示在过去某个特定时间发生的动作或存在的状态",
+      "structure": "主语 + 动词过去式",
+      "usage": "用于叙述过去发生的事情，如故事、经历、历史事件等",
+      "examples": [
+        {
+          "en": "Last year, we were travelling across the Channel.",
+          "zh": "去年，我们正在穿越英吉利海峡。"
+        },
+        {
+          "en": "She threw the bottle into the sea.",
+          "zh": "她把瓶子扔进了海里。"
+        },
+        {
+          "en": "Ten months later, she received a letter.",
+          "zh": "十个月后，她收到了一封信。"
+        }
+      ]
+    },
+    {
+      "title": "一般将来时（Simple Future Tense）",
+      "definition": "表示将来要发生的动作或存在的状态",
+      "structure": "主语 + will + 动词原形 / 主语 + be going to + 动词原形",
+      "usage": "用于预测、计划、承诺等将来发生的事情",
+      "examples": [
+        {
+          "en": "Letters will cost a little more.",
+          "zh": "信件将会贵一点。"
+        },
+        {
+          "en": "They will certainly travel faster.",
+          "zh": "它们肯定会走得更快。"
+        }
+      ]
+    },
+    {
+      "title": "过去进行时（Past Continuous Tense）",
+      "definition": "表示在过去某个时刻或时间段正在进行的动作",
+      "structure": "主语 + was/were + 动词-ing形式",
+      "usage": "用于描述故事发生的背景或正在进行的动作",
+      "examples": [
+        {
+          "en": "Last year, we were travelling across the Channel.",
+          "zh": "去年，我们正在穿越英吉利海峡。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "主语 + never thought of + doing something",
+      "original": {
+        "en": "She never thought of it again.",
+        "zh": "她再也没想过这件事了。"
+      },
+      "imitations": [
+        {
+          "en": "I never thought of giving up.",
+          "zh": "我从未想过放弃。"
+        },
+        {
+          "en": "He never thought of asking for help.",
+          "zh": "他从未想过请求帮助。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + receive(d) + something + from + 地点/人物",
+      "original": {
+        "en": "She received a letter from a girl in Holland.",
+        "zh": "她收到了一封来自荷兰女孩的信。"
+      },
+      "imitations": [
+        {
+          "en": "I received a gift from my friend.",
+          "zh": "我收到了朋友的一份礼物。"
+        },
+        {
+          "en": "She received a call from her mother.",
+          "zh": "她接到了她妈妈的来电。"
+        }
+      ]
+    },
+    {
+      "pattern": "Both + 主语 + 动词 + to each other regularly",
+      "original": {
+        "en": "Both girls write to each other regularly now.",
+        "zh": "现在两个女孩定期互相写信。"
+      },
+      "imitations": [
+        {
+          "en": "They talk to each other regularly.",
+          "zh": "他们定期互相交谈。"
+        },
+        {
+          "en": "We help each other regularly.",
+          "zh": "我们定期互相帮助。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + have/has decided to + 动词原形",
+      "original": {
+        "en": "They have decided to use the post office.",
+        "zh": "他们决定使用邮局。"
+      },
+      "imitations": [
+        {
+          "en": "She has decided to study abroad.",
+          "zh": "她决定出国学习。"
+        },
+        {
+          "en": "We have decided to start a business.",
+          "zh": "我们决定创业。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,377 @@
+{
+  "book": "NCE4",
+  "lesson": "08",
+  "title": "Lesson 8",
+  "vocabulary": [
+    {
+      "word": "slaughter",
+      "phonetic": "/ˈslɔːtə(r)/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "屠宰（动物）；屠杀，杀戮",
+          "usage": "可指为获取肉食宰杀牲畜，也可指暴力屠杀人类"
+        }
+      ]
+    },
+    {
+      "word": "grace",
+      "phonetic": "/ɡreɪs/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "为…增色；使优美；惠临",
+          "usage": "正式用语，常表示某物/某人为某个场合或地方增添光彩"
+        },
+        {
+          "pos": "noun",
+          "meaning": "优美；优雅；恩惠",
+          "usage": "作名词可指动作的优雅，也可指上帝的恩典或他人的宽容"
+        }
+      ]
+    },
+    {
+      "word": "fowl",
+      "phonetic": "/faʊl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "家禽（尤指鸡）；禽肉",
+          "usage": "可数名词，复数可作fowl或fowls，指家饲养的禽类，区别于野生鸟类"
+        }
+      ]
+    },
+    {
+      "word": "regulation",
+      "phonetic": "/ˌreɡjuˈleɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "法规，规定；管理，控制",
+          "usage": "表示具体规章时为可数名词，表示监管的行为时为不可数名词"
+        }
+      ]
+    },
+    {
+      "word": "tariff",
+      "phonetic": "/ˈtærɪf/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "关税；（酒店、餐馆等的）价目表",
+          "usage": "外贸语境中通常指政府对进出口商品征收的关税"
+        }
+      ]
+    },
+    {
+      "word": "razor",
+      "phonetic": "/ˈreɪzə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "剃须刀，刮胡刀",
+          "usage": "指用于刮除毛发的刀具，常见搭配有electric razor（电动剃须刀）"
+        }
+      ]
+    },
+    {
+      "word": "dialysis",
+      "phonetic": "/daɪˈæləsɪs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "透析，渗析（尤指肾透析）",
+          "usage": "医学术语，指通过过滤去除血液中废物的治疗方法，dialysis machine即透析机"
+        }
+      ]
+    },
+    {
+      "word": "electrocute",
+      "phonetic": "/ɪˈlektrəkjuːt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "使触电身亡；以电刑处死",
+          "usage": "指电流通过人体导致死亡，被动形式be electrocuted十分常用"
+        }
+      ]
+    },
+    {
+      "word": "eliminate",
+      "phonetic": "/ɪˈlɪmɪneɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "消除，排除；淘汰",
+          "usage": "强调完全去除不需要的事物，可接抽象名词如need、difficulty，也可表示比赛中淘汰队伍"
+        }
+      ]
+    },
+    {
+      "word": "summit",
+      "phonetic": "/ˈsʌmɪt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "首脑会议，峰会；山顶，顶峰",
+          "usage": "国际政治经济语境中常指最高领导人之间的正式会议"
+        }
+      ]
+    },
+    {
+      "word": "negotiator",
+      "phonetic": "/nɪˈɡəʊʃieɪtə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "谈判代表，协商者",
+          "usage": "指参与正式谈判的人员，来自动词negotiate（谈判）"
+        }
+      ]
+    },
+    {
+      "word": "optimistic",
+      "phonetic": "/ˌɒptɪˈmɪstɪk/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "乐观的，抱积极态度的",
+          "usage": "常搭配介词about，表示对某事持乐观态度，反义词为pessimistic"
+        }
+      ]
+    },
+    {
+      "word": "accord",
+      "phonetic": "/əˈkɔːd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "协议，条约；一致，符合",
+          "usage": "正式用语，指国家或组织之间的正式协定，常见搭配reach an accord（达成协议）"
+        },
+        {
+          "pos": "verb",
+          "meaning": "与…一致，符合；给予",
+          "usage": "作动词时可接with表示与某事一致，也可接双宾语表示授予某人某物"
+        }
+      ]
+    },
+    {
+      "word": "pact",
+      "phonetic": "/pækt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "协定，契约，盟约",
+          "usage": "正式用语，指两方或多方之间的正式约定，语气比agreement更严肃"
+        }
+      ]
+    },
+    {
+      "word": "continental",
+      "phonetic": "/ˌkɒntɪˈnentl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "欧洲大陆的；大陆的，大洲的",
+          "usage": "英式英语中常用来指除英国群岛之外的欧洲大陆的"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "put sand in the wheels of",
+      "usage": "非正式表达，比喻阻碍、阻挠某件事的顺利进行",
+      "examples": [
+        {
+          "en": "Strict visa rules put sand in the wheels of international academic exchanges.",
+          "zh": "严格的签证规定阻碍了国际学术交流的顺利进行。"
+        }
+      ]
+    },
+    {
+      "phrase": "meet ... standards",
+      "usage": "表示达到、符合某一标准，中间可接修饰标准的形容词或名词",
+      "examples": [
+        {
+          "en": "All our products meet the national environmental protection standards.",
+          "zh": "我们所有的产品都符合国家环保标准。"
+        }
+      ]
+    },
+    {
+      "phrase": "hit the market",
+      "usage": "指产品上市、进入市场销售，为非正式常用表达",
+      "examples": [
+        {
+          "en": "The new generation of smartphones will hit the market next month.",
+          "zh": "新一代智能手机将于下月上市。"
+        }
+      ]
+    },
+    {
+      "phrase": "as it happens",
+      "usage": "用作插入语，表示“碰巧，恰恰，实际上”，用来引出与话题相关的真实情况",
+      "examples": [
+        {
+          "en": "As it happens, I have the very book you are looking for in my bag.",
+          "zh": "真巧，我包里正好有你在找的那本书。"
+        }
+      ]
+    },
+    {
+      "phrase": "in principle",
+      "usage": "表示“原则上，大体上”，指在基本观点上同意，但细节尚未确定",
+      "examples": [
+        {
+          "en": "The board has approved the project in principle, but we still need to adjust the budget details.",
+          "zh": "董事会原则上批准了这个项目，但我们还需要调整预算细节。"
+        }
+      ]
+    },
+    {
+      "phrase": "in time for",
+      "usage": "表示“及时赶上，刚好来得及”做某事，后接名词或动名词",
+      "examples": [
+        {
+          "en": "We hurried to the station and arrived just in time for the last train.",
+          "zh": "我们匆忙赶到车站，刚好赶上最后一班火车。"
+        }
+      ]
+    },
+    {
+      "phrase": "be hard-pressed to do sth",
+      "usage": "表示做某事有很大困难，很难做成某事",
+      "examples": [
+        {
+          "en": "You would be hard-pressed to find a better coffee shop than this one in the whole city.",
+          "zh": "你很难在整个城市里找到比这家更好的咖啡店了。"
+        }
+      ]
+    },
+    {
+      "phrase": "hammer out",
+      "usage": "表示经过反复讨论、艰难谈判后最终制定出（方案、协议等）",
+      "examples": [
+        {
+          "en": "The two sides spent three days hammering out a compromise acceptable to everyone.",
+          "zh": "双方花了三天时间反复磋商，最终制定出了所有人都能接受的妥协方案。"
+        }
+      ]
+    },
+    {
+      "phrase": "apply to",
+      "usage": "表示“适用于，应用于”，后接适用的对象或范围",
+      "examples": [
+        {
+          "en": "This school rule applies to all students, no matter what grade they are in.",
+          "zh": "这条校规适用于所有学生，不管他们读几年级。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "强调句 (Emphatic Sentence)",
+      "definition": "用来突出句子中某一成分（通常是主语、宾语、状语）的句型，用来加强语气",
+      "structure": "It is/was + 被强调部分 + that/who + 句子剩余部分",
+      "usage": "被强调部分指人时可以用who代替that，其他情况一律用that；去掉It is/was和that/who后句子仍然完整通顺",
+      "examples": [
+        {
+          "en": "It is differences in national regulations, far more than tariffs, that put sand in the wheels of trade between rich countries.",
+          "zh": "正是各国法规的差异，而非关税，给发达国家之间的贸易造成了阻碍。"
+        },
+        {
+          "en": "It was my English teacher who inspired my interest in foreign cultures.",
+          "zh": "正是我的英语老师激发了我对外国文化的兴趣。"
+        }
+      ]
+    },
+    {
+      "title": "让步状语从句 (Adverbial Clause of Concession)",
+      "definition": "用来表示让步关系的从句，说明主句行为发生的不利条件或相反情况，翻译为“虽然，尽管”",
+      "structure": "Although/Though + 从句, 主句",
+      "usage": "although和though语气正式，通常不与but连用，但可以和yet、still搭配；放在句首或句中均可",
+      "examples": [
+        {
+          "en": "Although negotiators are optimistic, the details are complex enough that they may be hard-pressed to get a deal at all.",
+          "zh": "尽管谈判代表持乐观态度，但细节过于复杂，他们可能根本很难达成协议。"
+        },
+        {
+          "en": "Although he is very busy every day, he still spares half an hour to read books.",
+          "zh": "尽管他每天都很忙，他还是会抽出半小时来读书。"
+        }
+      ]
+    },
+    {
+      "title": "非限制性定语从句 (Non-restrictive Attributive Clause)",
+      "definition": "对先行词起补充说明作用的定语从句，去掉后不影响主句意思的完整性，通常用逗号和主句隔开",
+      "structure": "主句, which/who/whose/where/when + 从句内容",
+      "usage": "不能用that引导，常用来修饰整个主句或者主句中的某个名词，翻译时通常单独成句",
+      "examples": [
+        {
+          "en": "The EU -- following fine continental traditions -- wants agreement on general principles, which could be applied to many types of products and perhaps extended to other countries.",
+          "zh": "欧盟遵循典型的欧洲大陆传统，希望就通用原则达成协议，这些原则可以适用于多种产品，甚至可能推广到其他国家。"
+        },
+        {
+          "en": "She won the first prize in the speech contest, which made her parents very proud.",
+          "zh": "她在演讲比赛中获得了一等奖，这让她的父母非常骄傲。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "What makes + 名词/名词短语 + 形容词?",
+      "original": {
+        "en": "What makes trading between rich countries difficult?",
+        "zh": "是什么让发达国家之间的贸易变得困难？"
+      },
+      "imitations": [
+        {
+          "en": "What makes learning a foreign language challenging for many people?",
+          "zh": "是什么让学习外语对很多人来说充满挑战？"
+        },
+        {
+          "en": "What makes the western region of the country so attractive to tourists?",
+          "zh": "是什么让这个国家的西部地区对游客如此有吸引力？"
+        }
+      ]
+    },
+    {
+      "pattern": "..., claim + 主语, ...",
+      "original": {
+        "en": "Chickens slaughtered in the United States, claim officials in Brussels, are not fit to grace European tables.",
+        "zh": "布鲁塞尔的官员声称，在美国屠宰的鸡不配摆上欧洲的餐桌。"
+      },
+      "imitations": [
+        {
+          "en": "Regular outdoor exercise can effectively reduce the risk of many chronic diseases, claim health experts.",
+          "zh": "健康专家声称，规律的户外运动可以有效降低很多慢性病的风险。"
+        },
+        {
+          "en": "The new policy will bring more benefits to low-income families, claim local government officials.",
+          "zh": "当地政府官员声称，新政策将为低收入家庭带来更多福利。"
+        }
+      ]
+    },
+    {
+      "pattern": "One difficulty is to do sth",
+      "original": {
+        "en": "One difficulty is to construct the agreements.",
+        "zh": "其中一个难点是制定相关协议。"
+      },
+      "imitations": [
+        {
+          "en": "One difficulty for new graduates is to find a job that matches their professional skills and interests.",
+          "zh": "应届毕业生面临的一个难点是找到一份匹配他们专业技能和兴趣的工作。"
+        },
+        {
+          "en": "One difficulty when travelling abroad is to overcome the language barrier.",
+          "zh": "出国旅行时的一个难点是克服语言障碍。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,446 @@
+{
+  "book": "NCE2",
+  "lesson": "58",
+  "title": "Why does the vicar refuse to cut down the tree?",
+  "vocabulary": [
+    {
+      "word": "vicar",
+      "phonetic": "/ˈvɪkə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "牧师",
+          "usage": "指英国国教的教区牧师"
+        }
+      ]
+    },
+    {
+      "word": "cursed",
+      "phonetic": "/kɜːrst/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "被诅咒的",
+          "usage": "由名词 curse 变化而来,表示受到诅咒的"
+        }
+      ]
+    },
+    {
+      "word": "possess",
+      "phonetic": "/pəˈzes/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "拥有,具有",
+          "usage": "正式用语,表示拥有某种东西或特质"
+        }
+      ]
+    },
+    {
+      "word": "visitor",
+      "phonetic": "/ˈvɪzɪtə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "来访者,游客",
+          "usage": "指来访或参观的人,来自 visit"
+        }
+      ]
+    },
+    {
+      "word": "increase",
+      "phonetic": "/ɪnˈkriːs/",
+      "meanings": [
+        {
+          "pos": "verb/noun",
+          "meaning": "增加,增长",
+          "usage": "可用作动词或名词,表示数量或规模的增长"
+        }
+      ]
+    },
+    {
+      "word": "reputation",
+      "phonetic": "/ˌrepjuˈteɪʃən/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "名声,名誉",
+          "usage": "指他人对某人或某事的看法和评价"
+        }
+      ]
+    },
+    {
+      "word": "victim",
+      "phonetic": "/ˈvɪktɪm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "受害者,牺牲品",
+          "usage": "指遭受不幸或伤害的人"
+        }
+      ]
+    },
+    {
+      "word": "income",
+      "phonetic": "/ˈɪnkʌm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "收入,所得",
+          "usage": "指个人或机构获得的钱财"
+        }
+      ]
+    },
+    {
+      "word": "tourist",
+      "phonetic": "/ˈtʊərɪst/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "游客,旅游者",
+          "usage": "指出于旅游目的到访的人"
+        }
+      ]
+    },
+    {
+      "word": "trunk",
+      "phonetic": "/trʌŋk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "树干,躯干",
+          "usage": "指树的主干部分,也指大象的鼻子"
+        }
+      ]
+    },
+    {
+      "word": "strike",
+      "phonetic": "/straɪk/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "打击,袭击",
+          "usage": "strike down 表示击倒、摧毁"
+        }
+      ]
+    },
+    {
+      "word": "point out",
+      "phonetic": "/pɔɪnt aʊt/",
+      "meanings": [
+        {
+          "pos": "phrasal verb",
+          "meaning": "指出,提示",
+          "usage": "用于指出问题、事实或错误"
+        }
+      ]
+    },
+    {
+      "word": "cut down",
+      "phonetic": "/kʌt daʊn/",
+      "meanings": [
+        {
+          "pos": "phrasal verb",
+          "meaning": "砍倒,削减",
+          "usage": "cut down the tree 表示砍树,cut down on 表示减少"
+        }
+      ]
+    },
+    {
+      "word": "pick",
+      "phonetic": "/pɪk/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "采摘,挑选",
+          "usage": "pick a leaf 采摘树叶,pick up 捡起"
+        }
+      ]
+    },
+    {
+      "word": "evil",
+      "phonetic": "/ˈiːvəl/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "邪恶的,不幸的",
+          "usage": "指道德上邪恶的,也可指带来坏运气的"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "be said to",
+      "usage": "据说...，用于表达传闻",
+      "examples": [
+        {
+          "en": "The village is said to possess a cursed tree.",
+          "zh": "据说这个村庄拥有一棵被诅咒的树。"
+        },
+        {
+          "en": "He is said to be a great painter.",
+          "zh": "据说他是一位伟大的画家。"
+        }
+      ]
+    },
+    {
+      "phrase": "in recent years",
+      "usage": "近年来,用于谈论过去几年发生的事",
+      "examples": [
+        {
+          "en": "It is only in recent years that it has gained an evil reputation.",
+          "zh": "只是在近年来它才获得了邪恶的名声。"
+        },
+        {
+          "en": "Many things have changed in recent years.",
+          "zh": "近年来许多事情都发生了变化。"
+        }
+      ]
+    },
+    {
+      "phrase": "have bad luck",
+      "usage": "倒霉,遇到不好的事情",
+      "examples": [
+        {
+          "en": "If anyone touches the tree, he will have bad luck.",
+          "zh": "如果有人碰了这棵树,他就会倒霉。"
+        },
+        {
+          "en": "I had bad luck yesterday.",
+          "zh": "我昨天运气不好。"
+        }
+      ]
+    },
+    {
+      "phrase": "cut down",
+      "usage": "砍倒(树),减少(用量)",
+      "examples": [
+        {
+          "en": "The vicar has refused to have the tree cut down.",
+          "zh": "牧师拒绝让人把这棵树砍倒。"
+        },
+        {
+          "en": "You should cut down on smoking.",
+          "zh": "你应该减少吸烟。"
+        }
+      ]
+    },
+    {
+      "phrase": "point out",
+      "usage": "指出,向某人提示",
+      "examples": [
+        {
+          "en": "He has pointed out that the tree is a useful source of income.",
+          "zh": "他指出这棵树是一个有用的收入来源。"
+        },
+        {
+          "en": "Can you point out the mistakes in my essay?",
+          "zh": "你能指出我文章中的错误吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "in spite of",
+      "usage": "尽管,虽然,用于引出与主句意思相反的内容",
+      "examples": [
+        {
+          "en": "In spite of all that has been said, the tourists still come.",
+          "zh": "尽管说了这么多,游客们仍然来。"
+        },
+        {
+          "en": "In spite of the rain, we went out.",
+          "zh": "尽管下雨,我们还是出去了。"
+        }
+      ]
+    },
+    {
+      "phrase": "so far",
+      "usage": "到目前为止,截至现在",
+      "examples": [
+        {
+          "en": "So far, not one of them has been struck down by sudden death!",
+          "zh": "到目前为止,还没有一个人被突然击倒！"
+        },
+        {
+          "en": "Everything has been fine so far.",
+          "zh": "到目前为止,一切都很顺利。"
+        }
+      ]
+    },
+    {
+      "phrase": "a number of",
+      "usage": "许多,若干,后接可数名词复数",
+      "examples": [
+        {
+          "en": "The tree has already claimed a number of victims.",
+          "zh": "这棵树已经夺走了许多受害者的生命。"
+        },
+        {
+          "en": "A number of students were absent.",
+          "zh": "许多学生缺席了。"
+        }
+      ]
+    },
+    {
+      "phrase": "cut something on",
+      "usage": "在某物上刻写",
+      "examples": [
+        {
+          "en": "Tourists have been cutting their names on the tree-trunk.",
+          "zh": "游客们一直在树干上刻他们的名字。"
+        },
+        {
+          "en": "He cut his initials on the tree.",
+          "zh": "他在树上刻上了自己名字的首字母。"
+        }
+      ]
+    },
+    {
+      "phrase": "have been doing",
+      "usage": "现在完成进行时,表示动作从过去持续到现在",
+      "examples": [
+        {
+          "en": "Tourists have been coming from all parts of the country.",
+          "zh": "游客们一直从全国各地赶来。"
+        },
+        {
+          "en": "I have been waiting for you for two hours.",
+          "zh": "我已经等了你两个小时。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "被动语态 (Passive Voice) - 现在完成时被动语态",
+      "definition": "现在完成时的被动语态,表示一个动作在过去已经开始,持续到现在,并对现在造成影响,主语是动作的承受者。",
+      "structure": "have/has + been + 过去分词",
+      "usage": "当动作的承受者是中心话题,而执行者不重要或未知时使用。课文中的 have been asked, has been refused, have been coming 等都是现在完成进行时的主动语态,表示动作持续进行。",
+      "examples": [
+        {
+          "en": "The vicar has been asked to have the tree cut down.",
+          "zh": "牧师被要求把树砍掉。"
+        },
+        {
+          "en": "The tree was planted fifty years ago.",
+          "zh": "这棵树是五十年前种下的。"
+        },
+        {
+          "en": "Many villagers believe that the tree has claimed victims.",
+          "zh": "许多村民相信这棵树已经夺走了受害者的生命。"
+        }
+      ]
+    },
+    {
+      "title": "It is said that... / be said to 结构",
+      "definition": "据说...结构,用于表达传闻或不确定的信息,是间接引语的一种表达方式。",
+      "structure": "It is said that + 主语 + 谓语 / 主语 + is/are said to + 动词原形/进行时/完成时",
+      "usage": "当说话者不是信息的直接来源,而是转述他人的话或传闻时使用。",
+      "examples": [
+        {
+          "en": "The tiny village of Frinley is said to possess a 'cursed tree'.",
+          "zh": "据说弗里恩利这个小村庄拥有一棵'被诅咒的树'。"
+        },
+        {
+          "en": "It is said that the tree is very dangerous.",
+          "zh": "据说这棵树很危险。"
+        },
+        {
+          "en": "He is said to know the secret.",
+          "zh": "据说他知道这个秘密。"
+        }
+      ]
+    },
+    {
+      "title": "It is (only) in recent years that... 强调句型",
+      "definition": "It is/was + 被强调部分 + that/who + 句子剩余部分,用于强调句中的某个成分。",
+      "structure": "It is/was + 被强调部分 + that/who + 其余部分",
+      "usage": "当需要特别强调某个词、短语或时间状语时使用,可以帮助表达这是新信息或重要信息。",
+      "examples": [
+        {
+          "en": "It is only in recent years that it has gained an evil reputation.",
+          "zh": "只是在近年来它才获得了邪恶的名声。"
+        },
+        {
+          "en": "It was near the church that the tree was planted.",
+          "zh": "正是在教堂附近这棵树被种下的。"
+        },
+        {
+          "en": "It is the vicar who has refused to cut down the tree.",
+          "zh": "正是牧师拒绝砍倒这棵树的。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "It is said that + 主语 + 谓语",
+      "original": {
+        "en": "It is said that if anyone touches the tree, he will have bad luck.",
+        "zh": "据说如果有人碰了树,他就会倒霉。"
+      },
+      "imitations": [
+        {
+          "en": "It is said that he is very rich.",
+          "zh": "据说他很有钱。"
+        },
+        {
+          "en": "It is said that the book is worth reading.",
+          "zh": "据说这本书值得一读。"
+        }
+      ]
+    },
+    {
+      "pattern": "The tree has already claimed + 数量词 + victims",
+      "original": {
+        "en": "Many villagers believe that the tree has already claimed a number of victims.",
+        "zh": "许多村民相信这棵树已经夺走了许多受害者的生命。"
+      },
+      "imitations": [
+        {
+          "en": "The accident has claimed three victims.",
+          "zh": "这场事故已经造成三人死亡。"
+        },
+        {
+          "en": "The earthquake claimed many victims.",
+          "zh": "地震夺走了许多人的生命。"
+        }
+      ]
+    },
+    {
+      "pattern": "have been + doing (现在完成进行时)",
+      "original": {
+        "en": "Tourists have been coming from all parts of the country to see it.",
+        "zh": "游客们一直从全国各地赶来观看它。"
+      },
+      "imitations": [
+        {
+          "en": "It has been raining all day.",
+          "zh": "雨下了一整天。"
+        },
+        {
+          "en": "She has been working here since 2020.",
+          "zh": "她自2020年以来一直在这里工作。"
+        }
+      ]
+    },
+    {
+      "pattern": "So far, not one of them has + 过去分词",
+      "original": {
+        "en": "So far, not one of them has been struck down by sudden death!",
+        "zh": "到目前为止,还没有一个人被突然击倒！"
+      },
+      "imitations": [
+        {
+          "en": "So far, not one of them has complained.",
+          "zh": "到目前为止,还没有一个人抱怨过。"
+        },
+        {
+          "en": "So far, not one of the students has finished the exam.",
+          "zh": "到目前为止,还没有一个学生完成考试。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,303 @@
+{
+  "book": "NCE1",
+  "lesson": "033-034",
+  "title": "Lesson 33",
+  "vocabulary": [
+    {
+      "word": "fine",
+      "phonetic": "/faɪn/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "meaning": "好的；晴朗的",
+          "usage": "描述天气好或身体状况好"
+        }
+      ]
+    },
+    {
+      "word": "cloud",
+      "phonetic": "/klaʊd/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "云",
+          "usage": "常用复数形式 clouds"
+        }
+      ]
+    },
+    {
+      "word": "sky",
+      "phonetic": "/skaɪ/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "天空",
+          "usage": "常与介词 in 搭配使用"
+        }
+      ]
+    },
+    {
+      "word": "sun",
+      "phonetic": "/sʌn/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "太阳",
+          "usage": "与定冠词 the 连用，表示独一无二的事物"
+        }
+      ]
+    },
+    {
+      "word": "shine",
+      "phonetic": "/ʃaɪn/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "meaning": "照耀",
+          "usage": "现在分词为 shining"
+        }
+      ]
+    },
+    {
+      "word": "bridge",
+      "phonetic": "/brɪdʒ/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "桥",
+          "usage": "可数名词"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "phonetic": "/bəʊt/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "小船",
+          "usage": "一般指较小的船"
+        }
+      ]
+    },
+    {
+      "word": "river",
+      "phonetic": "/ˈrɪvə(r)/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "河",
+          "usage": "可数名词"
+        }
+      ]
+    },
+    {
+      "word": "ship",
+      "phonetic": "/ʃɪp/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "轮船",
+          "usage": "一般指大的轮船"
+        }
+      ]
+    },
+    {
+      "word": "aeroplane",
+      "phonetic": "/ˈeərəpleɪn/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "飞机",
+          "usage": "英式英语，美式英语为 airplane"
+        }
+      ]
+    },
+    {
+      "word": "family",
+      "phonetic": "/ˈfæməli/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "家庭",
+          "usage": "可指数个家庭成员"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "a fine day",
+      "usage": "表示晴朗、美好的天气",
+      "examples": [
+        {
+          "en": "It is a fine day today.",
+          "zh": "今天天气很好。"
+        }
+      ]
+    },
+    {
+      "phrase": "in the sky",
+      "usage": "表示在天空中",
+      "examples": [
+        {
+          "en": "There are some clouds in the sky.",
+          "zh": "天空中有一些云。"
+        }
+      ]
+    },
+    {
+      "phrase": "with his family",
+      "usage": "表示和家人一起",
+      "examples": [
+        {
+          "en": "Mr. Jones is with his family.",
+          "zh": "琼斯先生和家人在一起。"
+        }
+      ]
+    },
+    {
+      "phrase": "walking over the bridge",
+      "usage": "表示正在走过桥",
+      "examples": [
+        {
+          "en": "They are walking over the bridge.",
+          "zh": "他们正在走过桥。"
+        }
+      ]
+    },
+    {
+      "phrase": "looking at",
+      "usage": "表示正在看...",
+      "examples": [
+        {
+          "en": "Sally is looking at a big ship.",
+          "zh": "莎莉正在看一艘大轮船。"
+        }
+      ]
+    },
+    {
+      "phrase": "going under the bridge",
+      "usage": "表示正在从桥下穿过",
+      "examples": [
+        {
+          "en": "The ship is going under the bridge.",
+          "zh": "轮船正从桥下驶过。"
+        }
+      ]
+    },
+    {
+      "phrase": "flying over",
+      "usage": "表示正在...上方飞过",
+      "examples": [
+        {
+          "en": "The aeroplane is flying over the river.",
+          "zh": "飞机正飞过河的上空。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "There be 句型",
+      "definition": "表示某地存在某物或某人",
+      "structure": "There is/are + 名词 + 地点",
+      "usage": "表示客观存在的'有'，与 have/has 不同",
+      "examples": [
+        {
+          "en": "There are some clouds in the sky.",
+          "zh": "天空中有一些云。"
+        },
+        {
+          "en": "There are some boats on the river.",
+          "zh": "河上有一些船。"
+        }
+      ]
+    },
+    {
+      "title": "现在进行时",
+      "definition": "表示正在发生的动作",
+      "structure": "主语 + be + 动词-ing",
+      "usage": "描述说话时正在进行的动作",
+      "examples": [
+        {
+          "en": "They are walking over the bridge.",
+          "zh": "他们正在走过桥。"
+        },
+        {
+          "en": "The ship is going under the bridge.",
+          "zh": "轮船正从桥下驶过。"
+        }
+      ]
+    },
+    {
+      "title": "方位介词 over 和 under",
+      "definition": "over 表示在...上方（不接触），under 表示在...下方",
+      "structure": "over/under + 名词",
+      "usage": "描述物体之间的相对位置关系",
+      "examples": [
+        {
+          "en": "The ship is going under the bridge.",
+          "zh": "轮船正从桥下驶过。"
+        },
+        {
+          "en": "The aeroplane is flying over the river.",
+          "zh": "飞机正飞过河的上空。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "There is/are + 名词 + 介词短语",
+      "original": {
+        "en": "There are some clouds in the sky.",
+        "zh": "天空中有一些云。"
+      },
+      "imitations": [
+        {
+          "en": "There is a book on the table.",
+          "zh": "桌子上有一本书。"
+        },
+        {
+          "en": "There are some students in the classroom.",
+          "zh": "教室里有一些学生。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + be + 动词-ing + 介词短语",
+      "original": {
+        "en": "The ship is going under the bridge.",
+        "zh": "轮船正从桥下驶过。"
+      },
+      "imitations": [
+        {
+          "en": "The birds are flying over the trees.",
+          "zh": "鸟儿正飞过树梢。"
+        },
+        {
+          "en": "The children are playing in the park.",
+          "zh": "孩子们正在公园里玩耍。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + is/are looking at + 名词",
+      "original": {
+        "en": "Sally is looking at a big ship.",
+        "zh": "莎莉正在看一艘大轮船。"
+      },
+      "imitations": [
+        {
+          "en": "He is looking at the picture.",
+          "zh": "他正在看那幅画。"
+        },
+        {
+          "en": "They are looking at the airplane.",
+          "zh": "他们正在看那架飞机。"
+        }
+      ]
+    }
+  ]
+}

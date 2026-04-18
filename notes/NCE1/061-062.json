@@ -1,0 +1,456 @@
+{
+  "book": "NCE1",
+  "lesson": "061-062",
+  "title": "Lesson 61",
+  "vocabulary": [
+    {
+      "word": "cold",
+      "phonetic": "/kəʊld/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "感冒；着凉",
+          "usage": "a bad cold 表示重感冒"
+        },
+        {
+          "pos": "adjective",
+          "meaning": "冷的；寒冷的",
+          "usage": "描述温度低的状态"
+        }
+      ]
+    },
+    {
+      "word": "ill",
+      "phonetic": "/ɪl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "生病的；不健康的",
+          "usage": "指身体不舒服，与 sick 同义"
+        }
+      ]
+    },
+    {
+      "word": "doctor",
+      "phonetic": "/ˈdɒktə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "医生；大夫",
+          "usage": "简称 Dr.，用于称呼或提及医疗专业人员"
+        }
+      ]
+    },
+    {
+      "word": "telephone",
+      "phonetic": "/ˈtelɪfəʊn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "电话；电话机",
+          "usage": "简称 phone，表示通讯设备"
+        },
+        {
+          "pos": "verb",
+          "meaning": "打电话",
+          "usage": "telephone sb. 表示给某人打电话"
+        }
+      ]
+    },
+    {
+      "word": "mouth",
+      "phonetic": "/maʊθ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "嘴；口腔",
+          "usage": "身体部位，检查时医生常要求张开嘴"
+        }
+      ]
+    },
+    {
+      "word": "tongue",
+      "phonetic": "/tʌŋ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "舌头",
+          "usage": "身体部位，发音时舌头起重要作用"
+        }
+      ]
+    },
+    {
+      "word": "week",
+      "phonetic": "/wiːk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "星期；周",
+          "usage": "表示七天的时间单位"
+        }
+      ]
+    },
+    {
+      "word": "news",
+      "phonetic": "/njuːz/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "消息；新闻",
+          "usage": "不可数名词，a piece of news 表示一条新闻"
+        }
+      ]
+    },
+    {
+      "word": "bed",
+      "phonetic": "/bed/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "床",
+          "usage": "stay in bed 表示卧床休息"
+        }
+      ]
+    },
+    {
+      "word": "school",
+      "phonetic": "/skuːl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "学校",
+          "usage": "go to school 表示上学；at school 表示在学校"
+        }
+      ]
+    },
+    {
+      "word": "remember",
+      "phonetic": "/rɪˈmembə/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "记得；记住",
+          "usage": "remember to do sth. 表示记得去做某事"
+        }
+      ]
+    },
+    {
+      "word": "matter",
+      "phonetic": "/ˈmætə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "事情；问题",
+          "usage": "What's the matter? 表示怎么了？出了什么问题？"
+        }
+      ]
+    },
+    {
+      "word": "show",
+      "phonetic": "/ʃəʊ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "展示；显示",
+          "usage": "show sb. sth. 或 show sth. to sb. 表示给某人看某物"
+        }
+      ]
+    },
+    {
+      "word": "because",
+      "phonetic": "/bɪˈkɒz/",
+      "meanings": [
+        {
+          "pos": "conjunction",
+          "meaning": "因为",
+          "usage": "用于说明原因或理由，后接句子"
+        }
+      ]
+    },
+    {
+      "word": "stay",
+      "phonetic": "/steɪ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "停留；待；保持",
+          "usage": "stay in bed 表示卧床；stay healthy 表示保持健康"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "What's the matter with...?",
+      "usage": "用于询问某人怎么了或出了什么问题",
+      "examples": [
+        {
+          "en": "What's the matter with him?",
+          "zh": "他怎么了？"
+        },
+        {
+          "en": "What's the matter with you?",
+          "zh": "你怎么了？"
+        }
+      ]
+    },
+    {
+      "phrase": "stay in bed",
+      "usage": "表示卧床休息，通常用于病人",
+      "examples": [
+        {
+          "en": "He must stay in bed for a week.",
+          "zh": "他必须卧床休息一周。"
+        },
+        {
+          "en": "I stayed in bed until noon.",
+          "zh": "我睡到中午才起床。"
+        }
+      ]
+    },
+    {
+      "phrase": "call the doctor",
+      "usage": "表示请医生、叫医生来看病",
+      "examples": [
+        {
+          "en": "We must call the doctor.",
+          "zh": "我们必须请医生。"
+        },
+        {
+          "en": "Please call the doctor immediately!",
+          "zh": "请立刻叫医生来！"
+        }
+      ]
+    },
+    {
+      "phrase": "feel ill / look ill",
+      "usage": "feel ill 表示感觉不舒服；look ill 表示看起来气色不好",
+      "examples": [
+        {
+          "en": "He feels ill.",
+          "zh": "他感觉不舒服。"
+        },
+        {
+          "en": "He looks ill.",
+          "zh": "他看起来病了。"
+        }
+      ]
+    },
+    {
+      "phrase": "have a bad cold",
+      "usage": "表示得了重感冒",
+      "examples": [
+        {
+          "en": "He has a bad cold.",
+          "zh": "他得了重感冒。"
+        },
+        {
+          "en": "I have a bad cold and can't go to work.",
+          "zh": "我得了重感冒，不能去上班。"
+        }
+      ]
+    },
+    {
+      "phrase": "good news",
+      "usage": "表示好消息，news 为不可数名词",
+      "examples": [
+        {
+          "en": "That's good news for Jimmy.",
+          "zh": "对 Jimmy 来说那是个好消息。"
+        },
+        {
+          "en": "I have some good news for you.",
+          "zh": "我有个好消息要告诉你。"
+        }
+      ]
+    },
+    {
+      "phrase": "open your mouth",
+      "usage": "医生检查时的常用语，让病人张嘴",
+      "examples": [
+        {
+          "en": "Open your mouth, Jimmy.",
+          "zh": "Jimmy，张嘴。"
+        },
+        {
+          "en": "Open your mouth and say 'Ah'.",
+          "zh": "张嘴然后说'啊'。"
+        }
+      ]
+    },
+    {
+      "phrase": "show me your tongue",
+      "usage": "医生让病人伸出舌头以便检查",
+      "examples": [
+        {
+          "en": "Show me your tongue.",
+          "zh": "让我看看你的舌头。"
+        },
+        {
+          "en": "The doctor asked me to show him my tongue.",
+          "zh": "医生让我伸出舌头给他看。"
+        }
+      ]
+    },
+    {
+      "phrase": "That's good news.",
+      "usage": "用来表示某事是好消息，常带有讽刺意味",
+      "examples": [
+        {
+          "en": "Good news? Why?",
+          "zh": "好消息？为什么？"
+        },
+        {
+          "en": "That's good news indeed.",
+          "zh": "那确实是好消息。"
+        }
+      ]
+    },
+    {
+      "phrase": "remember the telephone number",
+      "usage": "记住电话号码",
+      "examples": [
+        {
+          "en": "Can you remember the doctor's telephone number?",
+          "zh": "你能记住医生的电话号码吗？"
+        },
+        {
+          "en": "I can't remember his phone number.",
+          "zh": "我记不住他的电话号码。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "have (got) 表示疾病",
+      "definition": "在英语中，表示身体患病常用 have (got) + 疾病名词，而不是用助动词 be 形式",
+      "structure": "主语 + have/has (got) + 疾病名词",
+      "usage": "have got 是 have 的口语化表达，两者意义相同，都可表示患病状态。have a cold 表示感冒，have a headache 表示头疼等。",
+      "examples": [
+        {
+          "en": "He has a bad cold.",
+          "zh": "他得了重感冒。"
+        },
+        {
+          "en": "I have got a headache.",
+          "zh": "我头疼。"
+        },
+        {
+          "en": "She has a stomachache.",
+          "zh": "她肚子疼。"
+        }
+      ]
+    },
+    {
+      "title": "must 表示必要性和义务",
+      "definition": "must 表示必须、一定，表示来自说话者的命令或强烈的建议",
+      "structure": "主语 + must + 动词原形",
+      "usage": "must 没有人称变化，第三人称单数也不加 s。must 表示主观上的必须，常用于表达说话者认为必要的事情。must not (mustn't) 表示禁止。",
+      "examples": [
+        {
+          "en": "We must call the doctor.",
+          "zh": "我们必须请医生。"
+        },
+        {
+          "en": "He must stay in bed for a week.",
+          "zh": "他必须卧床休息一周。"
+        },
+        {
+          "en": "You must finish your homework.",
+          "zh": "你必须完成作业。"
+        }
+      ]
+    },
+    {
+      "title": "询问病情的常用句型",
+      "definition": "英语中询问他人身体状况的几种常见表达方式",
+      "structure": "What's the matter (with...)? / What's wrong (with...)? / How do you feel?",
+      "usage": "What's the matter 和 What's wrong 用来询问出了什么问题或怎么了，常与 with 连用引出询问对象。feel ill 表示感觉不舒服，look ill 表示看起来有病态。",
+      "examples": [
+        {
+          "en": "What's the matter with him?",
+          "zh": "他怎么了？"
+        },
+        {
+          "en": "What's wrong with you?",
+          "zh": "你怎么了？"
+        },
+        {
+          "en": "He feels ill and looks ill.",
+          "zh": "他感觉不舒服，看起来也有病。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Where is/are + 主语?",
+      "original": {
+        "en": "Where's Jimmy?",
+        "zh": "Jimmy 在哪里？"
+      },
+      "imitations": [
+        {
+          "en": "Where's the doctor?",
+          "zh": "医生在哪里？"
+        },
+        {
+          "en": "Where's my book?",
+          "zh": "我的书在哪里？"
+        }
+      ]
+    },
+    {
+      "pattern": "What's the matter with + 人/物?",
+      "original": {
+        "en": "What's the matter with him?",
+        "zh": "他怎么了？"
+      },
+      "imitations": [
+        {
+          "en": "What's the matter with you?",
+          "zh": "你怎么了？"
+        },
+        {
+          "en": "What's the matter with the car?",
+          "zh": "这辆车怎么了？"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + must + 动词原形",
+      "original": {
+        "en": "We must call the doctor.",
+        "zh": "我们必须请医生。"
+      },
+      "imitations": [
+        {
+          "en": "I must remember his number.",
+          "zh": "我必须记住他的号码。"
+        },
+        {
+          "en": "She must stay home today.",
+          "zh": "她今天必须待在家里。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + has (got) + 疾病",
+      "original": {
+        "en": "He has a bad cold.",
+        "zh": "他得了重感冒。"
+      },
+      "imitations": [
+        {
+          "en": "I have got a headache.",
+          "zh": "我头疼。"
+        },
+        {
+          "en": "She has a fever.",
+          "zh": "她发烧了。"
+        }
+      ]
+    }
+  ]
+}

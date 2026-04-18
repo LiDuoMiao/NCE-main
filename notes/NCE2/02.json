@@ -1,0 +1,402 @@
+{
+  "book": "NCE2",
+  "lesson": "02",
+  "title": "Why was the writer's aunt surprised?",
+  "vocabulary": [
+    {
+      "word": "Sunday",
+      "phonetic": "/ˈsʌndeɪ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "星期日；星期天",
+          "usage": "一周的第一天，通常是休息日"
+        }
+      ]
+    },
+    {
+      "word": "early",
+      "phonetic": "/ˈɜːrli/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "早的；提早的",
+          "usage": "表示时间比一般或预期早"
+        }
+      ]
+    },
+    {
+      "word": "sometimes",
+      "phonetic": "/ˈsʌmtaɪmz/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "有时；间或",
+          "usage": "表示动作或状态偶尔发生"
+        }
+      ]
+    },
+    {
+      "word": "bed",
+      "phonetic": "/bed/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "床",
+          "usage": "用于睡觉或休息的地方"
+        }
+      ]
+    },
+    {
+      "word": "lunchtime",
+      "phonetic": "/ˈlʌntʃtaɪm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "午餐时间",
+          "usage": "吃午饭的时间，通常在中午12点左右"
+        }
+      ]
+    },
+    {
+      "word": "window",
+      "phonetic": "/ˈwɪndoʊ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "窗户",
+          "usage": "建筑物中用于透光和通风的开口"
+        }
+      ]
+    },
+    {
+      "word": "dark",
+      "phonetic": "/dɑːrk/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "黑暗的；昏暗的",
+          "usage": "形容光线不足或天色阴暗"
+        }
+      ]
+    },
+    {
+      "word": "rain",
+      "phonetic": "/reɪn/",
+      "meanings": [
+        {
+          "pos": "verb/noun",
+          "meaning": "下雨；雨",
+          "usage": "作为动词表示下雨的动作，作为名词表示降水"
+        }
+      ]
+    },
+    {
+      "word": "telephone",
+      "phonetic": "/ˈtelɪfoʊn/",
+      "meanings": [
+        {
+          "pos": "noun/verb",
+          "meaning": "电话；打电话",
+          "usage": "用于远程通信的设备或动作"
+        }
+      ]
+    },
+    {
+      "word": "arrive",
+      "phonetic": "/əˈraɪv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "到达；抵达",
+          "usage": "表示到达某个地方"
+        }
+      ]
+    },
+    {
+      "word": "train",
+      "phonetic": "/treɪn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "火车",
+          "usage": "一种铁路交通工具"
+        }
+      ]
+    },
+    {
+      "word": "breakfast",
+      "phonetic": "/ˈbrekfəst/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "早餐",
+          "usage": "一天中的第一顿饭"
+        }
+      ]
+    },
+    {
+      "word": "dear",
+      "phonetic": "/dɪr/",
+      "meanings": [
+        {
+          "pos": "exclamation",
+          "meaning": "天哪；哎呀（表示惊讶）",
+          "usage": "表示惊讶、担忧或失望的情绪"
+        }
+      ]
+    },
+    {
+      "word": "always",
+      "phonetic": "/ˈɔːlweɪz/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "总是；一直",
+          "usage": "表示动作或状态无例外地发生"
+        }
+      ]
+    },
+    {
+      "word": "o'clock",
+      "phonetic": "/əˈklɑːk/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "...点钟",
+          "usage": "用于表示整点时间"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "get up early",
+      "usage": "表示在平常或预期的时间之前起床",
+      "examples": [
+        {
+          "en": "I never get up early on Sundays.",
+          "zh": "我星期天从不在早起。"
+        },
+        {
+          "en": "You should get up early to catch the train.",
+          "zh": "你应该早起赶火车。"
+        }
+      ]
+    },
+    {
+      "phrase": "stay in bed",
+      "usage": "表示继续躺在床上，通常指睡懒觉",
+      "examples": [
+        {
+          "en": "I sometimes stay in bed until lunchtime.",
+          "zh": "我有时会赖床到午饭时间。"
+        }
+      ]
+    },
+    {
+      "phrase": "look out of",
+      "usage": "表示从窗户等向外看",
+      "examples": [
+        {
+          "en": "I looked out of the window.",
+          "zh": "我向窗外望去。"
+        }
+      ]
+    },
+    {
+      "phrase": "just then",
+      "usage": "表示就在那个时候，常用于引出意外事件",
+      "examples": [
+        {
+          "en": "Just then, the telephone rang.",
+          "zh": "就在那时，电话响了。"
+        }
+      ]
+    },
+    {
+      "phrase": "by train",
+      "usage": "表示乘坐火车的交通方式",
+      "examples": [
+        {
+          "en": "I've just arrived by train.",
+          "zh": "我刚乘火车到达。"
+        }
+      ]
+    },
+    {
+      "phrase": "come to see",
+      "usage": "表示来拜访、看望某人",
+      "examples": [
+        {
+          "en": "I'm coming to see you.",
+          "zh": "我正要来看你。"
+        }
+      ]
+    },
+    {
+      "phrase": "have breakfast",
+      "usage": "表示吃早餐",
+      "examples": [
+        {
+          "en": "I'm still having breakfast.",
+          "zh": "我还在吃早餐呢。"
+        }
+      ]
+    },
+    {
+      "phrase": "What a day!",
+      "usage": "感叹语，表示某天很糟糕或很艰难",
+      "examples": [
+        {
+          "en": "What a day! It's raining again.",
+          "zh": "多糟糕的一天！又下雨了。"
+        }
+      ]
+    },
+    {
+      "phrase": "It's raining again.",
+      "usage": "表示天气状况，描述正在下雨",
+      "examples": [
+        {
+          "en": "It's raining again. We can't go out.",
+          "zh": "又下雨了。我们不能出去了。"
+        }
+      ]
+    },
+    {
+      "phrase": "Dear me",
+      "usage": "感叹语，表示惊讶或轻微的不满",
+      "examples": [
+        {
+          "en": "Dear me! Do you always get up so late?",
+          "zh": "天哪！你总是这么晚起床吗？"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "现在进行时 (Present Continuous Tense)",
+      "definition": "表示说话时正在进行的动作或当前阶段正在发生的动作",
+      "structure": "主语 + am/is/are + 动词-ing",
+      "usage": "用于描述正在进行的动作，常与now, just, right now等时间状语连用",
+      "examples": [
+        {
+          "en": "I'm having breakfast.",
+          "zh": "我正在吃早餐。"
+        },
+        {
+          "en": "It's raining again.",
+          "zh": "天又下雨了。"
+        },
+        {
+          "en": "I'm coming to see you.",
+          "zh": "我正要来看你。"
+        }
+      ]
+    },
+    {
+      "title": "一般现在时 (Present Simple Tense)",
+      "definition": "表示习惯性动作、客观事实或普遍真理",
+      "structure": "主语 + 动词原形（第三人称单数要加-s/-es）",
+      "usage": "用于描述经常性或习惯性的动作，常与always, often, sometimes等频度副词连用",
+      "examples": [
+        {
+          "en": "I never get up early on Sundays.",
+          "zh": "我星期天从不在早起。"
+        },
+        {
+          "en": "Do you always get up so late?",
+          "zh": "你总是这么晚起床吗？"
+        }
+      ]
+    },
+    {
+      "title": "特殊疑问句 (Special Question)",
+      "definition": "用疑问词（what, where, when等）开头的问句，需要详细回答",
+      "structure": "疑问词 + 一般疑问句？",
+      "usage": "用于询问具体信息，如正在做什么、原因、时间等",
+      "examples": [
+        {
+          "en": "What are you doing?",
+          "zh": "你正在做什么？"
+        },
+        {
+          "en": "Why was the writer's aunt surprised?",
+          "zh": "为什么作家的姑妈感到惊讶？"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "It's + 时间.",
+      "original": {
+        "en": "It's one o'clock!",
+        "zh": "已经一点钟了！"
+      },
+      "imitations": [
+        {
+          "en": "It's eight o'clock in the morning.",
+          "zh": "现在是早上八点。"
+        },
+        {
+          "en": "It's half past six.",
+          "zh": "现在是六点半。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + am/is/are + 动词-ing.",
+      "original": {
+        "en": "I'm having breakfast.",
+        "zh": "我正在吃早餐。"
+      },
+      "imitations": [
+        {
+          "en": "I'm reading a book now.",
+          "zh": "我现在正在读书。"
+        },
+        {
+          "en": "She is watching TV at the moment.",
+          "zh": "她此刻正在看电视。"
+        }
+      ]
+    },
+    {
+      "pattern": "Do/Does + 主语 + 动词原形...?",
+      "original": {
+        "en": "Do you always get up so late?",
+        "zh": "你总是这么晚起床吗？"
+      },
+      "imitations": [
+        {
+          "en": "Do you often eat breakfast at home?",
+          "zh": "你经常在家吃早餐吗？"
+        },
+        {
+          "en": "Does he always come to work by bus?",
+          "zh": "他总是乘公交车上班吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "What + are you + doing?",
+      "original": {
+        "en": "What are you doing?",
+        "zh": "你正在做什么？"
+      },
+      "imitations": [
+        {
+          "en": "What are you doing now?",
+          "zh": "你现在在做什么？"
+        },
+        {
+          "en": "What is she cooking?",
+          "zh": "她正在做什么菜？"
+        }
+      ]
+    }
+  ]
+}

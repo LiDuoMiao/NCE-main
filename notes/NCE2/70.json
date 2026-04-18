@@ -1,0 +1,394 @@
+{
+  "book": "NCE2",
+  "lesson": "70",
+  "title": "How was the drunk removed from the ring?",
+  "vocabulary": [
+    {
+      "word": "bullfight",
+      "phonetic": "/ˈbʊlfaɪt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "斗牛",
+          "usage": "指在西班牙等国家流行的传统竞技活动，公牛与斗牛士之间的较量"
+        }
+      ]
+    },
+    {
+      "word": "drunk",
+      "phonetic": "/drʌŋk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "醉汉，醉酒的人",
+          "usage": "指喝醉酒的人，相当于drunk person"
+        }
+      ]
+    },
+    {
+      "word": "wander",
+      "phonetic": "/ˈwɒndə(r)/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "漫步，徘徊；迷路",
+          "usage": "指漫无目的地走动或走失，常与into/around连用"
+        }
+      ]
+    },
+    {
+      "word": "matador",
+      "phonetic": "/ˈmætədɔː(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "斗牛士",
+          "usage": "指在斗牛中负责刺杀公牛的专业人员"
+        }
+      ]
+    },
+    {
+      "word": "apparently",
+      "phonetic": "/əˈpærəntli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "显然地；表面上地",
+          "usage": "用于表示从表面看或根据情况判断，常修饰形容词或整个句子"
+        }
+      ]
+    },
+    {
+      "word": "sensitive",
+      "phonetic": "/ˈsensətɪv/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "敏感的；灵敏的",
+          "usage": "指对某事物敏感或容易感受，常与to连用表示对什么敏感"
+        }
+      ]
+    },
+    {
+      "word": "charge",
+      "phonetic": "/tʃɑːdʒ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "冲锋；猛冲；指控",
+          "usage": "作动词时常表示向某人或某物冲过去，用at连接对象"
+        }
+      ]
+    },
+    {
+      "word": "clumsily",
+      "phonetic": "/ˈklʌmzɪli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "笨拙地；粗鲁地",
+          "usage": "是形容词clumsy的副词形式，描述动作不灵巧"
+        }
+      ]
+    },
+    {
+      "word": "bow",
+      "phonetic": "/baʊ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "鞠躬；弯腰",
+          "usage": "表示尊敬或致意的动作，常与to连用表示向谁鞠躬"
+        }
+      ]
+    },
+    {
+      "word": "drag",
+      "phonetic": "/dræɡ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "拖拽；强迫",
+          "usage": "指用力将某物或某人拖向某处，强调费力"
+        }
+      ]
+    },
+    {
+      "word": "sympathetically",
+      "phonetic": "/ˌsɪmpəˈθetɪkli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "同情地；怜悯地",
+          "usage": "是sympathetic的副词形式，表示以同情的态度"
+        }
+      ]
+    },
+    {
+      "word": "crowd",
+      "phonetic": "/kraʊd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "人群；观众",
+          "usage": "指聚集在一起的一群人，也可作动词表示挤满"
+        }
+      ]
+    },
+    {
+      "word": "danger",
+      "phonetic": "/ˈdeɪndʒə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "危险；风险",
+          "usage": "指可能发生的危险或伤害，常与in/out of连用"
+        }
+      ]
+    },
+    {
+      "word": "remark",
+      "phonetic": "/rɪˈmɑːk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "言语；评论；言论",
+          "usage": "指所说的话或发表的评论，可数名词"
+        }
+      ]
+    },
+    {
+      "word": "attention",
+      "phonetic": "/əˈtenʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "注意；注意力",
+          "usage": "指心理上的关注，turn attention to表示将注意力转向"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "wander into",
+      "usage": "漫步进入；不知不觉走进",
+      "examples": [
+        {
+          "en": "The drunk suddenly wandered into the middle of the ring.",
+          "zh": "那个醉汉突然漫步走进了场地中央。"
+        }
+      ]
+    },
+    {
+      "phrase": "be unaware of",
+      "usage": "不知道；未察觉",
+      "examples": [
+        {
+          "en": "The drunk was unaware of the danger.",
+          "zh": "醉汉没有意识到危险。"
+        }
+      ]
+    },
+    {
+      "phrase": "catch sight of",
+      "usage": "看见；发现",
+      "examples": [
+        {
+          "en": "The bull suddenly caught sight of the drunk.",
+          "zh": "公牛突然看见了那个醉汉。"
+        }
+      ]
+    },
+    {
+      "phrase": "wave a red cap",
+      "usage": "挥动红帽子",
+      "examples": [
+        {
+          "en": "The drunk was waving a red cap.",
+          "zh": "醉汉正在挥动一顶红色的帽子。"
+        }
+      ]
+    },
+    {
+      "phrase": "grow quiet",
+      "usage": "变得安静",
+      "examples": [
+        {
+          "en": "The crowd suddenly grew quiet.",
+          "zh": "观众突然变得安静了。"
+        }
+      ]
+    },
+    {
+      "phrase": "break into cheers",
+      "usage": "突然爆发出欢呼声",
+      "examples": [
+        {
+          "en": "The crowd broke into cheers.",
+          "zh": "观众突然爆发出欢呼声。"
+        }
+      ]
+    },
+    {
+      "phrase": "step aside",
+      "usage": "让开；闪到一边",
+      "examples": [
+        {
+          "en": "He clumsily stepped aside to let it pass.",
+          "zh": "他笨拙地闪到一边让牛过去。"
+        }
+      ]
+    },
+    {
+      "phrase": "drag to safety",
+      "usage": "拖到安全的地方",
+      "examples": [
+        {
+          "en": "They quickly dragged the drunk to safety.",
+          "zh": "他们迅速把醉汉拖到安全的地方。"
+        }
+      ]
+    },
+    {
+      "phrase": "look on",
+      "usage": "旁观；观看",
+      "examples": [
+        {
+          "en": "The bull looked on sympathetically.",
+          "zh": "公牛同情地看着。"
+        }
+      ]
+    },
+    {
+      "phrase": "turn attention to",
+      "usage": "将注意力转向",
+      "examples": [
+        {
+          "en": "The bull turned its attention to the matador.",
+          "zh": "公牛把注意力转向了斗牛士。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去进行时 (Past Continuous Tense)",
+      "definition": "表示过去某个时刻正在进行的动作，由was/were + 动词-ing构成",
+      "structure": "主语 + was/were + 动词-ing + 时间/动作",
+      "usage": "用于描述过去正在发生的动作，或作为另一动作的背景",
+      "examples": [
+        {
+          "en": "The bull was busy with the matador at the time.",
+          "zh": "当时公牛正忙着对付斗牛士。"
+        },
+        {
+          "en": "The drunk was shouting rude remarks and waving a red cap.",
+          "zh": "醉汉正大声说着粗鲁的话并挥动着一顶红帽子。"
+        }
+      ]
+    },
+    {
+      "title": "连词but与however表示转折",
+      "definition": "but是并列连词，连接两个并列成分；however是副词，需用逗号隔开",
+      "structure": "句子1 + but + 句子2 / 句子1, however, + 句子2",
+      "usage": "用于连接两个意思相反或相对立的分句，表示转折关系",
+      "examples": [
+        {
+          "en": "The crowd began to shout, but the drunk was unaware of the danger.",
+          "zh": "观众开始叫喊，但醉汉没有意识到危险。"
+        },
+        {
+          "en": "The crowd suddenly grew quiet. The drunk, however, seemed quite sure of himself.",
+          "zh": "观众突然安静下来。然而醉汉却似乎很有把握。"
+        }
+      ]
+    },
+    {
+      "title": "When引导的时间状语从句",
+      "definition": "when引导的时间状语从句，主句和从句的动作可能同时发生或先后发生",
+      "structure": "When + 从句, 主句 / 主句 + when + 从句",
+      "usage": "用于表示某个动作发生的时间，主句用过去时态时，从句也常用过去时",
+      "examples": [
+        {
+          "en": "When the bull got close to him, he clumsily stepped aside.",
+          "zh": "当公牛靠近他时，他笨拙地闪到一边。"
+        },
+        {
+          "en": "The drunk bowed when the crowd broke into cheers.",
+          "zh": "当观众爆发出欢呼声时，醉汉鞠了一躬。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "When + 主语 + 过去时, 主语 + 过去时",
+      "original": {
+        "en": "When the bull got close to him, he clumsily stepped aside to let it pass.",
+        "zh": "当公牛靠近他时，他笨拙地闪到一边让它过去。"
+      },
+      "imitations": [
+        {
+          "en": "When the teacher came in, the students stood up.",
+          "zh": "当老师进来时，学生们站了起来。"
+        },
+        {
+          "en": "When it started to rain, we ran into the house.",
+          "zh": "当下雨时，我们跑进了房子。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + be busy with + 名词",
+      "original": {
+        "en": "The bull was busy with the matador at the time.",
+        "zh": "当时公牛正忙着对付斗牛士。"
+      },
+      "imitations": [
+        {
+          "en": "She was busy with her homework.",
+          "zh": "她正忙着做作业。"
+        },
+        {
+          "en": "They were busy with the preparation for the party.",
+          "zh": "他们正忙着为聚会做准备。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + forget all about + 名词/代词 + and + 动词",
+      "original": {
+        "en": "The bull forgot all about the matador and charged at the drunk.",
+        "zh": "公牛完全忘记了斗牛士，向醉汉冲去。"
+      },
+      "imitations": [
+        {
+          "en": "He forgot all about his homework and went out to play.",
+          "zh": "他完全忘记了作业，出去玩儿了。"
+        },
+        {
+          "en": "She forgot all about the meeting and left the office early.",
+          "zh": "她完全忘记了会议，早早地离开了办公室。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + seem + 形容词",
+      "original": {
+        "en": "The drunk, however, seemed quite sure of himself.",
+        "zh": "然而醉汉似乎很有把握。"
+      },
+      "imitations": [
+        {
+          "en": "He seemed very tired after the long walk.",
+          "zh": "走了很长一段路后他似乎很累了。"
+        },
+        {
+          "en": "The weather seemed quite nice this morning.",
+          "zh": "今天早上天气似乎很好。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,398 @@
+{
+  "book": "NCE1",
+  "lesson": "101-102",
+  "title": "Lesson 101",
+  "vocabulary": [
+    {
+      "word": "card",
+      "phonetic": "/kɑːd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "卡片；明信片",
+          "usage": "指一种纸质的通信媒介，常用于问候或简短留言"
+        }
+      ]
+    },
+    {
+      "word": "arrive",
+      "phonetic": "/əˈraɪv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "到达；抵达",
+          "usage": "arrive in+大地方，arrive at+小地方"
+        }
+      ]
+    },
+    {
+      "word": "Scotland",
+      "phonetic": "/ˈskɒtlənd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "苏格兰",
+          "usage": "英国的一部分，位于大不列颠岛北部"
+        }
+      ]
+    },
+    {
+      "word": "Youth Hostel",
+      "phonetic": "/juːθ ˈhɒstl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "青年旅舍",
+          "usage": "为年轻旅行者提供廉价住宿的地方"
+        }
+      ]
+    },
+    {
+      "word": "member",
+      "phonetic": "/ˈmembə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "成员；会员",
+          "usage": "某个组织或团体的一员"
+        }
+      ]
+    },
+    {
+      "word": "association",
+      "phonetic": "/əˌsəʊsiˈeɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "协会；社团",
+          "usage": "指某个组织或团体"
+        }
+      ]
+    },
+    {
+      "word": "letter",
+      "phonetic": "/ˈletə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "信；信件",
+          "usage": "书面的通信方式，比card更长更正式"
+        }
+      ]
+    },
+    {
+      "word": "soon",
+      "phonetic": "/suːn/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "很快；不久",
+          "usage": "表示时间不长就会发生"
+        }
+      ]
+    },
+    {
+      "word": "well",
+      "phonetic": "/wel/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "健康的；身体好的",
+          "usage": "表示身体状况良好"
+        }
+      ]
+    },
+    {
+      "word": "speak up",
+      "phonetic": "/spiːk ʌp/",
+      "meanings": [
+        {
+          "pos": "verb phrase",
+          "meaning": "大声说；提高音量",
+          "usage": "要求对方说得更大声、更清楚"
+        }
+      ]
+    },
+    {
+      "word": "afraid",
+      "phonetic": "/əˈfreɪd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "恐怕；担心",
+          "usage": "I'm afraid 常用于礼貌地表达不好的消息或歉意"
+        }
+      ]
+    },
+    {
+      "word": "hear",
+      "phonetic": "/hɪə/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "听见；听到",
+          "usage": "用耳朵接收声音，强调听到的结果"
+        }
+      ]
+    },
+    {
+      "word": "love",
+      "phonetic": "/lʌv/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "爱；关爱（用于信末结束语）",
+          "usage": "写在信末尾表示对收信人的感情"
+        }
+      ]
+    },
+    {
+      "word": "stay",
+      "phonetic": "/steɪ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "停留；暂住",
+          "usage": "指在某个地方暂时居住"
+        }
+      ]
+    },
+    {
+      "word": "just",
+      "phonetic": "/dʒʌst/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "刚刚；刚才",
+          "usage": "表示刚刚完成的动作，用于现在完成时"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Youth Hostels Association",
+      "usage": "青年旅舍协会的缩写形式，常用缩写Y.H.A.",
+      "examples": [
+        {
+          "en": "He's a member of the Y.H.A.",
+          "zh": "他是青年旅舍协会的会员。"
+        }
+      ]
+    },
+    {
+      "phrase": "speak up",
+      "usage": "要求对方提高音量或说得更清楚",
+      "examples": [
+        {
+          "en": "What? Speak up, Penny.",
+          "zh": "什么？彭妮，说大声点。"
+        }
+      ]
+    },
+    {
+      "phrase": "I'm afraid I can't hear you",
+      "usage": "礼貌地表示听不清对方说的话",
+      "examples": [
+        {
+          "en": "I'm afraid I can't hear you.",
+          "zh": "恐怕我听不清你说的话。"
+        }
+      ]
+    },
+    {
+      "phrase": "write a letter soon",
+      "usage": "表示将在不久后写信",
+      "examples": [
+        {
+          "en": "He says he'll write a letter soon.",
+          "zh": "他说他很快会写一封信。"
+        }
+      ]
+    },
+    {
+      "phrase": "I hope you are all well",
+      "usage": "用于书信中表达对收信人的问候",
+      "examples": [
+        {
+          "en": "I hope you are all well.",
+          "zh": "我希望你们都身体健康。"
+        }
+      ]
+    },
+    {
+      "phrase": "Love, Jimmy",
+      "usage": "信末的结束语，表达爱意",
+      "examples": [
+        {
+          "en": "Love, Jimmy.",
+          "zh": "爱你的，吉米。"
+        }
+      ]
+    },
+    {
+      "phrase": "arrive in Scotland",
+      "usage": "表示到达苏格兰",
+      "examples": [
+        {
+          "en": "He has just arrived in Scotland.",
+          "zh": "他刚刚到达苏格兰。"
+        }
+      ]
+    },
+    {
+      "phrase": "stay at a Youth Hostel",
+      "usage": "表示住在青年旅舍",
+      "examples": [
+        {
+          "en": "I'm staying at a Youth Hostel.",
+          "zh": "我住在一家青年旅舍。"
+        }
+      ]
+    },
+    {
+      "phrase": "a member of",
+      "usage": "表示是某个组织的成员",
+      "examples": [
+        {
+          "en": "You know he's a member of the Y.H.A.",
+          "zh": "你知道他是青年旅舍协会的成员。"
+        }
+      ]
+    },
+    {
+      "phrase": "He doesn't say very much",
+      "usage": "表示某人说的话不多",
+      "examples": [
+        {
+          "en": "He doesn't say very much, does he?",
+          "zh": "他没说什么，不是吗？"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "间接引语 - 陈述句 (Reported Speech: Statements)",
+      "definition": "转述别人的话时，需要改变人称、时态和地点/时间状语。",
+      "structure": "主语 + says (that) + 主语 + 动词...",
+      "usage": "当直接引语是陈述句时，用that引导间接引语。如果主句动词是现在时（如says），间接引语的时态通常不变。",
+      "examples": [
+        {
+          "en": "He says: 'I have just arrived in Scotland.' → He says (that) he has just arrived in Scotland.",
+          "zh": "他说：'我刚到苏格兰。' → 他说他刚到苏格兰。"
+        },
+        {
+          "en": "He says: 'I'm staying at a Youth Hostel.' → He says (that) he's staying at a Youth Hostel.",
+          "zh": "他说：'我住在青年旅舍。' → 他说他住在青年旅舍。"
+        },
+        {
+          "en": "He says: 'I'll write a letter soon.' → He says (that) he'll write a letter soon.",
+          "zh": "他说：'我很快会写信。' → 他说他很快会写信。"
+        }
+      ]
+    },
+    {
+      "title": "that引导的宾语从句",
+      "definition": "在转述动词（say, tell等）后面，用that引导的宾语从句来引用原话。",
+      "structure": "主句 + that + 从句",
+      "usage": "that在口语中常可省略，但含义不变。",
+      "examples": [
+        {
+          "en": "He says (that) he hopes we are all well.",
+          "zh": "他说他希望我们都好。"
+        },
+        {
+          "en": "She tells me (that) she is coming tomorrow.",
+          "zh": "她告诉我她明天来。"
+        }
+      ]
+    },
+    {
+      "title": "反义疑问句 (Tag Questions)",
+      "definition": "在陈述句后面加上简短的问句，表示确认或征求同意。",
+      "structure": "肯定陈述句 + 否定疑问尾句？/ 否定陈述句 + 肯定疑问尾句？",
+      "usage": "当前面是肯定句时，疑问尾句用否定形式；当前面是否定句时，疑问尾句用肯定形式。",
+      "examples": [
+        {
+          "en": "He doesn't say very much, does he?",
+          "zh": "他没说什么，不是吗？"
+        },
+        {
+          "en": "You are coming, aren't you?",
+          "zh": "你要来，对吗？"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "He says (that) + 从句",
+      "original": {
+        "en": "He says he's just arrived in Scotland.",
+        "zh": "他说他刚到苏格兰。"
+      },
+      "imitations": [
+        {
+          "en": "He says (that) he is tired.",
+          "zh": "他说他累了。"
+        },
+        {
+          "en": "She says (that) she likes English.",
+          "zh": "她说她喜欢英语。"
+        }
+      ]
+    },
+    {
+      "pattern": "What does he say?",
+      "original": {
+        "en": "What does he say? He says he is staying at a Youth Hostel.",
+        "zh": "他说什么？他说他住在青年旅舍。"
+      },
+      "imitations": [
+        {
+          "en": "What does she say? She says she is busy.",
+          "zh": "她说什么？她说她很忙。"
+        },
+        {
+          "en": "What does Tom say? He says he will call later.",
+          "zh": "汤姆说什么？他说他稍后会打电话。"
+        }
+      ]
+    },
+    {
+      "pattern": "...doesn't...? (反义疑问句)",
+      "original": {
+        "en": "He doesn't say very much, does he?",
+        "zh": "他没说什么，不是吗？"
+      },
+      "imitations": [
+        {
+          "en": "You are not listening, are you?",
+          "zh": "你不是在听，对吗？"
+        },
+        {
+          "en": "She doesn't know him, does she?",
+          "zh": "她不认识他，是吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "I'm afraid I can't...",
+      "original": {
+        "en": "I'm afraid I can't hear you.",
+        "zh": "恐怕我听不清你说的话。"
+      },
+      "imitations": [
+        {
+          "en": "I'm afraid I can't help you.",
+          "zh": "恐怕我帮不了你。"
+        },
+        {
+          "en": "I'm afraid I don't understand.",
+          "zh": "恐怕我不明白。"
+        }
+      ]
+    }
+  ]
+}

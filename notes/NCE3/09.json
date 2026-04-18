@@ -1,0 +1,348 @@
+{
+  "book": "NCE3",
+  "lesson": "09",
+  "title": "Lesson 9",
+  "vocabulary": [
+    {
+      "word": "fascinate",
+      "phonetic": "/ˈfæsɪneɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "深深吸引；迷住",
+          "usage": "主语可以是人或事物，常用搭配：sth fascinates sb 某物吸引某人；be fascinated by/with 被……吸引"
+        }
+      ]
+    },
+    {
+      "word": "affectionate",
+      "phonetic": "/əˈfekʃənət/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "充满爱的；亲切的",
+          "usage": "常用于描述人或动物的态度，常用搭配：be affectionate towards sb 对某人亲切友爱"
+        }
+      ]
+    },
+    {
+      "word": "mysterious",
+      "phonetic": "/mɪˈstɪəriəs/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "神秘的；难以解释的",
+          "usage": "可修饰人、事物或现象，用来描述不为人知的特性"
+        }
+      ]
+    },
+    {
+      "word": "submissive",
+      "phonetic": "/səbˈmɪsɪv/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "顺从的；服从的",
+          "usage": "常用来描述人或动物愿意服从他人指令的状态，搭配：be submissive to sb 对某人顺从"
+        }
+      ]
+    },
+    {
+      "word": "feline",
+      "phonetic": "/ˈfiːlaɪn/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "猫科的；猫似的",
+          "usage": "多用于正式语境修饰和猫相关的特性，也可作名词表示“猫科动物”"
+        }
+      ]
+    },
+    {
+      "word": "independence",
+      "phonetic": "/ˌɪndɪˈpendəns/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "独立；自主",
+          "usage": "不可数名词，常见搭配：gain independence 获得独立；respect one's independence 尊重某人的独立性"
+        }
+      ]
+    },
+    {
+      "word": "suspicious",
+      "phonetic": "/səˈspɪʃəs/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "怀疑的；可疑的",
+          "usage": "常用搭配：be suspicious of sb/sth 对某人/某物心存怀疑"
+        }
+      ]
+    },
+    {
+      "word": "apparently",
+      "phonetic": "/əˈpærəntli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "显然；看来",
+          "usage": "多用于句首或句中，说明根据现有情况得出的明显结论"
+        }
+      ]
+    },
+    {
+      "word": "survive",
+      "phonetic": "/səˈvaɪv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "幸存；活下来",
+          "usage": "可作及物动词直接接宾语（survive sth 从某事故中幸存），也可作不及物动词"
+        }
+      ]
+    },
+    {
+      "word": "ideal",
+      "phonetic": "/aɪˈdiːəl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "理想的；完美的",
+          "usage": "常用搭配：be ideal for sth/sb 对某事/某人来说是理想的"
+        }
+      ]
+    },
+    {
+      "word": "shortage",
+      "phonetic": "/ˈʃɔːtɪdʒ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "不足；短缺",
+          "usage": "可数/不可数名词，搭配：shortage of sth 某物短缺；no shortage of 不缺少……"
+        }
+      ]
+    },
+    {
+      "word": "paratrooper",
+      "phonetic": "/ˈpærətruːpə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "伞兵",
+          "usage": "可数名词，指受过跳伞训练的军人"
+        }
+      ]
+    },
+    {
+      "word": "resistance",
+      "phonetic": "/rɪˈzɪstəns/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "抵抗力；阻力",
+          "usage": "不可数名词，常用搭配：air resistance 空气阻力；resistance to sth 对……的抵抗力"
+        }
+      ]
+    },
+    {
+      "word": "impact",
+      "phonetic": "/ˈɪmpækt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "冲击力；影响",
+          "usage": "表示“冲击力”时为不可数，表“影响”时可数/不可数，搭配：impact of sth 某物的影响；shock of impact 撞击冲击"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "never fail to",
+      "usage": "双重否定结构，加强肯定语气，意为“一定会；从未不”，语气比直接用肯定形式更强烈",
+      "examples": [
+        {
+          "en": "Cats never fail to fascinate human beings.",
+          "zh": "猫总能引起人类的极大兴趣。"
+        },
+        {
+          "en": "She never fails to call her parents every weekend.",
+          "zh": "她每个周末一定会给父母打电话。"
+        }
+      ]
+    },
+    {
+      "phrase": "be based on",
+      "usage": "表示“以……为基础；基于……”，主语通常为理论、故事、结论等抽象事物",
+      "examples": [
+        {
+          "en": "A cat's ability to survive falls is based on fact.",
+          "zh": "猫在坠落中存活的能力是有事实依据的。"
+        },
+        {
+          "en": "The movie is based on a real historical event.",
+          "zh": "这部电影是基于真实历史事件改编的。"
+        }
+      ]
+    },
+    {
+      "phrase": "have sth in common",
+      "usage": "表示“有共同之处”，可接介词with表示“和某人/某物有共同点”",
+      "examples": [
+        {
+          "en": "All these cats had one experience in common: they had fallen off high buildings.",
+          "zh": "所有这些猫都有一个共同的经历：它们都曾从高楼上掉下来过。"
+        },
+        {
+          "en": "The two sisters have nothing in common in terms of hobbies.",
+          "zh": "这两姐妹在爱好方面没有任何共同点。"
+        }
+      ]
+    },
+    {
+      "phrase": "die from",
+      "usage": "表示“死于（外部原因，如事故、伤害等）”，区别于die of（多用于死于内部疾病、情感等）",
+      "examples": [
+        {
+          "en": "Only eight of them died from shock or injuries.",
+          "zh": "它们中只有8只死于休克或受伤。"
+        },
+        {
+          "en": "Many people in the accident died from serious burns.",
+          "zh": "事故中的很多人死于严重烧伤。"
+        }
+      ]
+    },
+    {
+      "phrase": "no shortage of",
+      "usage": "表示“不缺少；充足的”，后接可数名词复数或不可数名词",
+      "examples": [
+        {
+          "en": "There is no shortage of tall buildings in New York.",
+          "zh": "纽约不缺高楼大厦。"
+        },
+        {
+          "en": "There is no shortage of talented young people in this industry.",
+          "zh": "这个行业里不缺有天赋的年轻人。"
+        }
+      ]
+    },
+    {
+      "phrase": "suffer from",
+      "usage": "表示“遭受；患有（疾病、伤痛等）”，后接具体的病痛、困难等名词",
+      "examples": [
+        {
+          "en": "Sabrina fell 32 storeys, yet only suffered from a broken tooth.",
+          "zh": "萨布丽娜从32层楼掉下来，却只断了一颗牙。"
+        },
+        {
+          "en": "Many office workers suffer from back pain these days.",
+          "zh": "现在很多上班族都有背痛的问题。"
+        }
+      ]
+    },
+    {
+      "phrase": "stretch out",
+      "usage": "表示“伸展；伸开（肢体）”，可接宾语也可单独使用",
+      "examples": [
+        {
+          "en": "They stretch out their legs like flying squirrels.",
+          "zh": "它们把腿伸展开，就像飞鼠一样。"
+        },
+        {
+          "en": "He stretched out on the sofa and fell asleep soon.",
+          "zh": "他在沙发上舒展身体，很快就睡着了。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "the + 比较级, the + 比较级 结构",
+      "definition": "表示“越……，就越……”，用于描述两个变化过程的相关性",
+      "structure": "The + 形容词/副词比较级 + 句子，the + 形容词/副词比较级 + 句子",
+      "usage": "第一个句子相当于条件状语，第二个句子是结果，语序通常为陈述语序，口语中可省略和主句相同的成分",
+      "examples": [
+        {
+          "en": "It seems that the further cats fall, the less they are likely to injure themselves.",
+          "zh": "看起来猫坠落的距离越远，它们受伤的可能性就越小。"
+        },
+        {
+          "en": "The harder you work, the more progress you will make.",
+          "zh": "你越努力，取得的进步就越大。"
+        }
+      ]
+    },
+    {
+      "title": "It seems that 主语从句结构",
+      "definition": "用于表达不确定的判断或看起来的情况，意为“似乎；看起来好像”",
+      "structure": "It seems that + 完整的陈述句",
+      "usage": "it为形式主语，真正的主语是that引导的从句，可与sb/sth seems to do 结构互相转换",
+      "examples": [
+        {
+          "en": "It seems that there is a good deal of truth in this idea.",
+          "zh": "这种说法似乎有不少道理。"
+        },
+        {
+          "en": "It seems that he has already known the news.",
+          "zh": "他好像已经知道这个消息了。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "... never fail to ...",
+      "original": {
+        "en": "Cats never fail to fascinate human beings.",
+        "zh": "猫总能引起人类的极大兴趣。"
+      },
+      "imitations": [
+        {
+          "en": "Traditional Chinese festivals never fail to remind people of their family.",
+          "zh": "中国传统节日总能让人们想起自己的家人。"
+        },
+        {
+          "en": "This movie never fails to make me cry every time I watch it.",
+          "zh": "我每次看这部电影都会被弄哭。"
+        }
+      ]
+    },
+    {
+      "pattern": "One of the things that fascinates us most about ... is the popular belief that ...",
+      "original": {
+        "en": "One of the things that fascinates us most about cats is the popular belief that they have nine lives.",
+        "zh": "关于猫，最让我们着迷的一点是人们普遍认为它们有九条命。"
+      },
+      "imitations": [
+        {
+          "en": "One of the things that fascinates us most about pandas is the popular belief that they are always gentle and cute.",
+          "zh": "关于熊猫，最让我们着迷的一点是人们普遍认为它们总是温顺可爱的。"
+        },
+        {
+          "en": "One of the things that attracts visitors most about this city is the popular belief that it is a paradise for food lovers.",
+          "zh": "关于这座城市，最吸引游客的一点是大家普遍认为它是美食爱好者的天堂。"
+        }
+      ]
+    },
+    {
+      "pattern": "... make a study of ... over a period of ...",
+      "original": {
+        "en": "Recently the New York Animal Medical Centre made a study of 132 cats over a period of five months.",
+        "zh": "最近纽约动物医疗中心对132只猫进行了为期五个月的研究。"
+      },
+      "imitations": [
+        {
+          "en": "The research team made a study of 500 primary school students over a period of two years.",
+          "zh": "该研究团队对500名小学生进行了为期两年的研究。"
+        },
+        {
+          "en": "The company made a study of consumers' habits over a period of six months.",
+          "zh": "该公司对消费者的习惯进行了为期六个月的研究。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,433 @@
+{
+  "book": "NCE1",
+  "lesson": "125-126",
+  "title": "Lesson 125",
+  "vocabulary": [
+    {
+      "word": "terribly",
+      "phonetic": "/ˈterəbli/",
+      "meanings": [
+        {
+          "pos": "adv.",
+          "meaning": "非常，极其",
+          "usage": "用于修饰形容词或副词，表示程度很高"
+        }
+      ]
+    },
+    {
+      "word": "dry",
+      "phonetic": "/draɪ/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "meaning": "干燥的，干旱的",
+          "usage": "形容土地、天气等缺乏水分"
+        },
+        {
+          "pos": "v.",
+          "meaning": "变干，使干燥",
+          "usage": "作动词时表示使某物变干"
+        }
+      ]
+    },
+    {
+      "word": "nuisance",
+      "phonetic": "/ˈnjuːsns/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "令人讨厌的人或事",
+          "usage": "用于抱怨某事或某人令人烦恼"
+        }
+      ]
+    },
+    {
+      "word": "water",
+      "phonetic": "/ˈwɔːtə(r)/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "meaning": "给...浇水，灌溉",
+          "usage": "给植物或花园浇水的动作"
+        }
+      ]
+    },
+    {
+      "word": "remember",
+      "phonetic": "/rɪˈmembə(r)/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "meaning": "记得，记起",
+          "usage": "用于提醒对方回忆过去的事情"
+        }
+      ]
+    },
+    {
+      "word": "means",
+      "phonetic": "/miːnz/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "meaning": "意味着，意思是",
+          "usage": "第三人称单数现在式，表示某事物的含义或结果"
+        }
+      ]
+    },
+    {
+      "word": "pleasant",
+      "phonetic": "/ˈplezənt/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "meaning": "令人愉快的，舒适的",
+          "usage": "形容事物或经历让人感到愉快"
+        }
+      ]
+    },
+    {
+      "word": "surprise",
+      "phonetic": "/səˈpraɪz/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "惊讶，意外",
+          "usage": "表示出乎意料的事情"
+        },
+        {
+          "pos": "v.",
+          "meaning": "使惊讶",
+          "usage": "使某人感到意外"
+        }
+      ]
+    },
+    {
+      "word": "instead",
+      "phonetic": "/ɪnˈsted/",
+      "meanings": [
+        {
+          "pos": "adv.",
+          "meaning": "代替，反而",
+          "usage": "用于表示用某人或某物代替，常与of连用"
+        }
+      ]
+    },
+    {
+      "word": "finish",
+      "phonetic": "/ˈfɪnɪʃ/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "meaning": "完成，结束",
+          "usage": "表示完成某项工作或活动"
+        }
+      ]
+    },
+    {
+      "word": "rain",
+      "phonetic": "/reɪn/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "meaning": "下雨",
+          "usage": "描述天气状况，第三人称单数为rains"
+        },
+        {
+          "pos": "n.",
+          "meaning": "雨，雨水",
+          "usage": "作为名词指降雨"
+        }
+      ]
+    },
+    {
+      "word": "summer",
+      "phonetic": "/ˈsʌmə(r)/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "夏天，夏季",
+          "usage": "一年四季中的夏季"
+        }
+      ]
+    },
+    {
+      "word": "already",
+      "phonetic": "/ɔːlˈredi/",
+      "meanings": [
+        {
+          "pos": "adv.",
+          "meaning": "已经，早已",
+          "usage": "表示某事在说话之前已经发生"
+        }
+      ]
+    },
+    {
+      "word": "look out of",
+      "phonetic": "/lʊk aʊt əv/",
+      "meanings": [
+        {
+          "pos": "phrase",
+          "meaning": "向...外看",
+          "usage": "从窗户或门口向外看的动作"
+        }
+      ]
+    },
+    {
+      "word": "every day",
+      "phonetic": "/ˈevri deɪ/",
+      "meanings": [
+        {
+          "pos": "phrase",
+          "meaning": "每天",
+          "usage": "表示频率，用于描述每天重复的动作"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "have tea",
+      "usage": "喝茶/用茶点，表示喝茶的时间或活动",
+      "examples": [
+        {
+          "en": "Can't you come in and have tea now?",
+          "zh": "你现在不能进来喝茶吗？"
+        },
+        {
+          "en": "I'll have tea by myself.",
+          "zh": "我要自己喝茶了。"
+        }
+      ]
+    },
+    {
+      "phrase": "have to / must",
+      "usage": "必须，不得不。must更强调主观意愿，have to更强调客观需要",
+      "examples": [
+        {
+          "en": "I must water the garden first.",
+          "zh": "我必须先给花园浇水。"
+        },
+        {
+          "en": "Do you have to water it now?",
+          "zh": "你非得现在浇水吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "look out of the window",
+      "usage": "向窗外看",
+      "examples": [
+        {
+          "en": "Look out of the window. It's raining!",
+          "zh": "看窗外！下雨了！"
+        }
+      ]
+    },
+    {
+      "phrase": "What a nuisance!",
+      "usage": "多么讨厌的事！用于表达抱怨或烦恼",
+      "examples": [
+        {
+          "en": "What a nuisance! The garden is dry again.",
+          "zh": "真讨厌！花园又干了。"
+        }
+      ]
+    },
+    {
+      "phrase": "come in",
+      "usage": "进来",
+      "examples": [
+        {
+          "en": "Can't you come in and have tea now?",
+          "zh": "你不能现在进来喝茶吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "by myself",
+      "usage": "独自一人，by oneself 表示某人自己",
+      "examples": [
+        {
+          "en": "Well, I'll have tea by myself.",
+          "zh": "好吧，我一个人喝茶了。"
+        }
+      ]
+    },
+    {
+      "phrase": "That was quick!",
+      "usage": "真快！用于惊讶某人完成某事的速度",
+      "examples": [
+        {
+          "en": "Have you finished already? Yes. That was quick!",
+          "zh": "你已经完成了？是的。真快！"
+        }
+      ]
+    },
+    {
+      "phrase": "It means that...",
+      "usage": "这意味着...，用于说明前文所述情况的结果或含义",
+      "examples": [
+        {
+          "en": "It's raining! That means you don't need to water the garden.",
+          "zh": "下雨了！这意味着你不需要给花园浇水了。"
+        },
+        {
+          "en": "It means I can have tea, instead.",
+          "zh": "这意味着我反而可以喝茶了。"
+        }
+      ]
+    },
+    {
+      "phrase": "Don't you remember?",
+      "usage": "你不记得了吗？用于提醒对方回忆",
+      "examples": [
+        {
+          "en": "Last summer it was very dry, too. Don't you remember?",
+          "zh": "去年夏天也很干旱。你不记得了吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "a pleasant surprise",
+      "usage": "一个惊喜，指令人愉快的意外之事",
+      "examples": [
+        {
+          "en": "That was a pleasant surprise.",
+          "zh": "那真是一个惊喜。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "must 与 have to 的用法区别",
+      "definition": "must和have to都表示'必须'，但must强调主观认为必须，have to强调客观原因迫使必须",
+      "structure": "主语 + must/have to + 动词原形\n主语 + mustn't + 动词原形（表示禁止）",
+      "usage": "must多用于说话人认为必须做某事，have to多用于因外界条件或责任而必须做某事。在肯定句中两者可互换，但have to可用于更多时态",
+      "examples": [
+        {
+          "en": "I must water the garden first.",
+          "zh": "我必须先给花园浇水。（主观认为应该先做）"
+        },
+        {
+          "en": "I had to water it every day last summer.",
+          "zh": "去年夏天我不得不每天浇水。（因为天气干旱）"
+        },
+        {
+          "en": "Do you have to water it now?",
+          "zh": "你非得现在浇水吗？（客观情况需要）"
+        }
+      ]
+    },
+    {
+      "title": "一般现在时第三人称单数 (means)",
+      "definition": "当主语是第三人称单数时，动词需在词尾加-s或-es，means是mean的第三人称单数形式",
+      "structure": "主语（he/she/it/名词单数）+ 动词第三人称单数形式",
+      "usage": "用于描述客观事实、普遍真理或习惯性动作",
+      "examples": [
+        {
+          "en": "It means you don't need to water the garden.",
+          "zh": "这意味着你不需要给花园浇水了。"
+        },
+        {
+          "en": "It means I can have tea, instead.",
+          "zh": "这意味着我反而可以喝茶了。"
+        },
+        {
+          "en": "It rains a lot in summer.",
+          "zh": "夏天下很多雨。"
+        }
+      ]
+    },
+    {
+      "title": "否定疑问句与反义疑问",
+      "definition": "Don't you...? 是否定疑问句形式，用于表达惊讶、确认或责备的语气",
+      "structure": "Don't/Doesn't/Can't + 主语 + 动词...?",
+      "usage": "用否定形式提问，实际期望肯定的回答，常用于表达'你不...吗？'的含义，带有说话人的情绪色彩",
+      "examples": [
+        {
+          "en": "Don't you remember?",
+          "zh": "你不记得了吗？（期望对方记得）"
+        },
+        {
+          "en": "Can't you come in and have tea now?",
+          "zh": "你不能现在进来喝茶吗？（期望对方能进来）"
+        },
+        {
+          "en": "Doesn't she know?",
+          "zh": "她不知道吗？（惊讶她不知道）"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "主语 + must + 动词原形",
+      "original": {
+        "en": "I must water the garden first.",
+        "zh": "我必须先给花园浇水。"
+      },
+      "imitations": [
+        {
+          "en": "I must finish my homework first.",
+          "zh": "我必须先完成作业。"
+        },
+        {
+          "en": "She must call her mother first.",
+          "zh": "她必须先给她妈妈打电话。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + have to + 动词原形",
+      "original": {
+        "en": "Do you have to water it now?",
+        "zh": "你非得现在浇水吗？"
+      },
+      "imitations": [
+        {
+          "en": "Do you have to leave so early?",
+          "zh": "你非得这么早离开吗？"
+        },
+        {
+          "en": "Does he have to work on Sunday?",
+          "zh": "他周日必须工作吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "It means + 主语 + don't/doesn't need to + 动词原形",
+      "original": {
+        "en": "It means you don't need to water the garden.",
+        "zh": "这意味着你不需要给花园浇水了。"
+      },
+      "imitations": [
+        {
+          "en": "It means you don't need to hurry.",
+          "zh": "这意味着你不需要着急。"
+        },
+        {
+          "en": "It means I don't need to cook today.",
+          "zh": "这意味着我今天不需要做饭。"
+        }
+      ]
+    },
+    {
+      "pattern": "...by + oneself",
+      "original": {
+        "en": "I'll have tea by myself.",
+        "zh": "我要自己喝茶了。"
+      },
+      "imitations": [
+        {
+          "en": "She went to the cinema by herself.",
+          "zh": "她独自去电影院了。"
+        },
+        {
+          "en": "He finished the work by himself.",
+          "zh": "他自己完成了工作。"
+        }
+      ]
+    }
+  ]
+}

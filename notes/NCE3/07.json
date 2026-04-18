@@ -1,0 +1,291 @@
+{
+  "book": "NCE3",
+  "lesson": "07",
+  "title": "Lesson 7",
+  "vocabulary": [
+    {
+      "word": "mutilate",
+      "phonetic": "/ˈmjuːtɪleɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "使残缺不全；毁损",
+          "usage": "常指严重损坏物体的外观或完整性，也可指使身体致残"
+        }
+      ]
+    },
+    {
+      "word": "despair",
+      "phonetic": "/dɪˈspeə(r)/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "绝望；失去希望",
+          "usage": "常用结构：despair of (doing) sth 对做某事不抱希望"
+        },
+        {
+          "pos": "noun",
+          "meaning": "绝望",
+          "usage": "不可数名词，常用搭配：in despair 陷入绝望"
+        }
+      ]
+    },
+    {
+      "word": "claim",
+      "phonetic": "/kleɪm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "索赔；要求",
+          "usage": "常用搭配：make a claim for sth 就某物提出索赔"
+        },
+        {
+          "pos": "verb",
+          "meaning": "索要；声称",
+          "usage": "后可接名词或that从句"
+        }
+      ]
+    },
+    {
+      "word": "fiance",
+      "phonetic": "/fiˈɒnseɪ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "未婚夫",
+          "usage": "指已订婚的男性，对应的女性形式为fiancee"
+        }
+      ]
+    },
+    {
+      "word": "safekeeping",
+      "phonetic": "/ˌseɪfˈkiːpɪŋ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "妥善保管，保存",
+          "usage": "不可数名词，常用搭配：for safekeeping 以妥善保管"
+        }
+      ]
+    },
+    {
+      "word": "dismay",
+      "phonetic": "/dɪsˈmeɪ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "诧异；惊愕；失望",
+          "usage": "不可数名词，常用搭配：to one's dismay 令某人惊愕的是"
+        }
+      ]
+    },
+    {
+      "word": "ash",
+      "phonetic": "/æʃ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "灰烬；废墟",
+          "usage": "表示“灰烬”时常用复数形式ashes，不可数名词"
+        }
+      ]
+    },
+    {
+      "word": "identify",
+      "phonetic": "/aɪˈdentɪfaɪ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "识别，辨认出",
+          "usage": "后可直接接宾语，也可用于identify A as B 结构，指认出A是B"
+        }
+      ]
+    },
+    {
+      "word": "spokeswoman",
+      "phonetic": "/ˈspəʊkswʊmən/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "女发言人，女代言人",
+          "usage": "对应的男性形式为spokesman，复数形式为spokeswomen"
+        }
+      ]
+    },
+    {
+      "word": "concern",
+      "phonetic": "/kənˈsɜːn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "涉及；关于",
+          "usage": "主语通常为事件、故事等，表示内容和某人/事相关"
+        },
+        {
+          "pos": "verb",
+          "meaning": "使担忧",
+          "usage": "常用结构：be concerned about 担忧..."
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "deal with",
+      "usage": "表示“处理，应付”，后接问题、事件、人等作宾语",
+      "examples": [
+        {
+          "en": "The team deals with all kinds of customer complaints every day.",
+          "zh": "这个团队每天处理各种各样的客户投诉。"
+        },
+        {
+          "en": "He is good at dealing with difficult situations.",
+          "zh": "他擅长应对困难局面。"
+        }
+      ]
+    },
+    {
+      "phrase": "turn to ash",
+      "usage": "表示“变成灰烬”，属于turn to sth的固定搭配，指转化为某种形态",
+      "examples": [
+        {
+          "en": "The old books turned to ash in the big fire.",
+          "zh": "那些旧书在大火中化成了灰烬。"
+        },
+        {
+          "en": "All his hopes turned to ash when he heard the bad news.",
+          "zh": "听到这个坏消息时，他所有的希望都破灭了。"
+        }
+      ]
+    },
+    {
+      "phrase": "so long as",
+      "usage": "连词短语，引导条件状语从句，意为“只要”，相当于as long as",
+      "examples": [
+        {
+          "en": "So long as you work hard, you will pass the exam.",
+          "zh": "只要你努力学习，你就会通过考试。"
+        },
+        {
+          "en": "We can go out so long as it doesn't rain.",
+          "zh": "只要不下雨，我们就可以出门。"
+        }
+      ]
+    },
+    {
+      "phrase": "for safekeeping",
+      "usage": "固定搭配，表示“为了妥善保管”，在句中作目的状语",
+      "examples": [
+        {
+          "en": "He gave his important documents to his lawyer for safekeeping.",
+          "zh": "他把自己的重要文件交给律师妥善保管。"
+        },
+        {
+          "en": "I put the diamond necklace in the bank for safekeeping.",
+          "zh": "我把钻石项链放在银行妥善保存。"
+        }
+      ]
+    },
+    {
+      "phrase": "it seems (that)",
+      "usage": "常用表达，表示“似乎，看起来”，用于描述不确定的情况或主观推测",
+      "examples": [
+        {
+          "en": "It seems that no one knows what happened last night.",
+          "zh": "似乎没有人知道昨晚发生了什么。"
+        },
+        {
+          "en": "It seems he is not interested in the plan at all.",
+          "zh": "看起来他对这个计划一点都不感兴趣。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "定语从句",
+      "definition": "在复合句中修饰名词或代词的从句，起到定语的作用，被修饰的词叫先行词，关系词连接先行词和从句",
+      "structure": "先行词 + 关系代词/关系副词 + 从句",
+      "usage": "当先行词是人时，常用who/that引导；先行词是物时，常用which/that引导；表示所属关系时用whose引导",
+      "examples": [
+        {
+          "en": "People who live in Britain needn't despair when they make mistakes like this.",
+          "zh": "犯了这类错误的英国人完全不必绝望。"
+        },
+        {
+          "en": "A recent case concerns Jane Butlin whose fiance, John, runs a successful furniture business.",
+          "zh": "最近的一个案例与简·巴特林有关，她的未婚夫约翰经营着一家生意兴隆的家具店。"
+        }
+      ]
+    },
+    {
+      "title": "现在完成时的一般疑问句",
+      "definition": "用于询问到目前为止是否发生过某件事，常和ever等词搭配使用，强调经历",
+      "structure": "Have/Has + 主语 + ever + 动词过去分词 + 其他?",
+      "usage": "常用于询问对方是否有过某种经历，肯定回答用Yes, 主语+have/has，否定回答用No, 主语+haven't/hasn't",
+      "examples": [
+        {
+          "en": "Have you ever put your trousers in the washing machine and then remembered there was a large bank note in your back pocket?",
+          "zh": "你有没有过把裤子放进洗衣机，然后才想起后兜里还有一张大额钞票的经历？"
+        },
+        {
+          "en": "Has she ever travelled abroad alone?",
+          "zh": "她有没有过独自出国旅行的经历？"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Have you ever done sth and then done sth else?",
+      "original": {
+        "en": "Have you ever put your trousers in the washing machine and then remembered there was a large bank note in your back pocket?",
+        "zh": "你有没有过把裤子放进洗衣机，然后才想起后兜里还有一张大额钞票的经历？"
+      },
+      "imitations": [
+        {
+          "en": "Have you ever fallen asleep in class and then woken up to find the teacher standing next to you?",
+          "zh": "你有没有过在课堂上睡着，醒来时发现老师就站在你旁边的经历？"
+        },
+        {
+          "en": "Have you ever ordered a lot of food and then found you couldn't finish it?",
+          "zh": "你有没有过点了很多食物，结果发现自己吃不完的经历？"
+        }
+      ]
+    },
+    {
+      "pattern": "Sb needn't despair when...",
+      "original": {
+        "en": "People who live in Britain needn't despair when they make mistakes like this.",
+        "zh": "犯了这类错误的英国人完全不必绝望。"
+      },
+      "imitations": [
+        {
+          "en": "You needn't despair when you meet difficulties in learning English.",
+          "zh": "你在学习英语时遇到困难不必绝望。"
+        },
+        {
+          "en": "We needn't despair when the experiment fails the first time.",
+          "zh": "第一次实验失败的时候我们不必绝望。"
+        }
+      ]
+    },
+    {
+      "pattern": "So long as..., sb will do sth.",
+      "original": {
+        "en": "So long as there's something to identify, we will give people their money back.",
+        "zh": "只要还有可以识别的东西，我们就会把钱还给当事人。"
+      },
+      "imitations": [
+        {
+          "en": "So long as you keep trying, you will achieve your goal sooner or later.",
+          "zh": "只要你不断尝试，你迟早会实现目标的。"
+        },
+        {
+          "en": "So long as we finish the work before Friday, we can have a three-day holiday.",
+          "zh": "只要我们在周五前完成工作，我们就可以放三天假。"
+        }
+      ]
+    }
+  ]
+}

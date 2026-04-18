@@ -1,0 +1,382 @@
+{
+  "book": "NCE2",
+  "lesson": "18",
+  "title": "What had happened to the writer's bag?",
+  "vocabulary": [
+    {
+      "word": "pub",
+      "phonetic": "/pʌb/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "酒吧；酒馆",
+          "usage": "指提供酒精饮料的公共场所，英国常用"
+        }
+      ]
+    },
+    {
+      "word": "landlord",
+      "phonetic": "/ˈlændlɔːd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "房东；店主",
+          "usage": "指出租房屋或经营店铺的人"
+        }
+      ]
+    },
+    {
+      "word": "bag",
+      "phonetic": "/bæɡ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "袋子；手提包",
+          "usage": "指装东西的容器，此处指手提包"
+        }
+      ]
+    },
+    {
+      "word": "chair",
+      "phonetic": "/tʃeə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "椅子",
+          "usage": "指有靠背的坐具"
+        }
+      ]
+    },
+    {
+      "word": "door",
+      "phonetic": "/dɔː/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "门",
+          "usage": "指建筑物的入口"
+        }
+      ]
+    },
+    {
+      "word": "garden",
+      "phonetic": "/ˈɡɑːdn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "花园；菜园",
+          "usage": "指种植花草蔬菜的地方"
+        }
+      ]
+    },
+    {
+      "word": "meal",
+      "phonetic": "/miːl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "一餐；一顿饭",
+          "usage": "指 breakfast, lunch, dinner 等"
+        }
+      ]
+    },
+    {
+      "word": "bill",
+      "phonetic": "/bɪl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "账单",
+          "usage": "指需要支付的费用的清单"
+        }
+      ]
+    },
+    {
+      "word": "immediately",
+      "phonetic": "/ɪˈmiːdiətli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "立即；马上",
+          "usage": "表示时间上没有延迟"
+        }
+      ]
+    },
+    {
+      "word": "smile",
+      "phonetic": "/smaɪl/",
+      "meanings": [
+        {
+          "pos": "verb/noun",
+          "meaning": "微笑",
+          "usage": "指面露笑容的表情"
+        }
+      ]
+    },
+    {
+      "word": "sorry",
+      "phonetic": "/ˈsɒri/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "抱歉的；遗憾的",
+          "usage": "用于道歉或表示同情"
+        }
+      ]
+    },
+    {
+      "word": "dog",
+      "phonetic": "/dɒɡ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "狗",
+          "usage": "指家养的犬类动物"
+        }
+      ]
+    },
+    {
+      "word": "beside",
+      "phonetic": "/bɪˈsaɪd/",
+      "meanings": [
+        {
+          "pos": "preposition",
+          "meaning": "在...旁边",
+          "usage": "表示位置紧邻"
+        }
+      ]
+    },
+    {
+      "word": "return",
+      "phonetic": "/rɪˈtɜːn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "返回；归还",
+          "usage": "指回到原地或把东西还回去"
+        }
+      ]
+    },
+    {
+      "word": "take",
+      "phonetic": "/teɪk/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "拿；取；带走",
+          "usage": "指移动或携带某物到别处"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "look for",
+      "usage": "寻找，表示搜索或查找的动作过程",
+      "examples": [
+        {
+          "en": "I looked for my bag everywhere.",
+          "zh": "我到处找我的包。"
+        }
+      ]
+    },
+    {
+      "phrase": "have lunch",
+      "usage": "吃午餐，指中午用餐",
+      "examples": [
+        {
+          "en": "We had lunch at a village pub.",
+          "zh": "我们在乡村酒吧吃了午餐。"
+        }
+      ]
+    },
+    {
+      "phrase": "come in",
+      "usage": "进来，指从外面进入室内",
+      "examples": [
+        {
+          "en": "The landlord came in at that moment.",
+          "zh": "就在这时店主进来了。"
+        }
+      ]
+    },
+    {
+      "phrase": "go out",
+      "usage": "出去，指从室内到外面",
+      "examples": [
+        {
+          "en": "The landlord smiled and immediately went out.",
+          "zh": "店主笑了笑马上出去了。"
+        }
+      ]
+    },
+    {
+      "phrase": "give back",
+      "usage": "归还，指把东西还给原主",
+      "examples": [
+        {
+          "en": "He returned with my bag and gave it back to me.",
+          "zh": "他拿着我的包回来并还给了我。"
+        }
+      ]
+    },
+    {
+      "phrase": "in a few minutes",
+      "usage": "几分钟后，表示很短的时间之后",
+      "examples": [
+        {
+          "en": "In a few minutes he returned with my bag.",
+          "zh": "几分钟后他拿着我的包回来了。"
+        }
+      ]
+    },
+    {
+      "phrase": "pay the bill",
+      "usage": "付账，支付用餐或服务的费用",
+      "examples": [
+        {
+          "en": "I can't pay the bill. I haven't got my bag.",
+          "zh": "我付不了账，我没带包。"
+        }
+      ]
+    },
+    {
+      "phrase": "have a good meal",
+      "usage": "吃得好，享用了一顿美餐",
+      "examples": [
+        {
+          "en": "Did you have a good meal?",
+          "zh": "您吃得好吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "take into",
+      "usage": "带进，把某物或某人带到某处",
+      "examples": [
+        {
+          "en": "My dog had taken it into the garden.",
+          "zh": "我的狗把它叼到花园里去了。"
+        }
+      ]
+    },
+    {
+      "phrase": "leave on",
+      "usage": "放在...上（未带走），指将东西留在某处",
+      "examples": [
+        {
+          "en": "I had left it on a chair beside the door.",
+          "zh": "我把它留在门边的椅子上了。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去完成时 (Past Perfect Tense)",
+      "definition": "表示在过去某一时刻之前已经完成的动作或状态，即\"过去的过去\"",
+      "structure": "Subject + had + 过去分词 (done)",
+      "usage": "用于描述两个过去的动作，先发生的动作用过去完成时，后发生的动作用一般过去时。常与 after, before, when, as soon as 等连用，或通过上下文体现时间先后",
+      "examples": [
+        {
+          "en": "After I had had lunch, I looked for my bag.",
+          "zh": "我吃完午饭后，开始找我的包。"
+        },
+        {
+          "en": "I had left it on a chair and now it wasn't there.",
+          "zh": "我把它留在椅子上，现在却不见了。"
+        },
+        {
+          "en": "He said his dog had taken it into the garden.",
+          "zh": "他说他的狗把它叼到花园里去了。"
+        }
+      ]
+    },
+    {
+      "title": "过去进行时 (Past Continuous Tense)",
+      "definition": "表示在过去某一时刻或时间段正在进行的动作",
+      "structure": "Subject + was/were + 动词-ing",
+      "usage": "用于描述正在进行的动作，常与 when, while, as 等连用。when 引导的短句可放在句首或句末",
+      "examples": [
+        {
+          "en": "As I was looking for it, the landlord came in.",
+          "zh": "当我正在找包的时候，店主进来了。"
+        },
+        {
+          "en": "While I was having lunch, someone took my bag.",
+          "zh": "我吃午饭时有人拿走了我的包。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "After + 主语 + had + 过去分词, 主语 + 动词过去式",
+      "original": {
+        "en": "After I had had lunch at a village pub, I looked for my bag.",
+        "zh": "我在乡村酒吧吃完午饭后，开始找我的包。"
+      },
+      "imitations": [
+        {
+          "en": "After I had finished my work, I went home.",
+          "zh": "我完成工作后回家了。"
+        },
+        {
+          "en": "After she had called me, she left.",
+          "zh": "她给我打完电话后就离开了。"
+        }
+      ]
+    },
+    {
+      "pattern": "As + 主语 + was/were + 动词-ing, 主语 + 动词过去式",
+      "original": {
+        "en": "As I was looking for it, the landlord came in.",
+        "zh": "当我正在找包的时候，店主进来了。"
+      },
+      "imitations": [
+        {
+          "en": "As I was walking home, it started to rain.",
+          "zh": "我走路回家时，开始下雨了。"
+        },
+        {
+          "en": "As he was cooking, the phone rang.",
+          "zh": "他做饭时电话响了。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + had + 过去分词 + and + now + 主语 + 动词过去式/否定",
+      "original": {
+        "en": "I had left it on a chair beside the door and now it wasn't there!",
+        "zh": "我把它留在门边的椅子上，现在却不见了！"
+      },
+      "imitations": [
+        {
+          "en": "I had put the keys on the table and now they are missing.",
+          "zh": "我把钥匙放在桌上了，现在不见了。"
+        },
+        {
+          "en": "She had parked her car here and now it's gone.",
+          "zh": "她把车停在这里，现在不见了。"
+        }
+      ]
+    },
+    {
+      "pattern": "In + 一段时间 + 主语 + 动词过去式 + with + 某物",
+      "original": {
+        "en": "In a few minutes he returned with my bag.",
+        "zh": "几分钟后他拿着我的包回来了。"
+      },
+      "imitations": [
+        {
+          "en": "In ten minutes she came back with some flowers.",
+          "zh": "十分钟后她拿着一些花回来了。"
+        },
+        {
+          "en": "In an hour he arrived with good news.",
+          "zh": "一小时后他带着好消息来了。"
+        }
+      ]
+    }
+  ]
+}

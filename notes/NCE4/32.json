@@ -1,0 +1,367 @@
+{
+  "book": "NCE4",
+  "lesson": "32",
+  "title": "Lesson 32",
+  "vocabulary": [
+    {
+      "word": "controversy",
+      "phonetic": "/ˈkɒntrəvɜːsi/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "争论，争议",
+          "usage": "指对某一问题存在的公开、长期的不同意见，常搭配动词arouse/cause/provoke表示“引发争议”，介词over/about引出争议的具体内容"
+        }
+      ]
+    },
+    {
+      "word": "perspective",
+      "phonetic": "/pəˈspektɪv/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "视角，观点；客观判断力",
+          "usage": "表示看待事物的角度，常用搭配in perspective表示“正确客观地看待”，in ... perspective表示“从…角度来看”"
+        }
+      ]
+    },
+    {
+      "word": "despise",
+      "phonetic": "/dɪˈspaɪz/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "鄙视，蔑视",
+          "usage": "带有强烈的轻视感情色彩，宾语可以是人或事物，后可直接接名词/动名词，无被动语态的常用表达"
+        }
+      ]
+    },
+    {
+      "word": "prejudice",
+      "phonetic": "/ˈpredʒudɪs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "偏见，成见",
+          "usage": "常搭配介词against表示“对…的偏见”，动词hold/have prejudice表示“持有偏见”"
+        }
+      ]
+    },
+    {
+      "word": "overthrow",
+      "phonetic": "/ˌəʊvəˈθrəʊ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "推翻，颠覆（观念、制度、统治者）",
+          "usage": "既可以指推翻政权，也可以指推翻旧的理论、观念，过去式和过去分词为overthrew/overthrown"
+        }
+      ]
+    },
+    {
+      "word": "inclined",
+      "phonetic": "/ɪnˈklaɪnd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "倾斜的；有…倾向的",
+          "usage": "作“倾斜的”时修饰具体物体，如inclined plane（斜面）；作“有倾向的”时常用结构be inclined to do sth."
+        }
+      ]
+    },
+    {
+      "word": "generalize",
+      "phonetic": "/ˈdʒenrəlaɪz/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "概括，归纳；推广",
+          "usage": "常搭配介词from表示“从…中归纳”，into表示“归纳为…”，指从具体事例中得出普遍结论"
+        }
+      ]
+    },
+    {
+      "word": "profoundly",
+      "phonetic": "/prəˈfaʊndli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "深刻地，极大地",
+          "usage": "用于修饰表示影响、改变、感受等的抽象动词或形容词，程度比deeply更正式、强烈"
+        }
+      ]
+    },
+    {
+      "word": "sophisticated",
+      "phonetic": "/səˈfɪstɪkeɪtɪd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "复杂精密的；老练的，见多识广的",
+          "usage": "可修饰人表示精通某领域、富有经验，也可修饰事物表示结构复杂、技术先进"
+        }
+      ]
+    },
+    {
+      "word": "immortal",
+      "phonetic": "/ɪˈmɔːtl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "不朽的，流芳百世的",
+          "usage": "用于形容成就、作品、名声等可以长久留存、永远被铭记的事物，反义词为mortal"
+        }
+      ]
+    },
+    {
+      "word": "potentiality",
+      "phonetic": "/pəˌtenʃiˈæləti/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "潜力，可能性",
+          "usage": "正式用词，常用复数形式表示多种潜在的可能性，搭配hidden/great修饰，相当于potential的名词正式形式"
+        }
+      ]
+    },
+    {
+      "word": "intimate",
+      "phonetic": "/ˈɪntɪmət/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "亲密的；详尽的，精通的",
+          "usage": "搭配knowledge/familiarity表示“对…十分精通、熟悉”，也可形容人与人的关系亲密"
+        }
+      ]
+    },
+    {
+      "word": "culpable",
+      "phonetic": "/ˈkʌlpəbl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "应受责备的，有过失的",
+          "usage": "正式法律或书面用词，指对错误、罪行负有责任，常搭配介词for表示“对…负有责任”"
+        }
+      ]
+    },
+    {
+      "word": "allege",
+      "phonetic": "/əˈledʒ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "声称，断言（未证实的事）",
+          "usage": "尤其指在没有证据的情况下公开宣称某事为真，常用被动结构be alleged to do sth."
+        }
+      ]
+    },
+    {
+      "word": "distort",
+      "phonetic": "/dɪˈstɔːt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "扭曲，歪曲",
+          "usage": "可指物体外形的扭曲变形，也可指对事实、观点、真相的歪曲篡改"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "in contrast",
+      "usage": "用于句首或句中，表示前后两种情况形成鲜明对比，可与with/to搭配引出对比的对象",
+      "examples": [
+        {
+          "en": "In contrast, the new approach is much more efficient and environment-friendly.",
+          "zh": "相比之下，新方法要高效、环保得多。"
+        },
+        {
+          "en": "His brother is very outgoing, in contrast, he is quiet and likes reading alone.",
+          "zh": "他的哥哥十分外向，相比之下，他很安静，喜欢独自读书。"
+        }
+      ]
+    },
+    {
+      "phrase": "above all",
+      "usage": "用于强调诸多因素中最重要的一点，通常放在句首或句中作插入语",
+      "examples": [
+        {
+          "en": "When you choose a career, above all, you should consider your interest and long-term development.",
+          "zh": "当你选择职业时，最重要的是要考虑自己的兴趣和长期发展。"
+        },
+        {
+          "en": "The hotel offers perfect service, above all, its location is very convenient for tourists.",
+          "zh": "这家酒店服务很棒，最重要的是，它的位置对游客来说十分便利。"
+        }
+      ]
+    },
+    {
+      "phrase": "put questions to",
+      "usage": "表示向某人/某对象提出疑问、寻求答案，正式书面用法，宾语可以是人或抽象事物",
+      "examples": [
+        {
+          "en": "Good researchers are those who dare to put questions to established theories.",
+          "zh": "优秀的研究者是那些敢于向既定理论提出疑问的人。"
+        },
+        {
+          "en": "During the press conference, reporters put a series of questions to the official.",
+          "zh": "在新闻发布会上，记者们向这位官员提出了一系列问题。"
+        }
+      ]
+    },
+    {
+      "phrase": "call for",
+      "usage": "表示“需要，要求”，主语通常为某件事、某种情况，宾语为需要的品质、行动、条件等",
+      "examples": [
+        {
+          "en": "This difficult task calls for patience, creativity and strong team cooperation.",
+          "zh": "这项艰巨的任务需要耐心、创造力和强有力的团队协作。"
+        },
+        {
+          "en": "The current situation calls for immediate action to prevent the problem from getting worse.",
+          "zh": "当前的形势要求我们立即采取行动，防止问题进一步恶化。"
+        }
+      ]
+    },
+    {
+      "phrase": "be familiar with",
+      "usage": "表示“熟悉，了解”，主语为人，宾语为被熟悉的事物，区别于be familiar to（某物为某人所熟知）",
+      "examples": [
+        {
+          "en": "If you want to work in this field, you must be familiar with the latest industry regulations.",
+          "zh": "如果你想在这个领域工作，你必须熟悉最新的行业规定。"
+        },
+        {
+          "en": "He has lived in the city for 10 years, so he is very familiar with every street here.",
+          "zh": "他在这座城市生活了10年，所以对这里的每一条街都非常熟悉。"
+        }
+      ]
+    },
+    {
+      "phrase": "live on",
+      "usage": "表示“继续存在，流传下去”，主语可以是人（表示靠…为生）或抽象事物（表示留存）",
+      "examples": [
+        {
+          "en": "Although the writer has passed away for decades, his works still live on in the hearts of readers.",
+          "zh": "尽管这位作家已经去世几十年了，他的作品仍然在读者心中流传。"
+        },
+        {
+          "en": "The memory of that historic event will live on for generations to come.",
+          "zh": "对那个历史事件的记忆将会代代传承下去。"
+        }
+      ]
+    },
+    {
+      "phrase": "in one's own right",
+      "usage": "表示“凭借自身的能力、资格”，用于强调某人/某物本身具备的属性，而非依赖他人",
+      "examples": [
+        {
+          "en": "She is a famous artist in her own right, not just the daughter of a well-known director.",
+          "zh": "她本身就是一位著名艺术家，而不仅仅是知名导演的女儿。"
+        },
+        {
+          "en": "This small town is a tourist attraction in its own right, with its unique ancient architecture.",
+          "zh": "这座小镇凭借其独特的古建筑，本身就是一个旅游景点。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "强调句 (Emphatic Sentence)",
+      "definition": "用来突出强调句子的某一成分（通常是主语、宾语、状语）的句式，不改变原句的意思和语法结构",
+      "structure": "It is/was + 被强调部分 + that/who + 句子剩余部分",
+      "usage": "当被强调部分是人时可以用who代替that，其他情况一律用that；被强调的部分可以是名词、短语、状语从句，不能强调谓语动词",
+      "examples": [
+        {
+          "en": "It is only in modern times that Galileo has become a problem child for historians of science.",
+          "zh": "直到现代，伽利略才成了科学史学家眼中的“问题人物”。"
+        },
+        {
+          "en": "It was his courage and honesty that impressed all the interviewers deeply.",
+          "zh": "正是他的勇气和诚实给所有面试官留下了深刻的印象。"
+        },
+        {
+          "en": "It is when you face difficulties that you can truly find out who your real friends are.",
+          "zh": "正是在你面对困难的时候，你才能真正发现谁是你真正的朋友。"
+        }
+      ]
+    },
+    {
+      "title": "让步状语从句 (Adverbial Clause of Concession)",
+      "definition": "用来表示让步关系，即从句所述内容与主句所述内容存在相反或相对的关系，翻译为“尽管，虽然，即使”",
+      "structure": "Although/Though + 从句, 主句；或 主句 + although/though + 从句",
+      "usage": "although和though意义和用法基本一致，都不能和but在同一个句子中连用，但可以和yet/still搭配；可放在句首或句中",
+      "examples": [
+        {
+          "en": "Today, although the old Galileo lives on in many popular writings, among historians of science a new and more sophisticated picture has emerged.",
+          "zh": "今天，虽然旧的伽利略形象仍存在于许多通俗作品中，但在科学史学家中，一个全新的、更复杂的人物形象已经出现。"
+        },
+        {
+          "en": "Although he is very young, he has already won several international awards in the field of AI research.",
+          "zh": "尽管他很年轻，他已经在人工智能研究领域获得了多个国际奖项。"
+        },
+        {
+          "en": "The project is very meaningful, although it will take us a lot of time and energy to complete.",
+          "zh": "这个项目很有意义，尽管完成它会耗费我们大量的时间和精力。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "In his own lifetime ... was the centre of violent controversy, but ... has long since settled, and today we can see ... in something like its proper perspective.",
+      "original": {
+        "en": "In his own lifetime Galileo was the centre of violent controversy, but the scientific dust has long since settled, and today we can see even his famous clash with the Inquisition in something like its proper perspective.",
+        "zh": "在伽利略生前，他是激烈争议的中心，但科学界的尘埃早已落定，如今我们甚至可以相对客观地看待他与宗教裁判所的著名冲突。"
+      },
+      "imitations": [
+        {
+          "en": "In his own lifetime Van Gogh was the centre of violent controversy, but the artistic dust has long since settled, and today we can see even his weird behavior in something like its proper perspective.",
+          "zh": "在梵高生前，他是激烈争议的中心，但艺术界的尘埃早已落定，如今我们甚至可以相对客观地看待他那些怪异的行为。"
+        },
+        {
+          "en": "When the policy was first introduced, it was the centre of violent controversy, but the social dust has long since settled, and today we can see its long-term effects in something like its proper perspective.",
+          "zh": "这项政策刚推出时，是激烈争议的中心，但社会层面的尘埃早已落定，如今我们可以相对客观地看待它的长期影响。"
+        }
+      ]
+    },
+    {
+      "pattern": "Was ... more culpable than those who ... ?",
+      "original": {
+        "en": "Was the philosopher who refused to look through Galileo's telescope more culpable than those who alleged that the spiral nebulae observed with Lord Rosse's great telescope in the 1840s were scratches left by the grinder?",
+        "zh": "难道拒绝透过伽利略望远镜观看的哲学家，比那些声称19世纪40年代用罗斯勋爵的大望远镜观测到的螺旋星云是磨镜工留下的划痕的人更应受到责备吗？"
+      },
+      "imitations": [
+        {
+          "en": "Was the young man who refused to donate all his savings more culpable than those who force others to give money under the name of charity?",
+          "zh": "难道拒绝捐出全部积蓄的年轻人，比那些打着慈善名义强迫他人捐款的人更应受到责备吗？"
+        },
+        {
+          "en": "Was the teacher who punished the naughty student more culpable than those who ignore students' bad behavior for fear of causing trouble?",
+          "zh": "难道惩罚淘气学生的老师，比那些怕惹麻烦而对学生不良行为视而不见的人更应受到责备吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "We can perhaps forgive those who ... if we recall that ...",
+      "original": {
+        "en": "We can perhaps forgive those who said the moons of Jupiter were produced by Galileo's spyglass if we recall that in his day, as for centuries before, curved glass was the popular contrivance for producing not truth but illusion, untruth.",
+        "zh": "如果我们回忆起，在伽利略的时代，以及之前的几个世纪里，曲面玻璃是用来制造幻象而非真相的常用装置，我们或许可以原谅那些声称木星的卫星是伽利略的小望远镜造出来的人。"
+      },
+      "imitations": [
+        {
+          "en": "We can perhaps forgive those who doubted the new technology if we recall that similar innovations had failed many times in the past and caused huge losses.",
+          "zh": "如果我们回忆起类似的创新过去曾多次失败并造成巨大损失，我们或许可以原谅那些质疑这项新技术的人。"
+        },
+        {
+          "en": "We can perhaps forgive those who got angry in that situation if we recall that they had been waiting for three hours in the heavy rain without any notice.",
+          "zh": "如果我们回忆起他们在大雨里没有收到任何通知地等了三个小时，我们或许可以原谅那些在那种情况下生气的人。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "book": "NCE2",
+  "lesson": "39",
+  "title": "Why did Mr. Gilbert telephone Dr. Millington?",
+  "vocabulary": [
+    {
+      "word": "hospital",
+      "phonetic": "/ˈhɒspɪtl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "医院",
+          "usage": "表示医疗机构的通用词汇"
+        }
+      ]
+    },
+    {
+      "word": "operation",
+      "phonetic": "/ˌɒpəˈreɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "手术",
+          "usage": "指医疗手术"
+        }
+      ]
+    },
+    {
+      "word": "successful",
+      "phonetic": "/səkˈsesfl/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "成功的",
+          "usage": "表示某事取得了预期结果"
+        }
+      ]
+    },
+    {
+      "word": "patient",
+      "phonetic": "/ˈpeɪʃnt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "病人",
+          "usage": "指接受医疗的人"
+        }
+      ]
+    },
+    {
+      "word": "telephone",
+      "phonetic": "/ˈtelɪfəʊn/",
+      "meanings": [
+        {
+          "pos": "noun/verb",
+          "meaning": "电话/打电话",
+          "usage": "作名词指电话设备，作动词指打电话"
+        }
+      ]
+    },
+    {
+      "word": "exchange",
+      "phonetic": "/ɪksˈtʃeɪndʒ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "电话总机/交换台",
+          "usage": "指电话系统的转接中心"
+        }
+      ]
+    },
+    {
+      "word": "inquire",
+      "phonetic": "/ɪnˈkwaɪə(r)/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "询问；打听",
+          "usage": "正式用法，比ask更正式"
+        }
+      ]
+    },
+    {
+      "word": "certain",
+      "phonetic": "/ˈsɜːtn/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "某个；一定的",
+          "usage": "修饰名词，表示不确定的某一个"
+        }
+      ]
+    },
+    {
+      "word": "allow",
+      "phonetic": "/əˈlaʊ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "允许；准许",
+          "usage": "用于被动语态be allowed to表示被允许做某事"
+        }
+      ]
+    },
+    {
+      "word": "relative",
+      "phonetic": "/ˈrelətɪv/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "亲戚；亲属",
+          "usage": "指有血缘或婚姻关系的人"
+        }
+      ]
+    },
+    {
+      "word": "refuse",
+      "phonetic": "/rɪˈfjuːz/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "拒绝",
+          "usage": "refuse to do sth. 表示拒绝做某事"
+        }
+      ]
+    },
+    {
+      "word": "following",
+      "phonetic": "/ˈfɒləʊɪŋ/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "接着的；以下的",
+          "usage": "the following day/week 表示第二天/下周"
+        }
+      ]
+    },
+    {
+      "word": "alone",
+      "phonetic": "/əˈləʊn/",
+      "meanings": [
+        {
+          "pos": "adj/adv",
+          "meaning": "独自的/地",
+          "usage": "表示没有其他人陪伴"
+        }
+      ]
+    },
+    {
+      "word": "stay",
+      "phonetic": "/steɪ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "停留；待",
+          "usage": "stay in hospital 表示住院"
+        }
+      ]
+    },
+    {
+      "word": "bedside",
+      "phonetic": "/ˈbedsaɪd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "床边",
+          "usage": "复合词，bed床+side边"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "be in hospital",
+      "usage": "住院，表示生病或接受治疗而在医院",
+      "examples": [
+        {
+          "en": "John Gilbert was in hospital last week.",
+          "zh": "约翰·吉尔伯特上周住院了。"
+        }
+      ]
+    },
+    {
+      "phrase": "the following day",
+      "usage": "第二天，指某事件之后的那一天",
+      "examples": [
+        {
+          "en": "The following day, the patient asked for a telephone.",
+          "zh": "第二天，病人要了一个电话。"
+        }
+      ]
+    },
+    {
+      "phrase": "ask for",
+      "usage": "请求；要",
+      "examples": [
+        {
+          "en": "He asked for a bedside telephone.",
+          "zh": "他要了一个床边电话。"
+        }
+      ]
+    },
+    {
+      "phrase": "be alone",
+      "usage": "独自一人",
+      "examples": [
+        {
+          "en": "When he was alone, he telephoned the hospital.",
+          "zh": "当他独自一人时，他给医院打了电话。"
+        }
+      ]
+    },
+    {
+      "phrase": "ask sb. to do sth.",
+      "usage": "请求某人做某事",
+      "examples": [
+        {
+          "en": "He asked his doctor to tell him about the operation.",
+          "zh": "他请求医生告诉他关于手术的情况。"
+        }
+      ]
+    },
+    {
+      "phrase": "be allowed to do sth.",
+      "usage": "被允许做某事",
+      "examples": [
+        {
+          "en": "When would he be allowed to go home?",
+          "zh": "什么时候他才被允许回家？"
+        }
+      ]
+    },
+    {
+      "phrase": "stay in hospital",
+      "usage": "住院",
+      "examples": [
+        {
+          "en": "He would have to stay in hospital for another two weeks.",
+          "zh": "他还得再住院两周。"
+        }
+      ]
+    },
+    {
+      "phrase": "telephone the hospital exchange",
+      "usage": "给医院总机打电话",
+      "examples": [
+        {
+          "en": "He telephoned the hospital exchange.",
+          "zh": "他给医院总机打了电话。"
+        }
+      ]
+    },
+    {
+      "phrase": "be a relative of",
+      "usage": "是...的亲戚",
+      "examples": [
+        {
+          "en": "Are you a relative of the patient?",
+          "zh": "你是病人的亲戚吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "refuse to do sth.",
+      "usage": "拒绝做某事",
+      "examples": [
+        {
+          "en": "The doctor refused to tell him.",
+          "zh": "医生拒绝告诉他。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去进行时 (Past Continuous Tense)",
+      "definition": "表示在过去某一时刻或某一段时间正在进行的动作",
+      "structure": "主语 + was/were + 动词-ing",
+      "usage": "用于描述过去正在发生的事件背景",
+      "examples": [
+        {
+          "en": "While John Gilbert was in hospital, he asked his doctor to tell him...",
+          "zh": "当约翰·吉尔伯特住院时，他请求医生告诉他..."
+        }
+      ]
+    },
+    {
+      "title": "间接引语 (Indirect Speech)",
+      "definition": "转述别人的话，而不是直接引用",
+      "structure": "主句过去式 + that + 陈述句（人称、时态等相应变化）",
+      "usage": "用于转述问句和答句",
+      "examples": [
+        {
+          "en": "He asked if Mr. Gilbert's operation had been successful.",
+          "zh": "他问吉尔伯特先生的手术是否成功。"
+        }
+      ]
+    },
+    {
+      "title": "一般过去时 (Past Simple Tense)",
+      "definition": "表示在过去某一时间完成的动作或存在的状态",
+      "structure": "主语 + 动词过去式",
+      "usage": "描述故事中一系列已完成的行动",
+      "examples": [
+        {
+          "en": "He telephoned the hospital exchange and asked for Doctor Millington.",
+          "zh": "他给医院总机打电话，要找米灵顿医生。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "ask + sb. + to do sth.",
+      "original": {
+        "en": "He asked his doctor to tell him whether his operation had been successful.",
+        "zh": "他请求医生告诉他手术是否成功。"
+      },
+      "imitations": [
+        {
+          "en": "She asked her teacher to explain the grammar.",
+          "zh": "她请求老师解释语法。"
+        },
+        {
+          "en": "They asked me to wait outside.",
+          "zh": "他们让我在外面等。"
+        }
+      ]
+    },
+    {
+      "pattern": "be + allowed + to do sth.",
+      "original": {
+        "en": "When would Mr. Gilbert be allowed to go home?",
+        "zh": "什么时候允许吉尔伯特先生回家？"
+      },
+      "imitations": [
+        {
+          "en": "When will I be allowed to leave the hospital?",
+          "zh": "什么时候允许我出院？"
+        },
+        {
+          "en": "Children are not allowed to watch this film.",
+          "zh": "孩子们不被允许看这部电影。"
+        }
+      ]
+    },
+    {
+      "pattern": "be + in + hospital",
+      "original": {
+        "en": "While John Gilbert was in hospital, he asked his doctor...",
+        "zh": "当约翰·吉尔伯特住院时，他请求医生..."
+      },
+      "imitations": [
+        {
+          "en": "My grandmother is in hospital now.",
+          "zh": "我奶奶现在在住院。"
+        },
+        {
+          "en": "He spent three months in hospital last year.",
+          "zh": "他去年住了三个月的医院。"
+        }
+      ]
+    },
+    {
+      "pattern": "ask + if/whether + 一般疑问句",
+      "original": {
+        "en": "He asked if Mr. Gilbert's operation had been successful.",
+        "zh": "他问吉尔伯特先生的手术是否成功。"
+      },
+      "imitations": [
+        {
+          "en": "She asked if I was feeling better.",
+          "zh": "她问我是否感觉好些了。"
+        },
+        {
+          "en": "They asked whether the train had arrived.",
+          "zh": "他们问火车是否已经到了。"
+        }
+      ]
+    }
+  ]
+}

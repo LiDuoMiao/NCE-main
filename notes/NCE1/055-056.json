@@ -1,0 +1,410 @@
+{
+  "book": "NCE1",
+  "lesson": "055-056",
+  "title": "Lesson 55",
+  "vocabulary": [
+    {
+      "word": "family",
+      "phonetic": "/ˈfæməli/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "家庭；家人",
+          "usage": "指包括父母和孩子的家庭单位"
+        }
+      ]
+    },
+    {
+      "word": "stay",
+      "phonetic": "/steɪ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "停留；留下",
+          "usage": "表示待在某处不离开，常与at home连用"
+        }
+      ]
+    },
+    {
+      "word": "housework",
+      "phonetic": "/ˈhaʊswɜːk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "家务；家务活",
+          "usage": "不可数名词，指打扫、洗衣等家庭劳动"
+        }
+      ]
+    },
+    {
+      "word": "noon",
+      "phonetic": "/nuːn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "中午；正午",
+          "usage": "通常与at连用，at noon表示在中午"
+        }
+      ]
+    },
+    {
+      "word": "afternoon",
+      "phonetic": "/ˌɑːftəˈnuːn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "下午",
+          "usage": "与in连用，in the afternoon表示在下午"
+        }
+      ]
+    },
+    {
+      "word": "evening",
+      "phonetic": "/ˈiːvnɪŋ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "傍晚；晚上",
+          "usage": "与in连用，in the evening表示在晚上"
+        }
+      ]
+    },
+    {
+      "word": "arrive",
+      "phonetic": "/əˈraɪv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "到达；抵达",
+          "usage": "不及物动词，后接地点时需用介词in/at"
+        }
+      ]
+    },
+    {
+      "word": "newspaper",
+      "phonetic": "/ˈnjuːzpeɪpə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "报纸",
+          "usage": "可数名词，read newspaper表示看报纸"
+        }
+      ]
+    },
+    {
+      "word": "television",
+      "phonetic": "/ˈtelɪvɪʒn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "电视；电视机",
+          "usage": "可简写为TV，watch television表示看电视"
+        }
+      ]
+    },
+    {
+      "word": "homework",
+      "phonetic": "/ˈhəʊmwɜːk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "家庭作业",
+          "usage": "不可数名词，do homework表示做作业"
+        }
+      ]
+    },
+    {
+      "word": "together",
+      "phonetic": "/təˈɡeðə/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "一起；同时",
+          "usage": "表示共同做某事"
+        }
+      ]
+    },
+    {
+      "word": "usually",
+      "phonetic": "/ˈjuːʒuəli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "通常；经常",
+          "usage": "频率副词，表示习惯性动作"
+        }
+      ]
+    },
+    {
+      "word": "always",
+      "phonetic": "/ˈɔːlweɪz/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "总是；永远",
+          "usage": "频率副词，表示100%发生"
+        }
+      ]
+    },
+    {
+      "word": "sometimes",
+      "phonetic": "/ˈsʌmtaɪmz/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "有时；偶尔",
+          "usage": "频率副词，表示偶尔发生"
+        }
+      ]
+    },
+    {
+      "word": "every day",
+      "phonetic": "/ˈevri deɪ/",
+      "meanings": [
+        {
+          "pos": "adverb phrase",
+          "meaning": "每天",
+          "usage": "表示频率，与一般现在时连用描述日常活动"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "live at",
+      "usage": "表示居住在某个地点，后接门牌号或地名",
+      "examples": [
+        {
+          "en": "They live at 87 King Street.",
+          "zh": "他们住在国王街87号。"
+        }
+      ]
+    },
+    {
+      "phrase": "go to work",
+      "usage": "去上班，表示去工作地点",
+      "examples": [
+        {
+          "en": "Mr. Sawyer goes to work every day.",
+          "zh": "索耶先生每天去上班。"
+        }
+      ]
+    },
+    {
+      "phrase": "go to school",
+      "usage": "去上学，表示去学校",
+      "examples": [
+        {
+          "en": "The children go to school in the morning.",
+          "zh": "孩子们早上去上学。"
+        }
+      ]
+    },
+    {
+      "phrase": "take sb. to school",
+      "usage": "送某人去学校",
+      "examples": [
+        {
+          "en": "Their father takes them to school every day.",
+          "zh": "他们的父亲每天送他们去学校。"
+        }
+      ]
+    },
+    {
+      "phrase": "do the housework",
+      "usage": "做家务",
+      "examples": [
+        {
+          "en": "She does the housework at home.",
+          "zh": "她在家里做家务。"
+        }
+      ]
+    },
+    {
+      "phrase": "eat lunch",
+      "usage": "吃午饭",
+      "examples": [
+        {
+          "en": "She always eats her lunch at noon.",
+          "zh": "她总是在中午吃午饭。"
+        }
+      ]
+    },
+    {
+      "phrase": "drink tea",
+      "usage": "喝茶",
+      "examples": [
+        {
+          "en": "They often drink tea together.",
+          "zh": "他们经常一起喝茶。"
+        }
+      ]
+    },
+    {
+      "phrase": "come home",
+      "usage": "回家",
+      "examples": [
+        {
+          "en": "The children come home from school.",
+          "zh": "孩子们从学校回家。"
+        }
+      ]
+    },
+    {
+      "phrase": "do homework",
+      "usage": "做家庭作业",
+      "examples": [
+        {
+          "en": "The children always do their homework.",
+          "zh": "孩子们总是做家庭作业。"
+        }
+      ]
+    },
+    {
+      "phrase": "go to bed",
+      "usage": "上床睡觉",
+      "examples": [
+        {
+          "en": "Then they go to bed.",
+          "zh": "然后他们上床睡觉。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "频率副词在一般现在时中的位置",
+      "definition": "频率副词（always, usually, often, sometimes, never等）用于描述动作发生的频率，在一般现在时的句子中，通常放在行为动词之前，be动词和助动词之后",
+      "structure": "主语 + be动词/助动词 + 频率副词 + 行为动词",
+      "usage": "用于描述习惯性动作或日常活动",
+      "examples": [
+        {
+          "en": "She always eats her lunch at noon.",
+          "zh": "她总是在中午吃午饭。"
+        },
+        {
+          "en": "He usually reads his newspaper.",
+          "zh": "他通常看报纸。"
+        },
+        {
+          "en": "Sometimes he watches television.",
+          "zh": "有时他看电视。"
+        }
+      ]
+    },
+    {
+      "title": "时间介词的用法",
+      "definition": "in, at, on都是表示时间概念的介词，但使用规则不同：in用于较长的时间段（上午、下午、晚上、月份、年份、季节），at用于具体的时刻或短的时间段（中午、夜间），on用于具体日期或星期",
+      "structure": "in + 较长时段 / at + 特定时刻 / on + 具体日期",
+      "usage": "正确使用时间介词是英语表达的基础",
+      "examples": [
+        {
+          "en": "In the morning, Mr. Sawyer goes to work.",
+          "zh": "早上，索耶先生去上班。"
+        },
+        {
+          "en": "She eats lunch at noon.",
+          "zh": "她在中午吃午饭。"
+        },
+        {
+          "en": "In the afternoon, she sees her friends.",
+          "zh": "下午，她去看朋友。"
+        },
+        {
+          "en": "At night, the children do homework.",
+          "zh": "晚上，孩子们做作业。"
+        }
+      ]
+    },
+    {
+      "title": "一般现在时描述日常活动",
+      "definition": "一般现在时用于描述经常发生的动作、习惯或客观事实。当主语是第三人称单数时，动词需要加-s或-es",
+      "structure": "主语 + 动词原形/动词第三人称单数 + 其他",
+      "usage": "描述家庭成员的日常作息规律",
+      "examples": [
+        {
+          "en": "Mr. Sawyer goes to work.",
+          "zh": "索耶先生去上班。"
+        },
+        {
+          "en": "The children go to school.",
+          "zh": "孩子们去上学。"
+        },
+        {
+          "en": "Mrs. Sawyer stays at home.",
+          "zh": "索耶太太待在家里。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "主语 + goes to + 地点",
+      "original": {
+        "en": "Mr. Sawyer goes to work.",
+        "zh": "索耶先生去上班。"
+      },
+      "imitations": [
+        {
+          "en": "She goes to school.",
+          "zh": "她去上学。"
+        },
+        {
+          "en": "He goes to the office every day.",
+          "zh": "他每天去办公室。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + stays at home",
+      "original": {
+        "en": "Mrs. Sawyer stays at home every day.",
+        "zh": "索耶太太每天都待在家里。"
+      },
+      "imitations": [
+        {
+          "en": "He stays at home on weekends.",
+          "zh": "他周末待在家里。"
+        },
+        {
+          "en": "The old man stays at home alone.",
+          "zh": "那位老人独自待在家里。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + does + 名词",
+      "original": {
+        "en": "She does the housework.",
+        "zh": "她做家务。"
+      },
+      "imitations": [
+        {
+          "en": "He does his homework.",
+          "zh": "他做作业。"
+        },
+        {
+          "en": "She does the cooking every day.",
+          "zh": "她每天做饭。"
+        }
+      ]
+    },
+    {
+      "pattern": "In the + 时间段, 主语 + 动词",
+      "original": {
+        "en": "In the evening, the children come home.",
+        "zh": "晚上，孩子们回家。"
+      },
+      "imitations": [
+        {
+          "en": "In the morning, I drink coffee.",
+          "zh": "早上，我喝咖啡。"
+        },
+        {
+          "en": "In the afternoon, she visits her friends.",
+          "zh": "下午，她拜访朋友。"
+        }
+      ]
+    }
+  ]
+}

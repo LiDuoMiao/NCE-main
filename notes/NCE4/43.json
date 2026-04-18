@@ -1,0 +1,287 @@
+{
+  "book": "NCE4",
+  "lesson": "43",
+  "title": "Lesson 43",
+  "vocabulary": [
+    {
+      "word": "rational",
+      "phonetic": "/ˈræʃənl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "合理的；理性的；明智的",
+          "usage": "用来描述基于逻辑思考而非情绪的判断、行为等"
+        }
+      ]
+    },
+    {
+      "word": "approximately",
+      "phonetic": "/əˈprɒksɪmətli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "大约；近似地",
+          "usage": "用于修饰数量、程度等，表不十分精确的估算"
+        }
+      ]
+    },
+    {
+      "word": "prevailing",
+      "phonetic": "/prɪˈveɪlɪŋ/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "普遍的；盛行的；当时存在的",
+          "usage": "用来描述某一时期最常见、占主导的情况或现象"
+        }
+      ]
+    },
+    {
+      "word": "bound",
+      "phonetic": "/baʊnd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "一定会；很可能会",
+          "usage": "常用于be bound to结构，表确定性极强的推断"
+        }
+      ]
+    },
+    {
+      "word": "estimate",
+      "phonetic": "/ˈestɪmeɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "估计；估算；判断",
+          "usage": "指对数量、价值等做出大致的判断，常用于被动语态be estimated at"
+        }
+      ]
+    },
+    {
+      "word": "obstacle",
+      "phonetic": "/ˈɒbstəkl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "障碍；阻碍；障碍物",
+          "usage": "后常接介词to，表示“对…的阻碍”"
+        }
+      ]
+    },
+    {
+      "word": "astronomical",
+      "phonetic": "/ˌæstrəˈnɒmɪkl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "天文学的；天文的；极其巨大的",
+          "usage": "既可修饰和天文相关的事物，也可夸张地形容数量、数值极大"
+        }
+      ]
+    },
+    {
+      "word": "emission",
+      "phonetic": "/iˈmɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "排放；散发；发射物",
+          "usage": "常指气体、辐射、信号等的释放，后可接介词of"
+        }
+      ]
+    },
+    {
+      "word": "interstellar",
+      "phonetic": "/ˌɪntəˈstelə(r)/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "星际的；星球间的",
+          "usage": "用于修饰太空里恒星之间的事物，如interstellar communication星际通讯"
+        }
+      ]
+    },
+    {
+      "word": "rendezvous",
+      "phonetic": "/ˈrɒndɪvuː/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "约会；会面；约会地点",
+          "usage": "可指预先约定的会面，也可指约定的会面地点，正式用法"
+        }
+      ]
+    },
+    {
+      "word": "absurdly",
+      "phonetic": "/əbˈsɜːdli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "荒谬地；荒唐地",
+          "usage": "用来修饰行为、状态等，强调其不合理、可笑的程度"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "be bound to",
+      "usage": "表达对某事发生的确定性推断，语气十分肯定，相当于“一定会，必定会”",
+      "examples": [
+        {
+          "en": "If you work hard, you are bound to make progress sooner or later.",
+          "zh": "如果你努力，迟早一定会取得进步。"
+        },
+        {
+          "en": "There are bound to be unexpected difficulties when starting a new project.",
+          "zh": "启动新项目时一定会遇到意料之外的困难。"
+        }
+      ]
+    },
+    {
+      "phrase": "come up against",
+      "usage": "表示意外遇到困难、问题、反对等，主语通常是人或组织",
+      "examples": [
+        {
+          "en": "We came up against a lack of funds when trying to expand the business.",
+          "zh": "我们试图拓展业务时遇到了资金短缺的问题。"
+        },
+        {
+          "en": "Many new graduates come up against fierce competition in the job market.",
+          "zh": "很多应届毕业生在就业市场遇到了激烈的竞争。"
+        }
+      ]
+    },
+    {
+      "phrase": "let alone",
+      "usage": "用于进一步否定或强调更不可能的情况，通常前面是否定句，相当于“更不用说”",
+      "examples": [
+        {
+          "en": "I can't even afford a cheap bicycle, let alone a car.",
+          "zh": "我连便宜的自行车都买不起，更不用说汽车了。"
+        },
+        {
+          "en": "He can't speak basic Japanese, let alone read Japanese novels.",
+          "zh": "他连基础日语都不会说，更不用说读日语小说了。"
+        }
+      ]
+    },
+    {
+      "phrase": "depend on",
+      "usage": "表示“取决于；依赖；依靠”，后可接名词、代词或从句",
+      "examples": [
+        {
+          "en": "The success of the activity depends on the weather.",
+          "zh": "活动能否成功取决于天气。"
+        },
+        {
+          "en": "You should not always depend on others when you meet problems.",
+          "zh": "遇到问题时你不要总依赖别人。"
+        }
+      ]
+    },
+    {
+      "phrase": "pick up",
+      "usage": "此处含义为“接收到（信号、声音、图像等）”，此外还有“捡起；接人；学会”等含义",
+      "examples": [
+        {
+          "en": "My radio can pick up international stations very clearly.",
+          "zh": "我的收音机可以非常清晰地接收国际电台。"
+        },
+        {
+          "en": "The equipment picked up a strange signal from outer space.",
+          "zh": "这台设备接收到了一个来自外太空的奇怪信号。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "given引导的条件状语",
+      "definition": "given作为介词，意为“考虑到；鉴于；如果有”，后接名词、代词或名词短语，可放在句首或句中，表前提条件",
+      "structure": "Given + 名词/名词短语, 主句",
+      "usage": "用于引出某个既定的前提，基于这个前提得出主句的结论，属于书面正式用法",
+      "examples": [
+        {
+          "en": "Given a chance, I believe I can do the job well.",
+          "zh": "如果有机会，我相信我能把这份工作做好。"
+        },
+        {
+          "en": "Given the current situation, we have to put off the meeting.",
+          "zh": "考虑到目前的情况，我们不得不推迟会议。"
+        }
+      ]
+    },
+    {
+      "title": "so...that...引导的结果状语从句（倒装结构）",
+      "definition": "为了强调形容词或副词，可将so + 形容词/副词放在句首，此时主句需要部分倒装，that后的结果状语从句语序不变",
+      "structure": "So + 形容词/副词 + 助动词/系动词/情态动词 + 主语 + 谓语剩余部分 + that + 结果状语从句",
+      "usage": "用于正式文体中，加强语气，突出主句中描述的特征的程度之深，进而导致了从句的结果",
+      "examples": [
+        {
+          "en": "So fast did he run that no one could catch up with him.",
+          "zh": "他跑得太快了，没人能追上他。"
+        },
+        {
+          "en": "So attractive is the book that I have read it three times.",
+          "zh": "这本书太有吸引力了，我已经读了三遍。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "We must conclude from + 来源, that + 结论",
+      "original": {
+        "en": "We must conclude from the work of those who have studied the origin of life, that given a planet only approximately like our own, life is almost certain to start.",
+        "zh": "从那些研究生命起源的科学家的工作中我们必然会得出这样的结论：如果有一颗行星和地球的条件哪怕只是近似，生命就几乎肯定会起源。"
+      },
+      "imitations": [
+        {
+          "en": "We must conclude from the recent surveys, that more and more young people prefer to work from home.",
+          "zh": "从最近的调查中我们必然会得出结论：越来越多的年轻人倾向于居家办公。"
+        },
+        {
+          "en": "We must conclude from the data collected over the past decade, that global warming is speeding up.",
+          "zh": "从过去十年收集的数据中我们必然会得出结论：全球变暖正在加速。"
+        }
+      ]
+    },
+    {
+      "pattern": "..., why have we had + 名词 + yet?",
+      "original": {
+        "en": "If then we are so certain that other intelligent life exists in the universe, why have we had no visitors from outer space yet?",
+        "zh": "那么如果我们如此确定宇宙中存在其他智慧生命，为什么我们至今还没有迎来外太空的访客呢？"
+      },
+      "imitations": [
+        {
+          "en": "If you said you would send me the document yesterday, why have we had no news from you yet?",
+          "zh": "如果你说你昨天会把文件发给我，为什么我们至今还没有收到你的消息？"
+        },
+        {
+          "en": "If the project was supposed to be finished last month, why have we had no final report yet?",
+          "zh": "如果这个项目本应该上个月就完成，为什么我们至今还没有看到最终报告？"
+        }
+      ]
+    },
+    {
+      "pattern": "Without something of this kind, doing sth would be like doing sth without...",
+      "original": {
+        "en": "Without something of this kind, searching for intelligences on other planets would be like trying to meet a friend in London without a pre-arranged rendezvous and absurdly wandering the streets in the hope of a chance encounter.",
+        "zh": "如果没有这种频率，寻找其他行星上的智慧生命就好比没有预先约定会面地点就试图在伦敦见一个朋友，荒唐地在街上游荡，希望能偶然碰见。"
+      },
+      "imitations": [
+        {
+          "en": "Without a clear study plan, preparing for the exam would be like trying to find a destination in a forest without a map and walking aimlessly in the hope of finding the way out.",
+          "zh": "如果没有清晰的学习计划，备考就好比没有地图就试图在森林里找目的地，漫无目的地行走，希望能找到出路。"
+        },
+        {
+          "en": "Without enough market research, launching a new product would be like trying to sail across the ocean without a compass and drifting randomly in the hope of reaching the port.",
+          "zh": "如果没有足够的市场调研，推出新产品就好比没有指南针就试图横渡大洋，随意漂流，希望能抵达港口。"
+        }
+      ]
+    }
+  ]
+}

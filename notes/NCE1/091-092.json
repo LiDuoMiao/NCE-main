@@ -1,0 +1,402 @@
+{
+  "book": "NCE1",
+  "lesson": "091-092",
+  "title": "Lesson 91",
+  "vocabulary": [
+    {
+      "word": "poor",
+      "phonetic": "/pɔː(r)/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "可怜的；贫穷的",
+          "usage": "可表示对某人的同情，或经济上贫困"
+        }
+      ]
+    },
+    {
+      "word": "sell",
+      "phonetic": "/sel/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "卖；销售",
+          "usage": "过去式是sold，表示把东西卖出去"
+        }
+      ]
+    },
+    {
+      "word": "move",
+      "phonetic": "/muːv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "搬家；移动",
+          "usage": "指从一个地方搬到另一个地方居住"
+        }
+      ]
+    },
+    {
+      "word": "miss",
+      "phonetic": "/mɪs/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "想念；错过",
+          "usage": "想念某人或某物时使用"
+        }
+      ]
+    },
+    {
+      "word": "neighbour",
+      "phonetic": "/ˈneɪbə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "邻居",
+          "usage": "指住在附近的人"
+        }
+      ]
+    },
+    {
+      "word": "person",
+      "phonetic": "/ˈpɜːs(ə)n/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "人",
+          "usage": "指某个人，可数名词"
+        }
+      ]
+    },
+    {
+      "word": "tomorrow",
+      "phonetic": "/təˈmɒrəʊ/",
+      "meanings": [
+        {
+          "pos": "adverb/noun",
+          "meaning": "明天",
+          "usage": "表示在当前日期的第二天"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "phonetic": "/ˈmɔːnɪŋ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "早晨；上午",
+          "usage": "指一天中的早上时段"
+        }
+      ]
+    },
+    {
+      "word": "afternoon",
+      "phonetic": "/ˌɑːftəˈnuːn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "下午",
+          "usage": "指中午到傍晚之间的时段"
+        }
+      ]
+    },
+    {
+      "word": "regards",
+      "phonetic": "/rɪˈɡɑːdz/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "问候；致意",
+          "usage": "常用于give someone my regards（代我问候某人）"
+        }
+      ]
+    },
+    {
+      "word": "leave",
+      "phonetic": "/liːv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "离开；离去",
+          "usage": "指从某地离开，过去式是left"
+        }
+      ]
+    },
+    {
+      "word": "wife",
+      "phonetic": "/waɪf/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "妻子",
+          "usage": "已婚女性的称呼，复数是wives"
+        }
+      ]
+    },
+    {
+      "word": "always",
+      "phonetic": "/ˈɔːlweɪz/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "总是；一直",
+          "usage": "表示频率很高，意为几乎每次都"
+        }
+      ]
+    },
+    {
+      "word": "yet",
+      "phonetic": "/jet/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "还；已经",
+          "usage": "用于否定句和疑问句中"
+        }
+      ]
+    },
+    {
+      "word": "want",
+      "phonetic": "/wɒnt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "想要；希望",
+          "usage": "want to do something 表示想要做某事"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "sell the house",
+      "usage": "卖房子，指将房屋出售给他人",
+      "examples": [
+        {
+          "en": "He sold his house last week.",
+          "zh": "他上周把房子卖了。"
+        }
+      ]
+    },
+    {
+      "phrase": "move to",
+      "usage": "搬到（某地），表示搬迁到新的地点",
+      "examples": [
+        {
+          "en": "He's going to move to his new house tomorrow.",
+          "zh": "他打算明天搬到他的新房子去。"
+        }
+      ]
+    },
+    {
+      "phrase": "give him my regards",
+      "usage": "代我向他问好，请他人转达问候",
+      "examples": [
+        {
+          "en": "Please give him my regards.",
+          "zh": "请代我向他问好。"
+        }
+      ]
+    },
+    {
+      "phrase": "miss him",
+      "usage": "想念他，表示对离开的人有留恋之情",
+      "examples": [
+        {
+          "en": "I'll miss him.",
+          "zh": "我会想念他的。"
+        }
+      ]
+    },
+    {
+      "phrase": "move in",
+      "usage": "搬入，搬进新居",
+      "examples": [
+        {
+          "en": "They'll move in the day after tomorrow.",
+          "zh": "他们后天会搬进来。"
+        }
+      ]
+    },
+    {
+      "phrase": "the day after tomorrow",
+      "usage": "后天，表示明天的下一天",
+      "examples": [
+        {
+          "en": "I think that they'll move in the day after tomorrow.",
+          "zh": "我认为他们后天会搬进来。"
+        }
+      ]
+    },
+    {
+      "phrase": "a good neighbour",
+      "usage": "一个好邻居，形容邻里关系好",
+      "examples": [
+        {
+          "en": "He has always been a good neighbour.",
+          "zh": "他一直是一个好邻居。"
+        }
+      ]
+    },
+    {
+      "phrase": "want to leave",
+      "usage": "想要离开，表达离开的意愿",
+      "examples": [
+        {
+          "en": "He didn't want to leave this house.",
+          "zh": "他不想离开这所房子。"
+        }
+      ]
+    },
+    {
+      "phrase": "still here",
+      "usage": "还在这里，表示某人仍然停留在原地",
+      "examples": [
+        {
+          "en": "He's still here.",
+          "zh": "他还在这里。"
+        }
+      ]
+    },
+    {
+      "phrase": "move out",
+      "usage": "搬出，搬离原来的住处",
+      "examples": [
+        {
+          "en": "Ian is moving out tomorrow.",
+          "zh": "Ian明天就要搬走了。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "现在完成时 (Present Perfect Tense)",
+      "definition": "现在完成时表示过去发生的动作或状态与现在有联系，强调结果或经验。构成形式为have/has + 过去分词。",
+      "structure": "主语 + have/has + 过去分词 + (时间状语/地点状语)",
+      "usage": "用于描述过去发生并已完成的动作，但强调该动作对现在的影响。常与already, yet, just, ever, never等副词连用。",
+      "examples": [
+        {
+          "en": "He has sold his house.",
+          "zh": "他已经卖了房子。"
+        },
+        {
+          "en": "Has Ian sold his house yet?",
+          "zh": "Ian已经把房子卖了吗？"
+        },
+        {
+          "en": "He has always been a good neighbour.",
+          "zh": "他一直是一个好邻居。"
+        }
+      ]
+    },
+    {
+      "title": "现在完成时的一般疑问句",
+      "definition": "现在完成时的疑问句用来询问过去的动作是否已经发生。has用于第三人称单数，have用于其他人称。",
+      "structure": "Have/Has + 主语 + 过去分词 + (其他成分)?",
+      "usage": "用Yes或No回答，否定回答用No, 主语 + hasn't/haven't。",
+      "examples": [
+        {
+          "en": "Has he moved to his new house yet?",
+          "zh": "他已经搬到新房子了吗？"
+        },
+        {
+          "en": "Yes, he has.",
+          "zh": "是的，他已经搬了。"
+        },
+        {
+          "en": "No, not yet.",
+          "zh": "不，还没有。"
+        }
+      ]
+    },
+    {
+      "title": "一般过去时与现在完成时的区别",
+      "definition": "一般过去时只表示过去的动作或状态，不强调与现在的关系；现在完成时强调过去动作对现在的影响。",
+      "structure": "一般过去时：主语 + 过去式 + 时间状语\n现在完成时：主语 + have/has + 过去分词",
+      "usage": "当明确指出具体过去时间时，用一般过去时；不强调具体时间而强调结果时，用现在完成时。",
+      "examples": [
+        {
+          "en": "He sold it last week. (强调动作发生在上周)",
+          "zh": "他上周卖了它。"
+        },
+        {
+          "en": "He has sold his house. (强调已卖出的结果)",
+          "zh": "他已经卖了房子。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Has + 主语 + 过去分词 + yet?",
+      "original": {
+        "en": "Has Ian sold his house yet?",
+        "zh": "Ian已经把房子卖了吗？"
+      },
+      "imitations": [
+        {
+          "en": "Has she finished her work yet?",
+          "zh": "她已经完成工作了吗？"
+        },
+        {
+          "en": "Has Tom called you yet?",
+          "zh": "Tom已经给你打电话了吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + has/have + 过去分词 + 时间状语",
+      "original": {
+        "en": "He sold it last week.",
+        "zh": "他上周卖了它。"
+      },
+      "imitations": [
+        {
+          "en": "She has lived here for five years.",
+          "zh": "她已经在这里住了五年。"
+        },
+        {
+          "en": "We have known each other since 2020.",
+          "zh": "我们从2020年就认识了。"
+        }
+      ]
+    },
+    {
+      "pattern": "When will + 主语 + 动词原形?",
+      "original": {
+        "en": "When will the new people move into this house?",
+        "zh": "新邻居什么时候会搬进这所房子？"
+      },
+      "imitations": [
+        {
+          "en": "When will the meeting start?",
+          "zh": "会议什么时候开始？"
+        },
+        {
+          "en": "When will you finish your homework?",
+          "zh": "你什么时候会完成作业？"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + be going to + 动词原形 + 时间",
+      "original": {
+        "en": "He's going to move tomorrow.",
+        "zh": "他打算明天搬家。"
+      },
+      "imitations": [
+        {
+          "en": "I'm going to visit my grandmother this weekend.",
+          "zh": "我这个周末要去看望奶奶。"
+        },
+        {
+          "en": "They're going to have a party next Friday.",
+          "zh": "他们下周五要举办一个聚会。"
+        }
+      ]
+    }
+  ]
+}

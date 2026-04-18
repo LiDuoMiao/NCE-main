@@ -1,0 +1,410 @@
+{
+  "book": "NCE1",
+  "lesson": "139-140",
+  "title": "Lesson 139",
+  "vocabulary": [
+    {
+      "word": "speaking",
+      "phonetic": "/ˈspiːkɪŋ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "说话中（电话用语）",
+          "usage": "接电话时表示\"请说\"或\"是我\""
+        }
+      ]
+    },
+    {
+      "word": "engineer",
+      "phonetic": "/ˌendʒɪˈnɪə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "工程师",
+          "usage": "指从事工程设计或技术工作的人"
+        }
+      ]
+    },
+    {
+      "word": "overseas",
+      "phonetic": "/ˌəʊvəˈsiːz/",
+      "meanings": [
+        {
+          "pos": "adverb/adjective",
+          "meaning": "海外的；在海外",
+          "usage": "指在国外或与国外相关的"
+        }
+      ]
+    },
+    {
+      "word": "engineering",
+      "phonetic": "/ˌendʒɪˈnɪərɪŋ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "工程；工程学",
+          "usage": "指设计、建造或操作系统的学科"
+        }
+      ]
+    },
+    {
+      "word": "telephone",
+      "phonetic": "/ˈtelɪfəʊn/",
+      "meanings": [
+        {
+          "pos": "noun/verb",
+          "meaning": "电话；打电话",
+          "usage": "作名词指电话设备，作动词指打电话"
+        }
+      ]
+    },
+    {
+      "word": "repair",
+      "phonetic": "/rɪˈpeə/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "修理；修复",
+          "usage": "指使损坏的东西恢复正常功能"
+        }
+      ]
+    },
+    {
+      "word": "invite",
+      "phonetic": "/ɪnˈvaɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "邀请",
+          "usage": "指正式邀请某人参加活动"
+        }
+      ]
+    },
+    {
+      "word": "extra",
+      "phonetic": "/ˈekstrə/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "额外的；附加的",
+          "usage": "指超出正常范围或预期的"
+        }
+      ]
+    },
+    {
+      "word": "office",
+      "phonetic": "/ˈɒfɪs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "办公室；办公楼",
+          "usage": "指工作或处理公务的场所"
+        }
+      ]
+    },
+    {
+      "word": "wife",
+      "phonetic": "/waɪf/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "妻子",
+          "usage": "指已婚女性，wife是复数wives"
+        }
+      ]
+    },
+    {
+      "word": "dinner",
+      "phonetic": "/ˈdɪnə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "晚餐；正餐",
+          "usage": "指一天中的主要晚间餐食"
+        }
+      ]
+    },
+    {
+      "word": "help",
+      "phonetic": "/help/",
+      "meanings": [
+        {
+          "pos": "noun/verb",
+          "meaning": "帮助；援助",
+          "usage": "指提供协助或支持"
+        }
+      ]
+    },
+    {
+      "word": "understand",
+      "phonetic": "/ˌʌndəˈstænd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "理解；明白",
+          "usage": "指理解某事的意思或含义"
+        }
+      ]
+    },
+    {
+      "word": "late",
+      "phonetic": "/leɪt/",
+      "meanings": [
+        {
+          "pos": "adjective/adverb",
+          "meaning": "迟到的；晚的",
+          "usage": "指比预定时间晚或接近某时期的末期"
+        }
+      ]
+    },
+    {
+      "word": "line",
+      "phonetic": "/laɪn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "线路；线条",
+          "usage": "在telephone line中指电话线路"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Is that you, John?",
+      "usage": "电话用语，用于确认对方身份",
+      "examples": [
+        {
+          "en": "Is that you, John? This is Mary speaking.",
+          "zh": "是你吗，约翰？我是玛丽。"
+        }
+      ]
+    },
+    {
+      "phrase": "speaking",
+      "usage": "电话用语，表示\"我就是\"或\"请说\"",
+      "examples": [
+        {
+          "en": "May I speak to Tom? — Speaking.",
+          "zh": "我能和汤姆通话吗？— 我就是。"
+        }
+      ]
+    },
+    {
+      "phrase": "by the way",
+      "usage": "用于在对话中顺便提起另一件事",
+      "examples": [
+        {
+          "en": "By the way, my wife wants to know if Mary needs any help.",
+          "zh": "顺便说一下，我妻子想知道玛丽是否需要帮助。"
+        }
+      ]
+    },
+    {
+      "phrase": "have to",
+      "usage": "表示必须、不得不",
+      "examples": [
+        {
+          "en": "I'll have to stay at the office.",
+          "zh": "我必须待在办公室。"
+        }
+      ]
+    },
+    {
+      "phrase": "be late for",
+      "usage": "表示迟到或延误",
+      "examples": [
+        {
+          "en": "We'll be late for dinner this evening.",
+          "zh": "今晚我们晚餐会迟到。"
+        }
+      ]
+    },
+    {
+      "phrase": "I don't know what you're talking about",
+      "usage": "表示不明白对方在说什么",
+      "examples": [
+        {
+          "en": "I don't know what you're talking about.",
+          "zh": "我不知道你在说什么。"
+        }
+      ]
+    },
+    {
+      "phrase": "work for",
+      "usage": "表示为某公司或某人工作",
+      "examples": [
+        {
+          "en": "You work for the Overseas Engineering Company, don't you?",
+          "zh": "你在海外工程公司工作，不是吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "at six o'clock",
+      "usage": "表示在六点钟",
+      "examples": [
+        {
+          "en": "I said I would be at your house at six o'clock.",
+          "zh": "我说过我会六点到你家。"
+        }
+      ]
+    },
+    {
+      "phrase": "Tell Mary we'll be late",
+      "usage": "传达口信给某人",
+      "examples": [
+        {
+          "en": "Tell Mary we'll be late for dinner this evening.",
+          "zh": "告诉玛丽今晚我们晚餐会迟到。"
+        }
+      ]
+    },
+    {
+      "phrase": "repair your telephone line",
+      "usage": "修理某人的电话线路",
+      "examples": [
+        {
+          "en": "I'm repairing your telephone line.",
+          "zh": "我在修理你的电话线路。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "反意疑问句 (Tag Questions)",
+      "definition": "反意疑问句是附在陈述句后面的简短问句，用来确认或征求对方的意见。由肯定陈述句+否定简短问句或否定陈述句+肯定简短问句组成。",
+      "structure": "陈述句 + , + 助动词/be动词/情态动词 + not + 主语(缩写)? 或 陈述句 + , + 主语 + 助动词/be动词/情态动词?",
+      "usage": "用于确认陈述内容是否正确，或征求对方的同意。回答时要根据事实，而非根据问句的形式。",
+      "examples": [
+        {
+          "en": "You work for the Overseas Engineering Company, don't you?",
+          "zh": "你在海外工程公司工作，不是吗？"
+        },
+        {
+          "en": "You are John Smith, the engineer, aren't you?",
+          "zh": "你是约翰·史密斯，工程师，不是吗？"
+        },
+        {
+          "en": "That is John Smith, isn't it?",
+          "zh": "那是约翰·史密斯，不是吗？"
+        }
+      ]
+    },
+    {
+      "title": "电话英语 (Telephone English)",
+      "definition": "打电话时使用的特定表达方式，与面对面交流有所不同。",
+      "structure": "Is that you, + 名字? / Speaking. / This is + 名字 + speaking.",
+      "usage": "接电话或打电话时确认对方身份，或自我介绍。",
+      "examples": [
+        {
+          "en": "Is that you, John?",
+          "zh": "是你吗，约翰？"
+        },
+        {
+          "en": "Yes, speaking.",
+          "zh": "是的，我就是。"
+        },
+        {
+          "en": "This is Mary speaking.",
+          "zh": "我是玛丽。"
+        }
+      ]
+    },
+    {
+      "title": "一般将来时 (will + 动词原形)",
+      "definition": "表示将要发生的动作或存在的状态。",
+      "structure": "主语 + will + 动词原形",
+      "usage": "表示说话时未发生但预计会发生的事情，或临时决定的事。",
+      "examples": [
+        {
+          "en": "We'll be late for dinner this evening.",
+          "zh": "今晚我们晚餐会迟到。"
+        },
+        {
+          "en": "I don't know when I'll finish.",
+          "zh": "我不知道什么时候能完成。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Is that you, + 人名?",
+      "original": {
+        "en": "Is that you, John?",
+        "zh": "是你吗，约翰？"
+      },
+      "imitations": [
+        {
+          "en": "Is that you, Mary?",
+          "zh": "是你吗，玛丽？"
+        },
+        {
+          "en": "Is that you, Tom?",
+          "zh": "是你吗，汤姆？"
+        },
+        {
+          "en": "Is that you, Kate?",
+          "zh": "是你吗，凯特？"
+        }
+      ]
+    },
+    {
+      "pattern": "...isn't it? / ...aren't you? / ...don't you?",
+      "original": {
+        "en": "That is John Smith, isn't it?",
+        "zh": "那是约翰·史密斯，不是吗？"
+      },
+      "imitations": [
+        {
+          "en": "You are the manager, aren't you?",
+          "zh": "你是经理，不是吗？"
+        },
+        {
+          "en": "She works here, doesn't she?",
+          "zh": "她在这里工作，不是吗？"
+        },
+        {
+          "en": "They can speak English, can't they?",
+          "zh": "他们会说英语，不是吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "You work for + 公司名, don't you?",
+      "original": {
+        "en": "You work for the Overseas Engineering Company, don't you?",
+        "zh": "你在海外工程公司工作，不是吗？"
+      },
+      "imitations": [
+        {
+          "en": "You work for Google, don't you?",
+          "zh": "你在谷歌工作，不是吗？"
+        },
+        {
+          "en": "He works for a bank, doesn't he?",
+          "zh": "他在银行工作，不是吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "I'm + 职业 + the + 限定词 + 名词",
+      "original": {
+        "en": "I'm John Smith the telephone engineer.",
+        "zh": "我是电话工程师约翰·史密斯。"
+      },
+      "imitations": [
+        {
+          "en": "I'm Tom the software engineer.",
+          "zh": "我是软件工程师汤姆。"
+        },
+        {
+          "en": "She's Lucy the English teacher.",
+          "zh": "她是英语老师露西。"
+        }
+      ]
+    }
+  ]
+}

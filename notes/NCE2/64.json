@@ -1,0 +1,320 @@
+{
+  "book": "NCE2",
+  "lesson": "64",
+  "title": "Why was the first tunnel not completed?",
+  "vocabulary": [
+    {
+      "word": "tunnel",
+      "phonetic": "/ˈtʌnl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "隧道；地道",
+          "usage": "指在地下或山中开凿的通道"
+        }
+      ]
+    },
+    {
+      "word": "engineer",
+      "phonetic": "/ˌendʒɪˈnɪə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "工程师",
+          "usage": "指设计或建造机器、建筑物等专业人员"
+        }
+      ]
+    },
+    {
+      "word": "platform",
+      "phonetic": "/ˈplætfɔːm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "平台；站台",
+          "usage": "指高出地面的平面结构，或火车站的站台"
+        }
+      ]
+    },
+    {
+      "word": "ventilation",
+      "phonetic": "/ˌventɪˈleɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "通风；透气",
+          "usage": "指空气流通的装置或过程"
+        }
+      ]
+    },
+    {
+      "word": "chimney",
+      "phonetic": "/ˈtʃɪmni/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "烟囱",
+          "usage": "指排出烟气或气体的垂直管道"
+        }
+      ]
+    },
+    {
+      "word": "double",
+      "phonetic": "/ˈdʌbl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "双的；双倍的",
+          "usage": "指两个同样部分的，用于强调数量或尺寸"
+        }
+      ]
+    },
+    {
+      "word": "invasion",
+      "phonetic": "/ɪnˈveɪʒn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "入侵；侵略",
+          "usage": "指武装力量进入他国领土的行为"
+        }
+      ]
+    },
+    {
+      "word": "officially",
+      "phonetic": "/əˈfɪʃəli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "正式地；官方地",
+          "usage": "指以官方或正式的方式进行"
+        }
+      ]
+    },
+    {
+      "word": "continent",
+      "phonetic": "/ˈkɒntɪnənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "大陆；洲",
+          "usage": "指地球上的大块陆地"
+        }
+      ]
+    },
+    {
+      "word": "suggest",
+      "phonetic": "/səˈdʒest/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "建议；提议",
+          "usage": "指出于某种目的提出想法或计划"
+        }
+      ]
+    },
+    {
+      "word": "solve",
+      "phonetic": "/sɒlv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "解决",
+          "usage": "指找到问题或困难的处理方法"
+        }
+      ]
+    },
+    {
+      "word": "connect",
+      "phonetic": "/kəˈnekt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "连接；联结",
+          "usage": "指使两事物相连或有关联"
+        }
+      ]
+    },
+    {
+      "word": "fear",
+      "phonetic": "/fɪə/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "害怕；恐惧",
+          "usage": "指对危险或不好的事物感到害怕"
+        }
+      ]
+    },
+    {
+      "word": "arrange",
+      "phonetic": "/əˈreɪndʒ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "安排；筹备",
+          "usage": "指为某目的进行准备或组织"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "put forward",
+      "usage": "提出（计划、建议等）",
+      "examples": [
+        {
+          "en": "A better plan was put forward by an Englishman.",
+          "zh": "一个更好的计划由一位英国人提出。"
+        }
+      ]
+    },
+    {
+      "phrase": "serve as",
+      "usage": "用作；充当",
+      "examples": [
+        {
+          "en": "This platform would serve as a port and a railway station.",
+          "zh": "这个平台将作为港口和火车站使用。"
+        }
+      ]
+    },
+    {
+      "phrase": "solve the problem of",
+      "usage": "解决...问题",
+      "examples": [
+        {
+          "en": "This would solve the problem of ventilation.",
+          "zh": "这将解决通风问题。"
+        }
+      ]
+    },
+    {
+      "phrase": "draw in",
+      "usage": "吸入；引入",
+      "examples": [
+        {
+          "en": "It would draw in fresh air behind it.",
+          "zh": "它会在身后吸入新鲜空气。"
+        }
+      ]
+    },
+    {
+      "phrase": "at the time",
+      "usage": "在那时；当时",
+      "examples": [
+        {
+          "en": "If, at the time, the British had not feared invasion...",
+          "zh": "如果当时英国人不害怕入侵的话..."
+        }
+      ]
+    },
+    {
+      "phrase": "wait for",
+      "usage": "等待",
+      "examples": [
+        {
+          "en": "The world had to wait almost another 100 years.",
+          "zh": "世界不得不再等将近100年。"
+        }
+      ]
+    },
+    {
+      "phrase": "connect...to...",
+      "usage": "把...连接到...",
+      "examples": [
+        {
+          "en": "Finally connecting Britain to the European continent.",
+          "zh": "最终把英国和欧洲大陆连接起来。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Third Conditional (虚拟语气过去完成时)",
+      "definition": "表示与过去事实相反的假设，结构为If + 主语 + had + 过去分词, 主语 + would/could/might + have + 过去分词",
+      "structure": "If + 主语 + had + 过去分词..., 主语 + would/could/might + have + 过去分词",
+      "usage": "用于谈论与过去事实相反的假设情况，表达一种假想的、与事实不符的情景",
+      "examples": [
+        {
+          "en": "If, at the time, the British had not feared invasion, it would have been completed.",
+          "zh": "如果当时英国人不害怕入侵，隧道早就建成了。"
+        },
+        {
+          "en": "If he had studied harder, he would have passed the exam.",
+          "zh": "如果他当时学习更努力，他就能通过考试了。"
+        }
+      ]
+    },
+    {
+      "title": "Passive Voice - Past Simple Passive (一般过去时的被动语态)",
+      "definition": "当句子的主语是动作的承受者时，使用被动语态。结构为：主语 + be动词 + 过去分词",
+      "structure": "主语 + was/were + 过去分词",
+      "usage": "用于强调动作的承受者，或当动作执行者不明确/不重要时",
+      "examples": [
+        {
+          "en": "A tunnel was actually begun forty-two years later.",
+          "zh": "42年后隧道终于开始修建。"
+        },
+        {
+          "en": "It was officially opened on March 7, 1994.",
+          "zh": "它于1994年3月7日正式开放。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "If + 过去完成时, 主语 + would have + 过去分词",
+      "original": {
+        "en": "If, at the time, the British had not feared invasion, it would have been completed.",
+        "zh": "如果当时英国人不害怕入侵，隧道早就建成了。"
+      },
+      "imitations": [
+        {
+          "en": "If I had known about the traffic, I would have left earlier.",
+          "zh": "如果我知道交通状况，我就会早点出发了。"
+        },
+        {
+          "en": "If she had practiced more, she would have won the competition.",
+          "zh": "如果她多练习，她就能赢得比赛了。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + would be possible to + 动词原形",
+      "original": {
+        "en": "He said that it would be possible to build a platform in the centre of the Channel.",
+        "zh": "他说在英吉利海峡中部建造一个平台是可能的。"
+      },
+      "imitations": [
+        {
+          "en": "It would be possible to finish the project by next month.",
+          "zh": "下个月完成这个项目是可能的。"
+        },
+        {
+          "en": "It would be possible to travel to Mars in the future.",
+          "zh": "将来有可能去火星旅行。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + be + 过去分词 + 时间/地点",
+      "original": {
+        "en": "It was officially opened on March 7, 1994.",
+        "zh": "它于1994年3月7日正式开放。"
+      },
+      "imitations": [
+        {
+          "en": "The new school was opened last September.",
+          "zh": "新学校去年九月开放。"
+        },
+        {
+          "en": "The bridge was completed in 2019.",
+          "zh": "这座桥于2019年完工。"
+        }
+      ]
+    }
+  ]
+}

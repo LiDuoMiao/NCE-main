@@ -1,0 +1,331 @@
+{
+  "book": "NCE4",
+  "lesson": "21",
+  "title": "Lesson 21",
+  "vocabulary": [
+    {
+      "word": "supreme",
+      "phonetic": "/suːˈpriːm/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "最高的；至高的；无比的",
+          "usage": "常用于形容地位、权力或水平处于最高级别，没有可与之匹敌的"
+        }
+      ]
+    },
+    {
+      "word": "unchallenged",
+      "phonetic": "/ʌnˈtʃælɪndʒd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "未受到挑战的；无人质疑的",
+          "usage": "用来描述地位、观点等没有受到反对或质疑"
+        }
+      ]
+    },
+    {
+      "word": "formula",
+      "phonetic": "/ˈfɔːmjələ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "公式；准则；固定模式",
+          "usage": "本文中指文艺作品的固定创作模式，也可指数学、化学公式或解决问题的固定方法"
+        }
+      ]
+    },
+    {
+      "word": "protagonist",
+      "phonetic": "/prəˈtæɡənɪst/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "主角；主人公",
+          "usage": "特指戏剧、电影、小说等文艺作品中的核心主要人物"
+        }
+      ]
+    },
+    {
+      "word": "outlaw",
+      "phonetic": "/ˈaʊtlɔː/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "逃犯；被法律排斥者",
+          "usage": "指违反法律、逃亡在外的人，西部片中常指劫富济贫的边缘人物"
+        }
+      ]
+    },
+    {
+      "word": "framed",
+      "phonetic": "/freɪmd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "被诬陷的；被栽赃的",
+          "usage": "指被人伪造证据陷害，常用搭配be framed for sth.（因某事被诬陷）"
+        }
+      ]
+    },
+    {
+      "word": "vicious",
+      "phonetic": "/ˈvɪʃəs/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "恶毒的；邪恶的",
+          "usage": "用来形容行为、话语等充满恶意，会对他人造成伤害"
+        }
+      ]
+    },
+    {
+      "word": "mythology",
+      "phonetic": "/mɪˈθɒlədʒi/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "神话；神话集",
+          "usage": "可指某一地区、文化的神话体系，也可指虚构的传说"
+        }
+      ]
+    },
+    {
+      "word": "vanished",
+      "phonetic": "/ˈvænɪʃt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "消失的；不复存在的",
+          "usage": "用来描述已经消失、不存在的事物，强调消失的结果"
+        }
+      ]
+    },
+    {
+      "word": "absurdly",
+      "phonetic": "/əbˈsɜːdli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "荒谬地；可笑地",
+          "usage": "修饰动词或形容词，用来强调某事物不合理、脱离实际"
+        }
+      ]
+    },
+    {
+      "word": "encroaching",
+      "phonetic": "/ɪnˈkrəʊtʃɪŋ/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "渐渐渗透的；逐步侵蚀的",
+          "usage": "用来描述缓慢侵入、侵占原本不属于自己的领域的事物"
+        }
+      ]
+    },
+    {
+      "word": "bewildered",
+      "phonetic": "/bɪˈwɪldəd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "困惑的；不知所措的",
+          "usage": "形容人因为遇到不理解的事物而头脑混乱、不知道该如何处理"
+        }
+      ]
+    },
+    {
+      "word": "hypocrisy",
+      "phonetic": "/hɪˈpɒkrəsi/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "虚伪；伪善",
+          "usage": "指故意表现出自己实际不具备的道德、品质等，为贬义词"
+        }
+      ]
+    },
+    {
+      "word": "chicanery",
+      "phonetic": "/ʃɪˈkeɪnəri/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "欺诈；耍花招",
+          "usage": "指为了欺骗他人、获取利益而使用的不诚实手段，为正式用词"
+        }
+      ]
+    },
+    {
+      "word": "impending",
+      "phonetic": "/ɪmˈpendɪŋ/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "即将发生的；迫在眉睫的",
+          "usage": "常用来形容不好的事情即将到来，如危险、灾难等"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "nothing but",
+      "usage": "用来强调除了提到的事物之外没有其他，相当于only",
+      "examples": [
+        {
+          "en": "Unlike Gary Cooper and John Wayne he appeared in nothing but Westerns.",
+          "zh": "和加里·库珀以及约翰·韦恩不同，他只出演西部片。"
+        },
+        {
+          "en": "After the accident, he could remember nothing but his childhood.",
+          "zh": "事故发生后，他除了自己的童年什么都记不起来了。"
+        }
+      ]
+    },
+    {
+      "phrase": "be rooted in",
+      "usage": "表示事物的根源、基础来源于某处，强调稳固的起源",
+      "examples": [
+        {
+          "en": "His hero was firmly rooted in his memories and experiences.",
+          "zh": "他塑造的英雄角色牢牢扎根于他的记忆和经历之中。"
+        },
+        {
+          "en": "The traditional custom is rooted in local culture stretching back thousands of years.",
+          "zh": "这个传统习俗扎根于延续数千年的当地文化中。"
+        }
+      ]
+    },
+    {
+      "phrase": "join hands",
+      "usage": "字面意思是“牵手”，常引申为合作、联合、共同达成某一目标",
+      "examples": [
+        {
+          "en": "Myth and reality did join hands in at least one arena.",
+          "zh": "至少在一个领域里神话和现实确实是共存共通的。"
+        },
+        {
+          "en": "The two countries will join hands to develop new energy technology.",
+          "zh": "两国将携手开发新能源技术。"
+        }
+      ]
+    },
+    {
+      "phrase": "accustomed to",
+      "usage": "表示习惯于某事物，to为介词，后接名词或动名词",
+      "examples": [
+        {
+          "en": "Men accustomed to struggling for survival against the elements and Indians were bewildered by politicians.",
+          "zh": "那些习惯了与自然和印第安人搏斗求生的人被政客们搞得晕头转向。"
+        },
+        {
+          "en": "She is accustomed to working late and getting up early the next day.",
+          "zh": "她习惯了熬夜工作，第二天又早起。"
+        }
+      ]
+    },
+    {
+      "phrase": "in conflict with",
+      "usage": "表示与……有冲突、有矛盾，可指人和人之间，也可指人自身的思想矛盾",
+      "examples": [
+        {
+          "en": "The individual in conflict with himself and his frontier environment.",
+          "zh": "与自身以及边疆环境相冲突的个体。"
+        },
+        {
+          "en": "His idea is in conflict with the general plan of the team.",
+          "zh": "他的想法和团队的整体规划相冲突。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "强调句 (Emphatic Sentence)",
+      "definition": "用来突出强调句子某一部分（通常是主语、宾语、状语）的句式，不强调时可以还原为普通陈述句",
+      "structure": "It is/was + 被强调部分 + that/who + 句子其余部分",
+      "usage": "当被强调部分是人时，连接词可以用who，其他情况一律用that；该结构不强调谓语动词",
+      "examples": [
+        {
+          "en": "It was Hart who created the basic formula of the Western film.",
+          "zh": "正是哈特创造了西部片的基本范式。"
+        },
+        {
+          "en": "It was not until I got home that I realized I had left my keys in the office.",
+          "zh": "直到我回到家我才意识到我把钥匙落在了办公室。"
+        }
+      ]
+    },
+    {
+      "title": "现在分词短语作定语",
+      "definition": "现在分词可以放在名词后面作定语，相当于一个定语从句，用来描述该名词的特征或正在进行的动作",
+      "structure": "名词 + 现在分词短语",
+      "usage": "当分词的动作是由所修饰的名词主动发出时，用现在分词作定语，可和被修饰名词构成逻辑上的主谓关系",
+      "examples": [
+        {
+          "en": "We still do; living in a world in which undeclared aggression, war, hypocrisy, chicanery, anarchy and impending immolation are part of our daily lives, we all want a code to live by.",
+          "zh": "我们仍然如此；生活在一个不宣而战的侵略、战争、虚伪、欺诈、无政府状态和迫在眉睫的毁灭都成为日常生活一部分的世界里，我们都需要一套赖以生存的行为准则。"
+        },
+        {
+          "en": "The girl standing by the window is my younger sister.",
+          "zh": "站在窗边的那个女孩是我的妹妹。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "It is/was + 被强调的人 + who + 剩余句子成分",
+      "original": {
+        "en": "It was Hart who created the basic formula of the Western film, and devised the protagonist he played in every film he made.",
+        "zh": "正是哈特创造了西部片的基本范式，并且设计出了他在自己每一部电影中扮演的主角形象。"
+      },
+      "imitations": [
+        {
+          "en": "It was Edison who invented the practical incandescent light bulb and changed the way people live at night.",
+          "zh": "正是爱迪生发明了实用的白炽灯泡，改变了人们夜间的生活方式。"
+        },
+        {
+          "en": "It was my mother who taught me to be honest and kind to others when I was a little child.",
+          "zh": "正是我的母亲在我小的时候就教我要为人诚实、与人为善。"
+        }
+      ]
+    },
+    {
+      "pattern": "find it + 形容词 + to do sth.",
+      "original": {
+        "en": "Audiences in the second decade of the twentieth century found it pleasant to escape to a time when life, though hard, was relatively simple.",
+        "zh": "20世纪第二个十年的观众发现，逃到一个虽然艰苦但相对简单的时代是很愉快的。"
+      },
+      "imitations": [
+        {
+          "en": "Many young people find it difficult to balance work and personal life in big cities.",
+          "zh": "很多年轻人发现在大城市里很难平衡工作和个人生活。"
+        },
+        {
+          "en": "I find it necessary to learn a second foreign language in the context of globalization.",
+          "zh": "我发现在全球化的背景下，学习第二门外语是很有必要的。"
+        }
+      ]
+    },
+    {
+      "pattern": "unlike + 名词/代词, + 主句",
+      "original": {
+        "en": "Unlike most of his contemporaries in Hollywood, Hart actually knew something of the old West.",
+        "zh": "和他在好莱坞的大多数同代人不同，哈特确实了解旧日西部的一些情况。"
+      },
+      "imitations": [
+        {
+          "en": "Unlike most of his classmates, Tom prefers to spend his spare time reading rather than playing games.",
+          "zh": "和他的大多数同学不同，汤姆更喜欢把业余时间花在阅读上而不是打游戏。"
+        },
+        {
+          "en": "Unlike other social media platforms, this app focuses on providing users with professional learning resources.",
+          "zh": "和其他社交媒体平台不同，这款应用专注于为用户提供专业的学习资源。"
+        }
+      ]
+    }
+  ]
+}

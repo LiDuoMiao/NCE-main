@@ -1,0 +1,390 @@
+{
+  "book": "NCE1",
+  "lesson": "117-118",
+  "title": "Lesson 117",
+  "vocabulary": [
+    {
+      "word": "coin",
+      "phonetic": "/kɔɪn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "硬币",
+          "usage": "指金属货币，可数名词"
+        }
+      ]
+    },
+    {
+      "word": "dining room",
+      "phonetic": "/ˈdaɪnɪŋ ruːm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "餐厅",
+          "usage": "专指用餐的房间"
+        }
+      ]
+    },
+    {
+      "word": "swallow",
+      "phonetic": "/ˈswɒləʊ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "吞下；咽下",
+          "usage": "指将食物或饮料从嘴咽下经过食道进入胃"
+        }
+      ]
+    },
+    {
+      "word": "toilet",
+      "phonetic": "/ˈtɔɪlət/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "厕所；马桶",
+          "usage": "英式英语常用，美语多用bathroom/restroom"
+        }
+      ]
+    },
+    {
+      "word": "change",
+      "phonetic": "/tʃeɪndʒ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "零钱；找零",
+          "usage": "本课中双关语：既指找回的零钱，也指从厕所出来的东西"
+        }
+      ]
+    },
+    {
+      "word": "office",
+      "phonetic": "/ˈɒfɪs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "办公室",
+          "usage": "指工作场所"
+        }
+      ]
+    },
+    {
+      "word": "housework",
+      "phonetic": "/ˈhaʊswɜːk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "家务；家务活",
+          "usage": "不可数名词，指打扫、洗衣等家庭劳动"
+        }
+      ]
+    },
+    {
+      "word": "floor",
+      "phonetic": "/flɔː/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "地板；地面",
+          "usage": "指房间的地面部分"
+        }
+      ]
+    },
+    {
+      "word": "everywhere",
+      "phonetic": "/ˈevrɪweə/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "到处；各处",
+          "usage": "表示所有地方，与nowhere/somewhere相对"
+        }
+      ]
+    },
+    {
+      "word": "mouth",
+      "phonetic": "/maʊθ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "嘴；口腔",
+          "usage": "人体器官，用于吃东西和说话"
+        }
+      ]
+    },
+    {
+      "word": "late",
+      "phonetic": "/leɪt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "迟的；晚的",
+          "usage": "指比预定或应该的时间晚"
+        }
+      ]
+    },
+    {
+      "word": "phone",
+      "phonetic": "/fəʊn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "打电话",
+          "usage": "为telephone的缩写及动词用法"
+        }
+      ]
+    },
+    {
+      "word": "breakfast",
+      "phonetic": "/ˈbrekfəst/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "早餐",
+          "usage": "一天中的第一顿饭，break+fast（禁食）"
+        }
+      ]
+    },
+    {
+      "word": "drop",
+      "phonetic": "/drɒp/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "掉落；使落下",
+          "usage": "指物体从手中或其他地方掉落"
+        }
+      ]
+    },
+    {
+      "word": "both",
+      "phonetic": "/bəʊθ/",
+      "meanings": [
+        {
+          "pos": "pronoun",
+          "meaning": "两者；两个都",
+          "usage": "指两个人或事物，常与and连用"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "go into",
+      "usage": "进入（某个地方）",
+      "examples": [
+        {
+          "en": "He was going into the dining room.",
+          "zh": "他正走进餐厅。"
+        }
+      ]
+    },
+    {
+      "phrase": "drop on the floor",
+      "usage": "掉在地板上",
+      "examples": [
+        {
+          "en": "He dropped some coins on the floor.",
+          "zh": "他把一些硬币掉在了地板上。"
+        }
+      ]
+    },
+    {
+      "phrase": "look for",
+      "usage": "寻找（强调动作过程）",
+      "examples": [
+        {
+          "en": "We looked for them, but we could not find them all.",
+          "zh": "我们找了，但没能全部找到。"
+        }
+      ]
+    },
+    {
+      "phrase": "put into",
+      "usage": "把...放进...",
+      "examples": [
+        {
+          "en": "He put them both into his mouth.",
+          "zh": "他把两枚硬币都放进了嘴里。"
+        }
+      ]
+    },
+    {
+      "phrase": "try to",
+      "usage": "试图；尝试做...",
+      "examples": [
+        {
+          "en": "We both tried to get the coins.",
+          "zh": "我们都试图把硬币拿出来。"
+        }
+      ]
+    },
+    {
+      "phrase": "swallow",
+      "usage": "吞下咽下",
+      "examples": [
+        {
+          "en": "Tommy had already swallowed them.",
+          "zh": "Tommy已经把硬币吞下去了。"
+        }
+      ]
+    },
+    {
+      "phrase": "phone from",
+      "usage": "从...打电话来",
+      "examples": [
+        {
+          "en": "My husband phoned me from the office.",
+          "zh": "我丈夫从办公室给我打电话。"
+        }
+      ]
+    },
+    {
+      "phrase": "have breakfast",
+      "usage": "吃早餐",
+      "examples": [
+        {
+          "en": "While we were having breakfast.",
+          "zh": "当我们正在吃早餐的时候。"
+        }
+      ]
+    },
+    {
+      "phrase": "three times",
+      "usage": "三次",
+      "examples": [
+        {
+          "en": "Tommy's been to the toilet three times this morning.",
+          "zh": "Tommy今天早上已经上了三次厕所了。"
+        }
+      ]
+    },
+    {
+      "phrase": "late that morning",
+      "usage": "那天上午晚些时候",
+      "examples": [
+        {
+          "en": "Late that morning, when I was doing the housework.",
+          "zh": "那天上午晚些时候，我正在做家务。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去进行时 (Past Continuous Tense)",
+      "definition": "表示过去某一时刻正在进行的动作，通常与另一过去动作连用，说明背景",
+      "structure": "主语 + was/were + 动词-ing",
+      "usage": "用于描述过去正在进行的动作，为主要事件提供时间背景",
+      "examples": [
+        {
+          "en": "When my husband was going into the dining room this morning, he dropped some coins.",
+          "zh": "今天早上我丈夫走进餐厅时，把一些硬币掉在了地上。"
+        },
+        {
+          "en": "While we were having breakfast, our little boy found two small coins.",
+          "zh": "当我们正在吃早餐时，我们的小男孩在地上发现了两枚小硬币。"
+        }
+      ]
+    },
+    {
+      "title": "过去完成时 (Past Perfect Tense)",
+      "definition": "表示在过去某一时刻之前已经完成的动作，强调'过去的过去'",
+      "structure": "主语 + had + 过去分词",
+      "usage": "用于描述在叙述的过去时间点之前已经完成的动作",
+      "examples": [
+        {
+          "en": "Tommy had already swallowed them before we could get the coins.",
+          "zh": "在我们能够拿到硬币之前，Tommy已经把硬币吞下去了。"
+        },
+        {
+          "en": "We could not find them all because someone had taken them.",
+          "zh": "我们没能全部找到，因为有人已经把它们拿走了。"
+        }
+      ]
+    },
+    {
+      "title": "双关语 (Pun) - change",
+      "definition": "一个词有两个相关但不同的含义，产生幽默或俏皮的效果",
+      "structure": "同一个词在不同语境中的双重含义",
+      "usage": "本课中change既指硬币零钱，又指从厕所排出（换尿布时'找零'）",
+      "examples": [
+        {
+          "en": "I haven't had any change yet.",
+          "zh": "我还没有任何'找零'呢。（双关：既指零钱，也指孩子排便）"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "When + 过去进行时, 过去时",
+      "original": {
+        "en": "When my husband was going into the dining room, he dropped some coins.",
+        "zh": "当我丈夫走进餐厅时，他把硬币掉在了地上。"
+      },
+      "imitations": [
+        {
+          "en": "When she was walking home, she found a wallet.",
+          "zh": "当她走路回家时，她发现了一个钱包。"
+        },
+        {
+          "en": "When I was cooking dinner, the phone rang.",
+          "zh": "当我做晚饭时，电话响了。"
+        }
+      ]
+    },
+    {
+      "pattern": "While + 过去进行时, 过去进行时",
+      "original": {
+        "en": "While we were having breakfast, Tommy found two coins.",
+        "zh": "当我们正在吃早餐时，Tommy发现了两枚硬币。"
+      },
+      "imitations": [
+        {
+          "en": "While they were watching TV, the power went out.",
+          "zh": "当他们正在看电视时停电了。"
+        },
+        {
+          "en": "While I was reading, my brother was playing games.",
+          "zh": "当我看书时，我弟弟正在玩游戏。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + have/has been to + 地点 + 次数",
+      "original": {
+        "en": "Tommy's been to the toilet three times this morning.",
+        "zh": "Tommy今天早上已经上了三次厕所了。"
+      },
+      "imitations": [
+        {
+          "en": "He's been to the doctor twice this week.",
+          "zh": "这周他已经看过两次医生了。"
+        },
+        {
+          "en": "She's been to the library three times this month.",
+          "zh": "这个月她已经去过图书馆三次了。"
+        }
+      ]
+    },
+    {
+      "pattern": "...already + 过去分词",
+      "original": {
+        "en": "Tommy had already swallowed them.",
+        "zh": "Tommy已经把硬币吞下去了。"
+      },
+      "imitations": [
+        {
+          "en": "She had already left when I arrived.",
+          "zh": "当我到达时她已经离开了。"
+        },
+        {
+          "en": "The movie had already started when we got there.",
+          "zh": "当我们到达那里时电影已经开始了。"
+        }
+      ]
+    }
+  ]
+}

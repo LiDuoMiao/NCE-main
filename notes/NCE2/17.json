@@ -1,0 +1,386 @@
+{
+  "book": "NCE2",
+  "lesson": "17",
+  "title": "Why doesn't Aunt Jennifer tell anyone how old she is?",
+  "vocabulary": [
+    {
+      "word": "actress",
+      "phonetic": "/ˈæktrəs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "女演员",
+          "usage": "指从事表演工作的女性，如电影、电视或戏剧演员"
+        }
+      ]
+    },
+    {
+      "word": "appear",
+      "phonetic": "/əˈpɪə(r)/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "出现；登场",
+          "usage": "指在舞台、电视等上面出现或露面"
+        }
+      ]
+    },
+    {
+      "word": "stage",
+      "phonetic": "/steɪdʒ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "舞台",
+          "usage": "指戏剧表演的场所，也可比喻人生的舞台"
+        }
+      ]
+    },
+    {
+      "word": "play",
+      "phonetic": "/pleɪ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "戏剧；剧本",
+          "usage": "指为舞台表演创作的文学作品"
+        }
+      ]
+    },
+    {
+      "word": "bright",
+      "phonetic": "/braɪt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "明亮的；鲜艳的",
+          "usage": "形容颜色鲜明、光线充足"
+        }
+      ]
+    },
+    {
+      "word": "dress",
+      "phonetic": "/dres/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "连衣裙；女装",
+          "usage": "指女士穿的连体服装"
+        }
+      ]
+    },
+    {
+      "word": "stocking",
+      "phonetic": "/ˈstɒkɪŋ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "长筒袜",
+          "usage": "指覆盖小腿和脚部的女士袜子"
+        }
+      ]
+    },
+    {
+      "word": "sock",
+      "phonetic": "/sɒk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "短袜",
+          "usage": "指只覆盖脚部的短袜子"
+        }
+      ]
+    },
+    {
+      "word": "terrible",
+      "phonetic": "/ˈterəbl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "可怕的；糟糕的",
+          "usage": "形容令人害怕或不舒服的情况"
+        }
+      ]
+    },
+    {
+      "word": "grown-up",
+      "phonetic": "/ɡrəʊn ʌp/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "成年人",
+          "usage": "指已经长大成熟的人"
+        }
+      ]
+    },
+    {
+      "word": "take part in",
+      "phonetic": "/teɪk pɑːt ɪn/",
+      "meanings": [
+        {
+          "pos": "phrasal verb",
+          "meaning": "参加；参与",
+          "usage": "指参与某项活动或事件"
+        }
+      ]
+    },
+    {
+      "word": "in spite of",
+      "phonetic": "/ɪn spaɪt əv/",
+      "meanings": [
+        {
+          "pos": "preposition phrase",
+          "meaning": "尽管；虽然",
+          "usage": "用于引出让步状语，与though/although同义"
+        }
+      ]
+    },
+    {
+      "word": "at least",
+      "phonetic": "/ət liːst/",
+      "meanings": [
+        {
+          "pos": "phrase",
+          "meaning": "至少",
+          "usage": "表示最小数量或程度"
+        }
+      ]
+    },
+    {
+      "word": "anyone",
+      "phonetic": "/ˈeniwʌn/",
+      "meanings": [
+        {
+          "pos": "pronoun",
+          "meaning": "任何人",
+          "usage": "用于疑问句和否定句中"
+        }
+      ]
+    },
+    {
+      "word": "orange-coloured",
+      "phonetic": "/ˈɒrɪndʒ kʌləd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "橙色的",
+          "usage": "由orange和coloured组成的复合形容词"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "take part in",
+      "usage": "表示参加或参与某项活动、会议、比赛等",
+      "examples": [
+        {
+          "en": "Jennifer will have to take part in a new play soon.",
+          "zh": "珍妮弗很快必须参加一个新剧本的演出。"
+        }
+      ]
+    },
+    {
+      "phrase": "in spite of",
+      "usage": "表示尽管某种情况存在，通常后接名词或动名词",
+      "examples": [
+        {
+          "en": "In spite of this, she often appears on the stage as a young girl.",
+          "zh": "尽管如此，她仍然经常在舞台上扮演年轻女孩。"
+        }
+      ]
+    },
+    {
+      "phrase": "at least",
+      "usage": "表示最小数量或程度，意为'不少于'、'至少'",
+      "examples": [
+        {
+          "en": "She must be at least thirty-five years old.",
+          "zh": "她一定有至少三十五岁了。"
+        }
+      ]
+    },
+    {
+      "phrase": "appear on the stage",
+      "usage": "指在舞台上表演或亮相",
+      "examples": [
+        {
+          "en": "She often appears on the stage as a young girl.",
+          "zh": "她经常在舞台上扮演年轻女孩。"
+        }
+      ]
+    },
+    {
+      "phrase": "It must be terrible to be...",
+      "usage": "用于表达对某种情况的主观感受，认为某事很糟糕",
+      "examples": [
+        {
+          "en": "Darling, it must be terrible to be grown up!",
+          "zh": "亲爱的，长大成人一定很可怕！"
+        }
+      ]
+    },
+    {
+      "phrase": "wear short socks",
+      "usage": "指穿短袜",
+      "examples": [
+        {
+          "en": "She had to wear short socks.",
+          "zh": "她不得不穿短袜。"
+        }
+      ]
+    },
+    {
+      "phrase": "a bright red dress",
+      "usage": "明亮的红色连衣裙，形容词+颜色构成复合形容词",
+      "examples": [
+        {
+          "en": "She must appear in a bright red dress.",
+          "zh": "她必须穿一件鲜红色的连衣裙。"
+        }
+      ]
+    },
+    {
+      "phrase": "long black stockings",
+      "usage": "黑色长筒袜",
+      "examples": [
+        {
+          "en": "She must wear long black stockings.",
+          "zh": "她必须穿黑色长筒袜。"
+        }
+      ]
+    },
+    {
+      "phrase": "ask someone how old",
+      "usage": "询问某人的年龄",
+      "examples": [
+        {
+          "en": "If anyone ever asks her how old she is, she always answers...",
+          "zh": "如果有人问她多大了，她总是回答说..."
+        }
+      ]
+    },
+    {
+      "phrase": "a girl of seventeen",
+      "usage": "十七岁的女孩，of+年龄表示年龄",
+      "examples": [
+        {
+          "en": "She will be a girl of seventeen.",
+          "zh": "她将扮演一个十七岁的女孩。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "must be 表示推测",
+      "definition": "must + 动词原形表示对现在情况非常有把握的推测，意为'一定是'、'肯定是'",
+      "structure": "主语 + must be + 形容词/名词/数词",
+      "usage": "用于根据证据或常识进行肯定推测，语气比might be、could be更强",
+      "examples": [
+        {
+          "en": "She must be at least thirty-five years old.",
+          "zh": "她一定有至少三十五岁了。"
+        },
+        {
+          "en": "It must be terrible to be grown up!",
+          "zh": "长大成人一定很可怕！"
+        }
+      ]
+    },
+    {
+      "title": "will have to 表示将来必须",
+      "definition": "will have to + 动词原形表示将来必须做某事，含有不可避免或计划中的意味",
+      "structure": "主语 + will have to + 动词原形",
+      "usage": "表示将来某个时间必须做的事情，比must更强调未来性",
+      "examples": [
+        {
+          "en": "Jennifer will have to take part in a new play soon.",
+          "zh": "珍妮弗很快必须参加一个新剧本的演出。"
+        }
+      ]
+    },
+    {
+      "title": "if 引导的条件状语从句",
+      "definition": "if 引导的条件状语从句表示假设情况，主句用一般现在时或will等",
+      "structure": "If + 主语 + 动词...，主语 + will/always + 动词...",
+      "usage": "用于谈论可能发生的情况或习惯性的假设",
+      "examples": [
+        {
+          "en": "If anyone ever asks her how old she is, she always answers...",
+          "zh": "如果有人问她多大了，她总是回答说..."
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "主语 + must be + 年龄/形容词",
+      "original": {
+        "en": "She must be at least thirty-five years old.",
+        "zh": "她一定有至少三十五岁了。"
+      },
+      "imitations": [
+        {
+          "en": "He must be a teacher.",
+          "zh": "他一定是个老师。"
+        },
+        {
+          "en": "They must be tired.",
+          "zh": "他们一定累了。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + will have to + 动词原形",
+      "original": {
+        "en": "Jennifer will have to take part in a new play soon.",
+        "zh": "珍妮弗很快必须参加一个新剧本的演出。"
+      },
+      "imitations": [
+        {
+          "en": "I will have to leave early tomorrow.",
+          "zh": "我明天必须早点离开。"
+        },
+        {
+          "en": "We will have to finish this work today.",
+          "zh": "我们今天必须完成这项工作。"
+        }
+      ]
+    },
+    {
+      "pattern": "If + 条件句， 主语 + always + 动词",
+      "original": {
+        "en": "If anyone ever asks her how old she is, she always answers...",
+        "zh": "如果有人问她多大了，她总是回答说..."
+      },
+      "imitations": [
+        {
+          "en": "If it rains, I always stay at home.",
+          "zh": "如果下雨，我总是待在家里。"
+        },
+        {
+          "en": "If he calls, I always answer the phone.",
+          "zh": "如果他打电话，我总是接电话。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + must + 动词原形 + in + 服装",
+      "original": {
+        "en": "She must appear in a bright red dress and long black stockings.",
+        "zh": "她必须穿一件鲜红色连衣裙和黑色长筒袜出场。"
+      },
+      "imitations": [
+        {
+          "en": "He must come in a black suit.",
+          "zh": "他必须穿黑色西装来。"
+        },
+        {
+          "en": "She must appear in a white dress.",
+          "zh": "她必须穿白色连衣裙出场。"
+        }
+      ]
+    }
+  ]
+}

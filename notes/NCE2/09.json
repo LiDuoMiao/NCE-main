@@ -1,0 +1,394 @@
+{
+  "book": "NCE2",
+  "lesson": "09",
+  "title": "What does 'a cold welcome' refer to?",
+  "vocabulary": [
+    {
+      "word": "welcome",
+      "phonetic": "/ˈwelkəm/",
+      "meanings": [
+        {
+          "pos": "noun/verb",
+          "meaning": "欢迎；迎接",
+          "usage": "作名词时指欢迎仪式或待遇；作动词时指迎接客人"
+        }
+      ]
+    },
+    {
+      "word": "evening",
+      "phonetic": "/ˈiːvnɪŋ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "傍晚；晚上",
+          "usage": "指日落到就寝前的时间，与night不同，更强调傍晚时分"
+        }
+      ]
+    },
+    {
+      "word": "Town Hall",
+      "phonetic": "/taʊn hɔːl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "市政厅",
+          "usage": "指城镇的政府办公大楼，也用于公共集会"
+        }
+      ]
+    },
+    {
+      "word": "crowd",
+      "phonetic": "/kraʊd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "人群；观众",
+          "usage": "指聚集在一起的一群人，常带有拥挤的意味"
+        }
+      ]
+    },
+    {
+      "word": "strike",
+      "phonetic": "/straɪk/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "敲击；报时",
+          "usage": "指时钟敲响报时，也可以指撞击或罢工"
+        }
+      ]
+    },
+    {
+      "word": "minute",
+      "phonetic": "/ˈmɪnɪt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "分钟；片刻",
+          "usage": "表示时间单位，也可表示很短的时间"
+        }
+      ]
+    },
+    {
+      "word": "wait",
+      "phonetic": "/weɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "等待；等候",
+          "usage": "不及物动词，常用结构：wait for + 人/物"
+        }
+      ]
+    },
+    {
+      "word": "suddenly",
+      "phonetic": "/ˈsʌdənli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "突然地；出乎意料地",
+          "usage": "修饰动词，表示事情发生得很快且出人意料"
+        }
+      ]
+    },
+    {
+      "word": "shout",
+      "phonetic": "/ʃaʊt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "喊叫；大声说",
+          "usage": "指出于各种原因大声喊出话语"
+        }
+      ]
+    },
+    {
+      "word": "true",
+      "phonetic": "/truː/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "真实的；正确的",
+          "usage": "表示与事实相符的，区别于real（真实的、实际的）"
+        }
+      ]
+    },
+    {
+      "word": "refuse",
+      "phonetic": "/rɪˈfjuːz/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "拒绝；不肯",
+          "usage": "表示不愿意做某事或接受某物"
+        }
+      ]
+    },
+    {
+      "word": "begin",
+      "phonetic": "/bɪˈɡɪn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "开始",
+          "usage": "后可接不定式或动名词，意义相近"
+        }
+      ]
+    },
+    {
+      "word": "laugh",
+      "phonetic": "/lɑːf/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "笑；发笑",
+          "usage": "指出声地笑，表达愉快或嘲笑的情绪"
+        }
+      ]
+    },
+    {
+      "word": "gather",
+      "phonetic": "/ˈɡæðə/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "聚集；集合",
+          "usage": "指人群聚集在一起，也可指收集某物"
+        }
+      ]
+    },
+    {
+      "word": "hand",
+      "phonetic": "/hænd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "指针（钟表的）",
+          "usage": "特指钟表上的指针，如minute hand（分针）、hour hand（时针）"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "in twenty minutes' time",
+      "usage": "表示在特定时间之后，'s所有格表示时间长度",
+      "examples": [
+        {
+          "en": "The train will arrive in twenty minutes' time.",
+          "zh": "火车将在20分钟后到达。"
+        }
+      ]
+    },
+    {
+      "phrase": "wait and wait",
+      "usage": "表示持续等待，强调等待时间很长或令人焦急",
+      "examples": [
+        {
+          "en": "We waited and waited, but the bus never came.",
+          "zh": "我们等啊等，但公交车始终没来。"
+        }
+      ]
+    },
+    {
+      "phrase": "at five to twelve",
+      "usage": "表示时间'差5分12点'，即11:55，to表示'差'的意思",
+      "examples": [
+        {
+          "en": "He left at five to twelve.",
+          "zh": "他在12点差5分时离开了。"
+        }
+      ]
+    },
+    {
+      "phrase": "in that moment",
+      "usage": "表示在那一刻，强调某个特定的瞬间",
+      "examples": [
+        {
+          "en": "In that moment, I understood what he meant.",
+          "zh": "在那一刻，我明白了他是什么意思。"
+        }
+      ]
+    },
+    {
+      "phrase": "begin to do something",
+      "usage": "表示开始做某事，to后面接动词原形",
+      "examples": [
+        {
+          "en": "She began to cry when she heard the news.",
+          "zh": "她听到这个消息后开始哭了起来。"
+        }
+      ]
+    },
+    {
+      "phrase": "look at",
+      "usage": "表示看某人或某物，强调动作的过程",
+      "examples": [
+        {
+          "en": "Please look at the blackboard.",
+          "zh": "请看黑板。"
+        }
+      ]
+    },
+    {
+      "phrase": "gather under",
+      "usage": "表示聚集在某个地点或物体下面",
+      "examples": [
+        {
+          "en": "People gathered under the big tree to avoid the rain.",
+          "zh": "人们聚集在大树下避雨。"
+        }
+      ]
+    },
+    {
+      "phrase": "It was true.",
+      "usage": "表示确认某事是真实的，true强调符合事实",
+      "examples": [
+        {
+          "en": "It was true. She really won the lottery.",
+          "zh": "是真的，她真的中彩票了。"
+        }
+      ]
+    },
+    {
+      "phrase": "in twenty minutes' time",
+      "usage": "表示从现在起多少时间之后，'s所有格表示时间段",
+      "examples": [
+        {
+          "en": "The movie will start in twenty minutes' time.",
+          "zh": "电影将在20分钟后开始。"
+        }
+      ]
+    },
+    {
+      "phrase": "strike twelve",
+      "usage": "专指钟敲响12下，通常用于报时的语境",
+      "examples": [
+        {
+          "en": "The clock struck twelve at midnight.",
+          "zh": "午夜时分时钟敲响了12下。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去进行时 (Past Continuous Tense)",
+      "definition": "表示过去某一时刻或时间段正在进行的动作",
+      "structure": "主语 + was/were + 动词-ing",
+      "usage": "用于描述故事发生的背景，交代时间、地点和环境",
+      "examples": [
+        {
+          "en": "We were waiting for the clock to strike twelve.",
+          "zh": "我们正在等待时钟敲响12下。"
+        },
+        {
+          "en": "A large crowd of people had gathered under the Town Hall clock.",
+          "zh": "一大群人聚集在市政厅的钟楼下。"
+        }
+      ]
+    },
+    {
+      "title": "时间表达：'in + 时间段' (Future Time)",
+      "definition": "表示从现在起多长时间之后",
+      "structure": "主语 + will + 动词 + in + 时间段",
+      "usage": "用于谈论将来要发生的事情，in后面接表示时间的名词",
+      "examples": [
+        {
+          "en": "It would strike twelve in twenty minutes' time.",
+          "zh": "再过20分钟它就要敲响12点了。"
+        },
+        {
+          "en": "The meeting will start in an hour.",
+          "zh": "会议将在一个小时后开始。"
+        }
+      ]
+    },
+    {
+      "title": "陈述事实的过去时 (Simple Past for Facts)",
+      "definition": "用一般过去时陈述过去发生的事情或事实",
+      "structure": "主语 + 动词过去式",
+      "usage": "用于叙述故事中按时间顺序发生的具体事件",
+      "examples": [
+        {
+          "en": "The clock stopped. The big minute hand did not move.",
+          "zh": "时钟停了。大分针不动了。"
+        },
+        {
+          "en": "Suddenly someone shouted.",
+          "zh": "突然有人喊道。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "It was the last day of + 时间段",
+      "original": {
+        "en": "It was the last day of the year.",
+        "zh": "那是一年的最后一天。"
+      },
+      "imitations": [
+        {
+          "en": "It was the last day of the month.",
+          "zh": "那是一个月的最后一天。"
+        },
+        {
+          "en": "It was the last day of our vacation.",
+          "zh": "那是我们假期的最后一天。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + would + 动词 + in + 时间段",
+      "original": {
+        "en": "It would strike twelve in twenty minutes' time.",
+        "zh": "再过20分钟它就要敲响12点了。"
+      },
+      "imitations": [
+        {
+          "en": "The movie would end in two hours.",
+          "zh": "再过两个小时电影就结束了。"
+        },
+        {
+          "en": "She would arrive in thirty minutes' time.",
+          "zh": "再过30分钟她就到了。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + 动词过去式 + and + 动词过去式",
+      "original": {
+        "en": "We waited and waited, but nothing happened.",
+        "zh": "我们等了又等，但什么也没发生。"
+      },
+      "imitations": [
+        {
+          "en": "She thought and thought, but couldn't find the answer.",
+          "zh": "她想了又想，但找不到答案。"
+        },
+        {
+          "en": "They looked and looked, but saw no one.",
+          "zh": "他们看了又看，但没看到任何人。"
+        }
+      ]
+    },
+    {
+      "pattern": "At + 时间点, 主语 + 动词过去式",
+      "original": {
+        "en": "At that moment, everybody began to laugh and sing.",
+        "zh": "在那一刻，大家都开始笑啊唱啊。"
+      },
+      "imitations": [
+        {
+          "en": "At noon, the children went home.",
+          "zh": "在中午，孩子们回家了。"
+        },
+        {
+          "en": "At six o'clock, the bell rang.",
+          "zh": "在6点钟，铃声响了。"
+        }
+      ]
+    }
+  ]
+}

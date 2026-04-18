@@ -1,0 +1,409 @@
+{
+  "book": "NCE3",
+  "lesson": "59",
+  "title": "Lesson 59",
+  "vocabulary": [
+    {
+      "word": "amass",
+      "phonetic": "/əˈmæs/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "积聚，积累",
+          "usage": "指大量收集或积聚财物、信息等"
+        }
+      ]
+    },
+    {
+      "word": "possession",
+      "phonetic": "/pəˈzeʃən/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "财产，所有物",
+          "usage": "指个人拥有的物品，常用复数形式"
+        }
+      ]
+    },
+    {
+      "word": "indiscriminate",
+      "phonetic": "/ˌɪndɪˈskrɪmɪnət/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "不加选择的，漫不经心的",
+          "usage": "形容不加区分地收集或对待事物"
+        }
+      ]
+    },
+    {
+      "word": "clutter",
+      "phonetic": "/ˈklʌtər/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "杂物，零乱的东西",
+          "usage": "指杂乱无章的物品堆放"
+        },
+        {
+          "pos": "verb",
+          "meaning": "使凌乱，塞满",
+          "usage": "常用clutter up结构"
+        }
+      ]
+    },
+    {
+      "word": "sentiment",
+      "phonetic": "/ˈsentɪmənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "情感，感伤；情绪",
+          "usage": "指对事物的感伤情绪或情感因素"
+        }
+      ]
+    },
+    {
+      "word": "thrifty",
+      "phonetic": "/ˈθrɪfti/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "节俭的，节约的",
+          "usage": "形容善于节省金钱或资源的人"
+        }
+      ]
+    },
+    {
+      "word": "requisite",
+      "phonetic": "/ˈrekwɪzɪt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "必需品，必要条件",
+          "usage": "指做某事所必需的东西"
+        }
+      ]
+    },
+    {
+      "word": "mania",
+      "phonetic": "/ˈmeɪniə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "狂热，癖好；狂躁",
+          "usage": "指对某事的极度热爱或沉迷"
+        }
+      ]
+    },
+    {
+      "word": "sketch",
+      "phonetic": "/sketʃ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "草图，素描；速写",
+          "usage": "指简短的绘画或文字描述"
+        },
+        {
+          "pos": "verb",
+          "meaning": "绘草图，概述",
+          "usage": "cut out sketches表示剪下图片"
+        }
+      ]
+    },
+    {
+      "word": "relaxation",
+      "phonetic": "/ˌriːlækˈseɪʃən/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "放松，休息；消遣",
+          "usage": "指休闲娱乐活动或放松状态"
+        }
+      ]
+    },
+    {
+      "word": "treasure",
+      "phonetic": "/ˈtreʒər/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "珍宝，财富；珍藏品",
+          "usage": "指珍视的收藏品或贵重物品"
+        }
+      ]
+    },
+    {
+      "word": "verify",
+      "phonetic": "/ˈverɪfaɪ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "证实，核实；验证",
+          "usage": "指通过查证来确认信息的准确性"
+        }
+      ]
+    },
+    {
+      "word": "specimen",
+      "phonetic": "/ˈspesɪmən/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "标本，样本；范例",
+          "usage": "指用于展示或研究的典型例子"
+        }
+      ]
+    },
+    {
+      "word": "contented",
+      "phonetic": "/kənˈtentɪd/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "满足的，满意的",
+          "usage": "指对现状感到满意的状态"
+        }
+      ]
+    },
+    {
+      "word": "bore",
+      "phonetic": "/bɔːr/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "使厌烦，使无聊",
+          "usage": "指让人感到无聊或厌烦"
+        },
+        {
+          "pos": "noun",
+          "meaning": "令人厌烦的人或事物",
+          "usage": "boredom是名词形式，表示厌烦的状态"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "tend to",
+      "usage": "倾向于，易于，往往会",
+      "examples": [
+        {
+          "en": "People tend to amass possessions, sometimes without being aware of doing so.",
+          "zh": "人们往往会积聚财产，有时甚至没有意识到自己在这样做。"
+        }
+      ]
+    },
+    {
+      "phrase": "turn out",
+      "usage": "结果是，证明是；关掉",
+      "examples": [
+        {
+          "en": "Both physical and mental energy are essential in turning out and throwing away.",
+          "zh": "体力和脑力对于清理和扔掉东西都是必不可少的。"
+        }
+      ]
+    },
+    {
+      "phrase": "cut out",
+      "usage": "剪下，裁剪出；停止",
+      "examples": [
+        {
+          "en": "I know someone who always cuts sketches out from newspapers.",
+          "zh": "我认识一个人，她总是从报纸上剪下时装图样。"
+        }
+      ]
+    },
+    {
+      "phrase": "litter up",
+      "usage": "使凌乱，塞满",
+      "examples": [
+        {
+          "en": "It is a harmless habit, but it litters up her desk to such an extent.",
+          "zh": "这是个无害的习惯，但它把她的桌子弄得乱七八糟。"
+        }
+      ]
+    },
+    {
+      "phrase": "in connection with",
+      "usage": "关于，与...有关",
+      "examples": [
+        {
+          "en": "There is always something to do in connection with it.",
+          "zh": "与此相关的总有事情可做。"
+        }
+      ]
+    },
+    {
+      "phrase": "have some bearing on",
+      "usage": "与...有关联，对...有影响",
+      "examples": [
+        {
+          "en": "This hobby educates one not only in the chosen subject, but also in general matters which have some bearing on it.",
+          "zh": "这种爱好不仅使人对自己选择的主题有所了解，而且还能使人了解与之相关的一般性知识。"
+        }
+      ]
+    },
+    {
+      "phrase": "compare notes",
+      "usage": "交换意见，交流心得",
+      "examples": [
+        {
+          "en": "One wants to meet like-minded collectors, to get advice, to compare notes.",
+          "zh": "人们想遇到志趣相投的收藏家，获取建议，交流心得。"
+        }
+      ]
+    },
+    {
+      "phrase": "show off",
+      "usage": "炫耀，显示，卖弄",
+      "examples": [
+        {
+          "en": "One wants to meet like-minded collectors, to compare notes, to exchange articles, to show off the latest find.",
+          "zh": "人们想遇到志趣相投的收藏家，交流心得，交换物品，展示最新发现。"
+        }
+      ]
+    },
+    {
+      "phrase": "in search of",
+      "usage": "寻找，搜寻",
+      "examples": [
+        {
+          "en": "Perhaps a trip abroad in search of a rare specimen.",
+          "zh": "或许还会出国寻找珍稀标本。"
+        }
+      ]
+    },
+    {
+      "phrase": "over the years",
+      "usage": "多年来，随着时间的推移",
+      "examples": [
+        {
+          "en": "Over the years, one may well become an authority on one's hobby.",
+          "zh": "多年下来，人很可能会成为自己爱好的权威。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "What引导的特殊疑问句",
+      "definition": "What引导的特殊疑问句用于询问具体的信息，回答不是简单的yes或no",
+      "structure": "What + 助动词 + 主语 + 动词...? / What in particular + 助动词 + 主语 + 动词...?",
+      "usage": "what in particular用于强调询问具体的方面或细节，相当于specifically或particularly",
+      "examples": [
+        {
+          "en": "What in particular does a person gain when he or she becomes a serious collector?",
+          "zh": "当一个人成为一个认真的收藏家时，他或她究竟会得到什么？"
+        },
+        {
+          "en": "What do you usually collect?",
+          "zh": "你通常收集什么？"
+        }
+      ]
+    },
+    {
+      "title": "As引导的时间状语从句",
+      "definition": "As引导的时间状语从句，表示'随着'或'当...时候'，主句和从句的动作同时发生",
+      "structure": "As + 主语 + 动词..., 主语 + 动词...",
+      "usage": "as表示时间的流逝或情况的改变，常与表示变化的动词连用，如grow old, change等",
+      "examples": [
+        {
+          "en": "As they grow old, people also accumulate belongings for two other reasons.",
+          "zh": "随着人们年龄的增长，他们还因为另外两个原因积攒东西。"
+        },
+        {
+          "en": "As time goes by, his collection grows larger.",
+          "zh": "随着时间的推移，他的收藏越来越大。"
+        }
+      ]
+    },
+    {
+      "title": "But连接的并列句",
+      "definition": "but作为并列连词连接两个意义相反或对照的并列分句",
+      "structure": "主句 + , but + 并列句",
+      "usage": "but连接的句子强调前后意思的转折或对比，前面不用句号而用逗号",
+      "examples": [
+        {
+          "en": "It is a harmless habit, but it litters up her desk to such an extent.",
+          "zh": "这是个无害的习惯，但它把她的桌子弄得乱七八糟。"
+        },
+        {
+          "en": "She would like to buy them if she had the money, but she is not rich.",
+          "zh": "如果她有钱的话她想买这些衣服，但她不富有。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "What + 助动词 + 主语 + gain/benefit + when...?",
+      "original": {
+        "en": "What in particular does a person gain when he or she becomes a serious collector?",
+        "zh": "当一个人成为一个认真的收藏家时，他或她究竟会得到什么？"
+      },
+      "imitations": [
+        {
+          "en": "What in particular does one learn when taking up a new hobby?",
+          "zh": "当一个人开始一个新的爱好时，他究竟会学到什么？"
+        },
+        {
+          "en": "What in particular do people feel when they retire?",
+          "zh": "当人们退休时，他们究竟会有什么感受？"
+        }
+      ]
+    },
+    {
+      "pattern": "People/主语 + tend to + 动词原形",
+      "original": {
+        "en": "People tend to amass possessions, sometimes without being aware of doing so.",
+        "zh": "人们往往会积聚财产，有时甚至没有意识到自己在这样做。"
+      },
+      "imitations": [
+        {
+          "en": "Students tend to put off their assignments until the last minute.",
+          "zh": "学生们往往会拖延作业直到最后一刻。"
+        },
+        {
+          "en": "Children tend to be more curious about the world around them.",
+          "zh": "孩子们往往对周围的世界更加好奇。"
+        }
+      ]
+    },
+    {
+      "pattern": "As + 主语 + 动词, 主语 + 动词...",
+      "original": {
+        "en": "As they grow old, people also accumulate belongings for two other reasons.",
+        "zh": "随着人们年龄的增长，他们还因为另外两个原因积攒东西。"
+      },
+      "imitations": [
+        {
+          "en": "As she became more experienced, she started to travel alone.",
+          "zh": "随着她变得越来越有经验，她开始独自旅行。"
+        },
+        {
+          "en": "As technology advances, our lives become more convenient.",
+          "zh": "随着技术的进步，我们的生活变得更加便利。"
+        }
+      ]
+    },
+    {
+      "pattern": "There is always something to + 动词",
+      "original": {
+        "en": "There is always something to do in connection with it.",
+        "zh": "与此相关的总有事情可做。"
+      },
+      "imitations": [
+        {
+          "en": "There is always something to learn from every experience.",
+          "zh": "从每一次经历中总有东西可学。"
+        },
+        {
+          "en": "There is always something to improve in our work.",
+          "zh": "在我们的工作中总有可以改进的地方。"
+        }
+      ]
+    }
+  ]
+}

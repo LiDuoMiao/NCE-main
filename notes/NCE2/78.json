@@ -1,0 +1,406 @@
+{
+  "book": "NCE2",
+  "lesson": "78",
+  "title": "For how long did the writer give up smoking?",
+  "vocabulary": [
+    {
+      "word": "smoking",
+      "phonetic": "/ˈsməʊkɪŋ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "吸烟，抽烟",
+          "usage": "指抽烟的行为或习惯"
+        }
+      ]
+    },
+    {
+      "word": "concentration",
+      "phonetic": "/ˌkɒnsənˈtreɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "专注，专心",
+          "usage": "指集中注意力的状态"
+        }
+      ]
+    },
+    {
+      "word": "pleasure",
+      "phonetic": "/ˈpleʒə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "快乐，愉快",
+          "usage": "指愉悦的感觉或乐趣"
+        }
+      ]
+    },
+    {
+      "word": "symptom",
+      "phonetic": "/ˈsɪmptəm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "症状，征兆",
+          "usage": "医学或比喻意义使用"
+        }
+      ]
+    },
+    {
+      "word": "temper",
+      "phonetic": "/ˈtempə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "脾气，情绪",
+          "usage": "指人的性情或情绪状态"
+        }
+      ]
+    },
+    {
+      "word": "appetite",
+      "phonetic": "/ˈæpɪtaɪt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "食欲，胃口",
+          "usage": "指对食物的欲望"
+        }
+      ]
+    },
+    {
+      "word": "packet",
+      "phonetic": "/ˈpækɪt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "小包，小盒",
+          "usage": "指小的包装容器"
+        }
+      ]
+    },
+    {
+      "word": "delighted",
+      "phonetic": "/dɪˈlaɪtɪd/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "高兴的，快乐的",
+          "usage": "表示非常开心和满意"
+        }
+      ]
+    },
+    {
+      "word": "guiltily",
+      "phonetic": "/ˈɡɪltɪli/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "内疚地，心虚地",
+          "usage": "描述带有负罪感的动作"
+        }
+      ]
+    },
+    {
+      "word": "suffer",
+      "phonetic": "/ˈsʌfə/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "遭受，忍受",
+          "usage": "指经历痛苦或不适"
+        }
+      ]
+    },
+    {
+      "word": "urge",
+      "phonetic": "/ɜːdʒ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "催促，强烈要求",
+          "usage": "指强烈地劝某人做某事"
+        }
+      ]
+    },
+    {
+      "word": "hide",
+      "phonetic": "/haɪd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "隐藏，隐瞒",
+          "usage": "指把东西藏起来不让别人看到"
+        }
+      ]
+    },
+    {
+      "word": "amusement",
+      "phonetic": "/əˈmjuːzmənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "娱乐，消遣",
+          "usage": "指觉得有趣或好笑的状态"
+        }
+      ]
+    },
+    {
+      "word": "normal",
+      "phonetic": "/ˈnɔːml/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "正常的，普通的",
+          "usage": "描述符合常规或标准的状态"
+        }
+      ]
+    },
+    {
+      "word": "calm",
+      "phonetic": "/kɑːm/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "使平静，使镇定",
+          "usage": "指让人放松或平息情绪"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "give up smoking",
+      "usage": "戒烟，戒除吸烟的习惯",
+      "examples": [
+        {
+          "en": "He decided to give up smoking last year.",
+          "zh": "他去年决定戒烟。"
+        }
+      ]
+    },
+    {
+      "phrase": "calm my nerves",
+      "usage": "镇定我的神经，使我放松",
+      "examples": [
+        {
+          "en": "She took a deep breath to calm her nerves.",
+          "zh": "她深呼吸让自己放松下来。"
+        }
+      ]
+    },
+    {
+      "phrase": "keep on doing something",
+      "usage": "继续做某事，坚持做某事",
+      "examples": [
+        {
+          "en": "They kept on offering me cigarettes.",
+          "zh": "他们一直给我递烟。"
+        }
+      ]
+    },
+    {
+      "phrase": "more than I could bear",
+      "usage": "超出我的承受能力，我无法忍受",
+      "examples": [
+        {
+          "en": "The pain was more than I could bear.",
+          "zh": "疼痛超出了我的承受能力。"
+        }
+      ]
+    },
+    {
+      "phrase": "make no effort to do something",
+      "usage": "没有努力做某事，毫不费力做某事",
+      "examples": [
+        {
+          "en": "They made no effort to hide their amusement.",
+          "zh": "他们毫不掩饰自己的笑意。"
+        }
+      ]
+    },
+    {
+      "phrase": "light a cigarette",
+      "usage": "点烟，点燃一支烟",
+      "examples": [
+        {
+          "en": "He lit a cigarette to calm his nerves.",
+          "zh": "他点了一根烟来镇定神经。"
+        }
+      ]
+    },
+    {
+      "phrase": "return to normal",
+      "usage": "恢复正常，回到正常状态",
+      "examples": [
+        {
+          "en": "Things had returned to normal once more.",
+          "zh": "一切又恢复了正常。"
+        }
+      ]
+    },
+    {
+      "phrase": "point out",
+      "usage": "指出，指向",
+      "examples": [
+        {
+          "en": "As Brian pointed out, it is the easiest thing.",
+          "zh": "正如布莱恩指出的，这是最简单的事。"
+        }
+      ]
+    },
+    {
+      "phrase": "produce something from",
+      "usage": "从...拿出/掏出某物",
+      "examples": [
+        {
+          "en": "I produced a packet of sweets from my pocket.",
+          "zh": "我从口袋里掏出一包糖果。"
+        }
+      ]
+    },
+    {
+      "phrase": "the easiest thing in the world",
+      "usage": "世界上最容易的事",
+      "examples": [
+        {
+          "en": "It is the easiest thing in the world to give up smoking.",
+          "zh": "戒烟是世界上最容易的事。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "一般过去时与过去进行时",
+      "definition": "一般过去时描述在过去某个时间完成的动作；过去进行时描述在过去某个时间正在进行的动作。两者可以结合使用。",
+      "structure": "When引导的时间状语从句中，从句用一般过去时，主句用过去进行时；或者主句用一般过去时，从句用过去进行时。",
+      "usage": "用于描述过去同时发生的动作，或一个动作发生时另一个动作正在进行。",
+      "examples": [
+        {
+          "en": "When my old friend Brian urged me to accept a cigarette, I took one.",
+          "zh": "当我的老朋友布莱恩劝我接受一支烟时，我接了一支。"
+        },
+        {
+          "en": "While I was smoking, my wife was watching me.",
+          "zh": "当我抽烟时，我的妻子正在看着我。"
+        },
+        {
+          "en": "After reading an article, I lit a cigarette.",
+          "zh": "读完一篇文章后，我点了一根烟。"
+        }
+      ]
+    },
+    {
+      "title": "For + 时间段 + 过去时",
+      "definition": "用for引出时间段，表示某个动作或状态持续了多长时间，常与过去时连用。",
+      "structure": "for + 一段时间 + 一般过去时",
+      "usage": "描述过去某事持续的时间长度，常与表示戒烟、等待等持续性动作连用。",
+      "examples": [
+        {
+          "en": "For a whole week I did not smoke at all.",
+          "zh": "整整一周我一根烟都没抽。"
+        },
+        {
+          "en": "I stayed there for three hours.",
+          "zh": "我在那里待了三个小时。"
+        },
+        {
+          "en": "She worked in London for five years.",
+          "zh": "她在伦敦工作了五年。"
+        }
+      ]
+    },
+    {
+      "title": "too...to 和 more than + 情感动词",
+      "definition": "too + 形容词/副词 + to do something 表示太...以至于不能...；more than + 情感动词表示超过某种情感所能承受的程度。",
+      "structure": "too + adj/adv + (for someone) + to do something / more than + 情感动词(could/bear等)",
+      "usage": "用于强调某种程度超出承受范围，常用于表达无法忍受的情感。",
+      "examples": [
+        {
+          "en": "It was more than I could bear.",
+          "zh": "这超出了我的承受能力。"
+        },
+        {
+          "en": "The box is too heavy to carry.",
+          "zh": "这个箱子太重了，搬不动。"
+        },
+        {
+          "en": "She was too nervous to speak.",
+          "zh": "她太紧张了，说不出话来。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "For + 一段时间 + did not + 动词原形",
+      "original": {
+        "en": "For a whole week I did not smoke at all.",
+        "zh": "整整一周我一根烟都没抽。"
+      },
+      "imitations": [
+        {
+          "en": "For a month I did not drink coffee.",
+          "zh": "整整一个月我没喝咖啡。"
+        },
+        {
+          "en": "For two hours he did not say a word.",
+          "zh": "整整两个小时他一句话都没说。"
+        }
+      ]
+    },
+    {
+      "pattern": "After + doing something, 主语 + 动词",
+      "original": {
+        "en": "After reading an article, I lit a cigarette.",
+        "zh": "读完一篇文章后，我点了一根烟。"
+      },
+      "imitations": [
+        {
+          "en": "After finishing my homework, I watched TV.",
+          "zh": "做完作业后，我看了电视。"
+        },
+        {
+          "en": "After getting up, she made breakfast.",
+          "zh": "起床后，她做了早餐。"
+        }
+      ]
+    },
+    {
+      "pattern": "It is the easiest thing in the world to do something",
+      "original": {
+        "en": "It is the easiest thing in the world to give up smoking.",
+        "zh": "戒烟是世界上最容易的事。"
+      },
+      "imitations": [
+        {
+          "en": "It is the easiest thing in the world to learn English.",
+          "zh": "学英语是世界上最容易的事。"
+        },
+        {
+          "en": "It is the hardest thing in the world to wake up early.",
+          "zh": "早起是世界上最难的事。"
+        }
+      ]
+    },
+    {
+      "pattern": "When + 一般过去时, 主语 + 过去时",
+      "original": {
+        "en": "When my old friend Brian urged me to accept a cigarette, it was more than I could bear.",
+        "zh": "当我的老朋友布莱恩劝我接受一支烟时，我无法忍受了。"
+      },
+      "imitations": [
+        {
+          "en": "When he offered me a drink, it was more than I could bear.",
+          "zh": "当他给我递饮料时，我忍不住了。"
+        },
+        {
+          "en": "When she asked me to dance, I felt nervous.",
+          "zh": "当她邀请我跳舞时，我很紧张。"
+        }
+      ]
+    }
+  ]
+}

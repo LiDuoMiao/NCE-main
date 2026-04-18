@@ -1,0 +1,422 @@
+{
+  "book": "NCE2",
+  "lesson": "54",
+  "title": "What two interruptions did the writer have?",
+  "vocabulary": [
+    {
+      "word": "interruption",
+      "phonetic": "/ˌɪntəˈrʌpʃən/",
+      "meanings": [
+        {
+          "pos": "名词",
+          "meaning": "打扰；中断；插嘴",
+          "usage": "指打扰或中断某人正在做的事情"
+        }
+      ]
+    },
+    {
+      "word": "pastry",
+      "phonetic": "/ˈpeɪstri/",
+      "meanings": [
+        {
+          "pos": "名词",
+          "meaning": "油酥面团；糕点",
+          "usage": "指用于制作糕点的面团，通常含有黄油"
+        }
+      ]
+    },
+    {
+      "word": "annoying",
+      "phonetic": "/əˈnɔɪɪŋ/",
+      "meanings": [
+        {
+          "pos": "形容词",
+          "meaning": "恼人的；讨厌的",
+          "usage": "形容让人感到烦恼或生气的事物"
+        }
+      ]
+    },
+    {
+      "word": "receiver",
+      "phonetic": "/rɪˈsiːvə/",
+      "meanings": [
+        {
+          "pos": "名词",
+          "meaning": "听筒；接收者",
+          "usage": "电话的听筒部分"
+        }
+      ]
+    },
+    {
+      "word": "dismay",
+      "phonetic": "/dɪsˈmeɪ/",
+      "meanings": [
+        {
+          "pos": "名词/动词",
+          "meaning": "沮丧；使沮丧",
+          "usage": "表示失望或担忧的情绪"
+        }
+      ]
+    },
+    {
+      "word": "persuade",
+      "phonetic": "/pəˈsweɪd/",
+      "meanings": [
+        {
+          "pos": "动词",
+          "meaning": "说服；劝使",
+          "usage": "通过说理使某人做某事或相信某事"
+        }
+      ]
+    },
+    {
+      "word": "mess",
+      "phonetic": "/mes/",
+      "meanings": [
+        {
+          "pos": "名词",
+          "meaning": "混乱；脏乱；一团糟",
+          "usage": "形容杂乱不堪的状态"
+        }
+      ]
+    },
+    {
+      "word": "doorknob",
+      "phonetic": "/ˈdɔːnɒb/",
+      "meanings": [
+        {
+          "pos": "名词",
+          "meaning": "门把手",
+          "usage": "门上用来转动开门的圆形把手"
+        }
+      ]
+    },
+    {
+      "word": "registered",
+      "phonetic": "/ˈredʒɪstəd/",
+      "meanings": [
+        {
+          "pos": "形容词",
+          "meaning": "挂号的；登记的",
+          "usage": "指需要签收的挂号邮件"
+        }
+      ]
+    },
+    {
+      "word": "sticky",
+      "phonetic": "/ˈstɪki/",
+      "meanings": [
+        {
+          "pos": "形容词",
+          "meaning": "黏的；黏糊糊的",
+          "usage": "描述粘性物质如糨糊、糖浆等的特性"
+        }
+      ]
+    },
+    {
+      "word": "mix",
+      "phonetic": "/mɪks/",
+      "meanings": [
+        {
+          "pos": "动词",
+          "meaning": "混合；搅拌",
+          "usage": "把两种或多种东西混合在一起"
+        }
+      ]
+    },
+    {
+      "word": "quiet",
+      "phonetic": "/ˈkwaɪət/",
+      "meanings": [
+        {
+          "pos": "形容词",
+          "meaning": "安静的；寂静的",
+          "usage": "形容没有声音或很安静的环境"
+        }
+      ]
+    },
+    {
+      "word": "ring",
+      "phonetic": "/rɪŋ/",
+      "meanings": [
+        {
+          "pos": "动词",
+          "meaning": "打电话；响铃",
+          "usage": "电话响或打电话的动作"
+        }
+      ]
+    },
+    {
+      "word": "loud",
+      "phonetic": "/laʊd/",
+      "meanings": [
+        {
+          "pos": "形容词",
+          "meaning": "大声的；响亮的",
+          "usage": "形容声音强度大"
+        }
+      ]
+    },
+    {
+      "word": "sign",
+      "phonetic": "/saɪn/",
+      "meanings": [
+        {
+          "pos": "动词",
+          "meaning": "签名；签署",
+          "usage": "在文件上写上名字"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "make meat pies",
+      "usage": "制作肉馅饼，指做一种含肉的烘焙食品",
+      "examples": [
+        {
+          "en": "I decided to make some meat pies for dinner.",
+          "zh": "我决定做些肉馅饼作为晚餐。"
+        }
+      ]
+    },
+    {
+      "phrase": "pick up the receiver",
+      "usage": "拿起电话听筒，指接电话的动作",
+      "examples": [
+        {
+          "en": "She picked up the receiver and said hello.",
+          "zh": "她拿起听筒说了声你好。"
+        }
+      ]
+    },
+    {
+      "phrase": "ring back",
+      "usage": "回电话，稍后再打来",
+      "examples": [
+        {
+          "en": "Please ring back later when I'm free.",
+          "zh": "请稍后再打过来。"
+        }
+      ]
+    },
+    {
+      "phrase": "hang up (the receiver)",
+      "usage": "挂断电话，放下听筒",
+      "examples": [
+        {
+          "en": "At last I hung up the receiver.",
+          "zh": "最后我挂断了电话。"
+        }
+      ]
+    },
+    {
+      "phrase": "no sooner...than",
+      "usage": "一...就...，强调两个动作紧接发生",
+      "examples": [
+        {
+          "en": "I had no sooner got back to the kitchen than the doorbell rang.",
+          "zh": "我刚回到厨房，门铃就响了。"
+        }
+      ]
+    },
+    {
+      "phrase": "in a short time",
+      "usage": "很快；不久，表示时间短暂",
+      "examples": [
+        {
+          "en": "In a short time I was busy mixing butter and flour.",
+          "zh": "很快我就忙着搅拌黄油和面粉了。"
+        }
+      ]
+    },
+    {
+      "phrase": "wake the dead",
+      "usage": "声音极大，震耳欲聋",
+      "examples": [
+        {
+          "en": "The doorbell rang loud enough to wake the dead.",
+          "zh": "门铃响得震耳欲聋。"
+        }
+      ]
+    },
+    {
+      "phrase": "sign for",
+      "usage": "签收，签名收取",
+      "examples": [
+        {
+          "en": "He wanted me to sign for a registered letter.",
+          "zh": "他要我签收一封挂号信。"
+        }
+      ]
+    },
+    {
+      "phrase": "be covered with",
+      "usage": "被...覆盖",
+      "examples": [
+        {
+          "en": "My hands were soon covered with sticky pastry.",
+          "zh": "我的手上很快沾满了黏糊糊的面团。"
+        }
+      ]
+    },
+    {
+      "phrase": "at exactly that moment",
+      "usage": "就在那时，强调恰好在某个时间点",
+      "examples": [
+        {
+          "en": "At exactly that moment, the telephone rang.",
+          "zh": "就在那时，电话响了。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去完成时与no sooner...than连用",
+      "definition": "no sooner...than表示'一...就...'，no sooner后面用过去完成时，than后面用一般过去时，表示前一动作刚刚结束，后一动作就发生了。",
+      "structure": "主语 + had no sooner + 过去分词 + than + 主语 + 过去式动词",
+      "usage": "用于描述两个紧接发生的动作，强调时间上的紧密联系。相当于hardly...when...的结构。",
+      "examples": [
+        {
+          "en": "I had no sooner got back to the kitchen than the doorbell rang.",
+          "zh": "我刚回到厨房，门铃就响了。"
+        },
+        {
+          "en": "She had no sooner entered the room than the phone rang.",
+          "zh": "她一进房间，电话就响了。"
+        },
+        {
+          "en": "He had no sooner finished his homework than his friends called.",
+          "zh": "他刚完成作业，他的朋友就打来电话了。"
+        }
+      ]
+    },
+    {
+      "title": "否定最高级结构",
+      "definition": "Nothing could have been more + 形容词原级 表示'没有什么比...更...'，是一种加强语气的否定最高级表达。",
+      "structure": "Nothing could have been more + 形容词",
+      "usage": "用于表达某事物是某种状态中最极端的，强调程度很深。比直接用最高级更有强调效果。",
+      "examples": [
+        {
+          "en": "Nothing could have been more annoying.",
+          "zh": "没有比这更烦人的了。"
+        },
+        {
+          "en": "Nothing could have been more beautiful.",
+          "zh": "没有什么比这更美丽的了。"
+        },
+        {
+          "en": "Nothing could have been more exciting.",
+          "zh": "没有什么比这更令人兴奋的了。"
+        }
+      ]
+    },
+    {
+      "title": "过去进行时描述背景",
+      "definition": "was/were + 动词-ing 可以用来描述故事发生的背景，为主要事件做铺垫。",
+      "structure": "主语 + was/were + 动词-ing",
+      "usage": "在叙述过去事件时，先描述正在进行的动作作为背景，然后引入打断的事件。",
+      "examples": [
+        {
+          "en": "I was busy mixing butter and flour.",
+          "zh": "我正忙着搅拌黄油和面粉。"
+        },
+        {
+          "en": "He was reading a book when the doorbell rang.",
+          "zh": "门铃响时他正在看书。"
+        },
+        {
+          "en": "They were having dinner when the power went out.",
+          "zh": "他们正在吃晚饭时停电了。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "I had no sooner + 过去分词 + than + 主语 + 过去式动词",
+      "original": {
+        "en": "I had no sooner got back to the kitchen than the doorbell rang.",
+        "zh": "我刚回到厨房，门铃就响了。"
+      },
+      "imitations": [
+        {
+          "en": "I had no sooner sat down than the phone rang.",
+          "zh": "我刚坐下，电话就响了。"
+        },
+        {
+          "en": "She had no sooner opened the door than someone knocked.",
+          "zh": "她刚开门，就有人敲门。"
+        },
+        {
+          "en": "We had no sooner started the game than it began to rain.",
+          "zh": "我们刚开始比赛，天就下雨了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Nothing could have been more + 形容词",
+      "original": {
+        "en": "Nothing could have been more annoying.",
+        "zh": "没有比这更烦人的了。"
+      },
+      "imitations": [
+        {
+          "en": "Nothing could have been more disappointing.",
+          "zh": "没有比这更令人失望的了。"
+        },
+        {
+          "en": "Nothing could have been more surprising.",
+          "zh": "没有比这更令人惊讶的了。"
+        },
+        {
+          "en": "Nothing could have been more wonderful.",
+          "zh": "没有比这更棒的了。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + was/were busy + 动词-ing",
+      "original": {
+        "en": "I was busy mixing butter and flour.",
+        "zh": "我正忙着搅拌黄油和面粉。"
+      },
+      "imitations": [
+        {
+          "en": "She was busy writing her report.",
+          "zh": "她正忙着写报告。"
+        },
+        {
+          "en": "They were busy preparing for the party.",
+          "zh": "他们正忙着准备派对。"
+        },
+        {
+          "en": "He was busy cleaning the house.",
+          "zh": "他正忙着打扫房子。"
+        }
+      ]
+    },
+    {
+      "pattern": "It took me + 时间 + to + 动词原形",
+      "original": {
+        "en": "It took me ten minutes to persuade her to ring back later.",
+        "zh": "我花了十分钟才说服她稍后再打来。"
+      },
+      "imitations": [
+        {
+          "en": "It took me two hours to finish the work.",
+          "zh": "我花了两个小时完成这项工作。"
+        },
+        {
+          "en": "It took them three days to reach the destination.",
+          "zh": "他们花了三天才到达目的地。"
+        },
+        {
+          "en": "It took her five minutes to understand the problem.",
+          "zh": "她花了五分钟才理解这个问题。"
+        }
+      ]
+    }
+  ]
+}

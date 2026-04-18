@@ -1,0 +1,423 @@
+{
+  "book": "NCE3",
+  "lesson": "03",
+  "title": "Lesson 3",
+  "vocabulary": [
+    {
+      "word": "goddess",
+      "phonetic": "/ˈɡɒdes/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "女神；受崇敬的女性",
+          "usage": "对应阳性形式为god，可指神话中的女神，也可用于赞美极具魅力的女性"
+        }
+      ]
+    },
+    {
+      "word": "archaeologist",
+      "phonetic": "/ˌɑːkiˈɒlədʒɪst/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "考古学家",
+          "usage": "指从事考古研究、挖掘古代遗迹的专业人员，相关学科为archaeology（考古学）"
+        }
+      ]
+    },
+    {
+      "word": "Aegean",
+      "phonetic": "/iːˈdʒiːən/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "爱琴海的",
+          "usage": "专有形容词，常与sea搭配构成the Aegean Sea（爱琴海），指地中海东部的海域"
+        }
+      ]
+    },
+    {
+      "word": "promontory",
+      "phonetic": "/ˈprɒməntri/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "海角，岬",
+          "usage": "指深入海洋或湖泊的狭长高地，地理场景常用术语"
+        }
+      ]
+    },
+    {
+      "word": "prosperous",
+      "phonetic": "/ˈprɒspərəs/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "繁荣的，兴旺的",
+          "usage": "可用来描述城市、国家、经济或者人的事业发展良好，名词形式为prosperity"
+        }
+      ]
+    },
+    {
+      "word": "civilization",
+      "phonetic": "/ˌsɪvəlaɪˈzeɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "文明；文明社会",
+          "usage": "指人类社会发展到较高阶段的状态，也可指特定的文明体系，如ancient civilization（古代文明）"
+        }
+      ]
+    },
+    {
+      "word": "storey",
+      "phonetic": "/ˈstɔːri/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "楼层",
+          "usage": "英式拼写，美式拼写为story，用于描述建筑的层数，如a three-storey house（一栋三层的房子）"
+        }
+      ]
+    },
+    {
+      "word": "drainage",
+      "phonetic": "/ˈdreɪnɪdʒ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "排水；排水系统",
+          "usage": "可指排水的动作，也可指整套排水设施，如drainage system（排水系统）"
+        }
+      ]
+    },
+    {
+      "word": "clay",
+      "phonetic": "/kleɪ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "黏土，陶土",
+          "usage": "可塑的泥土材料，常用于制作陶器、砖块等，如clay pot（陶罐）"
+        }
+      ]
+    },
+    {
+      "word": "worship",
+      "phonetic": "/ˈwɜːʃɪp/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "崇拜，敬奉；礼拜",
+          "usage": "指对神、宗教人物的敬拜，也可指对某人/物的极度崇拜，place of worship即宗教礼拜场所"
+        },
+        {
+          "pos": "verb",
+          "meaning": "崇拜，敬奉",
+          "usage": "后可直接接崇拜的对象，如worship the gods"
+        }
+      ]
+    },
+    {
+      "word": "sacred",
+      "phonetic": "/ˈseɪkrɪd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "神圣的，宗教的；受崇敬的",
+          "usage": "常用来描述与宗教相关、被认为不可侵犯的事物，如sacred place（圣地）"
+        }
+      ]
+    },
+    {
+      "word": "fragment",
+      "phonetic": "/ˈfræɡmənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "碎片，片段",
+          "usage": "指物体破碎后的小块，或者信息、文艺作品的片段，如clay fragment（陶片）"
+        }
+      ]
+    },
+    {
+      "word": "reconstruct",
+      "phonetic": "/ˌriːkənˈstrʌkt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "修复，重建；重构",
+          "usage": "可指修复破损的物体，也可指根据线索还原事件过程，前缀re-表示“重新”"
+        }
+      ]
+    },
+    {
+      "word": "graceful",
+      "phonetic": "/ˈɡreɪsfl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "优雅的，优美的",
+          "usage": "可形容人的姿态、动作优美，也可形容事物的形式雅致，名词形式为grace"
+        }
+      ]
+    },
+    {
+      "word": "identity",
+      "phonetic": "/aɪˈdentəti/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "身份；特征",
+          "usage": "用于表明某人/物是谁、是什么的信息，如identity card（身份证）"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "at one time",
+      "usage": "用于描述过去某个时期曾经发生的情况，相当于“曾经，一度”，常与过去时态搭配",
+      "examples": [
+        {
+          "en": "The city at one time must have been prosperous, for it enjoyed a high level of civilization.",
+          "zh": "这座古城肯定一度很繁荣，因为它曾享有高度的文明。"
+        },
+        {
+          "en": "At one time, I lived in the countryside, so I know a lot about farm work.",
+          "zh": "我曾经在农村住过，所以我很了解农活。"
+        }
+      ]
+    },
+    {
+      "phrase": "be equipped with",
+      "usage": "表示“配备有，装备有”，主语通常为地点、机构、设备等，后接配备的具体物品",
+      "examples": [
+        {
+          "en": "The city was even equipped with a drainage system, for a great many clay pipes were found beneath the narrow streets.",
+          "zh": "这座城市甚至还敷设了排水系统，因为在狭窄的街道底下发现了许许多多陶土制作的排水管道。"
+        },
+        {
+          "en": "The new gym is equipped with all the latest fitness equipment.",
+          "zh": "这个新健身房配备了所有最新的健身器材。"
+        }
+      ]
+    },
+    {
+      "phrase": "date from",
+      "usage": "表示“追溯到，始于（某个时期）”，主语通常为古物、遗迹、传统等，无被动形式，常用一般现在时",
+      "examples": [
+        {
+          "en": "The body of one statue was found among remains dating from the 15th century B.C.",
+          "zh": "其中一尊雕像的躯体是在公元前15世纪的历史文物中发现的。"
+        },
+        {
+          "en": "This tradition dates from the Tang Dynasty and is still kept in many villages.",
+          "zh": "这个传统可以追溯到唐朝，现在很多村庄仍然保留着。"
+        }
+      ]
+    },
+    {
+      "phrase": "happen to do",
+      "usage": "表示“碰巧做某事，偶然发生”，强调事情的偶然性，无被动语态",
+      "examples": [
+        {
+          "en": "Its missing head happened to be among remains of the fifth century B.C.",
+          "zh": "它那失踪的头像恰巧在公元前5世纪的遗迹里。"
+        },
+        {
+          "en": "I happened to meet my primary school teacher when I was shopping yesterday.",
+          "zh": "我昨天逛街的时候碰巧遇到了我的小学老师。"
+        }
+      ]
+    },
+    {
+      "phrase": "turn out to be",
+      "usage": "表示“结果是，原来是，最终被发现是”，强调结果与预期可能不同，后可接名词、形容词",
+      "examples": [
+        {
+          "en": "They were amazed to find that the goddess turned out to be a very modern-looking woman.",
+          "zh": "他们惊奇地发现，那位女神原来竟是一位相貌十分摩登的女郎。"
+        },
+        {
+          "en": "The job turned out to be much harder than I thought at first.",
+          "zh": "这份工作结果比我一开始想的要难得多。"
+        }
+      ]
+    },
+    {
+      "phrase": "rest on",
+      "usage": "表示“搁在，靠在；依赖，基于”，此处取“放置在某个支撑物上”的含义",
+      "examples": [
+        {
+          "en": "She stood three feet high and her hands rested on her hips.",
+          "zh": "她身高3英尺，双手叉腰。"
+        },
+        {
+          "en": "After walking for two hours, he rested his shoulders on the wall and took a deep breath.",
+          "zh": "走了两个小时的路，他把肩膀靠在墙上，深吸了一口气。"
+        }
+      ]
+    },
+    {
+      "phrase": "so far",
+      "usage": "表示“到目前为止，迄今为止”，常与现在完成时连用，说明截止到现在的状态",
+      "examples": [
+        {
+          "en": "So far, the archaeologists have been unable to discover her identity.",
+          "zh": "到目前为止，考古学家们还不能确定她的身份。"
+        },
+        {
+          "en": "So far, we have received more than 100 applications for the position.",
+          "zh": "到目前为止，我们已经收到了100多份这个岗位的申请。"
+        }
+      ]
+    },
+    {
+      "phrase": "be used as",
+      "usage": "表示“被用作，充当”，主语为被使用的事物，后接功能、用途类名词",
+      "examples": [
+        {
+          "en": "The temple which the archaeologists explored was used as a place of worship from the fifteenth century B.C. until Roman times.",
+          "zh": "考古工作者考察的这座庙宇从公元前15世纪直到罗马时代一直是祭祀祈祷的场所。"
+        },
+        {
+          "en": "The small room was used as a temporary storage room during the renovation.",
+          "zh": "装修期间，这个小房间被用作临时储藏室。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "情态动词表推测（must have done）",
+      "definition": "用于对过去已经发生的事情进行肯定的推测，说话人对推测的内容有较大把握，通常是基于已知证据做出的判断",
+      "structure": "must + have + 动词过去分词",
+      "usage": "只用在肯定句中，否定推测用can't have done，疑问推测用can have done，常用来对过去的情况进行合理推断",
+      "examples": [
+        {
+          "en": "The city at one time must have been prosperous, for it enjoyed a high level of civilization.",
+          "zh": "这座古城肯定一度很繁荣，因为它曾享有高度的文明。"
+        },
+        {
+          "en": "This head must have been found in Classical times and carefully preserved.",
+          "zh": "这个头像肯定在古希腊罗马时期就被发现了，并且得到了精心的保存。"
+        },
+        {
+          "en": "He didn't come to the meeting yesterday. He must have forgotten about it.",
+          "zh": "他昨天没来开会，肯定是把这件事忘了。"
+        }
+      ]
+    },
+    {
+      "title": "定语从句",
+      "definition": "在句子中作定语，修饰名词或代词的从句，被修饰的词叫先行词，引导定语从句的词叫关系词（which, who, that, where等）",
+      "structure": "先行词 + 关系词 + 定语从句",
+      "usage": "当先行词是事物时，常用关系代词which/that引导，关系词在从句中可作主语或宾语；作宾语时关系词可以省略",
+      "examples": [
+        {
+          "en": "An American team explored a temple which stands in an ancient city on the promontory of Ayia Irini.",
+          "zh": "一个美国考古队考察了位于阿伊亚·依里尼海角的一座古城中的庙宇。"
+        },
+        {
+          "en": "The temple which the archaeologists explored was used as a place of worship.",
+          "zh": "考古工作者考察的这座庙宇被用作祭祀祈祷的场所。"
+        },
+        {
+          "en": "The book that I bought last week is very interesting.",
+          "zh": "我上周买的那本书非常有意思。"
+        }
+      ]
+    },
+    {
+      "title": "现在完成时的被动语态",
+      "definition": "表示动作从过去持续到现在，且主语是动作的承受者，强调对现在造成的影响",
+      "structure": "have/has + been + 动词过去分词",
+      "usage": "当主语是动作的承受者，且时间涉及从过去到现在的范畴（常和so far, up to now, since等连用）时使用",
+      "examples": [
+        {
+          "en": "So far, the archaeologists have been unable to discover her identity.",
+          "zh": "到目前为止，考古学家们还不能确定她的身份。"
+        },
+        {
+          "en": "The old building has been repaired three times since 2010.",
+          "zh": "这座老建筑自2010年以来已经被修缮了三次。"
+        },
+        {
+          "en": "The problem has not been solved yet, so we need to hold another meeting.",
+          "zh": "这个问题还没有被解决，所以我们需要再开一次会。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Some time ago, an interesting discovery was made by... on...",
+      "original": {
+        "en": "Some time ago, an interesting discovery was made by archaeologists on the Aegean island of Kea.",
+        "zh": "不久之前，考古学家在爱琴海的基亚岛上有了一项有趣的发现。"
+      },
+      "imitations": [
+        {
+          "en": "Some time ago, a surprising discovery was made by astronomers on a planet outside the solar system.",
+          "zh": "不久之前，天文学家在太阳系外的一颗行星上有了一项惊人的发现。"
+        },
+        {
+          "en": "Some time ago, an important discovery was made by biologists in the tropical rainforest.",
+          "zh": "不久之前，生物学家在热带雨林里有了一项重要的发现。"
+        }
+      ]
+    },
+    {
+      "pattern": "... must have been..., for...",
+      "original": {
+        "en": "The city at one time must have been prosperous, for it enjoyed a high level of civilization.",
+        "zh": "这座古城肯定一度很繁荣，因为它曾享有高度的文明。"
+      },
+      "imitations": [
+        {
+          "en": "The man must have been a soldier before, for he walks in a very straight posture.",
+          "zh": "这个男人以前肯定当过兵，因为他走路的姿势非常挺拔。"
+        },
+        {
+          "en": "The concert must have been very wonderful, for all the audience stood up and applauded for ten minutes.",
+          "zh": "那场音乐会肯定非常精彩，因为所有观众都站起来鼓掌了十分钟。"
+        }
+      ]
+    },
+    {
+      "pattern": "When..., sb. were amazed to find that...",
+      "original": {
+        "en": "When the archaeologists reconstructed the fragments, they were amazed to find that the goddess turned out to be a very modern-looking woman.",
+        "zh": "当考古学家们把这些碎片拼接起来的时候，他们惊奇地发现，那位女神原来竟是一位相貌十分摩登的女郎。"
+      },
+      "imitations": [
+        {
+          "en": "When I opened the old box that my grandma left, I was amazed to find that there were many photos of my childhood inside.",
+          "zh": "当我打开奶奶留下的旧盒子时，我惊奇地发现里面有很多我童年的照片。"
+        },
+        {
+          "en": "When the police checked the surveillance video, they were amazed to find that the thief was actually a teenager under 14.",
+          "zh": "当警方查看监控录像时，他们惊讶地发现小偷居然是一个不满14岁的少年。"
+        }
+      ]
+    },
+    {
+      "pattern": "Despite..., ... indeed, but, so far, ... have been unable to...",
+      "original": {
+        "en": "Despite her great age, she was very graceful indeed, but, so far, the archaeologists have been unable to discover her identity.",
+        "zh": "尽管年代久远，她仍然风姿绰约，但是到目前为止，考古学家们还不能确定她的身份。"
+      },
+      "imitations": [
+        {
+          "en": "Despite the difficult conditions, the rescue work is progressing smoothly indeed, but, so far, the rescuers have been unable to reach the trapped people.",
+          "zh": "尽管条件艰苦，救援工作确实进展顺利，但是到目前为止，救援人员还无法到达被困人员所在的位置。"
+        },
+        {
+          "en": "Despite many experiments, the new drug is effective in treating the disease indeed, but, so far, the researchers have been unable to confirm its long-term safety.",
+          "zh": "尽管经过了多次实验，这种新药确实对治疗这种疾病有效，但是到目前为止，研究人员还无法确认它的长期安全性。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+{
+  "book": "NCE3",
+  "lesson": "16",
+  "title": "Lesson 16",
+  "vocabulary": [
+    {
+      "word": "prize",
+      "phonetic": "/praɪz/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "珍贵的，引以为傲的",
+          "usage": "用于修饰名词，描述某物是主人非常珍视的"
+        },
+        {
+          "pos": "noun",
+          "meaning": "奖品，奖金",
+          "usage": "指竞赛、比赛中获得的奖励"
+        }
+      ]
+    },
+    {
+      "word": "possession",
+      "phonetic": "/pəˈzeʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "所有物，财产",
+          "usage": "常用复数形式possessions表示个人全部财物，单数可指某一件所有物"
+        }
+      ]
+    },
+    {
+      "word": "tie",
+      "phonetic": "/taɪ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "系，拴，绑",
+          "usage": "常用搭配tie sth to sth表示把某物拴在另一物上"
+        },
+        {
+          "pos": "noun",
+          "meaning": "领带；纽带，联系",
+          "usage": "可指服饰类的领带，也可指人际关系、文化等方面的联系"
+        }
+      ]
+    },
+    {
+      "word": "fetch",
+      "phonetic": "/fetʃ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "去取，去拿来",
+          "usage": "强调“去某地取某物再返回”的往返动作，区别于bring（拿来）和take（拿走）"
+        }
+      ]
+    },
+    {
+      "word": "missing",
+      "phonetic": "/ˈmɪsɪŋ/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "丢失的，失踪的",
+          "usage": "可作表语（sth is missing）或定语（missing person），表示物品找不到或人失踪"
+        }
+      ]
+    },
+    {
+      "word": "obvious",
+      "phonetic": "/ˈɒbviəs/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "明显的，显而易见的",
+          "usage": "常用结构it is obvious that...表示“很明显……”"
+        }
+      ]
+    },
+    {
+      "word": "theft",
+      "phonetic": "/θeft/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "盗窃，偷盗",
+          "usage": "指偷窃的行为或案件，区别于thief（小偷，窃贼）"
+        }
+      ]
+    },
+    {
+      "word": "acquire",
+      "phonetic": "/əˈkwaɪə(r)/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "获得，得到",
+          "usage": "强调通过努力、购买等方式获得某物，也可指习得技能、知识"
+        }
+      ]
+    },
+    {
+      "word": "accuse",
+      "phonetic": "/əˈkjuːz/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "指责，控告",
+          "usage": "常用搭配accuse sb of (doing) sth表示指责/控告某人做了某事"
+        }
+      ]
+    },
+    {
+      "word": "deny",
+      "phonetic": "/dɪˈnaɪ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "否认，否定",
+          "usage": "后接动词时要用动名词形式，即deny doing sth表示否认做过某事"
+        }
+      ]
+    },
+    {
+      "word": "ashamed",
+      "phonetic": "/əˈʃeɪmd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "羞愧的，惭愧的",
+          "usage": "常用搭配be/feel ashamed of (doing) sth表示为（做了）某事感到羞愧"
+        }
+      ]
+    },
+    {
+      "word": "rashly",
+      "phonetic": "/ˈræʃli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "鲁莽地，轻率地",
+          "usage": "修饰动词，描述做事没有经过充分考虑、冲动的状态"
+        }
+      ]
+    },
+    {
+      "word": "apologize",
+      "phonetic": "/əˈpɒlədʒaɪz/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "道歉，谢罪",
+          "usage": "常用搭配apologize to sb for (doing) sth表示因（做了）某事向某人道歉"
+        }
+      ]
+    },
+    {
+      "word": "astonished",
+      "phonetic": "/əˈstɒnɪʃt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "吃惊的，惊讶的",
+          "usage": "主语通常是人，描述人因意外事件感到非常惊讶的状态"
+        }
+      ]
+    },
+    {
+      "word": "dye",
+      "phonetic": "/daɪ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "给……染色",
+          "usage": "常用结构dye sth + 颜色，表示把某物染成某种颜色"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "set out to do sth",
+      "usage": "表示开始着手做某件有明确目标的事情，强调行动的目的性",
+      "examples": [
+        {
+          "en": "Dimitri at once set out to find the thief.",
+          "zh": "迪米特里立刻出发去找小偷。"
+        },
+        {
+          "en": "She set out to break the world record in the marathon.",
+          "zh": "她立志要打破马拉松的世界纪录。"
+        }
+      ]
+    },
+    {
+      "phrase": "accuse sb of doing sth",
+      "usage": "用于指责或控告某人做了错事/违法行为，正式和非正式语境都可使用",
+      "examples": [
+        {
+          "en": "Dimitri immediately went to Aleko's house and angrily accused him of stealing the lamb.",
+          "zh": "迪米特里立刻去了阿列科家，气冲冲地指责他偷了小羊。"
+        },
+        {
+          "en": "The man was accused of driving after drinking alcohol.",
+          "zh": "这名男子被指控酒驾。"
+        }
+      ]
+    },
+    {
+      "phrase": "had better do sth",
+      "usage": "用来提出建议或警告，意为“最好做某事”，语气较强，暗含如果不做会有不好的后果",
+      "examples": [
+        {
+          "en": "He told him he had better return it or he would call the police.",
+          "zh": "他告诉阿列科最好把羊还回去，否则他就要报警。"
+        },
+        {
+          "en": "You had better take an umbrella with you, for the weather forecast says it will rain this afternoon.",
+          "zh": "你最好带把伞，天气预报说今天下午会下雨。"
+        }
+      ]
+    },
+    {
+      "phrase": "deny doing sth",
+      "usage": "表示否认做过某件事，deny后必须接动名词形式，不能接不定式",
+      "examples": [
+        {
+          "en": "Aleko denied taking it and led Dimitri into his backyard.",
+          "zh": "阿列科否认拿了羊，还把迪米特里领到了他的后院。"
+        },
+        {
+          "en": "The little boy denied breaking the window of the neighbor's house.",
+          "zh": "小男孩否认打碎了邻居家的窗户。"
+        }
+      ]
+    },
+    {
+      "phrase": "ashamed of doing sth",
+      "usage": "表示为自己做过的某件事感到羞愧、惭愧，主语通常是人",
+      "examples": [
+        {
+          "en": "Ashamed of having acted so rashly, Dimitri apologized to Aleko for having accused him.",
+          "zh": "迪米特里为自己的鲁莽行为感到不好意思，于是为自己指责了阿列科向他道歉。"
+        },
+        {
+          "en": "He was ashamed of having lied to his parents when he was a child.",
+          "zh": "他为自己小时候对父母撒谎感到愧疚。"
+        }
+      ]
+    },
+    {
+      "phrase": "it is obvious that",
+      "usage": "用于引出很容易就能推断出的事实，it是形式主语，真正的主语是that引导的从句",
+      "examples": [
+        {
+          "en": "The rope had been cut, so it was obvious that the lamb had been stolen.",
+          "zh": "绳子是被割断的，所以很明显小羊是被偷走的。"
+        },
+        {
+          "en": "It is obvious that he hasn't finished his homework by the look on his face.",
+          "zh": "从他的表情就能明显看出来他没写完作业。"
+        }
+      ]
+    },
+    {
+      "phrase": "find out",
+      "usage": "表示经过调查、询问等过程后查明、弄清某个事实，强调主动探索的过程",
+      "examples": [
+        {
+          "en": "After telling several of his friends about the theft, Dimitri found out that his neighbour, Aleko, had suddenly acquired a new lamb.",
+          "zh": "迪米特里把丢羊的事告诉了几个朋友之后，发现他的邻居阿列科突然多了一只新的小羊。"
+        },
+        {
+          "en": "The police are trying to find out the truth of the accident.",
+          "zh": "警方正在努力查明这起事故的真相。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去完成时",
+      "definition": "表示在过去某个动作或时间点之前就已经完成的动作，即“过去的过去”",
+      "structure": "主语 + had + 动词过去分词",
+      "usage": "常和before, by, when等引导的过去时间状语连用，也可通过上下文体现动作的先后顺序",
+      "examples": [
+        {
+          "en": "One of Mary's prize possessions was a little white lamb which her husband had given her.",
+          "zh": "玛丽最珍贵的财产之一是丈夫送给她的一只白色小羊羔。"
+        },
+        {
+          "en": "When I got to the cinema, the film had already started.",
+          "zh": "我到电影院的时候，电影已经开始了。"
+        }
+      ]
+    },
+    {
+      "title": "过去分词作原因状语",
+      "definition": "过去分词（短语）可放在句首作状语，说明主句动作发生的原因，其逻辑主语是主句的主语，二者是被动关系",
+      "structure": "过去分词（短语） + 主句",
+      "usage": "可替换为原因状语从句，若过去分词的动作发生在主句动作之前，可用having been done的形式",
+      "examples": [
+        {
+          "en": "Ashamed of having acted so rashly, Dimitri apologized to Aleko for having accused him.",
+          "zh": "迪米特里为自己的鲁莽行为感到不好意思，于是为自己指责了阿列科向他道歉。"
+        },
+        {
+          "en": "Seriously injured in the accident, the driver was sent to the hospital immediately.",
+          "zh": "由于在事故中受了重伤，司机立刻被送去了医院。"
+        }
+      ]
+    },
+    {
+      "title": "非限制性定语从句",
+      "definition": "对先行词进行补充说明，去掉之后不影响主句的意思，和主句之间常用逗号隔开",
+      "structure": "主句 + , which/who/whose/whom + 从句",
+      "usage": "修饰物时引导词用which，修饰人时可用who/whom/whose，不能用that引导",
+      "examples": [
+        {
+          "en": "Its wool, which had been dyed black, had been washed clean by the rain!",
+          "zh": "它的毛之前被染成了黑色，现在都被雨水冲干净了！"
+        },
+        {
+          "en": "Our new school library, which was built last year, is open to all students now.",
+          "zh": "我们去年新建的学校图书馆现在对所有学生开放。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "One of sb's prize possessions is/was + 名词 + which引导的定语从句",
+      "original": {
+        "en": "One of Mary's prize possessions was a little white lamb which her husband had given her.",
+        "zh": "玛丽最珍贵的财产之一是丈夫送给她的一只白色小羊羔。"
+      },
+      "imitations": [
+        {
+          "en": "One of my grandmother's prize possessions is a handmade porcelain vase which her mother gave her when she got married.",
+          "zh": "我奶奶最珍贵的物品之一是她结婚时她妈妈送给她的一只手工瓷瓶。"
+        },
+        {
+          "en": "One of the athlete's prize possessions is the gold medal which he won in the 2008 Olympic Games.",
+          "zh": "这位运动员最珍贵的所有物之一是他在2008年奥运会上获得的金牌。"
+        }
+      ]
+    },
+    {
+      "pattern": "It is/was obvious that + 从句",
+      "original": {
+        "en": "The rope had been cut, so it was obvious that the lamb had been stolen.",
+        "zh": "绳子是被割断的，所以很明显小羊是被偷走的。"
+      },
+      "imitations": [
+        {
+          "en": "All the lights in the office are off, so it is obvious that everyone has gone home already.",
+          "zh": "办公室的灯全灭了，很明显所有人都已经回家了。"
+        },
+        {
+          "en": "He is wearing a heavy coat and a scarf, so it is obvious that the weather outside is very cold.",
+          "zh": "他穿了厚外套还戴了围巾，显然外面天气很冷。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + be + 形容词 + to find that + 从句",
+      "original": {
+        "en": "When he went outside half an hour later, he was astonished to find that the little black lamb was almost white.",
+        "zh": "半小时后他出门时，惊讶地发现那只黑色小羊几乎全白了。"
+      },
+      "imitations": [
+        {
+          "en": "When I opened my schoolbag this morning, I was surprised to find that my deskmate had put a box of chocolate in it.",
+          "zh": "我今天早上打开书包时，惊讶地发现我同桌在里面放了一盒巧克力。"
+        },
+        {
+          "en": "After he finished the whole process of the experiment, he was happy to find that the result was exactly what he had expected.",
+          "zh": "完成实验的全部流程后，他开心地发现结果和他预期的完全一致。"
+        }
+      ]
+    }
+  ]
+}

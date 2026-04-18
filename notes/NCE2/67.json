@@ -1,0 +1,390 @@
+{
+  "book": "NCE2",
+  "lesson": "67",
+  "title": "Why does Tazieff risk his life like this?",
+  "vocabulary": [
+    {
+      "word": "scientist",
+      "phonetic": "/ˈsaɪəntɪst/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "科学家",
+          "usage": "指从事科学研究的人，可数名词"
+        }
+      ]
+    },
+    {
+      "word": "volcano",
+      "phonetic": "/vɒlˈkeɪnəʊ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "火山",
+          "usage": "可数名词，复数 volcanoes"
+        }
+      ]
+    },
+    {
+      "word": "lifetime",
+      "phonetic": "/ˈlaɪftaɪm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "一生，终生",
+          "usage": "指一个人的整个生命时间"
+        }
+      ]
+    },
+    {
+      "word": "active",
+      "phonetic": "/ˈæktɪv/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "活跃的，正在活动的",
+          "usage": "常用于描述正在运作的事物"
+        }
+      ]
+    },
+    {
+      "word": "observe",
+      "phonetic": "/əbˈzɜːv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "观察，观测",
+          "usage": "指仔细观察并研究某事物"
+        }
+      ]
+    },
+    {
+      "word": "erupt",
+      "phonetic": "/ɪˈrʌpt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "（火山）喷发",
+          "usage": "不及物动词，用于描述火山爆发"
+        }
+      ]
+    },
+    {
+      "word": "violent",
+      "phonetic": "/ˈvaɪələnt/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "猛烈的，剧烈的",
+          "usage": "形容力量强大、破坏性的事物"
+        }
+      ]
+    },
+    {
+      "word": "photograph",
+      "phonetic": "/ˈfəʊtəɡrɑːf/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "照片",
+          "usage": "可数名词，口语中常简称为 photo"
+        }
+      ]
+    },
+    {
+      "word": "liquid",
+      "phonetic": "/ˈlɪkwɪd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "液体",
+          "usage": "指液态物质，与 solid（固体）和 gas（气体）相对"
+        }
+      ]
+    },
+    {
+      "word": "escape",
+      "phonetic": "/ɪˈskeɪp/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "逃跑，逃脱",
+          "usage": "指从危险或困境中逃离"
+        }
+      ]
+    },
+    {
+      "word": "measure",
+      "phonetic": "/ˈmeʒə/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "测量",
+          "usage": "指用工具测量温度、大小等"
+        }
+      ]
+    },
+    {
+      "word": "temperature",
+      "phonetic": "/ˈtemprətʃə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "温度",
+          "usage": "指冷热程度，常与 measure 搭配使用"
+        }
+      ]
+    },
+    {
+      "word": "risk",
+      "phonetic": "/rɪsk/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "冒险",
+          "usage": "指冒生命或财产危险"
+        }
+      ]
+    },
+    {
+      "word": "surround",
+      "phonetic": "/səˈraʊnd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "包围，环绕",
+          "usage": "指从四面八方围住某物"
+        }
+      ]
+    },
+    {
+      "word": "threaten",
+      "phonetic": "/ˈθretn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "威胁",
+          "usage": "指预示危险即将发生"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "risk one's life",
+      "usage": "冒生命危险",
+      "examples": [
+        {
+          "en": "He has often risked his life in this way.",
+          "zh": "他经常以这种方式冒着生命危险。"
+        }
+      ]
+    },
+    {
+      "phrase": "set up",
+      "usage": "建立，搭建",
+      "examples": [
+        {
+          "en": "Tazieff was able to set up his camp very close to the volcano.",
+          "zh": "塔齐耶夫得以在离火山很近的地方搭建营地。"
+        }
+      ]
+    },
+    {
+      "phrase": "in time",
+      "usage": "及时",
+      "examples": [
+        {
+          "en": "Tazieff managed to escape just in time.",
+          "zh": "塔齐耶夫设法及时逃脱了。"
+        }
+      ]
+    },
+    {
+      "phrase": "be able to",
+      "usage": "能够",
+      "examples": [
+        {
+          "en": "He was able to return two days later.",
+          "zh": "两天后他能够返回。"
+        }
+      ]
+    },
+    {
+      "phrase": "wait until",
+      "usage": "等到...为止",
+      "examples": [
+        {
+          "en": "He waited until the volcano became quiet.",
+          "zh": "他等到火山安静下来。"
+        }
+      ]
+    },
+    {
+      "phrase": "in this way",
+      "usage": "以这种方式",
+      "examples": [
+        {
+          "en": "Tazieff has often risked his life in this way.",
+          "zh": "塔齐耶夫经常以这种方式冒着生命危险。"
+        }
+      ]
+    },
+    {
+      "phrase": "come towards",
+      "usage": "向...走来",
+      "examples": [
+        {
+          "en": "A river of liquid rock was coming towards him.",
+          "zh": "一股熔岩正向他涌来。"
+        }
+      ]
+    },
+    {
+      "phrase": "more than any man alive",
+      "usage": "比任何在世的人都要...",
+      "examples": [
+        {
+          "en": "He has been able to tell us more about active volcanoes than any man alive.",
+          "zh": "他告诉我们的关于活火山的情况比任何在世的人都多。"
+        }
+      ]
+    },
+    {
+      "phrase": "manage to do",
+      "usage": "设法做成某事",
+      "examples": [
+        {
+          "en": "He managed to take a number of brilliant photographs.",
+          "zh": "他设法拍摄了一些精彩的照片。"
+        }
+      ]
+    },
+    {
+      "phrase": "climb into",
+      "usage": "爬进",
+      "examples": [
+        {
+          "en": "He managed to climb into the mouth of Kituro.",
+          "zh": "他设法爬进了基图罗火山口。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "一般过去时 (Simple Past Tense)",
+      "definition": "表示过去发生的动作或存在的状态，通常与表示过去的时间状语连用",
+      "structure": "主语 + 动词过去式",
+      "usage": "用于叙述过去发生的事情，描述已经完成的动作或状态",
+      "examples": [
+        {
+          "en": "In 1948, he went to Lake Kivu in the Congo.",
+          "zh": "1948年，他去了刚果的基伍湖。"
+        },
+        {
+          "en": "He later named Kituro.",
+          "zh": "后来他将其命名为基图罗。"
+        }
+      ]
+    },
+    {
+      "title": "过去进行时 (Past Continuous Tense)",
+      "definition": "表示过去某个时刻正在进行的动作",
+      "structure": "主语 + was/were + 动词-ing",
+      "usage": "用于描述过去正在发生的动作，常与 when/while 等连用",
+      "examples": [
+        {
+          "en": "The volcano was erupting violently.",
+          "zh": "火山正在猛烈喷发。"
+        },
+        {
+          "en": "A river of liquid rock was coming towards him.",
+          "zh": "一股熔岩正向他涌来。"
+        }
+      ]
+    },
+    {
+      "title": "过去完成时 (Past Perfect Tense)",
+      "definition": "表示过去某一时间之前已经完成的动作，即'过去的过去'",
+      "structure": "主语 + had + 过去分词",
+      "usage": "用于描述在过去的某个动作之前已经完成的动作",
+      "examples": [
+        {
+          "en": "He noticed that a river of liquid rock was coming towards him, but he had already taken many photos.",
+          "zh": "他注意到熔岩正向他涌来，但他已经拍了很多照片。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "主语 + has spent + 时间/精力 + doing something",
+      "original": {
+        "en": "Haroun Tazieff has spent his lifetime studying active volcanoes.",
+        "zh": "哈伦·塔齐耶夫一生都在研究活火山。"
+      },
+      "imitations": [
+        {
+          "en": "She has spent her life teaching students.",
+          "zh": "她一生都在教书育人。"
+        },
+        {
+          "en": "He has spent ten years writing this novel.",
+          "zh": "他花了十年写这本小说。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + was/were + able to + 动词原形",
+      "original": {
+        "en": "Tazieff was able to set up his camp very close to the volcano.",
+        "zh": "塔齐耶夫得以在离火山很近的地方搭建营地。"
+      },
+      "imitations": [
+        {
+          "en": "I was able to finish the work on time.",
+          "zh": "我能够按时完成工作。"
+        },
+        {
+          "en": "She was able to speak three languages.",
+          "zh": "她能说三种语言。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + managed to + 动词原形",
+      "original": {
+        "en": "Tazieff managed to escape just in time.",
+        "zh": "塔齐耶夫设法及时逃脱了。"
+      },
+      "imitations": [
+        {
+          "en": "He managed to pass the exam.",
+          "zh": "他设法通过了考试。"
+        },
+        {
+          "en": "We managed to find the way home.",
+          "zh": "我们设法找到了回家的路。"
+        }
+      ]
+    },
+    {
+      "pattern": "It threatened to + 动词原形",
+      "original": {
+        "en": "It threatened to surround him completely.",
+        "zh": "它（熔岩）威胁要将他完全包围。"
+      },
+      "imitations": [
+        {
+          "en": "The rain threatened to ruin our picnic.",
+          "zh": "雨可能会毁掉我们的野餐。"
+        },
+        {
+          "en": "The storm threatened to destroy the town.",
+          "zh": "暴风雨可能会摧毁这个城镇。"
+        }
+      ]
+    }
+  ]
+}

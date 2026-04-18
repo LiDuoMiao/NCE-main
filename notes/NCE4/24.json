@@ -1,0 +1,388 @@
+{
+  "book": "NCE4",
+  "lesson": "24",
+  "title": "Lesson 24",
+  "vocabulary": [
+    {
+      "word": "glimpse",
+      "phonetic": "/ɡlɪmps/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "一瞥，一看",
+          "usage": "指短暂、粗略的看，常搭配catch/get a glimpse of表示“瞥见”"
+        },
+        {
+          "pos": "verb",
+          "meaning": "瞥见，看一看",
+          "usage": "作及物动词，后直接接看到的对象"
+        }
+      ]
+    },
+    {
+      "word": "rouse",
+      "phonetic": "/raʊz/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "唤起，激起（情感、反应）",
+          "usage": "常用于被动语态be roused by，或后接情感类名词作宾语"
+        },
+        {
+          "pos": "verb",
+          "meaning": "叫醒，唤醒",
+          "usage": "指把人从睡眠中叫醒"
+        }
+      ]
+    },
+    {
+      "word": "intense",
+      "phonetic": "/ɪnˈtens/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "强烈的，剧烈的",
+          "usage": "可修饰情感、感受、活动等，强调程度很高"
+        }
+      ]
+    },
+    {
+      "word": "aesthetic",
+      "phonetic": "/iːsˈθetɪk/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "审美的，美学的",
+          "usage": "常用于修饰体验、感受、标准等和审美相关的名词"
+        }
+      ]
+    },
+    {
+      "word": "realm",
+      "phonetic": "/relm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "领域，范围",
+          "usage": "可指抽象的知识、活动、存在领域，也可指王国"
+        }
+      ]
+    },
+    {
+      "word": "serenity",
+      "phonetic": "/səˈrenəti/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "平静，宁静",
+          "usage": "指内心的平和或者环境的安静，是不可数名词"
+        }
+      ]
+    },
+    {
+      "word": "indefinable",
+      "phonetic": "/ˌɪndɪˈfaɪnəbl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "难以形容的，无法定义的",
+          "usage": "用于描述情感、特质等难以用语言准确说明的事物"
+        }
+      ]
+    },
+    {
+      "word": "longing",
+      "phonetic": "/ˈlɒŋɪŋ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "渴望，憧憬",
+          "usage": "常接介词for表示对某事物的渴望"
+        }
+      ]
+    },
+    {
+      "word": "vulgar",
+      "phonetic": "/ˈvʌlɡə(r)/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "粗俗的，庸俗的",
+          "usage": "用于形容品味、行为等缺乏美感、不够高雅"
+        }
+      ]
+    },
+    {
+      "word": "radiance",
+      "phonetic": "/ˈreɪdiəns/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "光辉，光芒",
+          "usage": "可指发光体发出的光，也可指人容光焕发的神态"
+        }
+      ]
+    },
+    {
+      "word": "intimation",
+      "phonetic": "/ˌɪntɪˈmeɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "暗示，提示",
+          "usage": "指间接的、模糊的提示，常接介词of"
+        }
+      ]
+    },
+    {
+      "word": "whimsy",
+      "phonetic": "/ˈwɪmzi/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "怪念头，突发奇想",
+          "usage": "指异想天开、不合常理的想法，可数不可数均可"
+        }
+      ]
+    },
+    {
+      "word": "mock",
+      "phonetic": "/mɒk/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "嘲笑，嘲弄",
+          "usage": "后可直接接宾语，或搭配介词at"
+        }
+      ]
+    },
+    {
+      "word": "invest",
+      "phonetic": "/ɪnˈvest/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "赋予（某物某种属性）",
+          "usage": "常用搭配invest sth with sth，表示赋予某事物某种意义、权利等"
+        },
+        {
+          "pos": "verb",
+          "meaning": "投资",
+          "usage": "常搭配介词in表示在某方面投资"
+        }
+      ]
+    },
+    {
+      "word": "unutterable",
+      "phonetic": "/ʌnˈʌtərəbl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "难以形容的，说不出的",
+          "usage": "用于描述情感、感受等强烈到无法用语言表达"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "catch a glimpse of",
+      "usage": "表示短暂、不经意地瞥见某物，强调看到的时间短、不够清晰",
+      "examples": [
+        {
+          "en": "I caught a glimpse of the famous singer as she got into the car.",
+          "zh": "那位著名歌手上车的时候，我瞥见了她一眼。"
+        },
+        {
+          "en": "From the window, we can catch a glimpse of the mountain.",
+          "zh": "从窗户我们可以望到山的一角。"
+        }
+      ]
+    },
+    {
+      "phrase": "be fitted to",
+      "usage": "表示适合、适应某用途或情况，强调匹配度",
+      "examples": [
+        {
+          "en": "This policy is fitted to the needs of local residents.",
+          "zh": "这项政策适合当地居民的需求。"
+        },
+        {
+          "en": "Traditional tools are not always fitted to modern production needs.",
+          "zh": "传统工具并不总能适应现代生产的需求。"
+        }
+      ]
+    },
+    {
+      "phrase": "point forward to",
+      "usage": "指向，预示着某个更高级、更美好的事物，带有展望的含义",
+      "examples": [
+        {
+          "en": "Every small success in your study points forward to a bigger achievement in the future.",
+          "zh": "你学习中每一次小的成功都预示着未来会有更大的成就。"
+        },
+        {
+          "en": "The warm breeze in early spring points forward to the coming of a vibrant summer.",
+          "zh": "早春温暖的微风预示着充满生机的夏天即将到来。"
+        }
+      ]
+    },
+    {
+      "phrase": "in a word",
+      "usage": "用于总结前文内容，意为“总而言之，简言之”，通常放在句首",
+      "examples": [
+        {
+          "en": "In a word, you need to practice more if you want to improve your spoken English.",
+          "zh": "总而言之，如果你想提高英语口语，就需要多练习。"
+        },
+        {
+          "en": "The plan is creative, practical and low-cost. In a word, it's perfect.",
+          "zh": "这个计划有创意、可行而且成本低。总而言之，它非常完美。"
+        }
+      ]
+    },
+    {
+      "phrase": "invest...with...",
+      "usage": "表示赋予某事物某种意义、特质或权利，常用被动形式be invested with",
+      "examples": [
+        {
+          "en": "People often invest natural scenery with special emotional meanings.",
+          "zh": "人们常常赋予自然风景特殊的情感意义。"
+        },
+        {
+          "en": "The ancient castle is invested with a sense of mystery by local legends.",
+          "zh": "当地的传说给这座古老的城堡赋予了一种神秘感。"
+        }
+      ]
+    },
+    {
+      "phrase": "in terms of",
+      "usage": "用于引出谈论的角度或范围，意为“就……而言，在……方面”",
+      "examples": [
+        {
+          "en": "In terms of nutrition, this vegetable is much better than potato.",
+          "zh": "就营养而言，这种蔬菜比土豆好得多。"
+        },
+        {
+          "en": "The job is great in terms of salary, but it has its disadvantages.",
+          "zh": "就薪水而言，这份工作很棒，但它也有自己的缺点。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "双重否定结构",
+      "definition": "通过两个否定词的使用表达肯定的含义，语气比普通肯定句更强烈，起强调作用",
+      "structure": "no + 名词 + so + 形容词 + that + 否定从句",
+      "usage": "用于强调所有该类名词都具备从句中描述的特性，没有例外",
+      "examples": [
+        {
+          "en": "There is no sky in June so blue that it does not point forward to a bluer, no sunset so beautiful that it does not waken the vision of a greater beauty.",
+          "zh": "六月的天空无论多蓝，总会让人向往更蓝的天际；日落无论多美，总会唤起人们对更胜一筹的美景的想象。"
+        },
+        {
+          "en": "There is no book so interesting that it does not have a dull part.",
+          "zh": "没有哪本书有趣到全无枯燥的部分。"
+        },
+        {
+          "en": "There is no problem so difficult that it can not be solved.",
+          "zh": "没有什么问题难到无法解决。"
+        }
+      ]
+    },
+    {
+      "title": "状语从句的省略",
+      "definition": "当状语从句的主语和主句主语一致，且从句中含有be动词时，可以省略从句的主语和be动词，让句子更简洁",
+      "structure": "连词 + 现在分词/过去分词/介词短语/形容词",
+      "usage": "常用于时间、条件、让步等状语从句的简化",
+      "examples": [
+        {
+          "en": "A vision which passes before it is fully glimpsed, and in passing leaves an indefinable longing and regret.",
+          "zh": "这种幻象在我们尚未看清时就已消逝，在消失的过程中留下一种难以名状的渴望和怅惘。"
+        },
+        {
+          "en": "When (you are) crossing the street, you should look both sides.",
+          "zh": "过马路的时候，你应该看看两边。"
+        },
+        {
+          "en": "Though (he was) tired, he still finished the work on time.",
+          "zh": "尽管很累，他还是按时完成了工作。"
+        }
+      ]
+    },
+    {
+      "title": "同级比较的否定结构",
+      "definition": "用比较级的形式表达最高级的含义，说明某事物的程度已经达到无法超越的水平",
+      "structure": "主语 + be + 比较级 + than + 主语 + 情态动词 + 动词",
+      "usage": "用于强调事物的程度超出了主语的能力范围",
+      "examples": [
+        {
+          "en": "Greater too than we can describe; for language, which was invented to convey the meanings of this world cannot readily be fitted to the uses of another.",
+          "zh": "这种美也宏大到我们无法描述，因为语言是为了传达这个世界的意义而创造的，很难适用于另一个世界的表达需求。"
+        },
+        {
+          "en": "The scenery here is more beautiful than I can say.",
+          "zh": "这里的风景美到我无法用语言形容。"
+        },
+        {
+          "en": "The problem was more complicated than they had expected.",
+          "zh": "这个问题比他们预想的还要复杂。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "It is difficult for sb. in moments of... to resist the suggestion that...",
+      "original": {
+        "en": "It is difficult for any of us in moments of intense aesthetic experience to resist the suggestion that we are catching a glimpse of a light that shines down to us from a different realm of existence, different and, because the experience is intensely moving, in some way higher.",
+        "zh": "当我们经历强烈的审美体验时，我们很难不产生这样的联想：我们瞥见了一束从另一个存在领域照向我们的光，那个领域与我们的世界不同，而且因为这种体验极为动人，在某种意义上也更崇高。"
+      },
+      "imitations": [
+        {
+          "en": "It is difficult for any student in moments of getting a satisfactory exam score to resist the thought that all their hard work has paid off.",
+          "zh": "当学生拿到满意的考试成绩时，很难不觉得自己所有的努力都得到了回报。"
+        },
+        {
+          "en": "It is difficult for anyone in moments of hearing this nostalgic song to resist the memory of their happy childhood in the small town.",
+          "zh": "任何人听到这首怀旧的歌曲时，都很难不回忆起自己在小镇度过的快乐童年。"
+        }
+      ]
+    },
+    {
+      "pattern": "There is no... so... that it does not..., no... so... that it does not...",
+      "original": {
+        "en": "There is no sky in June so blue that it does not point forward to a bluer, no sunset so beautiful that it does not waken the vision of a greater beauty, a vision which passes before it is fully glimpsed, and in passing leaves an indefinable longing and regret.",
+        "zh": "六月的天空无论多蓝，总会让人向往更蓝的天际；日落无论多美，总会唤起人们对更胜一筹的美景的想象，这种幻象在我们尚未看清时就已消逝，在消失的过程中留下一种难以名状的渴望和怅惘。"
+      },
+      "imitations": [
+        {
+          "en": "There is no book so useful that it does not have its limitations, no method so perfect that it does not have room for improvement.",
+          "zh": "没有哪本书有用到全无局限，没有哪种方法完美到没有改进空间。"
+        },
+        {
+          "en": "There is no autumn leaf so red that it does not remind people of the coming cold winter, no harvest so joyful that it does not make people recall the hard work in spring.",
+          "zh": "没有哪片秋叶红到不让人想到寒冬将至，没有哪次收获喜悦到不让人回想春天的辛劳。"
+        }
+      ]
+    },
+    {
+      "pattern": "If we..., it is unwise to..., nor should we...",
+      "original": {
+        "en": "If we glimpse the unutterable, it is unwise to try to utter it, nor should we seek to invest with significance that which we cannot grasp.",
+        "zh": "如果我们瞥见了无法言说的事物，试图去说出来是不明智的，我们也不应当试图赋予我们无法理解的事物某种意义。"
+      },
+      "imitations": [
+        {
+          "en": "If we encounter a cultural custom we don't understand, it is unwise to judge it casually, nor should we impose our own values on it.",
+          "zh": "如果我们遇到自己不理解的文化习俗，随意评判是不明智的，我们也不应当把自己的价值观强加给它。"
+        },
+        {
+          "en": "If we face an unexpected difficulty, it is unwise to panic immediately, nor should we give up without trying.",
+          "zh": "如果我们面对意料之外的困难，立刻恐慌是不明智的，我们也不应该还没尝试就放弃。"
+        }
+      ]
+    }
+  ]
+}

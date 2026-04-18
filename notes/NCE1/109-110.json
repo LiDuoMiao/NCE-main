@@ -1,0 +1,424 @@
+{
+  "book": "NCE1",
+  "lesson": "109-110",
+  "title": "Lesson 109",
+  "vocabulary": [
+    {
+      "word": "idea",
+      "phonetic": "/aɪˈdɪə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "主意；想法；念头",
+          "usage": "常用于表达建议或计划，That's a good idea 表示赞同某建议"
+        }
+      ]
+    },
+    {
+      "word": "ready",
+      "phonetic": "/ˈredɪ/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "准备好的；完成的",
+          "usage": "指某物已准备好可以使用，常与be动词连用"
+        }
+      ]
+    },
+    {
+      "word": "sugar",
+      "phonetic": "/ˈʃʊɡə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "糖；食糖",
+          "usage": "不可数名词，表示糖这种物质"
+        }
+      ]
+    },
+    {
+      "word": "teaspoonful",
+      "phonetic": "/ˈtiːspuːnfʊl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "一茶匙的量",
+          "usage": "可数名词，表示茶匙的量，可加s变为teaspoonfuls"
+        }
+      ]
+    },
+    {
+      "word": "cigarette",
+      "phonetic": "/ˌsɪɡəˈret/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "香烟；纸烟",
+          "usage": "可数名词，指一根香烟"
+        }
+      ]
+    },
+    {
+      "word": "empty",
+      "phonetic": "/ˈemptɪ/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "空的；空洞的",
+          "usage": "形容容器或空间内无东西，也可形容空洞的"
+        }
+      ]
+    },
+    {
+      "word": "pity",
+      "phonetic": "/ˈpɪtɪ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "遗憾；可惜；怜悯",
+          "usage": "What a pity! 用于对不幸或失望的事表示遗憾"
+        }
+      ]
+    },
+    {
+      "word": "biscuit",
+      "phonetic": "/ˈbɪskɪt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "饼干；软烤小圆饼",
+          "usage": "可数名词，英式英语常用，美国多用cookie"
+        }
+      ]
+    },
+    {
+      "word": "advice",
+      "phonetic": "/ədˈvaɪs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "建议；劝告；意见",
+          "usage": "不可数名词，give advice表示给建议，a piece of advice表示一条建议"
+        }
+      ]
+    },
+    {
+      "word": "enough",
+      "phonetic": "/ɪˈnʌf/",
+      "meanings": [
+        {
+          "pos": "adj/adv",
+          "meaning": "足够的；充足的",
+          "usage": "可作形容词或副词，作形容词时置于名词前后均可"
+        }
+      ]
+    },
+    {
+      "word": "instead",
+      "phonetic": "/ɪnˈsted/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "代替；反而；相反地",
+          "usage": "常与of连用，instead of表示代替...；反而"
+        }
+      ]
+    },
+    {
+      "word": "smoke",
+      "phonetic": "/sməʊk/",
+      "meanings": [
+        {
+          "pos": "verb/noun",
+          "meaning": "吸烟；冒烟/烟；香烟",
+          "usage": "作动词时指抽烟或冒烟，作名词时指烟雾或抽烟"
+        }
+      ]
+    },
+    {
+      "word": "afraid",
+      "phonetic": "/əˈfreɪd/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "害怕的；担心的；恐怕",
+          "usage": "I'm afraid常用于礼貌地表达不好的消息或遗憾"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "That's a good idea",
+      "usage": "表示对他人建议的赞同，意为'好主意'",
+      "examples": [
+        {
+          "en": "Shall we go to the park?",
+          "zh": "我们去公园好吗？"
+        },
+        {
+          "en": "That's a good idea.",
+          "zh": "好主意。"
+        }
+      ]
+    },
+    {
+      "phrase": "Would you like...",
+      "usage": "礼貌地询问对方是否想要某物，would like表示意愿",
+      "examples": [
+        {
+          "en": "Would you like some coffee?",
+          "zh": "你想要一些咖啡吗？"
+        },
+        {
+          "en": "Would you like a cigarette?",
+          "zh": "你想来根烟吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "Just a little",
+      "usage": "表示只需要一点点，常用于回答Would you like...的问句",
+      "examples": [
+        {
+          "en": "Do you want any milk?",
+          "zh": "你想要牛奶吗？"
+        },
+        {
+          "en": "Just a little, please.",
+          "zh": "只要一点点，谢谢。"
+        }
+      ]
+    },
+    {
+      "phrase": "What about...",
+      "usage": "用于提出建议或询问意见，意为'...怎么样？'",
+      "examples": [
+        {
+          "en": "What about some sugar?",
+          "zh": "加些糖怎么样？"
+        },
+        {
+          "en": "What about going to the cinema?",
+          "zh": "去看电影怎么样？"
+        }
+      ]
+    },
+    {
+      "phrase": "I'm afraid",
+      "usage": "礼貌地表达令人失望或不好的消息，意为'恐怕'",
+      "examples": [
+        {
+          "en": "I'm afraid it's empty.",
+          "zh": "恐怕是空的。"
+        },
+        {
+          "en": "I'm afraid I can't come.",
+          "zh": "恐怕我来不了。"
+        }
+      ]
+    },
+    {
+      "phrase": "What a pity!",
+      "usage": "对令人失望的事情表示遗憾，意为'真遗憾！/真可惜！'",
+      "examples": [
+        {
+          "en": "The box is empty. What a pity!",
+          "zh": "盒子是空的。真遗憾！"
+        },
+        {
+          "en": "What a pity you can't come!",
+          "zh": "真可惜你来不了！"
+        }
+      ]
+    },
+    {
+      "phrase": "It doesn't matter",
+      "usage": "用于回应道歉或安慰对方，意为'没关系/不要紧'",
+      "examples": [
+        {
+          "en": "I'm afraid it's empty.",
+          "zh": "恐怕是空的。"
+        },
+        {
+          "en": "It doesn't matter.",
+          "zh": "没关系。"
+        }
+      ]
+    },
+    {
+      "phrase": "...instead",
+      "usage": "代替前文提到的事物，意为'代替/反而'",
+      "examples": [
+        {
+          "en": "Have a biscuit instead.",
+          "zh": "吃块饼干代替吧。"
+        },
+        {
+          "en": "Let's walk instead of taking a bus.",
+          "zh": "我们走路代替坐公交车吧。"
+        }
+      ]
+    },
+    {
+      "phrase": "May I have...",
+      "usage": "礼貌地请求某物，may表示更正式的请求",
+      "examples": [
+        {
+          "en": "May I have one?",
+          "zh": "我可以要一根吗？"
+        },
+        {
+          "en": "May I have your name?",
+          "zh": "请问您叫什么名字？"
+        }
+      ]
+    },
+    {
+      "phrase": "That's very good advice",
+      "usage": "表示某建议非常好，advice为不可数名词",
+      "examples": [
+        {
+          "en": "Eat more and smoke less! That's very good advice!",
+          "zh": "多吃少抽！这是很好的建议！"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Would you like...? 与 Do you want...? 的区别",
+      "definition": "would you like用于更正式、礼貌的场合，提出邀请或询问意愿；do you want较为直接，表示询问需求",
+      "structure": "Would you like + 名词/动词不定式?\nDo you want + 名词/动词不定式?",
+      "usage": "would you like常用于正式场合或礼貌邀请，do you want用于一般询问",
+      "examples": [
+        {
+          "en": "Would you like some coffee?",
+          "zh": "你想要咖啡吗？（礼貌邀请）"
+        },
+        {
+          "en": "Do you want any coffee?",
+          "zh": "你想要咖啡吗？（一般询问）"
+        },
+        {
+          "en": "Would you like to have dinner with me?",
+          "zh": "你愿意和我一起吃晚饭吗？（正式邀请）"
+        }
+      ]
+    },
+    {
+      "title": "May I...? 询问许可",
+      "definition": "may是较为正式的请求许可的助动词，意为'可以'，回答可用Of course/Sure/Certainly等",
+      "structure": "May I + 动词原形?",
+      "usage": "用于正式场合请求许可，比Can I...更礼貌",
+      "examples": [
+        {
+          "en": "May I have one?",
+          "zh": "我可以要一根吗？"
+        },
+        {
+          "en": "May I come in?",
+          "zh": "我可以进来吗？"
+        },
+        {
+          "en": "May I use your phone?",
+          "zh": "我可以用你的电话吗？"
+        }
+      ]
+    },
+    {
+      "title": "数量表达：a little, a few, less, more",
+      "definition": "a little修饰不可数名词表示'一点'；a few修饰可数名词表示'一些'；less是little的比较级；more是many/much的比较级",
+      "structure": "a little + 不可数名词\na few + 可数名词复数\nmore + 名词\nless + 不可数名词",
+      "usage": "用于表达不同程度的数量，less than表示'少于'，more表示'更多'",
+      "examples": [
+        {
+          "en": "Just a little milk, please.",
+          "zh": "请给我一点牛奶。"
+        },
+        {
+          "en": "I think there are a few in that box.",
+          "zh": "我想盒子里有一些。"
+        },
+        {
+          "en": "Less than that.",
+          "zh": "比那少一点。"
+        },
+        {
+          "en": "Would you like some more?",
+          "zh": "你想要再来一些吗？"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Shall I + 动词原形?",
+      "original": {
+        "en": "Shall I make some coffee, Jane?",
+        "zh": "珍妮，我来冲咖啡好吗？"
+      },
+      "imitations": [
+        {
+          "en": "Shall I open the window?",
+          "zh": "我打开窗户好吗？"
+        },
+        {
+          "en": "Shall I help you?",
+          "zh": "我来帮你好吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "Would you like + 名词?",
+      "original": {
+        "en": "Would you like some more?",
+        "zh": "你想要再来一些吗？"
+      },
+      "imitations": [
+        {
+          "en": "Would you like some tea?",
+          "zh": "你想要一些茶吗？"
+        },
+        {
+          "en": "Would you like another biscuit?",
+          "zh": "你想要再来一块饼干吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "...instead",
+      "original": {
+        "en": "Have a biscuit instead.",
+        "zh": "吃块饼干代替吧。"
+      },
+      "imitations": [
+        {
+          "en": "Drink some water instead.",
+          "zh": "喝点水代替吧。"
+        },
+        {
+          "en": "Take a bus instead.",
+          "zh": "坐公交车代替吧。"
+        }
+      ]
+    },
+    {
+      "pattern": "What about + 名词/动名词?",
+      "original": {
+        "en": "What about some sugar?",
+        "zh": "加些糖怎么样？"
+      },
+      "imitations": [
+        {
+          "en": "What about some milk?",
+          "zh": "加些牛奶怎么样？"
+        },
+        {
+          "en": "What about going to the cinema?",
+          "zh": "去看电影怎么样？"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,378 @@
+{
+  "book": "NCE1",
+  "lesson": "057-058",
+  "title": "Lesson 57",
+  "vocabulary": [
+    {
+      "word": "unusual",
+      "phonetic": "/ʌnˈjuːʒuəl/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "meaning": "不寻常的，异常的",
+          "usage": "指与平常不同的、特别的情况"
+        }
+      ]
+    },
+    {
+      "word": "children",
+      "phonetic": "/ˈtʃɪldrən/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "孩子们",
+          "usage": "child的复数形式"
+        }
+      ]
+    },
+    {
+      "word": "school",
+      "phonetic": "/skuːl/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "学校",
+          "usage": "可指具体的建筑或教育活动"
+        }
+      ]
+    },
+    {
+      "word": "foot",
+      "phonetic": "/fʊt/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "脚；英尺",
+          "usage": "on foot表示步行"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "phonetic": "/ˈmɔːnɪŋ/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "早晨，上午",
+          "usage": "指从午夜到中午这段时间"
+        }
+      ]
+    },
+    {
+      "word": "shop",
+      "phonetic": "/ʃɒp/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "商店",
+          "usage": "指出售商品的店铺"
+        }
+      ]
+    },
+    {
+      "word": "afternoon",
+      "phonetic": "/ˌɑːftəˈnuːn/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "下午",
+          "usage": "指中午到傍晚这段时间"
+        }
+      ]
+    },
+    {
+      "word": "living room",
+      "phonetic": "/ˈlɪvɪŋ ruːm/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "客厅，起居室",
+          "usage": "家庭活动的主要房间"
+        }
+      ]
+    },
+    {
+      "word": "garden",
+      "phonetic": "/ˈɡɑːdn/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "花园，庭院",
+          "usage": "指房屋周围的种植区域"
+        }
+      ]
+    },
+    {
+      "word": "evening",
+      "phonetic": "/ˈiːvnɪŋ/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "傍晚，晚上",
+          "usage": "指下午到睡觉前的时间"
+        }
+      ]
+    },
+    {
+      "word": "homework",
+      "phonetic": "/ˈhəʊmwɜːk/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "家庭作业",
+          "usage": "学生在家完成的学习任务"
+        }
+      ]
+    },
+    {
+      "word": "moment",
+      "phonetic": "/ˈməʊmənt/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "时刻，瞬间",
+          "usage": "at the moment表示此刻"
+        }
+      ]
+    },
+    {
+      "word": "newspaper",
+      "phonetic": "/ˈnjuːzˌpeɪpə/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "报纸",
+          "usage": "指每日发行的新闻印刷品"
+        }
+      ]
+    },
+    {
+      "word": "interesting",
+      "phonetic": "/ˈɪntrəstɪŋ/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "meaning": "有趣的，有吸引力的",
+          "usage": "用来描述引起兴趣的事物"
+        }
+      ]
+    },
+    {
+      "word": "tonight",
+      "phonetic": "/təˈnaɪt/",
+      "meanings": [
+        {
+          "pos": "adv.",
+          "meaning": "今晚，今夜",
+          "usage": "指今天晚上"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "on foot",
+      "usage": "表示步行，徒步",
+      "examples": [
+        {
+          "en": "The children are going to school on foot today.",
+          "zh": "孩子们今天步行去上学。"
+        }
+      ]
+    },
+    {
+      "phrase": "at the moment",
+      "usage": "表示此刻，现在",
+      "examples": [
+        {
+          "en": "At the moment, they are playing in the garden.",
+          "zh": "此刻，他们正在花园里玩耍。"
+        }
+      ]
+    },
+    {
+      "phrase": "do homework",
+      "usage": "表示做家庭作业",
+      "examples": [
+        {
+          "en": "The children usually do their homework in the evening.",
+          "zh": "孩子们通常在晚上做家庭作业。"
+        }
+      ]
+    },
+    {
+      "phrase": "go to school",
+      "usage": "表示去上学",
+      "examples": [
+        {
+          "en": "The children go to school by car every day.",
+          "zh": "孩子们每天乘汽车去上学。"
+        }
+      ]
+    },
+    {
+      "phrase": "go to the shops",
+      "usage": "表示去商店购物",
+      "examples": [
+        {
+          "en": "This morning, she is going to the shops.",
+          "zh": "今天上午，她要去商店。"
+        }
+      ]
+    },
+    {
+      "phrase": "drink tea",
+      "usage": "表示喝茶",
+      "examples": [
+        {
+          "en": "Mrs. Sawyer usually drinks tea in the living room.",
+          "zh": "索耶太太通常在客厅喝茶。"
+        }
+      ]
+    },
+    {
+      "phrase": "read a newspaper",
+      "usage": "表示看报纸",
+      "examples": [
+        {
+          "en": "Mr. Sawyer usually reads his newspaper at night.",
+          "zh": "索耶先生通常在晚上看报纸。"
+        }
+      ]
+    },
+    {
+      "phrase": "in the garden",
+      "usage": "表示在花园里",
+      "examples": [
+        {
+          "en": "She is drinking tea in the garden this afternoon.",
+          "zh": "今天下午她正在花园里喝茶。"
+        }
+      ]
+    },
+    {
+      "phrase": "at night",
+      "usage": "表示在夜里",
+      "examples": [
+        {
+          "en": "He reads his newspaper at night.",
+          "zh": "他夜里看报纸。"
+        }
+      ]
+    },
+    {
+      "phrase": "stay at home",
+      "usage": "表示待在家里",
+      "examples": [
+        {
+          "en": "Mrs. Sawyer usually stays at home in the morning.",
+          "zh": "索耶太太通常上午待在家里。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "一般现在时与现在进行时的对比 (Simple Present vs Present Continuous)",
+      "definition": "一般现在时表示习惯性、经常性的动作；现在进行时表示此刻正在进行的动作。通过对比两者，可以描述某一天发生的事情与平时的不同。",
+      "structure": "主语 + usually + 动词原形/三单形式... but + 主语 + am/is/are + 动词-ing + 时间状语",
+      "usage": "用于描述某人通常做某事，但今天/此刻正在做另一件事",
+      "examples": [
+        {
+          "en": "The children go to school by car every day, but today, they are going to school on foot.",
+          "zh": "孩子们每天乘汽车去上学，但今天他们步行去上学。"
+        },
+        {
+          "en": "Mr. Sawyer usually reads his newspaper at night. But tonight, he's reading an interesting book.",
+          "zh": "索耶先生通常在晚上看报纸。但今晚他在读一本有趣的书。"
+        }
+      ]
+    },
+    {
+      "title": "时间表达法 (Time Expressions)",
+      "definition": "使用具体的钟点时间来标记一天中不同时间段发生的事情",
+      "structure": "It is + 时间 o'clock.",
+      "usage": "用于引出不同时间点发生的事情，常与现在进行时连用",
+      "examples": [
+        {
+          "en": "It is eight o'clock. The children are going to school on foot.",
+          "zh": "现在是八点。孩子们正在步行去上学。"
+        },
+        {
+          "en": "It is six o'clock. The children are playing in the garden.",
+          "zh": "现在是六点。孩子们正在花园里玩耍。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "It is + 时间. + 主语 usually + 动词..., but + 主语 + be动词 + 动词-ing + 时间.",
+      "original": {
+        "en": "It is four o'clock. Mrs. Sawyer usually drinks tea in the living room. But this afternoon, she is drinking tea in the garden.",
+        "zh": "现在是四点。索耶太太通常在客厅喝茶。但今天下午她在花园里喝茶。"
+      },
+      "imitations": [
+        {
+          "en": "It is seven o'clock. Tom usually eats dinner at home. But tonight, he is eating dinner at a restaurant.",
+          "zh": "现在是七点。汤姆通常在家吃晚饭。但今晚他在餐厅吃晚饭。"
+        },
+        {
+          "en": "It is nine o'clock. Lisa usually sleeps early, but tonight she is watching TV.",
+          "zh": "现在是九点。莉莎通常早睡，但今晚她在看电视。"
+        }
+      ]
+    },
+    {
+      "pattern": "At the moment, 主语 + be动词 + 动词-ing...",
+      "original": {
+        "en": "At the moment, they are playing in the garden.",
+        "zh": "此刻，他们正在花园里玩耍。"
+      },
+      "imitations": [
+        {
+          "en": "At the moment, she is reading a book.",
+          "zh": "此刻，她正在读书。"
+        },
+        {
+          "en": "At the moment, he is cooking dinner.",
+          "zh": "此刻，他正在做晚饭。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + usually + 动词..., but + 主语 + be动词 + not + 动词-ing...",
+      "original": {
+        "en": "In the evening, the children usually do their homework, but this evening, they are not doing their homework.",
+        "zh": "晚上，孩子们通常做家庭作业，但今晚他们没在做家庭作业。"
+      },
+      "imitations": [
+        {
+          "en": "Usually, I watch TV in the evening, but today I am not watching TV.",
+          "zh": "通常我晚上看电视，但今天我没在看。"
+        },
+        {
+          "en": "He usually works late, but today he is not working.",
+          "zh": "他通常工作到很晚，但今天他没在工作。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + usually + 动词原形/三单形式 + 时间状语. But + 主语 + be动词 + 动词-ing + tonight/today/this...",
+      "original": {
+        "en": "Mr. Sawyer usually reads his newspaper at night. But he's not reading his newspaper tonight.",
+        "zh": "索耶先生通常在晚上看报纸。但今晚他没在看报纸。"
+      },
+      "imitations": [
+        {
+          "en": "I usually drink coffee in the morning. But this morning I am drinking tea.",
+          "zh": "我通常早上喝咖啡。但今天早上我在喝茶。"
+        },
+        {
+          "en": "She usually wears a dress, but today she is wearing trousers.",
+          "zh": "她通常穿连衣裙，但今天她穿着裤子。"
+        }
+      ]
+    }
+  ]
+}

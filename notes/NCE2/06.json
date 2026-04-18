@@ -1,0 +1,398 @@
+{
+  "book": "NCE2",
+  "lesson": "06",
+  "title": "Who is Percy Buttons?",
+  "vocabulary": [
+    {
+      "word": "beggar",
+      "phonetic": "/ˈbeɡə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "乞丐",
+          "usage": "指以乞讨为生的人"
+        }
+      ]
+    },
+    {
+      "word": "knock",
+      "phonetic": "/nɒk/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "敲；击",
+          "usage": "常与 at 或 on 搭配使用，表示敲门或敲窗等动作"
+        }
+      ]
+    },
+    {
+      "word": "meal",
+      "phonetic": "/miːl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "饭；一餐",
+          "usage": "指早餐、午餐或晚餐等正餐"
+        }
+      ]
+    },
+    {
+      "word": "glass",
+      "phonetic": "/ɡlɑːs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "玻璃杯；一杯（的量）",
+          "usage": "常用 glass of 表示几杯，如 a glass of beer"
+        }
+      ]
+    },
+    {
+      "word": "beer",
+      "phonetic": "/bɪə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "啤酒",
+          "usage": "常用作不可数名词，一杯啤酒为 a glass of beer"
+        }
+      ]
+    },
+    {
+      "word": "return",
+      "phonetic": "/rɪˈtɜːn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "回报；报答",
+          "usage": "常用于 in return (for) 短语，意为作为（...的）回报"
+        }
+      ]
+    },
+    {
+      "word": "stand",
+      "phonetic": "/stænd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "站立；直立",
+          "usage": "stand on one's head 意为倒立，用头撑地"
+        }
+      ]
+    },
+    {
+      "word": "head",
+      "phonetic": "/hed/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "头；头部",
+          "usage": "stand on one's head 是固定表达，意为倒立"
+        }
+      ]
+    },
+    {
+      "word": "song",
+      "phonetic": "/sɒŋ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "歌曲；歌",
+          "usage": "指唱的歌或歌曲，可数名词"
+        }
+      ]
+    },
+    {
+      "word": "cheese",
+      "phonetic": "/tʃiːz/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "奶酪；芝士",
+          "usage": "奶酪是不可数名词，一块奶酪为 a piece of cheese"
+        }
+      ]
+    },
+    {
+      "word": "pocket",
+      "phonetic": "/ˈpɒkɪt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "口袋；衣袋",
+          "usage": "指衣服上的口袋，put something in one's pocket 放入某人口袋"
+        }
+      ]
+    },
+    {
+      "word": "neighbour",
+      "phonetic": "/ˈneɪbə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "邻居；邻人",
+          "usage": "指住在附近的人，美式拼写为 neighbor"
+        }
+      ]
+    },
+    {
+      "word": "month",
+      "phonetic": "/mʌnθ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "月；月份",
+          "usage": "表示时间长度，once a month 每月一次"
+        }
+      ]
+    },
+    {
+      "word": "call",
+      "phonetic": "/kɔːl/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "拜访；访问",
+          "usage": "call at 表示访问某个地方，call on 表示拜访某人"
+        }
+      ]
+    },
+    {
+      "word": "move",
+      "phonetic": "/muːv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "搬家；搬迁",
+          "usage": "move to somewhere 表示搬到某个地方"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "knock at the door",
+      "usage": "敲门，表示有人来访时敲门的动作",
+      "examples": [
+        {
+          "en": "Yesterday a beggar knocked at my door.",
+          "zh": "昨天一个乞丐敲了我的门。"
+        }
+      ]
+    },
+    {
+      "phrase": "ask for",
+      "usage": "请求；要求，表示向他人要某物或做某事",
+      "examples": [
+        {
+          "en": "He asked me for a meal and a glass of beer.",
+          "zh": "他向我要一顿饭和一杯啤酒。"
+        }
+      ]
+    },
+    {
+      "phrase": "in return (for)",
+      "usage": "作为（...的）回报，常用于表示交换或报答",
+      "examples": [
+        {
+          "en": "In return for this, the beggar stood on his head and sang songs.",
+          "zh": "作为回报，乞丐倒立并唱歌。"
+        }
+      ]
+    },
+    {
+      "phrase": "stand on one's head",
+      "usage": "倒立，用头撑地倒立的姿势",
+      "examples": [
+        {
+          "en": "The beggar stood on his head.",
+          "zh": "那个乞丐倒立着。"
+        }
+      ]
+    },
+    {
+      "phrase": "put something in one's pocket",
+      "usage": "把某物放入口袋中",
+      "examples": [
+        {
+          "en": "He put a piece of cheese in his pocket.",
+          "zh": "他把一块奶酪放进了口袋。"
+        }
+      ]
+    },
+    {
+      "phrase": "go away",
+      "usage": "离开，走开，表示离开某个地方",
+      "examples": [
+        {
+          "en": "Then he put a piece of cheese in his pocket and went away.",
+          "zh": "然后他把一块奶酪放进口袋就走了。"
+        }
+      ]
+    },
+    {
+      "phrase": "call at",
+      "usage": "拜访（某地），访问某个具体地点",
+      "examples": [
+        {
+          "en": "He calls at every house in the street once a month.",
+          "zh": "他每月来这条街的每户人家拜访一次。"
+        }
+      ]
+    },
+    {
+      "phrase": "once a month",
+      "usage": "每月一次，表示频率的固定搭配",
+      "examples": [
+        {
+          "en": "He calls at every house once a month.",
+          "zh": "他每月拜访每户人家一次。"
+        }
+      ]
+    },
+    {
+      "phrase": "tell someone about something",
+      "usage": "告诉某人关于某事",
+      "examples": [
+        {
+          "en": "Later a neighbour told me about him.",
+          "zh": "后来一个邻居告诉了我关于他的事。"
+        }
+      ]
+    },
+    {
+      "phrase": "move to",
+      "usage": "搬到（某地），搬迁到新地方",
+      "examples": [
+        {
+          "en": "I have just moved to a house in Bridge Street.",
+          "zh": "我刚搬到布里奇街的一栋房子里。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "一般过去时 (Simple Past Tense)",
+      "definition": "表示过去某个特定时间发生的动作或存在的状态，常与 yesterday, last week, ago 等时间状语连用",
+      "structure": "主语 + 动词过去式",
+      "usage": "用于描述过去发生的事情，动词需要变成过去式",
+      "examples": [
+        {
+          "en": "Yesterday a beggar knocked at my door.",
+          "zh": "昨天一个乞丐敲了我的门。"
+        },
+        {
+          "en": "He asked me for a meal and a glass of beer.",
+          "zh": "他向我要一顿饭和一杯啤酒。"
+        },
+        {
+          "en": "He ate the food and drank the beer.",
+          "zh": "他吃了食物并喝了啤酒。"
+        }
+      ]
+    },
+    {
+      "title": "一般过去时的否定句和疑问句",
+      "definition": "使用 did + 动词原形构成否定句和一般疑问句",
+      "structure": "否定句：主语 + did not (didn't) + 动词原形；疑问句：Did + 主语 + 动词原形？",
+      "usage": "当句中有实义动词的过去式时，否定句和疑问句需要借助 did",
+      "examples": [
+        {
+          "en": "Did he ask for a meal?",
+          "zh": "他要了一顿饭吗？"
+        },
+        {
+          "en": "He didn't take anything else.",
+          "zh": "他没有拿走其他东西。"
+        }
+      ]
+    },
+    {
+      "title": "一般现在时 (Simple Present Tense)",
+      "definition": "表示经常性或习惯性的动作，以及客观事实和普遍真理",
+      "structure": "主语 + 动词原形/第三人称单数形式",
+      "usage": "描述习惯性行为、普遍真理或当前的状态",
+      "examples": [
+        {
+          "en": "Everybody knows him.",
+          "zh": "每个人都认识他。"
+        },
+        {
+          "en": "He calls at every house in the street once a month.",
+          "zh": "他每月来这条街的每户人家拜访一次。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "主语 + have/has just + 过去分词",
+      "original": {
+        "en": "I have just moved to a house in Bridge Street.",
+        "zh": "我刚搬到布里奇街的一栋房子里。"
+      },
+      "imitations": [
+        {
+          "en": "She has just arrived at the station.",
+          "zh": "她刚到达车站。"
+        },
+        {
+          "en": "They have just finished their homework.",
+          "zh": "他们刚完成作业。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + asked me for + 名词",
+      "original": {
+        "en": "He asked me for a meal and a glass of beer.",
+        "zh": "他向我要一顿饭和一杯啤酒。"
+      },
+      "imitations": [
+        {
+          "en": "The student asked the teacher for help.",
+          "zh": "那个学生向老师寻求帮助。"
+        },
+        {
+          "en": "She asked me for some water.",
+          "zh": "她向我要了一些水。"
+        }
+      ]
+    },
+    {
+      "pattern": "In return for this, 主语 + 动词过去式 + ...",
+      "original": {
+        "en": "In return for this, the beggar stood on his head and sang songs.",
+        "zh": "作为回报，那个乞丐倒立并唱歌。"
+      },
+      "imitations": [
+        {
+          "en": "In return for her kindness, I bought her a gift.",
+          "zh": "作为对她好意的回报，我给她买了一份礼物。"
+        },
+        {
+          "en": "In return for this, he gave me his address.",
+          "zh": "作为回报，他给了我他的地址。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + calls at every + 名词 + 时间频率",
+      "original": {
+        "en": "He calls at every house in the street once a month.",
+        "zh": "他每月来这条街的每户人家拜访一次。"
+      },
+      "imitations": [
+        {
+          "en": "The postman calls at every building once a day.",
+          "zh": "邮递员每天来每栋楼一次。"
+        },
+        {
+          "en": "She calls at every shop on this street once a week.",
+          "zh": "她每周来这条街的每家商店一次。"
+        }
+      ]
+    }
+  ]
+}

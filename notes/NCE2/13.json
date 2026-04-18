@@ -1,0 +1,383 @@
+{
+  "book": "NCE2",
+  "lesson": "13",
+  "title": "Why will the police have a difficult time?",
+  "vocabulary": [
+    {
+      "word": "group",
+      "phonetic": "/ɡruːp/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "团体，组",
+          "usage": "指一群人或其他事物的集合"
+        }
+      ]
+    },
+    {
+      "word": "pop singer",
+      "phonetic": "/pɒp ˈsɪŋə/",
+      "meanings": [
+        {
+          "pos": "noun phrase",
+          "meaning": "流行歌手",
+          "usage": "指唱流行音乐的歌手"
+        }
+      ]
+    },
+    {
+      "word": "visit",
+      "phonetic": "/ˈvɪzɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "访问，参观，拜访",
+          "usage": "指去某个地方或拜访某人"
+        }
+      ]
+    },
+    {
+      "word": "part",
+      "phonetic": "/pɑːt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "部分",
+          "usage": "指整体中的一个组成部分"
+        }
+      ]
+    },
+    {
+      "word": "country",
+      "phonetic": "/ˈkʌntri/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "国家，乡村",
+          "usage": "指一个国家或农村地区"
+        }
+      ]
+    },
+    {
+      "word": "arrive",
+      "phonetic": "/əˈraɪv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "到达，抵达",
+          "usage": "表示到达某地"
+        }
+      ]
+    },
+    {
+      "word": "train",
+      "phonetic": "/treɪn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "火车",
+          "usage": "指铁路交通车辆"
+        },
+        {
+          "pos": "verb",
+          "meaning": "培训，训练",
+          "usage": "指进行训练或培养技能"
+        }
+      ]
+    },
+    {
+      "word": "young",
+      "phonetic": "/jʌŋ/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "年轻的",
+          "usage": "形容年龄小"
+        }
+      ]
+    },
+    {
+      "word": "meeting",
+      "phonetic": "/ˈmiːtɪŋ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "会议，迎接",
+          "usage": "指集会或迎接某人"
+        }
+      ]
+    },
+    {
+      "word": "station",
+      "phonetic": "/ˈsteɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "车站，站",
+          "usage": "指火车站或其他站点"
+        }
+      ]
+    },
+    {
+      "word": "evening",
+      "phonetic": "/ˈiːvnɪŋ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "晚上，傍晚",
+          "usage": "指一天中的晚间时间"
+        }
+      ]
+    },
+    {
+      "word": "club",
+      "phonetic": "/klʌb/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "俱乐部，社团",
+          "usage": "指人们聚集进行活动的场所"
+        }
+      ]
+    },
+    {
+      "word": "performance",
+      "phonetic": "/pəˈfɔːməns/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "表演，演出",
+          "usage": "指艺术表演或戏剧演出"
+        }
+      ]
+    },
+    {
+      "word": "police",
+      "phonetic": "/pəˈliːs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "警察，警方",
+          "usage": "指执法部门或警察个人"
+        }
+      ]
+    },
+    {
+      "word": "difficult",
+      "phonetic": "/ˈdɪfɪkəlt/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "困难的",
+          "usage": "形容有难度的事情"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "at present",
+      "usage": "表示\"目前，现在\"，用于描述当前的情况",
+      "examples": [
+        {
+          "en": "At present, they are visiting all parts of the country.",
+          "zh": "目前，他们正在访问全国各地。"
+        }
+      ]
+    },
+    {
+      "phrase": "all parts of the country",
+      "usage": "表示\"全国各地\"，强调范围广泛",
+      "examples": [
+        {
+          "en": "They are visiting all parts of the country.",
+          "zh": "他们正在访问全国各地。"
+        }
+      ]
+    },
+    {
+      "phrase": "by train",
+      "usage": "表示交通方式，\"乘火车\"",
+      "examples": [
+        {
+          "en": "They will be coming by train.",
+          "zh": "他们将乘火车来。"
+        }
+      ]
+    },
+    {
+      "phrase": "at the station",
+      "usage": "表示\"在车站\"，指具体地点",
+      "examples": [
+        {
+          "en": "Most of the young people will be meeting them at the station.",
+          "zh": "大多数年轻人会在车站迎接他们。"
+        }
+      ]
+    },
+    {
+      "phrase": "give performances",
+      "usage": "表示\"进行表演\"，指演出活动",
+      "examples": [
+        {
+          "en": "During this time, they will give five performances.",
+          "zh": "在此期间，他们将进行五场演出。"
+        }
+      ]
+    },
+    {
+      "phrase": "keep order",
+      "usage": "表示\"维持秩序\"，指管理人群或维护秩序",
+      "examples": [
+        {
+          "en": "They will be trying to keep order.",
+          "zh": "他们将努力维持秩序。"
+        }
+      ]
+    },
+    {
+      "phrase": "on these occasions",
+      "usage": "表示\"在这些场合\"，指特定情况或时机",
+      "examples": [
+        {
+          "en": "It is always the same on these occasions.",
+          "zh": "在这些场合，情况总是如此。"
+        }
+      ]
+    },
+    {
+      "phrase": "as usual",
+      "usage": "表示\"像往常一样\"，描述一贯的情况",
+      "examples": [
+        {
+          "en": "As usual, the police will have a difficult time.",
+          "zh": "像往常一样，警察将会有麻烦。"
+        }
+      ]
+    },
+    {
+      "phrase": "stay for five days",
+      "usage": "表示\"停留五天\"，指停留的时长",
+      "examples": [
+        {
+          "en": "The Greenwood Boys will be staying for five days.",
+          "zh": "格林伍德男孩们将停留五天。"
+        }
+      ]
+    },
+    {
+      "phrase": "trying to",
+      "usage": "表示\"努力做某事\"，强调尝试和努力",
+      "examples": [
+        {
+          "en": "They will be trying to keep order.",
+          "zh": "他们将努力维持秩序。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "将来进行时 (Future Continuous Tense)",
+      "definition": "表示在将来某一时刻或某一段时间正在进行的动作",
+      "structure": "主语 + will be + 动词-ing + 其他",
+      "usage": "用于描述在将来某个具体时间正在发生的动作，或表示已经安排好的事情",
+      "examples": [
+        {
+          "en": "They will be arriving here tomorrow.",
+          "zh": "他们明天将会到达这里。"
+        },
+        {
+          "en": "They will be singing at the Workers' Club tomorrow evening.",
+          "zh": "明天晚上他们将在工人俱乐部唱歌。"
+        },
+        {
+          "en": "The police will be trying to keep order.",
+          "zh": "警察将努力维持秩序。"
+        }
+      ]
+    },
+    {
+      "title": "将来时态对比 (Future Tense Comparison)",
+      "definition": "比较一般将来时和将来进行时的用法差异",
+      "structure": "一般将来时: will + 动词原形；将来进行时: will be + 动词-ing",
+      "usage": "一般将来时强调将来的决定或临时决定；将来进行时强调正在进行的动作或计划的安排",
+      "examples": [
+        {
+          "en": "I will call you tonight. (今晚我会给你打电话) vs I will be calling you tonight. (今晚我会一直在给你打电话)",
+          "zh": "一般将来时强调决定，将来进行时强调动作的持续性"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "主语 + will be + 动词-ing + 时间/地点",
+      "original": {
+        "en": "They will be arriving here tomorrow.",
+        "zh": "他们明天将会到达这里。"
+      },
+      "imitations": [
+        {
+          "en": "She will be meeting us at the airport at 8 p.m.",
+          "zh": "她晚上8点会在机场迎接我们。"
+        },
+        {
+          "en": "The train will be arriving at the station soon.",
+          "zh": "火车很快就会到达车站。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + will be + 动词-ing + for + 时间段",
+      "original": {
+        "en": "They will be staying for five days.",
+        "zh": "他们将停留五天。"
+      },
+      "imitations": [
+        {
+          "en": "We will be traveling in Europe for two weeks.",
+          "zh": "我们将在欧洲旅行两周。"
+        },
+        {
+          "en": "He will be working here for three months.",
+          "zh": "他将在这里工作三个月。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + will be + 动词-ing + during + 时间段",
+      "original": {
+        "en": "During this time, they will give five performances.",
+        "zh": "在此期间，他们将进行五场演出。"
+      },
+      "imitations": [
+        {
+          "en": "During the summer, I will be studying English every day.",
+          "zh": "整个夏天，我每天都会学习英语。"
+        },
+        {
+          "en": "During the holiday, we will be visiting many museums.",
+          "zh": "假期期间，我们将参观许多博物馆。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + will have a difficult time",
+      "original": {
+        "en": "The police will have a difficult time.",
+        "zh": "警察将会有困难。"
+      },
+      "imitations": [
+        {
+          "en": "The teachers will have a difficult time with those noisy students.",
+          "zh": "老师们会对那些吵闹的学生感到头疼。"
+        },
+        {
+          "en": "You will have a difficult time learning a new language.",
+          "zh": "你学一门新语言会很困难。"
+        }
+      ]
+    }
+  ]
+}

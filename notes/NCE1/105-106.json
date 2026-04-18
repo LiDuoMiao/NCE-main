@@ -1,0 +1,466 @@
+{
+  "book": "NCE1",
+  "lesson": "105-106",
+  "title": "Lesson 105",
+  "vocabulary": [
+    {
+      "word": "intelligent",
+      "phonetic": "/ɪnˈtelɪdʒənt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "聪明的；智能的",
+          "usage": "用于描述人的智力或学习能力"
+        }
+      ]
+    },
+    {
+      "word": "mistake",
+      "phonetic": "/mɪˈsteɪk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "错误；失误",
+          "usage": "指做事或判断上的错误"
+        },
+        {
+          "pos": "verb",
+          "meaning": "弄错；搞错",
+          "usage": "错误地认为或做某事"
+        }
+      ]
+    },
+    {
+      "word": "present",
+      "phonetic": "/ˈpreznt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "礼物；赠品",
+          "usage": "送给别人的东西"
+        },
+        {
+          "pos": "adjective",
+          "meaning": "出席的；在场的",
+          "usage": "指在某地或某场合"
+        }
+      ]
+    },
+    {
+      "word": "spell",
+      "phonetic": "/spel/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "拼写；用字母拼",
+          "usage": "指用字母组成单词"
+        }
+      ]
+    },
+    {
+      "word": "type",
+      "phonetic": "/taɪp/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "打字；用打字机输入",
+          "usage": "指通过键盘输入文字"
+        }
+      ]
+    },
+    {
+      "word": "office",
+      "phonetic": "/ˈɒfɪs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "办公室；办事处",
+          "usage": "指办公或处理公务的场所"
+        }
+      ]
+    },
+    {
+      "word": "dictionary",
+      "phonetic": "/ˈdɪkʃənri/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "字典；词典",
+          "usage": "用于查阅单词含义和拼写的工具书"
+        }
+      ]
+    },
+    {
+      "word": "letter",
+      "phonetic": "/ˈletə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "信；信件",
+          "usage": "指书面通信"
+        },
+        {
+          "pos": "noun",
+          "meaning": "字母",
+          "usage": "指拼音文字的符号"
+        }
+      ]
+    },
+    {
+      "word": "hope",
+      "phonetic": "/həʊp/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "希望；期望",
+          "usage": "表达对某事的期盼"
+        }
+      ]
+    },
+    {
+      "word": "full",
+      "phonetic": "/fʊl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "满的；充满的",
+          "usage": "指容器或空间被完全占满"
+        }
+      ]
+    },
+    {
+      "word": "at once",
+      "phonetic": "/æt wʌns/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "立即；马上",
+          "usage": "表示立即行动"
+        }
+      ]
+    },
+    {
+      "word": "only",
+      "phonetic": "/ˈəʊnli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "只；仅仅",
+          "usage": "表示限定数量或程度"
+        }
+      ]
+    },
+    {
+      "word": "right",
+      "phonetic": "/raɪt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "正确的；对的",
+          "usage": "表示准确无误"
+        },
+        {
+          "pos": "adjective",
+          "meaning": "右边的",
+          "usage": "表示方向或位置"
+        }
+      ]
+    },
+    {
+      "word": "sorry",
+      "phonetic": "/ˈsɒri/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "抱歉的；遗憾的",
+          "usage": "用于道歉或表示遗憾"
+        }
+      ]
+    },
+    {
+      "word": "again",
+      "phonetic": "/əˈɡen/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "再；又",
+          "usage": "表示重复或再次"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Full of mistakes",
+      "usage": "表示充满错误，常用于评价工作质量",
+      "examples": [
+        {
+          "en": "This letter's full of mistakes.",
+          "zh": "这封信满是错误。"
+        },
+        {
+          "en": "Your homework is full of mistakes.",
+          "zh": "你的作业满是错误。"
+        }
+      ]
+    },
+    {
+      "phrase": "Come at once",
+      "usage": "命令或要求某人立即前来",
+      "examples": [
+        {
+          "en": "Tell her to come at once.",
+          "zh": "让她立刻来。"
+        },
+        {
+          "en": "The manager wants you to come at once.",
+          "zh": "经理要你立刻来。"
+        }
+      ]
+    },
+    {
+      "phrase": "How do you spell...?",
+      "usage": "用于询问单词的拼写方式",
+      "examples": [
+        {
+          "en": "How do you spell 'intelligent'?",
+          "zh": "'intelligent'怎么拼写？"
+        },
+        {
+          "en": "How do you spell your name?",
+          "zh": "你的名字怎么拼写？"
+        }
+      ]
+    },
+    {
+      "phrase": "I want you to...",
+      "usage": "表达希望某人做某事",
+      "examples": [
+        {
+          "en": "I want you to type it again.",
+          "zh": "我想让你再打一遍。"
+        },
+        {
+          "en": "I want you to come to my office.",
+          "zh": "我想让你来我的办公室。"
+        }
+      ]
+    },
+    {
+      "phrase": "Here's a little present for you",
+      "usage": "送礼物时的常用表达",
+      "examples": [
+        {
+          "en": "And here's a little present for you.",
+          "zh": "这是给你的一点小礼物。"
+        },
+        {
+          "en": "Here's a little present for your birthday.",
+          "zh": "这是给你的生日小礼物。"
+        }
+      ]
+    },
+    {
+      "phrase": "I hope it'll help you",
+      "usage": "送礼物时表达良好祝愿",
+      "examples": [
+        {
+          "en": "I hope it'll help you.",
+          "zh": "我希望它能帮助你。"
+        },
+        {
+          "en": "I hope it'll help you with your studies.",
+          "zh": "我希望它能帮助你学习。"
+        }
+      ]
+    },
+    {
+      "phrase": "I'm sorry about that",
+      "usage": "为错误或疏忽道歉",
+      "examples": [
+        {
+          "en": "I'm sorry about that.",
+          "zh": "关于那件事我很抱歉。"
+        },
+        {
+          "en": "I'm sorry about the mistake.",
+          "zh": "对于这个错误我很抱歉。"
+        }
+      ]
+    },
+    {
+      "phrase": "Can you tell me?",
+      "usage": "礼貌地请求信息",
+      "examples": [
+        {
+          "en": "Can you tell me?",
+          "zh": "你能告诉我吗？"
+        },
+        {
+          "en": "Can you tell me how to get to the station?",
+          "zh": "你能告诉我怎么去车站吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "Did you want to see me?",
+      "usage": "确认某人是否要找自己",
+      "examples": [
+        {
+          "en": "Did you want to see me?",
+          "zh": "你想见我吗？"
+        },
+        {
+          "en": "The boss is here. Did you want to see him?",
+          "zh": "老板在这儿，你想见他吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "I want her to come to my office",
+      "usage": "表示希望第三人去某地",
+      "examples": [
+        {
+          "en": "I want her to come to my office.",
+          "zh": "我想让她来我的办公室。"
+        },
+        {
+          "en": "I want him to finish the work today.",
+          "zh": "我想让他今天完成这项工作。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Want + 宾语 + to + 动词原形",
+      "definition": "表示说话者希望或要求另一个人做某事",
+      "structure": "主语 + want + 宾语 + to + 动词原形",
+      "usage": "用于表达想让某人做某事的意愿，want后面需要跟宾语（人），再加to引导的不定式短语",
+      "examples": [
+        {
+          "en": "I want her to come to my office.",
+          "zh": "我想让她来我的办公室。"
+        },
+        {
+          "en": "I want you to type it again.",
+          "zh": "我想让你再打一遍。"
+        },
+        {
+          "en": "Do you want her to come at once?",
+          "zh": "你想让她马上来吗？"
+        }
+      ]
+    },
+    {
+      "title": "Tell + 宾语 + to + 动词原形",
+      "definition": "表示命令或指示某人做某事",
+      "structure": "主语 + tell + 宾语 + to + 动词原形",
+      "usage": "用于传达命令或指示，要求宾语（通常是人）执行某个动作",
+      "examples": [
+        {
+          "en": "Tell her to come at once.",
+          "zh": "告诉她立刻来。"
+        },
+        {
+          "en": "Tell him to wait outside.",
+          "zh": "让他在外面等。"
+        },
+        {
+          "en": "Tell them to be quiet.",
+          "zh": "让他们安静。"
+        }
+      ]
+    },
+    {
+      "title": "Have/Has + 过去分词（现在完成时）",
+      "definition": "表示过去发生的动作对现在造成的影响或结果",
+      "structure": "主语 + have/has + 过去分词",
+      "usage": "常与just连用，表示刚刚完成的动作。在本课中用于指出对方的错误",
+      "examples": [
+        {
+          "en": "You've typed it with only one 'L'.",
+          "zh": "你只打了一个'L'。"
+        },
+        {
+          "en": "She's already finished her work.",
+          "zh": "她已经完成了工作。"
+        },
+        {
+          "en": "I've made a mistake.",
+          "zh": "我犯了一个错误。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "I want + 宾语 + to + 动词原形",
+      "original": {
+        "en": "I want her to come to my office.",
+        "zh": "我想让她来我的办公室。"
+      },
+      "imitations": [
+        {
+          "en": "I want him to type this letter.",
+          "zh": "我想让他打这封信。"
+        },
+        {
+          "en": "I want them to come at once.",
+          "zh": "我想让他们立刻来。"
+        }
+      ]
+    },
+    {
+      "pattern": "Tell + 宾语 + to + 动词原形",
+      "original": {
+        "en": "Tell her to come at once.",
+        "zh": "告诉她立刻来。"
+      },
+      "imitations": [
+        {
+          "en": "Tell him to wait here.",
+          "zh": "让他在这儿等。"
+        },
+        {
+          "en": "Tell them to finish the work.",
+          "zh": "让他们完成工作。"
+        }
+      ]
+    },
+    {
+      "pattern": "How do you spell + 单词?",
+      "original": {
+        "en": "How do you spell 'intelligent'?",
+        "zh": "'intelligent'怎么拼写？"
+      },
+      "imitations": [
+        {
+          "en": "How do you spell your name?",
+          "zh": "你的名字怎么拼写？"
+        },
+        {
+          "en": "How do you spell 'beautiful'?",
+          "zh": "'beautiful'怎么拼写？"
+        }
+      ]
+    },
+    {
+      "pattern": "I hope + 主语 + 动词...",
+      "original": {
+        "en": "I hope it'll help you.",
+        "zh": "我希望它能帮助你。"
+      },
+      "imitations": [
+        {
+          "en": "I hope it'll help you with your English.",
+          "zh": "我希望它能帮助你学英语。"
+        },
+        {
+          "en": "I hope she'll like this present.",
+          "zh": "我希望她会喜欢这份礼物。"
+        }
+      ]
+    }
+  ]
+}

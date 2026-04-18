@@ -1,0 +1,394 @@
+{
+  "book": "NCE2",
+  "lesson": "45",
+  "title": "How did Sam get his money back?",
+  "vocabulary": [
+    {
+      "word": "village",
+      "phonetic": "/ˈvɪlɪdʒ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "村庄，乡村",
+          "usage": "指农村或小镇，比 town 小"
+        }
+      ]
+    },
+    {
+      "word": "wallet",
+      "phonetic": "/ˈwɒlɪt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "钱包，皮夹",
+          "usage": "用于装钱和信用卡的小皮具"
+        }
+      ]
+    },
+    {
+      "word": "butcher",
+      "phonetic": "/ˈbʊtʃə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "屠夫，肉商",
+          "usage": "指从事肉类买卖的人"
+        }
+      ]
+    },
+    {
+      "word": "savings",
+      "phonetic": "/ˈseɪvɪŋz/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "积蓄，存款",
+          "usage": "常用复数形式，指存起来的钱"
+        }
+      ]
+    },
+    {
+      "word": "post office",
+      "phonetic": "/pəʊst ˈɒfɪs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "邮局",
+          "usage": "邮寄信件和包裹的地方"
+        }
+      ]
+    },
+    {
+      "word": "thief",
+      "phonetic": "/θiːf/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "小偷，贼",
+          "usage": "复数形式为 thieves，指偷窃的人"
+        }
+      ]
+    },
+    {
+      "word": "honest",
+      "phonetic": "/ˈɒnɪst/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "诚实的，正直的",
+          "usage": "形容人不欺骗，实话实说"
+        }
+      ]
+    },
+    {
+      "word": "percent",
+      "phonetic": "/pəˈsent/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "百分之...，百分比",
+          "usage": "表示比例，常用符号 %"
+        }
+      ]
+    },
+    {
+      "word": "wrap",
+      "phonetic": "/ræp/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "包裹，包扎",
+          "usage": "wrap up 表示包裹起来"
+        }
+      ]
+    },
+    {
+      "word": "newspaper",
+      "phonetic": "/ˈnjuːzpeɪpə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "报纸",
+          "usage": "用于阅读新闻或包裹东西"
+        }
+      ]
+    },
+    {
+      "word": "contain",
+      "phonetic": "/kənˈteɪn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "包含，含有",
+          "usage": "表示某物内部装有某物"
+        }
+      ]
+    },
+    {
+      "word": "return",
+      "phonetic": "/rɪˈtɜːn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "归还，返回",
+          "usage": "return sth. to sb. 表示归还某物给某人"
+        }
+      ]
+    },
+    {
+      "word": "sum",
+      "phonetic": "/sʌm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "金额，总数",
+          "usage": "a sum of money 表示一笔钱"
+        }
+      ]
+    },
+    {
+      "word": "note",
+      "phonetic": "/nəʊt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "纸条，便条",
+          "usage": "手写的简短信息"
+        }
+      ]
+    },
+    {
+      "word": "door",
+      "phonetic": "/dɔː(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "门",
+          "usage": "front door 指前门，建筑物入口"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "take savings to the post office",
+      "usage": "把积蓄带到邮局去",
+      "examples": [
+        {
+          "en": "She took her savings to the post office to send them to her son.",
+          "zh": "她把积蓄带到邮局寄给儿子。"
+        }
+      ]
+    },
+    {
+      "phrase": "must have been",
+      "usage": "一定曾经是（对过去的肯定推测）",
+      "examples": [
+        {
+          "en": "The wallet must have been found by someone.",
+          "zh": "钱包一定是被某人发现了。"
+        }
+      ]
+    },
+    {
+      "phrase": "be wrapped up in newspaper",
+      "usage": "用报纸包裹着",
+      "examples": [
+        {
+          "en": "The package was wrapped up in newspaper.",
+          "zh": "包裹用报纸包着。"
+        }
+      ]
+    },
+    {
+      "phrase": "in time",
+      "usage": "最终，总有一天",
+      "examples": [
+        {
+          "en": "In time, all the money was paid back.",
+          "zh": "最终，所有的钱都还回来了。"
+        }
+      ]
+    },
+    {
+      "phrase": "pay back",
+      "usage": "偿还，归还（钱）",
+      "examples": [
+        {
+          "en": "He paid back the money he had borrowed.",
+          "zh": "他还清了借的钱。"
+        }
+      ]
+    },
+    {
+      "phrase": "a large sum of money",
+      "usage": "一大笔钱",
+      "examples": [
+        {
+          "en": "A large sum of money was lost.",
+          "zh": "一大笔钱丢失了。"
+        }
+      ]
+    },
+    {
+      "phrase": "pass by",
+      "usage": "（时间）流逝，经过",
+      "examples": [
+        {
+          "en": "Three months passed by before the wallet was found.",
+          "zh": "三个月过去了，钱包才被找到。"
+        }
+      ]
+    },
+    {
+      "phrase": "together with",
+      "usage": "连同，和...一起",
+      "examples": [
+        {
+          "en": "The wallet contained the money together with a note.",
+          "zh": "钱包里有钱和一张纸条。"
+        }
+      ]
+    },
+    {
+      "phrase": "only 50 per cent a thief",
+      "usage": "只是百分之五十的小偷",
+      "examples": [
+        {
+          "en": "I'm only 50 per cent a thief now!",
+          "zh": "我现在只是百分之五十的小偷！"
+        }
+      ]
+    },
+    {
+      "phrase": "learnt that",
+      "usage": "得知/听说...",
+      "examples": [
+        {
+          "en": "The whole village soon learnt that money had been lost.",
+          "zh": "整个村庄很快得知钱丢了。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "must have + 过去分词（对过去的肯定推测）",
+      "definition": "表示对过去发生的事情的肯定推测，意为'一定已经...'",
+      "structure": "主语 + must have + 过去分词 + ...",
+      "usage": "用于根据证据或理由推断过去发生的事情，语气肯定",
+      "examples": [
+        {
+          "en": "Sam was sure that the wallet must have been found by one of the villagers.",
+          "zh": "萨姆确信钱包一定是被某个村民发现了。"
+        },
+        {
+          "en": "She must have received my letter.",
+          "zh": "她一定收到了我的信。"
+        }
+      ]
+    },
+    {
+      "title": "过去完成时（Past Perfect Tense）",
+      "definition": "表示在过去某一时刻之前已经完成的动作",
+      "structure": "had + 过去分词",
+      "usage": "用于叙述过去事件时，表示先发生的动作，常与一般过去时连用",
+      "examples": [
+        {
+          "en": "Sam had lost his wallet while taking his savings to the post office.",
+          "zh": "萨姆在把积蓄带到邮局的路上丢了钱包。"
+        },
+        {
+          "en": "Three months passed after the wallet had been lost.",
+          "zh": "钱包丢失三个月后。"
+        }
+      ]
+    },
+    {
+      "title": "被动语态（Passive Voice）",
+      "definition": "强调动作的承受者而非执行者",
+      "structure": "be + 过去分词",
+      "usage": "当动作的承受者更重要或不知道执行者时使用",
+      "examples": [
+        {
+          "en": "The wallet must have been found.",
+          "zh": "钱包一定被（某人）发现了。"
+        },
+        {
+          "en": "All Sam's money was paid back in this way.",
+          "zh": "萨姆所有的钱都以这种方式被还了回来。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "主语 + must have + 过去分词",
+      "original": {
+        "en": "The wallet must have been found by one of the villagers.",
+        "zh": "钱包一定是被某个村民发现了。"
+      },
+      "imitations": [
+        {
+          "en": "The book must have been taken by Tom.",
+          "zh": "那本书一定是被汤姆拿走了。"
+        },
+        {
+          "en": "She must have forgotten our appointment.",
+          "zh": "她一定忘了我们的约定。"
+        }
+      ]
+    },
+    {
+      "pattern": "It had been + 过去分词 + in/with...",
+      "original": {
+        "en": "It had been wrapped up in newspaper and it contained half the money.",
+        "zh": "它用报纸包着，里面有丢失金额的一半。"
+      },
+      "imitations": [
+        {
+          "en": "The letter had been hidden in the drawer.",
+          "zh": "信被藏在抽屉里。"
+        },
+        {
+          "en": "The money had been placed in a safe box.",
+          "zh": "钱被放在保险箱里。"
+        }
+      ]
+    },
+    {
+      "pattern": "In time, + 主语 + was/were + 过去分词",
+      "original": {
+        "en": "In time, all Sam's money was paid back in this way.",
+        "zh": "最终，萨姆所有的钱都以这种方式还了回来。"
+      },
+      "imitations": [
+        {
+          "en": "In time, the problem was solved.",
+          "zh": "最终，问题被解决了。"
+        },
+        {
+          "en": "In time, the truth was known by everyone.",
+          "zh": "最终，真相被所有人知道了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Only + 数字/百分比 + 名词/名词短语",
+      "original": {
+        "en": "Only 50 per cent a thief!",
+        "zh": "只是百分之五十的小偷！"
+      },
+      "imitations": [
+        {
+          "en": "Only 20 per cent of the work is done.",
+          "zh": "只完成了百分之二十的工作。"
+        },
+        {
+          "en": "Only half a loaf of bread left.",
+          "zh": "只剩下的面包了。"
+        }
+      ]
+    }
+  ]
+}

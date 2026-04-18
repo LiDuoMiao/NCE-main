@@ -1,0 +1,398 @@
+{
+  "book": "NCE2",
+  "lesson": "15",
+  "title": "What was the good news?",
+  "vocabulary": [
+    {
+      "word": "secretary",
+      "phonetic": "/ˈsekrətri/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "秘书",
+          "usage": "指公司或机构中处理文书和管理工作的人"
+        }
+      ]
+    },
+    {
+      "word": "nervous",
+      "phonetic": "/ˈnɜːvəs/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "紧张的；焦虑的",
+          "usage": "描述人感到不安或紧张的状态"
+        }
+      ]
+    },
+    {
+      "word": "afford",
+      "phonetic": "/əˈfɔːd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "负担得起",
+          "usage": "常与can/could连用，表示有能力支付或做某事"
+        }
+      ]
+    },
+    {
+      "word": "firm",
+      "phonetic": "/fɜːm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "公司；商行",
+          "usage": "指商业机构或企业"
+        }
+      ]
+    },
+    {
+      "word": "salary",
+      "phonetic": "/ˈsæləri/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "薪水；工资",
+          "usage": "通常指按月或按年发放的固定工资"
+        }
+      ]
+    },
+    {
+      "word": "interrupt",
+      "phonetic": "/ˌɪntəˈrʌpt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "打断；插嘴",
+          "usage": "指在别人说话时打断对方"
+        }
+      ]
+    },
+    {
+      "word": "extra",
+      "phonetic": "/ˈekstrə/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "额外的；附加的",
+          "usage": "表示超出平常或标准的部分"
+        }
+      ]
+    },
+    {
+      "word": "thousand",
+      "phonetic": "/ˈθaʊzənd/",
+      "meanings": [
+        {
+          "pos": "number",
+          "meaning": "千",
+          "usage": "表示数字1000，用于具体数额"
+        }
+      ]
+    },
+    {
+      "word": "business",
+      "phonetic": "/ˈbɪznəs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "生意；业务",
+          "usage": "指商业活动或公司经营的状况"
+        }
+      ]
+    },
+    {
+      "word": "turn",
+      "phonetic": "/tɜːn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "轮次；机会",
+          "usage": "my turn表示轮到某人的时候"
+        }
+      ]
+    },
+    {
+      "word": "receive",
+      "phonetic": "/rɪˈsiːv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "收到；得到",
+          "usage": "指被动地获得或收到某物"
+        }
+      ]
+    },
+    {
+      "word": "weak",
+      "phonetic": "/wiːk/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "虚弱的；微弱的",
+          "usage": "形容声音小或身体不强壮"
+        }
+      ]
+    },
+    {
+      "word": "smile",
+      "phonetic": "/smaɪl/",
+      "meanings": [
+        {
+          "pos": "verb/noun",
+          "meaning": "微笑",
+          "usage": "作动词时表示微笑的动作，作名词时表示微笑的表情"
+        }
+      ]
+    },
+    {
+      "word": "already",
+      "phonetic": "/ɔːlˈredɪ/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "已经",
+          "usage": "表示某事在说话之前已经发生或完成"
+        }
+      ]
+    },
+    {
+      "word": "look up",
+      "phonetic": "/lʊk ʌp/",
+      "meanings": [
+        {
+          "pos": "phrasal verb",
+          "meaning": "抬头看；向上看",
+          "usage": "指将视线从低处移向高处或从正在做的事抬起头"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "look up from",
+      "usage": "从...抬起头/停下手中的事抬头看",
+      "examples": [
+        {
+          "en": "He did not look up from his desk when I entered.",
+          "zh": "我进去时他没有从桌子上抬起头。"
+        }
+      ]
+    },
+    {
+      "phrase": "sit down",
+      "usage": "坐下",
+      "examples": [
+        {
+          "en": "After I had sat down, he said that business was very bad.",
+          "zh": "我坐下后，他说生意很糟糕。"
+        }
+      ]
+    },
+    {
+      "phrase": "can't afford to do something",
+      "usage": "负担不起做某事",
+      "examples": [
+        {
+          "en": "The firm could not afford to pay such large salaries.",
+          "zh": "公司负担不起这么高的工资。"
+        }
+      ]
+    },
+    {
+      "phrase": "my turn has come",
+      "usage": "轮到我了/我的机会来了",
+      "examples": [
+        {
+          "en": "I knew that my turn had come.",
+          "zh": "我知道轮到我了。"
+        }
+      ]
+    },
+    {
+      "phrase": "in a weak voice",
+      "usage": "用微弱的/怯生生的声音",
+      "examples": [
+        {
+          "en": "I said in a weak voice.",
+          "zh": "我用微弱的声音说道。"
+        }
+      ]
+    },
+    {
+      "phrase": "don't interrupt",
+      "usage": "不要打断（别人说话）",
+      "examples": [
+        {
+          "en": "Don't interrupt, he said.",
+          "zh": "不要打断，他说。"
+        }
+      ]
+    },
+    {
+      "phrase": "receive an extra",
+      "usage": "收到额外的.../获得额外的...",
+      "examples": [
+        {
+          "en": "I would receive an extra thousand pounds a year.",
+          "zh": "我每年将额外获得一千英镑。"
+        }
+      ]
+    },
+    {
+      "phrase": "tell someone that...",
+      "usage": "告诉某人...",
+      "examples": [
+        {
+          "en": "The secretary told me that Mr. Harmsworth would see me.",
+          "zh": "秘书告诉我哈姆斯沃斯先生要见我。"
+        }
+      ]
+    },
+    {
+      "phrase": "leave the firm",
+      "usage": "离开公司/离职",
+      "examples": [
+        {
+          "en": "Twenty people had already left.",
+          "zh": "已经有二十个人离开了。"
+        }
+      ]
+    },
+    {
+      "phrase": "feel nervous",
+      "usage": "感到紧张",
+      "examples": [
+        {
+          "en": "I felt very nervous when I went into his office.",
+          "zh": "我走进他办公室时感到很紧张。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "间接引语（Reported Speech）",
+      "definition": "间接引语是用自己的话转述别人的话，通常使用that引导的宾语从句，且时态要后退（过去时推进一位）。",
+      "structure": "主句动词（said/told）+ that + 从句",
+      "usage": "用于转述他人说过的话，常见的动词有say、tell、ask等。",
+      "examples": [
+        {
+          "en": "The secretary told me that Mr. Harmsworth would see me.",
+          "zh": "秘书告诉我哈姆斯沃斯先生要见我。"
+        },
+        {
+          "en": "He said that business was very bad.",
+          "zh": "他说生意很糟糕。"
+        },
+        {
+          "en": "He told me I would receive an extra thousand pounds a year.",
+          "zh": "他告诉我我每年将额外获得一千英镑。"
+        }
+      ]
+    },
+    {
+      "title": "过去完成时（Past Perfect Tense）",
+      "definition": "过去完成时表示在过去某一时刻之前已经发生的动作或状态，由had + 过去分词构成。",
+      "structure": "had + 过去分词",
+      "usage": "用于描述两个过去的动作，先发生的动作用过去完成时，后发生的动作用一般过去时。",
+      "examples": [
+        {
+          "en": "After I had sat down, he said...",
+          "zh": "我坐下后，他说..."
+        },
+        {
+          "en": "Twenty people had already left.",
+          "zh": "已经有二十个人离开了。"
+        }
+      ]
+    },
+    {
+      "title": "would + 动词原形（将来过去时）",
+      "definition": "在间接引语中，原来的将来时态will变成would，表示从过去的角度看将要发生的事。",
+      "structure": "would + 动词原形",
+      "usage": "用于过去将来的情况，在转述时态后退的规则下，will变为would。",
+      "examples": [
+        {
+          "en": "Mr. Harmsworth would see me.",
+          "zh": "哈姆斯沃斯先生将要见我。"
+        },
+        {
+          "en": "I would receive an extra thousand pounds a year.",
+          "zh": "我将每年获得额外的一千英镑。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "主语 + told me that + 从句",
+      "original": {
+        "en": "The secretary told me that Mr. Harmsworth would see me.",
+        "zh": "秘书告诉我哈姆斯沃斯先生要见我。"
+      },
+      "imitations": [
+        {
+          "en": "My mother told me that I would get a promotion.",
+          "zh": "我妈妈告诉我我将获得晋升。"
+        },
+        {
+          "en": "The teacher told us that the exam would be difficult.",
+          "zh": "老师告诉我们考试将会很难。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + couldn't afford to + 动词原形",
+      "original": {
+        "en": "The firm could not afford to pay such large salaries.",
+        "zh": "公司负担不起这么高的工资。"
+      },
+      "imitations": [
+        {
+          "en": "I couldn't afford to buy a new car.",
+          "zh": "我买不起新车。"
+        },
+        {
+          "en": "She couldn't afford to travel abroad.",
+          "zh": "她负担不起出国旅行。"
+        }
+      ]
+    },
+    {
+      "pattern": "After + 主语 + had + 过去分词, 主语 + 过去式",
+      "original": {
+        "en": "After I had sat down, he said that business was very bad.",
+        "zh": "我坐下后，他说生意很糟糕。"
+      },
+      "imitations": [
+        {
+          "en": "After I had finished my homework, I went to bed.",
+          "zh": "我完成作业后就去睡觉了。"
+        },
+        {
+          "en": "After he had left, we started the meeting.",
+          "zh": "他离开后，我们开始了会议。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + would receive + 金额 + a year/month",
+      "original": {
+        "en": "I would receive an extra thousand pounds a year!",
+        "zh": "我每年将额外获得一千英镑！"
+      },
+      "imitations": [
+        {
+          "en": "She would receive 500 dollars a month as allowance.",
+          "zh": "她每月将获得500美元作为零用钱。"
+        },
+        {
+          "en": "He would receive a bonus of 2000 yuan a year.",
+          "zh": "他每年将获得2000元的奖金。"
+        }
+      ]
+    }
+  ]
+}

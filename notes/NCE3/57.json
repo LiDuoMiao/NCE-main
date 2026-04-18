@@ -1,0 +1,395 @@
+{
+  "book": "NCE3",
+  "lesson": "57",
+  "title": "Lesson 57",
+  "vocabulary": [
+    {
+      "word": "alien",
+      "phonetic": "/ˈeɪliən/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "meaning": "陌生的；异国的",
+          "usage": "形容对某人来说不熟悉、格格不入的事物"
+        },
+        {
+          "pos": "n.",
+          "meaning": "外国人；外星人",
+          "usage": "指来自其他国家的人或生物"
+        }
+      ]
+    },
+    {
+      "word": "tragic",
+      "phonetic": "/ˈtrædʒɪk/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "meaning": "悲剧的；悲惨的",
+          "usage": "用于描述非常悲伤、令人痛心的事件或情况"
+        }
+      ]
+    },
+    {
+      "word": "emigrate",
+      "phonetic": "/ˈemɪɡreɪt/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "meaning": "移居外国；移民",
+          "usage": "指从本国移居到另一个国家，强调离开的动作"
+        }
+      ]
+    },
+    {
+      "word": "absorb",
+      "phonetic": "/əbˈzɔːb/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "meaning": "吸收；使全神贯注",
+          "usage": "be absorbed in表示专注于某事，沉迷其中"
+        }
+      ]
+    },
+    {
+      "word": "grieve",
+      "phonetic": "/ɡriːv/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "meaning": "感到悲伤；哀悼",
+          "usage": "指因失去某人或某事而感到悲伤和痛苦"
+        }
+      ]
+    },
+    {
+      "word": "mortally",
+      "phonetic": "/ˈmɔːtəli/",
+      "meanings": [
+        {
+          "pos": "adv.",
+          "meaning": "致命地；极其",
+          "usage": "修饰形容词或动词，表示达到致死的程度"
+        }
+      ]
+    },
+    {
+      "word": "milestone",
+      "phonetic": "/ˈmaɪlstəʊn/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "里程碑；重大事件",
+          "usage": "字面意思是道路上的里程标记，比喻人生或历史上的重要阶段"
+        }
+      ]
+    },
+    {
+      "word": "positive",
+      "phonetic": "/ˈpɒzətɪv/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "meaning": "确信的；积极的",
+          "usage": "表示对某事非常有把握、确定无疑"
+        }
+      ]
+    },
+    {
+      "word": "spire",
+      "phonetic": "/ˈspaɪə(r)/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "尖顶；尖塔",
+          "usage": "通常指教堂或塔楼顶部的尖形结构"
+        }
+      ]
+    },
+    {
+      "word": "submerge",
+      "phonetic": "/səbˈmɜːdʒ/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "meaning": "淹没；浸没",
+          "usage": "指将某物置于水面以下，或被水覆盖"
+        }
+      ]
+    },
+    {
+      "word": "reservoir",
+      "phonetic": "/ˈrezəvwɑː(r)/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "水库；蓄水池",
+          "usage": "指人工建造的用于储水的水体"
+        }
+      ]
+    },
+    {
+      "word": "cottage",
+      "phonetic": "/ˈkɒtɪdʒ/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "小屋；村舍",
+          "usage": "指乡村的小房子，通常只有一层或两层"
+        }
+      ]
+    },
+    {
+      "word": "retract",
+      "phonetic": "/rɪˈtrækt/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "meaning": "收回；撤回",
+          "usage": "指收回说过的话或采取的行动，也可指缩回"
+        }
+      ]
+    },
+    {
+      "word": "nightmare",
+      "phonetic": "/ˈnaɪtmeə(r)/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "噩梦；可怕的事",
+          "usage": "指令人恐惧或痛苦的梦，也比喻可怕的经历"
+        }
+      ]
+    },
+    {
+      "word": "glance",
+      "phonetic": "/ɡlɑːns/",
+      "meanings": [
+        {
+          "pos": "n./v.",
+          "meaning": "一瞥；扫视",
+          "usage": "指快速地看一眼，强调动作的短暂性"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "cool off",
+      "usage": "使冷却；冷静下来",
+      "examples": [
+        {
+          "en": "I stopped to let the car cool off.",
+          "zh": "我停下来让汽车冷却下来。"
+        }
+      ]
+    },
+    {
+      "phrase": "be absorbed in",
+      "usage": "专心于；全神贯注于",
+      "examples": [
+        {
+          "en": "He became absorbed in making a new life for the two of us.",
+          "zh": "他全神贯注地为我们俩创造新生活。"
+        }
+      ]
+    },
+    {
+      "phrase": "lack for nothing",
+      "usage": "什么都不缺",
+      "examples": [
+        {
+          "en": "I lacked for nothing, for he was both father and mother to me.",
+          "zh": "我什么都不缺，因为他既当父亲又当母亲。"
+        }
+      ]
+    },
+    {
+      "phrase": "take a wrong turning",
+      "usage": "走错路；拐错弯",
+      "examples": [
+        {
+          "en": "I decided that I must have taken a wrong turning somewhere.",
+          "zh": "我认定我一定是某个地方拐错弯了。"
+        }
+      ]
+    },
+    {
+      "phrase": "in the far distance",
+      "usage": "在远处",
+      "examples": [
+        {
+          "en": "The spire of the church of our village showing in the far distance.",
+          "zh": "我们村庄教堂的尖顶在远处显现出来。"
+        }
+      ]
+    },
+    {
+      "phrase": "in sight",
+      "usage": "看得见；在视野中",
+      "examples": [
+        {
+          "en": "There was nobody in sight to help me.",
+          "zh": "看不到有任何人在场能帮我。"
+        }
+      ]
+    },
+    {
+      "phrase": "come back",
+      "usage": "回来；返回",
+      "examples": [
+        {
+          "en": "He always meant to go back one day, but not to stay.",
+          "zh": "他一直打算有一天回去，但不是为了留下来。"
+        }
+      ]
+    },
+    {
+      "phrase": "make a promise",
+      "usage": "许诺；承诺",
+      "examples": [
+        {
+          "en": "He made me promise to go on my own.",
+          "zh": "他让我答应独自去。"
+        }
+      ]
+    },
+    {
+      "phrase": "wonder what to do",
+      "usage": "不知道该做什么",
+      "examples": [
+        {
+          "en": "As I was wondering what to do next, a man appeared.",
+          "zh": "正当我在想下一步该怎么办时，一个人出现了。"
+        }
+      ]
+    },
+    {
+      "phrase": "point to",
+      "usage": "指向",
+      "examples": [
+        {
+          "en": "This time he pointed to the lake.",
+          "zh": "这次他指向了那个湖。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去完成时（Past Perfect Tense）",
+      "definition": "表示在过去某一时间之前已经完成的动作或状态，即\"过去的过去\"",
+      "structure": "had + 过去分词",
+      "usage": "当叙述过去发生的事件时，需要表示更早发生的动作或情况时使用。常与by the time, before, after等连用，或用于宾语从句中表示过去的过去。",
+      "examples": [
+        {
+          "en": "I had expected to be near my objective by now.",
+          "zh": "我原本以为现在已经接近目的地了。"
+        },
+        {
+          "en": "I was only five when my father had taken me abroad.",
+          "zh": "我父亲带我出国时我只有五岁。"
+        }
+      ]
+    },
+    {
+      "title": "过去完成进行时（Past Perfect Continuous）",
+      "definition": "表示过去某个时间之前一直在进行的动作",
+      "structure": "had been + 动词-ing形式",
+      "usage": "强调动作的持续性和进行过程，常与for或since连用。",
+      "examples": [
+        {
+          "en": "He had been describing over and over again what we should see.",
+          "zh": "他曾一遍又一遍地描述我们会看到什么。"
+        }
+      ]
+    },
+    {
+      "title": "used to 与 would 的区别",
+      "definition": "used to表示过去的习惯性动作或状态，常含有与现在对比的意味；would只表示过去反复发生的动作，不表示状态",
+      "structure": "used to + 动词原形 / would + 动词原形",
+      "usage": "used to可以表示\"曾经是\"（状态）或\"过去常常\"（动作），而would只用于重复的动作。",
+      "examples": [
+        {
+          "en": "He always meant to go back one day, but not to stay.",
+          "zh": "他一直打算有一天回去，但不是为了留下来。"
+        },
+        {
+          "en": "My father had described over and over again what we should see.",
+          "zh": "我父亲曾一遍又一遍地描述我们会看到什么。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "I had expected to + 动词原形, but...",
+      "original": {
+        "en": "I had expected to be near my objective by now, but everything still seemed alien to me.",
+        "zh": "我原本以为现在已经接近目的地了，但一切对我来说仍然很陌生。"
+      },
+      "imitations": [
+        {
+          "en": "I had expected to finish the work on time, but I ran out of time.",
+          "zh": "我原本以为能按时完成工作，但我时间不够了。"
+        },
+        {
+          "en": "She had expected to meet him at the station, but he never came.",
+          "zh": "她原本以为会在车站见到他，但他根本没来。"
+        }
+      ]
+    },
+    {
+      "pattern": "It was not that..., but...",
+      "original": {
+        "en": "It was not that I actually remembered anything at all. But my father had described over and over again...",
+        "zh": "并不是我真的记得什么。而是我父亲曾一遍又一遍地描述……"
+      },
+      "imitations": [
+        {
+          "en": "It was not that she didn't want to help, but she really had no time.",
+          "zh": "并不是她不想帮忙，而是她真的没有时间。"
+        },
+        {
+          "en": "It was not that he was lazy, but he simply didn't know how to start.",
+          "zh": "并不是他懒惰，而是他根本不知道如何开始。"
+        }
+      ]
+    },
+    {
+      "pattern": "The curious thing was that...",
+      "original": {
+        "en": "The curious thing was that the lake was not marked on the map.",
+        "zh": "奇怪的是那个湖在地图上并没有标注。"
+      },
+      "imitations": [
+        {
+          "en": "The curious thing was that he knew the answer but refused to tell.",
+          "zh": "奇怪的是他知道答案却不肯说。"
+        },
+        {
+          "en": "The curious thing was that the door was open but nobody was inside.",
+          "zh": "奇怪的是门开着但里面没有人。"
+        }
+      ]
+    },
+    {
+      "pattern": "...no longer + 动词/存在",
+      "original": {
+        "en": "The village no longer existed because it had been submerged.",
+        "zh": "那个村庄不再存在了，因为它已经被淹没了。"
+      },
+      "imitations": [
+        {
+          "en": "He no longer lives in this city.",
+          "zh": "他不再住在这个城市了。"
+        },
+        {
+          "en": "This factory no longer produces plastic bags.",
+          "zh": "这家工厂不再生产塑料袋了。"
+        }
+      ]
+    }
+  ]
+}

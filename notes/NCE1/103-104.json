@@ -1,0 +1,427 @@
+{
+  "book": "NCE1",
+  "lesson": "103-104",
+  "title": "Lesson 103",
+  "vocabulary": [
+    {
+      "word": "exam",
+      "phonetic": "/ɪɡˈzæm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "考试",
+          "usage": "指正式的测试或检查"
+        }
+      ]
+    },
+    {
+      "word": "test",
+      "phonetic": "/test/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "测试，测验",
+          "usage": "与exam同义，日常生活中更常用"
+        }
+      ]
+    },
+    {
+      "word": "pass",
+      "phonetic": "/pɑːs/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "通过（考试）",
+          "usage": "指在考试或测试中取得合格成绩"
+        },
+        {
+          "pos": "verb",
+          "meaning": "经过，穿过",
+          "usage": "表示从某处经过"
+        }
+      ]
+    },
+    {
+      "word": "fail",
+      "phonetic": "/feɪl/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "不及格，未通过",
+          "usage": "指在考试中没有达到及格标准"
+        }
+      ]
+    },
+    {
+      "word": "mathematics",
+      "phonetic": "/ˌmæθˈmætɪks/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "数学",
+          "usage": "学校必修科目"
+        }
+      ]
+    },
+    {
+      "word": "question",
+      "phonetic": "/ˈkwestʃən/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "问题，疑问",
+          "usage": "指提问或需要回答的内容"
+        }
+      ]
+    },
+    {
+      "word": "paper",
+      "phonetic": "/ˈpeɪpər/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "试卷，纸张",
+          "usage": "指考试用的试卷或纸"
+        }
+      ]
+    },
+    {
+      "word": "easy",
+      "phonetic": "/ˈiːzi/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "容易的，简单的",
+          "usage": "形容某事不难做"
+        }
+      ]
+    },
+    {
+      "word": "difficult",
+      "phonetic": "/ˈdɪfɪkəlt/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "困难的，难的",
+          "usage": "形容需要努力才能完成的事"
+        }
+      ]
+    },
+    {
+      "word": "awful",
+      "phonetic": "/ˈɔːfʊl/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "糟糕的，可怕的",
+          "usage": "形容非常不好或令人不悦的事物"
+        }
+      ]
+    },
+    {
+      "word": "perhaps",
+      "phonetic": "/pərˈhæps/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "也许，可能",
+          "usage": "表示不确定或可能性"
+        }
+      ]
+    },
+    {
+      "word": "cheer",
+      "phonetic": "/tʃɪər/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "使振作，使高兴",
+          "usage": "cheer up表示让人高兴起来"
+        }
+      ]
+    },
+    {
+      "word": "mark",
+      "phonetic": "/mɑːrk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "分数，标记",
+          "usage": "指考试或作业的成绩"
+        }
+      ]
+    },
+    {
+      "word": "enough",
+      "phonetic": "/ɪˈnʌf/",
+      "meanings": [
+        {
+          "pos": "adj/adv",
+          "meaning": "足够的（地）",
+          "usage": "表示满足某种需要的程度"
+        }
+      ]
+    },
+    {
+      "word": "rest",
+      "phonetic": "/rest/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "其余的，剩下的",
+          "usage": "the rest表示剩余的部分"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "How long did... last?",
+      "usage": "用于询问某事持续了多长时间",
+      "examples": [
+        {
+          "en": "How long did the exam last?",
+          "zh": "考试持续了多久？"
+        },
+        {
+          "en": "How long did the meeting last?",
+          "zh": "会议持续了多久？"
+        }
+      ]
+    },
+    {
+      "phrase": "Not too bad",
+      "usage": "表示还不错，还可以",
+      "examples": [
+        {
+          "en": "How was the exam? Not too bad.",
+          "zh": "考试怎么样？还不错。"
+        }
+      ]
+    },
+    {
+      "phrase": "pass/fail the exam",
+      "usage": "通过/未通过考试",
+      "examples": [
+        {
+          "en": "I think I passed in English.",
+          "zh": "我想我英语通过了。"
+        },
+        {
+          "en": "I think I failed the French paper.",
+          "zh": "我想我法语没考过。"
+        }
+      ]
+    },
+    {
+      "phrase": "answer the questions",
+      "usage": "回答问题",
+      "examples": [
+        {
+          "en": "I could answer sixteen of the questions.",
+          "zh": "我能回答16道题。"
+        }
+      ]
+    },
+    {
+      "phrase": "too + adj. for me",
+      "usage": "表示对某人来说太...（而不适合）",
+      "examples": [
+        {
+          "en": "They were too difficult for me.",
+          "zh": "对我来说它们太难了。"
+        },
+        {
+          "en": "The exam was too hard for me.",
+          "zh": "对我来说考试太难了。"
+        }
+      ]
+    },
+    {
+      "phrase": "adj. enough (for me)",
+      "usage": "表示足够...（的程度）",
+      "examples": [
+        {
+          "en": "The paper wasn't easy enough for me.",
+          "zh": "试卷对我来说不够简单。"
+        }
+      ]
+    },
+    {
+      "phrase": "cheer up",
+      "usage": "振作起来，高兴起来",
+      "examples": [
+        {
+          "en": "Oh, cheer up!",
+          "zh": "哦，振作起来！"
+        }
+      ]
+    },
+    {
+      "phrase": "didn't do too badly",
+      "usage": "表示做得还不错，不是很糟糕",
+      "examples": [
+        {
+          "en": "Perhaps we didn't do too badly.",
+          "zh": "也许我们做得还不错。"
+        }
+      ]
+    },
+    {
+      "phrase": "write a word",
+      "usage": "写一个字（强调什么都没写）",
+      "examples": [
+        {
+          "en": "He didn't write a word!",
+          "zh": "他一个字都没写！"
+        }
+      ]
+    },
+    {
+      "phrase": "hate + doing sth",
+      "usage": "讨厌做某事",
+      "examples": [
+        {
+          "en": "I hate them.",
+          "zh": "我讨厌它们（考试）。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "一般过去时特殊疑问句",
+      "definition": "询问过去发生的事情的时间、原因、方式等信息的疑问句",
+      "structure": "疑问词 + did + 主语 + 动词原形 + 其他？",
+      "usage": "用于询问过去动作的具体信息，如时间、原因等",
+      "examples": [
+        {
+          "en": "How long did the exam last?",
+          "zh": "考试持续了多久？"
+        },
+        {
+          "en": "What did you do yesterday?",
+          "zh": "你昨天做了什么？"
+        },
+        {
+          "en": "When did she leave?",
+          "zh": "她什么时候离开的？"
+        }
+      ]
+    },
+    {
+      "title": "too...to 与 enough...to 结构",
+      "definition": "表达'太...而不能'和'足够...可以'的含义",
+      "structure": "too + 形容词 + (for sb) + to do sth / 形容词 + enough + (for sb) + to do sth",
+      "usage": "too...to表示否定含义，enough...to表示肯定含义",
+      "examples": [
+        {
+          "en": "They were too difficult for me.",
+          "zh": "它们对我来说太难了。"
+        },
+        {
+          "en": "The paper wasn't easy enough for me.",
+          "zh": "试卷对我来说不够简单。"
+        },
+        {
+          "en": "The book is easy enough to read.",
+          "zh": "这本书足够简单，可以阅读。"
+        },
+        {
+          "en": "He is too young to go to school.",
+          "zh": "他太小了，不能上学。"
+        }
+      ]
+    },
+    {
+      "title": "情态动词 could 的用法",
+      "definition": "could 表示过去的能力或可能性",
+      "structure": "主语 + could + 动词原形",
+      "usage": "表示过去能够做某事（能力）或能够做到某事（可能性）",
+      "examples": [
+        {
+          "en": "I could answer sixteen of the questions.",
+          "zh": "我能回答16道题。"
+        },
+        {
+          "en": "I couldn't answer the rest.",
+          "zh": "我答不出其余的题。"
+        },
+        {
+          "en": "Could you speak English then?",
+          "zh": "那时候你会说英语吗？"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "How long did + 主语 + 动词原形 + (其他)?",
+      "original": {
+        "en": "How long did the exam last?",
+        "zh": "考试持续了多久？"
+      },
+      "imitations": [
+        {
+          "en": "How long did the movie last?",
+          "zh": "电影持续了多久？"
+        },
+        {
+          "en": "How long did the trip last?",
+          "zh": "旅行持续了多久？"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + think + 主语 + passed/failed + in + 科目",
+      "original": {
+        "en": "I think I passed in English and Mathematics.",
+        "zh": "我想我英语和数学通过了。"
+      },
+      "imitations": [
+        {
+          "en": "I think I passed in History.",
+          "zh": "我想我历史通过了。"
+        },
+        {
+          "en": "She thinks she failed in Physics.",
+          "zh": "她认为她物理没及格。"
+        }
+      ]
+    },
+    {
+      "pattern": "too + 形容词 + for + 人称代词/名词",
+      "original": {
+        "en": "They were too difficult for me.",
+        "zh": "对我来说它们太难了。"
+      },
+      "imitations": [
+        {
+          "en": "This problem is too hard for students.",
+          "zh": "这个问题对学生来说太难了。"
+        },
+        {
+          "en": "The book is too boring for children.",
+          "zh": "这本书对孩子来说太无聊了。"
+        }
+      ]
+    },
+    {
+      "pattern": "形容词 + enough + (for + 人称代词/名词) + to do sth",
+      "original": {
+        "en": "The English paper wasn't easy enough for me.",
+        "zh": "英语试卷对我来说不够简单。"
+      },
+      "imitations": [
+        {
+          "en": "The seat isn't comfortable enough for him.",
+          "zh": "这个座位对他来说不够舒服。"
+        },
+        {
+          "en": "The room is big enough for five people.",
+          "zh": "这个房间足够大，可以容纳五个人。"
+        }
+      ]
+    }
+  ]
+}

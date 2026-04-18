@@ -1,0 +1,477 @@
+{
+  "book": "NCE2",
+  "lesson": "95",
+  "title": "Why was the Ambassador particularly lucky?",
+  "vocabulary": [
+    {
+      "word": "ambassador",
+      "phonetic": "/æmˈbæsədə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "大使",
+          "usage": "指驻外使节，代表国家"
+        }
+      ]
+    },
+    {
+      "word": "pale",
+      "phonetic": "/peɪl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "苍白的；灰白的",
+          "usage": "形容脸色不好或因恐惧、疾病导致的面色发白"
+        }
+      ]
+    },
+    {
+      "word": "frightful",
+      "phonetic": "/ˈfraɪtfl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "可怕的；糟糕的",
+          "usage": "形容非常糟糕、令人不悦的状况"
+        }
+      ]
+    },
+    {
+      "word": "fire extinguisher",
+      "phonetic": "/faɪə(r) ɪkˈstɪŋɡwɪʃə(r)/",
+      "meanings": [
+        {
+          "pos": "noun phrase",
+          "meaning": "灭火器",
+          "usage": "用于扑灭火灾的设备"
+        }
+      ]
+    },
+    {
+      "word": "basement",
+      "phonetic": "/ˈbeɪsmənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "地下室",
+          "usage": "建筑物地下层的房间"
+        }
+      ]
+    },
+    {
+      "word": "immediately",
+      "phonetic": "/ɪˈmiːdiətli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "立即；马上",
+          "usage": "表示即刻、没有延迟"
+        }
+      ]
+    },
+    {
+      "word": "aim",
+      "phonetic": "/eɪm/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "瞄准；对准",
+          "usage": "将某物指向目标"
+        },
+        {
+          "pos": "verb",
+          "meaning": "旨在；目的是",
+          "usage": "表示目的或意图"
+        }
+      ]
+    },
+    {
+      "word": "posted",
+      "phonetic": "/pəʊstɪd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "派遣；任命",
+          "usage": "指派人到某地工作（常用被动语态）"
+        }
+      ]
+    },
+    {
+      "word": "accurate",
+      "phonetic": "/ˈækjərət/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "准确的；精确的",
+          "usage": "形容射击、描述等非常精准"
+        }
+      ]
+    },
+    {
+      "word": "fortunately",
+      "phonetic": "/ˈfɔːtʃənətli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "幸运地",
+          "usage": "修饰整个句子，表示好运"
+        }
+      ]
+    },
+    {
+      "word": "shot",
+      "phonetic": "/ʃɒt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "射击；枪声",
+          "usage": "指开枪的动作或声音"
+        }
+      ]
+    },
+    {
+      "word": "break out",
+      "phonetic": "/breɪk aʊt/",
+      "meanings": [
+        {
+          "pos": "phrasal verb",
+          "meaning": "突然发生；爆发",
+          "usage": "指火灾、战争、疾病等突然发生"
+        }
+      ]
+    },
+    {
+      "word": "explode",
+      "phonetic": "/ɪkˈspləʊd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "爆炸；爆发",
+          "usage": "物体突然破裂释放能量"
+        }
+      ]
+    },
+    {
+      "word": "state",
+      "phonetic": "/steɪt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "状态；状况",
+          "usage": "指某人或某物的状况"
+        },
+        {
+          "pos": "noun",
+          "meaning": "州",
+          "usage": "美国的行政区域单位"
+        }
+      ]
+    },
+    {
+      "word": "shock",
+      "phonetic": "/ʃɒk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "震惊；惊吓",
+          "usage": "指因意外而受到的惊吓"
+        },
+        {
+          "pos": "verb",
+          "meaning": "使震惊",
+          "usage": "使某人感到惊讶"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "get a shock",
+      "usage": "受到惊吓；大吃一惊",
+      "examples": [
+        {
+          "en": "She got a shock when she saw the damage.",
+          "zh": "看到损坏程度，她吃了一惊。"
+        },
+        {
+          "en": "The wife got a shock when her husband returned home.",
+          "zh": "丈夫回家时，妻子吃了一惊。"
+        }
+      ]
+    },
+    {
+      "phrase": "in a frightful state",
+      "usage": "状况糟糕；处于可怕的状态",
+      "examples": [
+        {
+          "en": "His clothes were in a frightful state.",
+          "zh": "他的衣服状况很糟糕。"
+        },
+        {
+          "en": "The room was in a frightful state after the party.",
+          "zh": "聚会后房间一团糟。"
+        }
+      ]
+    },
+    {
+      "phrase": "set something on fire",
+      "usage": "放火烧某物；使燃烧",
+      "examples": [
+        {
+          "en": "Students set the Embassy on fire this morning.",
+          "zh": "今天早上学生们放火烧了大使馆。"
+        },
+        {
+          "en": "Someone set the car on fire last night.",
+          "zh": "昨晚有人放火烧了那辆车。"
+        }
+      ]
+    },
+    {
+      "phrase": "break out",
+      "usage": "（火灾、战争等）突然发生",
+      "examples": [
+        {
+          "en": "The fire broke out in the basement.",
+          "zh": "火灾在地下室突然发生。"
+        },
+        {
+          "en": "World War II broke out in 1939.",
+          "zh": "第二次世界大战在1939年爆发。"
+        }
+      ]
+    },
+    {
+      "phrase": "go down",
+      "usage": "下去；下降",
+      "examples": [
+        {
+          "en": "I went down immediately to the basement.",
+          "zh": "我立刻下楼去了地下室。"
+        },
+        {
+          "en": "She went down to the first floor.",
+          "zh": "她下到一楼去了。"
+        }
+      ]
+    },
+    {
+      "phrase": "at the time",
+      "usage": "在那时；当时",
+      "examples": [
+        {
+          "en": "Where were you at the time?",
+          "zh": "当时你在哪里？"
+        },
+        {
+          "en": "I was in my office at the time.",
+          "zh": "那时我在我的办公室。"
+        }
+      ]
+    },
+    {
+      "phrase": "Good heavens!",
+      "usage": "天哪！（表示惊讶）",
+      "examples": [
+        {
+          "en": "Good heavens! What has happened?",
+          "zh": "天哪！发生什么事了？"
+        },
+        {
+          "en": "Good heavens! Look at the time!",
+          "zh": "天哪！看看几点了！"
+        }
+      ]
+    },
+    {
+      "phrase": "notice a hole",
+      "usage": "注意到一个洞",
+      "examples": [
+        {
+          "en": "She noticed a big hole in her husband's hat.",
+          "zh": "她注意到丈夫帽子上有一个大洞。"
+        },
+        {
+          "en": "I noticed a hole in my sock.",
+          "zh": "我注意到袜子上有一个洞。"
+        }
+      ]
+    },
+    {
+      "phrase": "fire a shot",
+      "usage": "开枪；射击",
+      "examples": [
+        {
+          "en": "Someone fired a shot through my office window.",
+          "zh": "有人朝我的办公室窗户开了一枪。"
+        },
+        {
+          "en": "The police fired a shot into the air.",
+          "zh": "警察朝天鸣枪。"
+        }
+      ]
+    },
+    {
+      "phrase": "If I had been... I would not have been able to...",
+      "usage": "与过去事实相反的虚拟语气",
+      "examples": [
+        {
+          "en": "If I had been wearing it, I would not have been able to get home for lunch.",
+          "zh": "如果我当时戴着它，就不能回家吃午饭了。"
+        },
+        {
+          "en": "If I had known, I would not have come.",
+          "zh": "如果我早知道，我就不会来了。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去进行时 + when + 一般过去时 (Past Continuous + when + Past Simple)",
+      "definition": "过去进行时表示正在进行的动作，when引导的一般过去时表示突然发生的另一个动作。这个结构用于描述一个持续的动作被另一个短暂的动作打断。",
+      "structure": "主语 + was/were + 动词-ing + when + 主语 + 动词过去式",
+      "usage": "当一个正在进行的动作被另一个突然发生的动作打断时使用。when后的动作通常用一般过去时，表示意外或突然发生的事件。",
+      "examples": [
+        {
+          "en": "I was walking down the street when it started to rain.",
+          "zh": "我正在街上走，突然开始下雨了。"
+        },
+        {
+          "en": "The fire broke out in the basement. I was in my office as usual when it happened.",
+          "zh": "火灾在地下室爆发。当时我像往常一样在办公室里。"
+        },
+        {
+          "en": "She was cooking dinner when the phone rang.",
+          "zh": "她正在做饭，突然电话响了。"
+        }
+      ]
+    },
+    {
+      "title": "过去虚拟语气 (Third Conditional / Past Unreal Conditional)",
+      "definition": "表示与过去事实完全相反的情况，假设一种不可能发生的事。结构上使用if + had + 过去分词，主句使用 would have + 过去分词。",
+      "structure": "If + 主语 + had + 过去分词..., 主语 + would have + 过去分词...",
+      "usage": "用于谈论与过去事实相反的假设情况，表达后悔、遗憾或想象。",
+      "examples": [
+        {
+          "en": "If I had been wearing it, I would not have been able to get home for lunch.",
+          "zh": "如果我当时戴着它，就不能回家吃午饭了。（实际上没戴，所以能回家）"
+        },
+        {
+          "en": "If I had studied harder, I would have passed the exam.",
+          "zh": "如果我当时学习更努力些，就能通过考试了。（实际上没努力，所以没通过）"
+        },
+        {
+          "en": "If he had arrived earlier, he would have caught the train.",
+          "zh": "如果他早点到，就能赶上火车了。（实际上迟到，没赶上）"
+        }
+      ]
+    },
+    {
+      "title": "间接问句 (Indirect Questions)",
+      "definition": "将一般疑问句或特殊疑问句转换为由whether/if或疑问词引导的陈述句语序结构，常用于礼貌询问或嵌入主句中。",
+      "structure": "主句 + whether/if/疑问词 + 主语 + 动词...",
+      "usage": "在问句前有主句动词（如asked, wondered, wanted to know等）时使用，使语气更委婉或作为从句。",
+      "examples": [
+        {
+          "en": "She asked where I was at the time.",
+          "zh": "她问我当时在哪里。"
+        },
+        {
+          "en": "He wanted to know what had happened.",
+          "zh": "他想知道发生了什么事。"
+        },
+        {
+          "en": "I wondered if she was coming.",
+          "zh": "我想知道她是否会来。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "What has happened?",
+      "original": {
+        "en": "What has happened?",
+        "zh": "发生什么事了？"
+      },
+      "imitations": [
+        {
+          "en": "What has happened to your car?",
+          "zh": "你的车怎么了？"
+        },
+        {
+          "en": "What has happened to her?",
+          "zh": "她怎么了？"
+        },
+        {
+          "en": "What has happened here?",
+          "zh": "这里发生什么事了？"
+        }
+      ]
+    },
+    {
+      "pattern": "How did + 主语 + get + into such a... ?",
+      "original": {
+        "en": "How did your clothes get into such a mess?",
+        "zh": "你的衣服怎么弄得这么一团糟？"
+      },
+      "imitations": [
+        {
+          "en": "How did your room get into such a state?",
+          "zh": "你的房间怎么弄得这么乱？"
+        },
+        {
+          "en": "How did he get into such a difficult situation?",
+          "zh": "他怎么陷入这样的困境？"
+        },
+        {
+          "en": "How did your hair get into such a mess?",
+          "zh": "你的头发怎么弄得这么乱？"
+        }
+      ]
+    },
+    {
+      "pattern": "Where were you + at the time?",
+      "original": {
+        "en": "Where were you at the time?",
+        "zh": "当时你在哪里？"
+      },
+      "imitations": [
+        {
+          "en": "Where were you at the time of the accident?",
+          "zh": "事故发生时你在哪里？"
+        },
+        {
+          "en": "Where were you at the time of the robbery?",
+          "zh": "抢劫发生时你在哪里？"
+        },
+        {
+          "en": "Where was she at the time?",
+          "zh": "那时她在哪里？"
+        }
+      ]
+    },
+    {
+      "pattern": "If I had been..., I would not have been able to...",
+      "original": {
+        "en": "If I had been, I would not have been able to get home for lunch.",
+        "zh": "如果我（戴帽子）了，就不能回家吃午饭了。"
+      },
+      "imitations": [
+        {
+          "en": "If I had been there, I would have helped you.",
+          "zh": "如果我当时在场，就能帮你了。"
+        },
+        {
+          "en": "If I had studied harder, I would have passed the exam.",
+          "zh": "如果我学习更努力，就能通过考试了。"
+        },
+        {
+          "en": "If I had known about the traffic, I would not have been late.",
+          "zh": "如果我知道交通情况，就不会迟到了。"
+        }
+      ]
+    }
+  ]
+}

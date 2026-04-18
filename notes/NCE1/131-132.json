@@ -1,0 +1,402 @@
+{
+  "book": "NCE1",
+  "lesson": "131-132",
+  "title": "Lesson 131",
+  "vocabulary": [
+    {
+      "word": "abroad",
+      "phonetic": "/əˈbrɔːd/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "在国外；到国外",
+          "usage": "常与go搭配使用，表示去国外"
+        }
+      ]
+    },
+    {
+      "word": "Egypt",
+      "phonetic": "/ˈiːdʒɪpt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "埃及",
+          "usage": "专有名词，首字母大写"
+        }
+      ]
+    },
+    {
+      "word": "mind",
+      "phonetic": "/maɪnd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "头脑；主意；想法",
+          "usage": "make up one's mind 表示下定决心、做决定"
+        }
+      ]
+    },
+    {
+      "word": "travel",
+      "phonetic": "/ˈtrævl/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "旅行；长途行走",
+          "usage": "不及物动词，后接by + 交通工具"
+        }
+      ]
+    },
+    {
+      "word": "cheaper",
+      "phonetic": "/ˈtʃiːpər/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "更便宜的（cheap的比较级）",
+          "usage": "用于两者之间的比较"
+        }
+      ]
+    },
+    {
+      "word": "enjoy",
+      "phonetic": "/ɪnˈdʒɔɪ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "享受；喜爱；玩得开心",
+          "usage": "常与反身代词连用，如enjoy oneself"
+        }
+      ]
+    },
+    {
+      "word": "worry",
+      "phonetic": "/ˈwʌri/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "担心；担忧；烦恼",
+          "usage": "worry about something 担心某事"
+        }
+      ]
+    },
+    {
+      "word": "look after",
+      "phonetic": "/lʊk ˈɑːftər/",
+      "meanings": [
+        {
+          "pos": "verb phrase",
+          "meaning": "照顾；照看；照料",
+          "usage": "相当于take care of"
+        }
+      ]
+    },
+    {
+      "word": "garden",
+      "phonetic": "/ˈɡɑːrdn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "花园；菜园；庭园",
+          "usage": "可数名词，指房子旁种植花草蔬果的园子"
+        }
+      ]
+    },
+    {
+      "word": "decide",
+      "phonetic": "/dɪˈsaɪd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "决定；选定",
+          "usage": "decide on something 决定某事"
+        }
+      ]
+    },
+    {
+      "word": "holiday",
+      "phonetic": "/ˈhɑːlədeɪ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "假期；假日；节日",
+          "usage": "英式英语常用，美语多用vacation"
+        }
+      ]
+    },
+    {
+      "word": "sea",
+      "phonetic": "/siː/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "海；海洋",
+          "usage": "by sea 乘船；on the sea 在海边"
+        }
+      ]
+    },
+    {
+      "word": "sure",
+      "phonetic": "/ʃʊr/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "确信的；肯定的；一定的",
+          "usage": "be sure to do something 一定会做某事"
+        }
+      ]
+    },
+    {
+      "word": "house",
+      "phonetic": "/haʊs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "房子；住宅",
+          "usage": "可数名词，指建筑物"
+        }
+      ]
+    },
+    {
+      "word": "anywhere",
+      "phonetic": "/ˈeniwer/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "任何地方；什么地方",
+          "usage": "用于否定句和疑问句中"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "go abroad",
+      "usage": "表示出国、去国外",
+      "examples": [
+        {
+          "en": "We may go abroad this summer.",
+          "zh": "我们今年夏天可能出国。"
+        }
+      ]
+    },
+    {
+      "phrase": "make up one's mind",
+      "usage": "表示下定决心、做决定",
+      "examples": [
+        {
+          "en": "We can't make up our minds.",
+          "zh": "我们无法做决定。"
+        }
+      ]
+    },
+    {
+      "phrase": "travel by sea/air",
+      "usage": "表示乘船/飞机旅行",
+      "examples": [
+        {
+          "en": "Will you travel by sea or by air?",
+          "zh": "你们乘船还是乘飞机旅行？"
+        }
+      ]
+    },
+    {
+      "phrase": "look after",
+      "usage": "表示照顾、照看",
+      "examples": [
+        {
+          "en": "Who's going to look after the dog?",
+          "zh": "谁来照顾这只狗？"
+        }
+      ]
+    },
+    {
+      "phrase": "in the end",
+      "usage": "表示最后、最终（往往有结果）",
+      "examples": [
+        {
+          "en": "In the end, we stay at home.",
+          "zh": "最后，我们待在家里。"
+        }
+      ]
+    },
+    {
+      "phrase": "stay at home",
+      "usage": "表示待在家里",
+      "examples": [
+        {
+          "en": "We stay at home and look after everything!",
+          "zh": "我们待在家里，照看一切！"
+        }
+      ]
+    },
+    {
+      "phrase": "enjoy oneself",
+      "usage": "表示玩得开心、过得好",
+      "examples": [
+        {
+          "en": "I'm sure you'll enjoy yourselves.",
+          "zh": "我相信你们会玩得很开心。"
+        }
+      ]
+    },
+    {
+      "phrase": "be not sure",
+      "usage": "表示不确定",
+      "examples": [
+        {
+          "en": "We may go abroad. I'm not sure.",
+          "zh": "我们可能出国。我不确定。"
+        }
+      ]
+    },
+    {
+      "phrase": "too much",
+      "usage": "表示太多（程度），用于修饰动词",
+      "examples": [
+        {
+          "en": "My wife always worries too much.",
+          "zh": "我妻子总是担心太多。"
+        }
+      ]
+    },
+    {
+      "phrase": "every year",
+      "usage": "表示每年",
+      "examples": [
+        {
+          "en": "We have this problem every year.",
+          "zh": "我们每年都有这个问题。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "may/might 表示可能性",
+      "definition": "may和might是情态动词，用来表示可能性。might是may的过去式，但在现代英语中两者都常用于现在时，表示'可能'。might表示的可能性比may更小、更不确定。",
+      "structure": "主语 + may/might + 动词原形",
+      "usage": "用于谈论可能发生但不确定的事情，表达'也许、可能'的意思。may更肯定一些，might更委婉、不确定。",
+      "examples": [
+        {
+          "en": "We may go abroad this year.",
+          "zh": "我们今年可能出国。"
+        },
+        {
+          "en": "It may be cheaper, but it takes a long time.",
+          "zh": "可能更便宜，但会花很长时间。"
+        },
+        {
+          "en": "We might not go anywhere.",
+          "zh": "我们可能哪儿也不去。"
+        }
+      ]
+    },
+    {
+      "title": "be going to 表示计划或意图",
+      "definition": "be going to + 动词原形表示已经决定或计划好的将来动作，表示说话时已有明确的意图或打算。",
+      "structure": "主语 + am/is/are going to + 动词原形",
+      "usage": "用于表达已经决定要做的事情，有明确的计划意图。疑问句形式'Where are you going to...?'用来询问对方的计划。",
+      "examples": [
+        {
+          "en": "Where are you going to spend your holidays?",
+          "zh": "你打算去哪里度假？"
+        },
+        {
+          "en": "Who's going to look after the dog?",
+          "zh": "谁来照顾这只狗？"
+        }
+      ]
+    },
+    {
+      "title": "may/might 与 be going to 的区别",
+      "definition": "be going to 表示已经决定好的计划或意图；may/might 表示可能性，不一定已经决定。",
+      "structure": "be going to = 已计划；may/might = 可能",
+      "usage": "当 Gary 说'We may go abroad'时，表示'可能'出国，还没有最终决定。而他的妻子想去埃及是一个明确的愿望（be going to 隐含的意图）。",
+      "examples": [
+        {
+          "en": "I'm not sure. (We haven't decided yet.)",
+          "zh": "我不确定。（我们还没决定。）"
+        },
+        {
+          "en": "We may not go anywhere.",
+          "zh": "我们可能哪儿也不去。"
+        },
+        {
+          "en": "My wife wants to go to Egypt.",
+          "zh": "我妻子想去埃及。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Where are you going to...?",
+      "original": {
+        "en": "Where are you going to spend your holidays this year?",
+        "zh": "你打算今年去哪里度假？"
+      },
+      "imitations": [
+        {
+          "en": "Where are you going to travel next summer?",
+          "zh": "你打算明年夏天去哪里旅行？"
+        },
+        {
+          "en": "Where are you going to have dinner tonight?",
+          "zh": "你今晚打算在哪里吃饭？"
+        }
+      ]
+    },
+    {
+      "pattern": "We may/might + 动词原形",
+      "original": {
+        "en": "We may go abroad.",
+        "zh": "我们可能出国。"
+      },
+      "imitations": [
+        {
+          "en": "We might stay home this weekend.",
+          "zh": "这个周末我们可能待在家里。"
+        },
+        {
+          "en": "It might rain this afternoon.",
+          "zh": "今天下午可能下雨。"
+        }
+      ]
+    },
+    {
+      "pattern": "It's + 形容词比较级, but + 陈述句",
+      "original": {
+        "en": "It may be cheaper, but it takes a long time.",
+        "zh": "可能更便宜，但会花很长时间。"
+      },
+      "imitations": [
+        {
+          "en": "It's faster by air, but it's more expensive.",
+          "zh": "坐飞机更快，但更贵。"
+        },
+        {
+          "en": "It's more comfortable, but it's also more crowded.",
+          "zh": "更舒服，但也更拥挤。"
+        }
+      ]
+    },
+    {
+      "pattern": "Who's going to + 动词原形?",
+      "original": {
+        "en": "Who's going to look after the dog?",
+        "zh": "谁来照顾这只狗？"
+      },
+      "imitations": [
+        {
+          "en": "Who's going to water the plants?",
+          "zh": "谁来浇花？"
+        },
+        {
+          "en": "Who's going to cook dinner?",
+          "zh": "谁来做饭？"
+        }
+      ]
+    }
+  ]
+}

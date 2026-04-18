@@ -1,0 +1,361 @@
+{
+  "book": "NCE2",
+  "lesson": "24",
+  "title": "Had the writer's money been stolen?",
+  "vocabulary": [
+    {
+      "word": "manager",
+      "phonetic": "/ˈmænɪdʒə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "经理",
+          "usage": "指负责管理酒店、商店等的人"
+        }
+      ]
+    },
+    {
+      "word": "upset",
+      "phonetic": "/ʌpˈset/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "难过的，不安的",
+          "usage": "形容人心情不好，感到不安或失望"
+        }
+      ]
+    },
+    {
+      "word": "sympathetic",
+      "phonetic": "/ˌsɪmpəˈθetɪk/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "表示同情的",
+          "usage": "对别人的遭遇表示理解和同情"
+        }
+      ]
+    },
+    {
+      "word": "wicked",
+      "phonetic": "/ˈwɪkɪd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "邪恶的，很坏的",
+          "usage": "形容人的行为恶劣或不道德"
+        }
+      ]
+    },
+    {
+      "word": "world",
+      "phonetic": "/wɜːld/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "世界",
+          "usage": "指地球或人类居住的地方"
+        }
+      ]
+    },
+    {
+      "word": "envelope",
+      "phonetic": "/ˈenvələʊp/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "信封",
+          "usage": "用于装信或钱的纸袋"
+        }
+      ]
+    },
+    {
+      "word": "contain",
+      "phonetic": "/kənˈteɪn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "包含，装有",
+          "usage": "表示某物里面装有什么东西"
+        }
+      ]
+    },
+    {
+      "word": "gentleman",
+      "phonetic": "/ˈdʒentlmən/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "先生，绅士",
+          "usage": "对男性的尊称或礼貌用语"
+        }
+      ]
+    },
+    {
+      "word": "honesty",
+      "phonetic": "/ˈɒnəsti/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "诚实",
+          "usage": "指人的品质，说实话，不欺骗"
+        }
+      ]
+    },
+    {
+      "word": "complain",
+      "phonetic": "/kəmˈpleɪn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "抱怨",
+          "usage": "对不满意的事情表达不满"
+        }
+      ]
+    },
+    {
+      "word": "knock",
+      "phonetic": "/nɒk/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "敲，打",
+          "usage": "用拳头或其他物体敲击门等"
+        }
+      ]
+    },
+    {
+      "word": "just",
+      "phonetic": "/dʒʌst/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "刚刚，刚才",
+          "usage": "表示刚完成某动作，用于过去完成时"
+        }
+      ]
+    },
+    {
+      "word": "these days",
+      "phonetic": "/ðiːz deɪz/",
+      "meanings": [
+        {
+          "pos": "phrase",
+          "meaning": "现在，如今",
+          "usage": "指当前这个时期"
+        }
+      ]
+    },
+    {
+      "word": "lose",
+      "phonetic": "/luːz/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "丢失，失去",
+          "usage": "指东西不见了或弄丢了"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "lose money",
+      "usage": "丢钱，损失金钱",
+      "examples": [
+        {
+          "en": "I lost my wallet on the bus.",
+          "zh": "我在公交车上丢了钱包。"
+        },
+        {
+          "en": "Everyone's losing money these days.",
+          "zh": "如今每个人都在丢钱。"
+        }
+      ]
+    },
+    {
+      "phrase": "feel upset",
+      "usage": "感到不安/难过",
+      "examples": [
+        {
+          "en": "I felt very upset when I found my money was gone.",
+          "zh": "发现钱不见了时我感到非常不安。"
+        }
+      ]
+    },
+    {
+      "phrase": "leave something in somewhere",
+      "usage": "把某物落在某处",
+      "examples": [
+        {
+          "en": "I left the money in my room.",
+          "zh": "我把钱落在房间里了。"
+        }
+      ]
+    },
+    {
+      "phrase": "knock at the door",
+      "usage": "敲门",
+      "examples": [
+        {
+          "en": "Someone knocked at the door.",
+          "zh": "有人敲门了。"
+        }
+      ]
+    },
+    {
+      "phrase": "put something on the desk",
+      "usage": "把某物放在桌上",
+      "examples": [
+        {
+          "en": "She put an envelope on his desk.",
+          "zh": "她把一个信封放在他桌上。"
+        }
+      ]
+    },
+    {
+      "phrase": "complain about",
+      "usage": "抱怨某事",
+      "examples": [
+        {
+          "en": "He started to complain about this wicked world.",
+          "zh": "他开始抱怨这个邪恶的世界。"
+        }
+      ]
+    },
+    {
+      "phrase": "be interrupted by",
+      "usage": "被...打断",
+      "examples": [
+        {
+          "en": "He was interrupted by a knock at the door.",
+          "zh": "他被敲门声打断了。"
+        }
+      ]
+    },
+    {
+      "phrase": "find something",
+      "usage": "找到/发现某物",
+      "examples": [
+        {
+          "en": "I found this outside this gentleman's room.",
+          "zh": "我在这位先生的房间外面发现的。"
+        }
+      ]
+    },
+    {
+      "phrase": "there is still",
+      "usage": "仍然有...",
+      "examples": [
+        {
+          "en": "There is still some honesty in this world.",
+          "zh": "这个世界上仍然有诚实。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去完成时 (Past Perfect Tense)",
+      "definition": "表示在过去某一时间之前已经完成的动作，强调'过去的过去'",
+      "structure": "主语 + had + 过去分词",
+      "usage": "用于描述两个过去的动作，先发生的动作用过去完成时，后发生的动作用一般过去时",
+      "examples": [
+        {
+          "en": "I had just lost £50 when I went to the manager.",
+          "zh": "当我去找经理时，我刚刚丢了50英镑。"
+        },
+        {
+          "en": "She had finished her work before she left.",
+          "zh": "她在离开前已经完成了工作。"
+        }
+      ]
+    },
+    {
+      "title": "some在肯定句中的用法",
+      "definition": "some通常用于肯定句中，表示'一些，某些'",
+      "structure": "some + 可数名词复数/不可数名词",
+      "usage": "some用于肯定句中可以指代不确定的数量，也可用于邀请或期望肯定回答的疑问句中",
+      "examples": [
+        {
+          "en": "There is still some honesty in this world.",
+          "zh": "这个世界上仍然有一些诚实。"
+        },
+        {
+          "en": "Would you like some tea?",
+          "zh": "你想要一些茶吗？"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "I had just + 过去分词",
+      "original": {
+        "en": "I had just lost £50.",
+        "zh": "我刚刚丢了50英镑。"
+      },
+      "imitations": [
+        {
+          "en": "I had just finished my homework.",
+          "zh": "我刚刚完成作业。"
+        },
+        {
+          "en": "He had just arrived when I called.",
+          "zh": "我打电话时他刚到。"
+        }
+      ]
+    },
+    {
+      "pattern": "Everyone's + doing something",
+      "original": {
+        "en": "Everyone's losing money these days.",
+        "zh": "如今每个人都在丢钱。"
+      },
+      "imitations": [
+        {
+          "en": "Everyone's complaining about the weather.",
+          "zh": "每个人都在抱怨天气。"
+        },
+        {
+          "en": "Everyone's watching the game now.",
+          "zh": "现在每个人都在看比赛。"
+        }
+      ]
+    },
+    {
+      "pattern": "There is still + some + 名词",
+      "original": {
+        "en": "There is still some honesty in this world.",
+        "zh": "这个世界上仍然有诚实。"
+      },
+      "imitations": [
+        {
+          "en": "There is still some hope.",
+          "zh": "仍然有一线希望。"
+        },
+        {
+          "en": "There is still some time left.",
+          "zh": "还剩下一些时间。"
+        }
+      ]
+    },
+    {
+      "pattern": "I found this outside someone's + 地点",
+      "original": {
+        "en": "I found this outside this gentleman's room.",
+        "zh": "我在这位先生的房间外面发现的。"
+      },
+      "imitations": [
+        {
+          "en": "I found this outside Mary's office.",
+          "zh": "我在玛丽的办公室外面发现的。"
+        },
+        {
+          "en": "He found the key outside the classroom.",
+          "zh": "他在教室外面发现的钥匙。"
+        }
+      ]
+    }
+  ]
+}

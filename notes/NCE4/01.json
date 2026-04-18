@@ -1,0 +1,330 @@
+{
+  "book": "NCE4",
+  "lesson": "01",
+  "title": "Lesson 1",
+  "vocabulary": [
+    {
+      "word": "fossil",
+      "phonetic": "/ˈfɒsl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "化石",
+          "usage": "指远古生物的遗骸、遗迹经地质作用形成的石头，也可引申指思想守旧的人"
+        }
+      ]
+    },
+    {
+      "word": "legend",
+      "phonetic": "/ˈledʒənd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "传说，传奇故事",
+          "usage": "指民间口头流传的历史相关故事，也可指传奇人物"
+        }
+      ]
+    },
+    {
+      "word": "preserve",
+      "phonetic": "/prɪˈzɜːv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "保存，保留",
+          "usage": "强调使事物保持原有状态不被损坏，也可指食物保鲜、腌制"
+        }
+      ]
+    },
+    {
+      "word": "recount",
+      "phonetic": "/rɪˈkaʊnt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "讲述，叙述",
+          "usage": "指详细复述已经发生的事，宾语多为故事、经历等"
+        }
+      ]
+    },
+    {
+      "word": "saga",
+      "phonetic": "/ˈsɑːɡə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "英雄传说，长篇故事",
+          "usage": "指讲述家族、民族历史的长篇传奇叙事"
+        }
+      ]
+    },
+    {
+      "word": "migration",
+      "phonetic": "/maɪˈɡreɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "迁移，迁徙",
+          "usage": "可指人类、动物的大规模迁居，也可指数据、人口的流动迁移"
+        }
+      ]
+    },
+    {
+      "word": "anthropologist",
+      "phonetic": "/ˌænθrəˈpɒlədʒɪst/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "人类学家",
+          "usage": "指研究人类起源、发展、文化习俗的专业学者"
+        }
+      ]
+    },
+    {
+      "word": "remote",
+      "phonetic": "/rɪˈməʊt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "遥远的，久远的",
+          "usage": "可表示时间、空间上的遥远，也可指关系疏远"
+        }
+      ]
+    },
+    {
+      "word": "ancestor",
+      "phonetic": "/ˈænsestə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "祖先，祖宗",
+          "usage": "指家族或民族的先辈，反义词为descendant（后代）"
+        }
+      ]
+    },
+    {
+      "word": "archaeologist",
+      "phonetic": "/ˌɑːkiˈɒlədʒɪst/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "考古学家",
+          "usage": "指通过研究古代遗存、文物还原历史的专业学者"
+        }
+      ]
+    },
+    {
+      "word": "flint",
+      "phonetic": "/flɪnt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "燧石，火石",
+          "usage": "指一种坚硬的硅质岩石，古时用于制作工具或取火"
+        }
+      ]
+    },
+    {
+      "word": "shape",
+      "phonetic": "/ʃeɪp/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "塑造，使成形",
+          "usage": "指将材料加工为特定形状，也可引申为影响、塑造性格、观点等"
+        }
+      ]
+    },
+    {
+      "word": "rot",
+      "phonetic": "/rɒt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "腐烂，腐败",
+          "usage": "指有机体被微生物分解变质，也可引申为制度、社会衰败"
+        }
+      ]
+    },
+    {
+      "word": "decay",
+      "phonetic": "/dɪˈkeɪ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "腐烂，衰变",
+          "usage": "强调逐渐分解变坏的过程，可用于物质、建筑、社会制度等"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "hand down",
+      "usage": "动词短语，指将传统、故事、财产等代代传承，常用被动语态be handed down",
+      "examples": [
+        {
+          "en": "These traditional crafts are handed down from generation to generation in this village.",
+          "zh": "这些传统手工艺在这个村子里代代相传。"
+        }
+      ]
+    },
+    {
+      "phrase": "read of",
+      "usage": "固定搭配，指读到、获悉某类信息，相当于read about",
+      "examples": [
+        {
+          "en": "I read of his outstanding contributions to medical research in the newspaper.",
+          "zh": "我在报纸上读到了他在医学研究方面做出的杰出贡献。"
+        }
+      ]
+    },
+    {
+      "phrase": "from generation to generation",
+      "usage": "副词短语，在句中作状语，表示一代接一代地",
+      "examples": [
+        {
+          "en": "The custom of eating mooncakes on Mid-Autumn Festival has been kept from generation to generation.",
+          "zh": "中秋节吃月饼的习俗被一代又一代地保留了下来。"
+        }
+      ]
+    },
+    {
+      "phrase": "neither...nor...",
+      "usage": "并列连词短语，连接两个并列成分，表示“既不…也不…”，连接主语时谓语动词遵循就近原则",
+      "examples": [
+        {
+          "en": "Neither my parents nor I am interested in this reality show.",
+          "zh": "我父母和我对这个真人秀都不感兴趣。"
+        }
+      ]
+    },
+    {
+      "phrase": "rot away",
+      "usage": "动词短语，指完全腐烂、烂掉，强调腐烂的最终结果",
+      "examples": [
+        {
+          "en": "The fallen leaves on the ground will rot away and become nutrients for the soil.",
+          "zh": "地上的落叶会腐烂掉，变成土壤的养分。"
+        }
+      ]
+    },
+    {
+      "phrase": "without trace",
+      "usage": "副词短语，在句中作状语，表示毫无踪迹、无影无踪",
+      "examples": [
+        {
+          "en": "The plane crashed into the mountain and disappeared without trace.",
+          "zh": "飞机撞上山后就消失得无影无踪了。"
+        }
+      ]
+    },
+    {
+      "phrase": "even now",
+      "usage": "副词短语，表强调，意为“即使到现在，即便在如今”",
+      "examples": [
+        {
+          "en": "Even now, many people in remote mountain areas still have no access to the Internet.",
+          "zh": "即使到现在，很多偏远山区的人们依然无法使用互联网。"
+        }
+      ]
+    },
+    {
+      "phrase": "long ago",
+      "usage": "副词短语，指很久以前，常用于一般过去时的句子中",
+      "examples": [
+        {
+          "en": "Long ago, there lived a kind old man in this small town.",
+          "zh": "很久以前，这个小镇上住着一位善良的老人。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "关系副词where与关系代词who引导的限定性定语从句",
+      "definition": "限定性定语从句用于修饰先行词，对先行词的范围进行限定，删除从句后主句意思会不完整。where指代表示地点的先行词，在从句中作地点状语；who指代表示人的先行词，在从句中作主语或宾语。",
+      "structure": "1. 表地点的先行词 + where + 完整从句；2. 表人的先行词 + who + 从句（who充当主语/宾语）",
+      "usage": "当需要对表示地点、人的名词进行限定说明时使用，使表达更准确具体。",
+      "examples": [
+        {
+          "en": "We can read of things that happened 5, 000 years ago in the Near East, where people first learned to write.",
+          "zh": "我们可以了解到5000年前近东发生的事情，那里的人最早学会了写字。"
+        },
+        {
+          "en": "The professor who gave us a speech last week will come to our school again tomorrow.",
+          "zh": "上周给我们做演讲的那位教授明天会再次来我们学校。"
+        }
+      ]
+    },
+    {
+      "title": "may have done结构表对过去的推测",
+      "definition": "该结构用于表示说话人对过去已经发生的事情的不确定推测，推测发生的可能性中等，语气较为委婉。",
+      "structure": "主语 + may/might + have + 动词过去分词",
+      "usage": "当没有确切证据证明过去某事是否发生，仅进行可能性推测时使用。",
+      "examples": [
+        {
+          "en": "They may also have used wood and skins, but these have rotted away.",
+          "zh": "他们也可能使用过木头和兽皮，但这些东西都已经腐烂了。"
+        },
+        {
+          "en": "She may have forgotten to inform us of the change of the meeting time.",
+          "zh": "她可能忘记通知我们会议时间变更的事了。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "The only way that sb can do sth is to do sth",
+      "original": {
+        "en": "The only way that they can preserve their history is to recount it as sagas legends handed down from one generation of storytellers to another.",
+        "zh": "他们保存历史的唯一方法是将历史当作由一代又一代讲述人传承的英雄传说来复述。"
+      },
+      "imitations": [
+        {
+          "en": "The only way that you can get high marks in the final exam is to review all the lessons carefully.",
+          "zh": "你在期末考试中取得高分的唯一方法是认真复习所有课程。"
+        },
+        {
+          "en": "The only way that the company can reduce costs is to improve production efficiency.",
+          "zh": "这家公司降低成本的唯一方法是提升生产效率。"
+        }
+      ]
+    },
+    {
+      "pattern": "These ... are useful because they can tell us something about ...",
+      "original": {
+        "en": "These legends are useful because they can tell us something about migrations of people who lived long ago.",
+        "zh": "这些传说很有用，因为它们能告诉我们生活在很久以前的人类迁徙的相关信息。"
+      },
+      "imitations": [
+        {
+          "en": "These old photos are useful because they can tell us something about the city's great changes in the past 30 years.",
+          "zh": "这些老照片很有用，因为它们能告诉我们这座城市过去30年的巨大变化的相关信息。"
+        },
+        {
+          "en": "These survey data are useful because they can tell us something about consumers' preference for new energy vehicles.",
+          "zh": "这些调查数据很有用，因为它们能告诉我们消费者对新能源汽车的偏好的相关信息。"
+        }
+      ]
+    },
+    {
+      "pattern": "..., and so ... have remained when even ... have disappeared.",
+      "original": {
+        "en": "Stone does not decay, and so the tools of long ago have remained when even the bones of the men who made them have disappeared without trace.",
+        "zh": "石头不会腐烂，因此即使制造这些工具的人的骨头已经消失得无影无踪，远古的工具依然保留了下来。"
+      },
+      "imitations": [
+        {
+          "en": "Paper is easy to preserve, and so the ancient books written thousands of years ago have remained when even the palaces where they were stored have disappeared.",
+          "zh": "纸张容易保存，因此即使存放这些古籍的宫殿已经消失，数千年前写下的古籍依然留存了下来。"
+        },
+        {
+          "en": "True love does not change, and so the promise they made to each other has remained when even the ring that witnessed their engagement has been lost.",
+          "zh": "真爱不会改变，因此即使见证他们订婚的戒指已经丢失，他们对彼此许下的承诺依然留存。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "book": "NCE1",
+  "lesson": "037-038",
+  "title": "Lesson 37",
+  "vocabulary": [
+    {
+      "word": "bookcase",
+      "phonetic": "/ˈbʊkkeɪs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "书架，书柜",
+          "usage": "指用来放置书籍的家具"
+        }
+      ]
+    },
+    {
+      "word": "hammer",
+      "phonetic": "/ˈhæmə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "锤子，榔头",
+          "usage": "用于敲打钉子等工具"
+        }
+      ]
+    },
+    {
+      "word": "paint",
+      "phonetic": "/peɪnt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "给...上油漆，粉刷",
+          "usage": "指用颜料涂抹物体表面"
+        }
+      ]
+    },
+    {
+      "word": "pink",
+      "phonetic": "/pɪŋk/",
+      "meanings": [
+        {
+          "pos": "noun/adj",
+          "meaning": "粉红色，粉色的",
+          "usage": "指一种浅红色，可作名词或形容词"
+        }
+      ]
+    },
+    {
+      "word": "daughter",
+      "phonetic": "/ˈdɔːtə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "女儿",
+          "usage": "指女性子女"
+        }
+      ]
+    },
+    {
+      "word": "favourite",
+      "phonetic": "/ˈfeɪvərɪt/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "最喜欢的",
+          "usage": "用于描述最喜欢的人或事物"
+        }
+      ]
+    },
+    {
+      "word": "colour",
+      "phonetic": "/ˈkʌlə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "颜色",
+          "usage": "指物体的色彩"
+        }
+      ]
+    },
+    {
+      "word": "hard",
+      "phonetic": "/hɑːd/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "努力地，辛勤地",
+          "usage": "修饰动词，表示努力的程度"
+        }
+      ]
+    },
+    {
+      "word": "big",
+      "phonetic": "/bɪɡ/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "大的",
+          "usage": "描述物体尺寸的大小"
+        }
+      ]
+    },
+    {
+      "word": "make",
+      "phonetic": "/meɪk/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "制作，制造",
+          "usage": "指通过劳动创造东西"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "working hard",
+      "usage": "表示正在努力工作/学习",
+      "examples": [
+        {
+          "en": "You're working hard, George.",
+          "zh": "你工作很努力，乔治。"
+        }
+      ]
+    },
+    {
+      "phrase": "Give me that...",
+      "usage": "用于请求递东西给别人",
+      "examples": [
+        {
+          "en": "Give me that hammer please, Dan.",
+          "zh": "请把那把锤子给我，丹。"
+        }
+      ]
+    },
+    {
+      "phrase": "Here you are",
+      "usage": "递东西给别人时的常用表达，意为'给你'",
+      "examples": [
+        {
+          "en": "Here you are. Thanks, Dan.",
+          "zh": "给你。谢谢，丹。"
+        }
+      ]
+    },
+    {
+      "phrase": "going to",
+      "usage": "表示计划或打算做某事",
+      "examples": [
+        {
+          "en": "What are you going to do now?",
+          "zh": "你打算现在做什么？"
+        }
+      ]
+    },
+    {
+      "phrase": "It's for...",
+      "usage": "表示某物是给谁的",
+      "examples": [
+        {
+          "en": "This bookcase isn't for me. It's for my daughter.",
+          "zh": "这个书架不是给我的，是给我女儿的。"
+        }
+      ]
+    },
+    {
+      "phrase": "favourite colour",
+      "usage": "表示最喜欢的颜色",
+      "examples": [
+        {
+          "en": "Pink's her favourite colour.",
+          "zh": "粉色是她最喜欢的颜色。"
+        }
+      ]
+    },
+    {
+      "phrase": "Which one?",
+      "usage": "用于询问哪一个",
+      "examples": [
+        {
+          "en": "Which hammer? This one?",
+          "zh": "哪一把？这把吗？"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "现在进行时 (Present Continuous Tense)",
+      "definition": "表示说话时正在进行的动作",
+      "structure": "主语 + am/is/are + 动词-ing",
+      "usage": "描述说话人此刻正在进行的动作",
+      "examples": [
+        {
+          "en": "What are you doing?",
+          "zh": "你正在做什么？"
+        },
+        {
+          "en": "I'm making a bookcase.",
+          "zh": "我正在做一个书架。"
+        }
+      ]
+    },
+    {
+      "title": "be going to 表示将来",
+      "definition": "表示已经计划或决定要做的将来动作",
+      "structure": "主语 + am/is/are + going to + 动词原形",
+      "usage": "表达明确的计划或意图",
+      "examples": [
+        {
+          "en": "What are you going to do now?",
+          "zh": "你打算现在做什么？"
+        },
+        {
+          "en": "I'm going to paint it pink.",
+          "zh": "我打算把它漆成粉色。"
+        }
+      ]
+    },
+    {
+      "title": "特殊疑问句 (Special Questions)",
+      "definition": "用疑问词提问，需要具体回答的问句",
+      "structure": "疑问词 + am/is/are + 主语 + ...?",
+      "usage": "用于询问具体信息，如动作、颜色等",
+      "examples": [
+        {
+          "en": "What colour are you going to paint it?",
+          "zh": "你打算把它漆成什么颜色？"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "What are you doing?",
+      "original": {
+        "en": "What are you doing?",
+        "zh": "你正在做什么？"
+      },
+      "imitations": [
+        {
+          "en": "What are you reading?",
+          "zh": "你正在读什么？"
+        },
+        {
+          "en": "What are you cooking?",
+          "zh": "你正在做什么饭？"
+        }
+      ]
+    },
+    {
+      "pattern": "What are you going to do?",
+      "original": {
+        "en": "What are you going to do now, George?",
+        "zh": "你打算现在做什么，乔治？"
+      },
+      "imitations": [
+        {
+          "en": "What are you going to do this weekend?",
+          "zh": "这个周末你打算做什么？"
+        },
+        {
+          "en": "What are you going to eat for lunch?",
+          "zh": "你午饭打算吃什么？"
+        }
+      ]
+    },
+    {
+      "pattern": "What colour are you going to paint it?",
+      "original": {
+        "en": "What colour are you going to paint it?",
+        "zh": "你打算把它漆成什么颜色？"
+      },
+      "imitations": [
+        {
+          "en": "What colour are you going to paint the door?",
+          "zh": "你打算把门漆成什么颜色？"
+        },
+        {
+          "en": "What colour is she going to buy?",
+          "zh": "她打算买什么颜色的？"
+        }
+      ]
+    },
+    {
+      "pattern": "It's for + 人/目的",
+      "original": {
+        "en": "It's for my daughter, Susan.",
+        "zh": "这是给我女儿苏珊的。"
+      },
+      "imitations": [
+        {
+          "en": "This book is for my mother.",
+          "zh": "这本书是给我妈妈的。"
+        },
+        {
+          "en": "The cake is for the party.",
+          "zh": "这个蛋糕是给聚会准备的。"
+        }
+      ]
+    }
+  ]
+}

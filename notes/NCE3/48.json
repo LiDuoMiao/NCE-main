@@ -1,0 +1,341 @@
+{
+  "book": "NCE3",
+  "lesson": "48",
+  "title": "Lesson 48",
+  "vocabulary": [
+    {
+      "word": "inaccessible",
+      "phonetic": "/ˌɪnækˈsesəbl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "难到达的，不可及的",
+          "usage": "常与介词to搭配，表示“对某人来说难以到达/获取”"
+        }
+      ]
+    },
+    {
+      "word": "hospitable",
+      "phonetic": "/hɒˈspɪtəbl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "好客的，热情友好的",
+          "usage": "可用来形容人、地方或风俗，常与介词to搭配"
+        }
+      ]
+    },
+    {
+      "word": "hostile",
+      "phonetic": "/ˈhɒstaɪl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "敌对的，不友善的",
+          "usage": "常与介词to/towards搭配，表示“对……怀有敌意”"
+        }
+      ]
+    },
+    {
+      "word": "vicinity",
+      "phonetic": "/vəˈsɪnəti/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "周围地区，邻近区域",
+          "usage": "常用搭配in the vicinity (of) 表示“在（……的）附近”"
+        }
+      ]
+    },
+    {
+      "word": "fresco",
+      "phonetic": "/ˈfreskəʊ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "壁画",
+          "usage": "复数形式可加s或为frescoes"
+        }
+      ]
+    },
+    {
+      "word": "descend",
+      "phonetic": "/dɪˈsend/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "突然大批来到，降临",
+          "usage": "常与介词on/upon搭配，指大量人突然涌入某个地方"
+        }
+      ]
+    },
+    {
+      "word": "tramp",
+      "phonetic": "/træmp/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "长途跋涉，徒步走",
+          "usage": "指长时间费力地步行，常接表示地点的介词短语"
+        }
+      ]
+    },
+    {
+      "word": "ferry",
+      "phonetic": "/ˈferi/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "渡运，摆渡",
+          "usage": "指用船将人、货物运到河或海峡的对岸，常用搭配ferry sb/sth across sth"
+        }
+      ]
+    },
+    {
+      "word": "perch",
+      "phonetic": "/pɜːtʃ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "位于（高处），坐落",
+          "usage": "常用被动形式be perched on/upon，指建筑物位于高处或边缘位置"
+        }
+      ]
+    },
+    {
+      "word": "straggling",
+      "phonetic": "/ˈstræɡlɪŋ/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "散乱的，蔓延的",
+          "usage": "用来形容道路、村落等分布零散、不整齐的状态"
+        }
+      ]
+    },
+    {
+      "word": "forbidding",
+      "phonetic": "/fəˈbɪdɪŋ/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "令人生畏的，险恶的",
+          "usage": "形容地方、外表等看起来吓人、不友好"
+        }
+      ]
+    },
+    {
+      "word": "dilapidated",
+      "phonetic": "/dɪˈlæpɪdeɪtɪd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "破烂不堪的，年久失修的",
+          "usage": "用来形容建筑物、家具等因缺乏维护而破旧的状态"
+        }
+      ]
+    },
+    {
+      "word": "procession",
+      "phonetic": "/prəˈseʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "（人或车辆的）队列，行列",
+          "usage": "指人或物排成的长队，a procession of 表示“一队……”"
+        }
+      ]
+    },
+    {
+      "word": "glare",
+      "phonetic": "/ɡleə(r)/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "怒目而视，瞪眼",
+          "usage": "常与介词at搭配，表示愤怒地盯着某人看"
+        }
+      ]
+    },
+    {
+      "word": "peer",
+      "phonetic": "/pɪə(r)/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "仔细看，费力地看",
+          "usage": "常与介词at/through/into搭配，指因看不清而仔细凝视"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "cut off from",
+      "usage": "表示“与……隔绝，切断与……的联系”，被动形式be cut off from更常用",
+      "examples": [
+        {
+          "en": "The small village is cut off from the outside world in winter due to heavy snow.",
+          "zh": "冬天大雪封山，这个小村庄与外界隔绝了。"
+        }
+      ]
+    },
+    {
+      "phrase": "in the vicinity",
+      "usage": "表示“在附近，在邻近地区”，后可接of+具体地点说明范围",
+      "examples": [
+        {
+          "en": "There are several famous scenic spots in the vicinity of the hotel.",
+          "zh": "酒店附近有好几处著名景点。"
+        }
+      ]
+    },
+    {
+      "phrase": "descend on",
+      "usage": "指“（大量人）突然到访，涌入”，带有出人意料、给当地带来压力的含义",
+      "examples": [
+        {
+          "en": "Every summer, crowds of tourists descend on this coastal town.",
+          "zh": "每年夏天，大批游客涌入这个海滨小镇。"
+        }
+      ]
+    },
+    {
+      "phrase": "have no idea",
+      "usage": "口语常用表达，意思是“不知道，不清楚”，后可接疑问词引导的从句",
+      "examples": [
+        {
+          "en": "I have no idea when he will come back from his business trip.",
+          "zh": "我不知道他什么时候出差回来。"
+        }
+      ]
+    },
+    {
+      "phrase": "fast asleep",
+      "usage": "表示“睡得很熟，酣睡”，是固定搭配，fast此处为副词，修饰asleep",
+      "examples": [
+        {
+          "en": "When I got home last night, my kids were already fast asleep in bed.",
+          "zh": "我昨晚到家的时候，孩子们已经在床上睡得很熟了。"
+        }
+      ]
+    },
+    {
+      "phrase": "be shy of",
+      "usage": "表示“害怕……，对……感到腼腆/迟疑”，后接名词或动名词",
+      "examples": [
+        {
+          "en": "Many children are shy of speaking in front of a large audience.",
+          "zh": "很多孩子都不好意思在很多人面前讲话。"
+        }
+      ]
+    },
+    {
+      "phrase": "come to life",
+      "usage": "表示“苏醒过来，恢复生机，变得活跃”，可用于描述人、地方或场景",
+      "examples": [
+        {
+          "en": "The quiet park comes to life at dawn when elderly people come to do exercise.",
+          "zh": "清晨老人们来锻炼的时候，安静的公园就变得热闹起来。"
+        }
+      ]
+    },
+    {
+      "phrase": "There is no doubt that...",
+      "usage": "固定句型，意思是“毫无疑问……”，that引导同位语从句说明doubt的内容",
+      "examples": [
+        {
+          "en": "There is no doubt that regular exercise is good for physical and mental health.",
+          "zh": "毫无疑问，规律锻炼对身心健康都有好处。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "独立主格结构",
+      "definition": "由名词/代词 + 非谓语动词/形容词/副词/介词短语构成，在句中作状语，说明时间、原因、条件、伴随情况等，其逻辑主语与主句主语不一致",
+      "structure": "名词/代词 + 现在分词/过去分词/形容词/副词/介词短语",
+      "usage": "多用于书面语，可使句子结构更紧凑，避免重复使用从句",
+      "examples": [
+        {
+          "en": "The village seemed deserted, the only sign of life being an ugly-looking black goat on a short length of rope tied to a tree in a field nearby.",
+          "zh": "村庄似乎已经废弃了，唯一的生命迹象是一头样子难看的黑山羊，用短绳拴在附近地里的一棵树上。"
+        },
+        {
+          "en": "The meeting over, everyone went home tired but satisfied.",
+          "zh": "会议结束了，每个人都疲惫但满足地回家了。"
+        }
+      ]
+    },
+    {
+      "title": "as引导的非限制性定语从句",
+      "definition": "as可用来引导非限制性定语从句，指代整个主句的内容，可位于主句之前、之后或插入主句中间，常译为“正如……，正像……”",
+      "structure": "主句 + as + 定语从句 / As + 定语从句, 主句",
+      "usage": "常用于引出已发生的事实、大家已知的情况等，常见搭配有as we all know, as is expected, as is mentioned above等",
+      "examples": [
+        {
+          "en": "Visits to really remote villages are seldom enjoyable--as my wife and I discovered during a tour through the Balkans.",
+          "zh": "到真正偏僻的村庄去旅游很少是愉快的——我和妻子在巴尔干半岛旅行时就发现了这一点。"
+        },
+        {
+          "en": "As is known to all, the earth moves around the sun.",
+          "zh": "众所周知，地球绕着太阳转。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "not only...but...as well",
+      "original": {
+        "en": "These attracted many visitors, for they were not only of great architectural interest, but contained a large number of beautifully preserved frescoes as well.",
+        "zh": "这些教堂吸引了很多游客，因为它们不仅具有很高的建筑价值，而且还藏有大量保存完好的壁画。"
+      },
+      "imitations": [
+        {
+          "en": "The book is very popular, for it is not only educational, but very interesting as well.",
+          "zh": "这本书很受欢迎，因为它不仅有教育意义，而且还非常有趣。"
+        },
+        {
+          "en": "The new shopping mall is convenient, for it not only has a wide range of goods, but offers excellent customer service as well.",
+          "zh": "这个新购物中心很方便，因为它不仅商品种类齐全，而且还提供优质的客户服务。"
+        }
+      ]
+    },
+    {
+      "pattern": "We expected...but we found that...",
+      "original": {
+        "en": "We expected the path to end abruptly, but we found that it traced its way through the trees.",
+        "zh": "我们原以为小路会突然到头，却发现它在树林中蜿蜒延伸。"
+      },
+      "imitations": [
+        {
+          "en": "We expected the exam to be very difficult, but we found that it was much easier than we had imagined.",
+          "zh": "我们原以为考试会很难，却发现它比我们想象的容易得多。"
+        },
+        {
+          "en": "We expected the restaurant to be crowded, but we found that there were still plenty of empty tables.",
+          "zh": "我们原以为这家餐厅会很拥挤，却发现还有很多空桌。"
+        }
+      ]
+    },
+    {
+      "pattern": "The most frightening/annoying/exciting thing of all was that...",
+      "original": {
+        "en": "The most frightening thing of all was that not a sound could be heard.",
+        "zh": "最吓人的是，这里听不到一点声音。"
+      },
+      "imitations": [
+        {
+          "en": "The most annoying thing of all was that he didn't even apologize for his mistake.",
+          "zh": "最气人的是，他甚至都没有为自己的错误道歉。"
+        },
+        {
+          "en": "The most exciting thing of all was that our team won the first prize in the competition.",
+          "zh": "最令人激动的是，我们队在比赛中获得了一等奖。"
+        }
+      ]
+    }
+  ]
+}

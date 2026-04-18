@@ -1,0 +1,354 @@
+{
+  "book": "NCE3",
+  "lesson": "32",
+  "title": "Lesson 32",
+  "vocabulary": [
+    {
+      "word": "salvage",
+      "phonetic": "/ˈsælvɪdʒ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "打捞；抢救",
+          "usage": "指从沉船或废墟中救出财物"
+        }
+      ]
+    },
+    {
+      "word": "crew",
+      "phonetic": "/kruː/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "全体船员",
+          "usage": "指船上的所有工作人员"
+        }
+      ]
+    },
+    {
+      "word": "mainland",
+      "phonetic": "/ˈmeɪnlənd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "大陆",
+          "usage": "指国家的主体部分，不包括岛屿"
+        }
+      ]
+    },
+    {
+      "word": "bullion",
+      "phonetic": "/ˈbʊliən/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "金条；银条",
+          "usage": "指未经加工的贵重金属"
+        }
+      ]
+    },
+    {
+      "word": "scour",
+      "phonetic": "/ˈskaʊə(r)/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "彻底搜索",
+          "usage": "指用工具或方法仔细搜寻某区域"
+        }
+      ]
+    },
+    {
+      "word": "tremendous",
+      "phonetic": "/trɪˈmendəs/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "巨大的；极大的",
+          "usage": "形容规模或程度非常大"
+        }
+      ]
+    },
+    {
+      "word": "belonging",
+      "phonetic": "/bɪˈlɒŋɪŋ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "财产；所有物",
+          "usage": "常用复数形式，指个人物品"
+        }
+      ]
+    },
+    {
+      "word": "cruiser",
+      "phonetic": "/ˈkruːzə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "巡洋舰",
+          "usage": "一种军用舰船"
+        }
+      ]
+    },
+    {
+      "word": "torpedo",
+      "phonetic": "/tɔːˈpiːdəʊ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "用鱼雷攻击",
+          "usage": "指用鱼雷击沉船只"
+        }
+      ]
+    },
+    {
+      "word": "convoy",
+      "phonetic": "/ˈkɒnvɔɪ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "护航队；车队",
+          "usage": "指一起旅行或被护送的船队或车队"
+        }
+      ]
+    },
+    {
+      "word": "log book",
+      "phonetic": "/ˈlɒɡ bʊk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "航海日志",
+          "usage": "记录船舶航行情况的日志"
+        }
+      ]
+    },
+    {
+      "word": "submarine",
+      "phonetic": "/ˌsʌbməˈriːn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "潜水艇",
+          "usage": "指能在水下航行的船只"
+        }
+      ]
+    },
+    {
+      "word": "seabed",
+      "phonetic": "/ˈsiːbed/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "海底",
+          "usage": "指海洋的底部"
+        }
+      ]
+    },
+    {
+      "word": "sunken",
+      "phonetic": "/ˈsʌŋkən/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "沉没的",
+          "usage": "sink的过去分词作形容词用"
+        }
+      ]
+    },
+    {
+      "word": "piece together",
+      "phonetic": "/piːs təˈɡeðər/",
+      "meanings": [
+        {
+          "pos": "verb phrase",
+          "meaning": "拼凑；整合",
+          "usage": "指将零散的信息拼凑成完整画面"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "give up the search",
+      "usage": "放弃搜索",
+      "examples": [
+        {
+          "en": "The captain was instructed to give up the search.",
+          "zh": "船长被指示放弃搜索。"
+        }
+      ]
+    },
+    {
+      "phrase": "on board",
+      "usage": "在船上",
+      "examples": [
+        {
+          "en": "There was tremendous excitement on board.",
+          "zh": "船上有极大的兴奋。"
+        }
+      ]
+    },
+    {
+      "phrase": "be under the impression",
+      "usage": "认为；以为",
+      "examples": [
+        {
+          "en": "The crew were at first under the impression that the lost ship had been found.",
+          "zh": "船员们最初以为找到了那艘失踪的船。"
+        }
+      ]
+    },
+    {
+      "phrase": "bring to the surface",
+      "usage": "打捞上来",
+      "examples": [
+        {
+          "en": "The numerous items were brought to the surface.",
+          "zh": "许多物品被打捞上来。"
+        }
+      ]
+    },
+    {
+      "phrase": "piece together",
+      "usage": "拼凑整合",
+      "examples": [
+        {
+          "en": "The captain was able to piece together all the information.",
+          "zh": "船长能够拼凑出所有的信息。"
+        }
+      ]
+    },
+    {
+      "phrase": "come to light",
+      "usage": "真相大白；被发现",
+      "examples": [
+        {
+          "en": "Information that had come to light was collected.",
+          "zh": "被揭露的信息被收集起来。"
+        }
+      ]
+    },
+    {
+      "phrase": "order sb to do sth",
+      "usage": "命令某人做某事",
+      "examples": [
+        {
+          "en": "The captain of the Elkor ordered his men to salvage as much as possible.",
+          "zh": "埃尔科号船长命令他的手下尽可能多地打捞。"
+        }
+      ]
+    },
+    {
+      "phrase": "search for",
+      "usage": "搜寻",
+      "examples": [
+        {
+          "en": "Elkor had been searching the Barents Sea for weeks.",
+          "zh": "埃尔科号已经在巴伦支海搜索了数周。"
+        }
+      ]
+    },
+    {
+      "phrase": "in fact",
+      "usage": "事实上",
+      "examples": [
+        {
+          "en": "What they had in fact found was a ship which had been sunk many years before.",
+          "zh": "他们实际上发现的是一艘很多年前沉没的船。"
+        }
+      ]
+    },
+    {
+      "phrase": "later confirmed",
+      "usage": "后来证实",
+      "examples": [
+        {
+          "en": "This was later confirmed by a naval official.",
+          "zh": "这后来被一位海军官员证实。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去完成进行时 (Past Perfect Continuous)",
+      "definition": "表示在过去某一时刻之前已经开始并持续到该时刻的动作，或刚刚结束的动作",
+      "structure": "had been + 动词-ing",
+      "usage": "用于描述持续进行的动作，常与for/during等时间词连用，强调动作的持续性",
+      "examples": [
+        {
+          "en": "Elkor had been searching the Barents Sea for weeks.",
+          "zh": "埃尔科号已经在巴伦支海搜索了数周。"
+        }
+      ]
+    },
+    {
+      "title": "过去完成时被动态 (Past Perfect Passive)",
+      "definition": "过去完成时的被动语态，表示在过去某时刻之前已经完成且承受动作的主语",
+      "structure": "had been + 过去分词",
+      "usage": "强调动作的完成性和被动性，主语是动作的承受者",
+      "examples": [
+        {
+          "en": "The sunken ship he was trying to find had been carrying a precious cargo of gold bullion.",
+          "zh": "他试图寻找的沉船一直载有贵重的金条。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "...had been + V-ing when...",
+      "original": {
+        "en": "The sea bed was scoured with powerful nets and there was tremendous excitement on board when a chest was raised from the bottom.",
+        "zh": "用强力网搜寻海底，当一个箱子从海底被吊起时，船上非常兴奋。"
+      },
+      "imitations": [
+        {
+          "en": "The police had been searching the area for hours when they finally found the missing child.",
+          "zh": "警察在该地区搜索了几个小时，终于找到了失踪的孩子。"
+        }
+      ]
+    },
+    {
+      "pattern": "Despite + n./v-ing, ...",
+      "original": {
+        "en": "Despite the message, the captain of the Elkor decided to try once more.",
+        "zh": "尽管收到了消息，埃尔科号的船长决定再试一次。"
+      },
+      "imitations": [
+        {
+          "en": "Despite the heavy rain, we continued our journey.",
+          "zh": "尽管下着大雨，我们继续赶路。"
+        }
+      ]
+    },
+    {
+      "pattern": "The captain/learnt realized that...",
+      "original": {
+        "en": "The captain learnt from the letter that the name of the lost ship was the Karen.",
+        "zh": "船长从信中得知失踪船只的名字是凯伦号。"
+      },
+      "imitations": [
+        {
+          "en": "The detective realized that the suspect had been lying.",
+          "zh": "侦探意识到嫌疑人一直在撒谎。"
+        }
+      ]
+    },
+    {
+      "pattern": "...had been + V-ing when + past simple",
+      "original": {
+        "en": "The Karen had been sailing in a convoy to Russia when she was torpedoed by an enemy submarine.",
+        "zh": "凯伦号正在护航队中驶向俄罗斯时被敌方潜艇发射鱼雷击中。"
+      },
+      "imitations": [
+        {
+          "en": "He had been driving for three hours when his car broke down.",
+          "zh": "他已经开了三个小时的车，这时他的车抛锚了。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,397 @@
+{
+  "book": "NCE4",
+  "lesson": "16",
+  "title": "Lesson 16",
+  "vocabulary": [
+    {
+      "word": "physiological",
+      "phonetic": "/ˌfɪziəˈlɒdʒɪkl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "生理的，生理学的",
+          "usage": "用于描述与生物身体机能相关的特性或状态，常修饰state、reaction、function等名词"
+        }
+      ]
+    },
+    {
+      "word": "conception",
+      "phonetic": "/kənˈsepʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "概念，观念；构想",
+          "usage": "指对某事物的抽象理解或想法，常搭配have a conception of（对……有概念）"
+        }
+      ]
+    },
+    {
+      "word": "maximum",
+      "phonetic": "/ˈmæksɪməm/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "最大的，最高的",
+          "usage": "修饰数量、程度等名词，反义词为minimum"
+        },
+        {
+          "pos": "noun",
+          "meaning": "最大值，最大限度",
+          "usage": "可作主语或宾语，搭配reach a maximum（达到最大值）"
+        }
+      ]
+    },
+    {
+      "word": "descendant",
+      "phonetic": "/dɪˈsendənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "后裔，后代，子孙",
+          "usage": "指某人的后代子嗣，也可引申为某事物的衍生物，常搭配of表示所属关系"
+        }
+      ]
+    },
+    {
+      "word": "artificial",
+      "phonetic": "/ˌɑːtɪˈfɪʃl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "人工的，人造的；人为的",
+          "usage": "强调非自然产生的，可修饰物质、环境、行为等，反义词为natural"
+        }
+      ]
+    },
+    {
+      "word": "impose",
+      "phonetic": "/ɪmˈpəʊz/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "强加，迫使（接受）；征收",
+          "usage": "常用搭配impose sth on sb（把某物/某事强加给某人）"
+        }
+      ]
+    },
+    {
+      "word": "dimension",
+      "phonetic": "/daɪˈmenʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "尺寸，规模；维度",
+          "usage": "常用复数dimensions表示物体的长宽高、规模大小，也可指抽象的“方面”"
+        }
+      ]
+    },
+    {
+      "word": "skyscraper",
+      "phonetic": "/ˈskaɪskreɪpə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "摩天大楼",
+          "usage": "指城市中非常高的多层建筑，为可数名词"
+        }
+      ]
+    },
+    {
+      "word": "tenant",
+      "phonetic": "/ˈtenənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "租户，承租人，房客",
+          "usage": "指租用房屋、土地等的人，对应词为landlord（房东）"
+        }
+      ]
+    },
+    {
+      "word": "gigantic",
+      "phonetic": "/dʒaɪˈɡæntɪk/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "巨大的，庞大的",
+          "usage": "语气强于big/large，可修饰具体事物或抽象概念，如gigantic task（艰巨的任务）"
+        }
+      ]
+    },
+    {
+      "word": "banal",
+      "phonetic": "/bəˈnɑːl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "平庸的，乏味的，陈腐的",
+          "usage": "含贬义，用于描述缺乏新意、平淡无奇的事物"
+        }
+      ]
+    },
+    {
+      "word": "deprive",
+      "phonetic": "/dɪˈpraɪv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "剥夺，使丧失",
+          "usage": "固定搭配deprive sb of sth（剥夺某人的某物/使某人失去某物）"
+        }
+      ]
+    },
+    {
+      "word": "monstrous",
+      "phonetic": "/ˈmɒnstrəs/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "巨大而丑陋的，骇人的；荒谬的",
+          "usage": "常带有负面感情色彩，修饰体积庞大、外形怪异或不合常理的事物"
+        }
+      ]
+    },
+    {
+      "word": "edifice",
+      "phonetic": "/ˈedɪfɪs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "大厦，宏伟建筑",
+          "usage": "正式用语，指规模宏大、结构复杂的建筑物，也可引申为抽象的体系"
+        }
+      ]
+    },
+    {
+      "word": "throng",
+      "phonetic": "/θrɒŋ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "挤满，拥塞",
+          "usage": "常用被动形式be thronged with（挤满了……）"
+        },
+        {
+          "pos": "noun",
+          "meaning": "人群，群众",
+          "usage": "指大量聚集的人群，搭配a throng of（一大群）"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "be based on",
+      "usage": "表示“以……为基础，根据……”，主语通常为理论、制度、项目等抽象事物，介词on后接基础依据",
+      "examples": [
+        {
+          "en": "Modern industry is based on the conception of the maximum production at lowest cost.",
+          "zh": "现代工业建立在以最低成本实现最高产量的理念之上。"
+        },
+        {
+          "en": "The research paper is based on three years of field investigation.",
+          "zh": "这篇研究论文是以三年的实地调查为基础完成的。"
+        }
+      ]
+    },
+    {
+      "phrase": "in order that",
+      "usage": "引导目的状语从句，意为“为了，以便”，从句中常搭配may、might、can、could等情态动词，可与in order to do结构转换",
+      "examples": [
+        {
+          "en": "Modern industry runs in order that individuals may earn as much money as possible.",
+          "zh": "现代工业的运转是为了让个人能够尽可能多地赚钱。"
+        },
+        {
+          "en": "He left home early in order that he could catch the first train to the town.",
+          "zh": "他早早出门，以便能赶上开往镇上的第一班火车。"
+        }
+      ]
+    },
+    {
+      "phrase": "give consideration to",
+      "usage": "表示“考虑到，顾及”，正式用语，可替换为take into consideration，to为介词，后接名词或动名词",
+      "examples": [
+        {
+          "en": "Factories do not give consideration to the effects of their artificial mode of existence on workers.",
+          "zh": "工厂没有顾及它们强加的人为生存模式对工人造成的影响。"
+        },
+        {
+          "en": "When planning the project, we must give full consideration to the needs of local residents.",
+          "zh": "规划这个项目时，我们必须充分考虑当地居民的需求。"
+        }
+      ]
+    },
+    {
+      "phrase": "with no regard for",
+      "usage": "表示“不顾，不考虑”，含贬义，指做某事时完全不顾及相关的人或后果，可替换为without regard to",
+      "examples": [
+        {
+          "en": "The great cities have been built with no regard for us.",
+          "zh": "大城市的建造完全没有顾及我们的需求。"
+        },
+        {
+          "en": "Some companies pursue profit with no regard for environmental protection.",
+          "zh": "一些公司追逐利润，完全不顾环境保护。"
+        }
+      ]
+    },
+    {
+      "phrase": "depend on",
+      "usage": "表示“取决于，依赖”，后可接名词或从句，可用于说明事物的决定因素或人对他人/物的依赖",
+      "examples": [
+        {
+          "en": "The shape and dimensions of the skyscrapers depend entirely on the necessity of obtaining the maximum income.",
+          "zh": "摩天大楼的形状和规模完全取决于获取最高收入的需求。"
+        },
+        {
+          "en": "Whether we will go hiking this weekend depends on the weather.",
+          "zh": "我们这周末是否去远足取决于天气情况。"
+        }
+      ]
+    },
+    {
+      "phrase": "be deprived of",
+      "usage": "被动结构，意为“被剥夺，失去”，主语通常是人，of后接被剥夺的事物，主动形式为deprive sb of sth",
+      "examples": [
+        {
+          "en": "City dwellers do not realize that they are deprived of the necessities of life.",
+          "zh": "城市居民没有意识到他们被剥夺了生活的必需品。"
+        },
+        {
+          "en": "Many children in remote areas were deprived of educational opportunities in the past.",
+          "zh": "过去，很多偏远地区的孩子失去了受教育的机会。"
+        }
+      ]
+    },
+    {
+      "phrase": "consist of",
+      "usage": "表示“由……组成，由……构成”，不用于被动语态和进行时态，主语为整体，of后接组成部分",
+      "examples": [
+        {
+          "en": "The modern city consists of monstrous edifices and dark, narrow streets.",
+          "zh": "现代城市由丑陋的巨大建筑和阴暗狭窄的街道组成。"
+        },
+        {
+          "en": "The research team consists of three professors and five graduate students.",
+          "zh": "这个研究团队由三名教授和五名研究生组成。"
+        }
+      ]
+    },
+    {
+      "phrase": "be torn by",
+      "usage": "被动结构，意为“被……扰乱，受……撕裂”，可描述地点受噪音干扰，也可描述国家、组织受冲突影响",
+      "examples": [
+        {
+          "en": "The city streets are torn by the noise of the taxicabs, lorries and buses.",
+          "zh": "城市街道被出租车、卡车和公交车的噪音扰乱。"
+        },
+        {
+          "en": "The small country was torn by years of civil war.",
+          "zh": "这个小国因多年的内战而四分五裂。"
+        }
+      ]
+    },
+    {
+      "phrase": "be thronged by",
+      "usage": "被动结构，意为“挤满了，被……拥堵”，主语通常为地点，介词by后接人群，也可用be thronged with结构",
+      "examples": [
+        {
+          "en": "The streets are thronged ceaselessly by great crowds.",
+          "zh": "街道上永远挤满了熙熙攘攘的人群。"
+        },
+        {
+          "en": "During the Spring Festival, the railway station is thronged by passengers going home.",
+          "zh": "春节期间，火车站挤满了返乡的旅客。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "并列状语成分的使用",
+      "definition": "在句子中可以使用多个并列的介词短语、分词短语等作状语，共同修饰谓语动词，说明动作发生的背景、伴随情况等，通常用and连接最后两个并列成分",
+      "structure": "主语 + 谓语 + 状语1 + and + 状语2",
+      "usage": "用于丰富句子信息，从多个角度描述动作的相关条件、伴随状态或补充说明，避免拆分多个短句导致表达零散",
+      "examples": [
+        {
+          "en": "It has expanded without any idea of the true nature of the human beings who run the machines, and without giving any consideration to the effects produced on the individuals.",
+          "zh": "它（工业）在扩张时完全不了解操作机器的人的本质，也完全不考虑对个人造成的影响。"
+        },
+        {
+          "en": "He walked into the room with a smile on his face and with a bunch of flowers in his hand.",
+          "zh": "他脸上带着笑，手里捧着一束花，走进了房间。"
+        }
+      ]
+    },
+    {
+      "title": "while引导的让步状语从句",
+      "definition": "while除了引导时间状语从句表示“当……的时候”，还可以引导让步状语从句，意为“虽然，尽管”，通常放在句首，主句说明与从句内容相反的事实",
+      "structure": "While + 从句（陈述事实）, 主句（转折内容）",
+      "usage": "用于对比两种相反的情况，突出主句内容的不合理性或出人意料，语气较although更温和，多用于书面语",
+      "examples": [
+        {
+          "en": "While they enjoy the comfort and banal luxury of their dwelling, they do not realize that they are deprived of the necessities of life.",
+          "zh": "虽然他们享受着住所的舒适和平庸的奢华，却没有意识到自己被剥夺了生活的必需品。"
+        },
+        {
+          "en": "While the work is very challenging, it has also brought me a great sense of achievement.",
+          "zh": "尽管这份工作很有挑战性，它也给我带来了很大的成就感。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "In the organization of ... the influence of ... upon ... has been completely neglected.",
+      "original": {
+        "en": "In the organization of industrial life the influence of the factory upon the physiological and mental state of the workers has been completely neglected.",
+        "zh": "在工业生活的组织中，工厂对工人生理和精神状态的影响被完全忽视了。"
+      },
+      "imitations": [
+        {
+          "en": "In the design of online courses the influence of long screen time upon the physical health of teenagers has been completely neglected.",
+          "zh": "在网课的设计中，长时间看屏幕对青少年身体健康的影响被完全忽视了。"
+        },
+        {
+          "en": "In the development of tourist attractions the influence of over-exploitation upon the local ecosystem has been completely neglected.",
+          "zh": "在旅游景点的开发中，过度开发对当地生态系统的影响被完全忽视了。"
+        }
+      ]
+    },
+    {
+      "pattern": "... depend entirely on the necessity of ... and of ...",
+      "original": {
+        "en": "The shape and dimensions of the skyscrapers depend entirely on the necessity of obtaining the maximum income per square foot of ground, and of offering to the tenants offices and apartments that please them.",
+        "zh": "摩天大楼的形状和规模完全取决于两个需求：一是获取每平方英尺土地的最高收益，二是向租户提供令他们满意的办公室和公寓。"
+      },
+      "imitations": [
+        {
+          "en": "The content and length of the training course depend entirely on the necessity of improving employees' work skills, and of helping them adapt to the new business system.",
+          "zh": "培训课程的内容和时长完全取决于两个需求：一是提升员工的工作技能，二是帮助他们适应新的业务系统。"
+        },
+        {
+          "en": "The location and scale of the new library depend entirely on the necessity of meeting the reading needs of nearby residents, and of holding public cultural activities regularly.",
+          "zh": "新图书馆的选址和规模完全取决于两个需求：一是满足附近居民的阅读需求，二是定期举办公共文化活动。"
+        }
+      ]
+    },
+    {
+      "pattern": "Obviously, it has not been planned for the good of ...",
+      "original": {
+        "en": "Obviously, it has not been planned for the good of its inhabitants.",
+        "zh": "显然，它（现代城市）的规划并不是为了居民的利益。"
+      },
+      "imitations": [
+        {
+          "en": "Obviously, the new traffic rule has not been implemented for the good of ordinary commuters.",
+          "zh": "显然，这项新的交通规则的实施并不是为了普通通勤者的利益。"
+        },
+        {
+          "en": "Obviously, the school's new regulation has not been made for the good of students' all-round development.",
+          "zh": "显然，学校的这条新规定的制定并不是为了学生的全面发展。"
+        }
+      ]
+    }
+  ]
+}

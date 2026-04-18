@@ -1,0 +1,394 @@
+{
+  "book": "NCE2",
+  "lesson": "21",
+  "title": "Why do people think the writer is mad?",
+  "vocabulary": [
+    {
+      "word": "aeroplane",
+      "phonetic": "/ˈeərəpleɪn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "飞机",
+          "usage": "指交通工具，常用英式拼写，美式为airplane"
+        }
+      ]
+    },
+    {
+      "word": "mad",
+      "phonetic": "/mæd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "疯狂的；发疯的",
+          "usage": "形容人的精神状态，也可表示对某事疯狂热衷（be mad about）"
+        }
+      ]
+    },
+    {
+      "word": "airport",
+      "phonetic": "/ˈeəpɔːt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "机场；航空站",
+          "usage": "供飞机起飞、降落、停放的场所"
+        }
+      ]
+    },
+    {
+      "word": "pass",
+      "phonetic": "/pɑːs/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "经过；通过",
+          "usage": "指从某地经过或穿过某物"
+        }
+      ]
+    },
+    {
+      "word": "noise",
+      "phonetic": "/nɔɪz/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "噪音；嘈杂声",
+          "usage": "指不悦耳的声音，常与make, cause等词搭配"
+        }
+      ]
+    },
+    {
+      "word": "drive",
+      "phonetic": "/draɪv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "驱使；开车送；迫使",
+          "usage": "drive sb. mad意为使某人发疯；drive away意为驱赶"
+        }
+      ]
+    },
+    {
+      "word": "determine",
+      "phonetic": "/dɪˈtɜːmɪn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "决定；确定",
+          "usage": "determine to do something表示决心做某事"
+        }
+      ]
+    },
+    {
+      "word": "determined",
+      "phonetic": "/dɪˈtɜːmɪnd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "坚定的；坚决的",
+          "usage": "作表语，表示有决心的"
+        }
+      ]
+    },
+    {
+      "word": "probably",
+      "phonetic": "/ˈprɒbəbli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "大概；很可能",
+          "usage": "表示可能性较大，比maybe更正式"
+        }
+      ]
+    },
+    {
+      "word": "offer",
+      "phonetic": "/ˈɒfər/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "提供；出价",
+          "usage": "offer sb. something向某人提供某物"
+        }
+      ]
+    },
+    {
+      "word": "knock",
+      "phonetic": "/nɒk/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "敲；撞；击",
+          "usage": "knock down意为撞倒；knock at/on敲门"
+        }
+      ]
+    },
+    {
+      "word": "night and day",
+      "phonetic": "/naɪt ænd deɪ/",
+      "meanings": [
+        {
+          "pos": "phrase",
+          "meaning": "日日夜夜；夜以继日",
+          "usage": "表示持续不断，强调时间之长"
+        }
+      ]
+    },
+    {
+      "word": "come into use",
+      "phonetic": "/kʌm ˈɪntu juːz/",
+      "meanings": [
+        {
+          "pos": "phrase",
+          "meaning": "开始使用",
+          "usage": "表示某物被投入使用"
+        }
+      ]
+    },
+    {
+      "word": "drive away",
+      "phonetic": "/draɪv əˈweɪ/",
+      "meanings": [
+        {
+          "pos": "phrase",
+          "meaning": "驱赶；赶走",
+          "usage": "表示迫使某人离开某地"
+        }
+      ]
+    },
+    {
+      "word": "sum",
+      "phonetic": "/sʌm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "金额；款项",
+          "usage": "a sum of money一笔钱"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "night and day",
+      "usage": "日以继夜，表示持续不断发生",
+      "examples": [
+        {
+          "en": "The machines work night and day.",
+          "zh": "机器日夜不停地运转。"
+        }
+      ]
+    },
+    {
+      "phrase": "drive sb. mad",
+      "usage": "使某人发疯/抓狂",
+      "examples": [
+        {
+          "en": "The constant noise drove me mad.",
+          "zh": "持续的噪音让我快要发疯了。"
+        }
+      ]
+    },
+    {
+      "phrase": "come into use",
+      "usage": "开始被使用/启用",
+      "examples": [
+        {
+          "en": "The new railway came into use last year.",
+          "zh": "新铁路去年开始启用。"
+        }
+      ]
+    },
+    {
+      "phrase": "drive away",
+      "usage": "驱赶，赶走",
+      "examples": [
+        {
+          "en": "The farmers drove the cows away from the field.",
+          "zh": "农民们把牛赶出田地。"
+        }
+      ]
+    },
+    {
+      "phrase": "knock down",
+      "usage": "撞倒，拆除",
+      "examples": [
+        {
+          "en": "The old building was knocked down last month.",
+          "zh": "那栋旧楼上个月被拆除了。"
+        }
+      ]
+    },
+    {
+      "phrase": "a large sum of money",
+      "usage": "一大笔钱",
+      "examples": [
+        {
+          "en": "He received a large sum of money from his uncle.",
+          "zh": "他从他叔叔那里得到了一大笔钱。"
+        }
+      ]
+    },
+    {
+      "phrase": "be determined to",
+      "usage": "决心要...",
+      "examples": [
+        {
+          "en": "She is determined to finish the project on time.",
+          "zh": "她决心按时完成这个项目。"
+        }
+      ]
+    },
+    {
+      "phrase": "for some reason",
+      "usage": "由于某种原因",
+      "examples": [
+        {
+          "en": "For some reason, the meeting was cancelled.",
+          "zh": "由于某种原因，会议被取消了。"
+        }
+      ]
+    },
+    {
+      "phrase": "must be",
+      "usage": "一定是（表示推测）",
+      "examples": [
+        {
+          "en": "You must be tired after the long journey.",
+          "zh": "长途旅行后你一定很累。"
+        }
+      ]
+    },
+    {
+      "phrase": "one of the few",
+      "usage": "少数人/物之一",
+      "examples": [
+        {
+          "en": "He is one of the few people who can speak five languages.",
+          "zh": "他是少数能说五种语言的人之一。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "现在完成时的被动语态 (Present Perfect Passive)",
+      "definition": "表示一个过去的动作对现在造成影响，且主语是动作的承受者",
+      "structure": "have/has + been + 过去分词",
+      "usage": "用于强调动作的承受者，或动作执行者不明确/不重要时",
+      "examples": [
+        {
+          "en": "The airport has come into use.",
+          "zh": "机场已经开始使用了。"
+        },
+        {
+          "en": "Over a hundred people must have been driven away.",
+          "zh": "肯定有上百人被赶走了。"
+        }
+      ]
+    },
+    {
+      "title": "must表示推测 (Must for Deduction)",
+      "definition": "must用于肯定句中表示对现在或过去情况的肯定推测",
+      "structure": "must + 动词原形（对现在推测）；must have + 过去分词（对过去推测）",
+      "usage": "must表示推测时只用于肯定句，否定句用can't，疑问句用can",
+      "examples": [
+        {
+          "en": "Everybody says I must be mad.",
+          "zh": "大家都说我一定是疯了。"
+        },
+        {
+          "en": "You must be hungry after working so long.",
+          "zh": "工作了这么久你一定饿了。"
+        }
+      ]
+    },
+    {
+      "title": "现在进行时的被动语态 (Present Continuous Passive)",
+      "definition": "表示正在进行的被动动作",
+      "structure": "am/is/are + being + 过去分词",
+      "usage": "强调正在被进行的动作",
+      "examples": [
+        {
+          "en": "The plane is being repaired.",
+          "zh": "飞机正在被修理。"
+        },
+        {
+          "en": "New houses are being built in this area.",
+          "zh": "这个地区正在建造新房子。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "be doing sb. good/harm/mad",
+      "original": {
+        "en": "Aeroplanes are slowly driving me mad.",
+        "zh": "飞机正慢慢让我发疯。"
+      },
+      "imitations": [
+        {
+          "en": "Worry is slowly driving her mad.",
+          "zh": "忧虑正慢慢让她发疯。"
+        },
+        {
+          "en": "The hot weather is driving the tourists mad.",
+          "zh": "炎热的天气快让游客们发疯了。"
+        }
+      ]
+    },
+    {
+      "pattern": "must have been done",
+      "original": {
+        "en": "Over a hundred people must have been driven away from their homes.",
+        "zh": "肯定有超过一百人被从家中赶走。"
+      },
+      "imitations": [
+        {
+          "en": "The thief must have been caught by now.",
+          "zh": "小偷现在肯定已经被抓住了。"
+        },
+        {
+          "en": "They must have been informed about the changes.",
+          "zh": "他们一定已经被告知了这些变化。"
+        }
+      ]
+    },
+    {
+      "pattern": "have been offered + something + to do",
+      "original": {
+        "en": "I have been offered a large sum of money to go away.",
+        "zh": "有人给我一大笔钱让我搬走。"
+      },
+      "imitations": [
+        {
+          "en": "She has been offered a good job to work abroad.",
+          "zh": "有人给她提供了一个去国外工作的好职位。"
+        },
+        {
+          "en": "We have been offered a discount to buy the house.",
+          "zh": "有人给我们打了折扣买这房子。"
+        }
+      ]
+    },
+    {
+      "pattern": "be one of the few/only + 名词",
+      "original": {
+        "en": "I am one of the few people left.",
+        "zh": "我是少数留下来的人之一。"
+      },
+      "imitations": [
+        {
+          "en": "She is one of the few students who passed the exam.",
+          "zh": "她是少数通过考试的学生之一。"
+        },
+        {
+          "en": "This is one of the few buildings that survived the war.",
+          "zh": "这是战争后幸存的少数建筑之一。"
+        }
+      ]
+    }
+  ]
+}

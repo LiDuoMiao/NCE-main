@@ -1,0 +1,394 @@
+{
+  "book": "NCE2",
+  "lesson": "23",
+  "title": "Why is the new house special?",
+  "vocabulary": [
+    {
+      "word": "letter",
+      "phonetic": "/ˈletə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "信；信件",
+          "usage": "指书写或打印的通信文件，通常指纸质信件"
+        }
+      ]
+    },
+    {
+      "word": "sister",
+      "phonetic": "/ˈsɪstə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "姐妹；姐姐；妹妹",
+          "usage": "指同父母或同父异母/同母异父的女性"
+        }
+      ]
+    },
+    {
+      "word": "Nigeria",
+      "phonetic": "/naɪˈdʒɪəriə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "尼日利亚（非洲国家）",
+          "usage": "作为专有名词，首字母大写"
+        }
+      ]
+    },
+    {
+      "word": "surprise",
+      "phonetic": "/səˈpraɪz/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "惊讶；惊喜；意外之事",
+          "usage": "指令人意想不到的事情或突然的惊喜感"
+        }
+      ]
+    },
+    {
+      "word": "beautiful",
+      "phonetic": "/ˈbjuːtɪfl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "美丽的；漂亮的",
+          "usage": "用于描述外观、景色等令人愉悦的事物"
+        }
+      ]
+    },
+    {
+      "word": "country",
+      "phonetic": "/ˈkʌntri/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "乡村；农村；国家",
+          "usage": "作'乡村'讲时，与city（城市）相对"
+        }
+      ]
+    },
+    {
+      "word": "complete",
+      "phonetic": "/kəmˈpliːt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "完成；结束",
+          "usage": "指完成某项任务或工程"
+        }
+      ]
+    },
+    {
+      "word": "modern",
+      "phonetic": "/ˈmɒdn/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "现代的；时髦的",
+          "usage": "指当代的、当前的风格或设计"
+        }
+      ]
+    },
+    {
+      "word": "strange",
+      "phonetic": "/streɪndʒ/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "奇怪的；陌生的",
+          "usage": "指不寻常的、不熟悉的事物或情况"
+        }
+      ]
+    },
+    {
+      "word": "district",
+      "phonetic": "/ˈdɪstrɪkt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "地区；区域；行政区",
+          "usage": "指一个国家或城市内的某个特定区域"
+        }
+      ]
+    },
+    {
+      "word": "garden",
+      "phonetic": "/ˈɡɑːdn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "花园；菜园；庭院",
+          "usage": "指种植花草或蔬菜的土地空间"
+        }
+      ]
+    },
+    {
+      "word": "room",
+      "phonetic": "/ruːm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "房间；空间",
+          "usage": "指建筑物内的独立空间或可用的空间"
+        }
+      ]
+    },
+    {
+      "word": "would",
+      "phonetic": "/wʊd/",
+      "meanings": [
+        {
+          "pos": "modal verb",
+          "meaning": "将；会（表示将来）",
+          "usage": "用于过去将来时态中，表示从过去角度看将要发生的事"
+        }
+      ]
+    },
+    {
+      "word": "only",
+      "phonetic": "/ˈəʊnli/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "唯一的；仅有的",
+          "usage": "强调在某范围内独一无二"
+        }
+      ]
+    },
+    {
+      "word": "lovely",
+      "phonetic": "/ˈlʌvli/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "可爱的；美丽的；令人愉快的",
+          "usage": "用于形容令人愉悦的人或事物"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "had a letter from",
+      "usage": "收到某人的来信",
+      "examples": [
+        {
+          "en": "I had a letter from my sister yesterday.",
+          "zh": "昨天我收到了姐姐的来信。"
+        }
+      ]
+    },
+    {
+      "phrase": "get a surprise",
+      "usage": "感到惊讶；收到惊喜",
+      "examples": [
+        {
+          "en": "If she comes, she will get a surprise.",
+          "zh": "如果她来，她会大吃一惊。"
+        }
+      ]
+    },
+    {
+      "phrase": "stay with us",
+      "usage": "和我们住在一起",
+      "examples": [
+        {
+          "en": "She could stay with us.",
+          "zh": "她可以和我们住在一起。"
+        }
+      ]
+    },
+    {
+      "phrase": "in the country",
+      "usage": "在乡村；在农村",
+      "examples": [
+        {
+          "en": "We are now living in the country.",
+          "zh": "我们现在住在乡下。"
+        }
+      ]
+    },
+    {
+      "phrase": "work on it",
+      "usage": "进行工作；从事于",
+      "examples": [
+        {
+          "en": "Work on it had begun before my sister left.",
+          "zh": "在我姐姐离开之前，工程就已经开始了。"
+        }
+      ]
+    },
+    {
+      "phrase": "come to England",
+      "usage": "来英国",
+      "examples": [
+        {
+          "en": "She would come to England next year.",
+          "zh": "她明年要来英国。"
+        }
+      ]
+    },
+    {
+      "phrase": "be completed",
+      "usage": "被完成；竣工",
+      "examples": [
+        {
+          "en": "The house was completed five months ago.",
+          "zh": "房子五个月前竣工了。"
+        }
+      ]
+    },
+    {
+      "phrase": "in the district",
+      "usage": "在这个地区",
+      "examples": [
+        {
+          "en": "It must be the only modern house in the district.",
+          "zh": "它一定是这个地区唯一的现代房子。"
+        }
+      ]
+    },
+    {
+      "phrase": "look strange",
+      "usage": "看起来奇怪",
+      "examples": [
+        {
+          "en": "It looks strange to some people.",
+          "zh": "对某些人来说它看起来很奇怪。"
+        }
+      ]
+    },
+    {
+      "phrase": "many large rooms",
+      "usage": "许多大房间",
+      "examples": [
+        {
+          "en": "The house has many large rooms.",
+          "zh": "这所房子有许多大房间。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去将来时 (Future in the Past)",
+      "definition": "表示从过去的角度来看将要发生的动作或状态，常用于宾语从句中。",
+      "structure": "主语 + would + 动词原形",
+      "usage": "当主句用过去时，从句要表示将来意义时使用。常用在said, told, thought等动词后的宾语从句中。",
+      "examples": [
+        {
+          "en": "She said that she would come to England next year.",
+          "zh": "她说她明年会来英国。"
+        },
+        {
+          "en": "In her letter, she said that she would come to England next year.",
+          "zh": "在信中，她说第二年她会来英国。"
+        }
+      ]
+    },
+    {
+      "title": "must be 推测用法",
+      "definition": "表示根据逻辑推理得出的必然结论，意为'一定是'、'肯定是'",
+      "structure": "主语 + must be + 名词/形容词",
+      "usage": "用于对当前情况有把握的推测，语气比might be、could be更强",
+      "examples": [
+        {
+          "en": "It must be the only modern house in the district.",
+          "zh": "它一定是这个地区唯一的现代房子。"
+        },
+        {
+          "en": "She must be at home now.",
+          "zh": "她现在一定在家。"
+        }
+      ]
+    },
+    {
+      "title": "if 条件句（真实条件句）",
+      "definition": "if引导的条件句，表示真实的或可能发生的情况",
+      "structure": "If + 主语 + 一般现在时, 主语 + will + 动词原形",
+      "usage": "用于谈论真实的、可能发生的条件与结果",
+      "examples": [
+        {
+          "en": "If she comes, she will get a surprise.",
+          "zh": "如果她来，她会得到一个惊喜。"
+        },
+        {
+          "en": "If it rains tomorrow, I will stay at home.",
+          "zh": "如果明天下雨，我就待在家里。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "主语 + had a letter from + 某人",
+      "original": {
+        "en": "I had a letter from my sister yesterday.",
+        "zh": "昨天我收到了姐姐的来信。"
+      },
+      "imitations": [
+        {
+          "en": "I had a letter from my friend last week.",
+          "zh": "上周我收到了朋友的来信。"
+        },
+        {
+          "en": "She had a letter from her mother this morning.",
+          "zh": "今天早上她收到了妈妈的来信。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + would come to + 地点 + 时间",
+      "original": {
+        "en": "She would come to England next year.",
+        "zh": "她明年会来英国。"
+      },
+      "imitations": [
+        {
+          "en": "He would come to China next month.",
+          "zh": "他下个月会来中国。"
+        },
+        {
+          "en": "They would come to our school tomorrow.",
+          "zh": "他们明天会来我们学校。"
+        }
+      ]
+    },
+    {
+      "pattern": "If + 主语 + 一般现在时, 主语 + will + 动词原形",
+      "original": {
+        "en": "If she comes, she will get a surprise.",
+        "zh": "如果她来，她会得到一个惊喜。"
+      },
+      "imitations": [
+        {
+          "en": "If it is sunny, we will go to the park.",
+          "zh": "如果天气好，我们就去公园。"
+        },
+        {
+          "en": "If you study hard, you will pass the exam.",
+          "zh": "如果你努力学习，你就会通过考试。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + must be + 名词/形容词",
+      "original": {
+        "en": "It must be the only modern house in the district.",
+        "zh": "它一定是这个地区唯一的现代房子。"
+      },
+      "imitations": [
+        {
+          "en": "She must be a doctor.",
+          "zh": "她一定是个医生。"
+        },
+        {
+          "en": "This must be the correct answer.",
+          "zh": "这一定是正确答案。"
+        }
+      ]
+    }
+  ]
+}

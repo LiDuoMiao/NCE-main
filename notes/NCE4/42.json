@@ -1,0 +1,394 @@
+{
+  "book": "NCE4",
+  "lesson": "42",
+  "title": "Lesson 42",
+  "vocabulary": [
+    {
+      "word": "vibration",
+      "phonetic": "/vaɪˈbreɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "震动；颤动；振动",
+          "usage": "指物体反复快速晃动的动作或现象，常用于描述地震、机器等产生的震动"
+        }
+      ]
+    },
+    {
+      "word": "slumber",
+      "phonetic": "/ˈslʌmbə(r)/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "睡眠；熟睡",
+          "usage": "正式用语，指安稳地睡眠，可引申为“蛰伏、不活动”"
+        },
+        {
+          "pos": "noun",
+          "meaning": "睡眠；沉睡状态",
+          "usage": "用作不可数名词，指睡眠的状态"
+        }
+      ]
+    },
+    {
+      "word": "rigid",
+      "phonetic": "/ˈrɪdʒɪd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "坚硬的；不易弯曲的",
+          "usage": "形容物体质地坚硬、没有弹性，也可引申为“死板的、严格的”"
+        }
+      ]
+    },
+    {
+      "word": "delicate",
+      "phonetic": "/ˈdelɪkət/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "精密的；灵敏的",
+          "usage": "形容仪器、设备等结构精密，对微小变化敏感；也可指“易损的、精致的”"
+        }
+      ]
+    },
+    {
+      "word": "devise",
+      "phonetic": "/dɪˈvaɪz/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "设计；发明；想出",
+          "usage": "侧重指通过思考、策划发明出新的方法、设备或计划，宾语通常是工具、方案等"
+        }
+      ]
+    },
+    {
+      "word": "precisely",
+      "phonetic": "/prɪˈsaɪsli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "恰好；正是；精确地",
+          "usage": "用于强调完全符合事实，没有偏差，可放在句首或动词前"
+        }
+      ]
+    },
+    {
+      "word": "legibly",
+      "phonetic": "/ˈledʒəbli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "字迹清楚地；易读地",
+          "usage": "修饰书写、印刷等行为，表示内容可以被轻松辨认"
+        }
+      ]
+    },
+    {
+      "word": "rotate",
+      "phonetic": "/rəʊˈteɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "旋转；转动",
+          "usage": "指物体围绕自身轴心或外部某点做圆周运动，也可指“轮流、轮换”"
+        }
+      ]
+    },
+    {
+      "word": "wriggle",
+      "phonetic": "/ˈrɪɡl/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "扭动；蜿蜒移动",
+          "usage": "指小幅度、反复地扭动身体或某个部位，也可形容线条、路径曲折扭动"
+        }
+      ]
+    },
+    {
+      "word": "component",
+      "phonetic": "/kəmˈpəʊnənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "组成部分；成分；分量",
+          "usage": "指整体中的一个部分，常用于机械、系统、物理量等的构成要素"
+        }
+      ]
+    },
+    {
+      "word": "particle",
+      "phonetic": "/ˈpɑːtɪkl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "颗粒；微粒；粒子",
+          "usage": "指非常小的物质碎片，也用于物理领域指基本粒子"
+        }
+      ]
+    },
+    {
+      "word": "longitudinal",
+      "phonetic": "/ˌlɒŋɡɪˈtjuːdɪnl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "纵向的；经度的；纵波的",
+          "usage": "物理中用于描述振动方向与传播方向一致的波，也可指长度方向的"
+        }
+      ]
+    },
+    {
+      "word": "transverse",
+      "phonetic": "/trænzˈvɜːs/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "横向的；横波的",
+          "usage": "物理中用于描述振动方向与传播方向垂直的波，也可指垂直于长度方向的"
+        }
+      ]
+    },
+    {
+      "word": "interior",
+      "phonetic": "/ɪnˈtɪəriə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "内部；内陆；内地",
+          "usage": "常与定冠词the连用，指物体、国家或区域的内部部分，反义词为exterior"
+        }
+      ]
+    },
+    {
+      "word": "interval",
+      "phonetic": "/ˈɪntəvl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "间隔；间隙；时间差",
+          "usage": "指两个事件、两个物体之间的时间或空间的间隔，常见搭配at intervals（不时；每隔一段距离）"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "on end",
+      "usage": "表示“直立着；竖着”，也可指“连续地”，修饰动词stand、place等表示物体竖直放置的状态",
+      "examples": [
+        {
+          "en": "One, for instance, consisted of rods of various lengths and thicknesses which would stand up on end like ninepins.",
+          "zh": "例如，有一种装置是由一些长短、粗细不同的木棒组成，就像九柱戏的木棒一样直立着。"
+        },
+        {
+          "en": "He placed the box on end in the corner of the room.",
+          "zh": "他把箱子竖着放在房间的角落里。"
+        }
+      ]
+    },
+    {
+      "phrase": "in time",
+      "usage": "此处表示“最终；迟早；经过一段时间之后”，另一个常见含义是“及时”",
+      "examples": [
+        {
+          "en": "With practice, no doubt, I could in time learn to write by holding the pen still while the paper moved.",
+          "zh": "毫无疑问，经过练习，我最终能够学会笔不动而纸动来写字。"
+        },
+        {
+          "en": "You will get used to the new environment in time.",
+          "zh": "你迟早会适应新环境的。"
+        }
+      ]
+    },
+    {
+      "phrase": "to and fro",
+      "usage": "副词短语，表示“来回地；往复地”，用来描述动作反复在两个点之间移动",
+      "examples": [
+        {
+          "en": "Now move the hand to and fro and around but not up and down.",
+          "zh": "现在把手前后左右晃，但不要上下动。"
+        },
+        {
+          "en": "She paced to and fro in the waiting room, worrying about the test result.",
+          "zh": "她在候诊室里来回踱步，担心着检查结果。"
+        }
+      ]
+    },
+    {
+      "phrase": "lie in",
+      "usage": "表示“在于；存在于”，主语通常是问题、答案、原因等抽象名词，后接表示原因或内容的名词",
+      "examples": [
+        {
+          "en": "The key to a solution of that problem lay in an everyday observation.",
+          "zh": "解决那个问题的关键在于一个日常观察到的现象。"
+        },
+        {
+          "en": "The beauty of the old town lies in its traditional architecture.",
+          "zh": "这座古镇的美在于它的传统建筑。"
+        }
+      ]
+    },
+    {
+      "phrase": "attach to",
+      "usage": "表示“把…固定在；把…附在…上”，常用被动形式be attached to，也可引申为“依恋；重视”",
+      "examples": [
+        {
+          "en": "Imagine a pen attached to the weight in such a way that its point rests upon a piece of paper on the floor.",
+          "zh": "设想在重物上系一支笔，笔尖刚好落在地板上的一张纸上。"
+        },
+        {
+          "en": "Please attach your photo to the application form before submitting it.",
+          "zh": "提交申请表之前请把你的照片贴在上面。"
+        }
+      ]
+    },
+    {
+      "phrase": "in the midst of",
+      "usage": "表示“在…之中；正当…的时候”，既可指处于某个具体的环境中间，也可指处于某个事件的过程中",
+      "examples": [
+        {
+          "en": "In the midst of all this movement, the weight and the pen would be still.",
+          "zh": "在所有这些运动中，重物和笔却会保持不动。"
+        },
+        {
+          "en": "The country is in the midst of an economic recovery.",
+          "zh": "这个国家正处于经济复苏的过程中。"
+        }
+      ]
+    },
+    {
+      "phrase": "from side to side",
+      "usage": "表示“左右地；从一边到另一边”，用来描述物体在水平方向上的往复运动",
+      "examples": [
+        {
+          "en": "But as the paper moved from side to side under the pen point, its movement would be recorded in ink upon its surface.",
+          "zh": "但是当纸在笔尖下左右移动时，纸的运动就会被墨水记录在纸面上。"
+        },
+        {
+          "en": "He shook his head from side to side to show his disagreement.",
+          "zh": "他左右摇了摇头表示不同意。"
+        }
+      ]
+    },
+    {
+      "phrase": "one after the other",
+      "usage": "表示“一个接一个地；陆续地”，强调顺序上连续发生，也可写作one after another",
+      "examples": [
+        {
+          "en": "the graphic record shows three waves arriving one after the other at short intervals.",
+          "zh": "图形记录显示三种波间隔很短，相继到达。"
+        },
+        {
+          "en": "The students entered the classroom one after the other when the bell rang.",
+          "zh": "铃响的时候，学生们一个接一个地走进了教室。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "强调句 (Emphatic Sentence)",
+      "definition": "用来对句子中的某个成分（主语、宾语、状语等）进行突出强调的句式，不改变原句的语义",
+      "structure": "It is/was + 被强调部分 + that/who + 句子其余部分",
+      "usage": "当被强调的部分是人时，可以用who代替that，其他情况一律用that；去掉It is/was和that/who后，句子结构和语义依然完整",
+      "examples": [
+        {
+          "en": "It was from the study of these that so much was learnt about the interior of the earth.",
+          "zh": "正是通过对这两种波的研究，我们才了解到了很多关于地球内部的知识。"
+        },
+        {
+          "en": "It was his hard work that helped him get the promotion.",
+          "zh": "正是他的努力工作帮助他获得了晋升。"
+        }
+      ]
+    },
+    {
+      "title": "非限定性定语从句 (Non-restrictive Attributive Clause)",
+      "definition": "用来对先行词进行补充说明，去掉后不影响主句的完整性，通常用逗号与主句隔开",
+      "structure": "主句 + , + which/who/whom/whose + 从句",
+      "usage": "不能用that引导非限定性定语从句，which可以指代前面的整个主句或主句中的某个名词，用来补充额外信息",
+      "examples": [
+        {
+          "en": "The apparatus thus described, however, records only the horizontal component of the wave movement, which is, in fact, much more complicated.",
+          "zh": "然而，以上描述的仪器只能记录地震波运动的水平分量，而地震波的运动实际上要复杂得多。"
+        },
+        {
+          "en": "She won the first prize in the competition, which made her parents very proud.",
+          "zh": "她在比赛中获得了一等奖，这让她的父母非常骄傲。"
+        }
+      ]
+    },
+    {
+      "title": "if引导的非真实条件句（虚拟语气）",
+      "definition": "用来表示与现在事实相反、或发生可能性极低的假设，主句和从句都使用虚拟语气",
+      "structure": "If + 主语 + 动词过去式（be动词用were）, 主语 + would/could/might + 动词原形",
+      "usage": "从句描述假设的情况，主句描述该假设情况下会产生的结果，常用于说明理论、想象的场景",
+      "examples": [
+        {
+          "en": "If we could actually see the path described by a particle, such as a sand grain in the rock, it would be more like that of a bluebottle buzzing round the room.",
+          "zh": "如果我们真的能看到一个粒子（比如岩石中的沙粒）的运动路径，它会更像一只在房间里嗡嗡飞的绿头苍蝇的路径。"
+        },
+        {
+          "en": "If I had more time, I would learn a second foreign language.",
+          "zh": "如果我有更多时间，我会学第二门外语。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "X come like Y, without Z.",
+      "original": {
+        "en": "An earthquake comes like a thief in the night, without warning.",
+        "zh": "地震就像夜间的小偷一样，不打招呼就来了。"
+      },
+      "imitations": [
+        {
+          "en": "A good idea comes like a flash of light, without any sign.",
+          "zh": "好主意就像一道闪光，毫无预兆地就来了。"
+        },
+        {
+          "en": "Winter comes like a silent guest, without making a sound.",
+          "zh": "冬天就像一位安静的客人，悄无声息地就来临了。"
+        }
+      ]
+    },
+    {
+      "pattern": "The key to a solution of X lie in Y.",
+      "original": {
+        "en": "The key to a solution of that problem lay in an everyday observation.",
+        "zh": "解决那个问题的关键在于一个日常观察到的现象。"
+      },
+      "imitations": [
+        {
+          "en": "The key to a solution of the environmental problem lies in the joint efforts of all people.",
+          "zh": "解决环境问题的关键在于所有人的共同努力。"
+        },
+        {
+          "en": "The key to a solution of the learning difficulty lies in finding a suitable method.",
+          "zh": "解决学习困难的关键在于找到合适的方法。"
+        }
+      ]
+    },
+    {
+      "pattern": "When X is situated at Y, Z show A doing B.",
+      "original": {
+        "en": "When the instrument is situated at more than 700 miles from the earthquake centre, the graphic record shows three waves arriving one after the other at short intervals.",
+        "zh": "当仪器被放置在距离震中700英里以上的位置时，图形记录显示三种波间隔很短，相继到达。"
+      },
+      "imitations": [
+        {
+          "en": "When the camera is situated at the top of the mountain, the video shows clouds moving slowly below the peak.",
+          "zh": "当相机被放置在山顶时，视频显示云朵在峰顶下缓慢移动。"
+        },
+        {
+          "en": "When the detector is situated near the river, the data shows the water level rising gradually every spring.",
+          "zh": "当探测器被放置在河流附近时，数据显示每年春天水位都会逐渐上升。"
+        }
+      ]
+    }
+  ]
+}

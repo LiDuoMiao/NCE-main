@@ -1,0 +1,346 @@
+{
+  "book": "NCE2",
+  "lesson": "47",
+  "title": "What evidence is there of a ghost?",
+  "vocabulary": [
+    {
+      "word": "evidence",
+      "phonetic": "/ˈevɪdəns/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "证据；迹象",
+          "usage": "指证明某事存在的具体证明或迹象"
+        }
+      ]
+    },
+    {
+      "word": "ghost",
+      "phonetic": "/ɡəʊst/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "鬼；幽灵",
+          "usage": "指死去的人的灵魂，通常被描述为透明的影像"
+        }
+      ]
+    },
+    {
+      "word": "public house",
+      "phonetic": "/ˈpʌblɪk haʊs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "酒吧；酒馆",
+          "usage": "pub的全称，英国的饮酒场所"
+        }
+      ]
+    },
+    {
+      "word": "haunt",
+      "phonetic": "/hɔːnt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "（鬼魂）出没于；常去",
+          "usage": "指鬼魂在某地出现；也可指人常去某地"
+        }
+      ]
+    },
+    {
+      "word": "haunted",
+      "phonetic": "/ˈhɔːntɪd/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "闹鬼的",
+          "usage": "描述有鬼魂出没的建筑物或地方"
+        }
+      ]
+    },
+    {
+      "word": "furniture",
+      "phonetic": "/ˈfɜːnɪtʃə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "家具",
+          "usage": "指房间内的桌子、椅子、床等可移动物品"
+        }
+      ]
+    },
+    {
+      "word": "whisky",
+      "phonetic": "/ˈwɪski/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "威士忌酒",
+          "usage": "一种烈性酒，源自苏格兰"
+        }
+      ]
+    },
+    {
+      "word": "villager",
+      "phonetic": "/ˈvɪlɪdʒə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "村民",
+          "usage": "住在村庄里的人"
+        }
+      ]
+    },
+    {
+      "word": "suggest",
+      "phonetic": "/səˈdʒest/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "建议；暗示",
+          "usage": "提出建议或暗示某事"
+        }
+      ]
+    },
+    {
+      "word": "block",
+      "phonetic": "/blɒk/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "阻塞；阻挡",
+          "usage": "阻止通过或阻挡"
+        }
+      ]
+    },
+    {
+      "word": "accept",
+      "phonetic": "/əkˈsept/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "接受",
+          "usage": "同意接受某物或某事"
+        }
+      ]
+    },
+    {
+      "word": "noise",
+      "phonetic": "/nɔɪz/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "声音；噪音",
+          "usage": "指听到的任何声音"
+        }
+      ]
+    },
+    {
+      "word": "shake",
+      "phonetic": "/ʃeɪk/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "摇头；摇晃",
+          "usage": "shook是过去式，表示否定或不相信"
+        }
+      ]
+    },
+    {
+      "word": "up for sale",
+      "phonetic": "/ʌp fə seɪl/",
+      "meanings": [
+        {
+          "pos": "phrase",
+          "meaning": "待售；正在出售",
+          "usage": "表示某物正在寻找买家"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "up for sale",
+      "usage": "表示某物正在出售或待售",
+      "examples": [
+        {
+          "en": "The house is up for sale.",
+          "zh": "这房子正在出售。"
+        }
+      ]
+    },
+    {
+      "phrase": "be going to",
+      "usage": "表示计划或打算做某事，或根据现有证据预测将要发生的事",
+      "examples": [
+        {
+          "en": "Mr. Thompson is going to sell the pub.",
+          "zh": "汤普森先生打算把酒吧卖掉。"
+        }
+      ]
+    },
+    {
+      "phrase": "come in",
+      "usage": "进来；进入",
+      "examples": [
+        {
+          "en": "Some villagers must have come in for a free drink.",
+          "zh": "一定是有些村民进来免费喝酒了。"
+        }
+      ]
+    },
+    {
+      "phrase": "turn off",
+      "usage": "关掉（灯、电视等）",
+      "examples": [
+        {
+          "en": "He turned the lights off before he went to bed.",
+          "zh": "他睡觉前把灯关了。"
+        }
+      ]
+    },
+    {
+      "phrase": "shake one's head",
+      "usage": "摇头，表示否定或不同意",
+      "examples": [
+        {
+          "en": "Mr. Thompson shook his head.",
+          "zh": "汤普森先生摇了摇头。"
+        }
+      ]
+    },
+    {
+      "phrase": "even if",
+      "usage": "即使；纵然",
+      "examples": [
+        {
+          "en": "They will not accept the pub even if he gives it away.",
+          "zh": "即使他白送，他们也不会接受这个酒吧。"
+        }
+      ]
+    },
+    {
+      "phrase": "give away",
+      "usage": "赠送；免费送出",
+      "examples": [
+        {
+          "en": "He is willing to give the pub away.",
+          "zh": "他愿意把酒吧送出去。"
+        }
+      ]
+    },
+    {
+      "phrase": "must have + past participle",
+      "usage": "表示对过去发生的事情的肯定推测",
+      "examples": [
+        {
+          "en": "The ghost must have drunk the whisky.",
+          "zh": "那个鬼一定喝了威士忌。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "must have + 过去分词（表示对过去的肯定推测）",
+      "definition": "表示说话人对过去发生的事情的肯定推测，意思是'一定/肯定已经...'",
+      "structure": "主语 + must have + 过去分词 + 其他",
+      "usage": "用于根据现有证据对过去发生的事情进行合理推测，语气肯定",
+      "examples": [
+        {
+          "en": "The ghost must have drunk the whisky.",
+          "zh": "那个鬼一定喝了威士忌。"
+        },
+        {
+          "en": "Someone must have opened the window.",
+          "zh": "一定有人开过窗户了。"
+        }
+      ]
+    },
+    {
+      "title": "be going to 表示将来计划或意图",
+      "definition": "be going to 用于表示已经决定或计划好的将来动作",
+      "structure": "主语 + am/is/are + going to + 动词原形",
+      "usage": "表示主观意图或计划做的事情，也可以表示根据现有证据推断将要发生的事",
+      "examples": [
+        {
+          "en": "Mr. Thompson is going to sell the pub.",
+          "zh": "汤普森先生打算把酒吧卖掉。"
+        },
+        {
+          "en": "It is going to rain.",
+          "zh": "要下雨了。"
+        }
+      ]
+    },
+    {
+      "title": "过去完成时 + before + 过去时间点",
+      "definition": "表示在过去某个时间之前已经完成的动作",
+      "structure": "had + 过去分词 + before + 过去时间/事件",
+      "usage": "描述在过去某事件之前已经完成的动作，强调'过去的过去'",
+      "examples": [
+        {
+          "en": "He had turned the lights off before he went to bed.",
+          "zh": "他睡觉前已经把灯关了。"
+        },
+        {
+          "en": "She had finished her homework before she watched TV.",
+          "zh": "她在看电视之前已经完成了作业。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "be going to + 动词原形（表示计划）",
+      "original": {
+        "en": "Mr. Thompson is going to sell it because it is haunted.",
+        "zh": "汤普森先生打算把它卖掉，因为它闹鬼。"
+      },
+      "imitations": [
+        {
+          "en": "She is going to buy a new car next month.",
+          "zh": "她打算下个月买一辆新车。"
+        },
+        {
+          "en": "They are going to move to a bigger house.",
+          "zh": "他们打算搬到更大的房子去。"
+        }
+      ]
+    },
+    {
+      "pattern": "must have + 过去分词（肯定推测）",
+      "original": {
+        "en": "The ghost must have drunk the whisky.",
+        "zh": "那个鬼一定喝了威士忌。"
+      },
+      "imitations": [
+        {
+          "en": "Someone must have taken my book.",
+          "zh": "一定有人拿了我的书。"
+        },
+        {
+          "en": "He must have forgotten our appointment.",
+          "zh": "他一定是忘了我们的约会。"
+        }
+      ]
+    },
+    {
+      "pattern": "even if + 从句（让步状语）",
+      "original": {
+        "en": "They will not accept the pub even if he gives it away.",
+        "zh": "即使他白送，他们也不会接受这个酒吧。"
+      },
+      "imitations": [
+        {
+          "en": "I won't leave even if you ask me to.",
+          "zh": "即使你让我走，我也不会离开。"
+        },
+        {
+          "en": "She won't believe you even if you tell the truth.",
+          "zh": "即使你说实话，她也不会相信你。"
+        }
+      ]
+    }
+  ]
+}

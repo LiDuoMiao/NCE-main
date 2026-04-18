@@ -1,0 +1,403 @@
+{
+  "book": "NCE3",
+  "lesson": "58",
+  "title": "Lesson 58",
+  "vocabulary": [
+    {
+      "word": "bother",
+      "phonetic": "/ˈbɒðə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "麻烦；烦恼",
+          "usage": "常用a spot of bother表示小麻烦"
+        },
+        {
+          "pos": "verb",
+          "meaning": "打扰；使烦恼",
+          "usage": "常用于口语中表示打扰某人"
+        }
+      ]
+    },
+    {
+      "word": "flat",
+      "phonetic": "/flæt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "公寓；一套房间",
+          "usage": "英式英语中常用，美式英语用apartment"
+        }
+      ]
+    },
+    {
+      "word": "reprimand",
+      "phonetic": "/ˈreprɪmɑːnd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "训斥；谴责",
+          "usage": "正式用词，指严厉地批评或责备"
+        }
+      ]
+    },
+    {
+      "word": "negligence",
+      "phonetic": "/ˈneglɪdʒəns/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "疏忽；粗心大意",
+          "usage": "指由于不注意而造成的错误或疏忽"
+        }
+      ]
+    },
+    {
+      "word": "prudent",
+      "phonetic": "/ˈpruːdnt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "谨慎的；慎重的",
+          "usage": "形容做事深思熟虑、小心谨慎"
+        }
+      ]
+    },
+    {
+      "word": "composure",
+      "phonetic": "/kəmˈpəʊʒə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "镇定；沉着的姿态",
+          "usage": "指在困难情况下保持冷静的能力"
+        }
+      ]
+    },
+    {
+      "word": "lurk",
+      "phonetic": "/lɜːk/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "潜伏；暗藏",
+          "usage": "指隐藏在暗处等待时机"
+        }
+      ]
+    },
+    {
+      "word": "fingerprint",
+      "phonetic": "/ˈfɪŋɡəprɪnt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "指纹",
+          "usage": "指手指留下的纹路，用于身份识别"
+        }
+      ]
+    },
+    {
+      "word": "inconceivable",
+      "phonetic": "/ˌɪnkənˈsiːvəbl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "难以置信的；不可思议的",
+          "usage": "指某事令人难以想象或相信"
+        }
+      ]
+    },
+    {
+      "word": "magpie",
+      "phonetic": "/ˈmæɡpaɪ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "喜鹊；收藏狂",
+          "usage": "原指喜鹊，因其收集习惯比喻爱收集东西的人"
+        }
+      ]
+    },
+    {
+      "word": "hoard",
+      "phonetic": "/hɔːd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "囤积；贮藏",
+          "usage": "指储藏钱或物品以备将来使用"
+        }
+      ]
+    },
+    {
+      "word": "ransack",
+      "phonetic": "/ˈrænsæk/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "彻底搜查；洗劫",
+          "usage": "指为寻找东西而翻遍某处"
+        }
+      ]
+    },
+    {
+      "word": "jewellery",
+      "phonetic": "/ˈdʒuːəlri/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "珠宝；首饰",
+          "usage": "珠宝的总称，不可数名词"
+        }
+      ]
+    },
+    {
+      "word": "disturb",
+      "phonetic": "/dɪˈstɜːb/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "打扰；打扰",
+          "usage": "指打断某人的活动或使某人担忧"
+        }
+      ]
+    },
+    {
+      "word": "fussy",
+      "phonetic": "/ˈfʌsi/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "大惊小怪的；挑剔的",
+          "usage": "形容人对小事过分担心或挑剔"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "a spot of bother",
+      "usage": "表示小麻烦、小纠纷，是英语中常用的委婉表达",
+      "examples": [
+        {
+          "en": "She described it as a little spot of bother.",
+          "zh": "她把这描述为一点小麻烦。"
+        }
+      ]
+    },
+    {
+      "phrase": "force an entry",
+      "usage": "指通过武力或强行手段进入某处",
+      "examples": [
+        {
+          "en": "Burglars had forced an entry during her absence.",
+          "zh": "窃贼趁她不在时强行闯入了。"
+        }
+      ]
+    },
+    {
+      "phrase": "at her age",
+      "usage": "表示在某人这个年纪，常用于表达某种行为是否适合某人的年龄",
+      "examples": [
+        {
+          "en": "At her age, it might be more prudent to have someone with her.",
+          "zh": "在她这个年纪，有人陪着可能更明智。"
+        }
+      ]
+    },
+    {
+      "phrase": "turn over",
+      "usage": "指把东西翻过来或翻遍",
+      "examples": [
+        {
+          "en": "Everything she possessed had been tossed out and turned over.",
+          "zh": "她的所有东西都被扔了出来，翻了个遍。"
+        }
+      ]
+    },
+    {
+      "phrase": "lose one's composure",
+      "usage": "指失去镇定，变得慌张",
+      "examples": [
+        {
+          "en": "She regained her composure and was ready to search.",
+          "zh": "她恢复了镇定，准备开始搜查。"
+        }
+      ]
+    },
+    {
+      "phrase": "be not the first job",
+      "usage": "表示不是第一次做某事，暗示之前有过类似经历",
+      "examples": [
+        {
+          "en": "Their entry into this flat was apparently not the burglars' first job that day.",
+          "zh": "他们进入这间公寓显然不是当天第一次作案。"
+        }
+      ]
+    },
+    {
+      "phrase": "ring up",
+      "usage": "指打电话，是口语中常见的表达",
+      "examples": [
+        {
+          "en": "She rang up her daughter and asked for help.",
+          "zh": "她给女儿打电话请求帮助。"
+        }
+      ]
+    },
+    {
+      "phrase": "be glad to do something",
+      "usage": "表示很高兴做某事",
+      "examples": [
+        {
+          "en": "The old lady was glad to be back at the block of flats.",
+          "zh": "老太太很高兴回到她住的公寓。"
+        }
+      ]
+    },
+    {
+      "phrase": "grow + adjective",
+      "usage": "表示逐渐变得...",
+      "examples": [
+        {
+          "en": "Her basket had grown heavier with every step.",
+          "zh": "她的篮子每走一步就重一些。"
+        }
+      ]
+    },
+    {
+      "phrase": "as clear as daylight",
+      "usage": "比喻某事非常清楚、显而易见",
+      "examples": [
+        {
+          "en": "It was as clear as daylight that burglars had forced an entry.",
+          "zh": "显而易见，窃贼强行闯入了。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去完成时 (Past Perfect Tense)",
+      "definition": "表示在过去某一时刻之前已经完成的动作，常用于描述过去的背景或先发生的事件",
+      "structure": "had + 过去分词",
+      "usage": "当需要表达'过去的过去'这一概念时使用，常与when, after, before等连用，或用于宾语从句中",
+      "examples": [
+        {
+          "en": "She had gone shopping after the home help had left.",
+          "zh": "她在管家离开后才去购物。"
+        },
+        {
+          "en": "She had shut them before going out.",
+          "zh": "她在出门前把门都关上了。"
+        },
+        {
+          "en": "The burglars must have been disturbed.",
+          "zh": "窃贼一定是被打扰了。"
+        }
+      ]
+    },
+    {
+      "title": "过去进行时 (Past Continuous Tense)",
+      "definition": "表示在过去某一时刻正在进行的动作，或用来描述过去的背景",
+      "structure": "was/were + 动词-ing",
+      "usage": "常用于描述故事发生的背景，或与when/while等连用表示两个同时进行的动作",
+      "examples": [
+        {
+          "en": "Her thoughts were on lunch and a good rest.",
+          "zh": "她满脑子想的都是午餐和好好休息。"
+        },
+        {
+          "en": "She was thinking that she must reprimand her home help.",
+          "zh": "她正想着第二天早上一定要责备她的管家。"
+        }
+      ]
+    },
+    {
+      "title": "must have + 过去分词",
+      "definition": "表示对过去发生的事情的推测，意为'一定/肯定做过某事'",
+      "structure": "must have + 过去分词",
+      "usage": "用于根据现有证据或情况对过去事件进行肯定性的推测",
+      "examples": [
+        {
+          "en": "They must have been disturbed.",
+          "zh": "他们一定是被打扰了。"
+        },
+        {
+          "en": "She must reprimand her home help.",
+          "zh": "她必须责备她的管家。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "主语 + be glad to + 动词原形",
+      "original": {
+        "en": "The old lady was glad to be back at the block of flats.",
+        "zh": "老太太很高兴回到她住的公寓。"
+      },
+      "imitations": [
+        {
+          "en": "I was glad to see my old friends again.",
+          "zh": "我很高兴再次见到我的老朋友们。"
+        },
+        {
+          "en": "She was glad to finish her work on time.",
+          "zh": "她很高兴按时完成了工作。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + be/feel + 形容词 + to + 动词原形",
+      "original": {
+        "en": "At her age it might be more prudent to have someone with her.",
+        "zh": "在她这个年纪，有人陪着可能更明智。"
+      },
+      "imitations": [
+        {
+          "en": "It might be better to wait for the police.",
+          "zh": "等待警察可能更好。"
+        },
+        {
+          "en": "It is wise to check everything carefully.",
+          "zh": "仔细检查一切是明智的。"
+        }
+      ]
+    },
+    {
+      "pattern": "It is + 形容词 + that...",
+      "original": {
+        "en": "It was as clear as daylight that burglars had forced an entry.",
+        "zh": "显而易见，窃贼强行闯入了。"
+      },
+      "imitations": [
+        {
+          "en": "It is obvious that she has been robbed.",
+          "zh": "很明显她被抢劫了。"
+        },
+        {
+          "en": "It is certain that he will come tomorrow.",
+          "zh": "他明天一定会来。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + had + 过去分词 + before + doing something",
+      "original": {
+        "en": "She had shut them before going out.",
+        "zh": "她在出门前把门都关上了。"
+      },
+      "imitations": [
+        {
+          "en": "He had finished his homework before watching TV.",
+          "zh": "他在看电视前已经完成了作业。"
+        },
+        {
+          "en": "I had locked the door before leaving.",
+          "zh": "我离开前已经锁好了门。"
+        }
+      ]
+    }
+  ]
+}

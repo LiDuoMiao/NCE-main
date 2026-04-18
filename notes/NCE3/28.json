@@ -1,0 +1,424 @@
+{
+  "book": "NCE3",
+  "lesson": "28",
+  "title": "Lesson 28",
+  "vocabulary": [
+    {
+      "word": "ware",
+      "phonetic": "/weə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "（通常指小商贩出售的）货物，商品",
+          "usage": "常用复数形式wares，多指手工制作或沿街售卖的小商品"
+        }
+      ]
+    },
+    {
+      "word": "liner",
+      "phonetic": "/ˈlaɪnə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "大型客轮，邮轮",
+          "usage": "指定期航行的大型客运轮船"
+        }
+      ]
+    },
+    {
+      "word": "anchor",
+      "phonetic": "/ˈæŋkə(r)/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "抛锚，停泊",
+          "usage": "指船只放下锚固定在水面"
+        },
+        {
+          "pos": "noun",
+          "meaning": "锚",
+          "usage": "指船只停泊时使用的金属器具"
+        }
+      ]
+    },
+    {
+      "word": "silverware",
+      "phonetic": "/ˈsɪlvəweə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "银器，银制品",
+          "usage": "不可数名词，泛指银制的餐具、饰品等"
+        }
+      ]
+    },
+    {
+      "word": "tempt",
+      "phonetic": "/tempt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "引诱，诱惑",
+          "usage": "常用搭配：tempt sb. to do sth. 诱惑某人做某事；be tempted to do sth. 很想做某事"
+        }
+      ]
+    },
+    {
+      "word": "bargain",
+      "phonetic": "/ˈbɑːɡən/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "讨价还价，议价",
+          "usage": "常用搭配：bargain with sb. about/over sth. 和某人就某物议价"
+        },
+        {
+          "pos": "noun",
+          "meaning": "便宜货，减价品；交易",
+          "usage": "指价格低于实际价值的商品，或达成的买卖协议"
+        }
+      ]
+    },
+    {
+      "word": "disembark",
+      "phonetic": "/ˌdɪsɪmˈbɑːk/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "（从船、飞机、火车上）登陆，下车，下机",
+          "usage": "正式用词，指离开交通工具，尤其指船只"
+        }
+      ]
+    },
+    {
+      "word": "assail",
+      "phonetic": "/əˈseɪl/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "纠缠，困扰；攻击",
+          "usage": "常用搭配：be assailed by sb./sth. 被某人/某事纠缠/困扰"
+        }
+      ]
+    },
+    {
+      "word": "conceal",
+      "phonetic": "/kənˈsiːl/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "隐藏，隐瞒",
+          "usage": "正式用词，搭配：conceal sth. from sb. 向某人隐瞒某事"
+        }
+      ]
+    },
+    {
+      "word": "marble",
+      "phonetic": "/ˈmɑːbl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "大理石；弹珠",
+          "usage": "表示“弹珠”时为可数名词，表示“大理石”时为不可数名词"
+        }
+      ]
+    },
+    {
+      "word": "inscribe",
+      "phonetic": "/ɪnˈskraɪb/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "在…上写（刻）字",
+          "usage": "常用被动语态：be inscribed on/in sth. 被刻在某物上"
+        }
+      ]
+    },
+    {
+      "word": "favour",
+      "phonetic": "/ˈfeɪvə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "恩惠，好意；偏爱",
+          "usage": "常用搭配：do sb. a favour 帮某人一个忙；as a special favour 作为特别优惠"
+        }
+      ]
+    },
+    {
+      "word": "gesticulate",
+      "phonetic": "/dʒeˈstɪkjuleɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "做手势，用手势表达",
+          "usage": "指说话时用手势辅助表达情绪或意思"
+        }
+      ]
+    },
+    {
+      "word": "outrageous",
+      "phonetic": "/aʊtˈreɪdʒəs/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "骇人的，离谱的，无法接受的",
+          "usage": "可用来形容价格、行为等离谱到令人难以接受"
+        }
+      ]
+    },
+    {
+      "word": "thrust",
+      "phonetic": "/θrʌst/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "猛推，塞，插",
+          "usage": "不规则动词，过去式和过去分词均为thrust，搭配：thrust sth. into sb.'s hands 把某物塞到某人手里"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "go to great lengths to do sth.",
+      "usage": "表示“竭尽全力做某事，不遗余力做某事”，含为达成目的不惜花费时间精力的含义",
+      "examples": [
+        {
+          "en": "The man went to great lengths to prove that the diamonds were real.",
+          "zh": "那个男子竭尽全力证明这些钻石是真的。"
+        },
+        {
+          "en": "Many companies go to great lengths to protect their trade secrets.",
+          "zh": "许多公司不遗余力地保护自己的商业机密。"
+        }
+      ]
+    },
+    {
+      "phrase": "get rid of",
+      "usage": "表示“摆脱，除去，处理掉”，可接人或物作宾语",
+      "examples": [
+        {
+          "en": "It took me over half an hour to get rid of him.",
+          "zh": "我花了半个多小时才摆脱掉他。"
+        },
+        {
+          "en": "I need to get rid of these old clothes I never wear.",
+          "zh": "我需要把这些我从来不穿的旧衣服处理掉。"
+        }
+      ]
+    },
+    {
+      "phrase": "as a special favour",
+      "usage": "表示“作为特别优惠/优待”，常用于商家说服顾客购买商品的语境",
+      "examples": [
+        {
+          "en": "As a special favour, he would let me have it for ￡30.",
+          "zh": "作为特别优惠，他愿意收我30英镑就把它卖给我。"
+        },
+        {
+          "en": "The shop owner gave me the discount as a special favour for regular customers.",
+          "zh": "作为给老顾客的特别优待，店主给了我这个折扣。"
+        }
+      ]
+    },
+    {
+      "phrase": "no sooner...than...",
+      "usage": "表示“一…就…”，引导时间状语从句，no sooner位于句首时句子要部分倒装",
+      "examples": [
+        {
+          "en": "I had no sooner got off the ship than I was assailed by a man who wanted to sell me a diamond ring.",
+          "zh": "我一下船就被一个想要卖给我钻石戒指的男子缠住了。"
+        },
+        {
+          "en": "No sooner had we sat down than the film started.",
+          "zh": "我们刚一坐下电影就开始了。"
+        }
+      ]
+    },
+    {
+      "phrase": "have no intention of doing sth.",
+      "usage": "表示“没有做某事的打算，无意做某事”，强调主观上完全不想做",
+      "examples": [
+        {
+          "en": "I had no intention of buying one, but I could not conceal the fact that I was impressed by the size of the diamonds.",
+          "zh": "我根本不想买（钻戒），但我无法掩饰的是，那些钻石的大小确实给我留下了深刻的印象。"
+        },
+        {
+          "en": "She has no intention of giving up her career after getting married.",
+          "zh": "她完全没有打算在结婚后放弃自己的事业。"
+        }
+      ]
+    },
+    {
+      "phrase": "be impressed by",
+      "usage": "表示“对…印象深刻，被…打动”，主语是人，宾语是令人印象深刻的事物",
+      "examples": [
+        {
+          "en": "I was impressed by the efficiency of the local government.",
+          "zh": "当地政府的办事效率给我留下了深刻的印象。"
+        }
+      ]
+    },
+    {
+      "phrase": "throw up one's arms in despair",
+      "usage": "表示“绝望地举起双手，无可奈何”，用来表达失望、无力的肢体动作和情绪",
+      "examples": [
+        {
+          "en": "Though he kept throwing up his arms in despair, he readily accepted the ￡5 I gave him.",
+          "zh": "尽管他一直绝望地挥舞着手臂，但还是欣然接受了我付给他的5英镑。"
+        },
+        {
+          "en": "When he found all his efforts had been in vain, he threw up his arms in despair.",
+          "zh": "当他发现自己所有的努力都白费了时，他绝望地举起了双手。"
+        }
+      ]
+    },
+    {
+      "phrase": "be pleased with",
+      "usage": "表示“对…感到满意/高兴”，后接名词或动名词",
+      "examples": [
+        {
+          "en": "I felt especially pleased with my wonderful bargain.",
+          "zh": "我为自己这笔绝妙的交易感到格外得意。"
+        },
+        {
+          "en": "The manager was very pleased with the performance of the new employee.",
+          "zh": "经理对新员工的表现非常满意。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去完成时（Past Perfect Tense）",
+      "definition": "表示过去某个动作或时间之前已经完成的动作，即“过去的过去”，强调动作发生的先后顺序",
+      "structure": "主语 + had + 动词过去分词",
+      "usage": "常用于描述在过去某个明确动作之前已经发生的事，常和before, until, no sooner...than, hardly...when等结构搭配使用",
+      "examples": [
+        {
+          "en": "Before she had anchored, the men from the boats had climbed on board.",
+          "zh": "大船还没下锚，小船上的人就已经爬上了船。"
+        },
+        {
+          "en": "I decided not to buy anything until I had disembarked.",
+          "zh": "我决定在下船之前什么都不买。"
+        },
+        {
+          "en": "He had finished his homework before his parents came back home.",
+          "zh": "在父母回家之前他就已经做完作业了。"
+        }
+      ]
+    },
+    {
+      "title": "让步状语从句（Adverbial Clause of Concession）",
+      "definition": "用来引导与主句内容相反或相对的信息，表达“虽然，尽管，即使”等让步含义，主句和从句之间存在转折关系",
+      "structure": "从属连词（though/although/no matter how等）+ 从句，主句",
+      "usage": "though和although表示“虽然”，不与but连用；no matter + 疑问词（how/what/when等）表示“无论/不管…”，引导让步状语从句",
+      "examples": [
+        {
+          "en": "Though he kept throwing up his arms in despair, he readily accepted the ￡5 I gave him.",
+          "zh": "尽管他一直绝望地挥舞着手臂，但还是欣然接受了我付给他的5英镑。"
+        },
+        {
+          "en": "No matter how hard I tried, it was impossible to fill this beautiful pen with ink.",
+          "zh": "不管我怎么努力，都没法把墨水灌进这支漂亮的钢笔里。"
+        },
+        {
+          "en": "Although it was raining heavily, he still went out to meet his friend.",
+          "zh": "尽管雨下得很大，他还是出门去见朋友了。"
+        }
+      ]
+    },
+    {
+      "title": "并列结构中的省略",
+      "definition": "在并列句中，如果前后分句的主语和谓语动词相同，为了避免重复，可省略后一分句中相同的部分",
+      "structure": "分句1 + 连词 + （省略相同成分的）分句2",
+      "usage": "常见于and, but, or等连词连接的并列句中，省略后句子结构更简洁，语义不受影响",
+      "examples": [
+        {
+          "en": "The decks were soon covered with colourful rugs from Persia, silks from India, copper coffee pots, and beautiful handmade silverware.",
+          "zh": "甲板上很快就摆满了来自波斯的彩色地毯、印度的丝绸、铜制咖啡壶，还有精美的手工银器。"
+        },
+        {
+          "en": "It was difficult not to be tempted.",
+          "zh": "很难不动心。"
+        },
+        {
+          "en": "My friend likes reading novels, and I (like) reading poems.",
+          "zh": "我的朋友喜欢读小说，我喜欢读诗歌。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "It takes/took sb. + 时间 + to do sth.",
+      "original": {
+        "en": "It took me over half an hour to get rid of him.",
+        "zh": "我花了半个多小时才摆脱掉他。"
+      },
+      "imitations": [
+        {
+          "en": "It took me three hours to finish this difficult math problem.",
+          "zh": "我花了三个小时才解出这道很难的数学题。"
+        },
+        {
+          "en": "It took the workers two years to build this bridge.",
+          "zh": "工人们花了两年时间才建成这座桥。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + had no sooner done sth. than + 一般过去时从句",
+      "original": {
+        "en": "I had no sooner got off the ship than I was assailed by a man who wanted to sell me a diamond ring.",
+        "zh": "我一下船就被一个想要卖给我钻石戒指的男子缠住了。"
+      },
+      "imitations": [
+        {
+          "en": "We had no sooner arrived at the station than the train left.",
+          "zh": "我们刚到车站，火车就开了。"
+        },
+        {
+          "en": "He had no sooner finished his speech than the audience started clapping.",
+          "zh": "他刚结束演讲，观众就开始鼓掌了。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + 动词 + when, a moment later + 另一动作",
+      "original": {
+        "en": "Shrugging my shoulders I began to walk away when, a moment later, he ran after me and thrust the pen into my hands.",
+        "zh": "我耸了耸肩转身就走，这时，他追了上来，把钢笔塞到了我手里。"
+      },
+      "imitations": [
+        {
+          "en": "I was about to close the door when, a moment later, my neighbour knocked and asked for a cup of sugar.",
+          "zh": "我正要关门，这时我的邻居敲门来要一杯糖。"
+        },
+        {
+          "en": "We were just leaving the café when, a moment later, it started to pour with rain.",
+          "zh": "我们正要离开咖啡馆，这时突然下起了倾盆大雨。"
+        }
+      ]
+    },
+    {
+      "pattern": "No matter how + 形容词/副词 + 主语 + 谓语, 主句",
+      "original": {
+        "en": "No matter how hard I tried, it was impossible to fill this beautiful pen with ink and to this day it has never written a single word!",
+        "zh": "不管我怎么努力，都没法把墨水灌进这支漂亮的钢笔里，直到今天它也没写出过一个字！"
+      },
+      "imitations": [
+        {
+          "en": "No matter how difficult the task is, I will try my best to complete it.",
+          "zh": "不管这项任务有多难，我都会尽全力完成它。"
+        },
+        {
+          "en": "No matter how many times he failed, he never gave up his dream.",
+          "zh": "不管他失败了多少次，他从来没有放弃自己的梦想。"
+        }
+      ]
+    }
+  ]
+}

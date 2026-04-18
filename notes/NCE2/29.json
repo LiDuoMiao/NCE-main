@@ -1,0 +1,441 @@
+{
+  "book": "NCE2",
+  "lesson": "29",
+  "title": "Does Captain Fawcett think any trip is too dangerous?",
+  "vocabulary": [
+    {
+      "word": "unusual",
+      "phonetic": "/ʌnˈjuːʒuəl/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "meaning": "不寻常的；独特的",
+          "usage": "形容与众不同的、罕见的事物"
+        },
+        {
+          "pos": "adj.",
+          "meaning": "奇怪的",
+          "usage": "指非比寻常的、令人好奇的"
+        }
+      ]
+    },
+    {
+      "word": "taxi",
+      "phonetic": "/ˈtæksi/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "出租车",
+          "usage": "付费载客的机动车辆"
+        },
+        {
+          "pos": "v.",
+          "meaning": "乘出租车；滑行",
+          "usage": "指飞机等缓慢移动"
+        }
+      ]
+    },
+    {
+      "word": "carry",
+      "phonetic": "/ˈkæri/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "meaning": "携带；运载",
+          "usage": "指运输或承载人员、货物"
+        },
+        {
+          "pos": "v.",
+          "meaning": "支撑；容纳",
+          "usage": "指具有容纳或支撑能力"
+        }
+      ]
+    },
+    {
+      "word": "passenger",
+      "phonetic": "/ˈpæsɪndʒə(r)/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "乘客；旅客",
+          "usage": "指交通工具上的乘坐者"
+        }
+      ]
+    },
+    {
+      "word": "surprising",
+      "phonetic": "/səˈpraɪzɪŋ/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "meaning": "令人惊讶的",
+          "usage": "描述令人意外的事物"
+        }
+      ]
+    },
+    {
+      "word": "land",
+      "phonetic": "/lænd/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "meaning": "登陆；降落",
+          "usage": "指飞机等着陆或抵达地面"
+        },
+        {
+          "pos": "n.",
+          "meaning": "陆地；土地",
+          "usage": "与 sea 相对"
+        }
+      ]
+    },
+    {
+      "word": "lonely",
+      "phonetic": "/ˈləʊnli/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "meaning": "孤独的；偏僻的",
+          "usage": "描述人感到寂寞或地方偏远荒凉"
+        },
+        {
+          "pos": "adj.",
+          "meaning": "人迹罕至的",
+          "usage": "指偏僻的、无人居住的地区"
+        }
+      ]
+    },
+    {
+      "word": "deserted",
+      "phonetic": "/dɪˈzɜːtɪd/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "meaning": "被遗弃的；空无一人的",
+          "usage": "描述无人居住或空旷的地方"
+        }
+      ]
+    },
+    {
+      "word": "request",
+      "phonetic": "/rɪˈkwest/",
+      "meanings": [
+        {
+          "pos": "n./v.",
+          "meaning": "请求；要求",
+          "usage": "正式或礼貌地请求某事"
+        }
+      ]
+    },
+    {
+      "word": "dangerous",
+      "phonetic": "/ˈdeɪndʒərəs/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "meaning": "危险的",
+          "usage": "描述可能造成伤害或风险的事物"
+        }
+      ]
+    },
+    {
+      "word": "flight",
+      "phonetic": "/flaɪt/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "航班；飞行",
+          "usage": "指航空旅行或飞行动作"
+        }
+      ]
+    },
+    {
+      "word": "block",
+      "phonetic": "/blɒk/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "块；街区；大楼",
+          "usage": "建筑群或街道单位"
+        },
+        {
+          "pos": "n.",
+          "meaning": "大厦",
+          "usage": "apartment block 公寓大楼"
+        }
+      ]
+    },
+    {
+      "word": "refuse",
+      "phonetic": "/rɪˈfjuːz/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "meaning": "拒绝",
+          "usage": "表示不同意或不愿做某事"
+        }
+      ]
+    },
+    {
+      "word": "flat",
+      "phonetic": "/flæt/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "公寓；单元房",
+          "usage": "英国英语中指一套房间"
+        },
+        {
+          "pos": "adj.",
+          "meaning": "平坦的",
+          "usage": "形容表面平整"
+        }
+      ]
+    },
+    {
+      "word": "rooftop",
+      "phonetic": "/ˈruːftɒp/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "屋顶",
+          "usage": "建筑物的顶部表面"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "begin a new service",
+      "usage": "开始一项新服务/业务",
+      "examples": [
+        {
+          "en": "Captain Fawcett has begun a new service.",
+          "zh": "福西特机长开始了一项新服务。"
+        }
+      ]
+    },
+    {
+      "phrase": "carry seven passengers",
+      "usage": "载七名乘客",
+      "examples": [
+        {
+          "en": "This wonderful plane can carry seven passengers.",
+          "zh": "这架神奇的飞机能载七名乘客。"
+        }
+      ]
+    },
+    {
+      "phrase": "land anywhere",
+      "usage": "在任何地方降落",
+      "examples": [
+        {
+          "en": "It can land anywhere: on snow, water, or even on a ploughed field.",
+          "zh": "它能在任何地方降落：雪上、水上，甚至在耕过的田地上。"
+        }
+      ]
+    },
+    {
+      "phrase": "fly from...to...",
+      "usage": "从...飞到...",
+      "examples": [
+        {
+          "en": "A doctor flew from Birmingham to a lonely village.",
+          "zh": "一位医生从伯明翰飞到一个偏僻的村庄。"
+        }
+      ]
+    },
+    {
+      "phrase": "on another occasion",
+      "usage": "另一次/在另一种场合",
+      "examples": [
+        {
+          "en": "On another occasion, he landed in a deserted car park.",
+          "zh": "另一次，他降落在一个人迹罕至的停车场。"
+        }
+      ]
+    },
+    {
+      "phrase": "refuse a request",
+      "usage": "拒绝一个请求",
+      "examples": [
+        {
+          "en": "Captain Fawcett has just refused a strange request.",
+          "zh": "福西特机长刚刚拒绝了一个奇怪的请求。"
+        }
+      ]
+    },
+    {
+      "phrase": "want to do something",
+      "usage": "想要做某事",
+      "examples": [
+        {
+          "en": "The man wanted to fly to Rockall.",
+          "zh": "那个人想要飞往罗卡尔岛。"
+        }
+      ]
+    },
+    {
+      "phrase": "too dangerous",
+      "usage": "太危险",
+      "examples": [
+        {
+          "en": "The trip was too dangerous.",
+          "zh": "这趟旅行太危险了。"
+        }
+      ]
+    },
+    {
+      "phrase": "once he landed on",
+      "usage": "有一次他降落在...",
+      "examples": [
+        {
+          "en": "Once he landed on the roof of a block of flats.",
+          "zh": "有一次他降落在了一栋公寓楼的屋顶上。"
+        }
+      ]
+    },
+    {
+      "phrase": "did not take him",
+      "usage": "没有带他去",
+      "examples": [
+        {
+          "en": "Captain Fawcett did not take him because the trip was too dangerous.",
+          "zh": "福西特机长没有带他去，因为旅途太危险了。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "现在完成时 (Present Perfect Tense)",
+      "definition": "现在完成时表示过去发生的动作或状态，与现在有联系或对现在有影响。通常与 already, yet, just, recently, since, for 等时间状语连用。",
+      "structure": "主语 + have/has + 过去分词",
+      "usage": "描述过去的动作对现在造成的影响，或表示动作持续到现在。本课中 has bought, has begun, has just refused 都使用了现在完成时。",
+      "examples": [
+        {
+          "en": "Captain Fawcett has bought an unusual taxi.",
+          "zh": "福西特机长买了一辆不寻常的出租车。"
+        },
+        {
+          "en": "He has just refused a strange request.",
+          "zh": "他刚刚拒绝了一个奇怪的请求。"
+        },
+        {
+          "en": "Since then, Captain Fawcett has flown passengers to many unusual places.",
+          "zh": "从那以后，福西特机长载送乘客到过许多不寻常的地方。"
+        }
+      ]
+    },
+    {
+      "title": "一般过去时 (Simple Past Tense)",
+      "definition": "一般过去时表示过去发生的动作或存在的状态，常与具体的时间状语连用，如 yesterday, last week, in 2020 等。",
+      "structure": "主语 + 动词过去式",
+      "usage": "描述在过去某个特定时间发生的动作，不强调与现在的关系。本课中 flew, landed, wanted 都使用了过去式。",
+      "examples": [
+        {
+          "en": "Captain Fawcett's first passenger was a doctor who flew from Birmingham.",
+          "zh": "福西特机长的第一位乘客是一位从伯明翰飞来的医生。"
+        },
+        {
+          "en": "Once he landed on the roof of a block of flats.",
+          "zh": "有一次他降落在了一栋公寓楼的屋顶上。"
+        },
+        {
+          "en": "The man wanted to fly to Rockall.",
+          "zh": "那个人想要飞往罗卡尔岛。"
+        }
+      ]
+    },
+    {
+      "title": "too + 形容词 + to do (太...而不能)",
+      "definition": "too 后面接形容词，to do 表示结果，意为\"太...以至于不能...\"，表示由于程度过高而无法做某事。",
+      "structure": "too + 形容词 + to + 动词原形",
+      "usage": "表示程度过高导致不可能做某事，to 后面接动词原形。本课中 too dangerous 就是这种用法。",
+      "examples": [
+        {
+          "en": "The trip was too dangerous.",
+          "zh": "这趟旅行太危险了。"
+        },
+        {
+          "en": "The box is too heavy to carry.",
+          "zh": "这个箱子太重了，搬不动。"
+        },
+        {
+          "en": "He is too young to understand.",
+          "zh": "他太年轻了，理解不了。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Has + 主语 + 过去分词...? (现在完成时一般疑问句)",
+      "original": {
+        "en": "Has Captain Fawcett bought an unusual taxi?",
+        "zh": "福西特机长买了一辆不寻常的出租车吗？"
+      },
+      "imitations": [
+        {
+          "en": "Has she begun a new service?",
+          "zh": "她开始了一项新服务吗？"
+        },
+        {
+          "en": "Has he flown to many unusual places?",
+          "zh": "他飞去过许多不寻常的地方吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + has/have + just + 过去分词 (刚刚...)",
+      "original": {
+        "en": "Captain Fawcett has just refused a strange request.",
+        "zh": "福西特机长刚刚拒绝了一个奇怪的请求。"
+      },
+      "imitations": [
+        {
+          "en": "I have just finished my homework.",
+          "zh": "我刚刚完成作业。"
+        },
+        {
+          "en": "He has just arrived at the airport.",
+          "zh": "他刚刚到达机场。"
+        }
+      ]
+    },
+    {
+      "pattern": "too + 形容词 + to + 动词原形 (太...而不能)",
+      "original": {
+        "en": "The trip was too dangerous to take.",
+        "zh": "这趟旅行太危险了，不能去。"
+      },
+      "imitations": [
+        {
+          "en": "The problem is too difficult to solve.",
+          "zh": "这个问题太难了，解决不了。"
+        },
+        {
+          "en": "The coffee is too hot to drink now.",
+          "zh": "咖啡太烫了，现在不能喝。"
+        }
+      ]
+    },
+    {
+      "pattern": "once + 主语 + 过去式 (有一次/曾经)",
+      "original": {
+        "en": "Once he landed on the roof of a block of flats.",
+        "zh": "有一次他降落在了一栋公寓楼的屋顶上。"
+      },
+      "imitations": [
+        {
+          "en": "Once she visited Paris.",
+          "zh": "有一次她去了巴黎。"
+        },
+        {
+          "en": "Once he lost his wallet on the train.",
+          "zh": "有一次他在火车上丢了钱包。"
+        }
+      ]
+    }
+  ]
+}

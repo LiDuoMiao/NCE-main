@@ -1,0 +1,352 @@
+{
+  "book": "NCE4",
+  "lesson": "22",
+  "title": "Lesson 22",
+  "vocabulary": [
+    {
+      "word": "loom",
+      "phonetic": "/luːm/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "显得突出；赫然耸现",
+          "usage": "常用来形容问题、威胁等令人担忧且看似不可避免地出现，常用搭配loom large"
+        },
+        {
+          "pos": "noun",
+          "meaning": "织布机",
+          "usage": "指用于纺织的机械设备"
+        }
+      ]
+    },
+    {
+      "word": "manifest",
+      "phonetic": "/ˈmænɪfest/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "明显的，显而易见的",
+          "usage": "正式用词，强调无需解释就能看出的特征或事实"
+        },
+        {
+          "pos": "verb",
+          "meaning": "表明，显示",
+          "usage": "指通过行动、态度等明确表现出某种情感或特质"
+        }
+      ]
+    },
+    {
+      "word": "undergo",
+      "phonetic": "/ˌʌndəˈɡəʊ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "经历，经受（变化、不快的事等）",
+          "usage": "后面常接表示变化、考验、手术等的名词，过去式underwent，过去分词undergone"
+        }
+      ]
+    },
+    {
+      "word": "morality",
+      "phonetic": "/məˈræləti/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "道德，道德准则",
+          "usage": "指判断行为对错的标准体系，不可数名词"
+        }
+      ]
+    },
+    {
+      "word": "accumulation",
+      "phonetic": "/əˌkjuːmjəˈleɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "积累，积聚",
+          "usage": "既可指积累的动作，也可指积累下来的事物，动词形式为accumulate"
+        }
+      ]
+    },
+    {
+      "word": "enhance",
+      "phonetic": "/ɪnˈhɑːns/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "提高，增强，增进",
+          "usage": "强调在原有基础上提升价值、吸引力、效果等，宾语常为声誉、效率、能力等抽象名词"
+        }
+      ]
+    },
+    {
+      "word": "tempo",
+      "phonetic": "/ˈtempəʊ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "速度，节奏",
+          "usage": "既可指音乐的节拍，也可指活动、进程的发展速度，复数形式为tempos或tempi"
+        }
+      ]
+    },
+    {
+      "word": "trickle",
+      "phonetic": "/ˈtrɪkl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "涓流，细流；稀稀落落的流动",
+          "usage": "指缓慢、少量的流动，也可作动词表示“滴，淌，缓慢移动”"
+        }
+      ]
+    },
+    {
+      "word": "torrent",
+      "phonetic": "/ˈtɒrənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "激流，洪流；爆发，迸发",
+          "usage": "可指汹涌的水流，也可形容大量涌现的事物，如a torrent of abuse（一通劈头盖脸的辱骂）"
+        }
+      ]
+    },
+    {
+      "word": "indifferently",
+      "phonetic": "/ɪnˈdɪfrəntli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "不在乎地，冷淡地；无关紧要地",
+          "usage": "此处表示对知识的两种用途不加区分地使用，形容词形式为indifferent"
+        }
+      ]
+    },
+    {
+      "word": "grimly",
+      "phonetic": "/ˈɡrɪmli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "冷酷地，讨厌地；严肃地",
+          "usage": "用来形容带有负面、令人不快的色彩的状态，形容词形式为grim"
+        }
+      ]
+    },
+    {
+      "word": "whimsical",
+      "phonetic": "/ˈwɪmzɪkl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "异想天开的，荒诞可笑的",
+          "usage": "形容事物古怪、出人意料，有时带有滑稽或讽刺的意味"
+        }
+      ]
+    },
+    {
+      "word": "shatter",
+      "phonetic": "/ˈʃætə(r)/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "打碎，破碎；破坏，毁坏",
+          "usage": "既可指物体突然碎裂成小块，也可指希望、信念等被彻底摧毁"
+        }
+      ]
+    },
+    {
+      "word": "twofold",
+      "phonetic": "/ˈtuːfəʊld/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "双重的，两部分的",
+          "usage": "表示包含两个方面或部分，也可作副词表示“两倍地”"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "loom large",
+      "usage": "表示（问题、忧虑等）显得突出、严重，让人担忧",
+      "examples": [
+        {
+          "en": "The threat of war loomed large in the country.",
+          "zh": "战争的威胁在这个国家显得十分严峻。"
+        },
+        {
+          "en": "Exam season is looming large for all the students.",
+          "zh": "考试季越来越近，所有学生都压力很大。"
+        }
+      ]
+    },
+    {
+      "phrase": "by means of",
+      "usage": "介词短语，表示“通过…方式，借助…手段”，后面接名词或动名词",
+      "examples": [
+        {
+          "en": "The load was lifted by means of a crane.",
+          "zh": "重物是用起重机吊起来的。"
+        },
+        {
+          "en": "We express our thoughts by means of words.",
+          "zh": "我们通过语言表达思想。"
+        }
+      ]
+    },
+    {
+      "phrase": "compound interest law",
+      "usage": "经济学术语，指“复利法则”，文中用来比喻知识增长的滚雪球效应",
+      "examples": [
+        {
+          "en": "The compound interest law allows small savings to grow significantly over time.",
+          "zh": "复利法则能让小额储蓄随着时间推移大幅增长。"
+        },
+        {
+          "en": "Language learning follows a kind of compound interest law: the more you learn, the faster you acquire new knowledge.",
+          "zh": "语言学习遵循类似复利的规律：你学得越多，吸收新知识的速度就越快。"
+        }
+      ]
+    },
+    {
+      "phrase": "turn sth to practical account",
+      "usage": "表示“将某物付诸实际应用，利用某物”，也可写作put sth to practical use",
+      "examples": [
+        {
+          "en": "It is important to turn the theoretical knowledge we learn at university to practical account.",
+          "zh": "把我们在大学学到的理论知识付诸实际应用很重要。"
+        },
+        {
+          "en": "The inventor finally turned his new invention to practical account in the manufacturing industry.",
+          "zh": "这位发明家最终将他的新发明应用到了制造业中。"
+        }
+      ]
+    },
+    {
+      "phrase": "two-edged weapon",
+      "usage": "固定表达，指“双刃剑”，用来形容事物同时有好坏两种作用",
+      "examples": [
+        {
+          "en": "Social media is a two-edged weapon: it connects people but also spreads misinformation easily.",
+          "zh": "社交媒体是一把双刃剑：它连接了人们，但也很容易传播虚假信息。"
+        },
+        {
+          "en": "Nuclear technology is a two-edged weapon that can provide clean energy or cause massive destruction.",
+          "zh": "核技术是一把双刃剑，既可以提供清洁能源，也可能造成大规模破坏。"
+        }
+      ]
+    },
+    {
+      "phrase": "close at hand",
+      "usage": "表示“在附近，在手边”，强调距离很近",
+      "examples": [
+        {
+          "en": "Always keep a first-aid kit close at hand when you go camping.",
+          "zh": "去露营的时候要随时把急救包放在手边。"
+        },
+        {
+          "en": "The shopping mall is close at hand, so we can go there to buy groceries anytime.",
+          "zh": "购物中心就在附近，我们随时可以去那里买日用品。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "as引导的非限制性定语从句",
+      "definition": "as可以引导非限制性定语从句，指代整个主句的内容，可放在主句之前、之中或之后，常翻译为“正如…，正像…”",
+      "structure": "As + 从句谓语, + 主句 / 主句, + as + 从句谓语",
+      "usage": "常见的固定结构有as is known to all（众所周知）、as is often the case（情况常常如此）、as is mentioned above（正如上文提到的）等",
+      "examples": [
+        {
+          "en": "As is so often pointed out, knowledge is a two-edged weapon which can be used equally for good or evil.",
+          "zh": "正如人们常常指出的，知识是一把双刃剑，既可以用于造福，也同样可以用来为害。"
+        },
+        {
+          "en": "As is known to all, the earth moves around the sun.",
+          "zh": "众所周知，地球绕着太阳转。"
+        },
+        {
+          "en": "He is late for class again, as is often the case.",
+          "zh": "他上课又迟到了，这是常有的事。"
+        }
+      ]
+    },
+    {
+      "title": "让步状语从句：although引导的让步关系",
+      "definition": "although用来引导让步状语从句，表示“虽然，尽管”，引导的从句可以放在主句前或主句后，不能与but同时出现在同一个句子中，但可以和yet、still连用",
+      "structure": "Although + 从句, + 主句 / 主句 + although + 从句",
+      "usage": "用于陈述与主句内容相反的情况，突出主句的内容",
+      "examples": [
+        {
+          "en": "Although mankind has undergone no general improvement in intelligence or morality, it has made extraordinary progress in the accumulation of knowledge.",
+          "zh": "虽然人类在智力和道德上没有得到普遍提高，但在知识积累方面却取得了惊人的进步。"
+        },
+        {
+          "en": "Although he is quite old, he still leads an active life.",
+          "zh": "虽然他年事已高，但仍然过着活跃的生活。"
+        },
+        {
+          "en": "I didn't buy the dress although it was of good quality.",
+          "zh": "我没有买那条裙子，尽管它质量很好。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Why does... loom so large...? Surely because...",
+      "original": {
+        "en": "Why does the idea of progress loom so large in the modern world? Surely because progress of a particular kind is actually taking place around us and is becoming more and more manifest.",
+        "zh": "为什么进步这个概念在现代世界显得如此突出？无疑是因为有一种特殊的进步实际上正在我们周围发生，而且变得越来越明显。"
+      },
+      "imitations": [
+        {
+          "en": "Why does the issue of environmental protection loom so large in current discussions? Surely because climate change is having an increasing impact on people's daily lives.",
+          "zh": "为什么环境保护问题在当前的讨论中如此受重视？无疑是因为气候变化正对人们的日常生活产生越来越大的影响。"
+        },
+        {
+          "en": "Why does the problem of youth employment loom so large in many countries? Surely because the number of graduates is growing faster than the job market can absorb.",
+          "zh": "为什么青年就业问题在很多国家显得十分严峻？无疑是因为毕业生数量的增长速度超过了就业市场的吸纳能力。"
+        }
+      ]
+    },
+    {
+      "pattern": "What is called... is not the result of..., but of...",
+      "original": {
+        "en": "What is called 'modern civilization' is not the result of a balanced development of all man's nature, but of accumulated knowledge applied to practical life.",
+        "zh": "所谓“现代文明”并不是人的天性平衡发展的结果，而是积累起来的知识应用到实际生活中的结果。"
+      },
+      "imitations": [
+        {
+          "en": "What is called 'fast success' is not the result of good luck, but of years of persistent effort behind the scenes.",
+          "zh": "所谓的“快速成功”并不是运气好的结果，而是多年默默坚持努力的结果。"
+        },
+        {
+          "en": "What is called 'effective learning' is not the result of spending long hours studying mindlessly, but of using proper methods and staying focused.",
+          "zh": "所谓的“高效学习”并不是漫无目的地长时间学习的结果，而是使用正确方法并保持专注的结果。"
+        }
+      ]
+    },
+    {
+      "pattern": "Could any spectacle, for instance, be more... than that of...?",
+      "original": {
+        "en": "Could any spectacle, for instance, be more grimly whimsical than that of gunners using science to shatter men's bodies while, close at hand, surgeons use it to restore them?",
+        "zh": "比如说，炮手用科学毁坏人体，而就在附近，外科医生用科学抢救被炮手毁坏的人体，还有什么情况比这种景象更怪诞得令人毛骨悚然的吗？"
+      },
+      "imitations": [
+        {
+          "en": "Could any spectacle, for instance, be more ironic than that of people ordering takeout in disposable packaging while posting videos calling for plastic reduction online?",
+          "zh": "比如说，人们用一次性包装点外卖，同时又在网上发视频呼吁减少塑料使用，还有什么景象比这更讽刺的吗？"
+        },
+        {
+          "en": "Could any spectacle, for instance, be more heartwarming than that of strangers coming together to help a family whose house was destroyed by a fire?",
+          "zh": "比如说，陌生人齐聚一堂帮助房屋被火灾摧毁的一家人，还有什么景象比这更暖心的吗？"
+        }
+      ]
+    }
+  ]
+}

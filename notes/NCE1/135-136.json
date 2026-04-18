@@ -1,0 +1,393 @@
+{
+  "book": "NCE1",
+  "lesson": "135-136",
+  "title": "Lesson 135",
+  "vocabulary": [
+    {
+      "word": "report",
+      "phonetic": "/rɪˈpɔːt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "报告；报道",
+          "usage": "指新闻或信息报道"
+        },
+        {
+          "pos": "verb",
+          "meaning": "报道；汇报",
+          "usage": "指报告或陈述信息"
+        }
+      ]
+    },
+    {
+      "word": "retire",
+      "phonetic": "/rɪˈtaɪə(r)/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "退休；退役",
+          "usage": "指停止工作，常见于职业生涯结束"
+        }
+      ]
+    },
+    {
+      "word": "future",
+      "phonetic": "/ˈfjuːtʃə(r)/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "未来的；将来的",
+          "usage": "修饰名词，表示将来的"
+        }
+      ]
+    },
+    {
+      "word": "husband",
+      "phonetic": "/ˈhʌzbənd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "丈夫",
+          "usage": "指已婚女性的配偶"
+        }
+      ]
+    },
+    {
+      "word": "film",
+      "phonetic": "/fɪlm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "电影；影片",
+          "usage": "指 cinematograph pictures"
+        },
+        {
+          "pos": "verb",
+          "meaning": "拍摄；把...拍成电影",
+          "usage": "作动词时表示拍摄"
+        }
+      ]
+    },
+    {
+      "word": "sensational",
+      "phonetic": "/senˈseɪʃənl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "轰动的；耸人听闻的",
+          "usage": "形容引起广泛关注或震惊的事物"
+        }
+      ]
+    },
+    {
+      "word": "hotel",
+      "phonetic": "/həʊˈtel/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "酒店；旅馆",
+          "usage": "指提供住宿的场所"
+        }
+      ]
+    },
+    {
+      "word": "introduce",
+      "phonetic": "/ˌɪntrəˈdjuːs/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "介绍；引见",
+          "usage": "用于介绍人与人相识"
+        }
+      ]
+    },
+    {
+      "word": "marry",
+      "phonetic": "/ˈmæri/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "结婚；嫁；娶",
+          "usage": "指与某人结婚的动作"
+        }
+      ]
+    },
+    {
+      "word": "mind",
+      "phonetic": "/maɪnd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "头脑；想法；主意",
+          "usage": "make up one's mind 表示下定决心"
+        }
+      ]
+    },
+    {
+      "word": "latest",
+      "phonetic": "/ˈleɪtɪst/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "最新的；最近的",
+          "usage": "最高级形式，表示时间上最近的"
+        }
+      ]
+    },
+    {
+      "word": "reporter",
+      "phonetic": "/rɪˈpɔːtə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "记者；新闻报道者",
+          "usage": "指从事新闻报道工作的人"
+        }
+      ]
+    },
+    {
+      "word": "sixth",
+      "phonetic": "/sɪksθ/",
+      "meanings": [
+        {
+          "pos": "numeral",
+          "meaning": "第六的",
+          "usage": "序数词，表示顺序第六"
+        }
+      ]
+    },
+    {
+      "word": "certainly",
+      "phonetic": "/ˈsɜːtənli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "当然；肯定地",
+          "usage": "表示确认或肯定"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "make up one's mind",
+      "usage": "下定决心；做决定",
+      "examples": [
+        {
+          "en": "I can't make up my mind.",
+          "zh": "我无法做出决定。"
+        },
+        {
+          "en": "She has made up her mind to go abroad.",
+          "zh": "她已下定决心出国。"
+        }
+      ]
+    },
+    {
+      "phrase": "get married",
+      "usage": "结婚",
+      "examples": [
+        {
+          "en": "They're going to get married next week.",
+          "zh": "他们打算下周结婚。"
+        },
+        {
+          "en": "When did they get married?",
+          "zh": "他们什么时候结的婚？"
+        }
+      ]
+    },
+    {
+      "phrase": "the latest report",
+      "usage": "最新报道",
+      "examples": [
+        {
+          "en": "Here's the latest report about Karen Marsh.",
+          "zh": "这是关于卡伦·马什的最新报道。"
+        }
+      ]
+    },
+    {
+      "phrase": "Let me introduce him to you",
+      "usage": "让我把他介绍给你",
+      "examples": [
+        {
+          "en": "Let me introduce him to you. His name is Carlos.",
+          "zh": "让我把他介绍给你。他叫卡洛斯。"
+        }
+      ]
+    },
+    {
+      "phrase": "I may",
+      "usage": "也许吧（表示不确定）",
+      "examples": [
+        {
+          "en": "Are you really going to retire? I may.",
+          "zh": "你真的打算退休吗？也许吧。"
+        }
+      ]
+    },
+    {
+      "phrase": "won't let me",
+      "usage": "不让我...（表示禁止或不允许）",
+      "examples": [
+        {
+          "en": "He won't let me make another film.",
+          "zh": "他不会让我再拍电影了。"
+        }
+      ]
+    },
+    {
+      "phrase": "That's...news, isn't it?",
+      "usage": "真是...新闻，不是吗？（反意疑问句）",
+      "examples": [
+        {
+          "en": "That's sensational news, isn't it?",
+          "zh": "真是轰动的新闻，不是吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "I will have to...",
+      "usage": "我必须...（表示将来必要性）",
+      "examples": [
+        {
+          "en": "I will have to ask my future husband.",
+          "zh": "我必须问问我未来的丈夫。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "直接引语转为间接引语 (Direct to Indirect Speech)",
+      "definition": "将别人的话用引述的形式重新表达，通常在人称、时态、时间状语和地点状语上需要变化",
+      "structure": "主语 + said (that) + 从句 / 主语 + asked + if/whether + 从句",
+      "usage": "用于转述他人的话语，要注意时态的倒退规则：一般现在时→一般过去时，现在进行时→过去进行时等",
+      "examples": [
+        {
+          "en": "She said, 'I may retire.' → She said (that) she might retire.",
+          "zh": "她说：'我也许会退休。' → 她说她也许会退休。"
+        },
+        {
+          "en": "She said, 'I can't make up my mind.' → She said she couldn't make up her mind.",
+          "zh": "她说：'我无法做决定。' → 她说她无法做决定。"
+        },
+        {
+          "en": "She said, 'He won't let me make another film.' → She said her future husband would not let her make another film.",
+          "zh": "她说：'他不会让我再拍电影了。' → 她说她未来的丈夫不会让她再拍电影了。"
+        },
+        {
+          "en": "'We will get married next week.' → She told us they would get married next week.",
+          "zh": "'我们下周要结婚了。' → 她告诉我们他们下周要结婚了。"
+        }
+      ]
+    },
+    {
+      "title": "情态动词 may 的用法",
+      "definition": "may 表示可能性，意思是\"也许；可能\"，用于现在时或将来时",
+      "structure": "主语 + may + 动词原形",
+      "usage": "表示不确定的可能性，语气比 can 弱，比 might 正式",
+      "examples": [
+        {
+          "en": "Are you really going to retire? I may.",
+          "zh": "你真的要退休吗？也许吧。"
+        },
+        {
+          "en": "She may retire next year.",
+          "zh": "她明年也许会退休。"
+        }
+      ]
+    },
+    {
+      "title": "反意疑问句 (Tag Question)",
+      "definition": "陈述句后接简短问句，用来确认信息或征求同意",
+      "structure": "肯定陈述句 + 否定问句？/ 否定陈述句 + 肯定问句？",
+      "usage": "用于加强语气或确认对方观点，回答时根据实际情况选择 yes 或 no",
+      "examples": [
+        {
+          "en": "That's sensational news, isn't it?",
+          "zh": "真是轰动的新闻，不是吗？"
+        },
+        {
+          "en": "She is a teacher, isn't she?",
+          "zh": "她是老师，不是吗？"
+        },
+        {
+          "en": "You don't like it, do you?",
+          "zh": "你不喜欢它，对吗？"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Are you really going to + 动词原形?",
+      "original": {
+        "en": "Are you really going to retire?",
+        "zh": "你真的打算退休吗？"
+      },
+      "imitations": [
+        {
+          "en": "Are you really going to move to London?",
+          "zh": "你真的打算搬到伦敦吗？"
+        },
+        {
+          "en": "Are you really going to buy that house?",
+          "zh": "你真的要买那栋房子吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "I may / I can't make up my mind.",
+      "original": {
+        "en": "I may. I can't make up my mind.",
+        "zh": "也许吧。我无法做出决定。"
+      },
+      "imitations": [
+        {
+          "en": "Are you coming to the party? I may. I can't make up my mind.",
+          "zh": "你来参加聚会吗？也许吧。我无法做决定。"
+        },
+        {
+          "en": "Will you accept the job? I may. I can't make up my mind.",
+          "zh": "你会接受这份工作吗？也许吧。我无法做决定。"
+        }
+      ]
+    },
+    {
+      "pattern": "He/She won't let me + 动词原形",
+      "original": {
+        "en": "He won't let me make another film.",
+        "zh": "他不会让我再拍电影了。"
+      },
+      "imitations": [
+        {
+          "en": "My parents won't let me go out tonight.",
+          "zh": "我父母今晚不让我出去。"
+        },
+        {
+          "en": "She won't let me borrow her car.",
+          "zh": "她不会让我借她的车。"
+        }
+      ]
+    },
+    {
+      "pattern": "That's + 形容词 + news, isn't it?",
+      "original": {
+        "en": "That's sensational news, isn't it?",
+        "zh": "真是轰动的新闻，不是吗？"
+      },
+      "imitations": [
+        {
+          "en": "That's great news, isn't it?",
+          "zh": "真是个好消息，不是吗？"
+        },
+        {
+          "en": "That's terrible news, isn't it?",
+          "zh": "真是个坏消息，不是吗？"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,424 @@
+{
+  "book": "NCE2",
+  "lesson": "44",
+  "title": "How did Mrs. Sterling get her bag back?",
+  "vocabulary": [
+    {
+      "word": "risk",
+      "phonetic": "/rɪsk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "风险；危险",
+          "usage": "指可能发生的危险或损失"
+        },
+        {
+          "pos": "verb",
+          "meaning": "冒…的危险",
+          "usage": "指使处于危险中"
+        }
+      ]
+    },
+    {
+      "word": "forest",
+      "phonetic": "/ˈfɒrɪst/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "森林",
+          "usage": "大片树木覆盖的地区"
+        }
+      ]
+    },
+    {
+      "word": "picnic",
+      "phonetic": "/ˈpɪknɪk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "野餐",
+          "usage": "在户外吃的便餐"
+        },
+        {
+          "pos": "verb",
+          "meaning": "去野餐",
+          "usage": "进行野餐活动"
+        }
+      ]
+    },
+    {
+      "word": "handbag",
+      "phonetic": "/ˈhændbæɡ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "手提包",
+          "usage": "妇女随身携带的包"
+        }
+      ]
+    },
+    {
+      "word": "struggle",
+      "phonetic": "/ˈstrʌɡl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "斗争；挣扎",
+          "usage": "用力对抗或争取"
+        },
+        {
+          "pos": "verb",
+          "meaning": "斗争；挣扎",
+          "usage": "努力克服困难"
+        }
+      ]
+    },
+    {
+      "word": "strap",
+      "phonetic": "/stræp/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "带子",
+          "usage": "用于固定或携带的细长条状物"
+        },
+        {
+          "pos": "verb",
+          "meaning": "用带子系",
+          "usage": "用带子捆绑或固定"
+        }
+      ]
+    },
+    {
+      "word": "possession",
+      "phonetic": "/pəˈzeʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "拥有；占有",
+          "usage": "指拥有某物的状态"
+        }
+      ]
+    },
+    {
+      "word": "breath",
+      "phonetic": "/breθ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "呼吸；气息",
+          "usage": "指呼吸的动作或空气"
+        },
+        {
+          "pos": "out of breath",
+          "meaning": "气喘吁吁",
+          "usage": "因剧烈运动而喘不过气"
+        }
+      ]
+    },
+    {
+      "word": "contents",
+      "phonetic": "/ˈkɒntents/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "内容；所装之物",
+          "usage": "容器或包里面的东西"
+        }
+      ]
+    },
+    {
+      "word": "fright",
+      "phonetic": "/fraɪt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "惊恐；害怕",
+          "usage": "突然的恐惧感"
+        }
+      ]
+    },
+    {
+      "word": "mending",
+      "phonetic": "/ˈmendɪŋ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "修理；修补",
+          "usage": "修补破损物品的行为"
+        }
+      ]
+    },
+    {
+      "word": "steal",
+      "phonetic": "/stiːl/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "偷窃",
+          "usage": "非法拿走他人财物"
+        }
+      ]
+    },
+    {
+      "word": "continue",
+      "phonetic": "/kənˈtɪnjuː/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "继续",
+          "usage": "不间断地做某事"
+        }
+      ]
+    },
+    {
+      "word": "edge",
+      "phonetic": "/edʒ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "边缘",
+          "usage": "某物的边界或尽头"
+        }
+      ]
+    },
+    {
+      "word": "through",
+      "phonetic": "/θruː/",
+      "meanings": [
+        {
+          "pos": "preposition",
+          "meaning": "穿过；通过",
+          "usage": "表示穿过某空间"
+        },
+        {
+          "pos": "adverb",
+          "meaning": "穿过；彻底",
+          "usage": "表示穿过或完成"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "run through",
+      "usage": "穿过（森林等）",
+      "examples": [
+        {
+          "en": "She ran through the forest to catch the thieves.",
+          "zh": "她穿过森林去追小偷。"
+        }
+      ]
+    },
+    {
+      "phrase": "rush up to",
+      "usage": "冲向；突然接近",
+      "examples": [
+        {
+          "en": "The two men rushed up to her while she was having a picnic.",
+          "zh": "那两个男人趁她野餐时冲向她。"
+        }
+      ]
+    },
+    {
+      "phrase": "try to steal",
+      "usage": "试图偷窃",
+      "examples": [
+        {
+          "en": "They tried to steal her handbag.",
+          "zh": "他们试图偷她的手提包。"
+        }
+      ]
+    },
+    {
+      "phrase": "out of breath",
+      "usage": "气喘吁吁",
+      "examples": [
+        {
+          "en": "She was soon out of breath, but she continued to run.",
+          "zh": "她很快气喘吁吁，但她继续跑。"
+        }
+      ]
+    },
+    {
+      "phrase": "catch up with",
+      "usage": "赶上；追上",
+      "examples": [
+        {
+          "en": "When she caught up with them, she saw they were going through the bag.",
+          "zh": "当她追上他们时，她看到他们正在翻包。"
+        }
+      ]
+    },
+    {
+      "phrase": "go through",
+      "usage": "翻看；检查",
+      "examples": [
+        {
+          "en": "They were going through the contents of the bag.",
+          "zh": "他们正在翻看包里的东西。"
+        }
+      ]
+    },
+    {
+      "phrase": "run straight at",
+      "usage": "径直冲向",
+      "examples": [
+        {
+          "en": "She ran straight at them.",
+          "zh": "她径直向他们冲去。"
+        }
+      ]
+    },
+    {
+      "phrase": "drop the bag",
+      "usage": "扔下包",
+      "examples": [
+        {
+          "en": "The men got such a fright that they dropped the bag and ran away.",
+          "zh": "那些男人吓得扔下包逃跑了。"
+        }
+      ]
+    },
+    {
+      "phrase": "get one's bag back",
+      "usage": "拿回某人的包",
+      "examples": [
+        {
+          "en": "How did Mrs. Sterling get her bag back?",
+          "zh": "斯特林夫人是怎么拿回她的包的？"
+        }
+      ]
+    },
+    {
+      "phrase": "think of the risk",
+      "usage": "考虑风险",
+      "examples": [
+        {
+          "en": "Mrs. Sterling did not think of the risk she was taking.",
+          "zh": "斯特林夫人没有考虑到她所冒的风险。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去进行时 (Past Continuous Tense)",
+      "definition": "表示在过去某一时刻或时间段正在进行的动作",
+      "structure": "主语 + was/were + 动词-ing",
+      "usage": "用于描述故事发生的背景或正在进行的动作，常与when/while等连用",
+      "examples": [
+        {
+          "en": "She was having a picnic at the edge of a forest.",
+          "zh": "她正在森林边缘野餐。"
+        },
+        {
+          "en": "The strap was breaking in the struggle.",
+          "zh": "在挣扎中带子断了。"
+        }
+      ]
+    },
+    {
+      "title": "过去完成时 (Past Perfect Tense)",
+      "definition": "表示在过去某一时刻之前已经完成的动作",
+      "structure": "主语 + had + 过去分词",
+      "usage": "用于描述过去的过去发生的事情，常与before, after, when等连用",
+      "examples": [
+        {
+          "en": "She saw that they had sat down.",
+          "zh": "她看到他们已经坐下了。"
+        },
+        {
+          "en": "She had run through the forest.",
+          "zh": "她已经穿过了森林。"
+        }
+      ]
+    },
+    {
+      "title": "so...that结构 (结果状语从句)",
+      "definition": "表示如此...以至于，so后接形容词或副词，that后接结果状语从句",
+      "structure": "so + 形容词/副词 + that + 结果从句",
+      "usage": "用于强调程度，说明由此产生的强烈结果",
+      "examples": [
+        {
+          "en": "Mrs. Sterling got so angry that she ran after them.",
+          "zh": "斯特林夫人如此愤怒以至于她去追他们。"
+        },
+        {
+          "en": "The men got such a fright that they dropped the bag.",
+          "zh": "那些男人吓得扔下了包。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "主语 + did not think of + the risk",
+      "original": {
+        "en": "Mrs. Anne Sterling did not think of the risk she was taking.",
+        "zh": "斯特林夫人没有考虑到她所冒的风险。"
+      },
+      "imitations": [
+        {
+          "en": "He did not think of the danger when he jumped into the river.",
+          "zh": "他跳进河里时没有考虑到危险。"
+        },
+        {
+          "en": "The children did not think of the consequences.",
+          "zh": "孩子们没有考虑到后果。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + be + out of breath",
+      "original": {
+        "en": "She was soon out of breath.",
+        "zh": "她很快气喘吁吁。"
+      },
+      "imitations": [
+        {
+          "en": "He was out of breath after running for ten minutes.",
+          "zh": "跑了十分钟后他气喘吁吁。"
+        },
+        {
+          "en": "The boy was out of breath when he reached the top of the hill.",
+          "zh": "那个男孩到达山顶时气喘吁吁。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + see + that + 主语 + had + 过去分词",
+      "original": {
+        "en": "When she caught up with them, she saw that they had sat down.",
+        "zh": "当她追上他们时，她看到他们已经坐下了。"
+      },
+      "imitations": [
+        {
+          "en": "When I arrived, I saw that he had finished his homework.",
+          "zh": "当我到达时，我看到他已经完成了作业。"
+        },
+        {
+          "en": "She saw that the thief had dropped the watch.",
+          "zh": "她看到小偷已经把手表掉了。"
+        }
+      ]
+    },
+    {
+      "pattern": "The + 名词 + needs + 动名词",
+      "original": {
+        "en": "The strap needs mending.",
+        "zh": "带子需要修理。"
+      },
+      "imitations": [
+        {
+          "en": "The bike needs repairing.",
+          "zh": "自行车需要修理。"
+        },
+        {
+          "en": "The shoes need polishing.",
+          "zh": "鞋子需要擦亮。"
+        }
+      ]
+    }
+  ]
+}

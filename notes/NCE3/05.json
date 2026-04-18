@@ -1,0 +1,243 @@
+{
+  "book": "NCE3",
+  "lesson": "05",
+  "title": "Lesson 5",
+  "vocabulary": [
+    {
+      "word": "editor",
+      "phonetic": "/ˈedɪtə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "编辑",
+          "usage": "指报刊、杂志、书籍等内容的审核、整理人员"
+        }
+      ]
+    },
+    {
+      "word": "journalist",
+      "phonetic": "/ˈdʒɜːnəlɪst/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "记者",
+          "usage": "指从事新闻采访、报道工作的人员"
+        }
+      ]
+    },
+    {
+      "word": "instruct",
+      "phonetic": "/ɪnˈstrʌkt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "指示；命令；吩咐",
+          "usage": "正式用法，指上级给下级明确指示做某事，常用结构instruct sb to do sth"
+        }
+      ]
+    },
+    {
+      "word": "publish",
+      "phonetic": "/ˈpʌblɪʃ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "出版；发表；刊登",
+          "usage": "可指书籍、报刊、文章等的正式发布"
+        }
+      ]
+    },
+    {
+      "word": "impatient",
+      "phonetic": "/ɪmˈpeɪʃnt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "不耐烦的；急躁的",
+          "usage": "前缀im-表否定，对应反义词patient，常用搭配be impatient with sb/at sth"
+        }
+      ]
+    },
+    {
+      "word": "reluctantly",
+      "phonetic": "/rɪˈlʌktəntli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "不情愿地；勉强地",
+          "usage": "用来修饰动作，表示做某事时很不情愿"
+        }
+      ]
+    },
+    {
+      "word": "originally",
+      "phonetic": "/əˈrɪdʒənəli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "最初；原先",
+          "usage": "用来描述事物最开始的状态"
+        }
+      ]
+    },
+    {
+      "word": "arrest",
+      "phonetic": "/əˈrest/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "逮捕；拘留",
+          "usage": "常用被动语态be arrested表示“被逮捕”"
+        }
+      ]
+    },
+    {
+      "word": "consequence",
+      "phonetic": "/ˈkɒnsɪkwəns/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "结果；后果",
+          "usage": "常指某个行为或事件带来的直接结果，常用搭配as a consequence"
+        }
+      ]
+    },
+    {
+      "word": "statistics",
+      "phonetic": "/stəˈtɪstɪks/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "统计数据；统计资料",
+          "usage": "通常以复数形式出现，指具体的统计数字"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "go to extremes",
+      "usage": "表示“走极端；做过头”，描述人在做某事时过于偏激，超出合理范围",
+      "examples": [
+        {
+          "en": "Some parents go to extremes to send their children to the best schools.",
+          "zh": "有些家长为了把孩子送到最好的学校做得太过极端。"
+        }
+      ]
+    },
+    {
+      "phrase": "set out to do sth",
+      "usage": "表示“着手做某事；开始努力做某事”，强调带着明确目标开始行动",
+      "examples": [
+        {
+          "en": "He set out to finish the report within three days.",
+          "zh": "他着手准备在三天内完成这份报告。"
+        }
+      ]
+    },
+    {
+      "phrase": "go to press",
+      "usage": "固定搭配，表示“（报刊、杂志）付印；即将出版”",
+      "examples": [
+        {
+          "en": "The weekly magazine will go to press tomorrow, so we have to submit the article today.",
+          "zh": "这本周刊明天就要付印了，所以我们今天必须提交文章。"
+        }
+      ]
+    },
+    {
+      "phrase": "not only...but...as well",
+      "usage": "表示“不仅……而且……”，用于连接两个并列的成分，强调后者",
+      "examples": [
+        {
+          "en": "Not only did she win the first prize, but she got a scholarship as well.",
+          "zh": "她不仅获得了一等奖，还拿到了奖学金。"
+        }
+      ]
+    },
+    {
+      "phrase": "lead to",
+      "usage": "此处表示“通向；通往”，此外也可表示“导致；引起”某个结果",
+      "examples": [
+        {
+          "en": "This path leads to the small village at the foot of the mountain.",
+          "zh": "这条小路通向山脚下的小村庄。"
+        },
+        {
+          "en": "Lack of exercise can lead to many health problems.",
+          "zh": "缺乏锻炼会导致很多健康问题。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去完成时的被动语态",
+      "definition": "表示在过去某个动作之前已经完成的被动动作，即“过去的过去”发生的被动行为",
+      "structure": "had been + 动词过去分词",
+      "usage": "当句子中动作的承受者作为主语，且动作发生在过去另一个动作之前时使用",
+      "examples": [
+        {
+          "en": "Last year a journalist had been instructed by a well-known magazine to write an article.",
+          "zh": "去年，一位记者受一家知名杂志委托写一篇文章。"
+        },
+        {
+          "en": "All the tickets had been sold out when we arrived at the cinema.",
+          "zh": "我们到电影院的时候，所有票都已经卖光了。"
+        }
+      ]
+    },
+    {
+      "title": "not only位于句首的部分倒装结构",
+      "definition": "当not only放在句首连接两个分句时，第一个分句需要进行部分倒装，将助动词/情态动词/be动词提到主语之前，第二个分句保持正常语序",
+      "structure": "Not only + 助动词/情态动词/be动词 + 主语 + 谓语 + 其他, but + 正常语序的分句",
+      "usage": "用于加强语气，突出“不仅……而且……”的递进关系",
+      "examples": [
+        {
+          "en": "Not only had the poor man been arrested, but he had been sent to prison as well.",
+          "zh": "这个可怜的人不仅被逮捕了，还被送进了监狱。"
+        },
+        {
+          "en": "Not only does he speak English fluently, but he also knows French.",
+          "zh": "他不仅英语说得流利，还懂法语。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "sb be instructed to do sth",
+      "original": {
+        "en": "Last year a journalist had been instructed by a well-known magazine to write an article on the president's palace.",
+        "zh": "去年，一位记者受一家知名杂志委托，写一篇关于某个非洲新共和国总统府的文章。"
+      },
+      "imitations": [
+        {
+          "en": "The new intern was instructed by the manager to collect customer feedback.",
+          "zh": "新来的实习生被经理要求收集客户反馈。"
+        },
+        {
+          "en": "All the team members were instructed to arrive at the office before 8 a.m. tomorrow.",
+          "zh": "所有团队成员都被要求明天早上8点前到达办公室。"
+        }
+      ]
+    },
+    {
+      "pattern": "sb sent sb sth informing sb that...",
+      "original": {
+        "en": "He sent yet another fax informing the journalist that if he did not reply soon he would be fired.",
+        "zh": "他又发了一份传真，通知记者如果他再不尽快回复就会被解雇。"
+      },
+      "imitations": [
+        {
+          "en": "The teacher sent all parents a message informing them that the parent-teacher meeting would be held next Friday.",
+          "zh": "老师给所有家长发了一条消息，通知他们下周五将召开家长会。"
+        },
+        {
+          "en": "The travel agency sent us an email informing us that our flight had been delayed for two hours.",
+          "zh": "旅行社给我们发了一封邮件，通知我们的航班延误了两个小时。"
+        }
+      ]
+    }
+  ]
+}

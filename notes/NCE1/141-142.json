@@ -1,0 +1,341 @@
+{
+  "book": "NCE1",
+  "lesson": "141-142",
+  "title": "Lesson 141",
+  "vocabulary": [
+    {
+      "word": "excited",
+      "phonetic": "/ɪkˈsaɪtɪd/",
+      "meanings": [
+        {
+          "pos": "形容词",
+          "meaning": "兴奋的，激动的",
+          "usage": "描述人对某事感到期待和高兴的情绪"
+        }
+      ]
+    },
+    {
+      "word": "travel",
+      "phonetic": "/ˈtrævl/",
+      "meanings": [
+        {
+          "pos": "动词",
+          "meaning": "旅行，出行",
+          "usage": "表示从一地到另一地的移动"
+        }
+      ]
+    },
+    {
+      "word": "middle-aged",
+      "phonetic": "/ˌmɪdl ˈeɪdʒd/",
+      "meanings": [
+        {
+          "pos": "形容词",
+          "meaning": "中年的",
+          "usage": "描述四五十岁的人"
+        }
+      ]
+    },
+    {
+      "word": "powder compact",
+      "phonetic": "/ˈpaʊdə ˈkɒmpækt/",
+      "meanings": [
+        {
+          "pos": "名词",
+          "meaning": "粉盒，化妆盒",
+          "usage": "妇女随身携带的化妆工具"
+        }
+      ]
+    },
+    {
+      "word": "embarrassed",
+      "phonetic": "/ɪmˈbærəst/",
+      "meanings": [
+        {
+          "pos": "形容词",
+          "meaning": "尴尬的，难堪的",
+          "usage": "形容因他人的行为而感到不好意思"
+        }
+      ]
+    },
+    {
+      "word": "amused",
+      "phonetic": "/əˈmjuːzd/",
+      "meanings": [
+        {
+          "pos": "形容词",
+          "meaning": "觉得好笑的，被逗乐的",
+          "usage": "形容觉得某事有趣"
+        }
+      ]
+    },
+    {
+      "word": "handbag",
+      "phonetic": "/ˈhændbæɡ/",
+      "meanings": [
+        {
+          "pos": "名词",
+          "meaning": "手提包",
+          "usage": "妇女随身携带的小包"
+        }
+      ]
+    },
+    {
+      "word": "funny",
+      "phonetic": "/ˈfʌni/",
+      "meanings": [
+        {
+          "pos": "形容词",
+          "meaning": "滑稽的，可笑的",
+          "usage": "形容引人发笑的事物"
+        }
+      ]
+    },
+    {
+      "word": "invite",
+      "phonetic": "/ɪnˈvaɪt/",
+      "meanings": [
+        {
+          "pos": "动词",
+          "meaning": "邀请",
+          "usage": "邀请某人参加活动"
+        }
+      ]
+    },
+    {
+      "word": "station",
+      "phonetic": "/ˈsteɪʃn/",
+      "meanings": [
+        {
+          "pos": "名词",
+          "meaning": "车站",
+          "usage": "火车的停靠点"
+        }
+      ]
+    },
+    {
+      "word": "opposite",
+      "phonetic": "/ˈɒpəzɪt/",
+      "meanings": [
+        {
+          "pos": "介词",
+          "meaning": "在...对面",
+          "usage": "表示位置相对"
+        }
+      ]
+    },
+    {
+      "word": "curiously",
+      "phonetic": "/ˈkjʊəriəsli/",
+      "meanings": [
+        {
+          "pos": "副词",
+          "meaning": "好奇地",
+          "usage": "表示以好奇的方式"
+        }
+      ]
+    },
+    {
+      "word": "ugly",
+      "phonetic": "/ˈʌɡli/",
+      "meanings": [
+        {
+          "pos": "形容词",
+          "meaning": "丑陋的，难看的",
+          "usage": "形容外貌不美丽"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "be invited to",
+      "usage": "被邀请参加（某个活动或聚会）",
+      "examples": [
+        {
+          "en": "Sally was invited to a children's party.",
+          "zh": "莎莉被邀请去参加一个儿童派对。"
+        }
+      ]
+    },
+    {
+      "phrase": "take by train",
+      "usage": "乘坐火车（去某地）",
+      "examples": [
+        {
+          "en": "I decided to take her by train.",
+          "zh": "我决定带她坐火车去。"
+        }
+      ]
+    },
+    {
+      "phrase": "sit near the window",
+      "usage": "坐在窗户旁边",
+      "examples": [
+        {
+          "en": "She sat near the window and asked questions.",
+          "zh": "她坐在窗边问了很多问题。"
+        }
+      ]
+    },
+    {
+      "phrase": "get on the train",
+      "usage": "上火车",
+      "examples": [
+        {
+          "en": "A middle-aged lady got on the train.",
+          "zh": "一位中年女士上了火车。"
+        }
+      ]
+    },
+    {
+      "phrase": "sit opposite",
+      "usage": "坐在...对面",
+      "examples": [
+        {
+          "en": "She sat opposite Sally.",
+          "zh": "她坐在莎莉对面。"
+        }
+      ]
+    },
+    {
+      "phrase": "take out",
+      "usage": "拿出，取出",
+      "examples": [
+        {
+          "en": "The lady took out her powder compact.",
+          "zh": "那位女士拿出了她的粉盒。"
+        }
+      ]
+    },
+    {
+      "phrase": "make up one's face",
+      "usage": "化妆",
+      "examples": [
+        {
+          "en": "She began to make up her face.",
+          "zh": "她开始化妆。"
+        }
+      ]
+    },
+    {
+      "phrase": "put away",
+      "usage": "把...收起来，放好",
+      "examples": [
+        {
+          "en": "She put away her compact.",
+          "zh": "她把粉盒收了起来。"
+        }
+      ]
+    },
+    {
+      "phrase": "ask questions about",
+      "usage": "询问关于...的问题",
+      "examples": [
+        {
+          "en": "She asked questions about everything she saw.",
+          "zh": "她问关于她看到的一切的问题。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去进行时 (Past Continuous Tense)",
+      "definition": "表示在过去某一时刻或时间段正在进行的动作",
+      "structure": "主语 + was/were + 动词-ing",
+      "usage": "用于描述过去正在发生的事情，常与when/while连用",
+      "examples": [
+        {
+          "en": "Sally was sitting near the window when a lady got on.",
+          "zh": "当一位女士上车时，莎莉正坐在窗边。"
+        },
+        {
+          "en": "The lady was dressed in a blue coat.",
+          "zh": "那位女士穿着一件蓝色外套。"
+        }
+      ]
+    },
+    {
+      "title": "特殊疑问句 - Why 引导的原因疑问句",
+      "definition": "用Why提问原因或理由",
+      "structure": "Why + be动词/助动词 + 主语 + ...?",
+      "usage": "询问某人做某事的原因",
+      "examples": [
+        {
+          "en": "Why are you doing that?",
+          "zh": "你为什么要那样做？"
+        },
+        {
+          "en": "Why was the mother embarrassed?",
+          "zh": "为什么妈妈感到尴尬？"
+        }
+      ]
+    },
+    {
+      "title": "but连接的转折句",
+      "definition": "用but连接两个意思相反的句子",
+      "structure": "主句 + , but + 句子",
+      "usage": "表示前后意思的转折对比",
+      "examples": [
+        {
+          "en": "Sally was amused, but I was very embarrassed!",
+          "zh": "莎莉觉得好笑，但我却非常尴尬！"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Why + be动词/助动词 + 主语 + 动词-ing?",
+      "original": {
+        "en": "Why are you doing that?",
+        "zh": "你为什么要那样做？"
+      },
+      "imitations": [
+        {
+          "en": "Why are you laughing?",
+          "zh": "你为什么在笑？"
+        },
+        {
+          "en": "Why is she crying?",
+          "zh": "她为什么在哭？"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + have/has + never + 过去分词",
+      "original": {
+        "en": "She had never travelled on a train before.",
+        "zh": "她以前从未坐过火车。"
+      },
+      "imitations": [
+        {
+          "en": "I have never been to Beijing.",
+          "zh": "我从未去过北京。"
+        },
+        {
+          "en": "He has never flown a plane.",
+          "zh": "他从未开过飞机。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + be动词 + 形容词, but + 主语 + be动词 + 形容词",
+      "original": {
+        "en": "Sally was amused, but I was very embarrassed!",
+        "zh": "莎莉觉得好笑，但我却非常尴尬！"
+      },
+      "imitations": [
+        {
+          "en": "He was happy, but she was sad.",
+          "zh": "他很高兴，但她很伤心。"
+        },
+        {
+          "en": "The book was interesting, but the movie was boring.",
+          "zh": "这本书很有趣，但电影很无聊。"
+        }
+      ]
+    }
+  ]
+}

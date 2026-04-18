@@ -1,0 +1,326 @@
+{
+  "book": "NCE4",
+  "lesson": "11",
+  "title": "Lesson 11",
+  "vocabulary": [
+    {
+      "word": "oppress",
+      "phonetic": "/əˈpres/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "使压抑，使烦恼；压迫，欺压",
+          "usage": "常用被动语态be oppressed by表示“被……困扰、压迫”"
+        }
+      ]
+    },
+    {
+      "word": "justification",
+      "phonetic": "/ˌdʒʌstɪfɪˈkeɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "正当理由，合理性",
+          "usage": "后常接for sth/doing sth表示“做某事的正当理由”"
+        }
+      ]
+    },
+    {
+      "word": "justifiably",
+      "phonetic": "/ˈdʒʌstɪfaɪəbli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "有正当理由地，无可非议地",
+          "usage": "修饰动词、形容词，说明行为或感受的合理性"
+        }
+      ]
+    },
+    {
+      "word": "bitter",
+      "phonetic": "/ˈbɪtə(r)/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "痛苦的，愤愤不平的；苦的",
+          "usage": "可形容人的感受、经历或味道，后常接at/about sth表示“因某事不快”"
+        }
+      ]
+    },
+    {
+      "word": "abject",
+      "phonetic": "/ˈæbdʒekt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "可鄙的，卑劣的；凄惨的",
+          "usage": "用于形容行为、处境或状态的糟糕或不光彩"
+        }
+      ]
+    },
+    {
+      "word": "ignoble",
+      "phonetic": "/ɪɡˈnəʊbl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "不光彩的，卑劣的",
+          "usage": "正式用词，与noble（高尚的）语义相反，形容品格或行为"
+        }
+      ]
+    },
+    {
+      "word": "impersonal",
+      "phonetic": "/ɪmˈpɜːsənl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "不受个人情感影响的，客观的；非个人的",
+          "usage": "前缀im-表否定，对应personal（个人的，主观的）"
+        }
+      ]
+    },
+    {
+      "word": "ego",
+      "phonetic": "/ˈiːɡəʊ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "自我，自我意识",
+          "usage": "心理学常用术语，也可日常表示“自尊心、自我中心”"
+        }
+      ]
+    },
+    {
+      "word": "recede",
+      "phonetic": "/rɪˈsiːd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "逐渐减弱，慢慢消失；后退，退去",
+          "usage": "主语常为抽象事物（记忆、恐惧）或具体事物（潮水、边界）"
+        }
+      ]
+    },
+    {
+      "word": "merge",
+      "phonetic": "/mɜːdʒ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "合并，融合，融入",
+          "usage": "常用搭配merge into表示“融入……，和……合并”"
+        }
+      ]
+    },
+    {
+      "word": "boulder",
+      "phonetic": "/ˈbəʊldə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "巨石，砾石",
+          "usage": "指体积较大的圆形岩石"
+        }
+      ]
+    },
+    {
+      "word": "decay",
+      "phonetic": "/dɪˈkeɪ/",
+      "meanings": [
+        {
+          "pos": "noun/verb",
+          "meaning": "衰退，衰落；腐烂",
+          "usage": "可作名词表示衰退状态，也可作动词表示“衰退、腐烂”的动作"
+        }
+      ]
+    },
+    {
+      "word": "vitality",
+      "phonetic": "/vaɪˈtæləti/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "活力，生命力",
+          "usage": "不可数名词，形容人或事物的生机活力"
+        }
+      ]
+    },
+    {
+      "word": "weariness",
+      "phonetic": "/ˈwɪərinəs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "疲劳，疲倦",
+          "usage": "由形容词weary（疲劳的）派生而来，可指身体或精神上的疲惫"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "be cheated of",
+      "usage": "表示“被剥夺了……，被骗走了……”，被动结构强调主体失去了本应获得的事物",
+      "examples": [
+        {
+          "en": "Many children in the poor area are cheated of the right to education.",
+          "zh": "贫困地区的很多孩子被剥夺了受教育的权利。"
+        }
+      ]
+    },
+    {
+      "phrase": "bit by bit",
+      "usage": "副词短语，意为“逐渐地，一点一点地”，等同于gradually，可放在句首或句中修饰动作",
+      "examples": [
+        {
+          "en": "Bit by bit, he learned how to communicate with others properly.",
+          "zh": "他逐渐学会了如何恰当地和他人沟通。"
+        }
+      ]
+    },
+    {
+      "phrase": "be merged in",
+      "usage": "表示“融入……，和……融为一体”，也可写作be merged into，强调个体融入更大的整体",
+      "examples": [
+        {
+          "en": "The small village was gradually merged in the expanding city.",
+          "zh": "这个小村庄逐渐被扩张的城市吞并了。"
+        }
+      ]
+    },
+    {
+      "phrase": "suffer from",
+      "usage": "表示“遭受……的痛苦，受……困扰”，后常接疾病、负面情绪或不利处境",
+      "examples": [
+        {
+          "en": "A lot of office workers suffer from neck pain due to long hours of sitting.",
+          "zh": "很多上班族因为长时间久坐受到颈椎痛的困扰。"
+        }
+      ]
+    },
+    {
+      "phrase": "in the thought that",
+      "usage": "表示“想到……”，后接同位语从句说明thought的具体内容，用于描述人的心理活动",
+      "examples": [
+        {
+          "en": "She smiled in the thought that her family would come to see her soon.",
+          "zh": "想到家人很快就要来看她，她露出了微笑。"
+        }
+      ]
+    },
+    {
+      "phrase": "it seems to me",
+      "usage": "插入语，意为“在我看来，我认为”，用于委婉表达个人观点，可放在句首或句中",
+      "examples": [
+        {
+          "en": "It seems to me that we should put off the meeting until next week.",
+          "zh": "在我看来我们应该把会议推迟到下周。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "定语从句",
+      "definition": "修饰名词或代词的从句，用于对先行词进行限定或补充说明，由关系代词或关系副词引导",
+      "structure": "先行词 + 关系代词/副词 + 从句剩余部分",
+      "usage": "当先行词是人时常用who/that引导，是物时常用which/that引导，从句用于补充先行词的相关信息",
+      "examples": [
+        {
+          "en": "Young men who have reason to fear that they will be killed in battle may justifiably feel bitter.",
+          "zh": "有理由担心自己会在战场上丧生的年轻人，想到自己被剥夺了生活所能给予的最美好的东西，感到痛苦，这是合乎情理的。"
+        },
+        {
+          "en": "The book that you lent me last week is very interesting.",
+          "zh": "你上周借给我的那本书非常有趣。"
+        }
+      ]
+    },
+    {
+      "title": "同位语从句",
+      "definition": "在复合句中作名词的同位语的从句，用于说明该名词的具体内容，常跟在fact, thought, idea, hope等抽象名词后",
+      "structure": "抽象名词 + that + 完整的陈述句",
+      "usage": "that在同位语从句中不充当成分，只起连接作用，不能省略，用于对前面的抽象名词进行解释说明",
+      "examples": [
+        {
+          "en": "They were worried over the fact that you were sick.",
+          "zh": "他们为你生病的事发愁。"
+        },
+        {
+          "en": "I hold the belief that we will finally achieve our goal.",
+          "zh": "我坚信我们最终会实现目标。"
+        }
+      ]
+    },
+    {
+      "title": "方式状语从句",
+      "definition": "用于描述动作的方式、状态的状语从句，常由as, like, as if等词引导",
+      "structure": "主句 + as/like + 从句",
+      "usage": "常用于打比方，说明主句动作或状态的特征，as是正式引导词，like多用于口语中",
+      "examples": [
+        {
+          "en": "An individual human existence should be like a river--small at first, narrowly contained within its banks.",
+          "zh": "人的一生应该像一条河——起初很窄，被紧紧地夹在两岸之间。"
+        },
+        {
+          "en": "When in Rome, do as the Romans do.",
+          "zh": "入乡随俗。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Some people are oppressed by the fear of + 名词.",
+      "original": {
+        "en": "Some old people are oppressed by the fear of death.",
+        "zh": "有些老年人因为怕死而感到烦恼。"
+      },
+      "imitations": [
+        {
+          "en": "Many job seekers are oppressed by the fear of unemployment.",
+          "zh": "很多求职者因为害怕失业而感到压抑。"
+        },
+        {
+          "en": "Some students are oppressed by the fear of failure in exams.",
+          "zh": "有些学生因为害怕考试不及格而倍感压力。"
+        }
+      ]
+    },
+    {
+      "pattern": "The best way to overcome it is to + 动词短语, until + 结果状语从句.",
+      "original": {
+        "en": "The best way to overcome it--so at least it seems to me--is to make your interests gradually wider and more impersonal, until bit by bit the walls of the ego recede, and your life becomes increasingly merged in the universal life.",
+        "zh": "克服怕死的最好办法——至少在我看来是这样——就是逐渐使自己的兴趣更加广泛，逐渐摆脱个人狭小的圈子，直到自我的屏障慢慢消失，你的生活越来越融入整个社会生活之中。"
+      },
+      "imitations": [
+        {
+          "en": "The best way to overcome stage fright is to practice speaking in public more often, until you can express your ideas fluently in front of crowds.",
+          "zh": "克服怯场的最好办法就是多练习公开发言，直到你能在人群面前流利地表达自己的想法。"
+        },
+        {
+          "en": "The best way to overcome language barriers is to immerse yourself in the language environment, until you can communicate with native speakers without difficulty.",
+          "zh": "克服语言障碍的最好办法就是把自己沉浸在语言环境中，直到你能毫不费力地和母语者交流。"
+        }
+      ]
+    },
+    {
+      "pattern": "The man who, in + 场景, can see his life in this way, will not suffer from + 负面事物.",
+      "original": {
+        "en": "The man who, in old age can see his life in this way, will not suffer from the fear of death, since the things he cares for will continue.",
+        "zh": "人到老年如果这样看待人生，就不会因为怕死而感到痛苦，因为他所关心的事情还会继续下去。"
+      },
+      "imitations": [
+        {
+          "en": "The man who, in face of setbacks, can see his life in this way, will not suffer from self-doubt, since he knows failure is a necessary part of growth.",
+          "zh": "面对挫折时如果这样看待人生的人，就不会陷入自我怀疑，因为他知道失败是成长的必经部分。"
+        },
+        {
+          "en": "The student who, in the face of heavy study tasks, can see his efforts in this way, will not suffer from anxiety, since he knows every bit of effort pays off.",
+          "zh": "面对繁重的学习任务时如果这样看待自己的付出的学生，就不会饱受焦虑的困扰，因为他知道每一点努力都有回报。"
+        }
+      ]
+    }
+  ]
+}

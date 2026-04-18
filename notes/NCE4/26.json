@@ -1,0 +1,428 @@
+{
+  "book": "NCE4",
+  "lesson": "26",
+  "title": "Lesson 26",
+  "vocabulary": [
+    {
+      "word": "preservation",
+      "phonetic": "/ˌprezəˈveɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "保存；保留；保护",
+          "usage": "指对事物、生物遗骸等的长期留存，常和of搭配使用"
+        }
+      ]
+    },
+    {
+      "word": "remains",
+      "phonetic": "/rɪˈmeɪnz/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "遗骸；遗迹；剩余物",
+          "usage": "复数形式，可指生物的遗体、古生物的化石，也可指建筑等的遗迹"
+        }
+      ]
+    },
+    {
+      "word": "silt",
+      "phonetic": "/sɪlt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "淤泥；泥沙",
+          "usage": "指河流、湖泊、海洋中沉积的细颗粒泥沙，不可数名词"
+        }
+      ]
+    },
+    {
+      "word": "deposit",
+      "phonetic": "/dɪˈpɒzɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "沉积；堆积；存放",
+          "usage": "此处指泥沙等自然堆积，也可指存钱、放置物品"
+        },
+        {
+          "pos": "noun",
+          "meaning": "沉积物；存款；押金",
+          "usage": "作名词时可指地质沉积物，也可用于金融场景"
+        }
+      ]
+    },
+    {
+      "word": "fraction",
+      "phonetic": "/ˈfrækʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "小部分；少量；分数",
+          "usage": "a fraction of 表示“一小部分”，常用于强调数量极少"
+        }
+      ]
+    },
+    {
+      "word": "decay",
+      "phonetic": "/dɪˈkeɪ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "腐烂；腐朽；衰退",
+          "usage": "指生物尸体的腐烂过程，也可指社会、制度的衰败"
+        },
+        {
+          "pos": "verb",
+          "meaning": "腐烂；衰退；衰减",
+          "usage": "可作不及物动词，表示逐渐腐朽的过程"
+        }
+      ]
+    },
+    {
+      "word": "scavenger",
+      "phonetic": "/ˈskævɪndʒə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "食腐动物；拾荒者",
+          "usage": "指以腐烂的动植物尸体为食的动物，也指捡废品的人"
+        }
+      ]
+    },
+    {
+      "word": "innumerable",
+      "phonetic": "/ɪˈnjuːmərəbl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "无数的；数不清的",
+          "usage": "用于形容数量极多，难以计数，修饰可数名词"
+        }
+      ]
+    },
+    {
+      "word": "vole",
+      "phonetic": "/vəʊl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "田鼠",
+          "usage": "指生活在田野中的小型啮齿动物，可数名词"
+        }
+      ]
+    },
+    {
+      "word": "decompose",
+      "phonetic": "/ˌdiːkəmˈpəʊz/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "分解；腐烂",
+          "usage": "指生物尸体被微生物分解的过程，也可指化学物质的分解"
+        }
+      ]
+    },
+    {
+      "word": "crevasse",
+      "phonetic": "/krəˈvæs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "（冰川的）裂缝；裂隙",
+          "usage": "特指冰川、冰面上的深裂缝，可数名词"
+        }
+      ]
+    },
+    {
+      "word": "mammoth",
+      "phonetic": "/ˈmæməθ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "猛犸象；长毛象",
+          "usage": "指史前已灭绝的大型象类，也可作形容词表示“巨大的”"
+        }
+      ]
+    },
+    {
+      "word": "fir",
+      "phonetic": "/fɜː(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "冷杉；枞树",
+          "usage": "指常绿的冷杉属树木，可数名词"
+        }
+      ]
+    },
+    {
+      "word": "palaeontological",
+      "phonetic": "/ˌpæliɒntəˈlɒdʒɪkl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "古生物学的",
+          "usage": "和古生物研究相关的形容词，修饰博物馆、研究等名词"
+        }
+      ]
+    },
+    {
+      "word": "sabre-toothed",
+      "phonetic": "/ˈseɪbə tuːθt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "长着锐利长犬齿的，剑齿的",
+          "usage": "用于描述史前的剑齿虎等动物，作定语修饰名词"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "by chance",
+      "usage": "表示“偶然；碰巧；意外地”，在句中作状语，说明事件发生的随机性",
+      "examples": [
+        {
+          "en": "It is only by chance that such a fate is avoided.",
+          "zh": "这种命运的逃脱完全是偶然的。"
+        },
+        {
+          "en": "I met my old classmate by chance on the street yesterday.",
+          "zh": "我昨天在街上偶然碰到了我的老同学。"
+        }
+      ]
+    },
+    {
+      "phrase": "not to mention",
+      "usage": "表示“更不用说；别提”，用于补充说明前面提到的内容，强调程度更进一步",
+      "examples": [
+        {
+          "en": "When you think of the innumerable birds that one sees flying about, not to mention the equally numerous small animals like field mice and voles which you do not see, it is very rarely that one comes across a dead body.",
+          "zh": "想一想你看到的无数飞来飞去的鸟儿，更别提那些你看不到的同样多的田鼠之类的小动物，人们极少能见到它们的尸体。"
+        },
+        {
+          "en": "He can speak French and German, not to mention English.",
+          "zh": "他会说法语和德语，更不用说英语了。"
+        }
+      ]
+    },
+    {
+      "phrase": "come across",
+      "usage": "表示“偶然遇见；无意中发现”，后面接遇见的人或发现的事物，无被动语态",
+      "examples": [
+        {
+          "en": "It is very rarely that one comes across a dead body, except, of course, on the roads.",
+          "zh": "人们极少能见到它们的尸体，当然除了在公路上。"
+        },
+        {
+          "en": "I came across this old photo when I was cleaning the drawer.",
+          "zh": "我打扫抽屉的时候偶然发现了这张老照片。"
+        }
+      ]
+    },
+    {
+      "phrase": "due to",
+      "usage": "表示“由于；因为”，后面接名词或名词短语，说明原因，可位于句首或句中",
+      "examples": [
+        {
+          "en": "It is almost always due to some very special circumstances that traces of land animals survive.",
+          "zh": "陆地动物的遗迹几乎总是由于某些非常特殊的情况才得以保存下来。"
+        },
+        {
+          "en": "The sports meeting was put off due to the bad weather.",
+          "zh": "由于天气不好，运动会被推迟了。"
+        }
+      ]
+    },
+    {
+      "phrase": "in good condition",
+      "usage": "表示“状态良好；保存完好”，用于描述物品、生物遗骸等的保存状态",
+      "examples": [
+        {
+          "en": "This is what happened to the famous Beresovka mammoth which was found preserved and in good condition.",
+          "zh": "著名的别列佐夫卡猛犸象就是这种情况，它被发现时保存完好。"
+        },
+        {
+          "en": "The old book published 100 years ago is still in good condition.",
+          "zh": "这本100年前出版的旧书现在仍然保存完好。"
+        }
+      ]
+    },
+    {
+      "phrase": "be bogged in",
+      "usage": "表示“陷入；被困在”，通常指陷入泥浆、沼泽等难以脱身，也可引申为陷入困境",
+      "examples": [
+        {
+          "en": "The bigger animals like the elephants ventured out on to the apparently firm surface to drink, and were promptly bogged in the tar.",
+          "zh": "大象之类的大型动物冒险走到看似坚固的表面喝水，立刻就陷入了沥青中。"
+        },
+        {
+          "en": "The car got bogged in the mud after the heavy rain.",
+          "zh": "大雨过后，汽车陷在了泥里。"
+        }
+      ]
+    },
+    {
+      "phrase": "set in",
+      "usage": "表示“（不好的事物）开始；到来”，通常指腐烂、恶劣天气等不好的情况开始并可能持续",
+      "examples": [
+        {
+          "en": "Only a small fraction of the creatures that die are preserved in this way before decay sets in.",
+          "zh": "只有一小部分死亡的生物能在腐烂开始之前以这种方式被保存下来。"
+        },
+        {
+          "en": "Winter has set in early this year.",
+          "zh": "今年冬天来得早。"
+        }
+      ]
+    },
+    {
+      "phrase": "after all",
+      "usage": "表示“毕竟；终究”，用于引出解释或说明理由，放在句首或句中",
+      "examples": [
+        {
+          "en": "After all, all living creatures live by feeding on something else, whether it be plant or animal, dead or alive.",
+          "zh": "毕竟，所有生物都靠吃其他东西生存，不管是植物还是动物，死的还是活的。"
+        },
+        {
+          "en": "You shouldn't scold him too much; after all, he is only a child.",
+          "zh": "你不该太责备他，毕竟他只是个孩子。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "强调句 (Emphatic Sentence)",
+      "definition": "用来突出句子中的某个成分（主语、宾语、状语等），表达强烈语气的句子结构",
+      "structure": "It is/was + 被强调部分 + that/who + 其他部分",
+      "usage": "被强调部分指人时可用who，其他情况一般用that；即使被强调的是时间、地点状语，也用that而不用when/where",
+      "examples": [
+        {
+          "en": "It is animals and plants which lived in or near water whose remains are most likely to be preserved.",
+          "zh": "正是生活在水中或水边的动植物，它们的遗骸最有可能被保存下来。"
+        },
+        {
+          "en": "It is only in the seas and rivers, and sometimes lakes, where mud and silt have been continuously deposited, that bodies and the like can be rapidly covered over and preserved.",
+          "zh": "只有在海洋、河流，有时是湖泊里，泥沙不断沉积，尸体之类的东西才能被迅速覆盖并保存下来。"
+        },
+        {
+          "en": "It was yesterday that I finished the research report.",
+          "zh": "就是在昨天我完成了这份研究报告。"
+        }
+      ]
+    },
+    {
+      "title": "虚拟语气在让步状语从句中的用法",
+      "definition": "在whether引导的让步状语从句中，表达“不管是……还是……”的含义时，可使用be型虚拟语气，即不管主语是什么人称，动词都用原形be",
+      "structure": "whether + 主语 + be + 表语 + or + 表语，主句",
+      "usage": "这种结构多用于正式文体中，口语中常用一般现在时代替；也可将whether省略，把be提前到句首构成倒装",
+      "examples": [
+        {
+          "en": "After all, all living creatures live by feeding on something else, whether it be plant or animal, dead or alive.",
+          "zh": "毕竟，所有生物都靠吃其他东西生存，不管是植物还是动物，死的还是活的。"
+        },
+        {
+          "en": "Every person, whether he be rich or poor, has equal rights in the country.",
+          "zh": "在这个国家，每个人无论贫富，都享有平等的权利。"
+        },
+        {
+          "en": "Be it rainy or sunny, we will start the journey as planned.",
+          "zh": "不管下雨还是天晴，我们都会按计划出发。"
+        }
+      ]
+    },
+    {
+      "title": "完全倒装 (Full Inversion)",
+      "definition": "将句子中的谓语动词完全移到主语之前的倒装结构，常用于强调状语或表语",
+      "structure": "表示方位/时间的副词/介词短语/表语 + 谓语动词 + 主语",
+      "usage": "当句首是表示地点、时间的介词短语，或者表语被提前时，常使用完全倒装；主语必须是名词，若主语是代词则不需要倒装",
+      "examples": [
+        {
+          "en": "In his mouth were the remains of fir trees--the last meal that he had before he fell into the crevasse and broke his back.",
+          "zh": "它嘴里还留着冷杉的残骸——这是它掉进冰缝摔断背之前吃的最后一餐。"
+        },
+        {
+          "en": "Under the tree sat an old man reading a newspaper.",
+          "zh": "树下坐着一位老人正在看报纸。"
+        },
+        {
+          "en": "Present at the meeting were experts from all over the world.",
+          "zh": "出席会议的是来自世界各地的专家。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "One of the necessary conditions of ... is ...",
+      "original": {
+        "en": "One of the necessary conditions of preservation is quick burial.",
+        "zh": "保存的必要条件之一是迅速掩埋。"
+      },
+      "imitations": [
+        {
+          "en": "One of the necessary conditions of success is persistent effort.",
+          "zh": "成功的必要条件之一是持续的努力。"
+        },
+        {
+          "en": "One of the necessary conditions of maintaining good health is having a balanced diet.",
+          "zh": "保持身体健康的必要条件之一是均衡饮食。"
+        }
+      ]
+    },
+    {
+      "pattern": "It is almost always due to ... that ...",
+      "original": {
+        "en": "It is almost always due to some very special circumstances that traces of land animals survive.",
+        "zh": "陆地动物的遗迹几乎总是由于某些非常特殊的情况才得以保存下来。"
+      },
+      "imitations": [
+        {
+          "en": "It is almost always due to careful preparation that a speech is successful.",
+          "zh": "演讲的成功几乎总是由于精心的准备。"
+        },
+        {
+          "en": "It is almost always due to lack of exercise that people gain weight easily.",
+          "zh": "人们容易长胖几乎总是由于缺乏锻炼。"
+        }
+      ]
+    },
+    {
+      "pattern": "Apparently what happened was that ...",
+      "original": {
+        "en": "Apparently what happened was that water collected on these tar pits and the bigger animals like the elephants ventured out on to the apparently firm surface to drink, and were promptly bogged in the tar.",
+        "zh": "显然当时的情况是，这些沥青坑上积了水，大象之类的大型动物冒险走到看似坚固的表面喝水，立刻就陷入了沥青中。"
+      },
+      "imitations": [
+        {
+          "en": "Apparently what happened was that he forgot to set the alarm and was late for work.",
+          "zh": "显然当时的情况是，他忘了设闹钟，所以上班迟到了。"
+        },
+        {
+          "en": "Apparently what happened was that the server broke down suddenly and all the data was lost.",
+          "zh": "显然当时的情况是，服务器突然崩溃，所有数据都丢失了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Only a small fraction of ... that ... are ...",
+      "original": {
+        "en": "Only a small fraction of the creatures that die are preserved in this way before decay sets in or, even more likely, before scavengers eat them.",
+        "zh": "只有一小部分死亡的生物能在腐烂开始之前，或者更有可能的是，在被食腐动物吃掉之前，以这种方式被保存下来。"
+      },
+      "imitations": [
+        {
+          "en": "Only a small fraction of the people that apply for the job are finally selected.",
+          "zh": "申请这份工作的人当中只有一小部分最终会被选中。"
+        },
+        {
+          "en": "Only a small fraction of the ancient buildings that were built hundreds of years ago are still well preserved today.",
+          "zh": "数百年前建造的古建筑中只有一小部分至今仍保存完好。"
+        }
+      ]
+    }
+  ]
+}

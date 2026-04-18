@@ -1,0 +1,394 @@
+{
+  "book": "NCE2",
+  "lesson": "42",
+  "title": "What happened when the snake charmer began to play jazz?",
+  "vocabulary": [
+    {
+      "word": "snake charmer",
+      "phonetic": "/sneɪk ˈtʃɑːmə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "耍蛇人，吹笛者",
+          "usage": "指用笛子控制蛇的人，在印度等地常见"
+        }
+      ]
+    },
+    {
+      "word": "square",
+      "phonetic": "/skweə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "广场",
+          "usage": "指城镇中四周有建筑物的开阔空地"
+        }
+      ]
+    },
+    {
+      "word": "glimpse",
+      "phonetic": "/ɡlɪmps/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "一瞥，瞥见",
+          "usage": "短暂地看一眼，强调时间很短"
+        }
+      ]
+    },
+    {
+      "word": "pipe",
+      "phonetic": "/paɪp/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "管乐器，笛子",
+          "usage": "吹奏类乐器的统称，这里指耍蛇人用的笛子"
+        }
+      ]
+    },
+    {
+      "word": "coin",
+      "phonetic": "/kɔɪn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "硬币",
+          "usage": "金属货币，文中指装饰在笛子上的硬币"
+        }
+      ]
+    },
+    {
+      "word": "basket",
+      "phonetic": "/ˈbɑːskɪt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "篮子，筐",
+          "usage": "装东西的容器，文中指耍蛇人装蛇的篮子"
+        }
+      ]
+    },
+    {
+      "word": "movement",
+      "phonetic": "/ˈmuːvmənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "动作，移动",
+          "usage": "身体或物体的移动或姿态变化"
+        }
+      ]
+    },
+    {
+      "word": "jazz",
+      "phonetic": "/dʒæz/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "爵士乐",
+          "usage": "起源于美国的音乐风格，节奏鲜明"
+        }
+      ]
+    },
+    {
+      "word": "obviously",
+      "phonetic": "/ˈɒbviəsli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "显然地，明显地",
+          "usage": "修饰形容词或动词，表示显而易见"
+        }
+      ]
+    },
+    {
+      "word": "continue",
+      "phonetic": "/kənˈtɪnjuː/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "继续",
+          "usage": "指持续做某事或不停下来"
+        }
+      ]
+    },
+    {
+      "word": "tune",
+      "phonetic": "/tjuːn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "曲调，曲子",
+          "usage": "音乐的旋律或调子"
+        }
+      ]
+    },
+    {
+      "word": "market",
+      "phonetic": "/ˈmɑːkɪt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "市场，集市",
+          "usage": "买卖商品的地方或场所"
+        }
+      ]
+    },
+    {
+      "word": "rest",
+      "phonetic": "/rest/",
+      "meanings": [
+        {
+          "pos": "noun/verb",
+          "meaning": "休息",
+          "usage": "指停止活动以恢复体力，或安静的状态"
+        }
+      ]
+    },
+    {
+      "word": "through",
+      "phonetic": "/θruː/",
+      "meanings": [
+        {
+          "pos": "preposition",
+          "meaning": "穿过，通过",
+          "usage": "表示从一边到另一边的空间移动"
+        }
+      ]
+    },
+    {
+      "word": "follow",
+      "phonetic": "/ˈfɒləʊ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "跟随，跟着",
+          "usage": "指跟在某物后面移动或跟着做"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "have a rest",
+      "usage": "停下来休息一下",
+      "examples": [
+        {
+          "en": "We stopped at a square to have a rest.",
+          "zh": "我们在广场上停下来休息。"
+        }
+      ]
+    },
+    {
+      "phrase": "have a look at",
+      "usage": "去看一看，瞧一瞧",
+      "examples": [
+        {
+          "en": "We went to have a look at him.",
+          "zh": "我们走过去看看他。"
+        }
+      ]
+    },
+    {
+      "phrase": "as soon as",
+      "usage": "一...就...",
+      "examples": [
+        {
+          "en": "As soon as he saw us, he picked up a long pipe.",
+          "zh": "他一看到我们，就拿起一根长笛。"
+        }
+      ]
+    },
+    {
+      "phrase": "rise out of",
+      "usage": "从...升起/出来",
+      "examples": [
+        {
+          "en": "It rose out of the basket and began to follow the movements.",
+          "zh": "它从篮子里升起来，开始跟着动作移动。"
+        }
+      ]
+    },
+    {
+      "phrase": "be surprised",
+      "usage": "感到惊讶",
+      "examples": [
+        {
+          "en": "We were very much surprised when the snake charmer began to play jazz.",
+          "zh": "当耍蛇人开始演奏爵士乐时，我们非常惊讶。"
+        }
+      ]
+    },
+    {
+      "phrase": "tell the difference",
+      "usage": "区分，辨别不同",
+      "examples": [
+        {
+          "en": "It obviously could not tell the difference between Indian music and jazz.",
+          "zh": "它显然无法区分印度音乐和爵士乐。"
+        }
+      ]
+    },
+    {
+      "phrase": "continue to do sth",
+      "usage": "继续做某事",
+      "examples": [
+        {
+          "en": "The snake continued to 'dance' slowly.",
+          "zh": "蛇继续慢慢地'跳舞'。"
+        }
+      ]
+    },
+    {
+      "phrase": "begin to do sth",
+      "usage": "开始做某事",
+      "examples": [
+        {
+          "en": "When he began to play a tune, we had our first glimpse of the snake.",
+          "zh": "当他开始吹奏曲子时，我们第一次瞥见了那条蛇。"
+        }
+      ]
+    },
+    {
+      "phrase": "pick up",
+      "usage": "拿起，捡起",
+      "examples": [
+        {
+          "en": "He picked up a long pipe which was covered with coins.",
+          "zh": "他拿起一根装饰着硬币的长笛。"
+        }
+      ]
+    },
+    {
+      "phrase": "the other side of",
+      "usage": "...的另一侧/另一边",
+      "examples": [
+        {
+          "en": "We noticed a snake charmer at the other side of the square.",
+          "zh": "我们注意到广场另一侧有一个耍蛇人。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去完成时 (Past Perfect Tense)",
+      "definition": "表示在过去某一时刻之前已经完成的动作，或称为'过去的过去'",
+      "structure": "had + 过去分词",
+      "usage": "用于描述两个过去的动作，先发生的动作用过去完成时，后发生的动作用一般过去时",
+      "examples": [
+        {
+          "en": "As we had had a long walk through one of the markets, we stopped at a square.",
+          "zh": "因为我们穿过市场走了很长一段路，所以我们在广场上停下来。"
+        },
+        {
+          "en": "He had opened one of the baskets before we approached.",
+          "zh": "在我们走近之前，他已经打开了其中一个篮子。"
+        }
+      ]
+    },
+    {
+      "title": "As soon as 引导的时间状语从句",
+      "definition": "表示'一...就...'，强调两个紧接着发生的动作",
+      "structure": "As soon as + 主语 + 动词过去式, 主语 + 动词过去式",
+      "usage": "从句动作发生后，主句动作紧接着发生，从句用一般过去时",
+      "examples": [
+        {
+          "en": "As soon as he saw us, he picked up a long pipe.",
+          "zh": "他一看到我们，就拿起一根长笛。"
+        },
+        {
+          "en": "As soon as he began to play a tune, the snake rose out of the basket.",
+          "zh": "他一吹奏曲子，蛇就从篮子里升起来。"
+        }
+      ]
+    },
+    {
+      "title": "could表示能力",
+      "definition": "could是can的过去式，表示过去的能力或可能性",
+      "structure": "主语 + could/could not + 动词原形",
+      "usage": "描述过去的能力或表示委婉的可能性否定形式could not表示不能",
+      "examples": [
+        {
+          "en": "It obviously could not tell the difference between Indian music and jazz.",
+          "zh": "它显然无法区分印度音乐和爵士乐。"
+        },
+        {
+          "en": "The child could not understand what happened.",
+          "zh": "那个孩子无法理解发生了什么。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "As we had + 过去分词...",
+      "original": {
+        "en": "As we had had a long walk through one of the markets, we stopped at a square to have a rest.",
+        "zh": "因为我们穿过市场走了很长一段路，所以我们在广场上停下来休息。"
+      },
+      "imitations": [
+        {
+          "en": "As we had visited many temples, we felt tired.",
+          "zh": "因为我们参观了很多寺庙，所以感到累了。"
+        },
+        {
+          "en": "As he had practiced a lot, he played very well.",
+          "zh": "因为他练习了很多，所以他演奏得很好。"
+        }
+      ]
+    },
+    {
+      "pattern": "As soon as + 主语 + 过去式...",
+      "original": {
+        "en": "As soon as he saw us, he picked up a long pipe and opened one of the baskets.",
+        "zh": "他一看到我们，就拿起一根长笛并打开了其中一个篮子。"
+      },
+      "imitations": [
+        {
+          "en": "As soon as the music started, everyone began to dance.",
+          "zh": "音乐一开始，大家就开始跳舞。"
+        },
+        {
+          "en": "As soon as she entered the room, the phone rang.",
+          "zh": "她一进房间，电话就响了。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + obviously could not + 动词原形...",
+      "original": {
+        "en": "It obviously could not tell the difference between Indian music and jazz!",
+        "zh": "它显然无法区分印度音乐和爵士乐！"
+      },
+      "imitations": [
+        {
+          "en": "The robot obviously could not understand human emotions.",
+          "zh": "机器人显然无法理解人类的情感。"
+        },
+        {
+          "en": "The baby obviously could not tell good from bad.",
+          "zh": "婴儿显然无法分辨好坏。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + continued to + 动词原形...",
+      "original": {
+        "en": "The snake, however, continued to 'dance' slowly.",
+        "zh": "然而，蛇继续慢慢地'跳舞'。"
+      },
+      "imitations": [
+        {
+          "en": "The students continued to study even after class.",
+          "zh": "学生们下课后仍继续学习。"
+        },
+        {
+          "en": "The rain continued to fall throughout the night.",
+          "zh": "雨下了一整夜。"
+        }
+      ]
+    }
+  ]
+}

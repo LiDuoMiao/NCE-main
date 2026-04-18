@@ -1,0 +1,398 @@
+{
+  "book": "NCE3",
+  "lesson": "51",
+  "title": "Lesson 51",
+  "vocabulary": [
+    {
+      "word": "predict",
+      "phonetic": "/prɪˈdɪkt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "预测；预言",
+          "usage": "指根据现有信息推断未来事件"
+        }
+      ]
+    },
+    {
+      "word": "foresee",
+      "phonetic": "/fɔːˈsiː/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "预见；预知",
+          "usage": "指提前知道或预见将要发生的事"
+        }
+      ]
+    },
+    {
+      "word": "notoriously",
+      "phonetic": "/nəʊˈtɔːriəsli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "众所周知地；声名狼藉地",
+          "usage": "修饰形容词，强调某事出名（通常指坏的方面）"
+        }
+      ]
+    },
+    {
+      "word": "mainframe",
+      "phonetic": "/ˈmeɪnfreɪm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "主机；大型机",
+          "usage": "指大型计算机系统，通常用于企业或政府机构"
+        }
+      ]
+    },
+    {
+      "word": "primitive",
+      "phonetic": "/ˈprɪmətɪv/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "原始的；简陋的",
+          "usage": "形容早期、技术不发达的事物"
+        }
+      ]
+    },
+    {
+      "word": "user-friendly",
+      "phonetic": "/ˌjuːzəˈfrendli/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "用户友好的；易操作的",
+          "usage": "指容易使用和理解的产品或系统"
+        }
+      ]
+    },
+    {
+      "word": "multimedia",
+      "phonetic": "/ˌmʌltiˈmiːdiə/",
+      "meanings": [
+        {
+          "pos": "noun/adjective",
+          "meaning": "多媒体",
+          "usage": "指结合文字、图像、声音等多种媒介的技术"
+        }
+      ]
+    },
+    {
+      "word": "dismiss",
+      "phonetic": "/dɪsˈmɪs/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "不予理会；摒弃",
+          "usage": "指拒绝接受或不认真考虑某个想法"
+        }
+      ]
+    },
+    {
+      "word": "capable",
+      "phonetic": "/ˈkeɪpəbl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "有能力的；能够...的",
+          "usage": "与of连用，表示具备做某事的能力"
+        }
+      ]
+    },
+    {
+      "word": "diagnose",
+      "phonetic": "/ˈdaɪəɡnəʊz/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "诊断",
+          "usage": "主要用于医学领域，指判断疾病"
+        }
+      ]
+    },
+    {
+      "word": "commonplace",
+      "phonetic": "/ˈkɒmənpleɪs/",
+      "meanings": [
+        {
+          "pos": "adjective/noun",
+          "meaning": "常见的；平常的事",
+          "usage": "指不再稀奇、变得普通的事物"
+        }
+      ]
+    },
+    {
+      "word": "instantly",
+      "phonetic": "/ˈɪnstəntli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "立即；即刻",
+          "usage": "表示即时发生，没有延迟"
+        }
+      ]
+    },
+    {
+      "word": "remarkable",
+      "phonetic": "/rɪˈmɑːkəbl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "非凡的；引人注目的",
+          "usage": "形容值得注意或不同寻常的事物"
+        }
+      ]
+    },
+    {
+      "word": "relieve",
+      "phonetic": "/rɪˈliːv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "减轻；解除",
+          "usage": "常与of连用，表示免除某人的负担或工作"
+        }
+      ]
+    },
+    {
+      "word": "electronic",
+      "phonetic": "/ˌelɪkˈtrɒnɪk/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "电子的；电子设备的",
+          "usage": "指涉及电子技术的设备或系统"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "as long ago as",
+      "usage": "早在...（用于强调时间久远）",
+      "examples": [
+        {
+          "en": "As long ago as the 1960s, Leon Bagrit predicted these uses.",
+          "zh": "早在20世纪60年代，莱昂·巴格瑞特就预测到了这些用途。"
+        }
+      ]
+    },
+    {
+      "phrase": "point the way to",
+      "usage": "指明...的方向",
+      "examples": [
+        {
+          "en": "It pointed the way to the future.",
+          "zh": "它指明了未来的方向。"
+        }
+      ]
+    },
+    {
+      "phrase": "take over",
+      "usage": "接管；取代",
+      "examples": [
+        {
+          "en": "Many of their functions have been taken over by small personal computers.",
+          "zh": "许多功能已被小型个人电脑所取代。"
+        }
+      ]
+    },
+    {
+      "phrase": "be capable of",
+      "usage": "能够做...；有能力做...",
+      "examples": [
+        {
+          "en": "They would be capable of providing information about traffic jams.",
+          "zh": "它们将能够提供有关交通拥堵的信息。"
+        }
+      ]
+    },
+    {
+      "phrase": "relieve someone of something",
+      "usage": "解除某人的...；使某人从...中解脱",
+      "examples": [
+        {
+          "en": "They would relieve office workers of dull, repetitive clerical work.",
+          "zh": "它们将把办公室工作人员从枯燥重复的文书工作中解放出来。"
+        }
+      ]
+    },
+    {
+      "phrase": "nor could he have foreseen",
+      "usage": "他也无法预见（用于否定句后加强语气）",
+      "examples": [
+        {
+          "en": "Nor could he have foreseen the development of the Internet.",
+          "zh": "他也不可能预见互联网的发展。"
+        }
+      ]
+    },
+    {
+      "phrase": "be linked to",
+      "usage": "与...连接/联系",
+      "examples": [
+        {
+          "en": "Computers linked to telephone networks.",
+          "zh": "与电话网络相连的计算机。"
+        }
+      ]
+    },
+    {
+      "phrase": "more and more",
+      "usage": "越来越...",
+      "examples": [
+        {
+          "en": "Computers have become more and more powerful.",
+          "zh": "计算机变得越来越强大。"
+        }
+      ]
+    },
+    {
+      "phrase": "it is even more remarkable that",
+      "usage": "更值得注意的 是...",
+      "examples": [
+        {
+          "en": "It is even more remarkable that an Englishman could predict these uses.",
+          "zh": "更值得注意的是一个英国人能够预测这些用途。"
+        }
+      ]
+    },
+    {
+      "phrase": "think for oneself",
+      "usage": "独立思考；自己判断",
+      "examples": [
+        {
+          "en": "Bagrit dismissed the idea that computers would learn to 'think' for themselves.",
+          "zh": "巴格瑞特摒弃了计算机会学会'独立思考'的观念。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "情态动词 + have + 过去分词（表达对过去的推测或可能性）",
+      "definition": "情态动词could/might/must + have + 过去分词结构用于表达对过去事件的推测、批评或惊讶",
+      "structure": "Subject + could/might/must/would have + past participle",
+      "usage": "这个结构用于：1) 对过去的推测（could have been, might have been）；2) 虚拟语气中的假设；3) 表达'本可以'但未实现的可能性",
+      "examples": [
+        {
+          "en": "Who could have imagined, in the mid 1970s, that computers would be common in homes?",
+          "zh": "在20世纪70年代中期，有谁能够想象计算机会在家庭中普及？"
+        },
+        {
+          "en": "Leon Bagrit couldn't possibly have foreseen the development of the Internet.",
+          "zh": "莱昂·巴格瑞特不可能预见互联网的发展。"
+        },
+        {
+          "en": "If he were alive today, he might be able to tell us what to expect.",
+          "zh": "如果他今天还活着，他也许能告诉我们该期待什么。"
+        }
+      ]
+    },
+    {
+      "title": "nor/neither...nor 的倒装用法",
+      "definition": "当nor或neither...nor连接两个否定成分时，可以使用倒装语序",
+      "structure": "Nor/Neither + 助动词/be动词/情态动词 + 主语 + ... .",
+      "usage": "用于否定句后，连接第二个否定成分，强调两者都不。nor could he have foreseen是'他也无法预见'的意思，强调连...也无法做到",
+      "examples": [
+        {
+          "en": "Nor could he have foreseen the development of the Internet.",
+          "zh": "他也不可能预见互联网的发展。"
+        },
+        {
+          "en": "Neither does he want to go, nor will he change his mind.",
+          "zh": "他既不想去，也不会改变主意。"
+        }
+      ]
+    },
+    {
+      "title": "过去完成时在间接引语中的使用",
+      "definition": "当主句动词是过去时，间接引语中的动词通常需要使用过去完成时",
+      "structure": "主句动词（过去时）+ that + 主语 + had + 过去分词",
+      "usage": "用于报道过去某人所说的话或想法，使时间关系更加清晰。Bagrit foresaw a time when computers would be small...中，would表示过去的将来",
+      "examples": [
+        {
+          "en": "Bagrit dismissed the idea that computers would learn to 'think' for themselves.",
+          "zh": "巴格瑞特摒弃了计算机会学会'独立思考'的观念。"
+        },
+        {
+          "en": "He predicted that computers would be small enough to hold in the hand.",
+          "zh": "他预测计算机会小到可以握在手中。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Who could have imagined...?",
+      "original": {
+        "en": "Who could have imagined, in the mid 1970s, that by the end of the 20th century, computers would be as common in people's homes as TV sets?",
+        "zh": "在20世纪70年代中期，有谁能够想象到20世纪末计算机会像电视机一样普及到家庭中？"
+      },
+      "imitations": [
+        {
+          "en": "Who could have imagined, in the 1990s, that smartphones would replace cameras?",
+          "zh": "在90年代，有谁能够想象智能手机会取代相机？"
+        },
+        {
+          "en": "Who could have predicted that AI would develop so rapidly?",
+          "zh": "有谁能够预测人工智能会发展得如此迅速？"
+        }
+      ]
+    },
+    {
+      "pattern": "...couldn't possibly have foreseen...",
+      "original": {
+        "en": "Of course, Leon Bagrit couldn't possibly have foreseen the development of the Internet.",
+        "zh": "当然，莱昂·巴格瑞特不可能预见互联网的发展。"
+      },
+      "imitations": [
+        {
+          "en": "The ancient Egyptians couldn't possibly have foreseen modern technology.",
+          "zh": "古埃及人不可能预见现代科技。"
+        },
+        {
+          "en": "Early scientists couldn't possibly have imagined the internet.",
+          "zh": "早期的科学家不可能想象到互联网。"
+        }
+      ]
+    },
+    {
+      "pattern": "It is even more remarkable that...",
+      "original": {
+        "en": "Considering how recent these developments are, it is even more remarkable that as long ago as the 1960s, an Englishman was able to predict some of these uses.",
+        "zh": "考虑到这些发展是多么新近，尤其值得注意的是，早在20世纪60年代，一个英国人就能预测到其中一些用途。"
+      },
+      "imitations": [
+        {
+          "en": "It is even more remarkable that he solved the problem in minutes.",
+          "zh": "更值得注意的是他在几分钟内就解决了这个问题。"
+        },
+        {
+          "en": "It is even more remarkable that she learned three languages in a year.",
+          "zh": "更值得注意的是她在一年内学会了三种语言。"
+        }
+      ]
+    },
+    {
+      "pattern": "...when they would be capable of doing...",
+      "original": {
+        "en": "Bagrit foresaw a time when computers would be small enough to hold in the hand, when they would be capable of providing information about traffic jams.",
+        "zh": "巴格瑞特预见了这样一个时代：计算机会小到可以握在手中，能够提供交通拥堵信息。"
+      },
+      "imitations": [
+        {
+          "en": "Scientists foresee a time when robots would be capable of doing all housework.",
+          "zh": "科学家预见了机器人能够做所有家务的时代。"
+        },
+        {
+          "en": "He imagined a future when people would be capable of traveling to Mars.",
+          "zh": "他想象人们能够前往火星的未来。"
+        }
+      ]
+    }
+  ]
+}

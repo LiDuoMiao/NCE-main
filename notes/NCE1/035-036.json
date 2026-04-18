@@ -1,0 +1,416 @@
+{
+  "book": "NCE1",
+  "lesson": "035-036",
+  "title": "Lesson 35",
+  "vocabulary": [
+    {
+      "word": "village",
+      "phonetic": "/ˈvɪlɪdʒ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "村庄；乡村",
+          "usage": "指小于城镇的居民点"
+        }
+      ]
+    },
+    {
+      "word": "valley",
+      "phonetic": "/ˈvæli/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "山谷；峡谷",
+          "usage": "指两山之间的低洼地带"
+        }
+      ]
+    },
+    {
+      "word": "hill",
+      "phonetic": "/hɪl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "小山；丘陵",
+          "usage": "指较小的山或高地，复数形式为hills"
+        }
+      ]
+    },
+    {
+      "word": "river",
+      "phonetic": "/ˈrɪvə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "河流；江",
+          "usage": "指自然流动的水道，通常流入海洋或湖泊"
+        }
+      ]
+    },
+    {
+      "word": "bank",
+      "phonetic": "/bæŋk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "河岸；堤岸",
+          "usage": "指河流两侧的陆地"
+        },
+        {
+          "pos": "noun",
+          "meaning": "银行",
+          "usage": "指存放货币的金融机构"
+        }
+      ]
+    },
+    {
+      "word": "photograph",
+      "phonetic": "/ˈfəʊtəɡrɑːf/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "照片；相片",
+          "usage": "简写为photo"
+        }
+      ]
+    },
+    {
+      "word": "beside",
+      "phonetic": "/bɪˈsaɪd/",
+      "meanings": [
+        {
+          "pos": "preposition",
+          "meaning": "在...旁边；在...附近",
+          "usage": "表示两物的相邻位置关系"
+        }
+      ]
+    },
+    {
+      "word": "between",
+      "phonetic": "/bɪˈtwiːn/",
+      "meanings": [
+        {
+          "pos": "preposition",
+          "meaning": "在...之间",
+          "usage": "用于两者之间的事物"
+        }
+      ]
+    },
+    {
+      "word": "across",
+      "phonetic": "/əˈkrɒs/",
+      "meanings": [
+        {
+          "pos": "preposition",
+          "meaning": "横过；穿过",
+          "usage": "表示从一边到另一边的动作"
+        }
+      ]
+    },
+    {
+      "word": "building",
+      "phonetic": "/ˈbɪldɪŋ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "建筑物；楼房",
+          "usage": "指任何有顶盖和墙壁的结构"
+        }
+      ]
+    },
+    {
+      "word": "park",
+      "phonetic": "/pɑːk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "公园",
+          "usage": "指供公众休闲的绿地场所"
+        },
+        {
+          "pos": "verb",
+          "meaning": "停放（车辆）",
+          "usage": "指将车辆停放在某处"
+        }
+      ]
+    },
+    {
+      "word": "swim",
+      "phonetic": "/swɪm/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "游泳；游过",
+          "usage": "指在水中移动的动作，现在分词为swimming"
+        }
+      ]
+    },
+    {
+      "word": "along",
+      "phonetic": "/əˈlɒŋ/",
+      "meanings": [
+        {
+          "pos": "preposition",
+          "meaning": "沿着；顺着",
+          "usage": "表示沿着某条线或边缘移动"
+        }
+      ]
+    },
+    {
+      "word": "left",
+      "phonetic": "/left/",
+      "meanings": [
+        {
+          "pos": "noun/adjective",
+          "meaning": "左边；左侧的",
+          "usage": "表示方向或位置"
+        }
+      ]
+    },
+    {
+      "word": "right",
+      "phonetic": "/raɪt/",
+      "meanings": [
+        {
+          "pos": "noun/adjective",
+          "meaning": "右边；右侧的",
+          "usage": "表示方向或位置"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "in a valley",
+      "usage": "表示在山谷中",
+      "examples": [
+        {
+          "en": "Our village is in a valley.",
+          "zh": "我们的村庄在山谷里。"
+        }
+      ]
+    },
+    {
+      "phrase": "between two hills",
+      "usage": "表示在两座小山之间",
+      "examples": [
+        {
+          "en": "It is between two hills.",
+          "zh": "它在两座小山之间。"
+        }
+      ]
+    },
+    {
+      "phrase": "on a river",
+      "usage": "表示在河上/河畔",
+      "examples": [
+        {
+          "en": "The village is on a river.",
+          "zh": "村庄在河边。"
+        }
+      ]
+    },
+    {
+      "phrase": "along the banks of the river",
+      "usage": "表示沿着河岸",
+      "examples": [
+        {
+          "en": "We are walking along the banks of the river.",
+          "zh": "我们正沿着河岸走。"
+        }
+      ]
+    },
+    {
+      "phrase": "swim across",
+      "usage": "表示游过（某处）",
+      "examples": [
+        {
+          "en": "He is swimming across the river.",
+          "zh": "他正在游过河。"
+        }
+      ]
+    },
+    {
+      "phrase": "beside a park",
+      "usage": "表示在公园旁边",
+      "examples": [
+        {
+          "en": "It is beside a park.",
+          "zh": "它在一个公园旁边。"
+        }
+      ]
+    },
+    {
+      "phrase": "come out of",
+      "usage": "表示从...出来",
+      "examples": [
+        {
+          "en": "Some children are coming out of the building.",
+          "zh": "一些孩子正从楼里出来。"
+        }
+      ]
+    },
+    {
+      "phrase": "go into",
+      "usage": "表示进入...，与come out of相对",
+      "examples": [
+        {
+          "en": "Some of them are going into the park.",
+          "zh": "他们中的一些人正走进公园。"
+        }
+      ]
+    },
+    {
+      "phrase": "Here is/are...",
+      "usage": "用于介绍或展示某物",
+      "examples": [
+        {
+          "en": "Here is another photograph of the village.",
+          "zh": "这是我们村庄的又一张照片。"
+        }
+      ]
+    },
+    {
+      "phrase": "on the left/right",
+      "usage": "表示在左边/右边",
+      "examples": [
+        {
+          "en": "We are on the left.",
+          "zh": "我们在左边。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "现在进行时 (Present Continuous Tense)",
+      "definition": "表示正在进行的动作或发生的事情",
+      "structure": "主语 + is/am/are + 动词-ing形式",
+      "usage": "用于描述说话时正在发生的动作，或在描述一系列同时发生的动作时使用",
+      "examples": [
+        {
+          "en": "My wife and I are walking along the banks of the river.",
+          "zh": "我和妻子正沿着河岸走。"
+        },
+        {
+          "en": "He is swimming across the river.",
+          "zh": "他正在游过河。"
+        },
+        {
+          "en": "Some children are coming out of the building.",
+          "zh": "一些孩子正从楼里出来。"
+        }
+      ]
+    },
+    {
+      "title": "地点介词 (Prepositions of Place)",
+      "definition": "用于表示事物位置关系的介词",
+      "structure": "in（在...里面）/ on（在...上面）/ between（在...之间）/ beside（在...旁边）",
+      "usage": "描述某人或某物所在的具体位置",
+      "examples": [
+        {
+          "en": "Our village is in a valley.",
+          "zh": "我们的村庄在山谷里。"
+        },
+        {
+          "en": "It is between two hills.",
+          "zh": "它在两座小山之间。"
+        },
+        {
+          "en": "The park is on the right.",
+          "zh": "公园在右边。"
+        },
+        {
+          "en": "It is beside a park.",
+          "zh": "它在一个公园旁边。"
+        }
+      ]
+    },
+    {
+      "title": "Here is/are... 句型",
+      "definition": "用于介绍或展示某物的句型",
+      "structure": "Here is/are + 名词",
+      "usage": "在对话或叙述中引出新的信息或展示某物",
+      "examples": [
+        {
+          "en": "Here is another photograph of the village.",
+          "zh": "这是我们村庄的又一张照片。"
+        },
+        {
+          "en": "Here is another photograph.",
+          "zh": "这是另一张照片。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "主语 + is/are + 动词-ing + 地点/方向",
+      "original": {
+        "en": "He is swimming across the river.",
+        "zh": "他正在游过河。"
+      },
+      "imitations": [
+        {
+          "en": "They are walking along the street.",
+          "zh": "他们正沿着街道走。"
+        },
+        {
+          "en": "The children are playing in the park.",
+          "zh": "孩子们正在公园里玩耍。"
+        }
+      ]
+    },
+    {
+      "pattern": "Here is/are + 名词",
+      "original": {
+        "en": "Here is another photograph of the village.",
+        "zh": "这是我们村庄的又一张照片。"
+      },
+      "imitations": [
+        {
+          "en": "Here is your ticket.",
+          "zh": "这是你的票。"
+        },
+        {
+          "en": "Here are some books for you.",
+          "zh": "这些是给你的书。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + is/are + 介词短语",
+      "original": {
+        "en": "Our village is in a valley.",
+        "zh": "我们的村庄在山谷里。"
+      },
+      "imitations": [
+        {
+          "en": "The school is beside a park.",
+          "zh": "学校在公园旁边。"
+        },
+        {
+          "en": "The store is between two buildings.",
+          "zh": "那家商店在两栋建筑物之间。"
+        }
+      ]
+    },
+    {
+      "pattern": "Some... are doing... Some... are doing...",
+      "original": {
+        "en": "Some children are coming out of the building. Some of them are going into the park.",
+        "zh": "一些孩子正从楼里出来。他们中的一些人正走进公园。"
+      },
+      "imitations": [
+        {
+          "en": "Some students are reading. Some of them are writing.",
+          "zh": "一些学生在读书。他们中的一些人在写字。"
+        },
+        {
+          "en": "Some people are standing. Some of them are sitting.",
+          "zh": "一些人站着。他们中的一些人坐着。"
+        }
+      ]
+    }
+  ]
+}

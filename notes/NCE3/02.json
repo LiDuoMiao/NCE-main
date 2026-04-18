@@ -1,0 +1,419 @@
+{
+  "book": "NCE3",
+  "lesson": "02",
+  "title": "Lesson 2",
+  "vocabulary": [
+    {
+      "word": "equal",
+      "phonetic": "/ˈiːkwəl/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "等于；等同于",
+          "usage": "表示数量、价值等方面的对等，主语和宾语通常为同等性质的事物"
+        },
+        {
+          "pos": "adjective",
+          "meaning": "相等的；平等的",
+          "usage": "描述事物在大小、数量、权利等方面一致的状态"
+        }
+      ]
+    },
+    {
+      "word": "vicar",
+      "phonetic": "/ˈvɪkə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "教区牧师，教区神父",
+          "usage": "指英国国教中负责一个教区的神职人员"
+        }
+      ]
+    },
+    {
+      "word": "strike",
+      "phonetic": "/straɪk/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "（钟）敲，报时",
+          "usage": "用于描述时钟整点敲响报时的动作"
+        },
+        {
+          "pos": "verb",
+          "meaning": "撞击；打击",
+          "usage": "表示用力击打某物的动作"
+        },
+        {
+          "pos": "verb",
+          "meaning": "罢工",
+          "usage": "指劳动者为争取权益集体停止工作"
+        }
+      ]
+    },
+    {
+      "word": "cause",
+      "phonetic": "/kɔːz/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "事业；（公益）活动",
+          "usage": "指人们支持并为之努力的目标或社会运动"
+        },
+        {
+          "pos": "noun",
+          "meaning": "原因，起因",
+          "usage": "表示导致某个结果的缘由"
+        }
+      ]
+    },
+    {
+      "word": "damage",
+      "phonetic": "/ˈdæmɪdʒ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "损坏，破坏",
+          "usage": "指对物品、设施等造成损害，使其功能或外观受损"
+        },
+        {
+          "pos": "noun",
+          "meaning": "损坏，损失",
+          "usage": "表示被损害的状态或造成的损失"
+        }
+      ]
+    },
+    {
+      "word": "silent",
+      "phonetic": "/ˈsaɪlənt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "无声的，沉默的",
+          "usage": "可描述物体不发出声音，也可描述人不说话的状态"
+        }
+      ]
+    },
+    {
+      "word": "start",
+      "phonetic": "/stɑːt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "惊醒，惊跳",
+          "usage": "指因惊讶、害怕等突然产生的身体抖动反应，常与with a start搭配"
+        },
+        {
+          "pos": "verb",
+          "meaning": "开始；启动",
+          "usage": "表示某个动作或事件的开端"
+        }
+      ]
+    },
+    {
+      "word": "torch",
+      "phonetic": "/tɔːtʃ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "手电筒；火把",
+          "usage": "英式英语中常用指手电筒，美式英语对应flashlight"
+        }
+      ]
+    },
+    {
+      "word": "tower",
+      "phonetic": "/ˈtaʊə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "塔；塔楼",
+          "usage": "指高耸的建筑结构，如钟楼、灯塔等"
+        }
+      ]
+    },
+    {
+      "word": "grocer",
+      "phonetic": "/ˈɡrəʊsə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "食品杂货商",
+          "usage": "指经营食品、日常用品等杂货的店铺老板或店员"
+        }
+      ]
+    },
+    {
+      "word": "repair",
+      "phonetic": "/rɪˈpeə(r)/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "修理，修复",
+          "usage": "指对损坏的物品、设备进行修理使其恢复正常功能"
+        },
+        {
+          "pos": "noun",
+          "meaning": "修理，修补",
+          "usage": "表示修理的行为或过程"
+        }
+      ]
+    },
+    {
+      "word": "surprise",
+      "phonetic": "/səˈpraɪz/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "惊喜，惊讶",
+          "usage": "指意想不到的事或意外的情绪"
+        },
+        {
+          "pos": "verb",
+          "meaning": "使惊讶，使意外",
+          "usage": "表示某事让人感到出乎意料"
+        }
+      ]
+    },
+    {
+      "word": "recognize",
+      "phonetic": "/ˈrekəɡnaɪz/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "认出，识别",
+          "usage": "指认出曾经见过或知道的人或事物"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "raise money",
+      "usage": "意为“筹钱，募集资金”，宾语后可接for引出筹款的目的对象",
+      "examples": [
+        {
+          "en": "We are raising money for the children in poor areas.",
+          "zh": "我们正在为贫困地区的儿童筹款。"
+        },
+        {
+          "en": "The organization raised over 1 million yuan for disaster relief last year.",
+          "zh": "该组织去年为救灾募集了超过100万元资金。"
+        }
+      ]
+    },
+    {
+      "phrase": "used to do",
+      "usage": "表示过去常常做某事（现在已经不做了），暗指过去和现在的对比",
+      "examples": [
+        {
+          "en": "I used to swim every week when I was a student.",
+          "zh": "我上学的时候常常每周都去游泳。"
+        },
+        {
+          "en": "This park used to be a wasteland ten years ago.",
+          "zh": "这个公园十年前曾是一片荒地。"
+        }
+      ]
+    },
+    {
+      "phrase": "day and night",
+      "usage": "意为“日日夜夜，昼夜不停”，在句中作时间状语，描述动作持续的状态",
+      "examples": [
+        {
+          "en": "The nurses took care of the patient day and night until he recovered.",
+          "zh": "护士们日夜照顾这位病人，直到他康复。"
+        },
+        {
+          "en": "The construction site works day and night to finish the project on time.",
+          "zh": "工地昼夜施工，以按时完成项目。"
+        }
+      ]
+    },
+    {
+      "phrase": "wake up with a start",
+      "usage": "意为“猛然惊醒，突然惊醒”，强调惊醒的突发性",
+      "examples": [
+        {
+          "en": "I woke up with a start when the thunder struck last night.",
+          "zh": "昨晚打雷的时候我猛然惊醒了。"
+        },
+        {
+          "en": "She woke up with a start, realizing she was late for the meeting.",
+          "zh": "她猛地惊醒，意识到自己开会要迟到了。"
+        }
+      ]
+    },
+    {
+      "phrase": "armed with",
+      "usage": "意为“装备有，携带”，属于过去分词短语作状语，说明主语的状态",
+      "examples": [
+        {
+          "en": "Armed with a map and a compass, the hikers set off into the mountain.",
+          "zh": "背着地图和指南针，徒步旅行者们出发进山了。"
+        },
+        {
+          "en": "Armed with all the evidence, he was confident he would win the case.",
+          "zh": "掌握了所有证据，他有信心赢得这场官司。"
+        }
+      ]
+    },
+    {
+      "phrase": "catch sight of",
+      "usage": "意为“看见，瞥见”，强调偶然看到的动作",
+      "examples": [
+        {
+          "en": "I caught sight of an old friend in the crowd when I was shopping yesterday.",
+          "zh": "我昨天购物的时候在人群里瞥见了一位老朋友。"
+        },
+        {
+          "en": "The little girl caught sight of a cat running through the garden.",
+          "zh": "小女孩看见一只猫从花园里跑过。"
+        }
+      ]
+    },
+    {
+      "phrase": "night after night",
+      "usage": "意为“一夜又一夜，连续很多夜晚”，强调动作的重复性和持续性",
+      "examples": [
+        {
+          "en": "He came to the studio night after night to practice his speech for the contest.",
+          "zh": "他连续很多个晚上来到演播室练习比赛的演讲。"
+        },
+        {
+          "en": "Night after night, the mother sat by the sick child's bed.",
+          "zh": "一夜又一夜，这位母亲守在生病的孩子床边。"
+        }
+      ]
+    },
+    {
+      "phrase": "get used to",
+      "usage": "意为“习惯于”，to是介词，后面接名词、代词或动名词",
+      "examples": [
+        {
+          "en": "It took me a month to get used to the life in the new city.",
+          "zh": "我花了一个月才习惯新城市的生活。"
+        },
+        {
+          "en": "My grandparents have got used to living in the countryside.",
+          "zh": "我的祖父母已经习惯了在农村生活。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "现在进行时表感情色彩",
+      "definition": "现在进行时与always, constantly, continually等频率副词连用时，不表示正在进行的动作，而是表达说话者的某种感情，如赞赏、抱怨、厌烦等",
+      "structure": "主语 + be + always/constantly + doing sth",
+      "usage": "用于突出说话人对某个重复发生的动作的主观态度",
+      "examples": [
+        {
+          "en": "Our vicar is always raising money for one cause or another.",
+          "zh": "我们教区的牧师总是在为各种各样的事业筹钱。"
+        },
+        {
+          "en": "He is always helping others when they are in trouble.",
+          "zh": "别人有困难的时候他总是出手帮忙，真热心。"
+        },
+        {
+          "en": "My deskmate is always talking in class, which annoys the teacher a lot.",
+          "zh": "我的同桌总在课上说话，这让老师很生气。"
+        }
+      ]
+    },
+    {
+      "title": "现在完成进行时",
+      "definition": "表示动作从过去某一时间开始，一直持续到现在，并且可能还会继续下去，强调动作的持续性和重复性",
+      "structure": "主语 + have/has + been + doing sth",
+      "usage": "常和表示一段时间的状语连用，如for weeks, since last year, these days等",
+      "examples": [
+        {
+          "en": "I've been coming up here night after night for weeks now.",
+          "zh": "我一连好几个星期每天晚上都到这儿来。"
+        },
+        {
+          "en": "I have been learning English for more than ten years.",
+          "zh": "我学英语已经有十多年了。"
+        },
+        {
+          "en": "It has been raining for three days. When will it stop?",
+          "zh": "雨已经下了三天了，什么时候才会停啊？"
+        }
+      ]
+    },
+    {
+      "title": "非限定性定语从句",
+      "definition": "对先行词进行补充说明，去掉之后不影响主句的完整意思，和主句之间常用逗号隔开",
+      "structure": "先行词 + which/who/whom/whose + 从句",
+      "usage": "用于提供额外的信息，修饰整个主句或者主句中的某个名词",
+      "examples": [
+        {
+          "en": "The big clock which used to strike the hours day and night was damaged many years ago.",
+          "zh": "那座过去昼夜都报时的大钟很多年前就被损坏了。"
+        },
+        {
+          "en": "The book, which I bought last week, is very popular among young people.",
+          "zh": "那本书我上周买的，在年轻人中非常受欢迎。"
+        },
+        {
+          "en": "Mr. Smith, who used to work in our company, has moved to Shanghai.",
+          "zh": "史密斯先生过去在我们公司工作，他已经搬去上海了。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "主语 + have never managed to do sth",
+      "original": {
+        "en": "He has never managed to get enough money to have the church clock repaired.",
+        "zh": "他一直没能筹到足够的钱来修理教堂的钟。"
+      },
+      "imitations": [
+        {
+          "en": "I have never managed to finish reading this novel though I have tried many times.",
+          "zh": "尽管我试了很多次，还是没能读完这本小说。"
+        },
+        {
+          "en": "The little boy has never managed to ride a bike without his father's help.",
+          "zh": "没有爸爸的帮忙，这个小男孩一直学不会骑自行车。"
+        }
+      ]
+    },
+    {
+      "pattern": "..., however, + 句子",
+      "original": {
+        "en": "One night, however, our vicar woke up with a start: the clock was striking the hours!",
+        "zh": "然而有一天晚上，牧师突然惊醒：钟竟然在报时！"
+      },
+      "imitations": [
+        {
+          "en": "Everyone thought the team would lose the game. They won, however, in the last minute.",
+          "zh": "所有人都觉得这支队伍会输掉比赛，然而他们在最后一分钟赢了。"
+        },
+        {
+          "en": "The task is very difficult. I am confident, however, that we can complete it on time.",
+          "zh": "这项任务非常艰巨，不过我有信心我们能按时完成。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + be afraid that + 从句",
+      "original": {
+        "en": "I'm afraid that at one o'clock it will strike thirteen times and there's nothing I can do about it.",
+        "zh": "恐怕到一点钟的时候它还是会敲13下，我实在没办法解决这个问题。"
+      },
+      "imitations": [
+        {
+          "en": "I'm afraid that I can't come to your birthday party this weekend because I have an exam.",
+          "zh": "恐怕我这周末没法参加你的生日派对了，因为我有一场考试。"
+        },
+        {
+          "en": "She is afraid that her parents will be worried if she goes home too late.",
+          "zh": "她担心如果回家太晚的话父母会担心。"
+        }
+      ]
+    }
+  ]
+}

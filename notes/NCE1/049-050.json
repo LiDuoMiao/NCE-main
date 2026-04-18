@@ -1,0 +1,397 @@
+{
+  "book": "NCE1",
+  "lesson": "049-050",
+  "title": "Lesson 49",
+  "vocabulary": [
+    {
+      "word": "butcher",
+      "phonetic": "/ˈbʊtʃə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "肉贩，屠夫",
+          "usage": "指在肉店工作或卖肉的人"
+        }
+      ]
+    },
+    {
+      "word": "meat",
+      "phonetic": "/miːt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "肉（统称）",
+          "usage": "指食用的肉类，不包括鱼类和禽类"
+        }
+      ]
+    },
+    {
+      "word": "beef",
+      "phonetic": "/biːf/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "牛肉",
+          "usage": "指牛的肉，用于食用"
+        }
+      ]
+    },
+    {
+      "word": "lamb",
+      "phonetic": "/læm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "羊肉；羔羊",
+          "usage": "指小羊的肉，或直接指小羊"
+        }
+      ]
+    },
+    {
+      "word": "steak",
+      "phonetic": "/steɪk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "牛排；肉片",
+          "usage": "指切成片状的牛肉，通常用于煎或烤"
+        }
+      ]
+    },
+    {
+      "word": "mince",
+      "phonetic": "/mɪns/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "肉馅，肉末",
+          "usage": "指绞碎的肉，常用于做肉丸或肉酱"
+        }
+      ]
+    },
+    {
+      "word": "chicken",
+      "phonetic": "/ˈtʃɪkɪn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "鸡肉；鸡",
+          "usage": "可指鸡肉或整只鸡"
+        }
+      ]
+    },
+    {
+      "word": "pound",
+      "phonetic": "/paʊnd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "磅（重量单位）",
+          "usage": "英制重量单位，约等于0.454公斤"
+        }
+      ]
+    },
+    {
+      "word": "piece",
+      "phonetic": "/piːs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "块，片，件",
+          "usage": "用于计数不规则形状或未包装的东西"
+        }
+      ]
+    },
+    {
+      "word": "husband",
+      "phonetic": "/ˈhʌzbənd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "丈夫",
+          "usage": "指女性的法律配偶"
+        }
+      ]
+    },
+    {
+      "word": "truth",
+      "phonetic": "/truːθ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "真相，事实",
+          "usage": "指事物的真实情况"
+        }
+      ]
+    },
+    {
+      "word": "nice",
+      "phonetic": "/naɪs/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "好的；漂亮的",
+          "usage": "用于形容令人愉悦的事物"
+        }
+      ]
+    },
+    {
+      "word": "either",
+      "phonetic": "/ˈaɪðə(r)/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "也（用于否定句）",
+          "usage": "用于否定句末，表示“也不”"
+        }
+      ]
+    },
+    {
+      "word": "like",
+      "phonetic": "/laɪk/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "喜欢",
+          "usage": "表示对某人或某物的喜爱"
+        },
+        {
+          "pos": "prep",
+          "meaning": "像；如同",
+          "usage": "表示相似"
+        }
+      ]
+    },
+    {
+      "word": "tell",
+      "phonetic": "/tel/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "告诉；讲述",
+          "usage": "用于传达信息或讲述故事"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Do you want...?",
+      "usage": "用于询问对方是否想要某物的一般疑问句",
+      "examples": [
+        {
+          "en": "Do you want beef or lamb?",
+          "zh": "你想要牛肉还是羊肉？"
+        }
+      ]
+    },
+    {
+      "phrase": "What about...?",
+      "usage": "用于提出建议或询问对某物的看法",
+      "examples": [
+        {
+          "en": "What about some steak?",
+          "zh": "来点牛排怎么样？"
+        }
+      ]
+    },
+    {
+      "phrase": "To tell you the truth",
+      "usage": "用于引出真实想法或坦白的话",
+      "examples": [
+        {
+          "en": "To tell you the truth, I don't like chicken either!",
+          "zh": "说实话，我也不喜欢鸡肉！"
+        }
+      ]
+    },
+    {
+      "phrase": "Give me...",
+      "usage": "用于请求或要求得到某物",
+      "examples": [
+        {
+          "en": "Give me that piece, please.",
+          "zh": "请把那块给我。"
+        }
+      ]
+    },
+    {
+      "phrase": "Yes, please / No, thank you",
+      "usage": "礼貌地接受或拒绝别人的提议",
+      "examples": [
+        {
+          "en": "Do you want a chicken? No, thank you.",
+          "zh": "你想要鸡肉吗？不，谢谢。"
+        }
+      ]
+    },
+    {
+      "phrase": "...very good / very nice",
+      "usage": "用于强调某物质量很好",
+      "examples": [
+        {
+          "en": "This lamb's very good.",
+          "zh": "这羊肉很好。"
+        }
+      ]
+    },
+    {
+      "phrase": "I like..., but...",
+      "usage": "表达对比或转折关系",
+      "examples": [
+        {
+          "en": "I like lamb, but my husband doesn't.",
+          "zh": "我喜欢羊肉，但我丈夫不喜欢。"
+        }
+      ]
+    },
+    {
+      "phrase": "a pound of...",
+      "usage": "用于表示重量，a pound of + 不可数名词",
+      "examples": [
+        {
+          "en": "And a pound of mince, too.",
+          "zh": "还要一磅肉馅。"
+        }
+      ]
+    },
+    {
+      "phrase": "my husband doesn't / doesn't like",
+      "usage": "简略否定句，避免重复已提到的动词",
+      "examples": [
+        {
+          "en": "My husband likes steak, but he doesn't like chicken.",
+          "zh": "我丈夫喜欢牛排，但他不喜欢鸡肉。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "一般现在时的否定句 (Present Simple Negative)",
+      "definition": "表示主语经常性或习惯性的否定行为",
+      "structure": "主语 + do not (don't) / does not (doesn't) + 动词原形",
+      "usage": "当主语是第三人称单数时用doesn't，其他人称用don't。doesn't后接动词原形。",
+      "examples": [
+        {
+          "en": "I like lamb, but my husband doesn't.",
+          "zh": "我喜欢羊肉，但我丈夫不喜欢。"
+        },
+        {
+          "en": "I don't like chicken either.",
+          "zh": "我也不喜欢鸡肉。"
+        },
+        {
+          "en": "He doesn't want any vegetables.",
+          "zh": "他不要蔬菜。"
+        }
+      ]
+    },
+    {
+      "title": "简略否定句 (Short Negative Responses)",
+      "definition": "在对话中避免重复已说过的动词，用doesn't/don't代替",
+      "structure": "主语 + doesn't / don't",
+      "usage": "当前文已提及动作或爱好，后文提及同一主语时，可用简略否定形式。",
+      "examples": [
+        {
+          "en": "I like lamb, but my husband doesn't.",
+          "zh": "我喜欢羊肉，但我丈夫不喜欢（不喜欢羊肉）。"
+        },
+        {
+          "en": "My husband likes steak, but he doesn't like chicken.",
+          "zh": "我丈夫喜欢牛排，但他不喜欢鸡肉。"
+        }
+      ]
+    },
+    {
+      "title": "一般现在时的一般疑问句 (Present Simple Yes/No Questions)",
+      "definition": "询问某人是否想要或喜欢某物的问句",
+      "structure": "Do / Does + 主语 + 动词原形 + ...?",
+      "usage": "询问是否想要某物，或询问某人的喜好时使用。Does用于第三人称单数主语。",
+      "examples": [
+        {
+          "en": "Do you want beef or lamb?",
+          "zh": "你想要牛肉还是羊肉？"
+        },
+        {
+          "en": "Do you want a chicken?",
+          "zh": "你想要鸡肉吗？"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Do you want + 名词 + or + 名词?",
+      "original": {
+        "en": "Do you want beef or lamb?",
+        "zh": "你想要牛肉还是羊肉？"
+      },
+      "imitations": [
+        {
+          "en": "Do you want tea or coffee?",
+          "zh": "你想要茶还是咖啡？"
+        },
+        {
+          "en": "Do you want chicken or fish?",
+          "zh": "你想要鸡肉还是鱼肉？"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + like(s) + 某物, but + 主语 + doesn't/don't",
+      "original": {
+        "en": "I like lamb, but my husband doesn't.",
+        "zh": "我喜欢羊肉，但我丈夫不喜欢。"
+      },
+      "imitations": [
+        {
+          "en": "I like apples, but my wife doesn't.",
+          "zh": "我喜欢苹果，但我妻子不喜欢。"
+        },
+        {
+          "en": "Tom likes coffee, but he doesn't like tea.",
+          "zh": "汤姆喜欢咖啡，但他不喜欢茶。"
+        }
+      ]
+    },
+    {
+      "pattern": "Give me + that/this + 名词, please",
+      "original": {
+        "en": "Give me that piece, please.",
+        "zh": "请把那块给我。"
+      },
+      "imitations": [
+        {
+          "en": "Give me that book, please.",
+          "zh": "请把那本书给我。"
+        },
+        {
+          "en": "Give me this one, please.",
+          "zh": "请把这一个给我。"
+        }
+      ]
+    },
+    {
+      "pattern": "a + 数量词 + of + 不可数名词",
+      "original": {
+        "en": "a pound of mince",
+        "zh": "一磅肉馅"
+      },
+      "imitations": [
+        {
+          "en": "a cup of tea",
+          "zh": "一杯茶"
+        },
+        {
+          "en": "a bottle of milk",
+          "zh": "一瓶牛奶"
+        },
+        {
+          "en": "a glass of water",
+          "zh": "一杯水"
+        }
+      ]
+    }
+  ]
+}

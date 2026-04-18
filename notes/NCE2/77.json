@@ -1,0 +1,446 @@
+{
+  "book": "NCE2",
+  "lesson": "77",
+  "title": "Did the doctors find out how the woman died?",
+  "vocabulary": [
+    {
+      "word": "mummy",
+      "phonetic": "/ˈmʌmi/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "木乃伊，干尸",
+          "usage": "指经过防腐处理的古代尸体，尤指古埃及人的干尸"
+        }
+      ]
+    },
+    {
+      "word": "operation",
+      "phonetic": "/ˌɒpəˈreɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "手术；操作",
+          "usage": "指医生为治疗或检查而进行的手术操作"
+        }
+      ]
+    },
+    {
+      "word": "resin",
+      "phonetic": "/ˈrezɪn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "树脂，松香",
+          "usage": "一种从植物或合成得到的黏稠物质，这里指包裹木乃伊的硬树脂"
+        }
+      ]
+    },
+    {
+      "word": "laboratory",
+      "phonetic": "/ləˈbɒrətri/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "实验室，研究室",
+          "usage": "进行科学实验或研究的地方，常简写为lab"
+        }
+      ]
+    },
+    {
+      "word": "figure",
+      "phonetic": "/ˈfɪɡə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "塑像；数字；人物",
+          "usage": "指人像或塑像，如wax figure表示蜡像"
+        }
+      ]
+    },
+    {
+      "word": "survive",
+      "phonetic": "/səˈvaɪv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "存活，幸存；活下来",
+          "usage": "指在危险或困难中存活下来，或经历了某事后仍然存在"
+        }
+      ]
+    },
+    {
+      "word": "rare",
+      "phonetic": "/reə(r)/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "稀有的，罕见的",
+          "usage": "形容很少见或不普通的事物"
+        }
+      ]
+    },
+    {
+      "word": "disease",
+      "phonetic": "/dɪˈziːz/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "疾病",
+          "usage": "指身体或心理上的疾病或不适"
+        }
+      ]
+    },
+    {
+      "word": "temple",
+      "phonetic": "/ˈtempl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "寺庙，神殿",
+          "usage": "宗教崇拜的场所，这里指古埃及的神庙"
+        }
+      ]
+    },
+    {
+      "word": "section",
+      "phonetic": "/ˈsekʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "部分，切片",
+          "usage": "指整体中的某一个部分或切片"
+        }
+      ]
+    },
+    {
+      "word": "remove",
+      "phonetic": "/rɪˈmuːv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "移除，去除",
+          "usage": "指将某物从原位置移走或取下"
+        }
+      ]
+    },
+    {
+      "word": "fortunately",
+      "phonetic": "/ˈfɔːtʃənətli/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "幸运地，幸亏",
+          "usage": "用于引出好的或幸运的结果"
+        }
+      ]
+    },
+    {
+      "word": "plate",
+      "phonetic": "/pleɪt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "感光板，底片；盘子",
+          "usage": "这里指X光片，用于医学检查的成像板"
+        }
+      ]
+    },
+    {
+      "word": "cut open",
+      "phonetic": "/kʌt ˈəʊpən/",
+      "meanings": [
+        {
+          "pos": "verb phrase",
+          "meaning": "切开，剖开",
+          "usage": "指用刀或其他工具将某物切开"
+        }
+      ]
+    },
+    {
+      "word": "fall to pieces",
+      "phonetic": "/fɔːl tə ˈpiːsɪz/",
+      "meanings": [
+        {
+          "pos": "verb phrase",
+          "meaning": "碎成碎片，崩溃",
+          "usage": "指某物分裂成许多小部分"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "find out",
+      "usage": "找出，查明真相",
+      "examples": [
+        {
+          "en": "The doctors have been trying to find out whether the woman died of a rare disease.",
+          "zh": "医生们一直在试图查明这名女子是否死于一种罕见疾病。"
+        },
+        {
+          "en": "Please find out what time the train leaves.",
+          "zh": "请查一下火车什么时候出发。"
+        }
+      ]
+    },
+    {
+      "phrase": "die of",
+      "usage": "死于（某种疾病或原因）",
+      "examples": [
+        {
+          "en": "The doctors wanted to know how the woman died of a rare disease.",
+          "zh": "医生们想知道这名女子是如何死于一种罕见疾病的。"
+        },
+        {
+          "en": "He died of cancer last year.",
+          "zh": "他去年死于癌症。"
+        }
+      ]
+    },
+    {
+      "phrase": "last for",
+      "usage": "持续（一段时间）",
+      "examples": [
+        {
+          "en": "The operation lasted for over four hours.",
+          "zh": "手术持续了四个多小时。"
+        },
+        {
+          "en": "The meeting lasted for two hours.",
+          "zh": "会议持续了两个小时。"
+        }
+      ]
+    },
+    {
+      "phrase": "because of",
+      "usage": "因为，由于",
+      "examples": [
+        {
+          "en": "The operation proved to be very difficult because of the hard resin.",
+          "zh": "由于坚硬的树脂，手术变得非常困难。"
+        },
+        {
+          "en": "We cancelled the trip because of the bad weather.",
+          "zh": "由于天气不好，我们取消了旅行。"
+        }
+      ]
+    },
+    {
+      "phrase": "remove...from",
+      "usage": "从...移除/取出...",
+      "examples": [
+        {
+          "en": "The doctors removed a section of the mummy and sent it to a laboratory.",
+          "zh": "医生们取出木乃伊的一部分送到实验室。"
+        },
+        {
+          "en": "Please remove your shoes from the carpet.",
+          "zh": "请把你的鞋子从地毯上拿走。"
+        }
+      ]
+    },
+    {
+      "phrase": "fall to pieces",
+      "usage": "碎成碎片，瓦解",
+      "examples": [
+        {
+          "en": "They feared that the mummy would fall to pieces when they cut it open.",
+          "zh": "他们担心当切开木乃伊时，它会碎成碎片。"
+        },
+        {
+          "en": "The old book fell to pieces when I touched it.",
+          "zh": "那本旧书我一碰就碎成了碎片。"
+        }
+      ]
+    },
+    {
+      "phrase": "have not yet",
+      "usage": "还没有，尚未",
+      "examples": [
+        {
+          "en": "The doctors have not yet decided how the woman died.",
+          "zh": "医生们还没有确定这名女子是如何死的。"
+        },
+        {
+          "en": "I have not yet finished my homework.",
+          "zh": "我还没有完成作业。"
+        }
+      ]
+    },
+    {
+      "phrase": "try to do something",
+      "usage": "试图/尝试做某事",
+      "examples": [
+        {
+          "en": "Doctors have been trying to find out the cause of death.",
+          "zh": "医生们一直在试图找出死因。"
+        },
+        {
+          "en": "She tried to open the door but it was locked.",
+          "zh": "她试图打开门，但门锁着。"
+        }
+      ]
+    },
+    {
+      "phrase": "place inside",
+      "usage": "放在...内部",
+      "examples": [
+        {
+          "en": "This god was normally placed inside a mummy.",
+          "zh": "这个神通常被放在木乃伊内部。"
+        },
+        {
+          "en": "The key was placed inside the drawer.",
+          "zh": "钥匙被放在抽屉里面。"
+        }
+      ]
+    },
+    {
+      "phrase": "survive the operation",
+      "usage": "手术成功，经历手术存活下来",
+      "examples": [
+        {
+          "en": "The mummy successfully survived the operation.",
+          "zh": "木乃伊成功挺过了这次手术。"
+        },
+        {
+          "en": "The patient survived the surgery.",
+          "zh": "病人手术成功活了下来。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "现在完成时（Present Perfect Tense）",
+      "definition": "表示过去发生的行为或情况对现在有影响，或表示从过去持续到现在的动作。常与already, yet, just, ever, never等时间状语连用。",
+      "structure": "主语 + have/has + 过去分词",
+      "usage": "用于描述过去发生但与现在相关的事情，或表示一个从过去开始并可能继续下去的动作。have been + doing表示现在完成进行时，强调动作的持续性。",
+      "examples": [
+        {
+          "en": "The doctors have not yet decided how the woman died.",
+          "zh": "医生们还没有决定这名女子是如何死的。"
+        },
+        {
+          "en": "The doctors have been trying to find out whether she died of a rare disease.",
+          "zh": "医生们一直在试图查明她是否死于一种罕见疾病。"
+        },
+        {
+          "en": "I have already finished my homework.",
+          "zh": "我已经完成作业了。"
+        }
+      ]
+    },
+    {
+      "title": "过去分词作定语（Past Participle as Adjective）",
+      "definition": "过去分词作定语时，表示已完成的动作或被动意义，通常前置或后置修饰名词。",
+      "structure": "名词 + 过去分词 或 过去分词 + 名词",
+      "usage": "用于描述名词的状态或已经完成的动作。taken是take的过去分词，这里作后置定语修饰plates。",
+      "examples": [
+        {
+          "en": "There were strange marks on the X-ray plates taken of the mummy.",
+          "zh": "在给木乃伊拍摄的X光片上有奇怪的痕迹。"
+        },
+        {
+          "en": "The books bought yesterday are on the table.",
+          "zh": "昨天买的书在桌子上。"
+        },
+        {
+          "en": "The letter received this morning is from my mother.",
+          "zh": "今天早上收到的信是我妈妈寄来的。"
+        }
+      ]
+    },
+    {
+      "title": "定语从句（Relative Clause）",
+      "definition": "用来修饰名词或代词的从句，由关系代词（who, which, that等）或关系副词（where, when, why等）引导。",
+      "structure": "名词/代词 + 关系代词/副词 + 从句",
+      "usage": "用于对名词进行补充说明或限制。which引导非限制性定语从句，修饰主句中的整个句子或某个名词。",
+      "examples": [
+        {
+          "en": "The operation, which lasted for over four hours, proved to be very difficult.",
+          "zh": "手术持续了四个多小时，结果证明非常困难。"
+        },
+        {
+          "en": "The god which has the head of a cow was normally placed inside a mummy.",
+          "zh": "这个有着牛头的神通常被放在木乃伊内部。"
+        },
+        {
+          "en": "The woman who died in 800 B.C. was a singer in the Temple of Thebes.",
+          "zh": "这位死于公元前800年的女子是底比斯神庙的一名歌手。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "The + 名词 + is that of + 名字/身份",
+      "original": {
+        "en": "The mummy is that of Shepenmut who was once a singer in the Temple of Thebes.",
+        "zh": "这具木乃伊是希彭穆特的，她曾是底比斯神庙的一名歌手。"
+      },
+      "imitations": [
+        {
+          "en": "The house is that of Mr. Smith who works in our company.",
+          "zh": "这栋房子是史密斯先生的，他在我们公司工作。"
+        },
+        {
+          "en": "The book is that of the famous writer who won the Nobel Prize.",
+          "zh": "这本书是那位获得诺贝尔奖的著名作家的。"
+        }
+      ]
+    },
+    {
+      "pattern": "have been + doing something + 时间状语",
+      "original": {
+        "en": "The doctors have been trying to find out whether the woman died of a rare disease.",
+        "zh": "医生们一直在试图查明这名女子是否死于一种罕见疾病。"
+      },
+      "imitations": [
+        {
+          "en": "We have been waiting for you for two hours.",
+          "zh": "我们已经等了你两个小时了。"
+        },
+        {
+          "en": "She has been studying English since 2020.",
+          "zh": "她从2020年起一直在学英语。"
+        }
+      ]
+    },
+    {
+      "pattern": "The + 名词 + 谓语 + because of + 名词/动名词",
+      "original": {
+        "en": "The operation proved to be very difficult because of the hard resin which covered the skin.",
+        "zh": "由于覆盖皮肤的硬树脂，手术变得非常困难。"
+      },
+      "imitations": [
+        {
+          "en": "The match was cancelled because of the heavy rain.",
+          "zh": "比赛因大雨取消了。"
+        },
+        {
+          "en": "He failed the exam because of his carelessness.",
+          "zh": "他因为粗心考试没通过。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + 动词 + something + which + 定语从句",
+      "original": {
+        "en": "They also found something which the X-ray plates did not show: a small wax figure of the god Duamutef.",
+        "zh": "他们还发现了X光片没有显示的东西：一个杜阿穆特夫神的小蜡像。"
+      },
+      "imitations": [
+        {
+          "en": "I bought something which I really needed: a new computer.",
+          "zh": "我买了些我真正需要的东西：一台新电脑。"
+        },
+        {
+          "en": "She told me something which changed my life: she was leaving.",
+          "zh": "她告诉我了一件改变我一生的事：她要离开了。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,438 @@
+{
+  "book": "NCE2",
+  "lesson": "20",
+  "title": "Why is fishing the writer's favourite sport?",
+  "vocabulary": [
+    {
+      "word": "fishing",
+      "phonetic": "/ˈfɪʃɪŋ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "钓鱼；捕鱼",
+          "usage": "指钓鱼这项活动或运动"
+        }
+      ]
+    },
+    {
+      "word": "favourite",
+      "phonetic": "/ˈfeɪvərɪt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "最喜欢的",
+          "usage": "修饰名词，表示最喜欢的人或事物"
+        }
+      ]
+    },
+    {
+      "word": "catch",
+      "phonetic": "/kætʃ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "捕捉；抓住",
+          "usage": "过去式为caught，表示抓住或捕获"
+        }
+      ]
+    },
+    {
+      "word": "unlucky",
+      "phonetic": "/ʌnˈlʌki/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "不幸的；运气不好的",
+          "usage": "由lucky加前缀un-构成的反义词"
+        }
+      ]
+    },
+    {
+      "word": "instead",
+      "phonetic": "/ɪnˈsted/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "代替；反而",
+          "usage": "常与of连用，表示代替或转换"
+        }
+      ]
+    },
+    {
+      "word": "rubbish",
+      "phonetic": "/ˈrʌbɪʃ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "垃圾；废物",
+          "usage": "英式英语常用，美式英语多用garbage或trash"
+        }
+      ]
+    },
+    {
+      "word": "waste",
+      "phonetic": "/weɪst/",
+      "meanings": [
+        {
+          "pos": "verb/noun",
+          "meaning": "浪费",
+          "usage": "作动词时表示浪费，作名词时表示废物或浪费"
+        }
+      ]
+    },
+    {
+      "word": "realize",
+      "phonetic": "/ˈrɪəlaɪz/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "意识到；认识到",
+          "usage": "表示突然明白或理解某事"
+        }
+      ]
+    },
+    {
+      "word": "empty",
+      "phonetic": "/ˈempti/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "空的",
+          "usage": "形容容器或空间没有东西"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "phonetic": "/bəʊt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "小船；艇",
+          "usage": "指较小的船只，比ship小"
+        }
+      ]
+    },
+    {
+      "word": "nothing",
+      "phonetic": "/ˈnʌθɪŋ/",
+      "meanings": [
+        {
+          "pos": "pronoun",
+          "meaning": "没有什么；无事",
+          "usage": "表示什么都没有，含有否定意味"
+        }
+      ]
+    },
+    {
+      "word": "whole",
+      "phonetic": "/həʊl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "整个的；全部的",
+          "usage": "强调完整无缺的，全部的"
+        }
+      ]
+    },
+    {
+      "word": "worried",
+      "phonetic": "/ˈwʌrɪd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "担心的；烦恼的",
+          "usage": "常与about连用，表示担忧"
+        }
+      ]
+    },
+    {
+      "word": "important",
+      "phonetic": "/ɪmˈpɔːtənt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "重要的",
+          "usage": "表示具有重大意义或影响的"
+        }
+      ]
+    },
+    {
+      "word": "sport",
+      "phonetic": "/spɔːt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "运动",
+          "usage": "指体育运动或娱乐活动"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "spend time (in) doing something",
+      "usage": "花时间做某事",
+      "examples": [
+        {
+          "en": "I often spend hours fishing.",
+          "zh": "我经常花几个小时钓鱼。"
+        },
+        {
+          "en": "She spends two hours studying English every day.",
+          "zh": "她每天花两个小时学习英语。"
+        }
+      ]
+    },
+    {
+      "phrase": "instead of",
+      "usage": "代替；而不是",
+      "examples": [
+        {
+          "en": "Instead of catching fish, they caught old boots.",
+          "zh": "他们没有捕到鱼，而是捕到了旧靴子。"
+        },
+        {
+          "en": "I'll go swimming instead of playing tennis.",
+          "zh": "我要去游泳而不是打网球。"
+        }
+      ]
+    },
+    {
+      "phrase": "give up",
+      "usage": "放弃；戒除",
+      "examples": [
+        {
+          "en": "You must give up fishing!",
+          "zh": "你必须放弃钓鱼！"
+        },
+        {
+          "en": "He decided to give up smoking.",
+          "zh": "他决定戒烟。"
+        }
+      ]
+    },
+    {
+      "phrase": "be interested in",
+      "usage": "对...感兴趣",
+      "examples": [
+        {
+          "en": "I'm not really interested in fishing.",
+          "zh": "我其实对钓鱼并不感兴趣。"
+        },
+        {
+          "en": "Are you interested in music?",
+          "zh": "你对音乐感兴趣吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "not even",
+      "usage": "甚至不；连...都不",
+      "examples": [
+        {
+          "en": "I never catch anything -- not even old boots.",
+          "zh": "我从来什么都抓不到——甚至连旧靴子都抓不到。"
+        },
+        {
+          "en": "He can't even read.",
+          "zh": "他甚至不会读书。"
+        }
+      ]
+    },
+    {
+      "phrase": "a waste of time",
+      "usage": "浪费时间",
+      "examples": [
+        {
+          "en": "It's a waste of time.",
+          "zh": "这是浪费时间。"
+        },
+        {
+          "en": "Watching too much TV is a waste of time.",
+          "zh": "看太多电视是浪费时间。"
+        }
+      ]
+    },
+    {
+      "phrase": "go home",
+      "usage": "回家",
+      "examples": [
+        {
+          "en": "I always go home with an empty bag.",
+          "zh": "我总是带着空袋子回家。"
+        },
+        {
+          "en": "What time do you usually go home?",
+          "zh": "你通常几点回家？"
+        }
+      ]
+    },
+    {
+      "phrase": "after having spent",
+      "usage": "在花费...之后（分词完成式）",
+      "examples": [
+        {
+          "en": "After having spent whole mornings on the river, I always go home with an empty bag.",
+          "zh": "在整个河上度过早晨之后，我总是带着空袋子回家。"
+        }
+      ]
+    },
+    {
+      "phrase": "do nothing at all",
+      "usage": "什么都不做",
+      "examples": [
+        {
+          "en": "I'm only interested in sitting in a boat and doing nothing at all!",
+          "zh": "我只对坐在船里什么都不做感兴趣！"
+        },
+        {
+          "en": "He sat there doing nothing at all.",
+          "zh": "他坐在那里什么都不做。"
+        }
+      ]
+    },
+    {
+      "phrase": "worry someone",
+      "usage": "使某人担心",
+      "examples": [
+        {
+          "en": "But this does not worry me.",
+          "zh": "但这并没有让我担心。"
+        },
+        {
+          "en": "Don't worry me with your problems.",
+          "zh": "别用你的问题来烦我。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "现在进行时态 (Present Continuous Tense)",
+      "definition": "表示正在进行的动作或发生的事态，常与now, at present等时间状语连用",
+      "structure": "主语 + am/is/are + 动词-ing + 其他",
+      "usage": "用于描述说话时正在进行的动作，或阶段性正在发生的动作",
+      "examples": [
+        {
+          "en": "I am fishing now.",
+          "zh": "我现在正在钓鱼。"
+        },
+        {
+          "en": "She is reading a book at the moment.",
+          "zh": "她此刻正在读一本书。"
+        },
+        {
+          "en": "They are playing football this afternoon.",
+          "zh": "他们今天下午正在踢足球。"
+        }
+      ]
+    },
+    {
+      "title": "频率副词在句中的位置",
+      "definition": "频率副词（如often, always, never, usually）通常位于行为动词之前，be动词或助动词之后",
+      "structure": "主语 + 频率副词 + 动词 / 主语 + be动词 + 频率副词 + 其他",
+      "usage": "用于描述动作发生的频率",
+      "examples": [
+        {
+          "en": "I often fish for hours.",
+          "zh": "我经常一钓就是几个小时。"
+        },
+        {
+          "en": "I never catch anything.",
+          "zh": "我从来什么都抓不到。"
+        },
+        {
+          "en": "Some fishermen are unlucky.",
+          "zh": "有些钓鱼者运气不好。"
+        }
+      ]
+    },
+    {
+      "title": "but和and的用法区别",
+      "definition": "but表示转折对比，and表示顺接或添加",
+      "structure": "并列句：句子 + but/and + 句子",
+      "usage": "but用于引出与前文相反或出乎意料的内容，and用于连接平行的或顺承的内容",
+      "examples": [
+        {
+          "en": "I often fish for hours without catching anything. But this does not worry me.",
+          "zh": "我经常一钓就是几个小时却什么都抓不到。但这并没有让我担心。"
+        },
+        {
+          "en": "I'm not really interested in fishing. I am only interested in sitting in a boat and doing nothing at all!",
+          "zh": "我其实对钓鱼并不感兴趣。我只对坐在船里什么都不做感兴趣！"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "主语 + often + 动词 + for hours without + 动词-ing",
+      "original": {
+        "en": "I often fish for hours without catching anything.",
+        "zh": "我经常一钓就是几个小时却什么都抓不到。"
+      },
+      "imitations": [
+        {
+          "en": "He often studies for hours without understanding anything.",
+          "zh": "他经常学几个小时却什么都不懂。"
+        },
+        {
+          "en": "She often walks for miles without seeing anyone.",
+          "zh": "她经常走好几英里却看不到任何人。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + am/is/are + even + 形容词比较级",
+      "original": {
+        "en": "I am even less lucky.",
+        "zh": "我甚至更不幸。"
+      },
+      "imitations": [
+        {
+          "en": "He is even more beautiful.",
+          "zh": "他甚至更帅。"
+        },
+        {
+          "en": "This problem is even more difficult.",
+          "zh": "这个问题甚至更难。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + be动词 + not really interested in + 名词/动词-ing",
+      "original": {
+        "en": "I'm not really interested in fishing.",
+        "zh": "我其实对钓鱼并不感兴趣。"
+      },
+      "imitations": [
+        {
+          "en": "I'm not really interested in watching TV.",
+          "zh": "我其实对看电视并不感兴趣。"
+        },
+        {
+          "en": "She's not really interested in learning French.",
+          "zh": "她其实对学法语并不感兴趣。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + be动词 + only interested in + 动词-ing + and + 动词-ing",
+      "original": {
+        "en": "I am only interested in sitting in a boat and doing nothing at all!",
+        "zh": "我只对坐在船里什么都不做感兴趣！"
+      },
+      "imitations": [
+        {
+          "en": "She is only interested in reading books and listening to music.",
+          "zh": "她只对看书和听音乐感兴趣。"
+        },
+        {
+          "en": "I'm only interested in eating food and sleeping.",
+          "zh": "我只对吃东西和睡觉感兴趣。"
+        }
+      ]
+    }
+  ]
+}

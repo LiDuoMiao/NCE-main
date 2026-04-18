@@ -1,0 +1,420 @@
+{
+  "book": "NCE4",
+  "lesson": "46",
+  "title": "Lesson 46",
+  "vocabulary": [
+    {
+      "word": "spasm",
+      "phonetic": "/ˈspæzəm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "（感情的）突发；（肌肉的）痉挛",
+          "usage": "既可指生理上的肌肉抽搐，也可指情绪的突然发作"
+        }
+      ]
+    },
+    {
+      "word": "futile",
+      "phonetic": "/ˈfjuːtaɪl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "徒劳的；无用的",
+          "usage": "强调行动无法达成预期效果，无任何意义"
+        }
+      ]
+    },
+    {
+      "word": "insinuate",
+      "phonetic": "/ɪnˈsɪnjueɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "逐渐潜入；旁敲侧击地暗示",
+          "usage": "表示缓慢、巧妙地将事物引入，或间接表达观点"
+        }
+      ]
+    },
+    {
+      "word": "convulsive",
+      "phonetic": "/kənˈvʌlsɪv/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "抽搐的；惊厥的；突然失控的",
+          "usage": "常用来描述不受控制的、剧烈的动作或情绪状态"
+        }
+      ]
+    },
+    {
+      "word": "illumination",
+      "phonetic": "/ɪˌluːmɪˈneɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "启发；阐明；照明",
+          "usage": "可指光线的照明，也可指知识、思想上的启发"
+        }
+      ]
+    },
+    {
+      "word": "undue",
+      "phonetic": "/ˌʌnˈdjuː/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "过度的；不适当的",
+          "usage": "用来修饰超出正常、合理范围的事物"
+        }
+      ]
+    },
+    {
+      "word": "recuperation",
+      "phonetic": "/rɪˌkuːpəˈreɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "恢复；复原",
+          "usage": "侧重指体力、精力或健康的恢复过程"
+        }
+      ]
+    },
+    {
+      "word": "sedulously",
+      "phonetic": "/ˈsedjʊləsli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "勤奋地；孜孜不倦地",
+          "usage": "强调付出持续、认真的努力"
+        }
+      ]
+    },
+    {
+      "word": "vivifying",
+      "phonetic": "/ˈvɪvɪfaɪɪŋ/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "使有生气的；令人焕发精神的",
+          "usage": "描述事物能带来活力、让人恢复精力的特质"
+        }
+      ]
+    },
+    {
+      "word": "aggravate",
+      "phonetic": "/ˈæɡrəveɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "加重；使恶化；激怒",
+          "usage": "通常指让原本不好的情况、问题变得更严重"
+        }
+      ]
+    },
+    {
+      "word": "caprice",
+      "phonetic": "/kəˈpriːs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "反复无常；突发的奇想",
+          "usage": "指无理由、随意的想法或行为变化"
+        }
+      ]
+    },
+    {
+      "word": "satiation",
+      "phonetic": "/ˌseɪʃiˈeɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "满足；饱足",
+          "usage": "常指过度满足后产生的腻烦感"
+        }
+      ]
+    },
+    {
+      "word": "frantically",
+      "phonetic": "/ˈfræntɪkli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "疯狂地；狂暴地",
+          "usage": "描述人在焦虑、慌乱状态下的行为状态"
+        }
+      ]
+    },
+    {
+      "word": "avenging",
+      "phonetic": "/əˈvendʒɪŋ/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "报复性的；报应性的",
+          "usage": "用来描述带有惩罚、报复性质的事物"
+        }
+      ]
+    },
+    {
+      "word": "grudge",
+      "phonetic": "/ɡrʌdʒ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "不情愿做；吝惜；怨恨",
+          "usage": "表示对某事感到不满、不愿意接受，也可指心怀怨恨"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "catch hold of",
+      "usage": "表示抓住、握住某物，也可引申为掌握、理解某个想法或事物",
+      "examples": [
+        {
+          "en": "The mind catches hold of something and will not let it go.",
+          "zh": "大脑抓住某个念头不肯放开。"
+        },
+        {
+          "en": "He caught hold of the rope to keep himself from falling.",
+          "zh": "他抓住绳子防止自己摔倒。"
+        }
+      ]
+    },
+    {
+      "phrase": "of the first importance",
+      "usage": "用来描述事物是最重要的、处于第一优先级的",
+      "examples": [
+        {
+          "en": "The cultivation of a hobby is therefore a policy of the first importance to a public man.",
+          "zh": "因此，对于公众人物来说，培养爱好和新的兴趣形式是头等重要的策略。"
+        },
+        {
+          "en": "Regular exercise is a matter of the first importance for office workers.",
+          "zh": "对于上班族来说，定期锻炼是头等重要的事。"
+        }
+      ]
+    },
+    {
+      "phrase": "at hand",
+      "usage": "表示在手边、即将到来，或者可以随时使用",
+      "examples": [
+        {
+          "en": "The vivifying fruits are to be at hand when needed.",
+          "zh": "在需要的时候，能让人焕发活力的成果就能随时可用。"
+        },
+        {
+          "en": "Keep your emergency kit at hand in case of accidents.",
+          "zh": "把你的应急包放在手边，以防发生意外。"
+        }
+      ]
+    },
+    {
+      "phrase": "tired out",
+      "usage": "表示极度疲惫、筋疲力尽，通常是因体力或脑力消耗过大导致",
+      "examples": [
+        {
+          "en": "The manual labourer is tired out with a hard week's sweat and effort.",
+          "zh": "体力劳动者经过一周辛苦的流汗劳作后已经筋疲力尽。"
+        },
+        {
+          "en": "I was tired out after finishing the 10-kilometer marathon.",
+          "zh": "完成10公里马拉松后我筋疲力尽。"
+        }
+      ]
+    },
+    {
+      "phrase": "lay one's hands on",
+      "usage": "表示得到、找到某物，尤指经过努力后获得",
+      "examples": [
+        {
+          "en": "They can lay their hands on almost every object of desire.",
+          "zh": "他们几乎能得到所有想要的东西。"
+        },
+        {
+          "en": "I finally laid my hands on the limited edition album I had been looking for.",
+          "zh": "我终于找到了我一直想要的那张限量版专辑。"
+        }
+      ]
+    },
+    {
+      "phrase": "in vain",
+      "usage": "表示徒劳、白费功夫，强调行动没有取得预期效果",
+      "examples": [
+        {
+          "en": "In vain they rush frantically round from place to place.",
+          "zh": "他们疯狂地从一个地方跑到另一个地方，却都是徒劳。"
+        },
+        {
+          "en": "All the efforts we made to save the old building were in vain, as it was demolished finally.",
+          "zh": "我们为拯救这栋老建筑付出的所有努力都白费了，因为它最终还是被拆除了。"
+        }
+      ]
+    },
+    {
+      "phrase": "broadly speaking",
+      "usage": "常用作插入语，表示一般来说、广义上说，用于引出概括性的观点",
+      "examples": [
+        {
+          "en": "Broadly speaking, human beings may be divided into three classes.",
+          "zh": "广义上说，人类可以分为三类。"
+        },
+        {
+          "en": "Broadly speaking, the project has achieved most of its expected goals.",
+          "zh": "总体来说，这个项目已经达成了大部分预期目标。"
+        }
+      ]
+    },
+    {
+      "phrase": "keen appetite for",
+      "usage": "表示对某事物有强烈的兴趣、渴望",
+      "examples": [
+        {
+          "en": "The long hours of work bring a keen appetite for pleasure even in its simplest forms.",
+          "zh": "长时间的工作让他们即使对最简单的快乐也有强烈的渴望。"
+        },
+        {
+          "en": "Children raised in a reading environment usually have a keen appetite for books.",
+          "zh": "在阅读环境中长大的孩子通常对书籍有强烈的兴趣。"
+        }
+      ]
+    },
+    {
+      "phrase": "banish... from...",
+      "usage": "表示把……从……中驱逐、排除出去，可指具体事物也可指想法、情绪",
+      "examples": [
+        {
+          "en": "They need the means of banishing work at intervals from their minds.",
+          "zh": "他们需要偶尔能把工作从脑海中排除出去的方法。"
+        },
+        {
+          "en": "You should banish negative thoughts from your mind before the interview.",
+          "zh": "面试前你应该把消极的想法从脑海中赶出去。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "It is + adj./n. + to do 结构",
+      "definition": "这是英语中常见的形式主语结构，it为形式主语，真正的主语是后面的不定式短语，用来避免句子头重脚轻",
+      "structure": "It is + 形容词/名词短语 + (for sb.) + to do sth.",
+      "usage": "常用于表达做某事是怎样的，属于非常高频的书面和口语句式",
+      "examples": [
+        {
+          "en": "It is useless to argue with the mind in this condition.",
+          "zh": "在这种情况下和大脑争辩是没有用的。"
+        },
+        {
+          "en": "It is very important for students to develop independent thinking ability.",
+          "zh": "对学生来说，培养独立思考能力非常重要。"
+        }
+      ]
+    },
+    {
+      "title": "the + 比较级, the + 比较级 结构",
+      "definition": "表示“越……，就越……”，用于描述两个变化过程的相关性",
+      "structure": "The + 形容词/副词比较级 + 陈述句，the + 形容词/副词比较级 + 陈述句",
+      "usage": "可以用来清晰表达两个变量之间的正相关或负相关关系，常用于说理类文本",
+      "examples": [
+        {
+          "en": "The stronger the will, the more futile the task.",
+          "zh": "意志越坚定，这个任务就越徒劳。"
+        },
+        {
+          "en": "The more careful you are when doing homework, the fewer mistakes you will make.",
+          "zh": "你做作业的时候越仔细，犯的错误就越少。"
+        }
+      ]
+    },
+    {
+      "title": "定语从句的分隔用法",
+      "definition": "定语从句与先行词被其他成分分隔开的情况，通常是为了平衡句子结构，避免头重脚轻",
+      "structure": "先行词 + 其他修饰成分 + 关系代词/关系副词 + 定语从句",
+      "usage": "阅读时需要先找到先行词，理清句子结构，才能准确理解句意，常见于复杂的书面文本",
+      "examples": [
+        {
+          "en": "It is no use offering the manual labourer, tired out with a hard week's sweat and effort, the chance of playing a game of football.",
+          "zh": "给经过一周辛苦劳作、筋疲力尽的体力劳动者提供踢足球的机会是没有用的。"
+        },
+        {
+          "en": "I know the girl in the red dress, who won the first prize in the speech contest last month.",
+          "zh": "我认识那个穿红裙子的女孩，她上个月在演讲比赛中得了一等奖。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "A gifted + 职业 + has said, '引语'.",
+      "original": {
+        "en": "A gifted American psychologist has said, 'Worry is a spasm of the emotion; the mind catches hold of something and will not let it go.'",
+        "zh": "一位有天赋的美国心理学家曾说过：“忧虑是情绪的一阵痉挛；大脑抓住某个念头不肯放开。”"
+      },
+      "imitations": [
+        {
+          "en": "A gifted education expert has said, 'The best way to cultivate children's creativity is to give them enough space to explore freely.'",
+          "zh": "一位有天赋的教育专家曾说过：“培养孩子创造力最好的方法就是给他们足够的自由探索空间。”"
+        },
+        {
+          "en": "A gifted environmentalist has said, 'The protection of ecosystems is not a choice but a responsibility for all human beings.'",
+          "zh": "一位有天赋的环保主义者曾说过：“保护生态系统不是一种选择，而是全人类的责任。”"
+        }
+      ]
+    },
+    {
+      "pattern": "Broadly speaking, 群体 may be divided into + 数量 classes: 具体分类.",
+      "original": {
+        "en": "Broadly speaking, human beings may be divided into three classes: those who are toiled to death, those who are worried to death, and those who are bored to death.",
+        "zh": "广义上说，人类可以分为三类：劳累至死的人，忧虑至死的人，以及无聊至死的人。"
+      },
+      "imitations": [
+        {
+          "en": "Broadly speaking, college students may be divided into three classes: those who focus on academic research, those who actively participate in social practice, and those who are confused about their future.",
+          "zh": "广义上说，大学生可以分为三类：专注学术研究的人，积极参加社会实践的人，以及对未来感到迷茫的人。"
+        },
+        {
+          "en": "Broadly speaking, fitness participants may be divided into three classes: those who want to lose weight, those who want to build muscle, and those who just want to keep healthy.",
+          "zh": "广义上说，健身人群可以分为三类：想要减重的人，想要增肌的人，以及只是想要保持健康的人。"
+        }
+      ]
+    },
+    {
+      "pattern": "Of these the former are the majority. They have their compensations.",
+      "original": {
+        "en": "Of these the former are the majority. They have their compensations.",
+        "zh": "在这两类人中，前者占大多数。他们有自己的补偿。"
+      },
+      "imitations": [
+        {
+          "en": "Of these two options the former is more popular with young people. They have their unique advantages.",
+          "zh": "在这两个选择中，前者更受年轻人欢迎。它们有自己独特的优势。"
+        },
+        {
+          "en": "Of these two learning methods the former is more suitable for beginners. They have lower requirements for basic knowledge.",
+          "zh": "在这两种学习方法中，前者更适合初学者。它们对基础知识的要求更低。"
+        }
+      ]
+    },
+    {
+      "pattern": "Indeed, it may well be that + 从句.",
+      "original": {
+        "en": "Indeed, it may well be that those whose work is their pleasure are those who most need the means of banishing it at intervals from their minds.",
+        "zh": "事实上，很可能那些以工作为乐的人最需要偶尔能把工作从脑海中排除出去的方法。"
+      },
+      "imitations": [
+        {
+          "en": "Indeed, it may well be that those who always appear strong are those who need care and understanding most.",
+          "zh": "事实上，很可能那些总是看起来很坚强的人是最需要关心和理解的人。"
+        },
+        {
+          "en": "Indeed, it may well be that the simplest daily habits are the key to maintaining long-term health.",
+          "zh": "事实上，很可能最简单的日常习惯是保持长期健康的关键。"
+        }
+      ]
+    }
+  ]
+}

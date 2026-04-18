@@ -1,0 +1,394 @@
+{
+  "book": "NCE2",
+  "lesson": "90",
+  "title": "What kind of fish are they?",
+  "vocabulary": [
+    {
+      "word": "terrifying",
+      "phonetic": "/ˈterɪfaɪɪŋ/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "令人恐惧的；可怕的",
+          "usage": "修饰物或事，表示令人害怕"
+        }
+      ]
+    },
+    {
+      "word": "overfish",
+      "phonetic": "/ˌəʊvəˈfɪʃ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "过度捕捞",
+          "usage": "指对鱼类进行过度捕获"
+        }
+      ]
+    },
+    {
+      "word": "oil rig",
+      "phonetic": "/ɔɪl rɪɡ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "石油钻井平台",
+          "usage": "用于海上开采石油的结构"
+        }
+      ]
+    },
+    {
+      "word": "diver",
+      "phonetic": "/ˈdaɪvə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "潜水员",
+          "usage": "指在水中作业的人员"
+        }
+      ]
+    },
+    {
+      "word": "favourite",
+      "phonetic": "/ˈfeɪvərɪt/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "最喜欢的",
+          "usage": "英式拼写，美式为favorite"
+        }
+      ]
+    },
+    {
+      "word": "cage",
+      "phonetic": "/keɪdʒ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "笼子； cage 也可用作动词表示把...关进笼子",
+          "usage": "保护性结构，可作名词或动词"
+        }
+      ]
+    },
+    {
+      "word": "monster",
+      "phonetic": "/ˈmɒnstə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "怪物；怪兽",
+          "usage": "指体型巨大或可怕的生物"
+        }
+      ]
+    },
+    {
+      "word": "absence",
+      "phonetic": "/ˈæbsəns/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "缺席；不存在",
+          "usage": "the absence of something 表示某物的缺失"
+        }
+      ]
+    },
+    {
+      "word": "overboard",
+      "phonetic": "/ˈəʊvəbɔːd/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "向船外；越过船舷",
+          "usage": "常与throw连用，表示扔到船外"
+        }
+      ]
+    },
+    {
+      "word": "plentiful",
+      "phonetic": "/ˈplentɪfl/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "丰富的；大量的",
+          "usage": "形容数量充足"
+        }
+      ]
+    },
+    {
+      "word": "supply",
+      "phonetic": "/səˈplaɪ/",
+      "meanings": [
+        {
+          "pos": "noun/verb",
+          "meaning": "供应；供给",
+          "usage": "可作名词或动词使用"
+        }
+      ]
+    },
+    {
+      "word": "bump",
+      "phonetic": "/bʌmp/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "碰撞；撞击",
+          "usage": "常与into连用，表示撞上某人或某物"
+        }
+      ]
+    },
+    {
+      "word": "grow",
+      "phonetic": "/ɡrəʊ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "生长；成长",
+          "usage": "可表示体型变大或植物生长"
+        }
+      ]
+    },
+    {
+      "word": "cod",
+      "phonetic": "/kɒd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "鳕鱼",
+          "usage": "一种可食用的鱼类"
+        }
+      ]
+    },
+    {
+      "word": "skate",
+      "phonetic": "/skeɪt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "鳐鱼",
+          "usage": "一种扁平的海鱼"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "fish and chips",
+      "usage": "炸鱼薯条，英国经典快餐",
+      "examples": [
+        {
+          "en": "Fish and chips has always been a favourite dish in Britain.",
+          "zh": "炸鱼薯条一直是英国人最喜爱的菜肴。"
+        }
+      ]
+    },
+    {
+      "phrase": "out of one's wits",
+      "usage": "吓得魂不附体；不知所措",
+      "examples": [
+        {
+          "en": "Divers have been frightened out of their wits by giant fish.",
+          "zh": "潜水员们被巨大的鱼吓得魂不附体。"
+        }
+      ]
+    },
+    {
+      "phrase": "bump into",
+      "usage": "撞上；碰见",
+      "examples": [
+        {
+          "en": "Giant fish are bumping into divers as they work.",
+          "zh": "巨鱼在潜水员工作时撞到他们。"
+        }
+      ]
+    },
+    {
+      "phrase": "come as a surprise",
+      "usage": "令人惊讶",
+      "examples": [
+        {
+          "en": "So it comes as a surprise to learn that giant fish are terrifying the divers.",
+          "zh": "因此，听说巨鱼令潜水员们恐惧是令人惊讶的。"
+        }
+      ]
+    },
+    {
+      "phrase": "have something done",
+      "usage": "让某事被做（由他人完成）",
+      "examples": [
+        {
+          "en": "They have had special cages made to protect them.",
+          "zh": "他们让人制作了特殊的笼子来保护他们。"
+        }
+      ]
+    },
+    {
+      "phrase": "not...but",
+      "usage": "不是...而是...",
+      "examples": [
+        {
+          "en": "The fish are not sharks or killer whales, but favourite eating varieties.",
+          "zh": "这些鱼不是鲨鱼或虎鲸，而是人们喜爱的食用品种。"
+        }
+      ]
+    },
+    {
+      "phrase": "as a result",
+      "usage": "结果；因此",
+      "examples": [
+        {
+          "en": "As a result, the fish just eat and eat and grow and grow.",
+          "zh": "结果，这些鱼只是不停地吃，不停地长大。"
+        }
+      ]
+    },
+    {
+      "phrase": "grow to",
+      "usage": "长到...尺寸",
+      "examples": [
+        {
+          "en": "They grow to unnatural sizes, sometimes as much as twelve feet in length.",
+          "zh": "它们长到不正常的尺寸，有时可达十二英尺长。"
+        }
+      ]
+    },
+    {
+      "phrase": "under water",
+      "usage": "在水下",
+      "examples": [
+        {
+          "en": "Divers often have to work in darkness a hundred feet under water.",
+          "zh": "潜水员经常需要在水下百尺的黑暗中工作。"
+        }
+      ]
+    },
+    {
+      "phrase": "round the hot oil pipes",
+      "usage": "在热的油管周围",
+      "examples": [
+        {
+          "en": "The warm water round the hot oil pipes under the sea causes fish to grow.",
+          "zh": "海底热油管周围的温暖海水导致鱼长大。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "现在完成进行时 (Present Perfect Continuous)",
+      "definition": "表示从过去开始一直持续到现在并可能继续下去的动作，强调动作的持续性",
+      "structure": "主语 + have/has + been + 动词-ing",
+      "usage": "用于描述一个持续进行的动作，常与all + 时间段或for/since连用",
+      "examples": [
+        {
+          "en": "Fish has become more and more expensive as the oceans have been overfished.",
+          "zh": "由于海洋被过度捕捞，鱼变得越来越贵。"
+        },
+        {
+          "en": "Divers have been frightened out of their wits.",
+          "zh": "潜水员们一直被吓得魂不附体。"
+        }
+      ]
+    },
+    {
+      "title": "现在完成时的被动语态 (Present Perfect Passive)",
+      "definition": "表示一个已完成的动作对现在造成的影响，动作的承受者作为主语",
+      "structure": "主语 + have/has + been + 过去分词",
+      "usage": "强调动作的承受者而非执行者",
+      "examples": [
+        {
+          "en": "The oceans have been overfished.",
+          "zh": "海洋已被过度捕捞。"
+        },
+        {
+          "en": "Special cages have been made to protect them.",
+          "zh": "特殊笼子已被制作来保护他们。"
+        }
+      ]
+    },
+    {
+      "title": "因果关系表达 (Cause and Effect)",
+      "definition": "用不同方式表达原因和结果",
+      "structure": "原因（名词短语/从句）+ cause/lead to/result in + 结果",
+      "usage": "用于说明某事发生的原因及其后果",
+      "examples": [
+        {
+          "en": "Three factors have caused these fish to grow so large.",
+          "zh": "三个因素导致这些鱼长得如此巨大。"
+        },
+        {
+          "en": "The warm water causes fish to grow large.",
+          "zh": "温暖的海水导致鱼长大。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "主语 + have/has + been + 动词-ing（现在完成进行时）",
+      "original": {
+        "en": "Divers have been frightened out of their wits.",
+        "zh": "潜水员们一直被吓得魂不附体。"
+      },
+      "imitations": [
+        {
+          "en": "She has been working on this project for months.",
+          "zh": "她已经在这个项目上工作了几个月。"
+        },
+        {
+          "en": "It has been raining all day.",
+          "zh": "雨下了一整天。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + have/has + been + 过去分词（现在完成时的被动语态）",
+      "original": {
+        "en": "The oceans have been overfished.",
+        "zh": "海洋已被过度捕捞。"
+      },
+      "imitations": [
+        {
+          "en": "The house has been painted.",
+          "zh": "房子已经被粉刷了。"
+        },
+        {
+          "en": "Many animals have been protected by law.",
+          "zh": "许多动物已被法律保护。"
+        }
+      ]
+    },
+    {
+      "pattern": "not...but...（不是...而是...）",
+      "original": {
+        "en": "The fish are not sharks or killer whales, but favourite eating varieties.",
+        "zh": "这些鱼不是鲨鱼或虎鲸，而是人们喜爱的食用品种。"
+      },
+      "imitations": [
+        {
+          "en": "He is not a teacher, but a doctor.",
+          "zh": "他不是老师，而是医生。"
+        },
+        {
+          "en": "The problem is not money but time.",
+          "zh": "问题不是钱而是时间。"
+        }
+      ]
+    },
+    {
+      "pattern": "as a result（结果）",
+      "original": {
+        "en": "As a result, the fish just eat and eat and grow and grow.",
+        "zh": "结果，这些鱼只是不停地吃，不停地长大。"
+      },
+      "imitations": [
+        {
+          "en": "He didn't study. As a result, he failed the exam.",
+          "zh": "他没有学习。结果，他考试不及格。"
+        },
+        {
+          "en": "It rained heavily. As a result, the game was cancelled.",
+          "zh": "雨下得很大。结果，比赛被取消了。"
+        }
+      ]
+    }
+  ]
+}

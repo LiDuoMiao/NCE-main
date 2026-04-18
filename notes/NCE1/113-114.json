@@ -1,0 +1,435 @@
+{
+  "book": "NCE1",
+  "lesson": "113-114",
+  "title": "Lesson 113",
+  "vocabulary": [
+    {
+      "word": "fare",
+      "phonetic": "/feə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "车费，票价",
+          "usage": "指乘坐公共交通工具应付的费用"
+        }
+      ]
+    },
+    {
+      "word": "change",
+      "phonetic": "/tʃeɪndʒ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "零钱，找头",
+          "usage": "指硬币或小额纸币，用于找零"
+        },
+        {
+          "pos": "verb",
+          "meaning": "换钱，改变",
+          "usage": "指将大额纸币换成小额零钱"
+        }
+      ]
+    },
+    {
+      "word": "passenger",
+      "phonetic": "/ˈpæsɪndʒə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "乘客，旅客",
+          "usage": "指乘坐公共交通工具的人"
+        }
+      ]
+    },
+    {
+      "word": "note",
+      "phonetic": "/nəʊt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "纸币，钞票",
+          "usage": "指纸质的货币"
+        }
+      ]
+    },
+    {
+      "word": "pound",
+      "phonetic": "/paʊnd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "英镑（英国货币单位）",
+          "usage": "英国的货币单位，简写为£"
+        }
+      ]
+    },
+    {
+      "word": "millionaire",
+      "phonetic": "/ˌmɪljəˈneə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "百万富翁",
+          "usage": "指拥有百万以上资产的人"
+        }
+      ]
+    },
+    {
+      "word": "either",
+      "phonetic": "/ˈaɪðə(r)/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "也（不）",
+          "usage": "用于否定句末尾，表示'也'"
+        }
+      ]
+    },
+    {
+      "word": "neither",
+      "phonetic": "/ˈnaɪðə(r)/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "也不",
+          "usage": "用于否定句，表示两者都不"
+        }
+      ]
+    },
+    {
+      "word": "afraid",
+      "phonetic": "/əˈfreɪd/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "恐怕，害怕",
+          "usage": "常用于I'm afraid，表示遗憾或歉意"
+        }
+      ]
+    },
+    {
+      "word": "except",
+      "phonetic": "/ɪkˈsept/",
+      "meanings": [
+        {
+          "pos": "prep",
+          "meaning": "除...之外",
+          "usage": "表示不包括在内的排除关系"
+        }
+      ]
+    },
+    {
+      "word": "must",
+      "phonetic": "/mʌst/",
+      "meanings": [
+        {
+          "pos": "modal verb",
+          "meaning": "必须，应当",
+          "usage": "表示义务或必要性"
+        }
+      ]
+    },
+    {
+      "word": "get off",
+      "phonetic": "/ɡet ɒf/",
+      "meanings": [
+        {
+          "pos": "phrasal verb",
+          "meaning": "下车",
+          "usage": "指从公交车、火车等交通工具上下来"
+        }
+      ]
+    },
+    {
+      "word": "ask",
+      "phonetic": "/ɑːsk/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "问，请求",
+          "usage": "指向别人提问或请求某事"
+        }
+      ]
+    },
+    {
+      "word": "none",
+      "phonetic": "/nʌn/",
+      "meanings": [
+        {
+          "pos": "pron",
+          "meaning": "没有任何东西/一个也没有",
+          "usage": "指三者或三者以上中没有任何一个"
+        }
+      ]
+    },
+    {
+      "word": "all",
+      "phonetic": "/ɔːl/",
+      "meanings": [
+        {
+          "pos": "det/pron",
+          "meaning": "全部，所有",
+          "usage": "指全部的数量或范围"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "small change",
+      "usage": "指硬币或小额纸币，即零钱",
+      "examples": [
+        {
+          "en": "Have you got any small change?",
+          "zh": "你有零钱吗？"
+        },
+        {
+          "en": "I've got some small change.",
+          "zh": "我有一些零钱。"
+        }
+      ]
+    },
+    {
+      "phrase": "ten-pound note",
+      "usage": "指面值为十英镑的纸币",
+      "examples": [
+        {
+          "en": "I can't change a ten-pound note.",
+          "zh": "我没法换开一张十英镑的纸币。"
+        },
+        {
+          "en": "Can you change this ten-pound note?",
+          "zh": "你能换开这张十英镑的纸币吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "get off the bus",
+      "usage": "指从公交车上下来",
+      "examples": [
+        {
+          "en": "You must get off the bus.",
+          "zh": "你必须下车。"
+        }
+      ]
+    },
+    {
+      "phrase": "none of",
+      "usage": "表示...中没有任何一个，后接复数名词或代词，动词可用单数或复数",
+      "examples": [
+        {
+          "en": "None of our passengers can change this note.",
+          "zh": "我们的乘客中没有人能换开这张纸币。"
+        }
+      ]
+    },
+    {
+      "phrase": "except us",
+      "usage": "除我们之外，表示排除关系",
+      "examples": [
+        {
+          "en": "They're all millionaires! Except us.",
+          "zh": "他们都是百万富翁！除了我们。"
+        }
+      ]
+    },
+    {
+      "phrase": "So have I / Neither can I",
+      "usage": "用于倒装句，表示'我也...'或'我也不...'的肯定或否定回应",
+      "examples": [
+        {
+          "en": "I've got some small change. So have I.",
+          "zh": "我有一些零钱。我也有。"
+        },
+        {
+          "en": "I'm afraid I can't. Neither can I.",
+          "zh": "恐怕我不能。我也不能。"
+        }
+      ]
+    },
+    {
+      "phrase": "I'm sorry",
+      "usage": "表示歉意或遗憾，常用于拒绝或无法帮助时",
+      "examples": [
+        {
+          "en": "I'm sorry, sir. I can't change a ten-pound note.",
+          "zh": "抱歉，先生。我没法换开一张十英镑的纸币。"
+        }
+      ]
+    },
+    {
+      "phrase": "I'm afraid",
+      "usage": "表示遗憾或歉意的礼貌用语，常用于委婉拒绝",
+      "examples": [
+        {
+          "en": "I've got no small change, I am afraid.",
+          "zh": "恐怕我没有零钱。"
+        },
+        {
+          "en": "I'm afraid I can't.",
+          "zh": "恐怕我不行。"
+        }
+      ]
+    },
+    {
+      "phrase": "have got",
+      "usage": "英式英语中表示'拥有'的意思，等同于have",
+      "examples": [
+        {
+          "en": "Haven't you got any small change?",
+          "zh": "你没有零钱吗？"
+        },
+        {
+          "en": "I've got no small change.",
+          "zh": "我没有零钱。"
+        }
+      ]
+    },
+    {
+      "phrase": "either...or...",
+      "usage": "表示'或者...或者...'，用于两者之间的选择",
+      "examples": [
+        {
+          "en": "I haven't got any either.",
+          "zh": "我也没有。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Either, Neither, So 在简短回应中的用法",
+      "definition": "使用either, neither和so配合助动词构成简短回应，表示'也'的意思。肯定句用so，否定句用either或neither。",
+      "structure": "肯定: So + 助动词 + 主语\n否定: Neither/Either + 助动词 + 主语",
+      "usage": "当要对别人的话表示附和或不同意时使用。So用于肯定回应，Neither/Either用于否定回应。",
+      "examples": [
+        {
+          "en": "I can change the note. So can I.",
+          "zh": "我能换开这张纸币。我也能。"
+        },
+        {
+          "en": "I can't change the note. Neither can I.",
+          "zh": "我没法换开这张纸币。我也 不能。"
+        },
+        {
+          "en": "I haven't got any small change. I haven't got any either.",
+          "zh": "我没有零钱。我也 没有。"
+        },
+        {
+          "en": "I've got some small change. So have I.",
+          "zh": "我有一些零钱。我也有。"
+        }
+      ]
+    },
+    {
+      "title": "Some 和 Any 的用法",
+      "definition": "some和any都表示'一些'，some用于肯定句，any用于否定句和疑问句。但在表示请求或希望得到肯定回答时，疑问句中也可用some。",
+      "structure": "肯定句: 主语 + have/got + some + 名词\n否定句: 主语 + haven't/got + any + 名词\n疑问句: Have/Got + 主语 + any + 名词?",
+      "usage": "some用于肯定陈述，any用于否定和疑问。'small change'前常用any提问，some用于肯定句。",
+      "examples": [
+        {
+          "en": "Have you any small change, sir?",
+          "zh": "先生，你有零钱吗？"
+        },
+        {
+          "en": "I've got some small change.",
+          "zh": "我有一些零钱。"
+        },
+        {
+          "en": "I haven't got any either.",
+          "zh": "我也一点都没有。"
+        }
+      ]
+    },
+    {
+      "title": "None of 的用法",
+      "definition": "none of表示'...之中没有任何...', 后接复数名词或代词，动词可用单数或复数形式。",
+      "structure": "None of + 复数名词/代词 + 动词(单数/复数)",
+      "usage": "用于强调在一定范围内没有任何一人或物，后面的动词单复数均可。",
+      "examples": [
+        {
+          "en": "None of our passengers can change this note.",
+          "zh": "我们的乘客中没有人能换开这张纸币。"
+        },
+        {
+          "en": "None of them has any small change.",
+          "zh": "他们中没有任何人有零钱。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Have you (got) any + 名词?",
+      "original": {
+        "en": "Have you any small change, sir?",
+        "zh": "先生，你有零钱吗？"
+      },
+      "imitations": [
+        {
+          "en": "Have you got any money?",
+          "zh": "你有钱吗？"
+        },
+        {
+          "en": "Have you any brothers or sisters?",
+          "zh": "你有兄弟姐妹吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "I haven't got any + 名词.",
+      "original": {
+        "en": "I haven't got any either.",
+        "zh": "我也一点都没有。"
+      },
+      "imitations": [
+        {
+          "en": "I haven't got any time.",
+          "zh": "我没有时间。"
+        },
+        {
+          "en": "I haven't got any friends here.",
+          "zh": "我在这里没有朋友。"
+        }
+      ]
+    },
+    {
+      "pattern": "So/Neither + 助动词 + 主语",
+      "original": {
+        "en": "So have I. / Neither can I.",
+        "zh": "我也（是）/ 我也不（能）。"
+      },
+      "imitations": [
+        {
+          "en": "So do I.",
+          "zh": "我也一样。"
+        },
+        {
+          "en": "Neither will I.",
+          "zh": "我也不愿意。"
+        },
+        {
+          "en": "So am I.",
+          "zh": "我也是。"
+        }
+      ]
+    },
+    {
+      "pattern": "None of + 名词/代词 + 动词",
+      "original": {
+        "en": "None of our passengers can change this note.",
+        "zh": "我们的乘客中没有人能换开这张纸币。"
+      },
+      "imitations": [
+        {
+          "en": "None of the students knows the answer.",
+          "zh": "没有学生知道答案。"
+        },
+        {
+          "en": "None of them are free.",
+          "zh": "他们中没有一个人有空。"
+        }
+      ]
+    }
+  ]
+}

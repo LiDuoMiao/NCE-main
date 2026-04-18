@@ -1,0 +1,394 @@
+{
+  "vocabulary": [
+    {
+      "word": "resolution",
+      "phonetic": "/ˌrezəˈluːʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "决心；决定",
+          "usage": "指新年的决心或决定，常用make a resolution"
+        }
+      ]
+    },
+    {
+      "word": "mentally",
+      "phonetic": "/ˈmentəli/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "精神上；思想上",
+          "usage": "由mental加-ly构成，修饰动词或形容词"
+        }
+      ]
+    },
+    {
+      "word": "formidable",
+      "phonetic": "/ˈfɔːmɪdəbl/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "可怕的；令人敬畏的",
+          "usage": "形容令人印象深刻或感到畏惧的事物"
+        }
+      ]
+    },
+    {
+      "word": "monotonous",
+      "phonetic": "/məˈnɒtənəs/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "单调的；乏味的",
+          "usage": "形容缺乏变化、重复的事物"
+        }
+      ]
+    },
+    {
+      "word": "attainment",
+      "phonetic": "/əˈteɪnmənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "达到；成就",
+          "usage": "指达到目标或获得成就"
+        }
+      ]
+    },
+    {
+      "word": "inveterate",
+      "phonetic": "/ɪnˈvetərət/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "根深蒂固的；积习的",
+          "usage": "形容长期形成的难以改变的习惯"
+        }
+      ]
+    },
+    {
+      "word": "frustration",
+      "phonetic": "/frʌˈstreɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "挫折；挫败",
+          "usage": "指未能实现目标的失望感"
+        }
+      ]
+    },
+    {
+      "word": "ambitious",
+      "phonetic": "/æmˈbɪʃəs/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "有雄心的；野心勃勃的",
+          "usage": "形容有强烈愿望和目标的"
+        }
+      ]
+    },
+    {
+      "word": "assiduously",
+      "phonetic": "/əˈsɪdjuəsli/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "勤奋地；刻苦地",
+          "usage": "形容认真不懈地做某事"
+        }
+      ]
+    },
+    {
+      "word": "betray",
+      "phonetic": "/bɪˈtreɪ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "背叛；暴露",
+          "usage": "指出卖或泄露秘密，也可指暴露内心感受"
+        }
+      ]
+    },
+    {
+      "word": "taunt",
+      "phonetic": "/tɔːnt/",
+      "meanings": [
+        {
+          "pos": "noun/verb",
+          "meaning": "嘲笑；讽刺",
+          "usage": "指用言语嘲笑或羞辱他人"
+        }
+      ]
+    },
+    {
+      "word": "wane",
+      "phonetic": "/weɪn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "衰落；减弱",
+          "usage": "指兴趣、力量等逐渐减少"
+        }
+      ]
+    },
+    {
+      "word": "undoing",
+      "phonetic": "/ʌnˈduːɪŋ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "毁灭；失败的原因",
+          "usage": "指导致失败或毁灭的事物"
+        }
+      ]
+    },
+    {
+      "word": "hypnotize",
+      "phonetic": "/ˈhɪpnətaɪz/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "使着迷；催眠",
+          "usage": "指使人着迷或被吸引"
+        }
+      ]
+    },
+    {
+      "word": "self-discipline",
+      "phonetic": "/ˌselfˈdɪsɪplɪn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "自律；自我约束",
+          "usage": "指控制自己行为的能力"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "year in year out",
+      "usage": "年复一年地；每年都",
+      "examples": [
+        {
+          "en": "The same old favourites recur year in year out with monotonous regularity.",
+          "zh": "同样的喜好年复一年地以单调的规律性重复出现。"
+        }
+      ]
+    },
+    {
+      "phrase": "a thousand and one",
+      "usage": "无数的；许许多多",
+      "examples": [
+        {
+          "en": "Do a thousand and one jobs about the house.",
+          "zh": "做无数的家务事。"
+        }
+      ]
+    },
+    {
+      "phrase": "carry out",
+      "usage": "执行；实现；完成",
+      "examples": [
+        {
+          "en": "We never have time to carry them out.",
+          "zh": "我们从没有时间去实现它们。"
+        }
+      ]
+    },
+    {
+      "phrase": "slip back into",
+      "usage": "退回到；回到（原状）",
+      "examples": [
+        {
+          "en": "When we slip back into our bad old ways.",
+          "zh": "当我们重新回到坏习惯时。"
+        }
+      ]
+    },
+    {
+      "phrase": "apply oneself to",
+      "usage": "专心于；致力于",
+      "examples": [
+        {
+          "en": "I applied myself assiduously to the task.",
+          "zh": "我勤奋地致力于这项任务。"
+        }
+      ]
+    },
+    {
+      "phrase": "creep down",
+      "usage": "悄悄溜下；蹑手蹑脚地走下",
+      "examples": [
+        {
+          "en": "I managed to creep down into the living room.",
+          "zh": "我设法悄悄溜进客厅。"
+        }
+      ]
+    },
+    {
+      "phrase": "fend off",
+      "usage": "挡开；回避",
+      "examples": [
+        {
+          "en": "I fended off the taunts and jibes of the family.",
+          "zh": "我挡开了家人的嘲笑和讽刺。"
+        }
+      ]
+    },
+    {
+      "phrase": "little by little",
+      "usage": "渐渐地；逐渐地",
+      "examples": [
+        {
+          "en": "Little by little the eleven minutes fell to zero.",
+          "zh": "渐渐地，十一分钟降到了零。"
+        }
+      ]
+    },
+    {
+      "phrase": "doze off",
+      "usage": "打瞌睡；打盹",
+      "examples": [
+        {
+          "en": "I soon got back to my old bad habit of dozing off in front of the screen.",
+          "zh": "我很快又回到了在屏幕前打瞌睡的坏习惯。"
+        }
+      ]
+    },
+    {
+      "phrase": "keep something to oneself",
+      "usage": "对某事保密；不告诉别人",
+      "examples": [
+        {
+          "en": "This year I attempted to keep my resolutions to myself.",
+          "zh": "今年我试图对自己的决心保密。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "动词不定式作表语 (Infinitive as Predicative)",
+      "definition": "动词不定式可以在句中作表语，说明主语的内容或目标",
+      "structure": "主语 + be + to + 动词原形",
+      "usage": "用于说明计划、意图、命运等，或与resolution, aim, goal等名词搭配",
+      "examples": [
+        {
+          "en": "My resolution is to read more.",
+          "zh": "我的决心是多读书。"
+        },
+        {
+          "en": "Our aim is to finish the project on time.",
+          "zh": "我们的目标是按时完成项目。"
+        }
+      ]
+    },
+    {
+      "title": "结果状语从句 (Consecutive Clause)",
+      "definition": "由so...that或such...that引导，表示某种原因导致的结果",
+      "structure": "so + adj/adv + that / such + (a/an) + adj + n + that",
+      "usage": "用于描述由于前面情况而产生的自然结果",
+      "examples": [
+        {
+          "en": "The daily exercises lasted only eleven minutes so that I could finish them quickly.",
+          "zh": "每日锻炼只持续了十一分钟，所以我能很快完成。"
+        },
+        {
+          "en": "It was such cold weather that nobody wanted to go out.",
+          "zh": "天气太冷了，没有人想出去。"
+        }
+      ]
+    },
+    {
+      "title": "定冠词the的特指用法 (Definite Article 'the' for Specific Reference)",
+      "definition": "定冠词the用于特指谈话双方都知道的特定事物",
+      "structure": "the + 名词",
+      "usage": "当名词被上下文限定、或者谈话双方都知道的事物时使用the",
+      "examples": [
+        {
+          "en": "The next morning the whole family trooped in.",
+          "zh": "第二天早上，全家人鱼贯而入。"
+        },
+        {
+          "en": "The dog is sleeping under the table.",
+          "zh": "那只狗正在桌子下面睡觉。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "We resolve to + 动词原形",
+      "original": {
+        "en": "We resolve to get up earlier each morning.",
+        "zh": "我们决心每天早上早起。"
+      },
+      "imitations": [
+        {
+          "en": "I resolve to exercise more this year.",
+          "zh": "我决心今年多锻炼。"
+        },
+        {
+          "en": "She resolves to learn a new language.",
+          "zh": "她决心学习一门新语言。"
+        }
+      ]
+    },
+    {
+      "pattern": "It is/was + this/that + that + 动词",
+      "original": {
+        "en": "It was this that betrayed me.",
+        "zh": "正是这暴露了我。"
+      },
+      "imitations": [
+        {
+          "en": "It was the cold weather that kept me indoors.",
+          "zh": "正是寒冷的天气让我待在室内。"
+        },
+        {
+          "en": "It was her kindness that saved the day.",
+          "zh": "正是她的善良挽救了局面。"
+        }
+      ]
+    },
+    {
+      "pattern": "Little by little + 主语 + 动词",
+      "original": {
+        "en": "Little by little the eleven minutes fell to zero.",
+        "zh": "渐渐地，十一分钟降到了零。"
+      },
+      "imitations": [
+        {
+          "en": "Little by little the snow melted away.",
+          "zh": "雪渐渐融化了。"
+        },
+        {
+          "en": "Little by little he recovered his confidence.",
+          "zh": "他渐渐恢复了信心。"
+        }
+      ]
+    },
+    {
+      "pattern": "Past experience has taught us that + 从句",
+      "original": {
+        "en": "Past experience has taught us that certain accomplishments are beyond attainment.",
+        "zh": "过去的经验告诉我们，某些目标是无法实现的。"
+      },
+      "imitations": [
+        {
+          "en": "Life has taught us that patience is a virtue.",
+          "zh": "生活教会我们耐心是一种美德。"
+        },
+        {
+          "en": "Experience has taught me that honesty pays off.",
+          "zh": "经验告诉我诚实是有回报的。"
+        }
+      ]
+    }
+  ],
+  "book": "NCE3",
+  "lesson": "50",
+  "title": "Lesson 50"
+}

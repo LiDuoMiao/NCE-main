@@ -1,0 +1,386 @@
+{
+  "book": "NCE4",
+  "lesson": "07",
+  "title": "Lesson 7",
+  "vocabulary": [
+    {
+      "word": "echo-location",
+      "phonetic": "/ˈekəʊ ləʊˈkeɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "回声定位",
+          "usage": "指通过发出声音并接收回声来判断位置的生物或技术功能"
+        }
+      ]
+    },
+    {
+      "word": "utilitarian",
+      "phonetic": "/ˌjuːtɪlɪˈteəriən/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "实用的，功利的",
+          "usage": "强调事物的实际用途而非装饰性或情感价值"
+        }
+      ]
+    },
+    {
+      "word": "vicinity",
+      "phonetic": "/vəˈsɪnəti/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "周围地区，邻近区域",
+          "usage": "常用搭配in the vicinity of表示“在……附近”"
+        }
+      ]
+    },
+    {
+      "word": "elapse",
+      "phonetic": "/ɪˈlæps/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "（时间）消逝，过去",
+          "usage": "主语通常为表示时间的名词，无被动语态"
+        }
+      ]
+    },
+    {
+      "word": "hull",
+      "phonetic": "/hʌl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "船身，船体",
+          "usage": "指船的主体框架部分"
+        }
+      ]
+    },
+    {
+      "word": "interval",
+      "phonetic": "/ˈɪntəvl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "间隔，间隙",
+          "usage": "可指时间或空间的间隔，常用搭配time interval表示“时间间隔”"
+        }
+      ]
+    },
+    {
+      "word": "apparatus",
+      "phonetic": "/ˌæpəˈreɪtəs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "仪器，设备",
+          "usage": "指用于特定用途的成套或专用设备，复数可加es或保持原形"
+        }
+      ]
+    },
+    {
+      "word": "shoal",
+      "phonetic": "/ʃəʊl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "鱼群；浅滩",
+          "usage": "表示鱼群时为可数名词，常用搭配a shoal of fish"
+        }
+      ]
+    },
+    {
+      "word": "herring",
+      "phonetic": "/ˈherɪŋ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "鲱鱼",
+          "usage": "表示鱼类的可数名词，单复数同形"
+        }
+      ]
+    },
+    {
+      "word": "cod",
+      "phonetic": "/kɒd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "鳕鱼",
+          "usage": "表示鱼类的可数名词，单复数同形"
+        }
+      ]
+    },
+    {
+      "word": "emit",
+      "phonetic": "/iˈmɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "发出，散发（声、光、热等）",
+          "usage": "及物动词，宾语多为声音、光线、气味等名词"
+        }
+      ]
+    },
+    {
+      "word": "squeak",
+      "phonetic": "/skwiːk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "短促的尖叫声，吱吱声",
+          "usage": "指尖锐、短促的声音，也可作动词表示“发出吱吱声”"
+        }
+      ]
+    },
+    {
+      "word": "steer",
+      "phonetic": "/stɪə(r)/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "驾驶，引导， steer clear of表示“避开，绕开”",
+          "usage": "既可以指操控交通工具，也可表示抽象的“引导、避开”"
+        }
+      ]
+    },
+    {
+      "word": "obstacle",
+      "phonetic": "/ˈɒbstəkl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "障碍，障碍物",
+          "usage": "可指具体的阻挡物，也可指抽象的困难、阻碍"
+        }
+      ]
+    },
+    {
+      "word": "radar",
+      "phonetic": "/ˈreɪdɑː(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "雷达",
+          "usage": "不可数名词，指利用无线电波探测目标的技术或设备"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "serve as",
+      "usage": "表示“充当，用作，起……作用”，主语可以是人或物，后接表示身份、功能的名词",
+      "examples": [
+        {
+          "en": "Not all sounds made by animals serve as language.",
+          "zh": "动物发出的声音并不都起语言的作用。"
+        },
+        {
+          "en": "The old sofa can serve as a bed for one night.",
+          "zh": "这个旧沙发可以当床睡一晚。"
+        }
+      ]
+    },
+    {
+      "phrase": "turn to",
+      "usage": "表示“求助于，查阅，转向”，后可接人、书籍、某个领域等名词",
+      "examples": [
+        {
+          "en": "To get a full appreciation of what this means we must turn first to some recent human inventions.",
+          "zh": "要充分理解这一点的含义，我们必须首先参考人类最近的一些发明。"
+        },
+        {
+          "en": "When you meet new words, you can turn to a dictionary.",
+          "zh": "遇到生词时你可以查词典。"
+        }
+      ]
+    },
+    {
+      "phrase": "in the vicinity of",
+      "usage": "表示“在……附近，邻近”，为正式用语，后接地点名词",
+      "examples": [
+        {
+          "en": "If he shouts in the vicinity of a wall or a mountainside, an echo will come back.",
+          "zh": "如果人在墙壁或山坡附近大喊，就会传来回声。"
+        },
+        {
+          "en": "There are three cafes in the vicinity of the campus.",
+          "zh": "校园附近有三家咖啡馆。"
+        }
+      ]
+    },
+    {
+      "phrase": "reflect from",
+      "usage": "表示“从……反射回来”，主语多为声音、光线等，后接反射的载体",
+      "examples": [
+        {
+          "en": "A sound made by tapping on the hull of a ship will be reflected from the sea bottom.",
+          "zh": "敲击船体发出的声音会从海底反射回来。"
+        },
+        {
+          "en": "Sunlight reflects from the surface of the lake. 阳光从湖面反射回来。",
+          "zh": "阳光从湖面反射回来。"
+        }
+      ]
+    },
+    {
+      "phrase": "in general use",
+      "usage": "表示“普遍使用，通用”，描述某类设备、方法等被广泛应用的状态",
+      "examples": [
+        {
+          "en": "So was born the echo-sounding apparatus, now in general use in ships.",
+          "zh": "回声探测仪就这样诞生了，如今在船舶上被普遍使用。"
+        },
+        {
+          "en": "Mobile payment is already in general use across the country.",
+          "zh": "移动支付已经在全国范围内普遍使用。"
+        }
+      ]
+    },
+    {
+      "phrase": "vary according to",
+      "usage": "表示“根据……而变化”，主语为被影响的对象，后接影响因素",
+      "examples": [
+        {
+          "en": "Every solid object will reflect a sound, varying according to the size and nature of the object.",
+          "zh": "所有固体都会反射声音，反射情况根据物体的大小和性质而不同。"
+        },
+        {
+          "en": "The price of the product varies according to the season.",
+          "zh": "这款产品的价格随季节变化。"
+        }
+      ]
+    },
+    {
+      "phrase": "steer clear of",
+      "usage": "表示“避开，绕开”，既可指避开具体的障碍物，也可指避开抽象的人或麻烦",
+      "examples": [
+        {
+          "en": "They can locate and steer clear of obstacles.",
+          "zh": "它们能够定位并避开障碍物。"
+        },
+        {
+          "en": "You should steer clear of that person; he is not reliable.",
+          "zh": "你应该离那个人远点，他不可靠。"
+        }
+      ]
+    },
+    {
+      "phrase": "feed on",
+      "usage": "表示“以……为食”，主语为动物或生物，后接食物来源",
+      "examples": [
+        {
+          "en": "They can locate flying insects on which they feed.",
+          "zh": "它们还能找到自己捕食的飞虫。"
+        },
+        {
+          "en": "Owls feed on small mammals such as mice.",
+          "zh": "猫头鹰以老鼠之类的小型哺乳动物为食。"
+        }
+      ]
+    },
+    {
+      "phrase": "be compared with",
+      "usage": "表示“被与……相比”，用于同类事物的类比，主动形式为compare A with B",
+      "examples": [
+        {
+          "en": "This echo-location in bats is often compared with radar, the principle of which is similar.",
+          "zh": "蝙蝠的这种回声定位常被拿来和雷达作比较，二者原理相似。"
+        },
+        {
+          "en": "The work of a teacher is often compared with that of a gardener.",
+          "zh": "教师的工作常被比作园丁的工作。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "完全倒装句",
+      "definition": "将谓语动词完全置于主语之前的倒装结构，常用于以so、only、表示地点/方向的副词开头的句子，且主语为名词时使用，作用是强调或保持句子平衡",
+      "structure": "So/状语 + 谓语 + 主语 + 其他成分",
+      "usage": "当前文描述的情况同样适用于后者，或者为了避免句子头重脚轻时使用完全倒装",
+      "examples": [
+        {
+          "en": "So was born the echo-sounding apparatus, now in general use in ships.",
+          "zh": "回声探测仪就这样诞生了，如今在船舶上被普遍使用。"
+        },
+        {
+          "en": "Here comes the bus that we have been waiting for.",
+          "zh": "我们等的公交车来了。"
+        }
+      ]
+    },
+    {
+      "title": "介词+which引导的定语从句",
+      "definition": "定语从句的一种引导形式，当关系代词which在从句中作介词的宾语时，可将介词提前到which之前，使句子结构更紧凑，多用于正式文体",
+      "structure": "先行词 + 介词 + which + 从句剩余部分",
+      "usage": "介词的选择通常与先行词的搭配或从句中的动词/形容词搭配相关",
+      "examples": [
+        {
+          "en": "This echo-location in bats is often compared with radar, the principle of which is similar.",
+          "zh": "蝙蝠的这种回声定位常被拿来和雷达作比较，二者原理相似。"
+        },
+        {
+          "en": "The book from which I got a lot of useful information was written by a famous scientist.",
+          "zh": "那本给了我很多有用信息的书是一位著名科学家写的。"
+        }
+      ]
+    },
+    {
+      "title": "it作形式主语的主语从句",
+      "definition": "当主语部分是较长的不定式、动名词或从句时，为了避免句子头重脚轻，用it作形式主语放在句首，真正的主语放在句子后半部分",
+      "structure": "It + be + 形容词/名词 + (for sb) + 真正主语（不定式/that从句等）",
+      "usage": "常用于表示“……是可能的/重要的/明显的”等含义的句子中",
+      "examples": [
+        {
+          "en": "It has been found that certain bats emit squeaks and by receiving the echoes, they can locate and steer clear of obstacles.",
+          "zh": "人们已经发现，某些蝙蝠会发出吱吱声，通过接收回声，它们能够定位并避开障碍物。"
+        },
+        {
+          "en": "It is possible for us to finish the project ahead of time.",
+          "zh": "我们有可能提前完成这个项目。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Not all + 名词 + 谓语 + 其他, and we have only to turn to + 例子 to see a case in which + 具体情况",
+      "original": {
+        "en": "Not all sounds made by animals serve as language, and we have only to turn to that extraordinary discovery of echo-location in bats to see a case in which the voice plays a strictly utilitarian role.",
+        "zh": "动物发出的声音并不都起语言的作用，我们只要以蝙蝠回声定位这一非凡发现为例，就能看到声音发挥完全实用功能的情况。"
+      },
+      "imitations": [
+        {
+          "en": "Not all after-school classes are beneficial to children, and we have only to turn to those repetitive training courses to see a case in which extra study actually reduces kids' interest in learning.",
+          "zh": "并非所有课外班都对孩子有益，我们只要看看那些重复性的训练课程，就能发现额外学习实际上会降低孩子学习兴趣的情况。"
+        },
+        {
+          "en": "Not all technological advances bring positive effects, and we have only to turn to the problem of personal information leakage to see a case in which new technology creates unexpected risks.",
+          "zh": "并非所有技术进步都带来积极影响，我们只要看看个人信息泄露问题，就能发现新技术造成意外风险的情况。"
+        }
+      ]
+    },
+    {
+      "pattern": "With + 名词, it is now possible not only to do sth but to do sth by + 方式",
+      "original": {
+        "en": "With experience, and with improved apparatus, it is now possible not only to locate a shoal but to tell if it is herring, cod, or other well-known fish, by the pattern of its echo.",
+        "zh": "凭借经验和改进的仪器，现在人们不仅能够定位鱼群，还能根据回声的模式判断它是鲱鱼、鳕鱼还是其他知名鱼类。"
+      },
+      "imitations": [
+        {
+          "en": "With big data technology, and with optimized recommendation algorithms, it is now possible not only to predict users' preferences but to provide them with highly personalized services by their browsing history.",
+          "zh": "凭借大数据技术和优化的推荐算法，现在不仅能够预测用户的偏好，还能根据他们的浏览历史为其提供高度个性化的服务。"
+        },
+        {
+          "en": "With better medical equipment, and with more professional medical staff, it is now possible not only to cure this rare disease but to reduce the possibility of its recurrence by regular follow-up checks.",
+          "zh": "凭借更好的医疗设备和更专业的医务人员，现在不仅能够治愈这种罕见病，还能通过定期随访降低其复发的可能性。"
+        }
+      ]
+    }
+  ]
+}

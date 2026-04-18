@@ -1,0 +1,369 @@
+{
+  "book": "NCE4",
+  "lesson": "15",
+  "title": "Lesson 15",
+  "vocabulary": [
+    {
+      "word": "secrecy",
+      "phonetic": "/ˈsiːkrəsi/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "保密；秘密状态",
+          "usage": "不可数名词，指对信息保密的行为或状态"
+        }
+      ]
+    },
+    {
+      "word": "effectiveness",
+      "phonetic": "/ɪˈfektɪvnəs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "有效性；效力",
+          "usage": "不可数名词，指产生预期结果的能力"
+        }
+      ]
+    },
+    {
+      "word": "atmosphere",
+      "phonetic": "/ˈætməsfɪə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "氛围；环境；大气层",
+          "usage": "作“氛围”讲时可作可数或不可数名词，指周围的整体环境和感觉"
+        }
+      ]
+    },
+    {
+      "word": "inquiry",
+      "phonetic": "/ɪnˈkwaɪəri/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "调查；探究；询问",
+          "usage": "指为获取信息或真相进行的询问或研究"
+        }
+      ]
+    },
+    {
+      "word": "engage",
+      "phonetic": "/ɪnˈɡeɪdʒ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "从事；参与；雇用；吸引",
+          "usage": "常见搭配engage in sth. 表示“从事/参与某事”；be engaged in表示“忙于，从事于”"
+        }
+      ]
+    },
+    {
+      "word": "considerably",
+      "phonetic": "/kənˈsɪdərəbli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "相当地；非常地",
+          "usage": "用于修饰形容词或动词，表示程度大"
+        }
+      ]
+    },
+    {
+      "word": "fundamental",
+      "phonetic": "/ˌfʌndəˈmentl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "基础的；根本的",
+          "usage": "用于描述事物最核心、最重要的部分"
+        }
+      ]
+    },
+    {
+      "word": "positive",
+      "phonetic": "/ˈpɒzətɪv/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "积极的；肯定的；明确的",
+          "usage": "可修饰抽象名词，表示好的、有利的性质"
+        }
+      ]
+    },
+    {
+      "word": "process",
+      "phonetic": "/ˈprəʊses/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "工艺；流程；过程",
+          "usage": "工业领域常指生产工艺，也可泛指事情发展的过程"
+        }
+      ]
+    },
+    {
+      "word": "patent",
+      "phonetic": "/ˈpeɪtnt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "专利；专利权",
+          "usage": "指对发明创造的专属使用权；也可作动词表示“获得专利”"
+        },
+        {
+          "pos": "verb",
+          "meaning": "获得专利权",
+          "usage": "take out a patent为固定搭配，意为“取得专利”"
+        }
+      ]
+    },
+    {
+      "word": "mechanical",
+      "phonetic": "/məˈkænɪkl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "机械的；力学的",
+          "usage": "与机器、机械相关的，也可指行为机械呆板的"
+        }
+      ]
+    },
+    {
+      "word": "agent",
+      "phonetic": "/ˈeɪdʒənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "代理人；特工；试剂",
+          "usage": "商务领域常指代理商，文中指商业情报人员"
+        }
+      ]
+    },
+    {
+      "word": "trace",
+      "phonetic": "/treɪs/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "追踪；查明；追溯",
+          "usage": "指通过线索找到人或事物的来源、行踪"
+        }
+      ]
+    },
+    {
+      "word": "undertake",
+      "phonetic": "/ˌʌndəˈteɪk/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "从事；承担；承诺",
+          "usage": "常接task, project, research等名词，表示承担某项工作"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "weigh heavily against",
+      "usage": "表示“严重不利于；对…有很大负面影响”，主语通常为不利因素，宾语为受影响的事物",
+      "examples": [
+        {
+          "en": "Lack of funding weighs heavily against the development of small businesses.",
+          "zh": "资金短缺严重不利于小企业的发展。"
+        },
+        {
+          "en": "His lack of experience weighs heavily against his chance of getting the job.",
+          "zh": "他经验不足，这对他获得这份工作的机会非常不利。"
+        }
+      ]
+    },
+    {
+      "phrase": "in so far as",
+      "usage": "连词短语，意为“在…范围内；就…而言”，用于引导状语从句，限定论述的范围",
+      "examples": [
+        {
+          "en": "In so far as you are a student, you should obey the school rules.",
+          "zh": "作为学生，你应该遵守校规。"
+        },
+        {
+          "en": "I will help you in so far as I can.",
+          "zh": "我会尽我所能帮助你。"
+        }
+      ]
+    },
+    {
+      "phrase": "engage in",
+      "usage": "动词短语，意为“从事；参与”，可用于主动或被动语态be engaged in",
+      "examples": [
+        {
+          "en": "Many college students engage in part-time jobs during holidays.",
+          "zh": "很多大学生假期会从事兼职工作。"
+        },
+        {
+          "en": "He is engaged in scientific research on environmental protection.",
+          "zh": "他正从事环境保护方面的科学研究。"
+        }
+      ]
+    },
+    {
+      "phrase": "take out a patent",
+      "usage": "固定搭配，意为“取得专利权”，指为发明申请并获得专利保护",
+      "examples": [
+        {
+          "en": "The company decided to take out a patent for its new invention.",
+          "zh": "这家公司决定为它的新发明申请专利。"
+        },
+        {
+          "en": "It took them three years to take out a patent on this new energy technology.",
+          "zh": "他们花了三年时间才取得这项新能源技术的专利。"
+        }
+      ]
+    },
+    {
+      "phrase": "apply to",
+      "usage": "此处意为“适用于；针对”，主语为规则、情况等，宾语为适用的对象",
+      "examples": [
+        {
+          "en": "This regulation applies to all employees, regardless of position.",
+          "zh": "这条规定适用于所有员工，不分职位高低。"
+        },
+        {
+          "en": "The discount only applies to products purchased before the end of the month.",
+          "zh": "这个折扣仅适用于月底前购买的产品。"
+        }
+      ]
+    },
+    {
+      "phrase": "to such an extent that",
+      "usage": "意为“到如此程度以至于”，用于强调程度，引导结果状语从句",
+      "examples": [
+        {
+          "en": "The noise from the construction site was loud to such an extent that we couldn't sleep at night.",
+          "zh": "工地的噪音大到我们晚上根本睡不着觉。"
+        },
+        {
+          "en": "He was absorbed in the book to such an extent that he didn't hear the doorbell.",
+          "zh": "他看书太入迷了，以至于都没听到门铃声。"
+        }
+      ]
+    },
+    {
+      "phrase": "for fear (that)",
+      "usage": "连词短语，意为“生怕；唯恐”，引导目的状语从句，从句常用虚拟语气",
+      "examples": [
+        {
+          "en": "She locked the door for fear that someone might break in while she was out.",
+          "zh": "她锁了门，生怕自己出门的时候有人闯进来。"
+        },
+        {
+          "en": "He left an hour early for fear he might miss the train.",
+          "zh": "他提前一小时出发，唯恐赶不上火车。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "定语从句的省略结构",
+      "definition": "在并列结构中，当第二个分句的主语和谓语与前一分句的主语和be动词相同时，可以省略主语和be动词，仅保留剩余成分",
+      "structure": "句子1, + 名词/代词 + 其他成分（省略与前文重复的主语+be/谓语动词）",
+      "usage": "常用于对比、列举两个并列的因素、情况，使句子更简洁凝练，避免重复",
+      "examples": [
+        {
+          "en": "Two factors weigh heavily against the effectiveness of scientific research in industry. One is the general atmosphere of secrecy in which it is carried out, the other the lack of freedom of the individual research worker.",
+          "zh": "有两个因素严重地妨碍着工业中科学研究的效率：一是科研工作中普遍存在的保密气氛，二是研究人员缺乏个人自由。"
+        },
+        {
+          "en": "There are two rooms in the apartment. One is used as a bedroom, the other as a study.",
+          "zh": "这套公寓有两个房间，一个用作卧室，另一个用作书房。"
+        }
+      ]
+    },
+    {
+      "title": "such...that...引导的结果状语从句",
+      "definition": "用于表示“如此…以至于…”，强调程度，引出前文动作或状态带来的结果",
+      "structure": "such + (a/an) + 形容词 + 可数名词单数/不可数名词/可数名词复数 + that 从句",
+      "usage": "当修饰的中心词是名词时用such，若修饰形容词或副词则用so，that引导的从句表示结果",
+      "examples": [
+        {
+          "en": "Some of the bigger firms are engaged in researches which are of such general and fundamental nature that it is a positive advantage to them not to keep them secret.",
+          "zh": "某些大公司进行的研究属于一般性和基础性的研究，因此不保密对它们反而更有好处。"
+        },
+        {
+          "en": "It was such a cold day that we decided to stay at home.",
+          "zh": "天气太冷了，我们决定待在家里。"
+        }
+      ]
+    },
+    {
+      "title": "状语从句中的虚拟语气",
+      "definition": "在for fear that, in case, lest等引导的目的状语从句中，常用“should + 动词原形”的虚拟语气结构，表示担忧的、可能性较小的情况",
+      "structure": "主句 + for fear that / lest / in case + 主语 + should + 动词原形",
+      "usage": "用于表达“生怕、以防、唯恐”的含义，should可以省略，尤其在口语和非正式文体中",
+      "examples": [
+        {
+          "en": "Many firms, for instance have great difficulty in obtaining technical or scientific books from libraries because they are unwilling to have their names entered as having taken out such and such a book, for fear the agents of other firms should be able to trace the kind of research they are likely to be undertaking.",
+          "zh": "例如，许多公司很难从图书馆借到技术或科学书籍，因为它们不愿意让自己的名字被登记为借了某某类书籍，生怕其他公司的情报人员能够据此推断出他们可能正在进行的研究类型。"
+        },
+        {
+          "en": "She put the umbrella in her bag for fear that it should rain in the afternoon.",
+          "zh": "她把伞放进包里，以防下午下雨。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Two factors weigh heavily against... One is..., the other...",
+      "original": {
+        "en": "Two factors weigh heavily against the effectiveness of scientific research in industry. One is the general atmosphere of secrecy in which it is carried out, the other the lack of freedom of the individual research worker.",
+        "zh": "有两个因素严重地妨碍着工业中科学研究的效率：一是科研工作中普遍存在的保密气氛，二是研究人员缺乏个人自由。"
+      },
+      "imitations": [
+        {
+          "en": "Two factors weigh heavily against the popularity of the new product. One is its high price, the other its complex operation.",
+          "zh": "有两个因素严重影响这款新产品的普及：一是价格过高，二是操作复杂。"
+        },
+        {
+          "en": "Two factors weigh heavily against students' learning efficiency. One is the lack of clear learning goals, the other the distraction of electronic devices.",
+          "zh": "有两个因素严重影响学生的学习效率：一是缺乏明确的学习目标，二是电子设备的干扰。"
+        }
+      ]
+    },
+    {
+      "pattern": "This applies particularly to..., where...",
+      "original": {
+        "en": "This applies particularly to chemical industries, where chance discoveries play a much larger part than they do in physical and mechanical industries.",
+        "zh": "这种情况在化学工业尤其适用，在该行业中，偶然发现的作用要比在物理和机械工业中大得多。"
+      },
+      "imitations": [
+        {
+          "en": "This learning method applies particularly to language learners, where enough input is the key to improvement.",
+          "zh": "这种学习方法尤其适合语言学习者，对他们来说，足量的输入是提升的关键。"
+        },
+        {
+          "en": "This regulation applies particularly to small businesses, where cash flow is more vulnerable to market changes.",
+          "zh": "这项规定尤其适用于小型企业，在这类企业中，现金流更容易受市场变化的影响。"
+        }
+      ]
+    },
+    {
+      "pattern": "Sometimes the ... goes to such an extent that...",
+      "original": {
+        "en": "Sometimes the secrecy goes to such an extent that the whole nature of the research cannot be mentioned.",
+        "zh": "有时保密的程度到了连研究的性质都不能提及的地步。"
+      },
+      "imitations": [
+        {
+          "en": "Sometimes the competition in the industry goes to such an extent that companies cut their prices below cost.",
+          "zh": "有时行业内的竞争激烈到了公司把价格降到成本以下的程度。"
+        },
+        {
+          "en": "Sometimes parents' love for their children goes to such an extent that they arrange everything for them.",
+          "zh": "有时父母对孩子的爱到了事事都为他们安排好的地步。"
+        }
+      ]
+    }
+  ]
+}

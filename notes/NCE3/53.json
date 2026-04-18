@@ -1,0 +1,394 @@
+{
+  "book": "NCE3",
+  "lesson": "53",
+  "title": "Lesson 53",
+  "vocabulary": [
+    {
+      "word": "Scandinavian",
+      "phonetic": "/ˌskændɪˈneɪviən/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "斯堪的纳维亚的；北欧国家的",
+          "usage": "用于描述北欧地区的国家或文化"
+        }
+      ]
+    },
+    {
+      "word": "enlightened",
+      "phonetic": "/ɪnˈlaɪtənd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "开明的；进步的；文明的",
+          "usage": "形容政策、制度等具有先进性和人性化"
+        }
+      ]
+    },
+    {
+      "word": "evolve",
+      "phonetic": "/ɪˈvɒlv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "逐步发展；逐步形成",
+          "usage": "强调事物逐渐演变发展的过程"
+        }
+      ]
+    },
+    {
+      "word": "high-handed",
+      "phonetic": "/ˌhaɪˈhændɪd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "高压的；专横的；盛气凌人的",
+          "usage": "形容滥用权力、傲慢的行为方式"
+        }
+      ]
+    },
+    {
+      "word": "incompetent",
+      "phonetic": "/ɪnˈkɒmpɪtənt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "不称职的；无能力的",
+          "usage": "形容在工作或职责上不能胜任的人"
+        }
+      ]
+    },
+    {
+      "word": "safeguard",
+      "phonetic": "/ˈseɪfɡɑːd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "保护；保卫；维护",
+          "usage": "表示采取措施保护某人或某物免受伤害"
+        }
+      ]
+    },
+    {
+      "word": "grievance",
+      "phonetic": "/ˈɡriːvəns/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "委屈；不满；抱怨",
+          "usage": "指个人对不公正待遇的申诉或投诉"
+        }
+      ]
+    },
+    {
+      "word": "ombudsman",
+      "phonetic": "/ˈɒmbʊdzmən/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "巡视官；调查官；申诉专员",
+          "usage": "指负责调查公民对政府官员投诉的官员"
+        }
+      ]
+    },
+    {
+      "word": "over-zealous",
+      "phonetic": "/ˌəʊvəˈzeləs/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "过于热心的；过分积极的",
+          "usage": "形容做事过于热情而可能出错"
+        }
+      ]
+    },
+    {
+      "word": "reprimand",
+      "phonetic": "/ˈreprɪmɑːnd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "训斥；谴责；正式警告",
+          "usage": "指权威人士对下属的正式责备"
+        }
+      ]
+    },
+    {
+      "word": "ascertain",
+      "phonetic": "/ˌæsəˈteɪn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "查明；确定；弄清",
+          "usage": "指通过调查或研究来发现事实真相"
+        }
+      ]
+    },
+    {
+      "word": "prejudiced",
+      "phonetic": "/ˈpredʒʊdɪst/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "有偏见的；偏袒的",
+          "usage": "形容对某事物持有不公平的先入为主的看法"
+        }
+      ]
+    },
+    {
+      "word": "prosecute",
+      "phonetic": "/ˈprɒsɪkjuːt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "起诉；检举；控告",
+          "usage": "指通过法律程序对某人提起诉讼"
+        }
+      ]
+    },
+    {
+      "word": "prompt",
+      "phonetic": "/prɒmpt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "迅速的；及时的；敏捷的",
+          "usage": "形容行动迅速、毫不拖延的"
+        }
+      ]
+    },
+    {
+      "word": "lodge",
+      "phonetic": "/lɒdʒ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "提出（投诉、申诉等）",
+          "usage": "指正式向有关部门提交投诉或申诉"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "in the public interest",
+      "usage": "为了公共利益；符合公众利益",
+      "examples": [
+        {
+          "en": "The minister acted in the public interest.",
+          "zh": "部长为了公共利益行事。"
+        }
+      ]
+    },
+    {
+      "phrase": "evolve an excellent system",
+      "usage": "逐步形成一套优秀的体制",
+      "examples": [
+        {
+          "en": "Sweden has evolved an excellent system for protecting citizens.",
+          "zh": "瑞典逐步形成了一套优秀的保护公民的体制。"
+        }
+      ]
+    },
+    {
+      "phrase": "protect the individual citizen",
+      "usage": "保护个人公民",
+      "examples": [
+        {
+          "en": "The system protects the individual citizen from incompetent officials.",
+          "zh": "该体制保护个人公民免受不称职官员的侵害。"
+        }
+      ]
+    },
+    {
+      "phrase": "safeguard the interest of",
+      "usage": "保护...的利益；维护...的利益",
+      "examples": [
+        {
+          "en": "The scheme was introduced to safeguard the interest of the individual.",
+          "zh": "该方案的出台是为了保护个人的利益。"
+        }
+      ]
+    },
+    {
+      "phrase": "be subject to",
+      "usage": "受...支配；受...影响；易遭受",
+      "examples": [
+        {
+          "en": "The Ombudsman is not subject to political pressure.",
+          "zh": "巡视官不受政治压力的影响。"
+        }
+      ]
+    },
+    {
+      "phrase": "act on one's behalf",
+      "usage": "代表某人采取行动；代理",
+      "examples": [
+        {
+          "en": "If a citizen's complaint is justified, the Ombudsman will act on his behalf.",
+          "zh": "如果公民的投诉是合理的，巡视官将代表他采取行动。"
+        }
+      ]
+    },
+    {
+      "phrase": "lodge a complaint",
+      "usage": "提出投诉；提起申诉",
+      "examples": [
+        {
+          "en": "If any further complaints are lodged against him, he will be prosecuted.",
+          "zh": "如果再有人对他提出投诉，他将受到起诉。"
+        }
+      ]
+    },
+    {
+      "phrase": "put an end to",
+      "usage": "结束；终止；消灭",
+      "examples": [
+        {
+          "en": "The Ombudsman's prompt action put an end to an unpleasant practice.",
+          "zh": "巡视官的迅速行动结束了一种不良做法。"
+        }
+      ]
+    },
+    {
+      "phrase": "deal roughly with",
+      "usage": "粗暴对待；虐待",
+      "examples": [
+        {
+          "en": "A policeman had dealt roughly with foreigners on several occasions.",
+          "zh": "一名警察多次粗暴对待外国人。"
+        }
+      ]
+    },
+    {
+      "phrase": "be open to public inspection",
+      "usage": "公开接受公众检查；可供公众查阅",
+      "examples": [
+        {
+          "en": "There is nothing secretive about the Ombudsman's work, for his correspondence is open to public inspection.",
+          "zh": "巡视官的工作没有任何秘密，因为他的信函可供公众查阅。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "现在完成时的被动语态 (Present Perfect Passive)",
+      "definition": "现在完成时被动语态表示过去发生的动作对现在造成的影响，或动作持续到现在，且主语是动作的承受者。",
+      "structure": "have/has + been + 过去分词",
+      "usage": "用于描述某个动作或过程的结果，强调其对现在的影响。文中描述瑞典的体制被其他国家采用这一结果。",
+      "examples": [
+        {
+          "en": "The system has worked so well that it has been adopted in other countries too.",
+          "zh": "该体制运行良好，其他国家也采用了这一体制。"
+        },
+        {
+          "en": "The Swedish Parliament introduced a scheme in 1809.",
+          "zh": "瑞典议会在1809年推出了一个方案。"
+        }
+      ]
+    },
+    {
+      "title": "过去分词作定语 (Past Participle as Attribute)",
+      "definition": "过去分词作定语时，放在被修饰的名词之前或之后，表示被动和完成的意义。",
+      "structure": "名词 + 过去分词 / 过去分词 + 名词",
+      "usage": "用于简化定语从句，使句子更加简洁。常用于正式书面语中。",
+      "examples": [
+        {
+          "en": "A parliamentary committee representing all political parties appoints a person.",
+          "zh": "一个代表所有政党的议会委员会任命一人。"
+        },
+        {
+          "en": "The official title of the person is 'Justiteombudsman'.",
+          "zh": "这个人的官方头衔是'司法特派员'。"
+        }
+      ]
+    },
+    {
+      "title": "so...that 结果状语从句",
+      "definition": "so后面接形容词或副词，that引导结果状语从句，表示'如此...以至于...'。",
+      "structure": "so + 形容词/副词 + that + 结果状语从句",
+      "usage": "用于表达某种程度导致的结果。在文中说明瑞典体制运行良好以至于被其他国家采纳。",
+      "examples": [
+        {
+          "en": "The system has worked so well that it has been adopted in other countries too.",
+          "zh": "该体制运行良好，其他国家也采用了。"
+        },
+        {
+          "en": "He is so busy that he cannot come.",
+          "zh": "他太忙了，不能来。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "The system has worked so well that...",
+      "original": {
+        "en": "The system has worked so well that it has been adopted in other countries too.",
+        "zh": "该体制运行良好，其他国家也采用了这一体制。"
+      },
+      "imitations": [
+        {
+          "en": "The policy has worked so well that it has become a model for other countries.",
+          "zh": "这项政策运行良好，已成为其他国家的典范。"
+        },
+        {
+          "en": "The new teaching method has worked so well that it has been推广 in all schools.",
+          "zh": "新的教学方法效果良好，已在所有学校推广。"
+        }
+      ]
+    },
+    {
+      "pattern": "As long ago as + 年份, ... + 一般过去时",
+      "original": {
+        "en": "As long ago as 1809, the Swedish Parliament introduced a scheme to safeguard the interest of the individual.",
+        "zh": "早在1809年，瑞典议会就推出了保护个人利益的方案。"
+      },
+      "imitations": [
+        {
+          "en": "As long ago as 1990, China began its reform and opening-up policy.",
+          "zh": "早在1990年，中国就开始了改革开放政策。"
+        },
+        {
+          "en": "As long ago as 1950, scientists discovered this phenomenon.",
+          "zh": "早在1950年，科学家们就发现了这一现象。"
+        }
+      ]
+    },
+    {
+      "pattern": "There is nothing secretive about...",
+      "original": {
+        "en": "There is nothing secretive about the Ombudsman's work, for his correspondence is open to public inspection.",
+        "zh": "巡视官的工作没有任何秘密，因为他的信函可供公众查阅。"
+      },
+      "imitations": [
+        {
+          "en": "There is nothing secretive about the government's decision.",
+          "zh": "政府的这项决定没有任何秘密。"
+        },
+        {
+          "en": "There is nothing secretive about our company's financial report.",
+          "zh": "我们公司的财务报告没有任何隐瞒。"
+        }
+      ]
+    },
+    {
+      "pattern": "The action he takes varies according to...",
+      "original": {
+        "en": "The action he takes varies according to the nature of the complaint.",
+        "zh": "他采取的行动因投诉的性质而异。"
+      },
+      "imitations": [
+        {
+          "en": "The punishment varies according to the seriousness of the crime.",
+          "zh": "惩罚的轻重取决于犯罪的严重程度。"
+        },
+        {
+          "en": "The salary varies according to qualifications and experience.",
+          "zh": "工资根据资历和经验而有所不同。"
+        }
+      ]
+    }
+  ]
+}

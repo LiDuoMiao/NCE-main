@@ -1,0 +1,399 @@
+{
+  "book": "NCE1",
+  "lesson": "123-124",
+  "title": "Lesson 123",
+  "vocabulary": [
+    {
+      "word": "photograph",
+      "phonetic": "/ˈfəʊtəɡrɑːf/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "照片；相片",
+          "usage": "指用相机拍摄的照片"
+        }
+      ]
+    },
+    {
+      "word": "trip",
+      "phonetic": "/trɪp/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "旅行；旅程",
+          "usage": "指短途的出行或旅行"
+        }
+      ]
+    },
+    {
+      "word": "beard",
+      "phonetic": "/bɪəd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "胡须；胡子",
+          "usage": "指下巴上的胡须"
+        }
+      ]
+    },
+    {
+      "word": "ship",
+      "phonetic": "/ʃɪp/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "轮船；船只",
+          "usage": "指大型的海上交通工具"
+        }
+      ]
+    },
+    {
+      "word": "grow",
+      "phonetic": "/ɡrəʊ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "生长；留（头发）",
+          "usage": "指植物生长或留头发、胡须等"
+        }
+      ]
+    },
+    {
+      "word": "shave",
+      "phonetic": "/ʃeɪv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "剃；刮",
+          "usage": "指用剃刀刮去毛发"
+        }
+      ]
+    },
+    {
+      "word": "offer",
+      "phonetic": "/ˈɒfə/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "提供；给予",
+          "usage": "指向别人提供东西或机会"
+        }
+      ]
+    },
+    {
+      "word": "guess",
+      "phonetic": "/ɡes/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "猜；猜测",
+          "usage": "指在没有确定信息时进行推测"
+        }
+      ]
+    },
+    {
+      "word": "meet",
+      "phonetic": "/miːt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "遇见；相逢",
+          "usage": "指与某人初次见面或相遇"
+        }
+      ]
+    },
+    {
+      "word": "during",
+      "phonetic": "/ˈdjʊərɪŋ/",
+      "meanings": [
+        {
+          "pos": "preposition",
+          "meaning": "在...期间",
+          "usage": "表示在某一段时间内"
+        }
+      ]
+    },
+    {
+      "word": "remember",
+      "phonetic": "/rɪˈmembə/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "记得；记住",
+          "usage": "指记住某事或某人"
+        }
+      ]
+    },
+    {
+      "word": "beautiful",
+      "phonetic": "/ˈbjuːtɪfəl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "美丽的；漂亮的",
+          "usage": "形容外观或外观令人愉悦"
+        }
+      ]
+    },
+    {
+      "word": "Australia",
+      "phonetic": "/ɒˈstreɪliə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "澳大利亚",
+          "usage": "国家名称"
+        }
+      ]
+    },
+    {
+      "word": "wife",
+      "phonetic": "/waɪf/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "妻子",
+          "usage": "指已婚女性的配偶"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Let me see it",
+      "usage": "用于请求查看某物",
+      "examples": [
+        {
+          "en": "Let me see it, Mike.",
+          "zh": "让我看看，麦克。"
+        }
+      ]
+    },
+    {
+      "phrase": "What a beautiful...",
+      "usage": "用于表达感叹，赞美某物",
+      "examples": [
+        {
+          "en": "What a beautiful ship!",
+          "zh": "多漂亮的轮船啊！"
+        }
+      ]
+    },
+    {
+      "phrase": "That's the man I told you about",
+      "usage": "用于介绍或提及之前提到过的人",
+      "examples": [
+        {
+          "en": "That's the man I told you about.",
+          "zh": "这就是我跟你说过的那个男人。"
+        }
+      ]
+    },
+    {
+      "phrase": "The one who...",
+      "usage": "用于指代前面提到的人，具有某种特征",
+      "examples": [
+        {
+          "en": "The one who offered you a job in Australia.",
+          "zh": "那个给你在澳大利亚提供工作的人。"
+        }
+      ]
+    },
+    {
+      "phrase": "grow a beard",
+      "usage": "指留胡子",
+      "examples": [
+        {
+          "en": "I grew a beard during the trip.",
+          "zh": "我在旅途中留了胡子。"
+        }
+      ]
+    },
+    {
+      "phrase": "shave it off",
+      "usage": "指刮掉胡子或毛发",
+      "examples": [
+        {
+          "en": "I shaved it off when I came home.",
+          "zh": "我回家时把它刮掉了。"
+        }
+      ]
+    },
+    {
+      "phrase": "Is it you, is it?",
+      "usage": "用于猜测某人身份时的反问",
+      "examples": [
+        {
+          "en": "It's not you, is it?",
+          "zh": "不是你，对吧？"
+        }
+      ]
+    },
+    {
+      "phrase": "people I met",
+      "usage": "定语从句，修饰前面的人",
+      "examples": [
+        {
+          "en": "They're people I met during the trip.",
+          "zh": "他们是我旅途中遇到的人。"
+        }
+      ]
+    },
+    {
+      "phrase": "during my trip to...",
+      "usage": "表示在某次旅行期间",
+      "examples": [
+        {
+          "en": "This is a photograph I took during my trip to Australia.",
+          "zh": "这是我在澳大利亚旅行时拍的照片。"
+        }
+      ]
+    },
+    {
+      "phrase": "offer sb. a job",
+      "usage": "表示给某人提供工作",
+      "examples": [
+        {
+          "en": "The one who offered you a job in Australia.",
+          "zh": "那个给你在澳大利亚提供工作的人。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "定语从句（Relative Clause）- 省略关系代词",
+      "definition": "当定语从句的先行词在从句中作宾语时，关系代词可以省略",
+      "structure": "名词 + (that/whom/who) + 主语 + 动词...",
+      "usage": "在口语和非正式书面语中，当关系代词在从句中作宾语时，常可省略。先行词指人时可用who/that/whom，指物时可用which/that",
+      "examples": [
+        {
+          "en": "That's the man (who/whom/that) I told you about.",
+          "zh": "这就是我跟你说过的那个男人。"
+        },
+        {
+          "en": "They're people (who/that) I met during the trip.",
+          "zh": "他们是我旅途中遇到的人。"
+        },
+        {
+          "en": "That's the ship (which/that) we travelled on.",
+          "zh": "这就是我们乘坐的轮船。"
+        }
+      ]
+    },
+    {
+      "title": "What引导的感叹句",
+      "definition": "What引导的感叹句用于表达强烈的情感",
+      "structure": "What a/an + 形容词 + 可数名词单数 (+ 主语 + 动词)！",
+      "usage": "what后面接名词，用于感叹名词的性质或特征",
+      "examples": [
+        {
+          "en": "What a beautiful ship!",
+          "zh": "多漂亮的轮船啊！"
+        },
+        {
+          "en": "What a lovely day it is!",
+          "zh": "多美好的一天啊！"
+        },
+        {
+          "en": "What an interesting book this is!",
+          "zh": "这是一本多有趣的书啊！"
+        }
+      ]
+    },
+    {
+      "title": "一般过去时与时间状语",
+      "definition": "表示在过去某个特定时间发生的动作或存在的状态",
+      "structure": "主语 + 动词过去式 + 时间状语",
+      "usage": "常与一般过去时连用的时间状语：during the trip（在旅途中）, when I came home（当我回家时）等",
+      "examples": [
+        {
+          "en": "I grew a beard during the trip.",
+          "zh": "我在旅途中留了胡子。"
+        },
+        {
+          "en": "I shaved it off when I came home.",
+          "zh": "我回家时把它刮掉了。"
+        },
+        {
+          "en": "I took this photograph during my trip to Australia.",
+          "zh": "我在澳大利亚旅行时拍了这张照片。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "That's the man + 定语从句",
+      "original": {
+        "en": "That's the man I told you about.",
+        "zh": "这就是我跟你说过的那个男人。"
+      },
+      "imitations": [
+        {
+          "en": "That's the girl I met yesterday.",
+          "zh": "这就是我昨天遇到的女孩。"
+        },
+        {
+          "en": "That's the teacher who taught us English.",
+          "zh": "这就是教我们英语的老师。"
+        }
+      ]
+    },
+    {
+      "pattern": "What a + 形容词 + 可数名词单数!",
+      "original": {
+        "en": "What a beautiful ship!",
+        "zh": "多漂亮的轮船啊！"
+      },
+      "imitations": [
+        {
+          "en": "What a nice photo!",
+          "zh": "多好看的照片啊！"
+        },
+        {
+          "en": "What a clever boy!",
+          "zh": "多聪明的男孩啊！"
+        },
+        {
+          "en": "What an interesting story!",
+          "zh": "多有趣的故事啊！"
+        }
+      ]
+    },
+    {
+      "pattern": "I + 动词过去式 + during the trip",
+      "original": {
+        "en": "I grew a beard during the trip.",
+        "zh": "我在旅途中留了胡子。"
+      },
+      "imitations": [
+        {
+          "en": "I met many friends during the trip.",
+          "zh": "我在旅途中遇到了很多朋友。"
+        },
+        {
+          "en": "I took many photographs during the trip.",
+          "zh": "我在旅途中拍了很多照片。"
+        }
+      ]
+    },
+    {
+      "pattern": "Is it + 代词/名词, is it?",
+      "original": {
+        "en": "It's not you, is it?",
+        "zh": "不是你，对吧？"
+      },
+      "imitations": [
+        {
+          "en": "It's your book, is it?",
+          "zh": "这是你的书，对吧？"
+        },
+        {
+          "en": "She's your sister, is she?",
+          "zh": "她是你姐姐，对吗？"
+        }
+      ]
+    }
+  ]
+}

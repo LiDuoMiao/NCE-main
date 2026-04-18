@@ -1,0 +1,433 @@
+{
+  "book": "NCE3",
+  "lesson": "26",
+  "title": "Lesson 26",
+  "vocabulary": [
+    {
+      "word": "avoid",
+      "phonetic": "/əˈvɔɪd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "避免；避开",
+          "usage": "后接名词、代词或动名词作宾语，不可接不定式"
+        }
+      ]
+    },
+    {
+      "word": "influence",
+      "phonetic": "/ˈɪnfluəns/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "影响；作用",
+          "usage": "常与介词on/upon搭配，表示对……的影响"
+        },
+        {
+          "pos": "verb",
+          "meaning": "影响；左右",
+          "usage": "及物动词，直接接宾语"
+        }
+      ]
+    },
+    {
+      "word": "pride",
+      "phonetic": "/praɪd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "为……感到骄傲",
+          "usage": "固定搭配pride oneself on/upon sth./doing sth."
+        },
+        {
+          "pos": "noun",
+          "meaning": "骄傲；自豪",
+          "usage": "不可数名词，可与take pride in搭配"
+        }
+      ]
+    },
+    {
+      "word": "taste",
+      "phonetic": "/teɪst/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "品味；审美",
+          "usage": "表示抽象品味时为不可数名词，表口味时可作可数名词"
+        },
+        {
+          "pos": "verb",
+          "meaning": "品尝；尝起来",
+          "usage": "作系动词时后接形容词作表语"
+        }
+      ]
+    },
+    {
+      "word": "exert",
+      "phonetic": "/ɪɡˈzɜːt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "施加（影响、压力等）",
+          "usage": "常与influence, pressure, effort等名词搭配"
+        }
+      ]
+    },
+    {
+      "word": "subtle",
+      "phonetic": "/ˈsʌtl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "微妙的；不易察觉的",
+          "usage": "多用来形容变化、影响、差别等抽象事物"
+        }
+      ]
+    },
+    {
+      "word": "persuade",
+      "phonetic": "/pəˈsweɪd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "说服；劝说",
+          "usage": "常用搭配persuade sb. to do sth. 或persuade sb. into doing sth."
+        }
+      ]
+    },
+    {
+      "word": "classify",
+      "phonetic": "/ˈklæsɪfaɪ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "分类；归类",
+          "usage": "常与介词into搭配，表示将……分为……"
+        }
+      ]
+    },
+    {
+      "word": "devise",
+      "phonetic": "/dɪˈvaɪz/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "设计；策划",
+          "usage": "及物动词，宾语多为计划、方案、装置等"
+        }
+      ]
+    },
+    {
+      "word": "capture",
+      "phonetic": "/ˈkæptʃə(r)/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "吸引；捕获",
+          "usage": "capture one's attention为固定搭配，表示吸引某人的注意"
+        }
+      ]
+    },
+    {
+      "word": "tremendous",
+      "phonetic": "/trəˈmendəs/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "巨大的；极大的",
+          "usage": "可用来形容数量、程度、反应等，非正式语境中也可表示“极好的”"
+        }
+      ]
+    },
+    {
+      "word": "occupy",
+      "phonetic": "/ˈɒkjupaɪ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "占据；占用",
+          "usage": "可指占据空间、时间，也可表示占领、担任职位"
+        }
+      ]
+    },
+    {
+      "word": "colossal",
+      "phonetic": "/kəˈlɒsl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "巨大的；庞大的",
+          "usage": "语气比big, large强，强调规模异常大"
+        }
+      ]
+    },
+    {
+      "word": "ingredient",
+      "phonetic": "/ɪnˈɡriːdiənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "原料；成分",
+          "usage": "可数名词，多指食品的成分，也可引申为要素、因素"
+        }
+      ]
+    },
+    {
+      "word": "anticipate",
+      "phonetic": "/ænˈtɪsɪpeɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "预料；预期",
+          "usage": "后可接名词、动名词或that从句作宾语"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "get something for nothing",
+      "usage": "表示免费获得某物、不劳而获，口语和书面语中都常用",
+      "examples": [
+        {
+          "en": "There is no such thing as getting something for nothing in the world.",
+          "zh": "世界上没有不劳而获的好事。"
+        },
+        {
+          "en": "Many people are attracted by the idea of getting something for nothing.",
+          "zh": "很多人都被免费得东西的想法吸引。"
+        }
+      ]
+    },
+    {
+      "phrase": "exert an influence on",
+      "usage": "表示对……施加影响，可在influence前加形容词修饰影响的性质",
+      "examples": [
+        {
+          "en": "Parents exert a great influence on their children's character development.",
+          "zh": "父母对孩子的性格发展有很大影响。"
+        },
+        {
+          "en": "Social media exerts a subtle influence on people's values.",
+          "zh": "社交媒体对人们的价值观有着微妙的影响。"
+        }
+      ]
+    },
+    {
+      "phrase": "pride oneself on",
+      "usage": "为……感到自豪、得意，主语通常是人",
+      "examples": [
+        {
+          "en": "He prides himself on his ability to speak four languages fluently.",
+          "zh": "他为自己能流利说四种语言而自豪。"
+        },
+        {
+          "en": "The restaurant prides itself on using only fresh local ingredients.",
+          "zh": "这家餐厅以只使用新鲜本地食材为荣。"
+        }
+      ]
+    },
+    {
+      "phrase": "enable sb. to do sth.",
+      "usage": "使某人能够做某事，是正式表达，常用于说明某事物的作用",
+      "examples": [
+        {
+          "en": "The new policy enables low-income families to afford better housing.",
+          "zh": "新政策让低收入家庭能够负担得起更好的住房。"
+        },
+        {
+          "en": "The Internet enables people to communicate with others around the world easily.",
+          "zh": "互联网让人们可以轻松和世界各地的人交流。"
+        }
+      ]
+    },
+    {
+      "phrase": "capture the attention of",
+      "usage": "吸引……的注意力，同义表达还有draw/attract one's attention",
+      "examples": [
+        {
+          "en": "The bright color of the poster captured the attention of passers-by.",
+          "zh": "海报鲜艳的颜色吸引了路人的注意。"
+        },
+        {
+          "en": "His speech at the conference captured the attention of all the attendees.",
+          "zh": "他在会议上的发言吸引了所有参会者的注意。"
+        }
+      ]
+    },
+    {
+      "phrase": "the response to",
+      "usage": "对……的反应、回应，response后接介词to",
+      "examples": [
+        {
+          "en": "The response to the new product launch was beyond our expectation.",
+          "zh": "新产品发布后的反响超出了我们的预期。"
+        },
+        {
+          "en": "There has been a positive response to the government's new environmental policy.",
+          "zh": "公众对政府新的环保政策反应积极。"
+        }
+      ]
+    },
+    {
+      "phrase": "before long",
+      "usage": "不久之后，相当于soon，可放在句首或句末",
+      "examples": [
+        {
+          "en": "Before long, he got used to the new school life and made many friends.",
+          "zh": "不久之后他就适应了新的学校生活，还交了很多朋友。"
+        },
+        {
+          "en": "The project is progressing well, and before long we will see the results.",
+          "zh": "项目进展顺利，很快我们就能看到成果了。"
+        }
+      ]
+    },
+    {
+      "phrase": "of all shapes and sizes",
+      "usage": "各种形状和大小的，用来形容事物种类多样",
+      "examples": [
+        {
+          "en": "The store sells bags of all shapes and sizes to meet different customers' needs.",
+          "zh": "这家店卖各种形状和尺寸的包，满足不同顾客的需求。"
+        },
+        {
+          "en": "On the beach, there are shells of all shapes and sizes scattered everywhere.",
+          "zh": "沙滩上散落着各种形状和大小的贝壳。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "as引导的让步状语从句",
+      "definition": "as引导让步状语从句时，需要将表语、状语或动词原形提前到句首，形成倒装结构，含义相当于although/though",
+      "structure": "形容词/副词/名词/动词原形 + as + 主语 + 谓语，主句",
+      "usage": "用于正式语境中表达“尽管、虽然”的含义，若提前的是单数可数名词，前面要省略冠词",
+      "examples": [
+        {
+          "en": "Much as we may pride ourselves on our good taste, we are no longer free to choose the things we want.",
+          "zh": "尽管我们可能对自己的品味很是得意，但我们已经不能自主选择想买的东西了。"
+        },
+        {
+          "en": "Young as he is, he has already won several international awards in the field of physics.",
+          "zh": "尽管他很年轻，他已经在物理领域获得了数个国际奖项。"
+        },
+        {
+          "en": "Try as she might, she could not open the locked door without the key.",
+          "zh": "无论她怎么努力，没有钥匙她都打不开那扇锁着的门。"
+        }
+      ]
+    },
+    {
+      "title": "动名词的被动语态",
+      "definition": "当动名词的逻辑主语是动名词动作的承受者时，动名词需要用被动形式，即being + 过去分词",
+      "structure": "动词（后接动名词） + being done",
+      "usage": "常用于avoid, enjoy, mind, remember, forget等后接动名词作宾语的动词之后",
+      "examples": [
+        {
+          "en": "No one can avoid being influenced by advertisements.",
+          "zh": "没有人能避免受到广告的影响。"
+        },
+        {
+          "en": "He was very upset about being criticized by the teacher in front of the whole class.",
+          "zh": "他因为在全班面前被老师批评而非常难过。"
+        },
+        {
+          "en": "Many young people dream of being admitted to their ideal universities.",
+          "zh": "很多年轻人都梦想被自己理想的大学录取。"
+        }
+      ]
+    },
+    {
+      "title": "make it + 形容词 + for sb. to do sth.",
+      "definition": "该结构中it是形式宾语，真正的宾语是后面的不定式短语，形容词作宾语补足语，用来补充说明做某事的性质",
+      "structure": "make + it + 形容词/名词 + (for sb.) + 不定式短语",
+      "usage": "当不定式作宾语且后面有宾语补足语时，需要用it作形式宾语，将真正的宾语后置，保持句子结构平衡",
+      "examples": [
+        {
+          "en": "Radio and television have made it possible for advertisers to capture the attention of millions of people in this way.",
+          "zh": "广播和电视使得广告商能够用这种方式吸引数百万人的注意。"
+        },
+        {
+          "en": "Smartphones make it convenient for people to shop, study and work anywhere.",
+          "zh": "智能手机让人们可以随时随地很方便地购物、学习和工作。"
+        },
+        {
+          "en": "The frequent public transport makes it easy for citizens to travel around the city.",
+          "zh": "便捷的公共交通让市民在城市里出行很容易。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Much as we may ..., we ... for ...",
+      "original": {
+        "en": "Much as we may pride ourselves on our good taste, we are no longer free to choose the things we want, for advertising exerts a subtle influence on us.",
+        "zh": "尽管我们可能对自己的品味很是得意，但我们已经不能自主选择想买的东西了，因为广告在我们身上施加着微妙的影响。"
+      },
+      "imitations": [
+        {
+          "en": "Much as we may value our independence, we often need help from others, for no one can solve all problems alone.",
+          "zh": "尽管我们可能很看重自己的独立性，但我们时常需要他人的帮助，因为没有人能独自解决所有问题。"
+        },
+        {
+          "en": "Much as we may enjoy staying up late, we should form the habit of sleeping early, for regular rest is essential to our health.",
+          "zh": "尽管我们可能很享受熬夜，但我们应该养成早睡的习惯，因为规律的休息对我们的健康至关重要。"
+        }
+      ]
+    },
+    {
+      "pattern": "It was so + 形容词 + that ...",
+      "original": {
+        "en": "It was so heavy that a crane had to be used to remove it from the lorry.",
+        "zh": "它实在太重了，以至于得用起重机才能把它从卡车上卸下来。"
+      },
+      "imitations": [
+        {
+          "en": "The novel was so interesting that I stayed up the whole night to finish reading it.",
+          "zh": "这本小说太有趣了，以至于我熬了一整夜把它读完了。"
+        },
+        {
+          "en": "The lecture was so boring that most of the audience fell asleep halfway through.",
+          "zh": "这场讲座太无聊了，以至于大多数听众听到一半都睡着了。"
+        }
+      ]
+    },
+    {
+      "pattern": "... had to ... than they had anticipated, for ...",
+      "original": {
+        "en": "The manufacturers had to pay more money than they had anticipated, for they bought the biscuit from the student for $24,000.",
+        "zh": "生产商不得不付出比预期多得多的钱，因为他们花了24000美元从那个学生手里买下了这块饼干。"
+      },
+      "imitations": [
+        {
+          "en": "We had to spend more time on the project than we had anticipated, for there were many unexpected difficulties in the process.",
+          "zh": "我们在这个项目上花的时间比预期要多，因为过程中出现了很多意料之外的困难。"
+        },
+        {
+          "en": "The travel agency had to arrange more accommodation than they had anticipated, for the number of tourists doubled during the holiday.",
+          "zh": "旅行社不得不安排比预期更多的住宿，因为假期期间游客数量翻了一倍。"
+        }
+      ]
+    },
+    {
+      "pattern": "... discovered years ago that ...",
+      "original": {
+        "en": "Advertisers discovered years ago that all of us love to get something for nothing.",
+        "zh": "广告商多年前就发现，我们所有人都喜欢免费得到东西。"
+      },
+      "imitations": [
+        {
+          "en": "Educators discovered years ago that children learn better in a relaxed and interactive environment.",
+          "zh": "教育工作者多年前就发现，孩子在轻松互动的环境里学习效果更好。"
+        },
+        {
+          "en": "Scientists discovered years ago that regular exercise can reduce the risk of many chronic diseases.",
+          "zh": "科学家多年前就发现，规律锻炼可以降低很多慢性病的患病风险。"
+        }
+      ]
+    }
+  ]
+}

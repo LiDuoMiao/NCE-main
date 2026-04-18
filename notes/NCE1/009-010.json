@@ -1,0 +1,340 @@
+{
+  "book": "NCE1",
+  "lesson": "009-010",
+  "title": "Lesson 9",
+  "vocabulary": [
+    {
+      "word": "today",
+      "phonetic": "/təˈdeɪ/",
+      "meanings": [
+        {
+          "pos": "adv.",
+          "meaning": "今天",
+          "usage": "指说话时的当天"
+        }
+      ]
+    },
+    {
+      "word": "well",
+      "phonetic": "/wel/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "meaning": "健康的；身体好的",
+          "usage": "用于描述身体状况"
+        },
+        {
+          "pos": "adv.",
+          "meaning": "好；很好地",
+          "usage": "修饰动词"
+        }
+      ]
+    },
+    {
+      "word": "thanks",
+      "phonetic": "/θæŋks/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "谢谢；感谢",
+          "usage": "表示感谢的名词复数形式"
+        }
+      ]
+    },
+    {
+      "word": "goodbye",
+      "phonetic": "/ɡʊdˈbaɪ/",
+      "meanings": [
+        {
+          "pos": "interj.",
+          "meaning": "再见",
+          "usage": "告别时使用的用语"
+        }
+      ]
+    },
+    {
+      "word": "see",
+      "phonetic": "/siː/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "meaning": "看见；看到",
+          "usage": "表示视觉上的看见"
+        }
+      ]
+    },
+    {
+      "word": "fine",
+      "phonetic": "/faɪn/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "meaning": "很好的；健康的",
+          "usage": "口语中表示身体状况好"
+        }
+      ]
+    },
+    {
+      "word": "too",
+      "phonetic": "/tuː/",
+      "meanings": [
+        {
+          "pos": "adv.",
+          "meaning": "也；同样",
+          "usage": "用于肯定句末，表示也一样"
+        }
+      ]
+    },
+    {
+      "word": "how",
+      "phonetic": "/haʊ/",
+      "meanings": [
+        {
+          "pos": "adv.",
+          "meaning": "怎样；如何",
+          "usage": "用于询问方式、状态等"
+        }
+      ]
+    },
+    {
+      "word": "hello",
+      "phonetic": "/həˈləʊ/",
+      "meanings": [
+        {
+          "pos": "interj.",
+          "meaning": "你好；喂",
+          "usage": "打招呼用语"
+        }
+      ]
+    },
+    {
+      "word": "nice",
+      "phonetic": "/naɪs/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "meaning": "美好的；令人愉快的",
+          "usage": "形容事物或人令人满意"
+        }
+      ]
+    },
+    {
+      "word": "very",
+      "phonetic": "/ˈveri/",
+      "meanings": [
+        {
+          "pos": "adv.",
+          "meaning": "非常；很",
+          "usage": "修饰形容词或副词，加强程度"
+        }
+      ]
+    },
+    {
+      "word": "and",
+      "phonetic": "/ænd/",
+      "meanings": [
+        {
+          "pos": "conj.",
+          "meaning": "和；而且",
+          "usage": "连接并列成分"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "How are you today?",
+      "usage": "询问对方今天身体状况的常用问候语",
+      "examples": [
+        {
+          "en": "How are you today?",
+          "zh": "你今天好吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "I'm very well",
+      "usage": "回答身体状况，表示非常好/很健康",
+      "examples": [
+        {
+          "en": "I'm very well, thank you.",
+          "zh": "我非常好，谢谢你。"
+        }
+      ]
+    },
+    {
+      "phrase": "And you?",
+      "usage": "询问对方情况时的简略表达，常用于回答之后反问对方",
+      "examples": [
+        {
+          "en": "I'm fine, thanks. And you?",
+          "zh": "我很好，谢谢。你呢？"
+        }
+      ]
+    },
+    {
+      "phrase": "How is + 人名?",
+      "usage": "询问第三方身体状况的句型",
+      "examples": [
+        {
+          "en": "How is Emma?",
+          "zh": "Emma 好吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "He's/She's fine thanks",
+      "usage": "回答第三方状况的常用表达",
+      "examples": [
+        {
+          "en": "He's fine, thanks.",
+          "zh": "他很好，谢谢。"
+        }
+      ]
+    },
+    {
+      "phrase": "Nice to see you",
+      "usage": "久别重逢时的问候语，表达见到对方很高兴",
+      "examples": [
+        {
+          "en": "Nice to see you.",
+          "zh": "很高兴见到你。"
+        }
+      ]
+    },
+    {
+      "phrase": "Goodbye",
+      "usage": "分别时的告别语",
+      "examples": [
+        {
+          "en": "Goodbye, Helen.",
+          "zh": "再见，Helen。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "How are you? 询问身体状况句型",
+      "definition": "How are you? 是英语中询问他人身体或状况的常用问候语，属于特殊疑问句",
+      "structure": "How + am/is/are + 主语 + (today)?",
+      "usage": "用于日常问候，可根据对象选择 am/is/are",
+      "examples": [
+        {
+          "en": "How are you today?",
+          "zh": "你今天好吗？"
+        },
+        {
+          "en": "How is he?",
+          "zh": "他好吗？"
+        },
+        {
+          "en": "How are they?",
+          "zh": "他们好吗？"
+        }
+      ]
+    },
+    {
+      "title": "Be动词引导的一般疑问句",
+      "definition": "将 Be 动词（am/is/are）提前到句首构成的疑问句，必须用 Yes 或 No 回答",
+      "structure": "Am/Is/Are + 主语 + 形容词/副词?",
+      "usage": "用于询问某人或某物的状态、状况",
+      "examples": [
+        {
+          "en": "Are you well today?",
+          "zh": "你今天身体好吗？"
+        },
+        {
+          "en": "Is Emma fine?",
+          "zh": "Emma 好吗？"
+        }
+      ]
+    },
+    {
+      "title": "Too 的用法",
+      "definition": "too 是副词，意为\"也\"，用于肯定句末，通常用逗号与前文隔开",
+      "structure": "主语 + 动词 + 其他 + too.",
+      "usage": "表示与前面提到的情况相同，用于肯定句和疑问句的肯定回答后",
+      "examples": [
+        {
+          "en": "I'm well, and she's well too.",
+          "zh": "我很好，她也很好。"
+        },
+        {
+          "en": "Nice to see you too.",
+          "zh": "也很高兴见到你。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "How are you today?",
+      "original": {
+        "en": "How are you today?",
+        "zh": "你今天好吗？"
+      },
+      "imitations": [
+        {
+          "en": "How are you tomorrow?",
+          "zh": "你明天好吗？"
+        },
+        {
+          "en": "How are you this morning?",
+          "zh": "你今天上午好吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "I'm + 形容词",
+      "original": {
+        "en": "I'm very well, thank you.",
+        "zh": "我非常好，谢谢你。"
+      },
+      "imitations": [
+        {
+          "en": "I'm fine, thanks.",
+          "zh": "我很好，谢谢。"
+        },
+        {
+          "en": "I'm not bad.",
+          "zh": "我还不错。"
+        }
+      ]
+    },
+    {
+      "pattern": "How is + 人名?",
+      "original": {
+        "en": "How is Emma?",
+        "zh": "Emma 好吗？"
+      },
+      "imitations": [
+        {
+          "en": "How is Tom?",
+          "zh": "Tom 好吗？"
+        },
+        {
+          "en": "How is your mother?",
+          "zh": "你妈妈好吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "Nice to see you",
+      "original": {
+        "en": "Nice to see you.",
+        "zh": "很高兴见到你。"
+      },
+      "imitations": [
+        {
+          "en": "Nice to see you again.",
+          "zh": "很高兴再次见到你。"
+        },
+        {
+          "en": "Nice to see you too.",
+          "zh": "我也很高兴见到你。"
+        }
+      ]
+    }
+  ]
+}

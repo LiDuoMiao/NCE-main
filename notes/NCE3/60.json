@@ -1,0 +1,434 @@
+{
+  "book": "NCE3",
+  "lesson": "60",
+  "title": "Lesson 60",
+  "vocabulary": [
+    {
+      "word": "punctuality",
+      "phonetic": "/ˌpʌŋktʃuˈæləti/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "准时；守时",
+          "usage": "指按时到达或完成某事的习惯"
+        },
+        {
+          "pos": "noun",
+          "meaning": "准时性",
+          "usage": "强调时间观念的重要性"
+        }
+      ]
+    },
+    {
+      "word": "civilized",
+      "phonetic": "/ˈsɪvəlaɪzd/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "文明的；有教养的",
+          "usage": "形容社会或个人具有良好行为规范"
+        },
+        {
+          "pos": "adj",
+          "meaning": "开化的",
+          "usage": "指社会发展到较高阶段"
+        }
+      ]
+    },
+    {
+      "word": "tolerance",
+      "phonetic": "/ˈtɒlərəns/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "宽容；容忍",
+          "usage": "指对不同意见或行为的宽恕态度"
+        },
+        {
+          "pos": "noun",
+          "meaning": "忍耐力",
+          "usage": "指对困难或不适的承受程度"
+        }
+      ]
+    },
+    {
+      "word": "abstruse",
+      "phonetic": "/æbˈstruːs/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "难懂的；深奥的",
+          "usage": "形容复杂难理解的事物，常用于学术或科学问题"
+        }
+      ]
+    },
+    {
+      "word": "reproach",
+      "phonetic": "/rɪˈprəʊtʃ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "责备；批评",
+          "usage": "指对某人表示不满或指责"
+        },
+        {
+          "pos": "noun",
+          "meaning": "责备；羞耻",
+          "usage": "指责备的话语或状态"
+        }
+      ]
+    },
+    {
+      "word": "industrious",
+      "phonetic": "/ɪnˈdʌstriəs/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "勤奋的；勤劳的",
+          "usage": "形容工作努力、认真的人"
+        }
+      ]
+    },
+    {
+      "word": "nuisance",
+      "phonetic": "/ˈnjuːsəns/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "令人讨厌的人/事物",
+          "usage": "指造成麻烦或不便的人或事"
+        },
+        {
+          "pos": "noun",
+          "meaning": "损害；妨害",
+          "usage": "法律用语中指侵害行为"
+        }
+      ]
+    },
+    {
+      "word": "fraction",
+      "phonetic": "/ˈfrækʃən/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "小部分；少量",
+          "usage": "指整体中的一小部分"
+        },
+        {
+          "pos": "noun",
+          "meaning": "分数",
+          "usage": "数学术语"
+        }
+      ]
+    },
+    {
+      "word": "luggage",
+      "phonetic": "/ˈlʌɡɪdʒ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "行李",
+          "usage": "指旅行时携带的箱包等物品"
+        }
+      ]
+    },
+    {
+      "word": "flourish",
+      "phonetic": "/ˈflʌrɪʃ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "夸张的动作；挥舞",
+          "usage": "指引人注意的戏剧性动作"
+        },
+        {
+          "pos": "verb",
+          "meaning": "繁荣；兴旺",
+          "usage": "指事物发展繁荣"
+        }
+      ]
+    },
+    {
+      "word": "microscopic",
+      "phonetic": "/ˌmaɪkrəˈskɒpɪk/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "极小的；微小的",
+          "usage": "形容非常小以至于难以察觉的事物"
+        }
+      ]
+    },
+    {
+      "word": "destination",
+      "phonetic": "/ˌdestɪˈneɪʃən/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "目的地；终点",
+          "usage": "指旅行或运输的最终目的地"
+        }
+      ]
+    },
+    {
+      "word": "impress",
+      "phonetic": "/ɪmˈpres/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "使印象深刻；使铭记",
+          "usage": "强调某事在某人心中的深刻印象"
+        },
+        {
+          "pos": "verb",
+          "meaning": "印；压印",
+          "usage": "本意，指在表面上压出图案"
+        }
+      ]
+    },
+    {
+      "word": "porter",
+      "phonetic": "/ˈpɔːtə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "搬运工；行李员",
+          "usage": "指在车站、机场等帮人搬行李的人"
+        }
+      ]
+    },
+    {
+      "word": "adament",
+      "phonetic": "/ˈædəmənt/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "坚决的；固执的",
+          "usage": "形容态度坚决，不愿改变主意"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "bring to a conclusion",
+      "usage": "使结束；得出结论，指完成某事或做出决定",
+      "examples": [
+        {
+          "en": "Only in this way can we bring the matter to a conclusion.",
+          "zh": "只有这样我们才能结束这件事。"
+        }
+      ]
+    },
+    {
+      "phrase": "in a state of chaos",
+      "usage": "处于混乱状态，形容无秩序、混乱的局面",
+      "examples": [
+        {
+          "en": "Without rules, everything would be in a state of chaos.",
+          "zh": "没有规则，一切都会陷入混乱。"
+        }
+      ]
+    },
+    {
+      "phrase": "cut things fine",
+      "usage": "把时间扣得很紧，指在最后时刻才完成任务或到达",
+      "examples": [
+        {
+          "en": "He always cuts things fine when catching trains.",
+          "zh": "他赶火车时总是把时间扣得很紧。"
+        }
+      ]
+    },
+    {
+      "phrase": "set out",
+      "usage": "出发；动身，指开始旅程或着手做某事",
+      "examples": [
+        {
+          "en": "They set out for the station early in the morning.",
+          "zh": "他们一大早就出发去车站了。"
+        }
+      ]
+    },
+    {
+      "phrase": "impress upon",
+      "usage": "使深刻印象；叮嘱，强调某事的重要性让某人记住",
+      "examples": [
+        {
+          "en": "Her parents impressed upon her that punctuality was important.",
+          "zh": "她的父母让她深刻记住准时的重要性。"
+        }
+      ]
+    },
+    {
+      "phrase": "point out",
+      "usage": "指出；指明，用于提示或解释某事",
+      "examples": [
+        {
+          "en": "The station master pointed out the mistake on the timetable.",
+          "zh": "站长指出时刻表上的错误。"
+        }
+      ]
+    },
+    {
+      "phrase": "slip into",
+      "usage": "溜进；悄悄进入，指不引人注意地进入某处",
+      "examples": [
+        {
+          "en": "She tried to slip into the train before it left.",
+          "zh": "她试图在火车开走前溜进去。"
+        }
+      ]
+    },
+    {
+      "phrase": "to her horror",
+      "usage": "使她恐惧的是，用于引出令人害怕或震惊的情况",
+      "examples": [
+        {
+          "en": "To her horror, the train had already left.",
+          "zh": "使她恐惧的是，火车已经开走了。"
+        }
+      ]
+    },
+    {
+      "phrase": "as much...as",
+      "usage": "和...一样（用于比较），强调两者在某方面程度相同",
+      "examples": [
+        {
+          "en": "The over-punctual can be as much a trial as the unpunctual.",
+          "zh": "过于准时的人和不准时的人一样让人头疼。"
+        }
+      ]
+    },
+    {
+      "phrase": "be unforgivable",
+      "usage": "不可原谅的，指错误严重到无法被原谅",
+      "examples": [
+        {
+          "en": "It would be unforgivable to miss the train.",
+          "zh": "错过这班火车将是不可原谅的。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "条件句 (If引导的真实条件句)",
+      "definition": "表示真实可能发生的情况，使用if引导的条件状语从句",
+      "structure": "If + 一般现在时, 主语 + will/won't + 动词原形",
+      "usage": "用于讨论可能发生的真实情况，提出假设或条件",
+      "examples": [
+        {
+          "en": "If no accidents occur on the way, they will be on time.",
+          "zh": "如果路上没有事故，他们会准时到达。"
+        },
+        {
+          "en": "If you are catching a train, it is better to be early.",
+          "zh": "如果你要赶火车，最好早一点。"
+        }
+      ]
+    },
+    {
+      "title": "Only + 状语 置于句首的倒装",
+      "definition": "当only置于句首修饰状语时，句子需要部分倒装",
+      "structure": "Only + 状语 + be/助动词/情态动词 + 主语 + 其他",
+      "usage": "强调条件或方式，突出唯一性",
+      "examples": [
+        {
+          "en": "Only in a sparsely-populated rural community is it possible to disregard punctuality.",
+          "zh": "只有在人口稀少的农村社区才可能忽视守时。"
+        },
+        {
+          "en": "Only then did she realize her mistake.",
+          "zh": "直到那时她才意识到自己的错误。"
+        }
+      ]
+    },
+    {
+      "title": "too...to... 结构",
+      "definition": "表示太...以至于不能...，too后接形容词，to后接动词原形",
+      "structure": "too + 形容词/副词 + (for sb.) + to do sth.",
+      "usage": "表达程度过高导致不可能实现的情况",
+      "examples": [
+        {
+          "en": "She was two hours too early.",
+          "zh": "她早了两个小时。"
+        },
+        {
+          "en": "It is too difficult for a child to understand.",
+          "zh": "这对一个孩子来说太难理解了。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "It is + adj. + for sb. + to do sth.",
+      "original": {
+        "en": "It is hard for energetic, quick-minded people to waste time.",
+        "zh": "对于精力充沛、思维敏捷的人来说，浪费时间是很困难的。"
+      },
+      "imitations": [
+        {
+          "en": "It is necessary for us to be punctual.",
+          "zh": "对我们来说守时是必要的。"
+        },
+        {
+          "en": "It is important for students to practice English every day.",
+          "zh": "对学生来说每天练习英语是重要的。"
+        }
+      ]
+    },
+    {
+      "pattern": "Only in + 地点/时间 + is it possible to...",
+      "original": {
+        "en": "Only in a sparsely-populated rural community is it possible to disregard it.",
+        "zh": "只有在人口稀少的农村社区才可能忽视它。"
+      },
+      "imitations": [
+        {
+          "en": "Only in this way can we solve the problem.",
+          "zh": "只有用这种方法我们才能解决问题。"
+        },
+        {
+          "en": "Only in Beijing can you see such historical sites.",
+          "zh": "只有在北京你才能看到这样的历史遗迹。"
+        }
+      ]
+    },
+    {
+      "pattern": "The + adj. + can be as much...as...",
+      "original": {
+        "en": "The over-punctual can be as much a trial to others as the unpunctual.",
+        "zh": "过于准时的人和不准时的人一样让人头疼。"
+      },
+      "imitations": [
+        {
+          "en": "The rich can be as unhappy as the poor.",
+          "zh": "富人和穷人一样可能不快乐。"
+        },
+        {
+          "en": "Being early can be as bad as being late.",
+          "zh": "来得太早和迟到一样糟糕。"
+        }
+      ]
+    },
+    {
+      "pattern": "It would be + 形容词 + to do sth.",
+      "original": {
+        "en": "It would be unforgivable to miss it.",
+        "zh": "错过它将是不可原谅的。"
+      },
+      "imitations": [
+        {
+          "en": "It would be foolish to give up now.",
+          "zh": "现在放弃是愚蠢的。"
+        },
+        {
+          "en": "It would be wise to arrive early.",
+          "zh": "早点到是明智的。"
+        }
+      ]
+    }
+  ]
+}

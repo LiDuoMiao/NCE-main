@@ -1,0 +1,412 @@
+{
+  "book": "NCE1",
+  "lesson": "069-070",
+  "title": "Lesson 69",
+  "vocabulary": [
+    {
+      "word": "race",
+      "phonetic": "/reɪs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "比赛，竞赛",
+          "usage": "指速度竞赛，如汽车比赛、马拉松等"
+        },
+        {
+          "pos": "verb",
+          "meaning": "参加比赛",
+          "usage": "作动词时表示参加竞赛或快速移动"
+        }
+      ]
+    },
+    {
+      "word": "crowd",
+      "phonetic": "/kraʊd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "人群",
+          "usage": "指聚集在一起的一群人"
+        }
+      ]
+    },
+    {
+      "word": "exciting",
+      "phonetic": "/ɪkˈsaɪtɪŋ/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "令人兴奋的，激动人心的",
+          "usage": "描述让人感到兴奋的事物，是动词excite的-ing形式"
+        }
+      ]
+    },
+    {
+      "word": "finish",
+      "phonetic": "/ˈfɪnɪʃ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "终点，结束",
+          "usage": "指比赛的终点或某事的结束部分"
+        },
+        {
+          "pos": "verb",
+          "meaning": "完成，结束",
+          "usage": "表示完成某事或到达终点"
+        }
+      ]
+    },
+    {
+      "word": "winner",
+      "phonetic": "/ˈwɪnə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "获胜者，冠军",
+          "usage": "指比赛或竞争中的第一名"
+        }
+      ]
+    },
+    {
+      "word": "behind",
+      "phonetic": "/bɪˈhaɪnd/",
+      "meanings": [
+        {
+          "pos": "prep",
+          "meaning": "在...后面",
+          "usage": "表示位置或时间上的落后"
+        }
+      ]
+    },
+    {
+      "word": "quickly",
+      "phonetic": "/ˈkwɪkli/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "快速地，迅速地",
+          "usage": "副词，修饰动词，表示动作进行的速度"
+        }
+      ]
+    },
+    {
+      "word": "drive",
+      "phonetic": "/draɪv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "驾驶，开车",
+          "usage": "指操控车辆的行为"
+        }
+      ]
+    },
+    {
+      "word": "hundreds of",
+      "phonetic": "/ˈhʌndrədz əv/",
+      "meanings": [
+        {
+          "pos": "phrase",
+          "meaning": "数百的，许多的",
+          "usage": "表示不确定的大数量，后面接可数名词复数"
+        }
+      ]
+    },
+    {
+      "word": "standing",
+      "phonetic": "/ˈstændɪŋ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "站立（stand的现在分词）",
+          "usage": "表示持续站着的动作状态"
+        }
+      ]
+    },
+    {
+      "word": "left",
+      "phonetic": "/left/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "左边，左侧",
+          "usage": "on the left表示在左边"
+        }
+      ]
+    },
+    {
+      "word": "Japanese",
+      "phonetic": "/ˌdʒæpəˈniːz/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "日本的，日本人的",
+          "usage": "形容词，表示与日本相关的"
+        }
+      ]
+    },
+    {
+      "word": "German",
+      "phonetic": "/ˈdʒɜːmən/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "德国的，德国人的",
+          "usage": "形容词，表示与德国相关的"
+        }
+      ]
+    },
+    {
+      "word": "French",
+      "phonetic": "/frentʃ/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "法国的，法国人的",
+          "usage": "形容词，表示与法国相关的"
+        }
+      ]
+    },
+    {
+      "word": "American",
+      "phonetic": "/əˈmerɪkən/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "美国的，美国人的",
+          "usage": "形容词，表示与美国相关的"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "at the race",
+      "usage": "在比赛现场，观看比赛",
+      "examples": [
+        {
+          "en": "We were at the race yesterday.",
+          "zh": "我们昨天在比赛现场。"
+        }
+      ]
+    },
+    {
+      "phrase": "on the way home",
+      "usage": "在回家的路上",
+      "examples": [
+        {
+          "en": "I bought some food on the way home.",
+          "zh": "我在回家的路上买了一些食物。"
+        }
+      ]
+    },
+    {
+      "phrase": "in the crowd",
+      "usage": "在人群中",
+      "examples": [
+        {
+          "en": "You can see us in the crowd.",
+          "zh": "你可以在人群中看到我们。"
+        }
+      ]
+    },
+    {
+      "phrase": "on the left",
+      "usage": "在左边，在左侧",
+      "examples": [
+        {
+          "en": "We are standing on the left.",
+          "zh": "我们站在左边。"
+        }
+      ]
+    },
+    {
+      "phrase": "just behind",
+      "usage": "就在...后面，紧随其后",
+      "examples": [
+        {
+          "en": "Five other cars were just behind him.",
+          "zh": "其他五辆车紧随其后。"
+        }
+      ]
+    },
+    {
+      "phrase": "hundreds of people",
+      "usage": "数百人，许多人",
+      "examples": [
+        {
+          "en": "There were hundreds of people there.",
+          "zh": "那里有数百人。"
+        }
+      ]
+    },
+    {
+      "phrase": "drive so quickly",
+      "usage": "开得这么快（用于口语叮嘱）",
+      "examples": [
+        {
+          "en": "Don't drive so quickly!",
+          "zh": "别开这么快！"
+        }
+      ]
+    },
+    {
+      "phrase": "an exciting finish",
+      "usage": "激动人心的终点/结局",
+      "examples": [
+        {
+          "en": "It was an exciting finish to the race.",
+          "zh": "比赛的结果激动人心。"
+        }
+      ]
+    },
+    {
+      "phrase": "in car number fifteen",
+      "usage": "在15号车里",
+      "examples": [
+        {
+          "en": "He was in car number fifteen.",
+          "zh": "他在15号车里。"
+        }
+      ]
+    },
+    {
+      "phrase": "There were...",
+      "usage": "表示某地有某物（过去式）",
+      "examples": [
+        {
+          "en": "There were twenty cars in the race.",
+          "zh": "比赛中有20辆车。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "There be句型的过去式",
+      "definition": "There be句型用于表示某地存在某人或某物，过去式分别用There was（单数）和There were（复数）",
+      "structure": "There was/were + 名词 + 地点/时间",
+      "usage": "描述过去某处存在的人或物，注意there was后接单数名词，there were后接复数名词",
+      "examples": [
+        {
+          "en": "There was a very big race in 1995.",
+          "zh": "1995年有一场非常大的比赛。"
+        },
+        {
+          "en": "There were twenty cars in the race.",
+          "zh": "比赛中有20辆车。"
+        },
+        {
+          "en": "There were hundreds of people there.",
+          "zh": "那里有数百人。"
+        }
+      ]
+    },
+    {
+      "title": "一般过去时（Simple Past Tense）",
+      "definition": "表示过去某一时间发生的动作或存在的状态，动词用过去式",
+      "structure": "主语 + 动词过去式 + 其他",
+      "usage": "描述过去发生的事情，常见的过去式变化包括：规则动词加-ed，不规则动词需单独记忆",
+      "examples": [
+        {
+          "en": "The winner was Billy Stewart.",
+          "zh": "获胜者是Billy Stewart。"
+        },
+        {
+          "en": "My wife and I were at the race.",
+          "zh": "我和妻子在比赛现场。"
+        },
+        {
+          "en": "She said to me, 'Don't drive so quickly!'",
+          "zh": "她对我说：'别开这么快！'"
+        }
+      ]
+    },
+    {
+      "title": "方位表达：on the left/right",
+      "definition": "表示在某物的左边或右边",
+      "structure": "on the left / on the right",
+      "usage": "用于描述位置，常与standing、sitting等动词连用",
+      "examples": [
+        {
+          "en": "We are standing on the left.",
+          "zh": "我们站在左边。"
+        },
+        {
+          "en": "The shop is on the right side of the street.",
+          "zh": "那家商店在街道右边。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "There was/were + 数量词 + 名词...",
+      "original": {
+        "en": "There were twenty cars in the race.",
+        "zh": "比赛中有20辆车。"
+      },
+      "imitations": [
+        {
+          "en": "There was a big supermarket near our house.",
+          "zh": "我们家附近有一家大超市。"
+        },
+        {
+          "en": "There were fifty students in the classroom.",
+          "zh": "教室里有50名学生。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + was/were + 地点...",
+      "original": {
+        "en": "Our friends Julie and Jack were there, too.",
+        "zh": "我们的朋友Julie和Jack也在那里。"
+      },
+      "imitations": [
+        {
+          "en": "I was at the cinema yesterday.",
+          "zh": "我昨天在电影院。"
+        },
+        {
+          "en": "They were at the party last night.",
+          "zh": "他们昨晚在派对上。"
+        }
+      ]
+    },
+    {
+      "pattern": "Don't + 动词原形 + so + 副词！",
+      "original": {
+        "en": "Don't drive so quickly!",
+        "zh": "别开这么快！"
+      },
+      "imitations": [
+        {
+          "en": "Don't speak so fast!",
+          "zh": "别说得这么快！"
+        },
+        {
+          "en": "Don't eat so much!",
+          "zh": "别吃这么多！"
+        }
+      ]
+    },
+    {
+      "pattern": "be + in + 编号 + 名词",
+      "original": {
+        "en": "He was in car number fifteen.",
+        "zh": "他在15号车里。"
+      },
+      "imitations": [
+        {
+          "en": "She was in room number 302.",
+          "zh": "她在302号房间。"
+        },
+        {
+          "en": "I was in bus number 7.",
+          "zh": "我在7路公交车上。"
+        }
+      ]
+    }
+  ]
+}

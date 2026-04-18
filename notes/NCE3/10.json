@@ -1,0 +1,355 @@
+{
+  "book": "NCE3",
+  "lesson": "10",
+  "title": "Lesson 10",
+  "vocabulary": [
+    {
+      "word": "colossal",
+      "phonetic": "/kəˈlɒsl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "巨大的，庞大的",
+          "usage": "通常用来形容体积、规模、程度等异常巨大的事物，语义比large、big强烈"
+        }
+      ]
+    },
+    {
+      "word": "watertight",
+      "phonetic": "/ˈwɔːtətaɪt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "不漏水的，水密的",
+          "usage": "多用来形容容器、隔间等结构不会进水，也可引申指计划、论点等无懈可击的"
+        }
+      ]
+    },
+    {
+      "word": "compartment",
+      "phonetic": "/kəmˈpɑːtmənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "隔间，舱",
+          "usage": "指交通工具、容器等内部被分隔出的独立空间，也可指火车的包厢"
+        }
+      ]
+    },
+    {
+      "word": "float",
+      "phonetic": "/fləʊt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "漂浮，浮动",
+          "usage": "指物体在液体表面漂浮不沉，也可指在空气中悬浮"
+        }
+      ]
+    },
+    {
+      "word": "tragic",
+      "phonetic": "/ˈtrædʒɪk/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "悲惨的，悲剧的",
+          "usage": "用来形容事件、结局等令人悲痛、造成不幸的"
+        }
+      ]
+    },
+    {
+      "word": "liner",
+      "phonetic": "/ˈlaɪnə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "大型客轮，班轮",
+          "usage": "指定期航行的大型客运轮船，也可指眼线笔等化妆品"
+        }
+      ]
+    },
+    {
+      "word": "voyage",
+      "phonetic": "/ˈvɔɪɪdʒ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "航行，航海，航天旅行",
+          "usage": "侧重指长途的海上或太空旅行，区别于短途的trip"
+        }
+      ]
+    },
+    {
+      "word": "icy",
+      "phonetic": "/ˈaɪsi/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "冰冷的，冰封的",
+          "usage": "可以形容温度极低，也可形容表面覆盖着冰的"
+        }
+      ]
+    },
+    {
+      "word": "lookout",
+      "phonetic": "/ˈlʊkaʊt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "瞭望员，守望者",
+          "usage": "指负责观察警戒的人员，也可指瞭望台"
+        }
+      ]
+    },
+    {
+      "word": "collision",
+      "phonetic": "/kəˈlɪʒn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "碰撞，相撞",
+          "usage": "指交通工具等的相撞，也可引申指观点、利益的冲突"
+        }
+      ]
+    },
+    {
+      "word": "narrowly",
+      "phonetic": "/ˈnærəʊli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "勉强地，险些",
+          "usage": "常用来修饰miss、escape等词，表示差一点就发生不好的事"
+        }
+      ]
+    },
+    {
+      "word": "immense",
+      "phonetic": "/ɪˈmens/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "巨大的，广大的",
+          "usage": "强调体积、数量、程度等大到难以测量"
+        }
+      ]
+    },
+    {
+      "word": "trembling",
+      "phonetic": "/ˈtremblɪŋ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "颤抖，震动",
+          "usage": "指物体或人的轻微抖动，也可作形容词表示颤抖的"
+        }
+      ]
+    },
+    {
+      "word": "faint",
+      "phonetic": "/feɪnt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "微弱的，模糊的",
+          "usage": "可以形容声音、光线、气味等不清晰、强度低，也可指人快要昏厥的"
+        }
+      ]
+    },
+    {
+      "word": "plunge",
+      "phonetic": "/plʌndʒ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "猛跳，纵身投入",
+          "usage": "指快速、猛地跳入某处，也可表示价格、数量骤降"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "sail for",
+      "usage": "表示船只、水手等启航前往某地，后接目的地",
+      "examples": [
+        {
+          "en": "The ship will sail for Sydney next week.",
+          "zh": "这艘船将于下周启航前往悉尼。"
+        }
+      ]
+    },
+    {
+      "phrase": "by ... standards",
+      "usage": "表示“按照……的标准”，用来引出判断事物的参考依据",
+      "examples": [
+        {
+          "en": "By today's standards, this old phone is almost useless.",
+          "zh": "按照如今的标准，这部旧手机几乎没什么用了。"
+        }
+      ]
+    },
+    {
+      "phrase": "be regarded as",
+      "usage": "被动结构，表示“被认为是，被看作”，用来表达人们对某事物的普遍看法",
+      "examples": [
+        {
+          "en": "He is regarded as one of the best writers of his generation.",
+          "zh": "他被认为是他那一代人中最优秀的作家之一。"
+        }
+      ]
+    },
+    {
+      "phrase": "even if",
+      "usage": "引导让步状语从句，意为“即使，纵然”，用来引出假设的让步条件",
+      "examples": [
+        {
+          "en": "Even if it rains tomorrow, we will still hold the sports meeting.",
+          "zh": "即使明天下雨，我们还是会举办运动会。"
+        }
+      ]
+    },
+    {
+      "phrase": "go down",
+      "usage": "此处意为“（船）沉没”，还可表示下降、下跌、被记下等含义",
+      "examples": [
+        {
+          "en": "The small boat went down in the storm last night.",
+          "zh": "那艘小船在昨晚的暴风雨中沉没了。"
+        }
+      ]
+    },
+    {
+      "phrase": "set out",
+      "usage": "意为“出发，启程”，侧重开始一段长途旅行，也可表示着手做某事",
+      "examples": [
+        {
+          "en": "They set out before dawn to climb the mountain.",
+          "zh": "他们在黎明前就出发去爬山了。"
+        }
+      ]
+    },
+    {
+      "phrase": "in time",
+      "usage": "表示“及时”，指在约定或所需的时间之前完成动作，区别于on time（准时）",
+      "examples": [
+        {
+          "en": "The doctor arrived in time to save the injured man.",
+          "zh": "医生及时赶到，救下了受伤的男子。"
+        }
+      ]
+    },
+    {
+      "phrase": "to one's horror",
+      "usage": "插入语，意为“令某人惊恐的是”，用来表达某人得知某事时的恐惧情绪",
+      "examples": [
+        {
+          "en": "To his horror, he found his wallet missing at the airport.",
+          "zh": "令他惊恐的是，他在机场发现自己的钱包不见了。"
+        }
+      ]
+    },
+    {
+      "phrase": "abandon ship",
+      "usage": "固定表达，意为“弃船”，指船只遇险时船上人员撤离船只的命令或行为",
+      "examples": [
+        {
+          "en": "When the fire spread out of control, the captain gave the order to abandon ship.",
+          "zh": "当火势失去控制时，船长下达了弃船的命令。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "虚拟语气在条件状语从句中的用法（与过去事实相反）",
+      "definition": "用来表示与过去已经发生的事实相反的假设，假设的情况不可能真实发生，表达遗憾、推测等语气",
+      "structure": "If + 主语 + had + 过去分词, 主语 + would/could/should/might + have + 过去分词",
+      "usage": "从句描述过去并未发生的假设条件，主句描述该假设条件下会发生的与现实不同的结果",
+      "examples": [
+        {
+          "en": "What would have happened if only two of the 16 watertight compartments had been flooded?",
+          "zh": "如果16个水密舱中只有两个进水，会发生什么情况呢？"
+        },
+        {
+          "en": "If you had studied harder last term, you would have passed the final exam.",
+          "zh": "如果你上学期更努力学习，你就会通过期末考试了。"
+        }
+      ]
+    },
+    {
+      "title": "过去完成时的被动语态",
+      "definition": "表示在过去某个动作之前已经被完成的动作，强调被动关系和动作发生的“过去的过去”的时间属性",
+      "structure": "主语 + had been + 过去分词 + 其他",
+      "usage": "常出现在有明显过去时间参照的语境中，用来描述更早发生的被动动作",
+      "examples": [
+        {
+          "en": "After the alarm had been given, the great ship turned sharply to avoid a direct collision.",
+          "zh": "警报发出后，巨轮猛地转向以避免正面碰撞。"
+        },
+        {
+          "en": "All the tickets had been sold out when we arrived at the cinema.",
+          "zh": "我们到达电影院时，所有的票已经被卖光了。"
+        }
+      ]
+    },
+    {
+      "title": "so...that...引导的结果状语从句",
+      "definition": "用来表示“如此……以至于……”，so后接形容词或副词，that引导从句说明主句动作带来的结果",
+      "structure": "主语 + 谓语 + so + 形容词/副词 + that + 结果状语从句",
+      "usage": "用来强调程度，说明前面描述的性质或状态达到了某种程度，进而产生了从句中的结果",
+      "examples": [
+        {
+          "en": "The noise had been so faint that no one thought that the ship had been damaged.",
+          "zh": "声音太微弱了，以至于没人认为船已经受损。"
+        },
+        {
+          "en": "The book was so interesting that I stayed up all night reading it.",
+          "zh": "这本书太有趣了，以至于我熬了一整夜读它。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "At that time, however, ... was not only the ... that had ever been ..., but was regarded as ..., for ...",
+      "original": {
+        "en": "At that time, however, she was not only the largest ship that had ever been built, but was regarded as unsinkable, for she had sixteen watertight compartments.",
+        "zh": "然而，在当时，它不仅是有史以来建造的最大的轮船，还被认为是不会沉没的，因为它有16个水密舱。"
+      },
+      "imitations": [
+        {
+          "en": "At that time, however, the building was not only the tallest skyscraper that had ever been designed in the city, but was regarded as a symbol of modern architecture, for it adopted many new environmental technologies.",
+          "zh": "然而，在当时，这座建筑不仅是这座城市有史以来设计的最高的摩天大楼，还被看作是现代建筑的象征，因为它采用了许多新的环保技术。"
+        }
+      ]
+    },
+    {
+      "pattern": "The ... will always be remembered, for ...",
+      "original": {
+        "en": "The tragic sinking of this great liner will always be remembered, for she went down on her first voyage with heavy loss of life.",
+        "zh": "这艘巨轮的悲剧沉没将永远被铭记，因为它在首航时就沉没了，造成了惨重的生命损失。"
+      },
+      "imitations": [
+        {
+          "en": "The success of this historic mission will always be remembered, for it marked the first time humans landed on the moon.",
+          "zh": "这一历史性任务的成功将永远被铭记，因为它标志着人类首次登上月球。"
+        }
+      ]
+    },
+    {
+      "pattern": "As there were not enough ... for everybody, ...",
+      "original": {
+        "en": "As there were not enough life-boats for everybody, 1,500 lives were lost.",
+        "zh": "由于没有足够的救生艇容纳所有人，1500人丧生了。"
+      },
+      "imitations": [
+        {
+          "en": "As there were not enough tickets for everybody, many fans had to watch the match on the screen outside the stadium.",
+          "zh": "由于没有足够的票卖给所有人，很多粉丝只能在场馆外的屏幕上观看比赛。"
+        }
+      ]
+    }
+  ]
+}

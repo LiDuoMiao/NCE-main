@@ -1,0 +1,442 @@
+{
+  "book": "NCE3",
+  "lesson": "44",
+  "title": "Lesson 44",
+  "vocabulary": [
+    {
+      "word": "cramped",
+      "phonetic": "/kræmpt/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "meaning": "狭窄的；拥挤的",
+          "usage": "形容空间狭小而拥挤，通常指房间、车厢等地方"
+        }
+      ]
+    },
+    {
+      "word": "stuffy",
+      "phonetic": "/ˈstʌfi/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "meaning": "闷热的；通风不良的",
+          "usage": "形容空气不流通、令人感到闷热的环境"
+        }
+      ]
+    },
+    {
+      "word": "monotonous",
+      "phonetic": "/məˈnɒtənəs/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "meaning": "单调的；乏味的",
+          "usage": "形容缺乏变化、令人感到无聊的事物"
+        }
+      ]
+    },
+    {
+      "word": "lull",
+      "phonetic": "/lʌl/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "使平静；使安静",
+          "usage": "指通过有节奏的声音或动作使人放松、想要入睡"
+        }
+      ]
+    },
+    {
+      "word": "sleeper",
+      "phonetic": "/ˈsliːpə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "卧铺；卧铺车厢",
+          "usage": "特指火车上的卧铺座位或卧铺车厢"
+        }
+      ]
+    },
+    {
+      "word": "fumble",
+      "phonetic": "/ˈfʌmbl/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "摸索；胡乱摸索",
+          "usage": "指在黑暗中或不方便的情况下笨拙地寻找东西"
+        }
+      ]
+    },
+    {
+      "word": "inevitably",
+      "phonetic": "/ɪnˈevɪtəbli/",
+      "meanings": [
+        {
+          "pos": "adv.",
+          "meaning": "不可避免地；必然地",
+          "usage": "修饰动词，表示某事必然会发生"
+        }
+      ]
+    },
+    {
+      "word": "motorway",
+      "phonetic": "/ˈməʊtəweɪ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "高速公路",
+          "usage": "英国英语，指专供机动车辆高速行驶的公路"
+        }
+      ]
+    },
+    {
+      "word": "ferry",
+      "phonetic": "/ˈferi/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "渡船；渡轮",
+          "usage": "指运送人、车等穿过河流、海峡等水域的船"
+        }
+      ]
+    },
+    {
+      "word": "intimidate",
+      "phonetic": "/ɪnˈtɪmɪdeɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "恐吓；使害怕",
+          "usage": "指通过威胁或气势使人感到害怕或胆怯"
+        }
+      ]
+    },
+    {
+      "word": "exhilarating",
+      "phonetic": "/ɪɡˈzɪləreɪtɪŋ/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "meaning": "令人兴奋的；使人高兴的",
+          "usage": "形容令人感到非常兴奋和愉悦的体验"
+        }
+      ]
+    },
+    {
+      "word": "soar",
+      "phonetic": "/sɔː/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "高飞；翱翔",
+          "usage": "指鸟或飞机在高空中飞翔，也可用于抽象意义"
+        }
+      ]
+    },
+    {
+      "word": "breathtaking",
+      "phonetic": "/ˈbreθteɪkɪŋ/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "meaning": "令人惊叹的；惊人的",
+          "usage": "形容景色或事物极其壮观、美得令人屏息"
+        }
+      ]
+    },
+    {
+      "word": "escapist",
+      "phonetic": "/ɪˈskeɪpɪst/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "逃避现实者；追求逃避的人",
+          "usage": "指喜欢逃避现实、追求消遣娱乐的人"
+        }
+      ]
+    },
+    {
+      "word": "uncrumpled",
+      "phonetic": "/ʌnˈkrʌmpəld/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "meaning": "未弄皱的；精神饱满的",
+          "usage": "指人到达目的地后依然精神焕发、精力充沛"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "take your mind off",
+      "usage": "转移注意力；使不再想某事",
+      "examples": [
+        {
+          "en": "Reading is only a partial solution, for the monotonous rhythm of the wheels clicking on the rails soon lull you to sleep.",
+          "zh": "阅读只是部分解决办法，因为车轮撞击铁轨的单调节奏很快就会让你昏昏欲睡。"
+        },
+        {
+          "en": "He tried to take his mind off the problem by watching TV.",
+          "zh": "他试图通过看电视来转移注意力，不再想那个问题。"
+        }
+      ]
+    },
+    {
+      "phrase": "come in snatches",
+      "usage": "断断续续地；时有时无地",
+      "examples": [
+        {
+          "en": "During the day, sleep comes in snatches.",
+          "zh": "白天的时候，睡眠断断续续。"
+        },
+        {
+          "en": "We only got the information in snatches.",
+          "zh": "我们只是断断续续地得到这些信息。"
+        }
+      ]
+    },
+    {
+      "phrase": "by comparison",
+      "usage": "相比之下；比较起来",
+      "examples": [
+        {
+          "en": "By comparison, ferry trips or cruises offer a great variety of civilized comforts.",
+          "zh": "相比之下，渡船旅行或游轮提供了多种多样的文明享受。"
+        },
+        {
+          "en": "By comparison, city life is more exciting.",
+          "zh": "相比之下，城市生活更加精彩。"
+        }
+      ]
+    },
+    {
+      "phrase": "stretch your legs",
+      "usage": "伸展双腿；走动活动",
+      "examples": [
+        {
+          "en": "You can stretch your legs on the spacious decks, play games, meet interesting people and enjoy good food.",
+          "zh": "你可以在宽敞的甲板上伸展双腿、做游戏、结识有趣的人、享用美食。"
+        },
+        {
+          "en": "We've been driving for hours. Let's stop and stretch our legs.",
+          "zh": "我们已经开了几个小时的车了，停下来活动一下吧。"
+        }
+      ]
+    },
+    {
+      "phrase": "have the reputation of",
+      "usage": "有...的名声/声誉",
+      "examples": [
+        {
+          "en": "Aeroplanes have the reputation of being dangerous and even hardened travellers are intimidated by them.",
+          "zh": "飞机有危险的名声，甚至老练的旅行者也对其感到畏惧。"
+        },
+        {
+          "en": "She has the reputation of being very reliable.",
+          "zh": "她有非常可靠的名声。"
+        }
+      ]
+    },
+    {
+      "phrase": "settle back",
+      "usage": "放松地坐好；靠回椅背",
+      "examples": [
+        {
+          "en": "For a few hours, you settle back in a deep armchair to enjoy the flight.",
+          "zh": "在几个小时内，你可以靠在扶手椅上享受飞行。"
+        },
+        {
+          "en": "Settle back and enjoy the show.",
+          "zh": "坐好享受演出吧。"
+        }
+      ]
+    },
+    {
+      "phrase": "prevent sb. from doing sth.",
+      "usage": "阻止某人做某事",
+      "examples": [
+        {
+          "en": "The journey is so smooth that there is nothing to prevent you from reading or sleeping.",
+          "zh": "旅途如此平稳，没有什么能阻止你阅读或睡觉。"
+        },
+        {
+          "en": "Nothing can prevent me from achieving my goals.",
+          "zh": "没有什么能阻止我实现目标。"
+        }
+      ]
+    },
+    {
+      "phrase": "more often than not",
+      "usage": "经常；多半",
+      "examples": [
+        {
+          "en": "but more often than not, the greater part of the journey is spent on roads with few service stations and too much traffic.",
+          "zh": "但更多的时候，大部分旅程是在只有很少服务站和交通拥挤的道路上度过的。"
+        },
+        {
+          "en": "More often than not, she arrives late for meetings.",
+          "zh": "她开会经常迟到。"
+        }
+      ]
+    },
+    {
+      "phrase": "always assuming that",
+      "usage": "假设；只要是",
+      "examples": [
+        {
+          "en": "enjoy good food--always assuming, of course, that the sea is calm.",
+          "zh": "享用美食——当然，前提是海面平静。"
+        },
+        {
+          "en": "I'll help you, always assuming that you need my assistance.",
+          "zh": "我会帮你的，只要你需要我的帮助。"
+        }
+      ]
+    },
+    {
+      "phrase": "get sb. to somewhere",
+      "usage": "把某人送到某地",
+      "examples": [
+        {
+          "en": "An aeroplane gets you to your destination rapidly.",
+          "zh": "飞机会快速把你送到目的地。"
+        },
+        {
+          "en": "The bus will get you to the station on time.",
+          "zh": "公共汽车会把你准时送到车站。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "否定副词开头的倒装句 (Inversion with Negative Adverbs)",
+      "definition": "当否定副词或否定意义的词组位于句首时，句子需要使用部分倒装语序，即把助动词或be动词提到主语前面。",
+      "structure": "否定词 + 助动词/be动词 + 主语 + 动词原形...",
+      "usage": "用于强调否定意义，常见的否定词包括：hardly, never, rarely, seldom, not until, no sooner, little等。",
+      "examples": [
+        {
+          "en": "Hardly anyone can positively enjoy sitting in a train for more than a few hours.",
+          "zh": "几乎没有人能够真正享受连续坐几个小时的火车。"
+        },
+        {
+          "en": "Rarely do we see such a beautiful sunset.",
+          "zh": "我们很少见到如此美丽的日落。"
+        },
+        {
+          "en": "Never have I seen such a magnificent building.",
+          "zh": "我从未见过如此雄伟的建筑。"
+        }
+      ]
+    },
+    {
+      "title": "形式主语it (Formal Subject It)",
+      "definition": "用it作形式主语，而把真正的主语（通常是不定式、动名词或从句）放在句子后面，使句子更加平衡。",
+      "structure": "It + be + 形容词 + (for/of sb.) + to do sth.",
+      "usage": "当主语较长时，为了避免句子头重脚轻，使用形式主语it。",
+      "examples": [
+        {
+          "en": "It is almost impossible to take your mind off the journey.",
+          "zh": "几乎不可能使自己不想到旅途。"
+        },
+        {
+          "en": "It is difficult to learn a new language.",
+          "zh": "学习一门新语言是很难的。"
+        },
+        {
+          "en": "It is necessary for us to practice every day.",
+          "zh": "我们每天练习是必要的。"
+        }
+      ]
+    },
+    {
+      "title": "条件状语从句 (Conditional Clauses)",
+      "definition": "用于表达假设或条件的主从复合句，包括真实条件和虚拟条件。",
+      "structure": "If + 主语 + 动词..., 主语 + 动词/情态动词...",
+      "usage": "if引导的条件句可以表示真实条件或非真实（假设）的条件。",
+      "examples": [
+        {
+          "en": "If you are lucky enough to get a sleeper, you spend half the night staring at the small blue light.",
+          "zh": "如果你足够幸运得到了卧铺，你会花半天时间盯着天花板上蓝色的小灯。"
+        },
+        {
+          "en": "If it is not, and you are likely to get seasick, no form of transport could be worse.",
+          "zh": "如果海不平静，你可能会晕船，那么没有任何交通工具会比这更糟糕了。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Hardly anyone can + 动词原形...",
+      "original": {
+        "en": "Hardly anyone can positively enjoy sitting in a train for more than a few hours.",
+        "zh": "几乎没有人能够真正享受连续坐几个小时的火车。"
+      },
+      "imitations": [
+        {
+          "en": "Hardly anyone can resist the temptation of free food.",
+          "zh": "几乎没有人能抵制免费食物的诱惑。"
+        },
+        {
+          "en": "Hardly anyone can understand his complicated theory.",
+          "zh": "几乎没有人能理解他那套复杂的理论。"
+        }
+      ]
+    },
+    {
+      "pattern": "It is + 形容词 + to do sth.",
+      "original": {
+        "en": "It is almost impossible to take your mind off the journey.",
+        "zh": "几乎不可能使自己不想到旅途。"
+      },
+      "imitations": [
+        {
+          "en": "It is difficult to make a decision without all the facts.",
+          "zh": "没有全部事实很难做决定。"
+        },
+        {
+          "en": "It is necessary to arrive early for the interview.",
+          "zh": "提前到达面试是必要的。"
+        }
+      ]
+    },
+    {
+      "pattern": "By comparison, ...",
+      "original": {
+        "en": "By comparison, ferry trips or cruises offer a great variety of civilized comforts.",
+        "zh": "相比之下，渡船旅行或游轮提供了多种多样的文明享受。"
+      },
+      "imitations": [
+        {
+          "en": "By comparison, living in the countryside is much quieter.",
+          "zh": "相比之下，住在乡下要安静得多。"
+        },
+        {
+          "en": "By comparison, this restaurant offers better value for money.",
+          "zh": "相比之下，这家餐厅的性价比更高。"
+        }
+      ]
+    },
+    {
+      "pattern": "Nothing can + 动词原形 + ...",
+      "original": {
+        "en": "But nothing can match them for speed and comfort.",
+        "zh": "但就速度和舒适度而言，没有任何交通工具能比得上它们。"
+      },
+      "imitations": [
+        {
+          "en": "Nothing can replace the warmth of a mother's love.",
+          "zh": "没有什么能取代母爱的温暖。"
+        },
+        {
+          "en": "Nothing can prevent him from reaching his goals.",
+          "zh": "没有什么能阻止他实现目标。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,462 @@
+{
+  "book": "NCE1",
+  "lesson": "073-074",
+  "title": "Lesson 73",
+  "vocabulary": [
+    {
+      "word": "lost",
+      "phonetic": "/lɒst/",
+      "meanings": [
+        {
+          "pos": "verb (past tense of lose)",
+          "meaning": "迷路；失去",
+          "usage": "lose one's way 表示迷路，lose的过去式为lost"
+        }
+      ]
+    },
+    {
+      "word": "suddenly",
+      "phonetic": "/ˈsʌdənli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "突然地",
+          "usage": "表示事情发生得很意外，没有预兆"
+        }
+      ]
+    },
+    {
+      "word": "phrasebook",
+      "phonetic": "/ˈfreɪzbʊk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "短语手册；常用语手册",
+          "usage": "旅行者用的外语常用语手册"
+        }
+      ]
+    },
+    {
+      "word": "tourist",
+      "phonetic": "/ˈtʊərɪst/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "游客；旅行者",
+          "usage": "指去外地旅游的人"
+        }
+      ]
+    },
+    {
+      "word": "pocket",
+      "phonetic": "/ˈpɒkɪt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "口袋",
+          "usage": "衣服上的口袋，或口袋里的东西"
+        }
+      ]
+    },
+    {
+      "word": "German",
+      "phonetic": "/ˈdʒɜːmən/",
+      "meanings": [
+        {
+          "pos": "noun/adjective",
+          "meaning": "德语；德国的",
+          "usage": "作名词指德语，作形容词指德国的"
+        }
+      ]
+    },
+    {
+      "word": "pleasantly",
+      "phonetic": "/ˈplezəntli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "愉快地；亲切地",
+          "usage": "形容人微笑或说话时的态度"
+        }
+      ]
+    },
+    {
+      "word": "slowly",
+      "phonetic": "/ˈsləʊli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "缓慢地；慢慢地",
+          "usage": "修饰动词，表示动作的速度"
+        }
+      ]
+    },
+    {
+      "word": "bus stop",
+      "phonetic": "/bʌs stɒp/",
+      "meanings": [
+        {
+          "pos": "noun phrase",
+          "meaning": "公共汽车站",
+          "usage": "公交车停靠的地方"
+        }
+      ]
+    },
+    {
+      "word": "ask",
+      "phonetic": "/ɑːsk/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "问；请求",
+          "usage": "ask someone the way 向某人问路"
+        }
+      ]
+    },
+    {
+      "word": "tell",
+      "phonetic": "/tel/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "告诉；讲述",
+          "usage": "tell someone something 告诉某人某事"
+        }
+      ]
+    },
+    {
+      "word": "hand",
+      "phonetic": "/hænd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "手",
+          "usage": "人体部位，也可作动词表示递交"
+        }
+      ]
+    },
+    {
+      "word": "smile",
+      "phonetic": "/smaɪl/",
+      "meanings": [
+        {
+          "pos": "verb/noun",
+          "meaning": "微笑",
+          "usage": "可作动词或名词使用"
+        }
+      ]
+    },
+    {
+      "word": "open",
+      "phonetic": "/ˈəʊpən/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "打开",
+          "usage": "打开书、门、盒子等"
+        }
+      ]
+    },
+    {
+      "word": "find",
+      "phonetic": "/faɪnd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "找到；发现",
+          "usage": "find something 找到某物，过去式为found"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "lose one's way",
+      "usage": "迷路，指找不到要去的地方",
+      "examples": [
+        {
+          "en": "She lost her way in London.",
+          "zh": "她在伦敦迷路了。"
+        },
+        {
+          "en": "The tourists lost their way in the forest.",
+          "zh": "游客们在森林里迷路了。"
+        }
+      ]
+    },
+    {
+      "phrase": "ask someone the way",
+      "usage": "向某人问路",
+      "examples": [
+        {
+          "en": "I can ask him the way.",
+          "zh": "我可以向他问路。"
+        },
+        {
+          "en": "May I ask you the way to the station?",
+          "zh": "我可以向你问一下去车站的路吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "Can you tell me the way to...?",
+      "usage": "你能告诉我去...的路吗？用于礼貌地问路",
+      "examples": [
+        {
+          "en": "Can you tell me the way to King Street, please?",
+          "zh": "你能告诉我去国王街的路吗？"
+        },
+        {
+          "en": "Can you tell me the way to the museum?",
+          "zh": "你能告诉我去博物馆的路吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "Excuse me",
+      "usage": "打扰一下，用于引起注意或打扰别人前",
+      "examples": [
+        {
+          "en": "Excuse me, can you help me?",
+          "zh": "打扰一下，你能帮帮我吗？"
+        },
+        {
+          "en": "Excuse me, is this your pen?",
+          "zh": "打扰一下，这是你的钢笔吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "put one's hand into",
+      "usage": "把手伸进...里",
+      "examples": [
+        {
+          "en": "He put his hand into his pocket.",
+          "zh": "他把他的手伸进口袋里。"
+        },
+        {
+          "en": "She put her hand into the bag.",
+          "zh": "她把手伸进包里。"
+        }
+      ]
+    },
+    {
+      "phrase": "take out",
+      "usage": "拿出，取出",
+      "examples": [
+        {
+          "en": "He took out a phrasebook.",
+          "zh": "他拿出一本短语手册。"
+        },
+        {
+          "en": "She took out her keys.",
+          "zh": "她拿出钥匙。"
+        }
+      ]
+    },
+    {
+      "phrase": "I am sorry",
+      "usage": "对不起/很抱歉，用于道歉或表达遗憾",
+      "examples": [
+        {
+          "en": "I am sorry, I do not speak English.",
+          "zh": "对不起，我不会说英语。"
+        },
+        {
+          "en": "I am sorry, I am late.",
+          "zh": "对不起，我迟到了。"
+        }
+      ]
+    },
+    {
+      "phrase": "speak English",
+      "usage": "说英语，speak后接语言名称",
+      "examples": [
+        {
+          "en": "I do not speak English.",
+          "zh": "我不会说英语。"
+        },
+        {
+          "en": "Do you speak French?",
+          "zh": "你会说法语吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "said to oneself",
+      "usage": "自言自语",
+      "examples": [
+        {
+          "en": "She said to herself.",
+          "zh": "她自言自语。"
+        },
+        {
+          "en": "He thought to himself.",
+          "zh": "他心里想。"
+        }
+      ]
+    },
+    {
+      "phrase": "read slowly",
+      "usage": "慢慢地读",
+      "examples": [
+        {
+          "en": "He read the phrase slowly.",
+          "zh": "他慢慢地读那个短语。"
+        },
+        {
+          "en": "Please read the text slowly.",
+          "zh": "请慢慢地读这篇课文。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "一般过去时 (Past Simple Tense)",
+      "definition": "表示过去发生的动作或存在的状态，常与表示过去的时间状语连用，如last week, yesterday等。",
+      "structure": "主语 + 动词过去式 + 其他\n主语 + did not (didn't) + 动词原形 + 其他",
+      "usage": "用于叙述过去发生的事情，描述一系列按时间顺序发生的动作",
+      "examples": [
+        {
+          "en": "Last week Mrs. Mills went to London.",
+          "zh": "上周 Mills 夫人去了伦敦。"
+        },
+        {
+          "en": "She lost her way.",
+          "zh": "她迷路了。"
+        },
+        {
+          "en": "He did not understand English.",
+          "zh": "他不懂英语。"
+        },
+        {
+          "en": "He took out a phrasebook.",
+          "zh": "他拿出一本短语手册。"
+        }
+      ]
+    },
+    {
+      "title": "一般过去时的否定句和疑问句",
+      "definition": "否定句在动词前加did not (didn't)，动词恢复原形。疑问句将did提到句首。",
+      "structure": "否定句: 主语 + did not + 动词原形 + 其他\n一般疑问句: Did + 主语 + 动词原形 + 其他？",
+      "usage": "用于对过去发生的动作进行否定或提问",
+      "examples": [
+        {
+          "en": "He did not understand English.",
+          "zh": "他不懂英语。"
+        },
+        {
+          "en": "Did she lose her way?",
+          "zh": "她迷路了吗？"
+        },
+        {
+          "en": "Did he speak German?",
+          "zh": "他说德语吗？"
+        }
+      ]
+    },
+    {
+      "title": "一般过去时与一般现在时的对比",
+      "definition": "一般现在时描述习惯性或经常发生的动作；一般过去时描述过去发生的具体事件。",
+      "structure": "现在时: 主语 + 动词原形/三单形式\n过去时: 主语 + 动词过去式",
+      "usage": "在叙述故事时，背景描述用现在时，具体事件用过去时",
+      "examples": [
+        {
+          "en": "She does not know London very well.",
+          "zh": "她对伦敦不太熟悉。（现在时，描述一般状态）"
+        },
+        {
+          "en": "She lost her way.",
+          "zh": "她迷路了。（过去时，描述过去事件）"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Can you tell me the way to + 地点?",
+      "original": {
+        "en": "Can you tell me the way to King Street, please?",
+        "zh": "你能告诉我去国王街的路吗？"
+      },
+      "imitations": [
+        {
+          "en": "Can you tell me the way to the station?",
+          "zh": "你能告诉我去车站的路吗？"
+        },
+        {
+          "en": "Can you tell me the way to the airport?",
+          "zh": "你能告诉我去机场的路吗？"
+        },
+        {
+          "en": "Can you tell me the way to the museum?",
+          "zh": "你能告诉我去博物馆的路吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + 动词过去式 + 其他 (叙述过去事件)",
+      "original": {
+        "en": "She saw a man near a bus stop.",
+        "zh": "她在公共汽车站附近看到一个男人。"
+      },
+      "imitations": [
+        {
+          "en": "She lost her way yesterday.",
+          "zh": "她昨天迷路了。"
+        },
+        {
+          "en": "He took out his phrasebook.",
+          "zh": "他拿出他的短语手册。"
+        },
+        {
+          "en": "She went to London last week.",
+          "zh": "她上周去了伦敦。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + did not + 动词原形 (过去时否定)",
+      "original": {
+        "en": "He did not understand English!",
+        "zh": "他不懂英语！"
+      },
+      "imitations": [
+        {
+          "en": "I did not see him yesterday.",
+          "zh": "我昨天没看见他。"
+        },
+        {
+          "en": "She did not know the way.",
+          "zh": "她不知道路。"
+        },
+        {
+          "en": "They did not speak Chinese.",
+          "zh": "他们不会说中文。"
+        }
+      ]
+    },
+    {
+      "pattern": "I am sorry, I do not speak + 语言",
+      "original": {
+        "en": "I am sorry, I do not speak English.",
+        "zh": "对不起，我不会说英语。"
+      },
+      "imitations": [
+        {
+          "en": "I am sorry, I do not speak French.",
+          "zh": "对不起，我不会说法语。"
+        },
+        {
+          "en": "I am sorry, I do not speak Japanese.",
+          "zh": "对不起，我不会说日语。"
+        },
+        {
+          "en": "I am sorry, I do not speak German.",
+          "zh": "对不起，我不会说德语。"
+        }
+      ]
+    }
+  ]
+}

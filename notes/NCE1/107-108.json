@@ -1,0 +1,394 @@
+{
+  "book": "NCE1",
+  "lesson": "107-108",
+  "title": "Lesson 107",
+  "vocabulary": [
+    {
+      "word": "madam",
+      "phonetic": "/ˈmædəm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "夫人；女士（对妇女的尊称）",
+          "usage": "用于对陌生女性的尊称，多用于商业场合"
+        }
+      ]
+    },
+    {
+      "word": "dress",
+      "phonetic": "/dres/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "连衣裙；套裙",
+          "usage": "指女士穿的整件衣服"
+        }
+      ]
+    },
+    {
+      "word": "lovely",
+      "phonetic": "/ˈlʌvli/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "可爱的；漂亮的",
+          "usage": "形容事物令人喜爱，常用于赞美"
+        }
+      ]
+    },
+    {
+      "word": "smart",
+      "phonetic": "/smɑːt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "时髦的；漂亮的；聪明的",
+          "usage": "形容衣着或人看起来整洁时髦"
+        }
+      ]
+    },
+    {
+      "word": "fashion",
+      "phonetic": "/ˈfæʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "时尚；流行款式",
+          "usage": "指当前流行的样式或风格"
+        }
+      ]
+    },
+    {
+      "word": "skirt",
+      "phonetic": "/skɜːt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "裙子",
+          "usage": "指下装的一种，覆盖腰部以下"
+        }
+      ]
+    },
+    {
+      "word": "colour",
+      "phonetic": "/ˈkʌlə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "颜色",
+          "usage": "指物品的色泽"
+        }
+      ]
+    },
+    {
+      "word": "suit",
+      "phonetic": "/suːt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "适合；相配",
+          "usage": "指某物对某人合适或看起来好看"
+        }
+      ]
+    },
+    {
+      "word": "pretty",
+      "phonetic": "/ˈprɪti/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "漂亮的；可爱的",
+          "usage": "形容外表好看，多用于女性或物品"
+        }
+      ]
+    },
+    {
+      "word": "size",
+      "phonetic": "/saɪz/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "尺码；尺寸",
+          "usage": "指衣物的大小规格"
+        }
+      ]
+    },
+    {
+      "word": "larger",
+      "phonetic": "/ˈlɑːdʒə/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "更大的（large的比较级）",
+          "usage": "用于两者之间的比较"
+        }
+      ]
+    },
+    {
+      "word": "largest",
+      "phonetic": "/ˈlɑːdʒɪst/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "最大的（large的最高级）",
+          "usage": "用于三者或以上的比较"
+        }
+      ]
+    },
+    {
+      "word": "show",
+      "phonetic": "/ʃəʊ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "展示；给...看",
+          "usage": "指向他人展示某物"
+        }
+      ]
+    },
+    {
+      "word": "try",
+      "phonetic": "/traɪ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "试穿；尝试",
+          "usage": "指尝试穿衣服或做某事"
+        }
+      ]
+    },
+    {
+      "word": "either",
+      "phonetic": "/ˈaɪðə/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "也（不）",
+          "usage": "用于否定句中表示'也'"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "What about...?",
+      "usage": "用于建议或询问对某物的看法，意为'...怎么样？'",
+      "examples": [
+        {
+          "en": "What about this one?",
+          "zh": "这件怎么样？"
+        }
+      ]
+    },
+    {
+      "phrase": "in fashion",
+      "usage": "意为'流行；时髦'，描述某物当前受欢迎",
+      "examples": [
+        {
+          "en": "Short skirts are in fashion now.",
+          "zh": "短裙现在正流行。"
+        }
+      ]
+    },
+    {
+      "phrase": "too...for me",
+      "usage": "表示对某人来说太...，表示不适合",
+      "examples": [
+        {
+          "en": "It's too small for me.",
+          "zh": "对我来说太小了。"
+        }
+      ]
+    },
+    {
+      "phrase": "smaller than",
+      "usage": "表示比较，意为'比...小'",
+      "examples": [
+        {
+          "en": "It's smaller than the blue one.",
+          "zh": "它比蓝色的那件小。"
+        }
+      ]
+    },
+    {
+      "phrase": "doesn't suit me",
+      "usage": "意为'不适合我'，指某物与某人外表不相配",
+      "examples": [
+        {
+          "en": "It doesn't suit me at all.",
+          "zh": "它一点都不适合我。"
+        }
+      ]
+    },
+    {
+      "phrase": "I'm afraid",
+      "usage": "礼貌地表达遗憾或不好的消息，意为'恐怕'",
+      "examples": [
+        {
+          "en": "I'm afraid I haven't got a larger dress.",
+          "zh": "恐怕我没有更大的裙子了。"
+        }
+      ]
+    },
+    {
+      "phrase": "Could you show me...?",
+      "usage": "礼貌请求，意为'你能给我看看...吗？'",
+      "examples": [
+        {
+          "en": "Could you show me another blue dress?",
+          "zh": "你能给我看看另一件蓝色的裙子吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "like that one",
+      "usage": "意为'像那件那样的'，表示喜欢某物想要类似的",
+      "examples": [
+        {
+          "en": "I want a dress like that one.",
+          "zh": "我想要一件像那件那样的裙子。"
+        }
+      ]
+    },
+    {
+      "phrase": "try it on",
+      "usage": "意为'试穿它'，指试穿衣服",
+      "examples": [
+        {
+          "en": "Would you like to try it?",
+          "zh": "你想试穿一下吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "neither/either",
+      "usage": "either用于否定句中表示'也'，neither表示'两者都不'",
+      "examples": [
+        {
+          "en": "I don't like the colour either.",
+          "zh": "我也不喜欢这个颜色。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "形容词比较级和最高级",
+      "definition": "形容词用来比较事物的大小、程度。使用比较级比较两者，使用最高级比较三者及以上。",
+      "structure": "比较级：形容词+er + than\n最高级：the + 形容词+est",
+      "usage": "用于对事物的性质进行程度比较，在购物场景中常用于比较衣物大小",
+      "examples": [
+        {
+          "en": "It's smaller than the blue one.",
+          "zh": "它比蓝色的那件小。（比较级）"
+        },
+        {
+          "en": "This is the largest dress in the shop.",
+          "zh": "这是店里最大的裙子。（最高级）"
+        }
+      ]
+    },
+    {
+      "title": "too + 形容词 for + someone",
+      "definition": "表示对某人来说太过...，含有不适合的意思",
+      "structure": "too + 形容词 + for + someone",
+      "usage": "用于表达某物对特定的人不合适，通常指程度超出可接受范围",
+      "examples": [
+        {
+          "en": "It's too small for me.",
+          "zh": "对我来说太小了。"
+        },
+        {
+          "en": "I'm afraid this green dress is too small for me as well.",
+          "zh": "恐怕这件绿色的裙子对我来说也太小了。"
+        }
+      ]
+    },
+    {
+      "title": "使用Could you...?进行礼貌请求",
+      "definition": "Could you...?是比Can you...?更礼貌的请求句型",
+      "structure": "Could you + 动词原形 + (其他成分)?",
+      "usage": "用于向他人提出请求，显得更有礼貌和委婉",
+      "examples": [
+        {
+          "en": "Could you show me another blue dress?",
+          "zh": "你能给我看看另一件蓝色的裙子吗？"
+        },
+        {
+          "en": "Could you help me?",
+          "zh": "你能帮帮我吗？"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "It's + 形容词 + for me.",
+      "original": {
+        "en": "It's too small for me.",
+        "zh": "对我来说太小了。"
+      },
+      "imitations": [
+        {
+          "en": "It's too large for me.",
+          "zh": "对我来说太大了。"
+        },
+        {
+          "en": "It's too expensive for me.",
+          "zh": "对我来说太贵了。"
+        }
+      ]
+    },
+    {
+      "pattern": "It's + 比较级 + than + the + 名词.",
+      "original": {
+        "en": "It's smaller than the blue one.",
+        "zh": "它比蓝色的那件小。"
+      },
+      "imitations": [
+        {
+          "en": "It's cheaper than the red one.",
+          "zh": "它比红色的那个便宜。"
+        },
+        {
+          "en": "This book is more interesting than that one.",
+          "zh": "这本书比那本书有趣。"
+        }
+      ]
+    },
+    {
+      "pattern": "Could you show me + 名词?",
+      "original": {
+        "en": "Could you show me another blue dress?",
+        "zh": "你能给我看看另一件蓝色的裙子吗？"
+      },
+      "imitations": [
+        {
+          "en": "Could you show me a larger size?",
+          "zh": "你能给我看看大一点的尺码吗？"
+        },
+        {
+          "en": "Could you show me that skirt?",
+          "zh": "你能给我看看那条裙子吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "This is the + 最高级 + in + 地点/范围.",
+      "original": {
+        "en": "This is the largest dress in the shop.",
+        "zh": "这是店里最大的裙子。"
+      },
+      "imitations": [
+        {
+          "en": "This is the most expensive dress in the shop.",
+          "zh": "这是店里最贵的裙子。"
+        },
+        {
+          "en": "This is the nicest hat in the store.",
+          "zh": "这是店里最好看的帽子。"
+        }
+      ]
+    }
+  ]
+}

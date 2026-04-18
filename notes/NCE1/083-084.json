@@ -1,0 +1,387 @@
+{
+  "book": "NCE1",
+  "lesson": "083-084",
+  "title": "Lesson 83",
+  "vocabulary": [
+    {
+      "word": "holiday",
+      "phonetic": "/ˈhɒlədeɪ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "假期；假日",
+          "usage": "指休息或旅行的时间，常用复数形式holidays"
+        }
+      ]
+    },
+    {
+      "word": "lunch",
+      "phonetic": "/lʌntʃ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "午餐；午饭",
+          "usage": "指一天中的中午饭，可用have lunch表示吃午饭"
+        }
+      ]
+    },
+    {
+      "word": "coffee",
+      "phonetic": "/ˈkɒfi/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "咖啡；咖啡饮料",
+          "usage": "指咖啡这种饮品，have a cup of coffee表示喝杯咖啡"
+        }
+      ]
+    },
+    {
+      "word": "living room",
+      "phonetic": "/ˈlɪvɪŋ ruːm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "客厅；起居室",
+          "usage": "指家中主要的休息和会客区域"
+        }
+      ]
+    },
+    {
+      "word": "mess",
+      "phonetic": "/mes/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "杂乱；凌乱",
+          "usage": "指不整洁、杂乱的状态，常用Excuse the mess表示抱歉房间乱"
+        }
+      ]
+    },
+    {
+      "word": "untidy",
+      "phonetic": "/ʌnˈtaɪdi/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "不整洁的；凌乱的",
+          "usage": "形容环境或物品杂乱无章的状态，untidy是tidy的反义词"
+        }
+      ]
+    },
+    {
+      "word": "pack",
+      "phonetic": "/pæk/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "收拾行李；包装",
+          "usage": "指把东西装进箱子或容器，准备旅行或搬运"
+        }
+      ]
+    },
+    {
+      "word": "suitcase",
+      "phonetic": "/ˈsuːtkeɪs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "手提箱；行李箱",
+          "usage": "指用于装衣物和物品的旅行箱，复数形式suitcases"
+        }
+      ]
+    },
+    {
+      "word": "leave",
+      "phonetic": "/liːv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "离开；出发",
+          "usage": "指从某地离开的动作，过去式是left"
+        }
+      ]
+    },
+    {
+      "word": "lucky",
+      "phonetic": "/ˈlʌki/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "幸运的",
+          "usage": "形容有好运的，或某事令人羡慕的"
+        }
+      ]
+    },
+    {
+      "word": "already",
+      "phonetic": "/ɔːlˈrɛdi/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "已经",
+          "usage": "表示某事在说话之前已经发生，常用于肯定句中"
+        }
+      ]
+    },
+    {
+      "word": "home",
+      "phonetic": "/həʊm/",
+      "meanings": [
+        {
+          "pos": "noun/adv",
+          "meaning": "家；在家",
+          "usage": "可作名词指住所，或作副词表示回家、在家"
+        }
+      ]
+    },
+    {
+      "word": "stay",
+      "phonetic": "/steɪ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "停留；待",
+          "usage": "指留在某处或某种状态，stay at home表示待在家里"
+        }
+      ]
+    },
+    {
+      "word": "just",
+      "phonetic": "/dʒʌst/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "刚刚；刚才",
+          "usage": "表示刚刚发生的事，常与现在完成时连用"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "have lunch",
+      "usage": "表示吃午餐的动作",
+      "examples": [
+        {
+          "en": "I've already had lunch.",
+          "zh": "我已经吃过午饭了。"
+        }
+      ]
+    },
+    {
+      "phrase": "have a cup of coffee",
+      "usage": "表示喝一杯咖啡",
+      "examples": [
+        {
+          "en": "Have a cup of coffee then.",
+          "zh": "那就喝杯咖啡吧。"
+        }
+      ]
+    },
+    {
+      "phrase": "go into",
+      "usage": "表示进入某个地方",
+      "examples": [
+        {
+          "en": "Let's go into the living room.",
+          "zh": "我们去客厅吧。"
+        }
+      ]
+    },
+    {
+      "phrase": "Excuse the mess",
+      "usage": "客套语，抱歉房间乱",
+      "examples": [
+        {
+          "en": "Excuse the mess, Sam. This room's very untidy.",
+          "zh": "抱歉有点乱，萨姆。这个房间很不整洁。"
+        }
+      ]
+    },
+    {
+      "phrase": "pack suitcases",
+      "usage": "指收拾行李准备出发",
+      "examples": [
+        {
+          "en": "We're packing our suitcases.",
+          "zh": "我们正在收拾行李箱。"
+        }
+      ]
+    },
+    {
+      "phrase": "have a holiday",
+      "usage": "表示去度假",
+      "examples": [
+        {
+          "en": "Tom and I are going to have a holiday.",
+          "zh": "汤姆和我打算去度假。"
+        }
+      ]
+    },
+    {
+      "phrase": "stay at home",
+      "usage": "表示待在家里",
+      "examples": [
+        {
+          "en": "I stayed at home!",
+          "zh": "我待在家里！"
+        }
+      ]
+    },
+    {
+      "phrase": "come in",
+      "usage": "表示让别人进来",
+      "examples": [
+        {
+          "en": "Come in.",
+          "zh": "进来。"
+        }
+      ]
+    },
+    {
+      "phrase": "after my lunch",
+      "usage": "表示在午饭后",
+      "examples": [
+        {
+          "en": "I had one after my lunch.",
+          "zh": "我午饭后喝了一杯。"
+        }
+      ]
+    },
+    {
+      "phrase": "When are you going to...",
+      "usage": "询问将来计划的句式",
+      "examples": [
+        {
+          "en": "When are you going to have a holiday, Sam?",
+          "zh": "萨姆，你打算什么时候去度假？"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "现在完成时（Present Perfect Tense）",
+      "definition": "现在完成时表示过去发生的动作对现在造成的影响或结果，或从过去持续到现在的动作",
+      "structure": "主语 + have/has + 过去分词",
+      "usage": "常与already、just、yet等副词连用，表示已经或刚刚完成的动作",
+      "examples": [
+        {
+          "en": "I've already had lunch.",
+          "zh": "我已经吃过午饭了。"
+        },
+        {
+          "en": "I've just had a cup, thank you.",
+          "zh": "我刚喝了一杯，谢谢。"
+        },
+        {
+          "en": "I don't know. I've already had my holiday this year.",
+          "zh": "我不知道。我今年已经休过假了。"
+        }
+      ]
+    },
+    {
+      "title": "一般过去时与现在完成时的区别",
+      "definition": "一般过去时强调动作发生在过去且与现在无关；现在完成时强调过去动作对现在的影响",
+      "structure": "一般过去时：主语 + 动词过去式；现在完成时：主语 + have/has + 过去分词",
+      "usage": "当询问具体过去事件时用过去时；当强调过去经验对现在的影响时用现在完成时",
+      "examples": [
+        {
+          "en": "Where did you go?（询问具体过去事件）",
+          "zh": "你去了哪里？"
+        },
+        {
+          "en": "I've already had my holiday this year.（强调今年的假期经历）",
+          "zh": "我今年已经休过假了。"
+        }
+      ]
+    },
+    {
+      "title": "Be going to 表示将来计划",
+      "definition": "be going to结构用来表示已经决定或计划好的将来动作",
+      "structure": "主语 + am/is/are + going to + 动词原形",
+      "usage": "表示说话时已经计划好的、打算做的事，或根据迹象预测即将发生的事",
+      "examples": [
+        {
+          "en": "Tom and I are going to have a holiday.",
+          "zh": "汤姆和我打算去度假。"
+        },
+        {
+          "en": "We're going to leave tomorrow.",
+          "zh": "我们明天要离开了。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Have you already had...?",
+      "original": {
+        "en": "I've already had lunch.",
+        "zh": "我已经吃过午饭了。"
+      },
+      "imitations": [
+        {
+          "en": "I've already had my coffee.",
+          "zh": "我已经喝过咖啡了。"
+        },
+        {
+          "en": "I've already had my dinner.",
+          "zh": "我已经吃过晚饭了。"
+        }
+      ]
+    },
+    {
+      "pattern": "I've just had...",
+      "original": {
+        "en": "I've just had a cup, thank you.",
+        "zh": "我刚喝了一杯，谢谢。"
+      },
+      "imitations": [
+        {
+          "en": "I've just had breakfast.",
+          "zh": "我刚吃过早餐。"
+        },
+        {
+          "en": "I've just had a meeting.",
+          "zh": "我刚开完会。"
+        }
+      ]
+    },
+    {
+      "pattern": "Where did you go?",
+      "original": {
+        "en": "Where did you go?",
+        "zh": "你去了哪里？"
+      },
+      "imitations": [
+        {
+          "en": "Where did you stay?",
+          "zh": "你住在哪里？"
+        },
+        {
+          "en": "Where did you have lunch?",
+          "zh": "你在哪里吃的午饭？"
+        }
+      ]
+    },
+    {
+      "pattern": "We're going to...",
+      "original": {
+        "en": "Tom and I are going to have a holiday.",
+        "zh": "汤姆和我打算去度假。"
+      },
+      "imitations": [
+        {
+          "en": "We're going to leave tomorrow.",
+          "zh": "我们明天要离开了。"
+        },
+        {
+          "en": "I'm going to have a party.",
+          "zh": "我打算举办一个聚会。"
+        }
+      ]
+    }
+  ]
+}

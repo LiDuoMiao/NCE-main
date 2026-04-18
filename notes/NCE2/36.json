@@ -1,0 +1,314 @@
+{
+  "book": "NCE2",
+  "lesson": "36",
+  "title": "What is Debbie going to try to do?",
+  "vocabulary": [
+    {
+      "word": "channel",
+      "phonetic": "/ˈtʃænl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "海峡；通道",
+          "usage": "指两个海域之间的狭窄水域，如English Channel（英吉利海峡）"
+        }
+      ]
+    },
+    {
+      "word": "across",
+      "phonetic": "/əˈkrɒs/",
+      "meanings": [
+        {
+          "pos": "preposition",
+          "meaning": "穿过；横跨",
+          "usage": "表示从一边到另一边的动作"
+        }
+      ]
+    },
+    {
+      "word": "coast",
+      "phonetic": "/kəʊst/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "海岸；海滨",
+          "usage": "指陆地靠近海洋或湖泊的边缘地区"
+        }
+      ]
+    },
+    {
+      "word": "record",
+      "phonetic": "/ˈrekɔːd/ (noun) /rɪˈkɔːd/ (verb)",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "纪录；记录",
+          "usage": "指最佳成绩或最高成就，如world record（世界纪录）"
+        },
+        {
+          "pos": "verb",
+          "meaning": "记录；记载",
+          "usage": "指将信息写下来或保存"
+        }
+      ]
+    },
+    {
+      "word": "swimmer",
+      "phonetic": "/ˈswɪmə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "游泳者",
+          "usage": "指进行游泳运动的人"
+        }
+      ]
+    },
+    {
+      "word": "distance",
+      "phonetic": "/ˈdɪstəns/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "距离；远处",
+          "usage": "指两点之间的空间长度"
+        }
+      ]
+    },
+    {
+      "word": "intend",
+      "phonetic": "/ɪnˈtend/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "打算；计划",
+          "usage": "指有做某事的意图或目的"
+        }
+      ]
+    },
+    {
+      "word": "anxious",
+      "phonetic": "/ˈæŋkʃəs/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "焦虑的；担心的",
+          "usage": "指对某事感到不安或忧虑"
+        }
+      ]
+    },
+    {
+      "word": "train",
+      "phonetic": "/treɪn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "训练；培养",
+          "usage": "指通过练习来提高技能"
+        }
+      ]
+    },
+    {
+      "word": "solid",
+      "phonetic": "/ˈsɒlɪd/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "固体的；坚硬的",
+          "usage": "指有一定形状的物质，与液体相对"
+        }
+      ]
+    },
+    {
+      "word": "succeed",
+      "phonetic": "/səkˈsiːd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "成功；达到目的",
+          "usage": "指完成所期望或试图做的事"
+        }
+      ]
+    },
+    {
+      "word": "among",
+      "phonetic": "/əˈmʌŋ/",
+      "meanings": [
+        {
+          "pos": "preposition",
+          "meaning": "在...之中；在...之间",
+          "usage": "指在三者或更多事物之中"
+        }
+      ]
+    },
+    {
+      "word": "herself",
+      "phonetic": "/hɜːˈself/",
+      "meanings": [
+        {
+          "pos": "pronoun",
+          "meaning": "她自己",
+          "usage": "是she的反身代词"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "set out",
+      "usage": "出发；启程",
+      "examples": [
+        {
+          "en": "She is going to set out from the French coast at five o'clock.",
+          "zh": "她将在早上五点从法国海岸出发。"
+        }
+      ]
+    },
+    {
+      "phrase": "set up a record",
+      "usage": "创造纪录",
+      "examples": [
+        {
+          "en": "She hopes to set up a new world record.",
+          "zh": "她希望创造一项新的世界纪录。"
+        }
+      ]
+    },
+    {
+      "phrase": "be sure to succeed",
+      "usage": "一定会成功",
+      "examples": [
+        {
+          "en": "Many people feel that she is sure to succeed.",
+          "zh": "许多人认为她一定会成功。"
+        }
+      ]
+    },
+    {
+      "phrase": "take short rests",
+      "usage": "短暂休息",
+      "examples": [
+        {
+          "en": "Debbie intends to take short rests every two hours.",
+          "zh": "Debbie打算每两小时短暂休息一次。"
+        }
+      ]
+    },
+    {
+      "phrase": "wait for",
+      "usage": "等待",
+      "examples": [
+        {
+          "en": "Most of Debbie's school friends will be waiting for her on the English coast.",
+          "zh": "Debbie的大部分同学将在英国海岸等她。"
+        }
+      ]
+    },
+    {
+      "phrase": "swim across",
+      "usage": "游过；横渡",
+      "examples": [
+        {
+          "en": "Debbie Hart is going to swim across the English Channel tomorrow.",
+          "zh": "Debbie Hart打算明天游过英吉利海峡。"
+        }
+      ]
+    },
+    {
+      "phrase": "watch anxiously",
+      "usage": "焦虑地注视",
+      "examples": [
+        {
+          "en": "Tomorrow he will be watching her anxiously as she swims.",
+          "zh": "明天当她游泳时他将焦虑地注视着她。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "be going to 表示将来（计划、打算）",
+      "definition": "表示根据现有证据或意图决定的将来动作",
+      "structure": "主语 + be (am/is/are) + going to + 动词原形",
+      "usage": "用于表示计划、打算或即将发生的事情",
+      "examples": [
+        {
+          "en": "Debbie Hart is going to swim across the English Channel tomorrow.",
+          "zh": "Debbie Hart打算明天游过英吉利海峡。"
+        },
+        {
+          "en": "She is going to set out from the French coast at five o'clock.",
+          "zh": "她将在早上五点从法国海岸出发。"
+        }
+      ]
+    },
+    {
+      "title": "will 表示将来（预测、临时决定）",
+      "definition": "表示单纯的将来或临时决定",
+      "structure": "主语 + will + 动词原形",
+      "usage": "用于表示单纯的将来、预测或临时做出的决定",
+      "examples": [
+        {
+          "en": "Mr. Hart will be watching her anxiously as she swims.",
+          "zh": "当她游泳时，Hart先生将焦虑地注视着她。"
+        },
+        {
+          "en": "Debbie will have something to drink but she will not eat any solid food.",
+          "zh": "Debbie会喝点东西但她不会吃固体食物。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "主语 + be going to + 动词原形",
+      "original": {
+        "en": "Debbie Hart is going to swim across the English Channel tomorrow.",
+        "zh": "Debbie Hart打算明天游过英吉利海峡。"
+      },
+      "imitations": [
+        {
+          "en": "I am going to visit my grandmother this weekend.",
+          "zh": "我这个周末要去看望我的奶奶。"
+        },
+        {
+          "en": "They are going to set up a new company.",
+          "zh": "他们打算成立一家新公司。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + will + 动词原形",
+      "original": {
+        "en": "Mr. Hart will be watching her anxiously.",
+        "zh": "Hart先生将焦虑地注视着她。"
+      },
+      "imitations": [
+        {
+          "en": "I will help you with your English.",
+          "zh": "我会帮助你学习英语。"
+        },
+        {
+          "en": "She will be waiting for you at the station.",
+          "zh": "她会在车站等你。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + is/are + 形容词 + to-动词不定式",
+      "original": {
+        "en": "Many people feel that she is sure to succeed.",
+        "zh": "许多人认为她一定会成功。"
+      },
+      "imitations": [
+        {
+          "en": "He is certain to pass the exam.",
+          "zh": "他一定会通过考试。"
+        },
+        {
+          "en": "They are likely to arrive tomorrow.",
+          "zh": "他们可能会明天到达。"
+        }
+      ]
+    }
+  ]
+}

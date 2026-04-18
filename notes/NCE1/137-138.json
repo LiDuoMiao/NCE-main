@@ -1,0 +1,398 @@
+{
+  "book": "NCE1",
+  "lesson": "137-138",
+  "title": "Lesson 137",
+  "vocabulary": [
+    {
+      "word": "football pools",
+      "phonetic": "/ˈfʊtbɔːl puːlz/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "足球赌注；足球博彩",
+          "usage": "指对足球比赛结果进行投注的博彩活动"
+        }
+      ]
+    },
+    {
+      "word": "pleasant",
+      "phonetic": "/ˈplezənt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "令人愉快的；舒适的",
+          "usage": "描述让人感到愉快的事物"
+        }
+      ]
+    },
+    {
+      "word": "dream",
+      "phonetic": "/driːm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "梦；梦想",
+          "usage": "指睡眠中的梦境或美好的愿望"
+        }
+      ]
+    },
+    {
+      "word": "nearly",
+      "phonetic": "/ˈnɪəli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "几乎；差不多",
+          "usage": "表示非常接近但不是完全的状态"
+        }
+      ]
+    },
+    {
+      "word": "travel",
+      "phonetic": "/ˈtrævl/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "旅行；游历",
+          "usage": "指从一个地方到另一个地方"
+        }
+      ]
+    },
+    {
+      "word": "hotel",
+      "phonetic": "/həʊˈtel/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "旅馆；酒店",
+          "usage": "提供住宿的场所"
+        }
+      ]
+    },
+    {
+      "word": "return",
+      "phonetic": "/rɪˈtɜːn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "返回；回来",
+          "usage": "指回到原来的地方"
+        }
+      ]
+    },
+    {
+      "word": "country",
+      "phonetic": "/ˈkʌntri/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "乡村；农村",
+          "usage": "指远离城市的乡村地区"
+        }
+      ]
+    },
+    {
+      "word": "garden",
+      "phonetic": "/ˈɡɑːdn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "花园；菜园",
+          "usage": "房屋周围种植花草蔬菜的地方"
+        }
+      ]
+    },
+    {
+      "word": "spend",
+      "phonetic": "/spend/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "花费（钱）；度过（时间）",
+          "usage": "表示用钱或时间"
+        }
+      ]
+    },
+    {
+      "word": "poor",
+      "phonetic": "/pɔː/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "贫穷的；贫困的",
+          "usage": "指缺乏金钱或资源"
+        }
+      ]
+    },
+    {
+      "word": "depend",
+      "phonetic": "/dɪˈpend/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "依靠；依赖；取决于",
+          "usage": "常与on/upon连用"
+        }
+      ]
+    },
+    {
+      "word": "mink",
+      "phonetic": "/mɪŋk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "貂；貂皮",
+          "usage": "指一种动物或其皮毛，用于制作大衣"
+        }
+      ]
+    },
+    {
+      "word": "coat",
+      "phonetic": "/kəʊt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "外套；大衣",
+          "usage": "穿在外面的长上衣"
+        }
+      ]
+    },
+    {
+      "word": "world",
+      "phonetic": "/wɜːld/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "世界；地球",
+          "usage": "指地球或全世界"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "do the football pools",
+      "usage": "指参与足球博彩投注",
+      "examples": [
+        {
+          "en": "Are you doing the football pools, Brian?",
+          "zh": "你在投注足球彩票吗，布莱恩？"
+        }
+      ]
+    },
+    {
+      "phrase": "win something",
+      "usage": "赢得某物；在比赛中获得奖品或奖金",
+      "examples": [
+        {
+          "en": "I'm sure we'll win something this week.",
+          "zh": "我相信这周我们会赢点什么。"
+        }
+      ]
+    },
+    {
+      "phrase": "buy someone something",
+      "usage": "给某人买某物",
+      "examples": [
+        {
+          "en": "If I win a lot of money I'll buy you a mink coat.",
+          "zh": "如果我赢了很多钱，我会给你买一件貂皮大衣。"
+        }
+      ]
+    },
+    {
+      "phrase": "travel round the world",
+      "usage": "环游世界",
+      "examples": [
+        {
+          "en": "If we win a lot of money we'll travel round the world.",
+          "zh": "如果我们赢了很多钱，我们就去环游世界。"
+        }
+      ]
+    },
+    {
+      "phrase": "stay at the best hotels",
+      "usage": "住在最好的酒店",
+      "examples": [
+        {
+          "en": "We'll stay at the best hotels.",
+          "zh": "我们会住在最好的酒店里。"
+        }
+      ]
+    },
+    {
+      "phrase": "return home",
+      "usage": "回家；返回家中",
+      "examples": [
+        {
+          "en": "Then we'll return home and buy a big house in the country.",
+          "zh": "然后我们回家，在乡下买一栋大房子。"
+        }
+      ]
+    },
+    {
+      "phrase": "buy a big house",
+      "usage": "买一栋大房子",
+      "examples": [
+        {
+          "en": "We'll buy a big house in the country.",
+          "zh": "我们会在乡下买一栋大房子。"
+        }
+      ]
+    },
+    {
+      "phrase": "spend all that money",
+      "usage": "花光所有的钱",
+      "examples": [
+        {
+          "en": "But if we spend all that money we'll be poor again.",
+          "zh": "但如果我们花光所有的钱，我们又会变穷。"
+        }
+      ]
+    },
+    {
+      "phrase": "be poor again",
+      "usage": "再次变穷",
+      "examples": [
+        {
+          "en": "We'll be poor again.",
+          "zh": "我们又会变穷了。"
+        }
+      ]
+    },
+    {
+      "phrase": "depend on",
+      "usage": "取决于；依赖于",
+      "examples": [
+        {
+          "en": "Everything depends on 'if'!",
+          "zh": "一切都取决于\"如果\"！"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "第二条件句 (Second Conditional)",
+      "definition": "用于谈论与现在或未来事实相反的假设情况，表示不太可能发生的事件",
+      "structure": "If + 主语 + 过去式（be动词用were）, 主语 + would/could/might + 动词原形",
+      "usage": "表示与事实相反或不太可能实现的假设，常用于表达梦想或不太可能发生的事情",
+      "examples": [
+        {
+          "en": "If I win a lot of money, I'll buy you a mink coat.",
+          "zh": "如果我赢了很多钱，我会给你买一件貂皮大衣。"
+        },
+        {
+          "en": "If we win a lot of money, we'll travel round the world.",
+          "zh": "如果我们赢了很多钱，我们就去环游世界。"
+        },
+        {
+          "en": "If we spend all the money, we'll be poor again.",
+          "zh": "如果我们花光所有的钱，我们又会变穷。"
+        }
+      ]
+    },
+    {
+      "title": "If引导的疑问句 (If Clause Questions)",
+      "definition": "用if从句提问，询问对方对假设情况的看法或计划",
+      "structure": "What will you do if + 主语 + 动词过去式?",
+      "usage": "用于询问对方在某种假设情况下会采取什么行动",
+      "examples": [
+        {
+          "en": "What will you do if you win a lot of money?",
+          "zh": "如果你赢了很多钱，你会做什么？"
+        },
+        {
+          "en": "What'll we do then?",
+          "zh": "那我们该怎么办？"
+        }
+      ]
+    },
+    {
+      "title": "使用would表示意愿和倾向 (Would for Willingness)",
+      "definition": "在第二条件句中，would表示在特定条件下的意愿或倾向",
+      "structure": "If + 条件, 主语 + would + 动词原形",
+      "usage": "用于表达在假设条件下某人愿意做的事情",
+      "examples": [
+        {
+          "en": "I'll buy you a mink coat.",
+          "zh": "我会给你买一件貂皮大衣。"
+        },
+        {
+          "en": "We'll travel round the world.",
+          "zh": "我们会环游世界。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "What will you do if + 主语 + 动词过去式?",
+      "original": {
+        "en": "What will you do if you win a lot of money?",
+        "zh": "如果你赢了很多钱，你会做什么？"
+      },
+      "imitations": [
+        {
+          "en": "What will you do if you lose your job?",
+          "zh": "如果你丢了工作，你会做什么？"
+        },
+        {
+          "en": "What will you do if it rains tomorrow?",
+          "zh": "如果明天下雨，你会做什么？"
+        }
+      ]
+    },
+    {
+      "pattern": "If + 主语 + 过去式, 主语 + will + 动词原形",
+      "original": {
+        "en": "If I win a lot of money, I'll buy you a mink coat.",
+        "zh": "如果我赢了很多钱，我会给你买一件貂皮大衣。"
+      },
+      "imitations": [
+        {
+          "en": "If I pass the exam, I'll celebrate with my friends.",
+          "zh": "如果我通过了考试，我会和朋友们庆祝。"
+        },
+        {
+          "en": "If it snows, we'll go skiing.",
+          "zh": "如果下雪，我们就去滑雪。"
+        }
+      ]
+    },
+    {
+      "pattern": "If + 主语 + 动词过去式, 主语 + will + 动词原形",
+      "original": {
+        "en": "If we spend all the money, we'll be poor again.",
+        "zh": "如果我们花光所有的钱，我们又会变穷。"
+      },
+      "imitations": [
+        {
+          "en": "If we leave now, we'll arrive on time.",
+          "zh": "如果我们现在出发，我们会准时到达。"
+        },
+        {
+          "en": "If you don't study hard, you'll fail the test.",
+          "zh": "如果你不努力学习，你会考试不及格。"
+        }
+      ]
+    },
+    {
+      "pattern": "Everything depends on + 名词/代词",
+      "original": {
+        "en": "Everything depends on 'if'!",
+        "zh": "一切都取决于\"如果\"！"
+      },
+      "imitations": [
+        {
+          "en": "Everything depends on your effort.",
+          "zh": "一切都取决于你的努力。"
+        },
+        {
+          "en": "Success depends on hard work.",
+          "zh": "成功取决于努力工作。"
+        }
+      ]
+    }
+  ]
+}

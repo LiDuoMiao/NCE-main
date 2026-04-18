@@ -1,0 +1,391 @@
+{
+  "book": "NCE4",
+  "lesson": "45",
+  "title": "Lesson 45",
+  "vocabulary": [
+    {
+      "word": "influential",
+      "phonetic": "/ˌɪnfluˈenʃl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "有影响力的，有支配力的",
+          "usage": "用来描述人、事物或因素对他人/事件有重要影响，可修饰抽象名词（如factor, idea）或具体名词（如person, organization）"
+        }
+      ]
+    },
+    {
+      "word": "critical",
+      "phonetic": "/ˈkrɪtɪkl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "至关重要的，决定性的",
+          "usage": "表示某物/某事对结果有决定性作用，常见搭配为be critical to/for sth"
+        },
+        {
+          "pos": "adjective",
+          "meaning": "批评的，挑剔的",
+          "usage": "表示对人或事持否定评价，常见搭配为be critical of sb/sth"
+        }
+      ]
+    },
+    {
+      "word": "phase",
+      "phonetic": "/feɪz/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "阶段，时期",
+          "usage": "指发展过程中的一个特定阶段，常见搭配为phase of sth，enter/go through a phase"
+        }
+      ]
+    },
+    {
+      "word": "primitive",
+      "phonetic": "/ˈprɪmətɪv/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "原始的，远古的",
+          "usage": "描述人类社会发展的早期阶段，或简陋、未发展的状态"
+        }
+      ]
+    },
+    {
+      "word": "dispute",
+      "phonetic": "/dɪˈspjuːt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "争论，争夺",
+          "usage": "指对某事的所有权、真实性等提出异议或争夺，常见搭配为dispute sth with sb"
+        },
+        {
+          "pos": "noun",
+          "meaning": "争端，纠纷",
+          "usage": "指两方或多方的争执，常见搭配为be in dispute over sth"
+        }
+      ]
+    },
+    {
+      "word": "subdue",
+      "phonetic": "/səbˈdjuː/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "制服，征服，抑制",
+          "usage": "表示通过力量或手段控制人、动物或事物，正式用语"
+        }
+      ]
+    },
+    {
+      "word": "drainage",
+      "phonetic": "/ˈdreɪnɪdʒ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "排水系统，排水",
+          "usage": "指排出积水的系统或排水的动作、过程"
+        }
+      ]
+    },
+    {
+      "word": "envision",
+      "phonetic": "/ɪnˈvɪʒn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "想象，预想",
+          "usage": "指对未来的情形进行想象或预期，常见搭配为envision sth / envision doing sth"
+        }
+      ]
+    },
+    {
+      "word": "latitude",
+      "phonetic": "/ˈlætɪtjuːd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "纬度",
+          "usage": "地理术语，指地球表面某点与赤道的南北距离，对应反义词为longitude（经度）"
+        }
+      ]
+    },
+    {
+      "word": "inhabitant",
+      "phonetic": "/ɪnˈhæbɪtənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "居民，栖息者",
+          "usage": "指长期居住在某个地区的人或动物，同义词为resident"
+        }
+      ]
+    },
+    {
+      "word": "heretic",
+      "phonetic": "/ˈherətɪk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "异端分子，持异端邪说的人",
+          "usage": "历史上指违背宗教正统教义的人，现在也可引申指持与主流不同观点的人"
+        }
+      ]
+    },
+    {
+      "word": "conceive",
+      "phonetic": "/kənˈsiːv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "想象，构想",
+          "usage": "指在脑中形成想法、想象某种情形，常见搭配为conceive of sth / conceive that..."
+        },
+        {
+          "pos": "verb",
+          "meaning": "怀孕，受孕",
+          "usage": "表示怀上胎儿的动作"
+        }
+      ]
+    },
+    {
+      "word": "inject",
+      "phonetic": "/ɪnˈdʒekt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "注入，引入",
+          "usage": "原本指注射液体，引申为将某种思想、活力等引入某个群体或环境，常见搭配为inject sth into sb/sth"
+        }
+      ]
+    },
+    {
+      "word": "utterly",
+      "phonetic": "/ˈʌtəli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "完全地，彻底地",
+          "usage": "用于加强语气，修饰形容词或动词，通常带有较强的感情色彩"
+        }
+      ]
+    },
+    {
+      "word": "original",
+      "phonetic": "/əˈrɪdʒənl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "有独创性的，原创的",
+          "usage": "描述想法、作品或人具有新颖的、与众不同的特点"
+        },
+        {
+          "pos": "noun",
+          "meaning": "原件，原作",
+          "usage": "指非复制的原版物品"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "make a poor show of (doing) sth",
+      "usage": "表示在做某事时表现得很糟糕、笨拙，口语和书面语中都可使用，带有调侃或自嘲的语气",
+      "examples": [
+        {
+          "en": "I would make a very poor show of disputing the ownership of a cave with a bear.",
+          "zh": "要是我和一头熊争夺一个山洞的所有权，我肯定会表现得十分狼狈。"
+        },
+        {
+          "en": "He made a poor show of apologizing, so no one was convinced.",
+          "zh": "他道歉的样子十分敷衍，所以没有人相信他。"
+        }
+      ]
+    },
+    {
+      "phrase": "stand alone",
+      "usage": "此处表示“孤立无援，只有自己一人（处于某种情况）”，也可指某事物独一无二、无人能及",
+      "examples": [
+        {
+          "en": "In this I do not think that I stand alone.",
+          "zh": "在这一点上，我觉得并非只有我一个人是这样。"
+        },
+        {
+          "en": "When it comes to solving complex mathematical problems, he stands alone in his class.",
+          "zh": "在解决复杂数学问题这方面，他在班里无人能及。"
+        }
+      ]
+    },
+    {
+      "phrase": "be conditioned by",
+      "usage": "表示“受……的制约、影响”，通常指环境、习俗等外部因素对人的思想、行为产生塑造作用",
+      "examples": [
+        {
+          "en": "Our environment is chiefly conditioned by the things we believe.",
+          "zh": "我们的环境主要由我们所信奉的事物塑造。"
+        },
+        {
+          "en": "People's consumption habits are conditioned by their income level.",
+          "zh": "人们的消费习惯受其收入水平的制约。"
+        }
+      ]
+    },
+    {
+      "phrase": "not so much... but...",
+      "usage": "表示“与其说是……不如说是……”，用于否定前者、强调后者，说明某结果的主要原因",
+      "examples": [
+        {
+          "en": "Yet their present development is wholly different, not so much because of different people even, but because of the different thoughts that exist in the minds of their inhabitants.",
+          "zh": "然而它们现在的发展完全不同，与其说是因为人种不同，不如说是因为当地居民头脑中的思想不同。"
+        },
+        {
+          "en": "The project failed, not so much because of lack of funding, but because of poor management.",
+          "zh": "这个项目失败了，与其说是因为资金不足，不如说是因为管理不善。"
+        }
+      ]
+    },
+    {
+      "phrase": "know sth full well",
+      "usage": "表示“非常清楚，深知”，强调对某事了解得十分透彻，口语和书面语通用",
+      "examples": [
+        {
+          "en": "The Holy Office knew this full well when it caused heretics to be burned in days gone by.",
+          "zh": "宗教法庭对此心知肚明，所以过去才会把异端分子烧死。"
+        },
+        {
+          "en": "She knew full well that he was lying, but she didn't point it out on the spot.",
+          "zh": "她非常清楚他在撒谎，但并没有当场指出来。"
+        }
+      ]
+    },
+    {
+      "phrase": "in days gone by",
+      "usage": "表示“在过去，从前”，属于书面正式表达，用于指代已经过去的历史时期",
+      "examples": [
+        {
+          "en": "In days gone by, people had to fetch water from wells every day.",
+          "zh": "从前，人们每天都得从井里打水。"
+        }
+      ]
+    },
+    {
+      "phrase": "to be more accurate",
+      "usage": "表示“更准确地说”，用于对前面提到的内容进行补充修正，使表述更严谨",
+      "examples": [
+        {
+          "en": "We cannot think outside the particular patterns that our brains are conditioned to, or, to be more accurate we can think only a very little way outside.",
+          "zh": "我们无法跳出大脑受制约形成的特定思维模式，或者更准确地说，我们只能稍微跳出一点这种模式。"
+        },
+        {
+          "en": "The meeting will end next week, to be more accurate, next Friday afternoon.",
+          "zh": "会议将在下周结束，更准确地说，是下周五下午。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "虚拟语气用于对过去的推测",
+      "definition": "表示对过去发生的事情的可能性进行主观推测，并非描述客观事实，常用来表达肯定性的判断",
+      "structure": "must have + 过去分词",
+      "usage": "用于推测过去肯定发生了某件事，语气非常肯定，通常有一定的依据",
+      "examples": [
+        {
+          "en": "In man's early days, competition with other creatures must have been critical.",
+          "zh": "在人类早期，和其他生物的竞争肯定是至关重要的。"
+        },
+        {
+          "en": "The ground is wet, so it must have rained last night.",
+          "zh": "地面是湿的，所以昨晚肯定下雨了。"
+        }
+      ]
+    },
+    {
+      "title": "虚拟条件句（与现在事实相反）",
+      "definition": "用来描述与当前现实不相符的假设情况，以及该假设会产生的结果，假设的内容不可能或很难发生",
+      "structure": "If + 主语 + 动词过去式（be动词用were）, 主语 + would/could/might + 动词原形",
+      "usage": "用于表达对现实的假设、想象，句子描述的内容并非真实发生的情况",
+      "examples": [
+        {
+          "en": "I am sure that, without modern weapons, I would make a very poor show of disputing the ownership of a cave with a bear.",
+          "zh": "我敢肯定，如果没有现代武器，要是我和一头熊争夺一个山洞的所有权，我肯定会表现得十分狼狈。"
+        },
+        {
+          "en": "If I were you, I would choose to study abroad after graduation.",
+          "zh": "如果我是你，我会选择毕业后出国留学。"
+        }
+      ]
+    },
+    {
+      "title": "分隔式定语从句",
+      "definition": "指定语从句和它所修饰的先行词被其他成分隔开，目的是保持句子结构平衡，避免头重脚轻",
+      "structure": "先行词 + 其他成分 + 关系词 + 定语从句",
+      "usage": "当先行词后面的定语从句过长，或先行词后有其他必要的修饰成分时，会将定语从句后置，和先行词分隔",
+      "examples": [
+        {
+          "en": "I do not doubt that it would be possible to inject ideas into the modern world that would utterly destroy us.",
+          "zh": "我毫不怀疑，向现代世界注入一些会彻底摧毁我们的思想是有可能的。（定语从句that would utterly destroy us修饰先行词ideas，被状语into the modern world隔开）"
+        },
+        {
+          "en": "A new teacher will come tomorrow who will teach us English.",
+          "zh": "明天会来一位新老师，教我们英语。（定语从句who will teach us English修饰先行词teacher，被时间状语tomorrow隔开）"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "The most + 形容词 + factor in + 领域/范围 is + 名词/名词短语",
+      "original": {
+        "en": "The most important factor in our environment is the state of our own minds.",
+        "zh": "我们环境中最重要的因素是我们自身的思想状态。"
+      },
+      "imitations": [
+        {
+          "en": "The most critical factor in learning a language well is consistent daily practice.",
+          "zh": "学好一门语言最重要的因素是每天持续的练习。"
+        },
+        {
+          "en": "The most influential factor in a company's long-term development is its corporate culture.",
+          "zh": "一家公司长期发展最有影响力的因素是它的企业文化。"
+        }
+      ]
+    },
+    {
+      "pattern": "It is well known that where + 状语从句, the most + 形容词 + effects have come not from + 名词, but from + 名词",
+      "original": {
+        "en": "It is well known that where the white man has invaded a primitive culture, the most destructive effects have come not from physical weapons but from ideas.",
+        "zh": "众所周知，凡是白人入侵原始文化的地方，最具破坏性的影响并非来自物质武器，而是来自思想。"
+      },
+      "imitations": [
+        {
+          "en": "It is well known that where natural disasters occur, the most needed supplies come not from individual donations, but from government support.",
+          "zh": "众所周知，在发生自然灾害的地方，最急需的物资并非来自个人捐赠，而是来自政府扶持。"
+        },
+        {
+          "en": "It is well known that where education is highly valued, the most obvious progress comes not from government investment alone, but from the participation of the whole society.",
+          "zh": "众所周知，在高度重视教育的地方，最显著的进步并非只来自政府投入，而是来自全社会的参与。"
+        }
+      ]
+    },
+    {
+      "pattern": "It is a strange thought, but I believe a correct one, that + 同位语从句",
+      "original": {
+        "en": "It is a strange thought, but I believe a correct one, that twenty or thirty pages of ideas and information would be capable of turning the present-day world upside down, or even destroying it.",
+        "zh": "二三十页的思想和信息就能把当今世界搅得天翻地覆，甚至将其摧毁，这是一个奇怪的想法，但我认为是正确的。"
+      },
+      "imitations": [
+        {
+          "en": "It is a surprising thought, but I believe a correct one, that a small habit we stick to every day can change the trajectory of our entire life.",
+          "zh": "我们每天坚持的一个小习惯就能改变整个人生的轨迹，这是一个惊人的想法，但我认为是正确的。"
+        },
+        {
+          "en": "It is a counterintuitive thought, but I believe a correct one, that sometimes slowing down is the fastest way to achieve our goals.",
+          "zh": "有时候放慢速度反而是实现目标最快的方式，这是一个违反直觉的想法，但我认为是正确的。"
+        }
+      ]
+    }
+  ]
+}

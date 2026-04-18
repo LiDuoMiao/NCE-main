@@ -1,0 +1,384 @@
+{
+  "book": "NCE1",
+  "lesson": "119-120",
+  "title": "Lesson 119",
+  "vocabulary": [
+    {
+      "word": "story",
+      "phonetic": "/ˈstɔːri/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "故事；传说",
+          "usage": "指叙述性的事件，可真实或虚构"
+        }
+      ]
+    },
+    {
+      "word": "happen",
+      "phonetic": "/ˈhæpən/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "发生",
+          "usage": "指事件的发生，主语是事件"
+        }
+      ]
+    },
+    {
+      "word": "thief",
+      "phonetic": "/θiːf/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "贼；小偷",
+          "usage": "复数形式为thieves"
+        }
+      ]
+    },
+    {
+      "word": "climb",
+      "phonetic": "/klaɪm/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "爬；攀登",
+          "usage": "指用手脚攀爬的动作"
+        }
+      ]
+    },
+    {
+      "word": "kitchen",
+      "phonetic": "/ˈkɪtʃɪn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "厨房",
+          "usage": "指家中做饭的房间"
+        }
+      ]
+    },
+    {
+      "word": "enter",
+      "phonetic": "/ˈentə/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "进入",
+          "usage": "正式用语，指走进某处"
+        }
+      ]
+    },
+    {
+      "word": "dark",
+      "phonetic": "/dɑːk/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "黑暗的",
+          "usage": "形容光线不足"
+        }
+      ]
+    },
+    {
+      "word": "torch",
+      "phonetic": "/tɔːtʃ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "手电筒",
+          "usage": "英式英语中指手电筒，美式英语多用flashlight"
+        }
+      ]
+    },
+    {
+      "word": "suddenly",
+      "phonetic": "/ˈsʌdənli/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "突然地",
+          "usage": "表示情况发生得很意外、迅速"
+        }
+      ]
+    },
+    {
+      "word": "voice",
+      "phonetic": "/vɔɪs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "声音",
+          "usage": "指人说话或喊叫的声音"
+        }
+      ]
+    },
+    {
+      "word": "drop",
+      "phonetic": "/drɒp/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "投下；扔下",
+          "usage": "指使某物从手中掉落"
+        }
+      ]
+    },
+    {
+      "word": "noise",
+      "phonetic": "/nɔɪz/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "噪音；声响",
+          "usage": "指不悦耳的声音或嘈杂声"
+        }
+      ]
+    },
+    {
+      "word": "parrot",
+      "phonetic": "/ˈpærət/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "鹦鹉",
+          "usage": "一种会模仿人说话的鸟类"
+        }
+      ]
+    },
+    {
+      "word": "downstairs",
+      "phonetic": "/ˌdaʊnˈsteəz/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "在楼下；往楼下",
+          "usage": "表示向楼下或位于楼下的位置"
+        }
+      ]
+    },
+    {
+      "word": "quickly",
+      "phonetic": "/ˈkwɪkli/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "快地；迅速地",
+          "usage": "修饰动词，表示速度快"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "a true story",
+      "usage": "用于强调故事是真实的而非虚构的",
+      "examples": [
+        {
+          "en": "I want to tell you a true story.",
+          "zh": "我想给你讲一个真实的故事。"
+        }
+      ]
+    },
+    {
+      "phrase": "a friend of mine",
+      "usage": "表示某人是说话者的朋友之一",
+      "examples": [
+        {
+          "en": "It happened to a friend of mine.",
+          "zh": "它发生在我一个朋友身上。"
+        }
+      ]
+    },
+    {
+      "phrase": "climb into",
+      "usage": "表示爬进（较小的空间或物体内部）",
+      "examples": [
+        {
+          "en": "Two thieves climbed into his kitchen.",
+          "zh": "两个贼爬进了他的厨房。"
+        }
+      ]
+    },
+    {
+      "phrase": "turn on",
+      "usage": "表示打开（电器、灯、水龙头等）",
+      "examples": [
+        {
+          "en": "They turned on a torch.",
+          "zh": "他们打开了手电筒。"
+        }
+      ]
+    },
+    {
+      "phrase": "What's up?",
+      "usage": "口语中常用的问候语，意为'怎么了？'或'有什么事？'",
+      "examples": [
+        {
+          "en": "What's up? What's up?",
+          "zh": "怎么了？怎么了？"
+        }
+      ]
+    },
+    {
+      "phrase": "as quickly as they could",
+      "usage": "表示尽可能快地，强调尽最大努力",
+      "examples": [
+        {
+          "en": "The thieves ran away as quickly as they could.",
+          "zh": "贼们尽快地逃跑了。"
+        }
+      ]
+    },
+    {
+      "phrase": "come downstairs",
+      "usage": "表示从楼上下来",
+      "examples": [
+        {
+          "en": "George heard the noise and came downstairs quickly.",
+          "zh": "乔治听到声音后迅速下楼。"
+        }
+      ]
+    },
+    {
+      "phrase": "go back to sleep",
+      "usage": "表示回去继续睡觉",
+      "examples": [
+        {
+          "en": "Go back to sleep.",
+          "zh": "回去睡觉吧。"
+        }
+      ]
+    },
+    {
+      "phrase": "call out",
+      "usage": "指向某人大声喊叫或叫喊",
+      "examples": [
+        {
+          "en": "Who called out to the thieves in the dark?",
+          "zh": "谁在黑暗中向贼们大声喊叫？"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去进行时 (Past Continuous Tense)",
+      "definition": "表示在过去某一时刻或某一段时间正在进行的动作",
+      "structure": "主语 + was/were + 动词-ing",
+      "usage": "用于描述过去的背景动作，常与when/while/as引导的时间状语连用",
+      "examples": [
+        {
+          "en": "While my friend was reading in bed, two thieves climbed into his kitchen.",
+          "zh": "当我的朋友躺在床上看书时，两个贼爬进了他的厨房。"
+        },
+        {
+          "en": "George was reading when the thieves entered.",
+          "zh": "贼进入时乔治正在看书。"
+        }
+      ]
+    },
+    {
+      "title": "过去完成时 (Past Perfect Tense)",
+      "definition": "表示在过去某一时间之前已经完成的动作，即'过去的过去'",
+      "structure": "主语 + had + 过去分词",
+      "usage": "用于描述在另一个过去动作之前发生的动作，常与after/before/when等连用",
+      "examples": [
+        {
+          "en": "After they had entered the house, they went into the dining room.",
+          "zh": "他们进入房子之后，走进了餐厅。"
+        },
+        {
+          "en": "The thieves had already gone when George came downstairs.",
+          "zh": "乔治下楼时贼们已经跑了。"
+        }
+      ]
+    },
+    {
+      "title": "过去进行时与过去完成时的区别",
+      "definition": "过去进行时强调动作在进行中，过去完成时强调动作已经完成",
+      "structure": "过去进行时: was/were + doing / 过去完成时: had + done",
+      "usage": "过去进行时通常作背景（持续性动作），过去完成时作主要事件（已完成动作）",
+      "examples": [
+        {
+          "en": "While George was reading (背景动作), the thieves entered (主要动作).",
+          "zh": "当乔治正在看书时（进行中的背景动作），贼们进来了（主要动作）。"
+        },
+        {
+          "en": "After they had entered (过去的过去), they went into the dining room.",
+          "zh": "在他们进入之后（过去的过去），他们走进餐厅。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "While + 主语 + was/were + 动词-ing...",
+      "original": {
+        "en": "While my friend, George, was reading in bed, two thieves climbed into his kitchen.",
+        "zh": "当我的朋友乔治躺在床上看书时，两个贼爬进了他的厨房。"
+      },
+      "imitations": [
+        {
+          "en": "While I was cooking dinner, the phone rang.",
+          "zh": "当我正在做晚饭时，电话响了。"
+        },
+        {
+          "en": "While she was sleeping, someone knocked at the door.",
+          "zh": "当她正在睡觉时，有人敲门。"
+        }
+      ]
+    },
+    {
+      "pattern": "After + 主语 + had + 过去分词...",
+      "original": {
+        "en": "After they had entered the house, they went into the dining room.",
+        "zh": "他们进入房子之后，走进了餐厅。"
+      },
+      "imitations": [
+        {
+          "en": "After I had finished my homework, I watched TV.",
+          "zh": "我完成作业之后看了电视。"
+        },
+        {
+          "en": "After he had left, we started the meeting.",
+          "zh": "他离开之后，我们开始了会议。"
+        }
+      ]
+    },
+    {
+      "pattern": "...as + 副词最高级 + as + 主语 + could",
+      "original": {
+        "en": "The thieves dropped the torch and ran away as quickly as they could.",
+        "zh": "贼们扔下手电筒尽快地逃跑了。"
+      },
+      "imitations": [
+        {
+          "en": "She ran as fast as she could to catch the bus.",
+          "zh": "她尽快地跑着去赶公交车。"
+        },
+        {
+          "en": "They worked as hard as they could to finish the project.",
+          "zh": "他们尽可能努力地工作以完成项目。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + turn on/off + 宾语",
+      "original": {
+        "en": "They turned on a torch.",
+        "zh": "他们打开了手电筒。"
+      },
+      "imitations": [
+        {
+          "en": "Please turn on the light.",
+          "zh": "请把灯打开。"
+        },
+        {
+          "en": "He turned off the TV before leaving.",
+          "zh": "他离开前关掉了电视。"
+        }
+      ]
+    }
+  ]
+}

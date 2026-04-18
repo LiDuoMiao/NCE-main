@@ -1,0 +1,378 @@
+{
+  "book": "NCE4",
+  "lesson": "41",
+  "title": "Lesson 41",
+  "vocabulary": [
+    {
+      "word": "captive",
+      "phonetic": "/ˈkæptɪv/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "被俘虏的；被圈养的",
+          "usage": "修饰动物或人，指失去自由、被关起来的状态"
+        },
+        {
+          "pos": "noun",
+          "meaning": "俘虏；被捕获的动物",
+          "usage": "指被关押或圈养的对象"
+        }
+      ]
+    },
+    {
+      "word": "respectively",
+      "phonetic": "/rɪˈspektɪvli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "分别地；各自地",
+          "usage": "用于按顺序对应前面提到的两个或多个事物"
+        }
+      ]
+    },
+    {
+      "word": "resentful",
+      "phonetic": "/rɪˈzentfl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "愤恨的；不满的",
+          "usage": "用来描述人或动物因受不公对待而产生怨恨情绪的状态"
+        }
+      ]
+    },
+    {
+      "word": "assign",
+      "phonetic": "/əˈsaɪn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "分配；指派",
+          "usage": "常用结构assign sb. to sth./to do sth.，表示分派某人做某项工作或负责某个对象"
+        }
+      ]
+    },
+    {
+      "word": "mahout",
+      "phonetic": "/məˈhaʊt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "驯象人；象夫",
+          "usage": "特指以训练、看管大象为职业的人"
+        }
+      ]
+    },
+    {
+      "word": "affection",
+      "phonetic": "/əˈfekʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "喜爱；感情",
+          "usage": "不可数名词，指对人或事物的喜爱、眷恋之情，常与for/to搭配"
+        }
+      ]
+    },
+    {
+      "word": "pine",
+      "phonetic": "/paɪn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "（因悲伤、思念而）憔悴；消瘦",
+          "usage": "常用搭配pine for sb./sth.表示思念，pine away表示日渐消瘦"
+        }
+      ]
+    },
+    {
+      "word": "deprive",
+      "phonetic": "/dɪˈpraɪv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "剥夺；使丧失",
+          "usage": "固定搭配deprive sb. of sth.，表示夺去某人原本拥有的东西"
+        }
+      ]
+    },
+    {
+      "word": "underline",
+      "phonetic": "/ˌʌndəˈlaɪn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "强调；突出",
+          "usage": "引申义为突出某个事实或观点的重要性，相当于emphasize"
+        }
+      ]
+    },
+    {
+      "word": "subservient",
+      "phonetic": "/səbˈsɜːviənt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "屈从的；恭顺的",
+          "usage": "常与to搭配，指愿意服从他人命令的状态"
+        }
+      ]
+    },
+    {
+      "word": "plunge",
+      "phonetic": "/plʌndʒ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "猛冲；剧烈扭动",
+          "usage": "指动物或人突然用力地向前冲、扭动身体的动作"
+        }
+      ]
+    },
+    {
+      "word": "tether",
+      "phonetic": "/ˈteðə(r)/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "（用绳子）拴住",
+          "usage": "特指用绳索把动物拴在某个固定物体上"
+        }
+      ]
+    },
+    {
+      "word": "ticklish",
+      "phonetic": "/ˈtɪklɪʃ/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "棘手的；难处理的",
+          "usage": "形容问题或任务需要小心处理，稍有不慎就会出问题"
+        }
+      ]
+    },
+    {
+      "word": "soothing",
+      "phonetic": "/ˈsuːðɪŋ/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "安慰的；舒缓的",
+          "usage": "形容声音、动作等能让人或动物情绪平静下来"
+        }
+      ]
+    },
+    {
+      "word": "blandishment",
+      "phonetic": "/ˈblændɪʃmənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "奉承；哄骗的话",
+          "usage": "常用复数形式，指为了让对方听从自己而说的好听的话"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "apart from",
+      "usage": "介词短语，可表示“除了……之外（还）”或“除了……之外（都不）”，相当于besides或except for",
+      "examples": [
+        {
+          "en": "Apart from any moral considerations this is a stupid method of training.",
+          "zh": "且不说道德方面的考虑，这种训练方法本身就很愚蠢。"
+        },
+        {
+          "en": "Apart from English, he also learns French and Japanese.",
+          "zh": "除了英语之外，他还学习法语和日语。"
+        }
+      ]
+    },
+    {
+      "phrase": "take sth. with a grain of salt",
+      "usage": "固定习语，表示对某事半信半疑，不完全相信",
+      "examples": [
+        {
+          "en": "Such extreme cases must probably be taken with a grain of salt.",
+          "zh": "这类极端案例可能不能完全当真。"
+        },
+        {
+          "en": "You should take what he says with a grain of salt, he often exaggerates.",
+          "zh": "他说的话你得打个折扣听，他经常夸张。"
+        }
+      ]
+    },
+    {
+      "phrase": "earn one's keep",
+      "usage": "习语，意为“挣钱维持生计；值得雇佣”，指通过劳动抵消自己的生活成本",
+      "examples": [
+        {
+          "en": "It is then almost ready to undertake heavy work and can begin to earn its keep straight away.",
+          "zh": "这个年龄的大象差不多已经可以干重活，能立刻开始干活抵偿饲养成本了。"
+        },
+        {
+          "en": "Even as a teenager, he did part-time jobs to earn his keep instead of relying on his parents.",
+          "zh": "甚至十几岁的时候，他就靠打零工养活自己，不依赖父母。"
+        }
+      ]
+    },
+    {
+      "phrase": "be deprived of",
+      "usage": "被动结构，表示“被剥夺……；失去……”，后接被夺走的事物",
+      "examples": [
+        {
+          "en": "They have been deprived of their own trainer.",
+          "zh": "他们被夺走了自己的驯象师。"
+        },
+        {
+          "en": "Many children in remote areas are deprived of the right to receive education.",
+          "zh": "很多偏远地区的孩子被剥夺了受教育的权利。"
+        }
+      ]
+    },
+    {
+      "phrase": "to the accompaniment of",
+      "usage": "介词短语，表示“在……的伴奏下；伴随着……",
+      "examples": [
+        {
+          "en": "Others rub their hands over his skin to the accompaniment of a monotonous and soothing chant.",
+          "zh": "其他人一边摸着它的皮肤，一边唱着单调的、让人安心的歌谣。"
+        },
+        {
+          "en": "The performance began to the accompaniment of warm applause.",
+          "zh": "演出在热烈的掌声中拉开了序幕。"
+        }
+      ]
+    },
+    {
+      "phrase": "be susceptible to",
+      "usage": "固定搭配，表示“易受……影响的；对……敏感的”，后接名词或动名词",
+      "examples": [
+        {
+          "en": "The elephant is not immediately susceptible to such blandishments.",
+          "zh": "大象并不会立刻就吃这套哄骗的把戏。"
+        },
+        {
+          "en": "Babies are susceptible to colds when the weather changes suddenly.",
+          "zh": "天气骤变的时候，婴儿很容易感冒。"
+        }
+      ]
+    },
+    {
+      "phrase": "consist of",
+      "usage": "动词短语，意为“由……组成”，不用于被动语态，主语是整体，宾语是组成部分",
+      "examples": [
+        {
+          "en": "The former method simply consists of setting an elephant to work and beating him until he does what is expected of him.",
+          "zh": "前一种方法无非就是强迫大象干活，打它，直到它按要求做事为止。"
+        },
+        {
+          "en": "The research team consists of three professors and five graduate students.",
+          "zh": "这个研究团队由三名教授和五名研究生组成。"
+        }
+      ]
+    },
+    {
+      "phrase": "be capable of",
+      "usage": "固定搭配，表示“有能力做……；能够做出……”，后接名词或动名词",
+      "examples": [
+        {
+          "en": "Elephants are capable of a considerable degree of personal affection.",
+          "zh": "大象能产生相当深厚的个人感情。"
+        },
+        {
+          "en": "This new device is capable of detecting even tiny leaks in the pipe.",
+          "zh": "这个新设备甚至能检测到管道里极其微小的泄漏。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "非限制性定语从句",
+      "definition": "对主句中的某个名词或整个主句内容进行补充说明，去掉之后不影响主句的完整意思，通常和主句之间用逗号隔开",
+      "structure": "主句 + , which/who/where/when + 从句",
+      "usage": "用来补充额外信息，which可指代前面的整个句子或句子中的某个名词，who指代人",
+      "examples": [
+        {
+          "en": "Two main techniques have been used for training elephants, which we may call respectively the tough and the gentle.",
+          "zh": "训练大象主要有两种方法，我们可以分别称之为强硬法和温柔法。"
+        },
+        {
+          "en": "The gentle method requires more patience in the early stages, which produces a cheerful good-tempered elephant.",
+          "zh": "温柔法在初期需要更多耐心，这种方法能训练出性格开朗温顺、能多年忠诚服役的大象。"
+        }
+      ]
+    },
+    {
+      "title": "原因状语从句",
+      "definition": "用来解释主句动作或情况发生的原因，常用引导词有for, because, since, as等",
+      "structure": "主句 + for/because/since/as + 从句",
+      "usage": "for引导的原因状语从句通常不放在句首，是对前面内容的补充说明，语气比because弱",
+      "examples": [
+        {
+          "en": "Apart from any moral considerations this is a stupid method of training, for it produces a resentful animal who at a later stage may well turn man-killer.",
+          "zh": "且不说道德方面的考虑，这种训练方法本身就很愚蠢，因为它会让动物产生怨恨，之后很可能会变成伤人的野兽。"
+        },
+        {
+          "en": "The most economical age to capture an elephant for training is between 15 and 20 years, for it is then almost ready to undertake heavy work.",
+          "zh": "捕捉大象进行训练最划算的年龄是15到20岁之间，因为这个年龄的大象差不多已经可以干重活了。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Two main ... have been used for ..., which we may call respectively A and B.",
+      "original": {
+        "en": "Two main techniques have been used for training elephants, which we may call respectively the tough and the gentle.",
+        "zh": "训练大象主要有两种方法，我们可以分别称之为强硬法和温柔法。"
+      },
+      "imitations": [
+        {
+          "en": "Two main methods have been used for learning foreign languages, which we may call respectively the rote-learning method and the immersion method.",
+          "zh": "学习外语主要有两种方法，我们可以分别称之为死记硬背法和沉浸法。"
+        },
+        {
+          "en": "Two main solutions have been proposed for this environmental problem, which we may call respectively the technological approach and the policy approach.",
+          "zh": "针对这个环境问题，人们提出了两种主要解决方案，我们可以分别称之为技术方案和政策方案。"
+        }
+      ]
+    },
+    {
+      "pattern": "The first essential in ... is to ... who will be responsible for ...",
+      "original": {
+        "en": "The first essential in elephant training is to assign to the animal a single mahout who will be entirely responsible for the job.",
+        "zh": "训练大象的第一要务是给大象指派一名专门的驯象师，由他全权负责这项工作。"
+      },
+      "imitations": [
+        {
+          "en": "The first essential in project management is to appoint a project manager who will be entirely responsible for the whole process.",
+          "zh": "项目管理的第一要务是任命一名项目经理，由他全权负责整个流程。"
+        },
+        {
+          "en": "The first essential in dog training is to let the dog recognize a sole owner who will be responsible for its daily care and instruction.",
+          "zh": "训练狗狗的第一要务是让狗狗认可唯一的主人，由主人负责它的日常照顾和指令训练。"
+        }
+      ]
+    },
+    {
+      "pattern": "Such extreme cases must probably be taken with a grain of salt, but they do underline the general principle that ...",
+      "original": {
+        "en": "Such extreme cases must probably be taken with a grain of salt, but they do underline the general principle that the relationship between elephant and mahout is the key to successful training.",
+        "zh": "这类极端案例可能不能完全当真，但它们确实突出了一个普遍原则：大象和驯象师之间的关系是训练成功的关键。"
+      },
+      "imitations": [
+        {
+          "en": "Such unbelievable success stories must probably be taken with a grain of salt, but they do underline the general principle that persistent effort is the foundation of achievement.",
+          "zh": "这类令人难以置信的成功故事可能不能完全当真，但它们确实突出了一个普遍原则：持续的努力是成就的基础。"
+        },
+        {
+          "en": "Such rare medical cases must probably be taken with a grain of salt, but they do underline the general principle that early detection of disease greatly improves treatment effects.",
+          "zh": "这类罕见的医疗案例可能不能完全当真，但它们确实突出了一个普遍原则：疾病的早期发现能极大提升治疗效果。"
+        }
+      ]
+    }
+  ]
+}

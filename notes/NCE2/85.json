@@ -1,0 +1,398 @@
+{
+  "book": "NCE2",
+  "lesson": "85",
+  "title": "How long has Mr. Page been teaching?",
+  "vocabulary": [
+    {
+      "word": "receive",
+      "phonetic": "/rɪˈsiːv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "收到；接到",
+          "usage": "表示通过邮寄、传递等方式收到某物"
+        }
+      ]
+    },
+    {
+      "word": "former",
+      "phonetic": "/ˈfɔːmə(r)/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "以前的；前任的",
+          "usage": "用于描述过去担任某职务或处于某种状态的人或事物"
+        }
+      ]
+    },
+    {
+      "word": "headmaster",
+      "phonetic": "/ˌhedˈmɑːstə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "校长",
+          "usage": "指中小学校的男性校长"
+        }
+      ]
+    },
+    {
+      "word": "retire",
+      "phonetic": "/rɪˈtaɪə(r)/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "退休；退役",
+          "usage": "指停止工作并离开工作岗位"
+        }
+      ]
+    },
+    {
+      "word": "pupil",
+      "phonetic": "/ˈpjuːpl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "学生；小学生",
+          "usage": "尤指中小学生，通常指年龄较小的学生"
+        }
+      ]
+    },
+    {
+      "word": "contribute",
+      "phonetic": "/kənˈtrɪbjuːt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "贡献；捐赠；投稿",
+          "usage": "常与towards连用，表示为某事出钱或出力"
+        }
+      ]
+    },
+    {
+      "word": "gift",
+      "phonetic": "/ɡɪft/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "礼物；赠品",
+          "usage": "指向他人赠送的东西，也可指天赋"
+        }
+      ]
+    },
+    {
+      "word": "patience",
+      "phonetic": "/ˈpeɪʃns/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "耐心；忍耐",
+          "usage": "指能够耐心等待或忍受困难的能力"
+        }
+      ]
+    },
+    {
+      "word": "understanding",
+      "phonetic": "/ˌʌndəˈstændɪŋ/",
+      "meanings": [
+        {
+          "pos": "noun/adj",
+          "meaning": "理解；谅解/善解人意的",
+          "usage": "作名词指理解力，作形容词指善于理解他人的"
+        }
+      ]
+    },
+    {
+      "word": "encouragement",
+      "phonetic": "/ɪnˈkʌrɪdʒmənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "鼓励；支持",
+          "usage": "指向他人提供精神上的支持和激励"
+        }
+      ]
+    },
+    {
+      "word": "farewell",
+      "phonetic": "/ˌfeəˈwel/",
+      "meanings": [
+        {
+          "pos": "noun/interj",
+          "meaning": "告别；辞别",
+          "usage": "用于正式场合的告别，或指送别宴会"
+        }
+      ]
+    },
+    {
+      "word": "devote",
+      "phonetic": "/dɪˈvəʊt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "致力于；奉献",
+          "usage": "常与to连用，将时间、精力等用于某事"
+        }
+      ]
+    },
+    {
+      "word": "entirely",
+      "phonetic": "/ɪnˈtaɪəli/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "完全地；全部地",
+          "usage": "用于强调程度，意思是完全、彻底"
+        }
+      ]
+    },
+    {
+      "word": "curious",
+      "phonetic": "/ˈkjʊəriəs/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "好奇的；奇特的",
+          "usage": "指对新事物有浓厚兴趣或指事物不寻常"
+        }
+      ]
+    },
+    {
+      "word": "hobby",
+      "phonetic": "/ˈhɒbi/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "爱好；嗜好",
+          "usage": "指在工作之余出于兴趣进行的活动"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "inform someone that",
+      "usage": "通知/告知某人某事",
+      "examples": [
+        {
+          "en": "I informed him that the meeting had been postponed.",
+          "zh": "我通知他会议已经推迟了。"
+        }
+      ]
+    },
+    {
+      "phrase": "contribute towards",
+      "usage": "为...贡献/捐助",
+      "examples": [
+        {
+          "en": "All those who have contributed towards the gift will sign their names.",
+          "zh": "所有为这份礼物捐款的人都将签名。"
+        }
+      ]
+    },
+    {
+      "phrase": "mark the occasion",
+      "usage": "纪念这个时刻/场合",
+      "examples": [
+        {
+          "en": "We sent him a present to mark the occasion.",
+          "zh": "我们送他一份礼物以纪念这个时刻。"
+        }
+      ]
+    },
+    {
+      "phrase": "remember someone for",
+      "usage": "因...而记住某人",
+      "examples": [
+        {
+          "en": "We shall all remember Mr. Page for his patience.",
+          "zh": "我们将永远因他的耐心而记住佩奇先生。"
+        }
+      ]
+    },
+    {
+      "phrase": "in one's honour",
+      "usage": "为了向某人表示敬意",
+      "examples": [
+        {
+          "en": "A great many former pupils will be attending a farewell dinner in his honour.",
+          "zh": "许多老校友将出席为他举行的告别晚宴。"
+        }
+      ]
+    },
+    {
+      "phrase": "devote oneself to",
+      "usage": "致力于；献身于",
+      "examples": [
+        {
+          "en": "After he has retired he will devote himself to gardening.",
+          "zh": "退休后他将致力于园艺。"
+        }
+      ]
+    },
+    {
+      "phrase": "one is never too old to learn",
+      "usage": "活到老学到老",
+      "examples": [
+        {
+          "en": "One is never too old to learn.",
+          "zh": "活到老学到老。"
+        }
+      ]
+    },
+    {
+      "phrase": "go to school",
+      "usage": "去上学",
+      "examples": [
+        {
+          "en": "He gave us encouragement when we went so unwillingly to school.",
+          "zh": "当我们不情愿地去上学时，他给了我们鼓励。"
+        }
+      ]
+    },
+    {
+      "phrase": "send someone something",
+      "usage": "给某人发送/寄送某物",
+      "examples": [
+        {
+          "en": "Pupils will be sending him a present.",
+          "zh": "学生们将送他一份礼物。"
+        }
+      ]
+    },
+    {
+      "phrase": "It is a curious coincidence that",
+      "usage": "真是巧合.../说来也巧...",
+      "examples": [
+        {
+          "en": "It is a curious coincidence that the day before his retirement, Mr. Page will have been teaching for forty years.",
+          "zh": "说来也巧，就在他退休前一天，佩奇先生将教满四十年书。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "现在完成进行时 (Present Perfect Continuous Tense)",
+      "definition": "表示从过去开始一直持续到现在，并且可能继续下去的动作。常与表示一段时间的时间状语连用，如for+时间段、since+时间点。",
+      "structure": "主语 + have/has + been + 动词-ing",
+      "usage": "用于询问或描述一个持续进行且可能仍在继续的动作，强调动作的持续性。疑问句将have/has提前。",
+      "examples": [
+        {
+          "en": "How long has Mr. Page been teaching?",
+          "zh": "佩奇先生教了多久的书了？"
+        },
+        {
+          "en": "I have been waiting for you for two hours.",
+          "zh": "我已经等了你两个小时了。"
+        },
+        {
+          "en": "She has been working here since 2010.",
+          "zh": "她从2010年起就在这里工作了。"
+        }
+      ]
+    },
+    {
+      "title": "将来完成进行时 (Future Perfect Continuous Tense)",
+      "definition": "表示在将来某一时刻之前已经开始并一直持续到该时刻的动作。构成形式为：will + have + been + 动词-ing。",
+      "structure": "主语 + will + have + been + 动词-ing",
+      "usage": "用于描述到将来某个时间点已经持续了多长时间的动作，常与by + 将来的时间点连用。",
+      "examples": [
+        {
+          "en": "Mr. Page will have been teaching for forty years by then.",
+          "zh": "到那时佩奇先生将已经教了四十年书。"
+        },
+        {
+          "en": "By next month, I will have been living here for five years.",
+          "zh": "到下个月，我将已经在这里住了五年。"
+        }
+      ]
+    },
+    {
+      "title": "现在完成时与现在完成进行时的区别",
+      "definition": "现在完成时强调动作已完成或结果；现在完成进行时强调动作的持续性，有时带有感情色彩。",
+      "structure": "现在完成时：have/has + 过去分词；现在完成进行时：have/has + been + 现在分词",
+      "usage": "表示延续性动词两者均可使用，但现在完成进行时更强调动作的持续过程。短暂动词只能用现在完成时。",
+      "examples": [
+        {
+          "en": "I have read the book. (已完成) / I have been reading the book. (一直在读)",
+          "zh": "我已经读完了这本书。/ 我一直在读这本书。"
+        },
+        {
+          "en": "I have lived here for ten years. / I have been living here for ten years.",
+          "zh": "我在这里住了十年了。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "How long has + 主语 + been + 动词-ing?",
+      "original": {
+        "en": "How long has Mr. Page been teaching?",
+        "zh": "佩奇先生教了多久的书了？"
+      },
+      "imitations": [
+        {
+          "en": "How long has she been working here?",
+          "zh": "她在这里工作多久了？"
+        },
+        {
+          "en": "How long has he been learning English?",
+          "zh": "他学英语多久了？"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + will have been + 动词-ing + for + 时间段",
+      "original": {
+        "en": "Mr. Page will have been teaching for a total of forty years.",
+        "zh": "佩奇先生将教满整整四十年书。"
+      },
+      "imitations": [
+        {
+          "en": "By next year, she will have been teaching for twenty years.",
+          "zh": "到明年，她将教满二十年书。"
+        },
+        {
+          "en": "He will have been living here for five years by December.",
+          "zh": "到十二月，他将在这里住满五年。"
+        }
+      ]
+    },
+    {
+      "pattern": "It is a curious coincidence that + 从句",
+      "original": {
+        "en": "It is a curious coincidence that the day before his retirement, Mr. Page will have been teaching for forty years.",
+        "zh": "说来也巧，就在他退休前一天，佩奇先生将教满四十年书。"
+      },
+      "imitations": [
+        {
+          "en": "It is a curious coincidence that we met again after ten years.",
+          "zh": "说来也巧，我们在十年后又相遇了。"
+        },
+        {
+          "en": "It is a curious coincidence that both of them chose the same university.",
+          "zh": "真是巧合，他们两人都选择了同一所大学。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + will devote oneself to + 名词/动词-ing",
+      "original": {
+        "en": "After he has retired he will devote himself to gardening.",
+        "zh": "退休后他将致力于园艺。"
+      },
+      "imitations": [
+        {
+          "en": "She will devote herself to teaching after retirement.",
+          "zh": "退休后她将致力于教学。"
+        },
+        {
+          "en": "He decided to devote himself to writing.",
+          "zh": "他决定投身于写作。"
+        }
+      ]
+    }
+  ]
+}

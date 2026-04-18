@@ -1,0 +1,329 @@
+{
+  "book": "NCE1",
+  "lesson": "039-040",
+  "title": "Lesson 39",
+  "vocabulary": [
+    {
+      "word": "drop",
+      "phonetic": "/drɒp/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "掉落；使落下",
+          "usage": "指东西从高处落下或被人放下"
+        }
+      ]
+    },
+    {
+      "word": "vase",
+      "phonetic": "/vɑːz/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "花瓶",
+          "usage": "用于插花或装饰的容器"
+        }
+      ]
+    },
+    {
+      "word": "careful",
+      "phonetic": "/ˈkeəfl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "小心的；仔细的",
+          "usage": "形容人对事物的谨慎态度"
+        }
+      ]
+    },
+    {
+      "word": "lovely",
+      "phonetic": "/ˈlʌvli/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "可爱的；美丽的",
+          "usage": "形容令人喜爱的人或事物"
+        }
+      ]
+    },
+    {
+      "word": "flower",
+      "phonetic": "/ˈflaʊə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "花；花朵",
+          "usage": "指植物开的花"
+        }
+      ]
+    },
+    {
+      "word": "table",
+      "phonetic": "/ˈteɪbl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "桌子",
+          "usage": "指家具中的桌子"
+        }
+      ]
+    },
+    {
+      "word": "window",
+      "phonetic": "/ˈwɪndəʊ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "窗户",
+          "usage": "建筑物上的窗户"
+        }
+      ]
+    },
+    {
+      "word": "shelf",
+      "phonetic": "/ʃelf/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "架子；搁板",
+          "usage": "用于放置物品的水平木板"
+        }
+      ]
+    },
+    {
+      "word": "front",
+      "phonetic": "/frʌnt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "前面；正面",
+          "usage": "指某物的前部位置"
+        }
+      ]
+    },
+    {
+      "word": "behind",
+      "phonetic": "/bɪˈhaɪnd/",
+      "meanings": [
+        {
+          "pos": "preposition",
+          "meaning": "在...后面",
+          "usage": "表示位置关系"
+        }
+      ]
+    },
+    {
+      "word": "put",
+      "phonetic": "/pʊt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "放置；放",
+          "usage": "指将某物放到某处"
+        }
+      ]
+    },
+    {
+      "word": "there",
+      "phonetic": "/ðeə/",
+      "meanings": [
+        {
+          "pos": "exclamation",
+          "meaning": "那儿（用于引起注意或确认）",
+          "usage": "用于表示某事已完成或确认某物位置"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Don't drop it!",
+      "usage": "否定祈使句，用于警告他人不要掉落某物",
+      "examples": [
+        {
+          "en": "Don't drop it! It's very fragile.",
+          "zh": "别掉了！它很容易碎。"
+        }
+      ]
+    },
+    {
+      "phrase": "Be careful!",
+      "usage": "提醒他人小心谨慎",
+      "examples": [
+        {
+          "en": "Be careful! The floor is wet.",
+          "zh": "小心！地板是湿的。"
+        }
+      ]
+    },
+    {
+      "phrase": "What are you going to do with...?",
+      "usage": "询问某人打算如何处理某物",
+      "examples": [
+        {
+          "en": "What are you going to do with that old book?",
+          "zh": "你打算如何处理那本旧书？"
+        }
+      ]
+    },
+    {
+      "phrase": "in front of",
+      "usage": "表示在...前面（外部位置）",
+      "examples": [
+        {
+          "en": "The car is parked in front of the building.",
+          "zh": "车停在楼前面。"
+        }
+      ]
+    },
+    {
+      "phrase": "There we are!",
+      "usage": "表示某事已完成或某物已放好",
+      "examples": [
+        {
+          "en": "There we are! The picture is straight now.",
+          "zh": "好了！画现在挂正了。"
+        }
+      ]
+    },
+    {
+      "phrase": "Give it to me",
+      "usage": "要求将某物递给自己",
+      "examples": [
+        {
+          "en": "Give it to me, please. I need to see it.",
+          "zh": "请把它给我。我需要看看。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Be going to 表示将来计划",
+      "definition": "be going to + 动词原形表示对未来的计划、意图或预测",
+      "structure": "主语 + am/is/are + going to + 动词原形",
+      "usage": "用于表达已经决定或计划好的将来动作",
+      "examples": [
+        {
+          "en": "I'm going to put it on this table.",
+          "zh": "我打算把它放在这张桌子上。"
+        },
+        {
+          "en": "What are you going to do with that vase?",
+          "zh": "你打算如何处理那个花瓶？"
+        }
+      ]
+    },
+    {
+      "title": "否定祈使句 Don't + 动词原形",
+      "definition": "在动词原形前加Don't构成否定祈使句，用于表示不要做某事",
+      "structure": "Don't + 动词原形 + 其他",
+      "usage": "用于命令、警告或请求他人不要做某事",
+      "examples": [
+        {
+          "en": "Don't do that.",
+          "zh": "不要那样做。"
+        },
+        {
+          "en": "Don't drop it!",
+          "zh": "别把它掉了！"
+        },
+        {
+          "en": "Don't put it there.",
+          "zh": "别把它放在那里。"
+        }
+      ]
+    },
+    {
+      "title": "Be + 形容词 祈使句",
+      "definition": "使用Be动词加形容词构成的祈使句",
+      "structure": "Be + 形容词 + 其他",
+      "usage": "用于提醒或要求他人保持某种状态或小心",
+      "examples": [
+        {
+          "en": "Be careful!",
+          "zh": "小心！"
+        },
+        {
+          "en": "Be quiet!",
+          "zh": "安静！"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "What are you going to do with + 名词?",
+      "original": {
+        "en": "What are you going to do with that vase, Penny?",
+        "zh": "Penny，你打算如何处理那个花瓶？"
+      },
+      "imitations": [
+        {
+          "en": "What are you going to do with this book?",
+          "zh": "你打算如何处理这本书？"
+        },
+        {
+          "en": "What are you going to do with that old chair?",
+          "zh": "你打算如何处理那把旧椅子？"
+        }
+      ]
+    },
+    {
+      "pattern": "Don't + 动词原形 + 其他",
+      "original": {
+        "en": "Don't drop it!",
+        "zh": "别掉了！"
+      },
+      "imitations": [
+        {
+          "en": "Don't touch it!",
+          "zh": "别碰它！"
+        },
+        {
+          "en": "Don't open the window.",
+          "zh": "别开窗户。"
+        },
+        {
+          "en": "Don't put it there.",
+          "zh": "别把它放在那里。"
+        }
+      ]
+    },
+    {
+      "pattern": "Be + 形容词!",
+      "original": {
+        "en": "Be careful!",
+        "zh": "小心！"
+      },
+      "imitations": [
+        {
+          "en": "Be quiet!",
+          "zh": "安静！"
+        },
+        {
+          "en": "Be patient!",
+          "zh": "耐心点！"
+        }
+      ]
+    },
+    {
+      "pattern": "It's a + 形容词 + 名词",
+      "original": {
+        "en": "It's a lovely vase.",
+        "zh": "它是一个可爱的花瓶。"
+      },
+      "imitations": [
+        {
+          "en": "It's a lovely day.",
+          "zh": "今天天气真好。"
+        },
+        {
+          "en": "It's a beautiful flower.",
+          "zh": "它是一朵美丽的花。"
+        }
+      ]
+    }
+  ]
+}

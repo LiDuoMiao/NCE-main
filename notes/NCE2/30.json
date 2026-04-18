@@ -1,0 +1,398 @@
+{
+  "book": "NCE2",
+  "lesson": "30",
+  "title": "What happened to the man in the boat?",
+  "vocabulary": [
+    {
+      "word": "river",
+      "phonetic": "/ˈrɪvə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "河流",
+          "usage": "指自然流动的水道，如 the Thames, the Yangtze River"
+        }
+      ]
+    },
+    {
+      "word": "bank",
+      "phonetic": "/bæŋk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "河岸；银行",
+          "usage": "指河流的岸边，也指银行金融机构"
+        }
+      ]
+    },
+    {
+      "word": "warm",
+      "phonetic": "/wɔːm/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "温暖的；暖和的",
+          "usage": "描述温度适中，不冷不热"
+        }
+      ]
+    },
+    {
+      "word": "afternoon",
+      "phonetic": "/ˌɑːftəˈnuːn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "下午",
+          "usage": "指中午12点到傍晚之间的时间"
+        }
+      ]
+    },
+    {
+      "word": "children",
+      "phonetic": "/ˈtʃɪldrən/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "孩子们（child的复数）",
+          "usage": "child的复数形式，指年龄较小的人"
+        }
+      ]
+    },
+    {
+      "word": "game",
+      "phonetic": "/ɡeɪm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "游戏；比赛",
+          "usage": "指有规则的活动或体育运动"
+        }
+      ]
+    },
+    {
+      "word": "row",
+      "phonetic": "/rəʊ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "划（船）",
+          "usage": "用桨划船的动作"
+        }
+      ]
+    },
+    {
+      "word": "suddenly",
+      "phonetic": "/ˈsʌdənli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "突然地；出乎意料地",
+          "usage": "描述事情发生得很快且出乎意料"
+        }
+      ]
+    },
+    {
+      "word": "kick",
+      "phonetic": "/kɪk/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "踢",
+          "usage": "用脚踢球或其他物体的动作"
+        }
+      ]
+    },
+    {
+      "word": "passing",
+      "phonetic": "/ˈpɑːsɪŋ/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "经过的；过往的",
+          "usage": "形容正在经过某地的事物"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "phonetic": "/bəʊt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "小船；舟",
+          "usage": "指小型水上交通工具"
+        }
+      ]
+    },
+    {
+      "word": "strike",
+      "phonetic": "/straɪk/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "击打；撞击",
+          "usage": "指用力碰撞或击中某人或某物"
+        }
+      ]
+    },
+    {
+      "word": "nearly",
+      "phonetic": "/ˈnɪəli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "几乎；差不多",
+          "usage": "表示非常接近但未完全达到"
+        }
+      ]
+    },
+    {
+      "word": "sight",
+      "phonetic": "/saɪt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "视野；视力",
+          "usage": "in sight 表示在视野范围内"
+        }
+      ]
+    },
+    {
+      "word": "realize",
+      "phonetic": "/ˈrɪəlaɪz/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "意识到；认识到",
+          "usage": "指突然明白或发现某事"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "cut across",
+      "usage": "穿过；横穿",
+      "examples": [
+        {
+          "en": "The Wayle is a small river that cuts across the park.",
+          "zh": "韦尔河是一条穿过我家附近公园的小河。"
+        }
+      ]
+    },
+    {
+      "phrase": "as usual",
+      "usage": "像往常一样；照例",
+      "examples": [
+        {
+          "en": "I went and sat on the river bank as usual.",
+          "zh": "我像往常一样去河边坐着。"
+        }
+      ]
+    },
+    {
+      "phrase": "call out to",
+      "usage": "大声呼唤；向...喊叫",
+      "examples": [
+        {
+          "en": "Some people on the bank called out to the man in the boat.",
+          "zh": "岸上的一些人向船里的男人大声喊叫。"
+        }
+      ]
+    },
+    {
+      "phrase": "so...that...",
+      "usage": "如此...以至于...",
+      "examples": [
+        {
+          "en": "The ball struck him so hard that he nearly fell into the water.",
+          "zh": "球重重地击中了他，他差点掉进水里。"
+        }
+      ]
+    },
+    {
+      "phrase": "in sight",
+      "usage": "在视野中；看得见",
+      "examples": [
+        {
+          "en": "There weren't any in sight.",
+          "zh": "一个人影也看不见。"
+        }
+      ]
+    },
+    {
+      "phrase": "run away",
+      "usage": "逃跑；跑开",
+      "examples": [
+        {
+          "en": "They had all run away!",
+          "zh": "他们都跑走了！"
+        }
+      ]
+    },
+    {
+      "phrase": "go towards",
+      "usage": "朝...走去；向...移动",
+      "examples": [
+        {
+          "en": "It went towards a passing boat.",
+          "zh": "它朝一条经过的船飞去。"
+        }
+      ]
+    },
+    {
+      "phrase": "throw back",
+      "usage": "扔回；抛回",
+      "examples": [
+        {
+          "en": "He threw the ball back to the bank.",
+          "zh": "他把球扔回岸上。"
+        }
+      ]
+    },
+    {
+      "phrase": "play games",
+      "usage": "玩游戏；做游戏",
+      "examples": [
+        {
+          "en": "Some children were playing games on the bank.",
+          "zh": "一些孩子在岸上玩游戏。"
+        }
+      ]
+    },
+    {
+      "phrase": "on fine afternoons",
+      "usage": "在晴朗的下午",
+      "examples": [
+        {
+          "en": "I like sitting by the Wayle on fine afternoons.",
+          "zh": "我喜欢在晴朗的下午坐在韦尔河边。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "一般过去时 (Simple Past Tense)",
+      "definition": "表示过去发生的动作或存在的状态",
+      "structure": "主语 + 动词过去式 + 其他",
+      "usage": "描述过去某一具体时间发生的动作或事件",
+      "examples": [
+        {
+          "en": "It was warm last Sunday.",
+          "zh": "上个星期天天气很暖和。"
+        },
+        {
+          "en": "The ball struck him so hard.",
+          "zh": "球重重地击中了他。"
+        },
+        {
+          "en": "He laughed when he realized what had happened.",
+          "zh": "当他意识到发生了什么时，他笑了。"
+        }
+      ]
+    },
+    {
+      "title": "过去进行时 (Past Continuous Tense)",
+      "definition": "表示过去某一时刻或时间段正在进行的动作",
+      "structure": "主语 + was/were + 动词-ing + 其他",
+      "usage": "描述过去正在进行的动作，常与 when, while 等连用",
+      "examples": [
+        {
+          "en": "Some children were playing games on the bank.",
+          "zh": "一些孩子在岸上玩游戏。"
+        },
+        {
+          "en": "Some people were rowing on the river.",
+          "zh": "河上有一些人在划船。"
+        }
+      ]
+    },
+    {
+      "title": "过去完成时 (Past Perfect Tense)",
+      "definition": "表示在过去某一时间之前已经完成的动作",
+      "structure": "主语 + had + 过去分词 + 其他",
+      "usage": "描述在过去的过去已经发生的事情",
+      "examples": [
+        {
+          "en": "They had all run away before I could react.",
+          "zh": "在我反应过来之前他们都已经跑走了。"
+        },
+        {
+          "en": "He realized what had happened.",
+          "zh": "他意识到发生了什么（指在那个时刻之前就已经发生了）。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "主语 + be动词(过去式) + 形容词 + 时间点",
+      "original": {
+        "en": "It was warm last Sunday.",
+        "zh": "上个星期天天气很暖和。"
+      },
+      "imitations": [
+        {
+          "en": "It was cold yesterday.",
+          "zh": "昨天天气很冷。"
+        },
+        {
+          "en": "It was sunny this morning.",
+          "zh": "今天早上天气晴朗。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + 动词(过去式) + ...so...that...",
+      "original": {
+        "en": "The ball struck him so hard that he nearly fell into the water.",
+        "zh": "球重重地击中了他，他差点掉进水里。"
+      },
+      "imitations": [
+        {
+          "en": "She spoke so fast that nobody could understand her.",
+          "zh": "她说得太快了，没人能听懂。"
+        },
+        {
+          "en": "The box was so heavy that I couldn't lift it.",
+          "zh": "箱子太重了，我搬不动。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + 动词(过去式) + when + 句子",
+      "original": {
+        "en": "He laughed when he realized what had happened.",
+        "zh": "当他意识到发生了什么时，他笑了。"
+      },
+      "imitations": [
+        {
+          "en": "She cried when she heard the news.",
+          "zh": "当她听到这个消息时，她哭了。"
+        },
+        {
+          "en": "The teacher smiled when he saw the students.",
+          "zh": "当老师看到学生们时，他笑了。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + 动词(过去式) + ...to + 地点/人",
+      "original": {
+        "en": "He called out to the children and threw the ball back to the bank.",
+        "zh": "他向孩子们喊叫，并把球扔回岸上。"
+      },
+      "imitations": [
+        {
+          "en": "She waved to her friends.",
+          "zh": "她向她的朋友们挥手。"
+        },
+        {
+          "en": "He shouted to the driver.",
+          "zh": "他朝司机大声喊。"
+        }
+      ]
+    }
+  ]
+}

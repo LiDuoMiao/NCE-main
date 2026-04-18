@@ -1,0 +1,402 @@
+{
+  "book": "NCE3",
+  "lesson": "22",
+  "title": "Lesson 22",
+  "vocabulary": [
+    {
+      "word": "aristocrat",
+      "phonetic": "/ˈærɪstəkræt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "贵族",
+          "usage": "指出身高贵、有贵族头衔的人"
+        }
+      ]
+    },
+    {
+      "word": "gaoler",
+      "phonetic": "/ˈdʒeɪlə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "监狱看守",
+          "usage": "负责看守囚犯的人，同 jailer"
+        }
+      ]
+    },
+    {
+      "word": "prisoner",
+      "phonetic": "/ˈprɪznə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "囚犯；俘虏",
+          "usage": "被关押的人，指因犯罪而被拘禁"
+        }
+      ]
+    },
+    {
+      "word": "performance",
+      "phonetic": "/pəˈfɔːməns/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "表演；演出",
+          "usage": "戏剧、音乐等在观众面前的正式演出"
+        }
+      ]
+    },
+    {
+      "word": "cast",
+      "phonetic": "/kɑːst/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "挑选...扮演角色",
+          "usage": "在戏剧或电影中指定演员扮演某个角色"
+        }
+      ]
+    },
+    {
+      "word": "insist",
+      "phonetic": "/ɪnˈsɪst/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "坚持；坚决要求",
+          "usage": "强烈要求某事发生，含有坚持己见之意"
+        }
+      ]
+    },
+    {
+      "word": "blank",
+      "phonetic": "/blæŋk/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "空白的；无内容的",
+          "usage": "没有写字或图案的，指纸张等表面无内容"
+        }
+      ]
+    },
+    {
+      "word": "dim",
+      "phonetic": "/dɪm/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "昏暗的；暗淡的",
+          "usage": "光线不充足，模糊不清"
+        }
+      ]
+    },
+    {
+      "word": "squint",
+      "phonetic": "/skwɪnt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "眯着眼睛看",
+          "usage": "眼睛微微眯起以看得更清楚或避免强光"
+        }
+      ]
+    },
+    {
+      "word": "joke",
+      "phonetic": "/dʒəʊk/",
+      "meanings": [
+        {
+          "pos": "noun/verb",
+          "meaning": "笑话；开玩笑",
+          "usage": "用于逗乐的话语或行为"
+        }
+      ]
+    },
+    {
+      "word": "cell",
+      "phonetic": "/sel/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "牢房；单人房间",
+          "usage": "监狱中关押单个囚犯的小房间"
+        }
+      ]
+    },
+    {
+      "word": "present",
+      "phonetic": "/prɪˈzent/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "递交；呈上",
+          "usage": "正式地将某物交给某人"
+        }
+      ]
+    },
+    {
+      "word": "promptly",
+      "phonetic": "/ˈprɒmptli/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "立刻；迅速地",
+          "usage": "表示立即或很快地做某事"
+        }
+      ]
+    },
+    {
+      "word": "bars",
+      "phonetic": "/bɑːz/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "铁栏杆",
+          "usage": "监狱窗户或门上的金属条，用于防止逃跑"
+        }
+      ]
+    },
+    {
+      "word": "imprison",
+      "phonetic": "/ɪmˈprɪzn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "监禁；关押",
+          "usage": "将某人关在监狱中"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "by heart",
+      "usage": "背诵；牢记",
+      "examples": [
+        {
+          "en": "Students must learn these poems by heart.",
+          "zh": "学生们必须把这些诗背下来。"
+        },
+        {
+          "en": "He knew all the lines by heart.",
+          "zh": "他把这些台词都背熟了。"
+        }
+      ]
+    },
+    {
+      "phrase": "run for years on end",
+      "usage": "连续上演多年",
+      "examples": [
+        {
+          "en": "The show has run for years on end.",
+          "zh": "这个节目已经连续演出了很多年。"
+        }
+      ]
+    },
+    {
+      "phrase": "night after night",
+      "usage": "夜复一夜；连续多夜",
+      "examples": [
+        {
+          "en": "She practiced the piano night after night.",
+          "zh": "她夜复一夜地练习钢琴。"
+        }
+      ]
+    },
+    {
+      "phrase": "have cause to do something",
+      "usage": "有理由/有原因做某事",
+      "examples": [
+        {
+          "en": "You have no cause to complain.",
+          "zh": "你没有理由抱怨。"
+        }
+      ]
+    },
+    {
+      "phrase": "come on to the stage",
+      "usage": "登上舞台；出场",
+      "examples": [
+        {
+          "en": "The actress came on to the stage at the second act.",
+          "zh": "女演员在第二幕登上舞台。"
+        }
+      ]
+    },
+    {
+      "phrase": "play a joke on someone",
+      "usage": "捉弄某人；开某人的玩笑",
+      "examples": [
+        {
+          "en": "They decided to play a joke on their teacher.",
+          "zh": "他们决定捉弄一下老师。"
+        }
+      ]
+    },
+    {
+      "phrase": "look on eagerly",
+      "usage": "热切地看着",
+      "examples": [
+        {
+          "en": "The audience looked on eagerly as the drama unfolded.",
+          "zh": "观众热切地看着剧情展开。"
+        }
+      ]
+    },
+    {
+      "phrase": "be cast in the role of",
+      "usage": "被选中扮演...角色",
+      "examples": [
+        {
+          "en": "She was cast in the role of Juliet.",
+          "zh": "她被选中扮演朱丽叶的角色。"
+        }
+      ]
+    },
+    {
+      "phrase": "hand to",
+      "usage": "递给；交给",
+      "examples": [
+        {
+          "en": "He handed the letter to the prisoner.",
+          "zh": "他把信递给了囚犯。"
+        }
+      ]
+    },
+    {
+      "phrase": "hurry off",
+      "usage": "匆忙离开",
+      "examples": [
+        {
+          "en": "With this, he hurried off the stage.",
+          "zh": "说完，他便匆匆离开了舞台。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "一般过去时 (Simple Past Tense)",
+      "definition": "表示过去发生的动作或存在的状态",
+      "structure": "主语 + 动词过去式",
+      "usage": "用于叙述过去发生的事情，故事通常采用过去时叙述",
+      "examples": [
+        {
+          "en": "The curtain went up on the final act.",
+          "zh": "最后一幕的幕布升起了。"
+        },
+        {
+          "en": "The gaoler appeared with the precious letter.",
+          "zh": "看守拿着那封珍贵的信出现了。"
+        },
+        {
+          "en": "The noble stared at the blank sheet of paper.",
+          "zh": "贵族盯着那张空白的纸看了一会儿。"
+        }
+      ]
+    },
+    {
+      "title": "过去进行时 (Past Continuous Tense)",
+      "definition": "表示过去某一时刻或时间段正在进行的动作",
+      "structure": "主语 + was/were + 动词-ing",
+      "usage": "用于描述过去正在发生的事情，常与过去进行时连用",
+      "examples": [
+        {
+          "en": "The gaoler was looking on eagerly.",
+          "zh": "看守正热切地看着。"
+        },
+        {
+          "en": "The aristocrat was sitting alone behind bars.",
+          "zh": "贵族独自坐在铁栏后面。"
+        }
+      ]
+    },
+    {
+      "title": "used to 的用法",
+      "definition": "表示过去习惯性的动作或状态",
+      "structure": "主语 + used to + 动词原形",
+      "usage": "表示过去的习惯，与现在形成对比",
+      "examples": [
+        {
+          "en": "He always insisted that it should be written out in full.",
+          "zh": "他总是坚持要求把信完整地写出来。"
+        },
+        {
+          "en": "The gaoler would always come on to the stage with a letter.",
+          "zh": "看守总是拿着信走上舞台。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Some plays are so successful that + 主语 + 动词",
+      "original": {
+        "en": "Some plays are so successful that they run for years on end.",
+        "zh": "有些戏剧如此成功，以至于它们连续上演多年。"
+      },
+      "imitations": [
+        {
+          "en": "He is so tired that he can hardly speak.",
+          "zh": "他太累了，几乎说不出话来。"
+        },
+        {
+          "en": "The book is so interesting that everyone wants to read it.",
+          "zh": "这本书太有趣了，每个人都想看。"
+        }
+      ]
+    },
+    {
+      "pattern": "One would expect + 主语 + to do something",
+      "original": {
+        "en": "One would expect them to know their parts by heart.",
+        "zh": "人们会期望他们把台词背熟。"
+      },
+      "imitations": [
+        {
+          "en": "One would expect a professional to do better.",
+          "zh": "人们会期望一个专业人士做得更好。"
+        },
+        {
+          "en": "One would expect her to arrive on time.",
+          "zh": "人们会期望她准时到达。"
+        }
+      ]
+    },
+    {
+      "pattern": "...to find out if + 主语 + 过去式",
+      "original": {
+        "en": "The gaoler decided to play a joke on his colleague to find out if he had managed to learn the contents of the letter by heart.",
+        "zh": "看守决定捉弄他的同事，想看看他是否已经把信的内容背熟了。"
+      },
+      "imitations": [
+        {
+          "en": "She called him to find out if he was coming.",
+          "zh": "她打电话给他，想看看他是否要来。"
+        },
+        {
+          "en": "I checked the paper to find out if I had passed.",
+          "zh": "我查看成绩单，想知道我是否通过了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Much to + 名词 + 动词",
+      "original": {
+        "en": "Much to the aristocrat's amusement, the gaoler returned...",
+        "zh": "令贵族非常高兴的是，看守回来了..."
+      },
+      "imitations": [
+        {
+          "en": "Much to my surprise, he won the competition.",
+          "zh": "令我非常惊讶的是，他赢得了比赛。"
+        },
+        {
+          "en": "Much to their disappointment, it rained on the day of the picnic.",
+          "zh": "令他们失望的是，野餐那天下雨了。"
+        }
+      ]
+    }
+  ]
+}

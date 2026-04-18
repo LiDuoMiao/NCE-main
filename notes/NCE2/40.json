@@ -1,0 +1,406 @@
+{
+  "book": "NCE2",
+  "lesson": "40",
+  "title": "Was Mrs. Rumbold a good companion at dinner?",
+  "vocabulary": [
+    {
+      "word": "hostess",
+      "phonetic": "/ˈhəʊstəs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "女主人",
+          "usage": "指聚会或晚宴上的女性主持人"
+        }
+      ]
+    },
+    {
+      "word": "companion",
+      "phonetic": "/kəmˈpæniən/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "同伴，陪伴",
+          "usage": "指一起吃饭或活动的人"
+        }
+      ]
+    },
+    {
+      "word": "unsmiling",
+      "phonetic": "/ʌnˈsmaɪlɪŋ/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "不笑的，面无表情的",
+          "usage": "由smile加否定前缀un-构成"
+        }
+      ]
+    },
+    {
+      "word": "tight",
+      "phonetic": "/taɪt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "紧身的",
+          "usage": "形容衣服紧贴身体"
+        }
+      ]
+    },
+    {
+      "word": "fixed",
+      "phonetic": "/fɪkst/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "固定的，凝视的",
+          "usage": "常与on连用，表示盯着某物"
+        }
+      ]
+    },
+    {
+      "word": "despair",
+      "phonetic": "/dɪˈspeə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "绝望，沮丧",
+          "usage": "常与in连用，表示绝望地"
+        }
+      ]
+    },
+    {
+      "word": "conversation",
+      "phonetic": "/ˌkɒnvəˈseɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "交谈，谈话",
+          "usage": "指两人或多人的对话"
+        }
+      ]
+    },
+    {
+      "word": "play",
+      "phonetic": "/pleɪ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "戏剧，话剧",
+          "usage": "指在剧院上演的表演"
+        }
+      ]
+    },
+    {
+      "word": "abroad",
+      "phonetic": "/əˈbrɔːd/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "到国外，在国外",
+          "usage": "指在国外，常与go, be连用"
+        }
+      ]
+    },
+    {
+      "word": "seat",
+      "phonetic": "/siːt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "座位",
+          "usage": "指椅子或可以坐的地方"
+        }
+      ]
+    },
+    {
+      "word": "globe",
+      "phonetic": "/ɡləʊb/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "地球，世界",
+          "usage": "这里指'环球剧院'"
+        }
+      ]
+    },
+    {
+      "word": "young",
+      "phonetic": "/jʌŋ/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "年轻的",
+          "usage": "用作称呼时带轻微不敬含义"
+        }
+      ]
+    },
+    {
+      "word": "both",
+      "phonetic": "/bəʊθ/",
+      "meanings": [
+        {
+          "pos": "pronoun",
+          "meaning": "两者都",
+          "usage": "指两个人或事物"
+        }
+      ]
+    },
+    {
+      "word": "busy",
+      "phonetic": "/ˈbɪzi/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "忙碌的，专心的",
+          "usage": "be busy doing something 表示忙于做某事"
+        }
+      ]
+    },
+    {
+      "word": "whether",
+      "phonetic": "/ˈweðə/",
+      "meanings": [
+        {
+          "pos": "conjunction",
+          "meaning": "是否",
+          "usage": "引导宾语从句，表示是否"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "sit next to",
+      "usage": "坐在...旁边",
+      "examples": [
+        {
+          "en": "The teacher asked me to sit next to Tom.",
+          "zh": "老师让我坐在汤姆旁边。"
+        }
+      ]
+    },
+    {
+      "phrase": "take my seat",
+      "usage": "就座，坐下",
+      "examples": [
+        {
+          "en": "I took my seat beside the window.",
+          "zh": "我在窗边坐了下来。"
+        }
+      ]
+    },
+    {
+      "phrase": "make conversation",
+      "usage": "找话题交谈，闲聊",
+      "examples": [
+        {
+          "en": "He tried to make conversation with the stranger.",
+          "zh": "他试图和那个陌生人攀谈。"
+        }
+      ]
+    },
+    {
+      "phrase": "come to",
+      "usage": "来到，演出",
+      "examples": [
+        {
+          "en": "A new film is coming to our cinema next week.",
+          "zh": "一部新电影下周将在我们电影院上映。"
+        }
+      ]
+    },
+    {
+      "phrase": "see a play",
+      "usage": "看戏，看话剧",
+      "examples": [
+        {
+          "en": "We are going to see a play tonight.",
+          "zh": "我们今晚要去看话剧。"
+        }
+      ]
+    },
+    {
+      "phrase": "spend holidays abroad",
+      "usage": "在国外度假",
+      "examples": [
+        {
+          "en": "Many people spend holidays abroad in summer.",
+          "zh": "很多人在夏天去国外度假。"
+        }
+      ]
+    },
+    {
+      "phrase": "stay in",
+      "usage": "留在国内/某地",
+      "examples": [
+        {
+          "en": "Will you stay in China for the holiday?",
+          "zh": "你假期会留在中国吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "in despair",
+      "usage": "绝望地",
+      "examples": [
+        {
+          "en": "In despair, he gave up trying.",
+          "zh": "绝望地，他放弃了尝试。"
+        }
+      ]
+    },
+    {
+      "phrase": "enjoy dinner",
+      "usage": "享用晚餐",
+      "examples": [
+        {
+          "en": "We all enjoyed our dinner very much.",
+          "zh": "我们都很享受这顿晚餐。"
+        }
+      ]
+    },
+    {
+      "phrase": "eat more and talk less",
+      "usage": "多吃少说",
+      "examples": [
+        {
+          "en": "If you eat more and talk less, you will be healthier.",
+          "zh": "如果你多吃少说，你会更健康。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "将来进行时 (Future Continuous Tense)",
+      "definition": "表示在将来某一时刻或时间段正在进行的动作，常用于询问或谈论已安排好的计划。",
+      "structure": "Will + be + verb-ing",
+      "usage": "用来询问他人在特定时间的安排，含有礼貌询问的意味",
+      "examples": [
+        {
+          "en": "Will you be seeing the new play?",
+          "zh": "你会去看那部新剧吗？"
+        },
+        {
+          "en": "Will you be spending your holidays abroad?",
+          "zh": "你会在国外度假吗？"
+        },
+        {
+          "en": "Will you be staying in England?",
+          "zh": "你会留在英国吗？"
+        }
+      ]
+    },
+    {
+      "title": "虚拟语气 (第二类条件句)",
+      "definition": "用来描述与现在事实相反或不太可能实现的假设情况。",
+      "structure": "If + 主语 + 过去式 (be用were), 主语 + would/could + 动词原形",
+      "usage": "用于提出建议、想象不可能发生的情况或礼貌请求",
+      "examples": [
+        {
+          "en": "If you ate more and talked less, we would both enjoy our dinner.",
+          "zh": "如果你多吃少说，我们俩都会享受晚餐的。"
+        },
+        {
+          "en": "If I were you, I would study harder.",
+          "zh": "如果我是你，我会更努力学习。"
+        },
+        {
+          "en": "If it rained, we would stay at home.",
+          "zh": "如果下雨，我们会待在家里。"
+        }
+      ]
+    },
+    {
+      "title": "间接疑问句 (Indirect Questions)",
+      "definition": "当把一个疑问句变成从句时，词序要变成陈述句的词序。",
+      "structure": "Whether/If + 主语 + 动词...",
+      "usage": "用于转述问题，使语言更加正式",
+      "examples": [
+        {
+          "en": "I asked her whether she was enjoying her dinner.",
+          "zh": "我问她晚餐是否吃得开心。"
+        },
+        {
+          "en": "She asked me if I could help her.",
+          "zh": "她问我是否能帮助她。"
+        },
+        {
+          "en": "I wondered whether he would come.",
+          "zh": "我想知道他是否会来。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Will you be + verb-ing + ...?",
+      "original": {
+        "en": "Will you be seeing it?",
+        "zh": "你会去看吗？"
+      },
+      "imitations": [
+        {
+          "en": "Will you be attending the meeting tomorrow?",
+          "zh": "你明天会参加会议吗？"
+        },
+        {
+          "en": "Will you be working late tonight?",
+          "zh": "你今晚会工作到很晚吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "If + 主语 + 过去式..., 主语 + would + 动词原形...",
+      "original": {
+        "en": "If you ate more and talked less, we would both enjoy our dinner!",
+        "zh": "如果你多吃少说，我们俩都会享受晚餐！"
+      },
+      "imitations": [
+        {
+          "en": "If you studied harder, you would pass the exam.",
+          "zh": "如果你更努力学习，你就会通过考试。"
+        },
+        {
+          "en": "If it were sunny, we would go to the beach.",
+          "zh": "如果天气好，我们就去海滩。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + was/were + adjective + ...?",
+      "original": {
+        "en": "Was Mrs. Rumbold a good companion at dinner?",
+        "zh": "朗伯德夫人是晚餐的好同伴吗？"
+      },
+      "imitations": [
+        {
+          "en": "Was the movie interesting?",
+          "zh": "这部电影有趣吗？"
+        },
+        {
+          "en": "Was he angry with you?",
+          "zh": "他生你的气了吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "I asked + whether/if + 主语 + 动词...",
+      "original": {
+        "en": "In despair, I asked her whether she was enjoying her dinner.",
+        "zh": "绝望中，我问她晚餐是否吃得开心。"
+      },
+      "imitations": [
+        {
+          "en": "I asked whether he needed help.",
+          "zh": "我问他是否需要帮助。"
+        },
+        {
+          "en": "She asked if I could speak English.",
+          "zh": "她问我是否会说英语。"
+        }
+      ]
+    }
+  ]
+}

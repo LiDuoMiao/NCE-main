@@ -1,0 +1,273 @@
+{
+  "book": "NCE3",
+  "lesson": "14",
+  "title": "Lesson 14",
+  "vocabulary": [
+    {
+      "word": "gangster",
+      "phonetic": "/ˈɡæŋstər/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "歹徒，匪徒，黑帮成员",
+          "usage": "指参与有组织犯罪的人，常带有暴力性质"
+        }
+      ]
+    },
+    {
+      "word": "protection",
+      "phonetic": "/prəˈtekʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "保护，防护；（黑社会索要的）保护费",
+          "usage": "既可指普通的保护行为，也可指黑帮名义上提供“保护”实则勒索的费用"
+        }
+      ]
+    },
+    {
+      "word": "promptly",
+      "phonetic": "/ˈprɒmptli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "及时地，迅速地，立即地",
+          "usage": "强调动作发生得准时、没有延迟"
+        }
+      ]
+    },
+    {
+      "word": "destroy",
+      "phonetic": "/dɪˈstrɔɪ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "破坏，毁坏，摧毁",
+          "usage": "指彻底损坏某物，使其无法使用或恢复"
+        }
+      ]
+    },
+    {
+      "word": "crime",
+      "phonetic": "/kraɪm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "罪行，犯罪行为",
+          "usage": "指违反法律、应受到惩罚的行为"
+        }
+      ]
+    },
+    {
+      "word": "remarkable",
+      "phonetic": "/rɪˈmɑːkəbl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "非凡的，引人注目的，出色的",
+          "usage": "用来形容人或事物不同寻常、值得注意"
+        }
+      ]
+    },
+    {
+      "word": "settle",
+      "phonetic": "/ˈsetl/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "定居，安家；解决",
+          "usage": "表示在某地长期居住，也可指处理、解决问题或纠纷"
+        }
+      ]
+    },
+    {
+      "word": "valiant",
+      "phonetic": "/ˈvæliənt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "英勇的，勇敢的，果敢的",
+          "usage": "用于形容人在危险或困难情境下表现出的勇气，带有褒义"
+        }
+      ]
+    },
+    {
+      "word": "notable",
+      "phonetic": "/ˈnəʊtəbl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "显著的，著名的，值得注意的",
+          "usage": "指人或事物因成就、特点等被广泛知晓"
+        }
+      ]
+    },
+    {
+      "word": "dedicate",
+      "phonetic": "/ˈdedɪkeɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "把……奉献给；题献（作品等）",
+          "usage": "常用搭配dedicate sth to sb/sth，表示将某物用于特定目的或献给某人"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "in return for",
+      "usage": "表示“作为对……的回报/交换”，后接名词或动名词，引出交换的对象",
+      "examples": [
+        {
+          "en": "I bought him a drink in return for his help.",
+          "zh": "我给他买了一杯饮料，作为对他帮助的回报。"
+        },
+        {
+          "en": "The workers get salary in return for their daily work.",
+          "zh": "工人们获得薪水，作为日常工作的报酬。"
+        }
+      ]
+    },
+    {
+      "phrase": "put sb out of business",
+      "usage": "表示“使某人停业，迫使某人破产”，指让企业或商家无法继续经营",
+      "examples": [
+        {
+          "en": "The big supermarket put many small shops out of business last year.",
+          "zh": "去年这家大型超市迫使很多小商店停业了。"
+        },
+        {
+          "en": "The serious fire almost put the factory out of business.",
+          "zh": "那场严重的火灾几乎让这家工厂破产。"
+        }
+      ]
+    },
+    {
+      "phrase": "make a name for oneself",
+      "usage": "表示“出名，成名”，指通过自身努力获得名声、知名度",
+      "examples": [
+        {
+          "en": "She made a name for herself as a talented singer at a young age.",
+          "zh": "她年轻时就作为一名有天赋的歌手成名了。"
+        },
+        {
+          "en": "The designer made a name for himself with his unique style.",
+          "zh": "这位设计师凭借其独特的风格出了名。"
+        }
+      ]
+    },
+    {
+      "phrase": "be at war with",
+      "usage": "表示“与……处于交战状态”，主语常为国家、城邦等政权主体",
+      "examples": [
+        {
+          "en": "The two countries were at war with each other for three years.",
+          "zh": "这两个国家彼此交战了三年。"
+        },
+        {
+          "en": "The kingdom was at war with its neighbor for control of the island.",
+          "zh": "这个王国为了争夺岛屿的控制权与邻国交战。"
+        }
+      ]
+    },
+    {
+      "phrase": "in spite of",
+      "usage": "表示“尽管，不管”，后接名词、代词或动名词，引导让步关系，相当于despite",
+      "examples": [
+        {
+          "en": "In spite of the heavy rain, he still went to work on time.",
+          "zh": "尽管下着大雨，他还是准时去上班了。"
+        },
+        {
+          "en": "They kept climbing the mountain in spite of the bad weather.",
+          "zh": "尽管天气恶劣，他们还是继续登山。"
+        }
+      ]
+    },
+    {
+      "phrase": "dedicate to the memory of",
+      "usage": "表示“为纪念……”，常用于艺术作品、纪念碑等，表达对逝者的纪念",
+      "examples": [
+        {
+          "en": "This book is dedicated to the memory of my grandfather.",
+          "zh": "这本书是为了纪念我的祖父而写的。"
+        },
+        {
+          "en": "The monument was dedicated to the memory of the soldiers who died in the war.",
+          "zh": "这座纪念碑是为了纪念在战争中牺牲的士兵而建的。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "would rather ... than ... 结构",
+      "definition": "表达“宁愿做……而不愿做……”的选择偏好，强调在两个选项中更倾向于前者",
+      "structure": "主语 + would rather + 动词原形 + than + 动词原形",
+      "usage": "用于表示主观上的选择，than前后的动词形式要保持一致，否定形式为would rather not do sth",
+      "examples": [
+        {
+          "en": "People would rather pay large sums of money than have their life work destroyed by gangsters.",
+          "zh": "人们宁愿支付大笔钱财，也不愿自己毕生的事业被歹徒毁掉。"
+        },
+        {
+          "en": "I would rather stay at home reading than go to the noisy party.",
+          "zh": "我宁愿待在家看书，也不愿去那个吵闹的派对。"
+        }
+      ]
+    },
+    {
+      "title": "时间状语从句：There was a time when ...",
+      "definition": "表示“曾经有一段时间……”，用于描述过去某段时间内经常发生的情况或存在的状态",
+      "structure": "There was a time + when引导的定语从句，when在从句中作时间状语",
+      "usage": "用来引出过去的特定时期的情况，when引导的从句通常用一般过去时",
+      "examples": [
+        {
+          "en": "There was a time when the owners of shops and businesses in Chicago had to pay large sums of money to gangsters in return for 'protection'.",
+          "zh": "曾经有一段时间，芝加哥的店主和商人不得不向歹徒支付大笔钱财以换取“保护”。"
+        },
+        {
+          "en": "There was a time when I lived in the countryside and played with my friends every day.",
+          "zh": "曾经有一段时间我住在乡下，每天都和朋友们一起玩耍。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "If + 一般过去时的条件从句, 主语 + would + 动词原形",
+      "original": {
+        "en": "If the money was not paid promptly, the gangsters would quickly put a man out of business by destroying his shop.",
+        "zh": "如果钱没有及时支付，歹徒们就会捣毁他的店铺，很快让他破产。"
+      },
+      "imitations": [
+        {
+          "en": "If I got the ticket, I would go to the concert with you.",
+          "zh": "如果我拿到票的话，我就会和你一起去听音乐会。"
+        },
+        {
+          "en": "If he practiced more, he would pass the driving test easily.",
+          "zh": "如果他多练习的话，他就能轻松通过驾照考试。"
+        }
+      ]
+    },
+    {
+      "pattern": "When + 时间状语从句, 主语 + 主句动作",
+      "original": {
+        "en": "When he died at the age of eighty, the Florentines gave him a state funeral and had a picture painted which was dedicated to the memory of 'the most valiant soldier and most notable leader, Signor Giovanni Haukodue'.",
+        "zh": "当他80岁去世时，佛罗伦萨人为他举行了国葬，还为他画了一幅画像，以纪念这位“最英勇的战士和最杰出的领袖，乔瓦尼·奥库多先生”。"
+      },
+      "imitations": [
+        {
+          "en": "When the old professor retired, the school held a grand party and gave him a medal in honor of his 40 years of teaching.",
+          "zh": "当这位老教授退休时，学校举办了一场盛大的聚会，还给他颁发了一枚奖章，以表彰他40年的教学工作。"
+        },
+        {
+          "en": "When the team won the championship, the fans cheered loudly and held a parade through the city to celebrate the victory.",
+          "zh": "当这支队伍赢得冠军时，球迷们大声欢呼，还在城市里举行了游行来庆祝胜利。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "book": "NCE1",
+  "lesson": "011-012",
+  "title": "Lesson 11",
+  "vocabulary": [
+    {
+      "word": "shirt",
+      "phonetic": "/ʃɜːt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "衬衫",
+          "usage": "指上身穿着的衬衫，通常指男式衬衫"
+        }
+      ]
+    },
+    {
+      "word": "whose",
+      "phonetic": "/huːz/",
+      "meanings": [
+        {
+          "pos": "pronoun",
+          "meaning": "谁的",
+          "usage": "用于询问某物属于谁，是who的所有格形式"
+        }
+      ]
+    },
+    {
+      "word": "perhaps",
+      "phonetic": "/pəˈhæps/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "可能，或许",
+          "usage": "表示不确定或可能性"
+        }
+      ]
+    },
+    {
+      "word": "white",
+      "phonetic": "/waɪt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "白色的",
+          "usage": "描述颜色"
+        }
+      ]
+    },
+    {
+      "word": "blue",
+      "phonetic": "/bluː/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "蓝色的",
+          "usage": "描述颜色"
+        }
+      ]
+    },
+    {
+      "word": "catch",
+      "phonetic": "/kætʃ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "接住，抓住",
+          "usage": "指接住扔过来的东西"
+        }
+      ]
+    },
+    {
+      "word": "sir",
+      "phonetic": "/sɜː/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "先生",
+          "usage": "对男士的尊称，常用于服务行业"
+        }
+      ]
+    },
+    {
+      "word": "Tim",
+      "phonetic": "/tɪm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "蒂姆（人名）",
+          "usage": "人名"
+        }
+      ]
+    },
+    {
+      "word": "Dave",
+      "phonetic": "/deɪv/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "戴夫（人名）",
+          "usage": "人名，David的昵称"
+        }
+      ]
+    },
+    {
+      "word": "here",
+      "phonetic": "/hɪə/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "这里，这里来",
+          "usage": "表示地点或方向"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Whose shirt is that?",
+      "usage": "用于询问那件衬衫是谁的",
+      "examples": [
+        {
+          "en": "Whose shirt is that?",
+          "zh": "那件衬衫是谁的？"
+        }
+      ]
+    },
+    {
+      "phrase": "Is this your shirt?",
+      "usage": "用于询问某件衬衫是否属于对方",
+      "examples": [
+        {
+          "en": "Is this your shirt, Dave?",
+          "zh": "这是你的衬衫吗，戴夫？"
+        }
+      ]
+    },
+    {
+      "phrase": "Perhaps it is",
+      "usage": "表示不确定的肯定回答，意为'可能是'",
+      "examples": [
+        {
+          "en": "Is this shirt Tim's? Perhaps it is.",
+          "zh": "这是蒂姆的衬衫吗？可能是。"
+        }
+      ]
+    },
+    {
+      "phrase": "Here you are",
+      "usage": "递东西给他人时的常用表达",
+      "examples": [
+        {
+          "en": "Here you are. Catch!",
+          "zh": "给你，接住！"
+        }
+      ]
+    },
+    {
+      "phrase": "Tim's shirt",
+      "usage": "名词所有格，表示蒂姆的衬衫",
+      "examples": [
+        {
+          "en": "Tim's shirt is white.",
+          "zh": "蒂姆的衬衫是白色的。"
+        }
+      ]
+    },
+    {
+      "phrase": "My shirt's blue",
+      "usage": "口语中's可以代替is，表示我的衬衫是蓝色的",
+      "examples": [
+        {
+          "en": "My shirt's blue.",
+          "zh": "我的衬衫是蓝色的。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Whose 引导的特殊疑问句",
+      "definition": "Whose是疑问代词，用来询问某物属于谁",
+      "structure": "Whose + 名词 + is/are + 主语/地点?",
+      "usage": "当需要询问某物的所属时使用",
+      "examples": [
+        {
+          "en": "Whose shirt is that?",
+          "zh": "那件衬衫是谁的？"
+        },
+        {
+          "en": "Whose book is this?",
+          "zh": "这是谁的书？"
+        }
+      ]
+    },
+    {
+      "title": "Is this/that + 所有格 + 名词? 句型",
+      "definition": "用于询问某物是否属于某人",
+      "structure": "Is this/that + 限定词 + 名词 + (名词所有格)?",
+      "usage": "询问物品的归属时使用，回答用Yes或No",
+      "examples": [
+        {
+          "en": "Is this your shirt?",
+          "zh": "这是你的衬衫吗？"
+        },
+        {
+          "en": "Is this shirt Tim's?",
+          "zh": "这件衬衫是蒂姆的吗？"
+        }
+      ]
+    },
+    {
+      "title": "名词所有格",
+      "definition": "在名词后加's表示所属关系",
+      "structure": "名词 + 's",
+      "usage": "表示某人拥有某物，用于人名后",
+      "examples": [
+        {
+          "en": "Tim's shirt is white.",
+          "zh": "蒂姆的衬衫是白色的。"
+        },
+        {
+          "en": "This is Dave's shirt.",
+          "zh": "这是戴夫的衬衫。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Whose + 名词 + is + this/that?",
+      "original": {
+        "en": "Whose shirt is that?",
+        "zh": "那件衬衫是谁的？"
+      },
+      "imitations": [
+        {
+          "en": "Whose coat is this?",
+          "zh": "这件外套是谁的？"
+        },
+        {
+          "en": "Whose car is that?",
+          "zh": "那辆车是谁的？"
+        }
+      ]
+    },
+    {
+      "pattern": "Is this/that + your/名词所有格 + 名词?",
+      "original": {
+        "en": "Is this your shirt, Dave?",
+        "zh": "这是你的衬衫吗，戴夫？"
+      },
+      "imitations": [
+        {
+          "en": "Is that your car?",
+          "zh": "那是你的车吗？"
+        },
+        {
+          "en": "Is this Tim's book?",
+          "zh": "这是蒂姆的书吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "Here you are.",
+      "original": {
+        "en": "Here you are.",
+        "zh": "给你。"
+      },
+      "imitations": [
+        {
+          "en": "Here you are. Catch!",
+          "zh": "给你，接住！"
+        },
+        {
+          "en": "Here is your coffee.",
+          "zh": "这是你的咖啡。"
+        }
+      ]
+    }
+  ]
+}

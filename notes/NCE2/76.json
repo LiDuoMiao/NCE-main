@@ -1,0 +1,421 @@
+{
+  "book": "NCE2",
+  "lesson": "76",
+  "title": "What was the joke?",
+  "vocabulary": [
+    {
+      "word": "bulletin",
+      "phonetic": "/ˈbʊlətɪn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "新闻简报；公告",
+          "usage": "指官方的新闻报道或公告信息"
+        }
+      ]
+    },
+    {
+      "word": "announcer",
+      "phonetic": "/əˈnaʊnsə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "播音员；宣告者",
+          "usage": "指在电视或广播中播报新闻的人"
+        }
+      ]
+    },
+    {
+      "word": "macaroni",
+      "phonetic": "/ˌmækəˈrəʊni/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "通心粉；意大利面食",
+          "usage": "指意大利通心粉，是一种意大利面食"
+        }
+      ]
+    },
+    {
+      "word": "grower",
+      "phonetic": "/ˈɡrəʊə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "种植者；栽培者",
+          "usage": "指从事农作物种植的人"
+        }
+      ]
+    },
+    {
+      "word": "splendid",
+      "phonetic": "/ˈsplendɪd/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "极好的；壮丽的；辉煌的",
+          "usage": "用于形容质量、状况或外观非常好"
+        }
+      ]
+    },
+    {
+      "word": "harvest",
+      "phonetic": "/ˈhɑːvɪst/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "收获；收割；收成",
+          "usage": "指农作物的收割季节或收获量"
+        },
+        {
+          "pos": "verb",
+          "meaning": "收获；收割",
+          "usage": "指收割农作物的动作"
+        }
+      ]
+    },
+    {
+      "word": "stalk",
+      "phonetic": "/stɔːk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "茎；杆；柄",
+          "usage": "指植物的茎干部分"
+        }
+      ]
+    },
+    {
+      "word": "thresh",
+      "phonetic": "/θreʃ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "打谷；脱粒",
+          "usage": "指用机械或手工方法使谷物脱离秸秆"
+        }
+      ]
+    },
+    {
+      "word": "process",
+      "phonetic": "/ˈprəʊses/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "加工；处理",
+          "usage": "指对原材料进行加工处理使其变成产品"
+        }
+      ]
+    },
+    {
+      "word": "competition",
+      "phonetic": "/ˌkɒmpɪˈtɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "比赛；竞赛",
+          "usage": "指多人参与的争夺名次的活动"
+        }
+      ]
+    },
+    {
+      "word": "champion",
+      "phonetic": "/ˈtʃæmpiən/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "冠军；第一名",
+          "usage": "指比赛或竞赛中的获胜者"
+        }
+      ]
+    },
+    {
+      "word": "studio",
+      "phonetic": "/ˈstjuːdiəʊ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "演播室；录音室；工作室",
+          "usage": "指广播、电视节目的录制场所"
+        }
+      ]
+    },
+    {
+      "word": "gather",
+      "phonetic": "/ˈɡæðə(r)/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "收集；聚集；采集",
+          "usage": "指将分散的东西集中在一起"
+        }
+      ]
+    },
+    {
+      "word": "leading",
+      "phonetic": "/ˈliːdɪŋ/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "主要的；领先的；最重要的",
+          "usage": "用于形容在某一领域最重要或最成功的"
+        }
+      ]
+    },
+    {
+      "word": "manager",
+      "phonetic": "/ˈmænɪdʒə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "经理；管理者",
+          "usage": "指负责管理某企业或部门的人"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "going over to",
+      "usage": "转向；切换到，指新闻报道中切换到另一个地点或话题",
+      "examples": [
+        {
+          "en": "We're going over to the macaroni fields of Calabria.",
+          "zh": "我们现在转向意大利卡拉布里亚的通心粉田地。"
+        },
+        {
+          "en": "Let's go over to our correspondent in Beijing.",
+          "zh": "让我们切换到在北京的记者。"
+        }
+      ]
+    },
+    {
+      "phrase": "day and night",
+      "usage": "日夜不停地；夜以继日，形容持续不断的工作或活动",
+      "examples": [
+        {
+          "en": "The whole village has been working day and night.",
+          "zh": "整个村子一直在日夜不停地工作。"
+        },
+        {
+          "en": "She studied day and night before the exam.",
+          "zh": "考试前她夜以继日地学习。"
+        }
+      ]
+    },
+    {
+      "phrase": "between them",
+      "usage": "他们两个一起；总共，用于指两个人共同完成某事",
+      "examples": [
+        {
+          "en": "Two workers who, between them, have just finished cutting three cartloads.",
+          "zh": "两个工人，他们一起刚割完三车的通心粉茎。"
+        },
+        {
+          "en": "Between them, they have visited over 50 countries.",
+          "zh": "他们两个总共访问了50多个国家。"
+        }
+      ]
+    },
+    {
+      "phrase": "every year since",
+      "usage": "自...以来每一年，表示从过去某时起每年都发生的动作",
+      "examples": [
+        {
+          "en": "He has won it every year since 1991.",
+          "zh": "自1991年以来他每年都赢得比赛。"
+        },
+        {
+          "en": "She has called me every year since we graduated.",
+          "zh": "自我们毕业以来她每年都给我打电话。"
+        }
+      ]
+    },
+    {
+      "phrase": "cutting cartloads of",
+      "usage": "收割满车的...，表示收获大量的农作物",
+      "examples": [
+        {
+          "en": "They have just finished cutting three cartloads of golden brown macaroni stalks.",
+          "zh": "他们刚收割完三车金黄色的通心粉茎。"
+        }
+      ]
+    },
+    {
+      "phrase": "help sb. for + 时间段",
+      "usage": "帮助某人...时间，表示持续帮助的时长",
+      "examples": [
+        {
+          "en": "She has been helping her husband for thirty years now.",
+          "zh": "她帮丈夫干活到现在已经三十年了。"
+        },
+        {
+          "en": "He has been helping his father in the shop for five years.",
+          "zh": "他在店里帮父亲干活已经五年了。"
+        }
+      ]
+    },
+    {
+      "phrase": "the end of the harvest",
+      "usage": "收获结束时；收割的尾声",
+      "examples": [
+        {
+          "en": "This shows you what will happen at the end of the harvest.",
+          "zh": "这向你展示收获结束时会发生什么。"
+        }
+      ]
+    },
+    {
+      "phrase": "be going to",
+      "usage": "将要；打算，表示将来的计划或即将发生的事",
+      "examples": [
+        {
+          "en": "We're going over to the macaroni fields.",
+          "zh": "我们将去通心粉田地。"
+        },
+        {
+          "en": "We're now going back to the studio.",
+          "zh": "我们现在要回到演播室。"
+        }
+      ]
+    },
+    {
+      "phrase": "earlier than usual",
+      "usage": "比往常早，表示比正常时间提前",
+      "examples": [
+        {
+          "en": "Harvesting has begun earlier than usual.",
+          "zh": "收割比往常开始得更早。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "现在完成进行时 (Present Perfect Continuous)",
+      "definition": "表示一个动作从过去开始，一直持续到现在，并且可能继续下去。强调动作的持续性。",
+      "structure": "主语 + have/has + been + 动词-ing",
+      "usage": "用于描述持续性的动作，常与 for + 时间段、since + 时间点、all + 时间段等时间状语连用。",
+      "examples": [
+        {
+          "en": "They have been expecting a splendid crop this year.",
+          "zh": "他们一直期待着今年有个好收成。"
+        },
+        {
+          "en": "She has been helping her husband for thirty years.",
+          "zh": "她帮丈夫干活已经三十年了。"
+        },
+        {
+          "en": "The whole village has been working day and night.",
+          "zh": "整个村子一直在日夜不停地工作。"
+        }
+      ]
+    },
+    {
+      "title": "时间状语 since 和 for 的用法",
+      "definition": "since 表示从过去的某一时间点开始，for 表示一段时间。两者都可与现在完成时连用。",
+      "structure": "since + 过去时间点/过去发生的动作；for + 一段时间",
+      "usage": "since 后接具体时间点或从句，for 后接表示时间长度的词。",
+      "examples": [
+        {
+          "en": "Macaroni has been grown in this area for over six hundred years.",
+          "zh": "这个地区种植通心粉已有六百多年。"
+        },
+        {
+          "en": "He has won it every year since 1991.",
+          "zh": "自1991年以来他每年都赢得比赛。"
+        },
+        {
+          "en": "She has been helping her husband for thirty years now.",
+          "zh": "她帮丈夫干活到现在已经三十年了。"
+        }
+      ]
+    },
+    {
+      "title": "关系代词 who 引导的定语从句",
+      "definition": "who 是关系代词，用于指人，在定语从句中作主语，先行词通常是人。",
+      "structure": "先行词 + who + 谓语动词 + 其他成分",
+      "usage": "用来修饰前面的名词或代词，提供额外信息。who 在从句中代替先行词并在从句中担任成分。",
+      "examples": [
+        {
+          "en": "Here you can see two workers who, between them, have just finished cutting three cartloads.",
+          "zh": "在这里你可以看到两个工人，他们一起刚割完三车的通心粉茎。"
+        },
+        {
+          "en": "Signor Fratelli, the present champion, has won it every year since 1991.",
+          "zh": "弗拉特利先生，现任冠军，自1991年以来每年都赢得比赛。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "We're going over to + 地点/话题",
+      "original": {
+        "en": "We're going over to the macaroni fields of Calabria.",
+        "zh": "我们现在转向意大利卡拉布里亚的通心粉田地。"
+      },
+      "imitations": [
+        {
+          "en": "We're going over to our London studio.",
+          "zh": "我们现在切换到伦敦演播室。"
+        },
+        {
+          "en": "We're going over to see what happened at the scene.",
+          "zh": "我们现在转到现场看看发生了什么。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + have/has been + doing sth. + for/since + 时间",
+      "original": {
+        "en": "She has been helping her husband for thirty years now.",
+        "zh": "她帮丈夫干活到现在已经三十年了。"
+      },
+      "imitations": [
+        {
+          "en": "He has been learning English for five years.",
+          "zh": "他学英语已经五年了。"
+        },
+        {
+          "en": "They have been waiting for you since 9 o'clock.",
+          "zh": "他们从九点起就一直在等你。"
+        }
+      ]
+    },
+    {
+      "pattern": "Here you can see + 主语 + doing sth.",
+      "original": {
+        "en": "Here you can see two workers who have just finished cutting.",
+        "zh": "在这里你可以看到两个刚完成收割的工人。"
+      },
+      "imitations": [
+        {
+          "en": "Here you can see students who have been studying all night.",
+          "zh": "在这里你可以看到整晚一直在学习的学生们。"
+        },
+        {
+          "en": "Here you can see farmers who are harvesting crops.",
+          "zh": "在这里你可以看到正在收割农作物的农民们。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + has won it every year since + 年份",
+      "original": {
+        "en": "Signor Fratelli has won it every year since 1991.",
+        "zh": "弗拉特利先生自1991年以来每年都赢得比赛。"
+      },
+      "imitations": [
+        {
+          "en": "She has been the class monitor every year since 2020.",
+          "zh": "她自2020年以来每年都是班长。"
+        },
+        {
+          "en": "He has taken first prize every year since he joined the club.",
+          "zh": "自他加入俱乐部以来他每年都拿一等奖。"
+        }
+      ]
+    }
+  ]
+}

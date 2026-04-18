@@ -1,0 +1,408 @@
+{
+  "book": "NCE3",
+  "lesson": "18",
+  "title": "Lesson 18",
+  "vocabulary": [
+    {
+      "word": "sculpture",
+      "phonetic": "/ˈskʌlptʃə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "雕塑品，雕像",
+          "usage": "指用石头、木头、金属等材料雕刻或塑造的艺术品"
+        }
+      ]
+    },
+    {
+      "word": "exhibit",
+      "phonetic": "/ɪɡˈzɪbɪt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "展览品，陈列品",
+          "usage": "指在展览中展示的物品"
+        },
+        {
+          "pos": "verb",
+          "meaning": "展出，展示",
+          "usage": "指公开展示某物"
+        }
+      ]
+    },
+    {
+      "word": "magnetize",
+      "phonetic": "/ˈmæɡnɪtaɪz/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "使磁化，使生磁性",
+          "usage": "指使物体具有磁性或被磁铁吸引"
+        }
+      ]
+    },
+    {
+      "word": "attract",
+      "phonetic": "/əˈtrækt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "吸引",
+          "usage": "指将某物拉向自己，与repel（排斥）相对"
+        }
+      ]
+    },
+    {
+      "word": "repel",
+      "phonetic": "/rɪˈpel/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "排斥，击退",
+          "usage": "指推开或抵抗某物，与attract相对"
+        }
+      ]
+    },
+    {
+      "word": "flicker",
+      "phonetic": "/ˈflɪkə/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "闪烁，闪动",
+          "usage": "指灯光或火焰不稳定地闪烁"
+        }
+      ]
+    },
+    {
+      "word": "spark",
+      "phonetic": "/spɑːk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "火花，火星",
+          "usage": "指电火花或小的火焰"
+        },
+        {
+          "pos": "verb",
+          "meaning": "发出火花",
+          "usage": "指产生小火花"
+        }
+      ]
+    },
+    {
+      "word": "prehistoric",
+      "phonetic": "/ˌpriːhɪˈstɒrɪk/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "史前的，原始时代的",
+          "usage": "指人类历史记录之前的时期或非常古老的东西"
+        }
+      ]
+    },
+    {
+      "word": "suspend",
+      "phonetic": "/səˈspend/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "悬挂，吊",
+          "usage": "指从上方挂起，通常用绳索或链条"
+        }
+      ]
+    },
+    {
+      "word": "gust",
+      "phonetic": "/ɡʌst/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "一阵风，阵风",
+          "usage": "指突然而强烈的短时风"
+        }
+      ]
+    },
+    {
+      "word": "peculiar",
+      "phonetic": "/pɪˈkjuːliə/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "奇怪的，独特的",
+          "usage": "指与众不同的、奇怪的或特有的"
+        }
+      ]
+    },
+    {
+      "word": "gallery",
+      "phonetic": "/ˈɡæləri/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "美术馆，画廊",
+          "usage": "指展示艺术品的场所"
+        }
+      ]
+    },
+    {
+      "word": "electronic",
+      "phonetic": "/ˌelekˈtrɒnɪk/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "电子的，电子设备的",
+          "usage": "指与电子或电子设备相关的"
+        }
+      ]
+    },
+    {
+      "word": "electric shock",
+      "phonetic": "/ɪˈlektrɪk ʃɒk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "电击，触电",
+          "usage": "指电流通过身体时造成的感觉或伤害"
+        }
+      ]
+    },
+    {
+      "word": "mistaken",
+      "phonetic": "/mɪˈsteɪkən/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "错误的，弄错的",
+          "usage": "指基于错误判断的或不正确的"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "take no interest in",
+      "usage": "表示对某事物不感兴趣，毫不关心",
+      "examples": [
+        {
+          "en": "Even people who take no interest in art cannot have failed to notice examples of modern sculpture.",
+          "zh": "即使对艺术不感兴趣的人也不可能没注意到公共场所的现代雕塑。"
+        }
+      ]
+    },
+    {
+      "phrase": "in response to",
+      "usage": "作为对...的反应，响应",
+      "examples": [
+        {
+          "en": "The objects move in response to a gust of wind.",
+          "zh": "这些物体会随风而动。"
+        }
+      ]
+    },
+    {
+      "phrase": "get used to",
+      "usage": "习惯于某事",
+      "examples": [
+        {
+          "en": "We have got quite used to them.",
+          "zh": "我们已经相当习惯它们了。"
+        }
+      ]
+    },
+    {
+      "phrase": "on display",
+      "usage": "展出中，正在展示",
+      "examples": [
+        {
+          "en": "Some so-called 'modern' pieces have been on display for nearly eighty years.",
+          "zh": "一些所谓的'现代'作品已经展出将近八十年了。"
+        }
+      ]
+    },
+    {
+      "phrase": "line up",
+      "usage": "排队，排列成行",
+      "examples": [
+        {
+          "en": "Lined up against the wall, there were long thin wires attached to metal spheres.",
+          "zh": "靠墙排列着系着金属球的细长电线。"
+        }
+      ]
+    },
+    {
+      "phrase": "a number of",
+      "usage": "一些，若干",
+      "examples": [
+        {
+          "en": "In the centre of the hall, there were a number of tall structures.",
+          "zh": "大厅中央有一些高高的结构物。"
+        }
+      ]
+    },
+    {
+      "phrase": "rather like",
+      "usage": "相当像，有点像",
+      "examples": [
+        {
+          "en": "It was rather like an exhibition of prehistoric electronic equipment.",
+          "zh": "它非常像一场史前电子设备的展览。"
+        }
+      ]
+    },
+    {
+      "phrase": "in spite of",
+      "usage": "尽管，虽然",
+      "examples": [
+        {
+          "en": "In spite of this, some people were surprised by a recent exhibition.",
+          "zh": "尽管如此，一些人仍然对最近的展览感到惊讶。"
+        }
+      ]
+    },
+    {
+      "phrase": "be designed to",
+      "usage": "目的是，旨在",
+      "examples": [
+        {
+          "en": "These peculiar forms not only seemed designed to shock people emotionally.",
+          "zh": "这些奇特的形状似乎不仅是为了在情感上震撼人们。"
+        }
+      ]
+    },
+    {
+      "phrase": "cannot have failed to notice",
+      "usage": "不可能没注意到，表示一定会注意到",
+      "examples": [
+        {
+          "en": "Even people who take no interest in art cannot have failed to notice examples of modern sculpture.",
+          "zh": "即使对艺术不感兴趣的人也一定会注意到现代雕塑。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "现在完成时 (Present Perfect Tense)",
+      "definition": "表示过去发生的动作或状态持续到现在，或对现在有影响。常与already, yet, just, ever, never, for, since等时间状语连用。",
+      "structure": "主语 + have/has + 过去分词",
+      "usage": "用于描述从过去开始持续到现在的情况，或强调过去的经验对现在的影响。",
+      "examples": [
+        {
+          "en": "We have got quite used to them.",
+          "zh": "我们已经相当习惯它们了。"
+        },
+        {
+          "en": "Some so-called 'modern' pieces have been on display for nearly eighty years.",
+          "zh": "一些所谓的'现代'作品已经展出将近八十年了。"
+        },
+        {
+          "en": "Even people who take no interest in art cannot have failed to notice examples of modern sculpture.",
+          "zh": "即使对艺术不感兴趣的人也一定会注意到现代雕塑。"
+        }
+      ]
+    },
+    {
+      "title": "被动语态 (Passive Voice)",
+      "definition": "当句子的主语是动作的承受者时使用被动语态。强调动作的接受者或当动作执行者不重要时使用。",
+      "structure": "主语 + be + 过去分词 (+ by + 动作执行者)",
+      "usage": "用于强调动作的承受者，或当动作执行者未知、不重要时。",
+      "examples": [
+        {
+          "en": "The spheres had been magnetized and attracted or repelled each other.",
+          "zh": "这些球已被磁化，彼此相互吸引或排斥。"
+        },
+        {
+          "en": "Some so-called 'modern' pieces have been on display for nearly eighty years.",
+          "zh": "一些所谓的'现代'作品已经被展出将近八十年了。"
+        },
+        {
+          "en": "Sparks were emitted from small black boxes.",
+          "zh": "火花从小黑盒子里发射出来。"
+        }
+      ]
+    },
+    {
+      "title": "情态动词 + have + 过去分词 (Modal + Perfect Infinitive)",
+      "definition": "表示对过去发生的事情的推测、评论或可能性。must have done表示肯定推测，can't have done表示否定推测。",
+      "structure": "情态动词 + have + 过去分词",
+      "usage": "用于表达对过去事件的推测或判断。",
+      "examples": [
+        {
+          "en": "Even people who take no interest in art cannot have failed to notice examples of modern sculpture.",
+          "zh": "即使对艺术不感兴趣的人，也不可能没注意到现代雕塑的例子。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "The idea that... is mistaken",
+      "original": {
+        "en": "The idea that modern art can only be seen in museums is mistaken.",
+        "zh": "认为现代艺术只能在博物馆里看到的观点是错误的。"
+      },
+      "imitations": [
+        {
+          "en": "The idea that money can buy happiness is mistaken.",
+          "zh": "认为金钱能买来幸福的观点是错误的。"
+        },
+        {
+          "en": "The idea that practice makes perfect is mistaken.",
+          "zh": "认为熟能生巧的观点并非总是正确的。"
+        }
+      ]
+    },
+    {
+      "pattern": "Some + 名词 + have been + 过去分词 + for + 时间段",
+      "original": {
+        "en": "Some so-called 'modern' pieces have been on display for nearly eighty years.",
+        "zh": "一些所谓的'现代'作品已经展出将近八十年了。"
+      },
+      "imitations": [
+        {
+          "en": "These paintings have been in the collection for over a century.",
+          "zh": "这些画作已经被收藏了一个多世纪。"
+        },
+        {
+          "en": "The museum has been open to the public for fifty years.",
+          "zh": "这家博物馆已经向公众开放五十年了。"
+        }
+      ]
+    },
+    {
+      "pattern": "These + 名词 + were designed to + 动词原形",
+      "original": {
+        "en": "These peculiar forms not only seemed designed to shock people emotionally, but to give them electric shocks as well!",
+        "zh": "这些奇特的形状似乎不仅是为了在情感上震撼人们，而且也是为了给他们电击！"
+      },
+      "imitations": [
+        {
+          "en": "These exercises are designed to improve your speaking skills.",
+          "zh": "这些练习旨在提高你的口语能力。"
+        },
+        {
+          "en": "The warning signs were designed to protect visitors from danger.",
+          "zh": "这些警告标志是为了保护游客免受危险。"
+        }
+      ]
+    },
+    {
+      "pattern": "Even + 主语 + cannot have failed to + 动词原形",
+      "original": {
+        "en": "Even people who take no interest in art cannot have failed to notice examples of modern sculpture on display in public places.",
+        "zh": "即使对艺术不感兴趣的人，也不可能没注意到公共场所展出的现代雕塑。"
+      },
+      "imitations": [
+        {
+          "en": "Even students who hate history cannot have failed to notice this famous painting.",
+          "zh": "即使讨厌历史的学生也不可能没注意到这幅名画。"
+        },
+        {
+          "en": "Even tourists who speak no Chinese cannot have failed to see the Great Wall.",
+          "zh": "即使不会说中文的游客也一定能看到长城。"
+        }
+      ]
+    }
+  ]
+}

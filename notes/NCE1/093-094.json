@@ -1,0 +1,390 @@
+{
+  "book": "NCE1",
+  "lesson": "093-094",
+  "title": "Lesson 93",
+  "vocabulary": [
+    {
+      "word": "neighbour",
+      "phonetic": "/ˈneɪbə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "邻居",
+          "usage": "指住在附近的人"
+        }
+      ]
+    },
+    {
+      "word": "pilot",
+      "phonetic": "/ˈpaɪlət/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "飞行员",
+          "usage": "指驾驶飞机的人"
+        }
+      ]
+    },
+    {
+      "word": "fly",
+      "phonetic": "/flaɪ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "飞；飞翔",
+          "usage": "指在空中移动或乘坐飞机旅行"
+        }
+      ]
+    },
+    {
+      "word": "return",
+      "phonetic": "/rɪˈtɜːn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "返回；回来",
+          "usage": "指回到原来的地方"
+        }
+      ]
+    },
+    {
+      "word": "already",
+      "phonetic": "/ɔːlˈredi/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "已经",
+          "usage": "表示某事已经发生"
+        }
+      ]
+    },
+    {
+      "word": "nearly",
+      "phonetic": "/ˈnɪəli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "几乎；差不多",
+          "usage": "表示接近但不完全"
+        }
+      ]
+    },
+    {
+      "word": "lucky",
+      "phonetic": "/ˈlʌki/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "幸运的",
+          "usage": "指有好运气"
+        }
+      ]
+    },
+    {
+      "word": "wife",
+      "phonetic": "/waɪf/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "妻子",
+          "usage": "指已婚女性"
+        }
+      ]
+    },
+    {
+      "word": "usually",
+      "phonetic": "/ˈjuːʒuəli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "通常",
+          "usage": "表示习惯性或经常性的动作"
+        }
+      ]
+    },
+    {
+      "word": "country",
+      "phonetic": "/ˈkʌntri/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "国家",
+          "usage": "指一个独立的政治实体"
+        }
+      ]
+    },
+    {
+      "word": "world",
+      "phonetic": "/wɜːld/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "世界",
+          "usage": "指地球或全球范围"
+        }
+      ]
+    },
+    {
+      "word": "stay",
+      "phonetic": "/steɪ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "停留；待",
+          "usage": "指留在某处不离开"
+        }
+      ]
+    },
+    {
+      "word": "moment",
+      "phonetic": "/ˈməʊmənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "时刻；瞬间",
+          "usage": "指某个特定的时间点"
+        }
+      ]
+    },
+    {
+      "word": "years old",
+      "phonetic": "/jɪəz əʊld/",
+      "meanings": [
+        {
+          "pos": "phrase",
+          "meaning": "岁；...岁大",
+          "usage": "用于表示年龄"
+        }
+      ]
+    },
+    {
+      "word": "Royal Air Force",
+      "phonetic": "/ˈrɔɪəl eə fɔːs/",
+      "meanings": [
+        {
+          "pos": "noun phrase",
+          "meaning": "英国皇家空军",
+          "usage": "英国空军的正式名称，缩写为R.A.F."
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "next-door neighbour",
+      "usage": "指住在隔壁的邻居",
+      "examples": [
+        {
+          "en": "Our next-door neighbour is very friendly.",
+          "zh": "我们的隔壁邻居非常友好。"
+        }
+      ]
+    },
+    {
+      "phrase": "fly to + 地点",
+      "usage": "乘飞机去某地",
+      "examples": [
+        {
+          "en": "He will fly to New York next month.",
+          "zh": "他下个月将飞往纽约。"
+        }
+      ]
+    },
+    {
+      "phrase": "the month after next",
+      "usage": "再下个月，表示距今两个月后的时间",
+      "examples": [
+        {
+          "en": "He'll fly to Tokyo the month after next.",
+          "zh": "再下个月他将飞往东京。"
+        }
+      ]
+    },
+    {
+      "phrase": "at the moment",
+      "usage": "此刻；目前，与现在进行时连用",
+      "examples": [
+        {
+          "en": "At the moment, he's in Madrid.",
+          "zh": "此刻他在马德里。"
+        }
+      ]
+    },
+    {
+      "phrase": "a week ago",
+      "usage": "一周前，用于一般过去时",
+      "examples": [
+        {
+          "en": "He flew to Spain a week ago.",
+          "zh": "他一周前飞往西班牙。"
+        }
+      ]
+    },
+    {
+      "phrase": "the week after next",
+      "usage": "再下周，表示距今两周后的时间",
+      "examples": [
+        {
+          "en": "He'll return to London the week after next.",
+          "zh": "再下周他将返回伦敦。"
+        }
+      ]
+    },
+    {
+      "phrase": "return to + 地点",
+      "usage": "返回到某地",
+      "examples": [
+        {
+          "en": "He'll return to London next week.",
+          "zh": "他下周将返回伦敦。"
+        }
+      ]
+    },
+    {
+      "phrase": "stay at home",
+      "usage": "待在家里",
+      "examples": [
+        {
+          "en": "She usually stays at home.",
+          "zh": "她通常待在家里。"
+        }
+      ]
+    },
+    {
+      "phrase": "already been to",
+      "usage": "已经去过某地",
+      "examples": [
+        {
+          "en": "He has already been to nearly every country.",
+          "zh": "他已经几乎去过每个国家。"
+        }
+      ]
+    },
+    {
+      "phrase": "be in + 地点",
+      "usage": "在某地",
+      "examples": [
+        {
+          "en": "At the moment, he's in Madrid.",
+          "zh": "此刻他在马德里。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "一般过去时 (Past Simple Tense)",
+      "definition": "表示在过去某个特定时间发生的动作或存在的状态",
+      "structure": "主语 + 动词过去式 + 其他",
+      "usage": "用于描述过去的事情，常与表示过去的时间状语连用，如 yesterday, last week, a week ago 等",
+      "examples": [
+        {
+          "en": "He was in the R.A.F.",
+          "zh": "他曾在英国皇家空军服役。"
+        },
+        {
+          "en": "He flew to Spain a week ago.",
+          "zh": "他一周前飞往西班牙。"
+        }
+      ]
+    },
+    {
+      "title": "一般将来时 (Future Simple Tense - will)",
+      "definition": "表示将来会发生的动作或存在的状态",
+      "structure": "主语 + will + 动词原形 + 其他",
+      "usage": "用于描述未来的计划、预测或决定，will 表示临时决定或客观预测",
+      "examples": [
+        {
+          "en": "He will fly to New York next month.",
+          "zh": "他下个月将飞往纽约。"
+        },
+        {
+          "en": "He'll return to London the week after next.",
+          "zh": "再下周他将返回伦敦。"
+        }
+      ]
+    },
+    {
+      "title": "现在完成时 (Present Perfect Tense)",
+      "definition": "表示过去发生的动作对现在造成的影响，或表示从过去持续到现在的经验",
+      "structure": "主语 + has/have + 过去分词 + 其他",
+      "usage": "already 用于肯定句中，表示某事已经发生。注意：already 一般放在助动词和实义动词之间，或放在句末",
+      "examples": [
+        {
+          "en": "He has already been to nearly every country in the world.",
+          "zh": "他已经几乎去过世界上每个国家了。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "主语 + will fly to + 地点 + 时间状语",
+      "original": {
+        "en": "He will fly to New York next month.",
+        "zh": "他下个月将飞往纽约。"
+      },
+      "imitations": [
+        {
+          "en": "She will fly to Paris next week.",
+          "zh": "她下周将飞往巴黎。"
+        },
+        {
+          "en": "They will fly to Beijing next year.",
+          "zh": "他们明年将飞往北京。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + flew to + 地点 + 时间状语",
+      "original": {
+        "en": "He flew to Spain a week ago.",
+        "zh": "他一周前飞往西班牙。"
+      },
+      "imitations": [
+        {
+          "en": "She flew to London last month.",
+          "zh": "她上个月飞往伦敦。"
+        },
+        {
+          "en": "They flew to Japan two weeks ago.",
+          "zh": "他们两周前飞往日本。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + has already been to + 地点",
+      "original": {
+        "en": "He has already been to nearly every country in the world.",
+        "zh": "他已经几乎去过世界上每个国家了。"
+      },
+      "imitations": [
+        {
+          "en": "I have already been to Shanghai.",
+          "zh": "我已经去过上海了。"
+        },
+        {
+          "en": "She has already been to five countries.",
+          "zh": "她已经去过五个国家了。"
+        }
+      ]
+    },
+    {
+      "pattern": "时间表达: the + 时间 + after next / ago",
+      "original": {
+        "en": "the month after next / a week ago",
+        "zh": "再下个月 / 一周前"
+      },
+      "imitations": [
+        {
+          "en": "the year after next",
+          "zh": "后年"
+        },
+        {
+          "en": "three days ago",
+          "zh": "三天前"
+        }
+      ]
+    }
+  ]
+}

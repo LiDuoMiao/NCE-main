@@ -1,0 +1,402 @@
+{
+  "book": "NCE3",
+  "lesson": "41",
+  "title": "Lesson 41",
+  "vocabulary": [
+    {
+      "word": "illusion",
+      "phonetic": "/ɪˈluːʒn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "幻觉，错觉，错误的观念",
+          "usage": "指看似真实但实际不存在的事物或想法"
+        }
+      ]
+    },
+    {
+      "word": "pastoral",
+      "phonetic": "/ˈpæstərəl/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "田园的，乡村的",
+          "usage": "形容乡村或田园生活方式"
+        }
+      ]
+    },
+    {
+      "word": "rapture",
+      "phonetic": "/ˈræptʃə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "狂喜，欣喜若狂",
+          "usage": "常用复数形式raptures表示极度欣喜"
+        }
+      ]
+    },
+    {
+      "word": "extol",
+      "phonetic": "/ɪkˈstəʊl/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "赞美，颂扬",
+          "usage": "正式用语，高度赞扬"
+        }
+      ]
+    },
+    {
+      "word": "twittering",
+      "phonetic": "/ˈtwɪtərɪŋ/",
+      "meanings": [
+        {
+          "pos": "noun/verb",
+          "meaning": "鸟鸣声，啾啾叫",
+          "usage": "鸟发出的短促叫声"
+        }
+      ]
+    },
+    {
+      "word": "glinting",
+      "phonetic": "/ˈɡlɪntɪŋ/",
+      "meanings": [
+        {
+          "pos": "adj/verb",
+          "meaning": "闪烁的，闪闪发光的",
+          "usage": "形容光线反射的闪烁效果"
+        }
+      ]
+    },
+    {
+      "word": "pasture",
+      "phonetic": "/ˈpæstʃə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "牧场，草地",
+          "usage": "指供牲畜吃草的地方"
+        }
+      ]
+    },
+    {
+      "word": "idyllic",
+      "phonetic": "/ɪˈdɪlɪk/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "田园诗般的，完美无缺的",
+          "usage": "形容平静美好的乡村生活"
+        }
+      ]
+    },
+    {
+      "word": "virtually",
+      "phonetic": "/ˈvɜːtʃuəli/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "实际上，几乎",
+          "usage": "相当于almost/nearly"
+        }
+      ]
+    },
+    {
+      "word": "dubious",
+      "phonetic": "/ˈdjuːbiəs/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "可疑的，不确定的",
+          "usage": "表示对某事持怀疑态度"
+        }
+      ]
+    },
+    {
+      "word": "acquaintance",
+      "phonetic": "/əˈkweɪntəns/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "熟人，认识的人",
+          "usage": "指认识但不太熟的人，区别于friend"
+        }
+      ]
+    },
+    {
+      "word": "deserted",
+      "phonetic": "/dɪˈzɜːtɪd/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "荒芜的，无人的",
+          "usage": "形容空无一人的地方"
+        }
+      ]
+    },
+    {
+      "word": "obstinately",
+      "phonetic": "/ˈɒbstɪnətli/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "固执地，倔强地",
+          "usage": "形容坚持己见不肯改变的态度"
+        }
+      ]
+    },
+    {
+      "word": "stagger",
+      "phonetic": "/ˈstæɡə(r)/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "踉跄，摇晃着走",
+          "usage": "形容因负重或疲劳而走路不稳"
+        }
+      ]
+    },
+    {
+      "word": "descend",
+      "phonetic": "/dɪˈsend/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "降临，来临",
+          "usage": "指某种状态或氛围突然到来"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "go into raptures",
+      "usage": "表示极度兴奋或欣喜若狂",
+      "examples": [
+        {
+          "en": "They always go into raptures at the mere mention of the country.",
+          "zh": "他们一提到乡村就会欣喜若狂。"
+        }
+      ]
+    },
+    {
+      "phrase": "be beyond me",
+      "usage": "表示无法理解或超出能力范围",
+      "examples": [
+        {
+          "en": "Why people are prepared to tolerate a four-hour journey each day is beyond me.",
+          "zh": "我无法理解为什么人们愿意每天忍受四个小时的旅程。"
+        }
+      ]
+    },
+    {
+      "phrase": "do without",
+      "usage": "表示没有某物也能应付，没有也行",
+      "examples": [
+        {
+          "en": "If you can do without the few pastoral pleasures of the country, you will find the city can provide you with the best.",
+          "zh": "如果你能不要乡村的那点乐趣，你会发现城市能给你最好的生活。"
+        }
+      ]
+    },
+    {
+      "phrase": "make do with",
+      "usage": "表示凑合用，将就使用",
+      "examples": [
+        {
+          "en": "There is so much variety that you never have to make do with second best.",
+          "zh": "品种繁多，你永远不必凑合用次品。"
+        }
+      ]
+    },
+    {
+      "phrase": "run wild",
+      "usage": "表示疯狂、放纵、胡乱购物",
+      "examples": [
+        {
+          "en": "Country people run wild when they go shopping in the city.",
+          "zh": "乡下人进城购物时会疯狂采购。"
+        }
+      ]
+    },
+    {
+      "phrase": "draw to a close",
+      "usage": "表示接近尾声，即将结束",
+      "examples": [
+        {
+          "en": "As the play draws to its close, they wonder whether they will ever catch that last train home.",
+          "zh": "当戏剧接近尾声时，他们担心能否赶得上最后一班回家的火车。"
+        }
+      ]
+    },
+    {
+      "phrase": "be tucked away",
+      "usage": "表示被藏起来，安置在某个地方",
+      "examples": [
+        {
+          "en": "The thousands that travel to work every day are tucked away in their homes in the country.",
+          "zh": "每天成千上万进城工作的人都被藏在乡村的家中。"
+        }
+      ]
+    },
+    {
+      "phrase": "It has always been a mystery to me",
+      "usage": "表示对某人来说一直是个谜",
+      "examples": [
+        {
+          "en": "It has always been a mystery to me why city dwellers pretend they would prefer to live in the country.",
+          "zh": "我一直不明白为什么城里人偏要假装喜欢住在乡下。"
+        }
+      ]
+    },
+    {
+      "phrase": "under the illusion",
+      "usage": "表示误以为，持有错误的观念",
+      "examples": [
+        {
+          "en": "Even he still lives under the illusion that country life is somehow superior to town life.",
+          "zh": "甚至他仍然误以为乡村生活比城市生活优越。"
+        }
+      ]
+    },
+    {
+      "phrase": "for the dubious privilege of",
+      "usage": "表示为了某种不值得的特权/好处",
+      "examples": [
+        {
+          "en": "Why people are prepared to tolerate a four-hour journey each day for the dubious privilege of living in the country.",
+          "zh": "为什么人们愿意每天忍受四小时的路程，就为了住乡下的那个并不值得的好处。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "宾语从句（Object Clause）",
+      "definition": "由连接词引导的充当句子宾语的从句，说明说话人对某事物的看法或疑问。",
+      "structure": "连接词（that/whether/why/what等）+ 主语 + 谓语 + 其他成分",
+      "usage": "用于表达观点、看法、疑问等内容，可位于动词或介词之后。常见动词如：think, believe, know, wonder, understand等后常接宾语从句。",
+      "examples": [
+        {
+          "en": "He still lives under the illusion that country life is somehow superior to town life.",
+          "zh": "他仍然误以为乡村生活比城市生活优越。"
+        },
+        {
+          "en": "Why people are prepared to tolerate a four-hour journey each day is beyond me.",
+          "zh": "我不明白为什么人们愿意每天忍受四小时的路程。"
+        },
+        {
+          "en": "It has always been a mystery to me why city dwellers pretend they would prefer to live in the country.",
+          "zh": "我一直不明白为什么城里人偏要假装喜欢住在乡下。"
+        }
+      ]
+    },
+    {
+      "title": "否定副词置于句首的倒装句",
+      "definition": "含有never, seldom, rarely, little, nowhere, hardly等否定词或半否定词时，如置于句首，句子需要部分倒装。",
+      "structure": "否定词/半否定词 + 助动词/be动词/情态动词 + 主语 + 动词原形 + 其他",
+      "usage": "强调否定意义，使句子更加正式或文学化。阅读时需注意识别这种倒装结构。",
+      "examples": [
+        {
+          "en": "Never have I seen such a beautiful sunset.",
+          "zh": "我从未见过如此美丽的日落。"
+        },
+        {
+          "en": "Seldom does he go to the theatre.",
+          "zh": "他很少去看戏。"
+        },
+        {
+          "en": "Rarely can you find a place so quiet.",
+          "zh": "你很少能找到如此安静的地方。"
+        }
+      ]
+    },
+    {
+      "title": "条件状语从句（真实条件句）",
+      "definition": "表示在某种条件下可能会发生的情况，使用if引导，描述可能实现的假设。",
+      "structure": "If + 主语 + 一般现在时, 主语 + will/can/may + 动词原形",
+      "usage": "用于提出真实的假设条件，说明条件与结果之间的关系。这类句子被称为第一类条件句，表示可能发生的情况。",
+      "examples": [
+        {
+          "en": "If you can do without the few pastoral pleasures of the country, you will find the city can provide you with the best.",
+          "zh": "如果你能不要乡村的那点乐趣，你会发现城市能给你最好的生活。"
+        },
+        {
+          "en": "If you work hard, you will succeed.",
+          "zh": "如果你努力工作，你就会成功。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Nothing can be compared with...",
+      "original": {
+        "en": "Nothing can be compared, he maintains, with the first cockcrow, the twittering of birds at dawn...",
+        "zh": "他坚持认为，没有什么能比得上清晨的第一声鸡鸣、鸟儿的啾啾叫声..."
+      },
+      "imitations": [
+        {
+          "en": "Nothing can be compared with a mother's love.",
+          "zh": "没有什么能比得上母爱。"
+        },
+        {
+          "en": "Nothing can be compared with the taste of fresh fruit.",
+          "zh": "没有什么能比得上新鲜水果的味道。"
+        }
+      ]
+    },
+    {
+      "pattern": "Why... is beyond me",
+      "original": {
+        "en": "Why people are prepared to tolerate a four-hour journey each day for the dubious privilege of living in the country is beyond me.",
+        "zh": "我无法理解为什么人们为了在乡村居住这个可疑的特权而愿意每天忍受四小时的旅程。"
+      },
+      "imitations": [
+        {
+          "en": "Why she married him is beyond me.",
+          "zh": "我无法理解她为什么要嫁给他。"
+        },
+        {
+          "en": "Why anyone would want to live there is beyond me.",
+          "zh": "我无法理解为什么有人想住在那里。"
+        }
+      ]
+    },
+    {
+      "pattern": "There is something... about...",
+      "original": {
+        "en": "There is something comforting about the warm glow shed by advertisements on cold wet winter nights.",
+        "zh": "在寒冷潮湿的冬夜，广告牌发出的温暖光芒有一种令人安慰的感觉。"
+      },
+      "imitations": [
+        {
+          "en": "There is something mysterious about the old house.",
+          "zh": "那座老房子有一种神秘的感觉。"
+        },
+        {
+          "en": "There is something fascinating about her stories.",
+          "zh": "她的故事有一种迷人的魅力。"
+        }
+      ]
+    },
+    {
+      "pattern": "If you can do without..., you will find...",
+      "original": {
+        "en": "If you can do without the few pastoral pleasures of the country, you will find the city can provide you with the best that life can offer.",
+        "zh": "如果你能放弃乡村的那点乐趣，你就会发现城市能给你提供生活中最好的东西。"
+      },
+      "imitations": [
+        {
+          "en": "If you can do without luxury, you will find life much simpler.",
+          "zh": "如果你能不要奢侈品，你会发现生活简单得多。"
+        },
+        {
+          "en": "If you can do without constant entertainment, you will find time for what matters.",
+          "zh": "如果你能不要不断的娱乐，你会发现时间去做重要的事。"
+        }
+      ]
+    }
+  ]
+}

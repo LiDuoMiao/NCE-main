@@ -1,0 +1,319 @@
+{
+  "book": "NCE1",
+  "lesson": "047-048",
+  "title": "Lesson 47",
+  "vocabulary": [
+    {
+      "word": "coffee",
+      "phonetic": "/ˈkɒfi/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "咖啡",
+          "usage": "不可数名词，一杯咖啡用a cup of coffee"
+        }
+      ]
+    },
+    {
+      "word": "cup",
+      "phonetic": "/kʌp/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "杯子；茶杯",
+          "usage": "通常指茶杯或咖啡杯"
+        }
+      ]
+    },
+    {
+      "word": "sugar",
+      "phonetic": "/ˈʃʊɡə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "糖",
+          "usage": "不可数名词，方糖用cube of sugar"
+        }
+      ]
+    },
+    {
+      "word": "milk",
+      "phonetic": "/mɪlk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "牛奶",
+          "usage": "不可数名词，也可作动词表示给...加奶"
+        }
+      ]
+    },
+    {
+      "word": "biscuit",
+      "phonetic": "/ˈbɪskɪt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "饼干",
+          "usage": "英式英语，美式英语用cookie"
+        }
+      ]
+    },
+    {
+      "word": "like",
+      "phonetic": "/laɪk/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "喜欢",
+          "usage": "用于表达喜好，疑问句用Do you like...?"
+        },
+        {
+          "pos": "preposition",
+          "meaning": "像；如同",
+          "usage": "用于比较"
+        }
+      ]
+    },
+    {
+      "word": "want",
+      "phonetic": "/wɒnt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "想要",
+          "usage": "表示愿望或需求"
+        }
+      ]
+    },
+    {
+      "word": "any",
+      "phonetic": "/ˈeni/",
+      "meanings": [
+        {
+          "pos": "determiner",
+          "meaning": "一些；任何",
+          "usage": "用于疑问句和否定句中"
+        }
+      ]
+    },
+    {
+      "word": "black",
+      "phonetic": "/blæk/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "黑色的；不加牛奶的",
+          "usage": "black coffee指不加牛奶的咖啡"
+        }
+      ]
+    },
+    {
+      "word": "please",
+      "phonetic": "/pliːz/",
+      "meanings": [
+        {
+          "pos": "interjection",
+          "meaning": "请",
+          "usage": "用于礼貌请求"
+        }
+      ]
+    },
+    {
+      "word": "thank",
+      "phonetic": "/θæŋk/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "感谢",
+          "usage": "thank you为常用表达"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "a cup of coffee",
+      "usage": "一杯咖啡，cup前可用large, small等形容词修饰",
+      "examples": [
+        {
+          "en": "Would you like a cup of coffee?",
+          "zh": "你想要一杯咖啡吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "Do you want...?",
+      "usage": "用于询问对方是否想要某物，比Do you like...更直接询问当前需求",
+      "examples": [
+        {
+          "en": "Do you want a biscuit?",
+          "zh": "你想要一块饼干吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "Do you like...?",
+      "usage": "用于询问对方是否喜欢某物，询问一般性喜好",
+      "examples": [
+        {
+          "en": "Do you like tea?",
+          "zh": "你喜欢喝茶吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "black coffee",
+      "usage": "不加牛奶的咖啡，也可用white coffee表示加牛奶的咖啡",
+      "examples": [
+        {
+          "en": "I prefer black coffee.",
+          "zh": "我更喜欢黑咖啡。"
+        }
+      ]
+    },
+    {
+      "phrase": "some sugar/milk",
+      "usage": "在肯定句中用some，在疑问句和否定句中用any",
+      "examples": [
+        {
+          "en": "I want some sugar in my tea.",
+          "zh": "我想在茶里加些糖。"
+        }
+      ]
+    },
+    {
+      "phrase": "Yes, please / No, thank you",
+      "usage": "接受或婉拒时的礼貌表达",
+      "examples": [
+        {
+          "en": "Would you like some more?",
+          "zh": "你还想再来点吗？"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Do引导的一般疑问句 (Do you want/like...?)",
+      "definition": "用Do开头询问对方是否想要或喜欢某事，需要用yes或no回答",
+      "structure": "Do + 主语 + 动词原形 + ...?",
+      "usage": "用于询问对方的意愿或喜好",
+      "examples": [
+        {
+          "en": "Do you want a cup of tea?",
+          "zh": "你想要一杯茶吗？"
+        },
+        {
+          "en": "Do you like coffee?",
+          "zh": "你喜欢咖啡吗？"
+        },
+        {
+          "en": "Do you want any sugar?",
+          "zh": "你想要些糖吗？"
+        }
+      ]
+    },
+    {
+      "title": "Some和Any的用法",
+      "definition": "some用于肯定句，any用于疑问句和否定句",
+      "structure": "Do you want any + 名词? / I don't want any + 名词",
+      "usage": "some在疑问句中表示希望得到肯定回答时也可用",
+      "examples": [
+        {
+          "en": "Do you want any sugar?",
+          "zh": "你想要些糖吗？"
+        },
+        {
+          "en": "I don't like any milk in my coffee.",
+          "zh": "我不喜欢在咖啡里加牛奶。"
+        }
+      ]
+    },
+    {
+      "title": "want和like的区别",
+      "definition": "want表示想要（当前需求），like表示喜欢（一般喜好）",
+      "structure": "Do you want...? / Do you like...?",
+      "usage": "want用于询问具体需求，like用于询问偏好",
+      "examples": [
+        {
+          "en": "Do you want a biscuit now?",
+          "zh": "你现在想要块饼干吗？（当前需求）"
+        },
+        {
+          "en": "Do you like biscuits?",
+          "zh": "你喜欢饼干吗？（一般喜好）"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Do you want + a(n)/some + 名词?",
+      "original": {
+        "en": "Do you want a cup?",
+        "zh": "你想要一杯吗？"
+      },
+      "imitations": [
+        {
+          "en": "Do you want a biscuit?",
+          "zh": "你想要一块饼干吗？"
+        },
+        {
+          "en": "Do you want some water?",
+          "zh": "你想要些水吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "Do you want any + 不可数名词?",
+      "original": {
+        "en": "Do you want any sugar?",
+        "zh": "你想要些糖吗？"
+      },
+      "imitations": [
+        {
+          "en": "Do you want any milk?",
+          "zh": "你想要些牛奶吗？"
+        },
+        {
+          "en": "Do you want any bread?",
+          "zh": "你想要些面包吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "Do you like + 名词?",
+      "original": {
+        "en": "Do you like coffee?",
+        "zh": "你喜欢咖啡吗？"
+      },
+      "imitations": [
+        {
+          "en": "Do you like tea?",
+          "zh": "你喜欢茶吗？"
+        },
+        {
+          "en": "Do you like biscuits?",
+          "zh": "你喜欢饼干吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "I like + 名词/形容词 + 名词",
+      "original": {
+        "en": "I like black coffee.",
+        "zh": "我喜欢黑咖啡。"
+      },
+      "imitations": [
+        {
+          "en": "I like green tea.",
+          "zh": "我喜欢绿茶。"
+        },
+        {
+          "en": "I like black tea.",
+          "zh": "我喜欢红茶。"
+        }
+      ]
+    }
+  ]
+}

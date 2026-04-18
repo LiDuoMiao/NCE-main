@@ -1,0 +1,352 @@
+{
+  "book": "NCE2",
+  "lesson": "83",
+  "title": "Why did Patrick keep on asking the same question?",
+  "vocabulary": [
+    {
+      "word": "former",
+      "phonetic": "/ˈfɔːmə/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "以前的，从前的",
+          "usage": "用于指某人或某物过去的状态或职位"
+        }
+      ]
+    },
+    {
+      "word": "defeat",
+      "phonetic": "/dɪˈfiːt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "击败，战胜",
+          "usage": "在选举、比赛或战争中击败对手"
+        }
+      ]
+    },
+    {
+      "word": "election",
+      "phonetic": "/ɪˈlekʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "选举",
+          "usage": "指政治职位的投票选举"
+        }
+      ]
+    },
+    {
+      "word": "retire",
+      "phonetic": "/rɪˈtaɪə/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "退休；退役",
+          "usage": "指从工作或政治生涯中退出"
+        }
+      ]
+    },
+    {
+      "word": "political",
+      "phonetic": "/pəˈlɪtɪkl/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "政治的",
+          "usage": "与政府、政治活动相关的"
+        }
+      ]
+    },
+    {
+      "word": "abroad",
+      "phonetic": "/əˈbrɔːd/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "到国外，在国外",
+          "usage": "指去往或身处其他国家"
+        }
+      ]
+    },
+    {
+      "word": "fanatical",
+      "phonetic": "/fəˈnætɪkl/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "狂热的",
+          "usage": "形容对某事物极度热衷甚至不理智"
+        }
+      ]
+    },
+    {
+      "word": "opponent",
+      "phonetic": "/əˈpəʊnənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "对手，敌手",
+          "usage": "指比赛或政治中的竞争者"
+        }
+      ]
+    },
+    {
+      "word": "suspicious",
+      "phonetic": "/səˈspɪʃəs/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "怀疑的，猜疑的",
+          "usage": "对某事或某人感到不信任"
+        }
+      ]
+    },
+    {
+      "word": "temper",
+      "phonetic": "/ˈtempə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "脾气，怒气",
+          "usage": "lose one's temper表示发脾气"
+        }
+      ]
+    },
+    {
+      "word": "entrance",
+      "phonetic": "/ˈentrəns/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "入口，大门",
+          "usage": "指建筑物或场所的入口处"
+        }
+      ]
+    },
+    {
+      "word": "exactly",
+      "phonetic": "/ɪɡˈzæktli/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "精确地，完全地",
+          "usage": "强调完全相同或准确"
+        }
+      ]
+    },
+    {
+      "word": "policeman",
+      "phonetic": "/pəˈliːsmən/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "警察",
+          "usage": "指男性执法者"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "keep on doing sth",
+      "usage": "继续做某事，反复做某事",
+      "examples": [
+        {
+          "en": "He kept on asking the same question.",
+          "zh": "他不断问同样的问题。"
+        }
+      ]
+    },
+    {
+      "phrase": "go abroad",
+      "usage": "出国，到国外",
+      "examples": [
+        {
+          "en": "Mr. Lane has gone abroad.",
+          "zh": "Lane先生已经出国了。"
+        }
+      ]
+    },
+    {
+      "phrase": "lose one's temper",
+      "usage": "发脾气",
+      "examples": [
+        {
+          "en": "The policeman lost his temper.",
+          "zh": "警察发脾气了。"
+        }
+      ]
+    },
+    {
+      "phrase": "the day after",
+      "usage": "后天；第二天的次日",
+      "examples": [
+        {
+          "en": "The day after, Patrick went to the house again.",
+          "zh": "第二天，Patrick又去了那所房子。"
+        }
+      ]
+    },
+    {
+      "phrase": "on the following day",
+      "usage": "在第二天",
+      "examples": [
+        {
+          "en": "On the following day Patrick went to the house again.",
+          "zh": "第二天Patrick又去了那所房子。"
+        }
+      ]
+    },
+    {
+      "phrase": "go to live abroad",
+      "usage": "去国外居住",
+      "examples": [
+        {
+          "en": "He has gone to live abroad.",
+          "zh": "他已经去国外居住了。"
+        }
+      ]
+    },
+    {
+      "phrase": "be defeated in elections",
+      "usage": "在选举中败北",
+      "examples": [
+        {
+          "en": "Mr. Lane was defeated in the recent elections.",
+          "zh": "Lane先生在最近的选举中败北了。"
+        }
+      ]
+    },
+    {
+      "phrase": "retire from political life",
+      "usage": "退出政治生涯",
+      "examples": [
+        {
+          "en": "He is retiring from political life.",
+          "zh": "他即将退出政坛。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "一般过去时 (Past Simple Tense)",
+      "definition": "表示过去发生的动作或存在的状态",
+      "structure": "主语 + 动词过去式",
+      "usage": "描述过去发生的事情，如已完成的选举结果、去过的地点等",
+      "examples": [
+        {
+          "en": "Patrick went to the former Prime Minister's house.",
+          "zh": "Patrick去了前首相的家。"
+        },
+        {
+          "en": "The policeman told him that Mr. Lane had gone abroad.",
+          "zh": "警察告诉他Lane先生已经出国了。"
+        }
+      ]
+    },
+    {
+      "title": "过去进行时 (Past Continuous Tense)",
+      "definition": "表示过去某一时刻正在进行的动作",
+      "structure": "主语 + was/were + 动词-ing",
+      "usage": "描述过去正在发生的动作，通常与一般过去时连用",
+      "examples": [
+        {
+          "en": "The policeman was just walking slowly past the entrance.",
+          "zh": "警察正慢慢走过门口。"
+        },
+        {
+          "en": "While I was reading, the phone rang.",
+          "zh": "我正在看书时，电话响了。"
+        }
+      ]
+    },
+    {
+      "title": "直接引语和间接引语 (Direct and Indirect Speech)",
+      "definition": "直接引用原话为直接引语；转述别人的话为间接引语",
+      "structure": "直接引语用引号；间接引语用that引导",
+      "usage": "转述他人说的话时使用，过去时态中时间状语需要相应调整",
+      "examples": [
+        {
+          "en": "'Mr. Lane was defeated in the elections,' he shouted.",
+          "zh": "他在喊：'Lane先生在选举中败北了。'"
+        },
+        {
+          "en": "He told me that Mr. Lane had been defeated in the elections.",
+          "zh": "他告诉我Lane先生在选举中败北了。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "主语 + was/were + 动词-ing when + 主语 + 动词过去式",
+      "original": {
+        "en": "The policeman was just walking slowly past the entrance when Patrick asked the same question.",
+        "zh": "警察正慢慢走过门口时，Patrick问了同样的问题。"
+      },
+      "imitations": [
+        {
+          "en": "I was reading a book when the doorbell rang.",
+          "zh": "我正在看书时门铃响了。"
+        },
+        {
+          "en": "She was cooking dinner when I arrived home.",
+          "zh": "我到家时她正在做晚饭。"
+        }
+      ]
+    },
+    {
+      "pattern": "I told you...",
+      "original": {
+        "en": "I told you yesterday and the day before yesterday.",
+        "zh": "我昨天和前天都告诉你了。"
+      },
+      "imitations": [
+        {
+          "en": "I told you many times to be careful.",
+          "zh": "我告诉过你很多次要小心。"
+        },
+        {
+          "en": "I told you he would come late.",
+          "zh": "我告诉过你他会迟到。"
+        }
+      ]
+    },
+    {
+      "pattern": "I know, but...",
+      "original": {
+        "en": "I know, but I love to hear you say it!",
+        "zh": "我知道，但我就是爱听你说！"
+      },
+      "imitations": [
+        {
+          "en": "I know it's expensive, but it's worth it.",
+          "zh": "我知道这很贵，但值得。"
+        },
+        {
+          "en": "I know you're busy, but could you help me?",
+          "zh": "我知道你很忙，但你能帮我吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "问...是否...",
+      "original": {
+        "en": "When he asked if Mr. Lane lived there, the policeman told him...",
+        "zh": "当他问Lane先生是否住在那里时，警察告诉他..."
+      },
+      "imitations": [
+        {
+          "en": "She asked if I was free tomorrow.",
+          "zh": "她问我明天是否有空。"
+        },
+        {
+          "en": "He asked if the train had already left.",
+          "zh": "他问火车是否已经开走了。"
+        }
+      ]
+    }
+  ]
+}

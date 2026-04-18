@@ -1,0 +1,422 @@
+{
+  "book": "NCE3",
+  "lesson": "23",
+  "title": "Lesson 23",
+  "vocabulary": [
+    {
+      "word": "poison",
+      "phonetic": "/ˈpɔɪzən/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "毒药；毒物",
+          "usage": "指任何能够伤害或杀死生物的物质"
+        }
+      ]
+    },
+    {
+      "word": "illogical",
+      "phonetic": "/ɪˈlɒdʒɪkəl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "不合逻辑的；没有道理的",
+          "usage": "形容人的行为或想法缺乏逻辑性"
+        }
+      ]
+    },
+    {
+      "word": "delicacy",
+      "phonetic": "/ˈdelɪkəsi/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "美味；佳肴；珍品",
+          "usage": "指特别美味或珍贵的食物"
+        }
+      ]
+    },
+    {
+      "word": "repulsive",
+      "phonetic": "/rɪˈpʌlsɪv/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "令人厌恶的；令人反感的",
+          "usage": "描述让人觉得恶心或排斥的事物"
+        }
+      ]
+    },
+    {
+      "word": "octopus",
+      "phonetic": "/ˈɒktəpəs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "章鱼",
+          "usage": "一种海洋生物，常被当作食物"
+        }
+      ]
+    },
+    {
+      "word": "despise",
+      "phonetic": "/dɪˈspaɪz/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "鄙视；看不起；厌恶",
+          "usage": "表达对某人或某事的强烈不喜欢或蔑视"
+        }
+      ]
+    },
+    {
+      "word": "prize",
+      "phonetic": "/praɪz/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "珍贵的；重要的；获奖的",
+          "usage": "形容特别珍贵或被珍视的东西，如prize plants获奖植物"
+        }
+      ]
+    },
+    {
+      "word": "stroll",
+      "phonetic": "/strəʊl/",
+      "meanings": [
+        {
+          "pos": "noun/verb",
+          "meaning": "漫步；闲逛；溜达",
+          "usage": "指轻松悠闲地散步"
+        }
+      ]
+    },
+    {
+      "word": "impulse",
+      "phonetic": "/ˈɪmpʌls/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "冲动；一时兴起；刺激",
+          "usage": "指突然产生的强烈欲望或想法，如on impulse一时冲动"
+        }
+      ]
+    },
+    {
+      "word": "dismay",
+      "phonetic": "/dɪsˈmeɪ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "惊愕；沮丧；灰心",
+          "usage": "指因意外或失望而产生的震惊和沮丧感"
+        }
+      ]
+    },
+    {
+      "word": "possession",
+      "phonetic": "/pəˈzeʃən/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "拥有；占有；财产",
+          "usage": "指拥有或控制某物，take possession of表示接管、占领"
+        }
+      ]
+    },
+    {
+      "word": "luxury",
+      "phonetic": "/ˈlʌkʃəri/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "奢侈；豪华；奢侈品",
+          "usage": "指昂贵的享受或物品，a great luxury表示非常奢侈的享受"
+        }
+      ]
+    },
+    {
+      "word": "associate",
+      "phonetic": "/əˈsəʊʃieɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "联系；联想；交往",
+          "usage": "指把不同事物联系在一起，associate A with B把A和B联系起来"
+        }
+      ]
+    },
+    {
+      "word": "escape",
+      "phonetic": "/ɪˈskeɪp/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "逃跑；逃脱；逃离",
+          "usage": "指从某处逃出来，或避免受到伤害"
+        }
+      ]
+    },
+    {
+      "word": "reluctantly",
+      "phonetic": "/rɪˈlʌktəntli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "不情愿地；勉强地",
+          "usage": "描述做某事时内心不愿意但又不得不做的状态"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "One man's meat is another man's poison",
+      "usage": "谚语，意思是甲之蜜糖，乙之砒霜。指不同的人对同一种事物有不同的喜好或评价",
+      "examples": [
+        {
+          "en": "One man's meat is another man's poison - some people love coffee but others find it terrible.",
+          "zh": "萝卜青菜各有所爱——有人爱咖啡，有人却觉得它很糟糕。"
+        }
+      ]
+    },
+    {
+      "phrase": "stick to",
+      "usage": "坚持；坚守；维持原状。指坚持做某事或坚持某种习惯",
+      "examples": [
+        {
+          "en": "We stick to our original plan despite the difficulties.",
+          "zh": "尽管有困难，我们仍然坚持原计划。"
+        },
+        {
+          "en": "Most people stick to the foods they grew up with.",
+          "zh": "大多数人都坚持吃他们从小吃到大的食物。"
+        }
+      ]
+    },
+    {
+      "phrase": "appeal to",
+      "usage": "吸引；使感兴趣。指某事物引起某人的兴趣或好感",
+      "examples": [
+        {
+          "en": "The idea never appealed to me very much.",
+          "zh": "这个想法从来没有真正吸引过我。"
+        },
+        {
+          "en": "Does this job appeal to you?",
+          "zh": "这份工作吸引你吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "on (a sudden) impulse",
+      "usage": "凭（一时）冲动。指突然产生的强烈欲望或想法驱使的行动",
+      "examples": [
+        {
+          "en": "Acting on a sudden impulse, I collected several dozen snails.",
+          "zh": "一时冲动之下，我抓了几十只蜗牛。"
+        },
+        {
+          "en": "She bought the dress on impulse.",
+          "zh": "她一时冲动买下了那条裙子。"
+        }
+      ]
+    },
+    {
+      "phrase": "take possession of",
+      "usage": "拥有；接管；占领。指开始控制或占据某物",
+      "examples": [
+        {
+          "en": "The snails had taken complete possession of the hall!",
+          "zh": "蜗牛已经完全占领了门厅！"
+        },
+        {
+          "en": "The company took possession of the new building last month.",
+          "zh": "公司上个月接管了那栋新楼。"
+        }
+      ]
+    },
+    {
+      "phrase": "be delighted to",
+      "usage": "高兴做某事；对某事感到高兴。表达对某事的愉悦感受",
+      "examples": [
+        {
+          "en": "Robert was delighted to see me and equally pleased with my little gift.",
+          "zh": "罗伯特见到我很高兴，对我的小礼物也很满意。"
+        }
+      ]
+    },
+    {
+      "phrase": "turn at",
+      "usage": "对...感到恶心/反胃。指对某种想法或气味感到厌恶",
+      "examples": [
+        {
+          "en": "Your stomach would turn at the idea of frying potatoes in animal fat.",
+          "zh": "一想到用动物油炸土豆，你就会感到恶心。"
+        }
+      ]
+    },
+    {
+      "phrase": "bring up",
+      "usage": "抚养；培养；养大。指在成长过程中被照顾和教育",
+      "examples": [
+        {
+          "en": "Most of us have been brought up to eat certain foods.",
+          "zh": "我们大多数人在成长过程中都被培养吃某些特定的食物。"
+        }
+      ]
+    },
+    {
+      "phrase": "a heavy shower",
+      "usage": "一阵大雨；倾盆大雨。指短时间内的大降雨",
+      "examples": [
+        {
+          "en": "One day, after a heavy shower, I noticed a huge number of snails.",
+          "zh": "有一天，一阵大雨过后，我注意到大量的蜗牛。"
+        }
+      ]
+    },
+    {
+      "phrase": "ever since",
+      "usage": "自从；从那以后一直。指从过去的某个时间点一直持续到现在",
+      "examples": [
+        {
+          "en": "There are countless people who, ever since their early years, have learned to associate snails with food.",
+          "zh": "有无数人从童年时代起就学会把蜗牛和食物联系起来。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去进行时 (Past Continuous Tense)",
+      "definition": "过去进行时表示在过去某一时刻或某一段时间正在进行的动作。",
+      "structure": "主语 + was/were + 动词-ing",
+      "usage": "用于描述在过去某个特定时刻正在发生的动作，或与另一个过去动作形成对比。本课中'I happened to be walking in my garden when I noticed...'描述了作者在大雨中正在花园里散步时看到了蜗牛。",
+      "examples": [
+        {
+          "en": "I happened to be walking in my garden when I noticed a huge number of snails.",
+          "zh": "我碰巧在花园里散步时注意到大量的蜗牛。"
+        },
+        {
+          "en": "I was reading a book when he called.",
+          "zh": "他打电话时我正在看书。"
+        },
+        {
+          "en": "She was cooking dinner at 7 o'clock yesterday evening.",
+          "zh": "昨晚七点她正在做晚饭。"
+        }
+      ]
+    },
+    {
+      "title": "间接宾语和直接宾语 (Indirect and Direct Objects)",
+      "definition": "某些动词可以带两个宾语：间接宾语（通常指人）和直接宾语（通常指物）。间接宾语通常位于直接宾语之前，但如果间接宾语放在后面，需要用介词to或for。",
+      "structure": "主语 + 动词 + 间接宾语 + 直接宾语 或 主语 + 动词 + 直接宾语 + to/for + 间接宾语",
+      "usage": "本课中'...I collected several dozen, put them in a paper bag, and took them to Robert.'展示了带两个宾语的用法。本课的被动语态结构也涉及宾语转换。",
+      "examples": [
+        {
+          "en": "I took them to Robert. (= I took Robert them.)",
+          "zh": "我把它们带给了罗伯特。"
+        },
+        {
+          "en": "She bought me a gift. (= She bought a gift for me.)",
+          "zh": "她给我买了一份礼物。"
+        },
+        {
+          "en": "Could you pass me the salt?",
+          "zh": "你能把盐递给我吗？"
+        }
+      ]
+    },
+    {
+      "title": "时间状语从句 (Adverbial Clause of Time)",
+      "definition": "时间状语从句用来说明动作发生的时间，由从属连词如when, while, after, before, as soon as等引导。",
+      "structure": "主句 + when/while/after/before + 从句",
+      "usage": "本课中多次使用时间状语从句，如'...when I noticed...', '...when Robert suddenly said...'等。when表示具体的时间点，while表示时间段。",
+      "examples": [
+        {
+          "en": "I was walking in my garden when I noticed a huge number of snails.",
+          "zh": "我在花园里散步时，注意到大量的蜗牛。"
+        },
+        {
+          "en": "Robert and I went into the living room where we talked for a couple of hours.",
+          "zh": "我和罗伯特走进客厅，在那里谈了两个小时。"
+        },
+        {
+          "en": "I had forgotten all about the snails when Robert suddenly said that I must stay to dinner.",
+          "zh": "我已经完全忘了蜗牛这件事，这时罗伯特突然说我必须留下来吃晚饭。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "No + 名词 + has received more...than...",
+      "original": {
+        "en": "No creature has received more praise and abuse than the common garden snail.",
+        "zh": "没有任何生物受到的赞扬和批评比得上普通的花园蜗牛。"
+      },
+      "imitations": [
+        {
+          "en": "No movie has received more praise and criticism than Titanic.",
+          "zh": "没有任何电影受到的赞扬和批评比得上《泰坦尼克号》。"
+        },
+        {
+          "en": "No sport has received more attention than football in this country.",
+          "zh": "在这个国家，没有任何运动受到的关注比得上足球。"
+        }
+      ]
+    },
+    {
+      "pattern": "There are countless people who...",
+      "original": {
+        "en": "There are countless people who, ever since their early years, have learned to associate snails with food.",
+        "zh": "有无数人从童年时代起就学会把蜗牛和食物联系起来。"
+      },
+      "imitations": [
+        {
+          "en": "There are countless people who have learned to associate tea with relaxation.",
+          "zh": "有无数人学会把茶和放松联系起来。"
+        },
+        {
+          "en": "There are countless people who, ever since their college days, have been working in this field.",
+          "zh": "有无数人从大学时代起就一直在这个领域工作。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + happened to be + doing + when...",
+      "original": {
+        "en": "I happened to be walking in my garden when I noticed a huge number of snails.",
+        "zh": "我碰巧在花园里散步时注意到大量的蜗牛。"
+      },
+      "imitations": [
+        {
+          "en": "She happened to be reading a book when the earthquake happened.",
+          "zh": "地震发生时她碰巧在看书。"
+        },
+        {
+          "en": "I happened to be cooking dinner when the guests arrived.",
+          "zh": "客人到达时我碰巧在做晚饭。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + be delighted to + 动词原形",
+      "original": {
+        "en": "Robert was delighted to see me and equally pleased with my little gift.",
+        "zh": "罗伯特见到我很高兴，对我的小礼物也很满意。"
+      },
+      "imitations": [
+        {
+          "en": "My mother was delighted to hear the good news.",
+          "zh": "我妈妈听到这个好消息很高兴。"
+        },
+        {
+          "en": "The children were delighted to receive the presents.",
+          "zh": "孩子们收到礼物很高兴。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,351 @@
+{
+  "book": "NCE2",
+  "lesson": "35",
+  "title": "How did Roy stop the thieves?",
+  "vocabulary": [
+    {
+      "word": "taxi",
+      "phonetic": "/ˈtæksi/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "出租车",
+          "usage": "指供出租的载客汽车"
+        }
+      ]
+    },
+    {
+      "word": "regret",
+      "phonetic": "/rɪˈɡret/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "后悔，遗憾",
+          "usage": "表示对过去的行为感到后悔"
+        }
+      ]
+    },
+    {
+      "word": "exciting",
+      "phonetic": "/ɪkˈsaɪtɪŋ/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "令人兴奋的",
+          "usage": "描述令人激动的事物"
+        }
+      ]
+    },
+    {
+      "word": "thief",
+      "phonetic": "/θiːf/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "小偷，贼",
+          "usage": "复数形式为thieves"
+        }
+      ]
+    },
+    {
+      "word": "rush",
+      "phonetic": "/rʌʃ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "冲，奔",
+          "usage": "表示快速地移动"
+        }
+      ]
+    },
+    {
+      "word": "fright",
+      "phonetic": "/fraɪt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "害怕，恐惧",
+          "usage": "常用于get a fright短语中"
+        }
+      ]
+    },
+    {
+      "word": "battered",
+      "phonetic": "/ˈbætəd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "破旧的，损坏的",
+          "usage": "形容物体被严重损坏"
+        }
+      ]
+    },
+    {
+      "word": "recognize",
+      "phonetic": "/ˈrekəɡnaɪz/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "认出，识别",
+          "usage": "表示识别出某人或某物"
+        }
+      ]
+    },
+    {
+      "word": "arrest",
+      "phonetic": "/əˈrest/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "逮捕，拘留",
+          "usage": "指依法逮捕犯罪嫌疑人"
+        }
+      ]
+    },
+    {
+      "word": "straight",
+      "phonetic": "/streɪt/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "直接地，径直地",
+          "usage": "表示不绕弯的方向"
+        }
+      ]
+    },
+    {
+      "word": "drop",
+      "phonetic": "/drɒp/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "掉落，使落下",
+          "usage": "表示东西从手中掉落"
+        }
+      ]
+    },
+    {
+      "word": "carry",
+      "phonetic": "/ˈkæri/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "携带，搬运",
+          "usage": "表示随身带着某物"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "used to do sth",
+      "usage": "表示过去习惯性的动作或状态，现在已不再发生",
+      "examples": [
+        {
+          "en": "Roy used to drive a taxi.",
+          "zh": "Roy过去常开出租车。"
+        }
+      ]
+    },
+    {
+      "phrase": "a short while ago",
+      "usage": "表示不久之前，相当于not long ago",
+      "examples": [
+        {
+          "en": "A short while ago, he became a bus driver.",
+          "zh": "不久之前，他成了一名公交车司机。"
+        }
+      ]
+    },
+    {
+      "phrase": "far more exciting",
+      "usage": "far用于加强比较级，表示更加、得多",
+      "examples": [
+        {
+          "en": "He is finding his new work far more exciting.",
+          "zh": "他发现新工作更加令人兴奋。"
+        }
+      ]
+    },
+    {
+      "phrase": "rush out of",
+      "usage": "从...冲出来",
+      "examples": [
+        {
+          "en": "He saw two thieves rush out of a shop.",
+          "zh": "他看见两个小偷从一家商店冲出来。"
+        }
+      ]
+    },
+    {
+      "phrase": "run towards",
+      "usage": "朝...跑去",
+      "examples": [
+        {
+          "en": "The thieves ran towards a waiting car.",
+          "zh": "小偷们朝一辆等候的汽车跑去。"
+        }
+      ]
+    },
+    {
+      "phrase": "act quickly",
+      "usage": "迅速行动",
+      "examples": [
+        {
+          "en": "Roy acted quickly and drove the bus straight at the thieves.",
+          "zh": "Roy迅速行动，把公交车直接开向小偷。"
+        }
+      ]
+    },
+    {
+      "phrase": "such...that...",
+      "usage": "如此...以至于...",
+      "examples": [
+        {
+          "en": "The one with the money got such a fright that he dropped the bag.",
+          "zh": "拿着钱的小偷吓得把袋子都掉了。"
+        }
+      ]
+    },
+    {
+      "phrase": "get away",
+      "usage": "逃走，离开",
+      "examples": [
+        {
+          "en": "As the thieves were trying to get away in their car...",
+          "zh": "当小偷们试图开车逃走时..."
+        }
+      ]
+    },
+    {
+      "phrase": "shortly afterwards",
+      "usage": "不久之后",
+      "examples": [
+        {
+          "en": "Shortly afterwards, the police stopped the car.",
+          "zh": "不久之后，警察拦住了那辆车。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "used to + 动词原形",
+      "definition": "表示过去经常发生的动作或存在的状态，而现在已不再发生",
+      "structure": "主语 + used to + 动词原形",
+      "usage": "用于描述过去的习惯或状态，与现在形成对比",
+      "examples": [
+        {
+          "en": "Roy used to drive a taxi.",
+          "zh": "Roy过去常开出租车。"
+        },
+        {
+          "en": "He used to smoke, but now he doesn't.",
+          "zh": "他以前抽烟，但现在不抽了。"
+        }
+      ]
+    },
+    {
+      "title": "such...that... 结果状语从句",
+      "definition": "such后面接名词，that引导结果状语从句，表示如此...以至于...",
+      "structure": "such + a/an + 形容词 + 可数名词单数 + that...",
+      "usage": "强调程度之高导致某种结果",
+      "examples": [
+        {
+          "en": "He got such a fright that he dropped the bag.",
+          "zh": "他吓得把袋子都掉了。"
+        },
+        {
+          "en": "It was such a hot day that we went swimming.",
+          "zh": "天气太热了，我们去游泳了。"
+        }
+      ]
+    },
+    {
+      "title": "While + 过去进行时",
+      "definition": "while引导的时间状语从句，表示两个动作同时进行",
+      "structure": "While + 主语 + was/were + 动词-ing, 主语 + 动词过去式",
+      "usage": "用于描述两个正在进行的动作同时发生",
+      "examples": [
+        {
+          "en": "While the battered car was moving away, Roy stopped his bus.",
+          "zh": "当那辆破车开走时，Roy停下了公交车。"
+        },
+        {
+          "en": "While I was reading, she was cooking.",
+          "zh": "我看书的时候，她在做饭。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "主语 + used to + 动词原形",
+      "original": {
+        "en": "Roy Trenton used to drive a taxi.",
+        "zh": "Roy Trenton过去常开出租车。"
+      },
+      "imitations": [
+        {
+          "en": "I used to live in Shanghai.",
+          "zh": "我以前住在上海。"
+        },
+        {
+          "en": "She used to play the piano.",
+          "zh": "她以前弹钢琴。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + saw + 宾语 + 动词原形",
+      "original": {
+        "en": "He saw two thieves rush out of a shop.",
+        "zh": "他看见两个小偷从一家商店冲出来。"
+      },
+      "imitations": [
+        {
+          "en": "I saw him leave the room.",
+          "zh": "我看见他离开了房间。"
+        },
+        {
+          "en": "She saw the bird fly away.",
+          "zh": "她看见那只鸟飞走了。"
+        }
+      ]
+    },
+    {
+      "pattern": "such + a/an + 形容词 + 名词 + that...",
+      "original": {
+        "en": "The one with the money got such a fright that he dropped the bag.",
+        "zh": "拿着钱的小偷吓得把袋子都掉了。"
+      },
+      "imitations": [
+        {
+          "en": "He made such a mistake that everyone laughed.",
+          "zh": "他犯了如此可笑的错误，大家都笑了。"
+        },
+        {
+          "en": "It was such a beautiful day that we went to the park.",
+          "zh": "天气太好了，我们去了公园。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + act/acted quickly",
+      "original": {
+        "en": "Roy acted quickly and drove the bus straight at the thieves.",
+        "zh": "Roy迅速行动，把公交车直接开向小偷。"
+      },
+      "imitations": [
+        {
+          "en": "The fireman acted quickly and saved the child.",
+          "zh": "消防员迅速行动，救了那个孩子。"
+        },
+        {
+          "en": "She acted quickly when she saw the accident.",
+          "zh": "看到事故时她迅速采取了行动。"
+        }
+      ]
+    }
+  ]
+}

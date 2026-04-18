@@ -1,0 +1,345 @@
+{
+  "book": "NCE2",
+  "lesson": "52",
+  "title": "What is the writer's carpet made of?",
+  "vocabulary": [
+    {
+      "word": "carpet",
+      "phonetic": "/ˈkɑːpɪt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "地毯；地毯状覆盖物",
+          "usage": "指铺在地上的织物，这里幽默地指书堆成的地面"
+        }
+      ]
+    },
+    {
+      "word": "temporarily",
+      "phonetic": "/ˈtemprərəli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "暂时地；临时地",
+          "usage": "修饰动词，表示暂时的状态"
+        }
+      ]
+    },
+    {
+      "word": "gaze",
+      "phonetic": "/ɡeɪz/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "凝视；注视",
+          "usage": "指长时间地盯着看，常与at连用"
+        }
+      ]
+    },
+    {
+      "word": "cover",
+      "phonetic": "/ˈkʌvər/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "覆盖；遮盖",
+          "usage": "表示覆盖某物的表面"
+        }
+      ]
+    },
+    {
+      "word": "spare",
+      "phonetic": "/speər/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "空闲的；多余的",
+          "usage": "spare time指空闲时间"
+        }
+      ]
+    },
+    {
+      "word": "own",
+      "phonetic": "/əʊn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "拥有；具有",
+          "usage": "表示所有权，强调个人拥有"
+        }
+      ]
+    },
+    {
+      "word": "order",
+      "phonetic": "/ˈɔːrdər/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "整齐；秩序",
+          "usage": "in order表示整齐有序；out of order表示杂乱"
+        }
+      ]
+    },
+    {
+      "word": "bookcase",
+      "phonetic": "/ˈbʊkkeɪs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "书架；书柜",
+          "usage": "用于存放书籍的家具"
+        }
+      ]
+    },
+    {
+      "word": "move",
+      "phonetic": "/muːv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "搬家；移动",
+          "usage": "move into搬入；move out搬出"
+        }
+      ]
+    },
+    {
+      "word": "inch",
+      "phonetic": "/ɪntʃ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "英寸；寸",
+          "usage": "长度单位，常用于测量较小距离"
+        }
+      ]
+    },
+    {
+      "word": "floor",
+      "phonetic": "/flɔːr/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "地板；地面",
+          "usage": "指房间的地面，floor space指地板空间"
+        }
+      ]
+    },
+    {
+      "word": "actually",
+      "phonetic": "/ˈæktʃuəli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "实际上；事实上",
+          "usage": "用于强调事实或真实情况"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "in order",
+      "usage": "表示整齐有序，井井有条",
+      "examples": [
+        {
+          "en": "I have been trying to get my new room in order.",
+          "zh": "我一直在努力整理我的新房间。"
+        },
+        {
+          "en": "Let's put these papers in order.",
+          "zh": "让我们把这些文件整理整齐。"
+        }
+      ]
+    },
+    {
+      "phrase": "to make matters worse",
+      "usage": "更糟糕的是，用来引出使情况更糟的因素",
+      "examples": [
+        {
+          "en": "To make matters worse, the room is rather small.",
+          "zh": "更糟糕的是，房间相当小。"
+        },
+        {
+          "en": "It was raining, and to make matters worse, my car broke down.",
+          "zh": "天在下雨，更糟糕的是，我的车坏了。"
+        }
+      ]
+    },
+    {
+      "phrase": "at the moment",
+      "usage": "此刻；目前，与现在进行时连用",
+      "examples": [
+        {
+          "en": "At the moment, they cover every inch of floor space.",
+          "zh": "此刻，它们覆盖了地板的每一寸空间。"
+        },
+        {
+          "en": "I'm very busy at the moment.",
+          "zh": "我此刻非常忙。"
+        }
+      ]
+    },
+    {
+      "phrase": "a short while ago",
+      "usage": "刚才；不久之前",
+      "examples": [
+        {
+          "en": "A short while ago, my sister helped me to carry one of my old bookcases up the stairs.",
+          "zh": "刚才，我妹妹帮我把一个旧书架抬上楼梯。"
+        },
+        {
+          "en": "A short while ago, he was still a student.",
+          "zh": "刚才，他还是个学生。"
+        }
+      ]
+    },
+    {
+      "phrase": "get in or out of",
+      "usage": "进入或出去",
+      "examples": [
+        {
+          "en": "I have to walk on them to get in or out of the room.",
+          "zh": "我不得不踩着它们进出房间。"
+        }
+      ]
+    },
+    {
+      "phrase": "in your spare time",
+      "usage": "在你空闲的时候",
+      "examples": [
+        {
+          "en": "You can sit here in your spare time and read the carpet!",
+          "zh": "你可以在空闲时间坐在这里'读'地毯！"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "现在完成进行时 (Present Perfect Continuous)",
+      "definition": "表示动作从过去开始，一直持续到现在，可能还在进行或刚刚结束。常与all morning/all day/just等时间状语连用。",
+      "structure": "主语 + have/has + been + 动词-ing形式",
+      "usage": "强调动作的持续性，常用时间状语有：all morning, all day, for + 时间段, since + 时间点",
+      "examples": [
+        {
+          "en": "I have been working hard all morning.",
+          "zh": "我整个上午一直在努力工作。"
+        },
+        {
+          "en": "I have been trying to get my new room in order.",
+          "zh": "我一直在努力整理我的新房间。"
+        },
+        {
+          "en": "She has been waiting for you for two hours.",
+          "zh": "她已经等了你两个小时了。"
+        }
+      ]
+    },
+    {
+      "title": "to make matters worse",
+      "definition": "插入语，用来引出使已经不好的情况更加糟糕的信息",
+      "structure": "to make matters worse, + 句子",
+      "usage": "用于引出更糟糕的情况，通常前面已经描述了一个不太好的情况",
+      "examples": [
+        {
+          "en": "To make matters worse, the room is rather small.",
+          "zh": "更糟糕的是，房间相当小。"
+        },
+        {
+          "en": "It was cold, and to make matters worse, it started to rain.",
+          "zh": "天气很冷，更糟糕的是，开始下雨了。"
+        }
+      ]
+    },
+    {
+      "title": "be made of 询问材质",
+      "definition": "用 be made of 提问，of后接材料名词，用于询问某物是由什么制成的",
+      "structure": "What is + 主语 + made of?",
+      "usage": "询问物品的原材料或组成成分",
+      "examples": [
+        {
+          "en": "What is the writer's carpet made of?",
+          "zh": "作家的'地毯'是什么做的？"
+        },
+        {
+          "en": "What is this table made of?",
+          "zh": "这张桌子是什么做的？"
+        },
+        {
+          "en": "What is your jacket made of?",
+          "zh": "你的夹克是什么材质的？"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "What is + 主语 + made of?",
+      "original": {
+        "en": "What is the writer's carpet made of?",
+        "zh": "作家的'地毯'是什么做的？"
+      },
+      "imitations": [
+        {
+          "en": "What is this dress made of?",
+          "zh": "这条裙子是什么材质的？"
+        },
+        {
+          "en": "What is your new house made of?",
+          "zh": "你的新房子是什么结构的？"
+        }
+      ]
+    },
+    {
+      "pattern": "I have been + 动词-ing + 时间/all day/morning...",
+      "original": {
+        "en": "I have been working hard all morning.",
+        "zh": "我整个上午一直在努力工作。"
+      },
+      "imitations": [
+        {
+          "en": "I have been studying English all day.",
+          "zh": "我一整天都在学英语。"
+        },
+        {
+          "en": "She has been cooking since morning.",
+          "zh": "她从早上就开始做饭了。"
+        }
+      ]
+    },
+    {
+      "pattern": "to make matters worse, + 句子",
+      "original": {
+        "en": "To make matters worse, the room is rather small.",
+        "zh": "更糟糕的是，房间相当小。"
+      },
+      "imitations": [
+        {
+          "en": "To make matters worse, I lost my wallet.",
+          "zh": "更糟糕的是，我把钱包弄丢了。"
+        },
+        {
+          "en": "To make matters worse, there was no taxi available.",
+          "zh": "更糟糕的是，没有出租车可用。"
+        }
+      ]
+    },
+    {
+      "pattern": "You can + 动词 + in your spare time",
+      "original": {
+        "en": "You can sit here in your spare time and read the carpet!",
+        "zh": "你可以在空闲时间坐在这里'读'地毯！"
+      },
+      "imitations": [
+        {
+          "en": "You can read books in your spare time.",
+          "zh": "你可以在空闲时间看书。"
+        },
+        {
+          "en": "You can practice English in your spare time.",
+          "zh": "你可以在空闲时间练习英语。"
+        }
+      ]
+    }
+  ]
+}

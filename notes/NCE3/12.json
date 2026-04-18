@@ -1,0 +1,346 @@
+{
+  "book": "NCE3",
+  "lesson": "12",
+  "title": "Lesson 12",
+  "vocabulary": [
+    {
+      "word": "desert",
+      "phonetic": "/ˈdezət/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "无人居住的；荒凉的",
+          "usage": "修饰表示地点的名词，指地方荒无人烟"
+        },
+        {
+          "pos": "noun",
+          "meaning": "沙漠；荒漠",
+          "usage": "指干旱少雨、植被稀少的大面积荒漠地区"
+        }
+      ]
+    },
+    {
+      "word": "exceptional",
+      "phonetic": "/ɪkˈsepʃənl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "异常的；例外的；杰出的",
+          "usage": "用来描述人或事物不同于普通情况，含褒义时表示非常优秀"
+        }
+      ]
+    },
+    {
+      "word": "unrealistic",
+      "phonetic": "/ˌʌnrɪəˈlɪstɪk/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "不切实际的；不现实的",
+          "usage": "通常用来描述想法、期望等不符合客观实际"
+        }
+      ]
+    },
+    {
+      "word": "paradise",
+      "phonetic": "/ˈpærədaɪs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "天堂；乐园",
+          "usage": "可指宗教中的天堂，也可指令人愉悦的完美地方或状态"
+        }
+      ]
+    },
+    {
+      "word": "wretched",
+      "phonetic": "/ˈretʃɪd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "悲惨的；可怜的；恶劣的",
+          "usage": "用来描述人的处境痛苦，或事物质量差、令人不满"
+        }
+      ]
+    },
+    {
+      "word": "starve",
+      "phonetic": "/stɑːv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "挨饿；饿死",
+          "usage": "不及物动词，可搭配to death表示饿死；口语中也可表示很饿"
+        }
+      ]
+    },
+    {
+      "word": "element",
+      "phonetic": "/ˈelɪmənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "少量；部分；元素；要素",
+          "usage": "an element of 为常用搭配，表示“一点点，些许”"
+        }
+      ]
+    },
+    {
+      "word": "coral",
+      "phonetic": "/ˈkɒrəl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "珊瑚",
+          "usage": "不可数名词，也可作定语修饰名词，如coral island（珊瑚岛）"
+        }
+      ]
+    },
+    {
+      "word": "load",
+      "phonetic": "/ləʊd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "装载；装满",
+          "usage": "常用搭配load sth with sth，表示“给某物装上某物”"
+        },
+        {
+          "pos": "noun",
+          "meaning": "负载；工作量",
+          "usage": "可表示车辆、船只的装载量，也可指人的工作负担"
+        }
+      ]
+    },
+    {
+      "word": "dinghy",
+      "phonetic": "/ˈdɪŋi/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "小划艇；橡皮艇",
+          "usage": "指小型的敞篷船只，通常用桨或者马达驱动"
+        }
+      ]
+    },
+    {
+      "word": "spear",
+      "phonetic": "/spɪə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "矛；梭镖",
+          "usage": "可作定语构成复合词，如spear gun（捕鱼用的鱼枪）"
+        }
+      ]
+    },
+    {
+      "word": "lobster",
+      "phonetic": "/ˈlɒbstə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "龙虾",
+          "usage": "可作可数名词指龙虾个体，也可作不可数名词指龙虾肉"
+        }
+      ]
+    },
+    {
+      "word": "tanker",
+      "phonetic": "/ˈtæŋkə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "油轮；罐车",
+          "usage": "指运输石油、天然气等液体的大型船只或车辆"
+        }
+      ]
+    },
+    {
+      "word": "genuinely",
+      "phonetic": "/ˈdʒenjuɪnli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "真诚地；由衷地",
+          "usage": "用来修饰情感、态度，表示发自内心、没有虚假"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "form a picture of",
+      "usage": "表示对某事物形成某种想象或印象",
+      "examples": [
+        {
+          "en": "It's hard to form a clear picture of life on other planets.",
+          "zh": "很难对其他星球上的生活形成清晰的想象。"
+        }
+      ]
+    },
+    {
+      "phrase": "a sort of",
+      "usage": "用来表示不确定的描述，意为“某种，可以说是”，弱化语气",
+      "examples": [
+        {
+          "en": "The small café by the lake is a sort of paradise for book lovers.",
+          "zh": "湖边的那家小咖啡馆可以说是读书爱好者的乐园。"
+        }
+      ]
+    },
+    {
+      "phrase": "starve to death",
+      "usage": "固定搭配，表示饿死，强调极端饥饿的后果",
+      "examples": [
+        {
+          "en": "Many animals would starve to death in winter if they don't store enough food.",
+          "zh": "如果没有储存足够的食物，很多动物会在冬天饿死。"
+        }
+      ]
+    },
+    {
+      "phrase": "an element of",
+      "usage": "表示“一点点，些许”，说明某事物中含有少量的某种特质",
+      "examples": [
+        {
+          "en": "There is always an element of risk when you travel alone.",
+          "zh": "独自旅行的时候总会有一点点风险。"
+        }
+      ]
+    },
+    {
+      "phrase": "load...with...",
+      "usage": "表示“给……装上……”，主语通常是人，宾语是装载的载体和货物",
+      "examples": [
+        {
+          "en": "They loaded the truck with fresh vegetables before dawn.",
+          "zh": "他们在黎明前给卡车装上了新鲜蔬菜。"
+        }
+      ]
+    },
+    {
+      "phrase": "hardly any",
+      "usage": "表示“几乎没有”，相当于very few或very little，否定含义",
+      "examples": [
+        {
+          "en": "There is hardly any coffee left in the pot, so I need to make more.",
+          "zh": "壶里几乎没有咖啡了，我得再煮点。"
+        }
+      ]
+    },
+    {
+      "phrase": "eat like kings",
+      "usage": "非正式表达，意思是吃得非常好，享用美食",
+      "examples": [
+        {
+          "en": "During the Spring Festival, we eat like kings with all kinds of delicious food.",
+          "zh": "春节期间我们吃得非常好，有各种各样的美食。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "wish引导的虚拟语气",
+      "definition": "wish后面接宾语从句时，常使用虚拟语气，表示与事实相反或不太可能实现的愿望。如果是对过去情况的虚拟，从句谓语用过去完成时（had done）。",
+      "structure": "主语 + wish + 从句主语 + had + 过去分词",
+      "usage": "用来表达对过去已经发生的事情感到遗憾，希望事情是另一种情况",
+      "examples": [
+        {
+          "en": "Two men who recently spent five days on a coral island wished they had stayed there longer.",
+          "zh": "最近在一座珊瑚岛上待了5天的两名男子真希望他们能在那儿待更久。"
+        },
+        {
+          "en": "I wish I had taken your advice when I was choosing my major.",
+          "zh": "我真希望我选专业的时候听了你的建议。"
+        }
+      ]
+    },
+    {
+      "title": "either...or...并列连词结构",
+      "definition": "either...or...是表示选择关系的并列连词，用来连接两个对等的成分，表示“要么……要么……；或者……或者……”，二者选其一。",
+      "structure": "either + 成分A + or + 成分B",
+      "usage": "连接的成分可以是主语、谓语、宾语、表语等，连接主语时，谓语动词遵循“就近原则”，和or后面的主语保持一致",
+      "examples": [
+        {
+          "en": "You either starve to death or live like Robinson Crusoe, waiting for a boat which never comes.",
+          "zh": "你要么饿死，要么像鲁滨孙·克鲁索那样生活，永远等着一艘永远不会来的船。"
+        },
+        {
+          "en": "You can either come with us to the park or stay at home to read books.",
+          "zh": "你要么和我们一起去公园，要么待在家里看书。"
+        }
+      ]
+    },
+    {
+      "title": "as引导的方式状语从句",
+      "definition": "as可以引导方式状语从句，表示“正如，如同，按照”，用来说明动作的方式或者某人所说的内容。",
+      "structure": "as + 主语 + 谓语 + 其他成分",
+      "usage": "常用来引用别人的话，或者说明某个动作是按照什么方式进行的",
+      "examples": [
+        {
+          "en": "As one of them put it 'ate like kings'.",
+          "zh": "正如他们其中一个人说的那样，“吃得像国王一样好”。"
+        },
+        {
+          "en": "As the old saying goes, 'Practice makes perfect'.",
+          "zh": "正如老话说的那样：“熟能生巧”。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Most of us have formed an unrealistic picture of + 名词/名词短语.",
+      "original": {
+        "en": "Most of us have formed an unrealistic picture of life on a desert island.",
+        "zh": "我们大多数人对荒岛生活都抱有不切实际的想象。"
+      },
+      "imitations": [
+        {
+          "en": "Most of us have formed an unrealistic picture of the life of celebrities.",
+          "zh": "我们大多数人对名人的生活都抱有不切实际的想象。"
+        },
+        {
+          "en": "Many children have formed a romantic picture of studying abroad.",
+          "zh": "很多孩子对留学的生活都抱有浪漫的想象。"
+        }
+      ]
+    },
+    {
+      "pattern": "The other side of the picture is quite the opposite.",
+      "original": {
+        "en": "The other side of the picture is quite the opposite.",
+        "zh": "而另一种想象则完全相反。"
+      },
+      "imitations": [
+        {
+          "en": "People always think being a teacher is easy, but the other side of the picture is quite the opposite.",
+          "zh": "人们总觉得当老师很轻松，但实际情况恰恰相反。"
+        },
+        {
+          "en": "Advertisements make the product seem perfect, but the other side of the picture is quite the opposite.",
+          "zh": "广告把这个产品说得很完美，但实际情况完全相反。"
+        }
+      ]
+    },
+    {
+      "pattern": "When + 时间状语从句, 主语 + be genuinely sorry that + 从句.",
+      "original": {
+        "en": "When a passing tanker rescued them five days later, both men were genuinely sorry that they had to leave.",
+        "zh": "5天后一艘路过的油轮救了他们，两人都由衷地感到遗憾，不得不离开那里。"
+      },
+      "imitations": [
+        {
+          "en": "When the winter vacation came to an end, I was genuinely sorry that I had to go back to school.",
+          "zh": "寒假结束的时候，我由衷地感到遗憾，不得不回学校了。"
+        },
+        {
+          "en": "When the party was over, all the guests were genuinely sorry that they had to say goodbye.",
+          "zh": "派对结束的时候，所有客人都由衷地不舍，不得不互相道别。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,394 @@
+{
+  "book": "NCE4",
+  "lesson": "34",
+  "title": "Lesson 34",
+  "vocabulary": [
+    {
+      "word": "adolescence",
+      "phonetic": "/ˌædəˈlesns/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "青春期",
+          "usage": "指儿童到成年的过渡阶段，为不可数名词"
+        }
+      ]
+    },
+    {
+      "word": "adolescent",
+      "phonetic": "/ˌædəˈlesnt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "青少年",
+          "usage": "指处于青春期的年轻人，可数名词"
+        },
+        {
+          "pos": "adjective",
+          "meaning": "青春期的；青少年的",
+          "usage": "用于修饰和青少年、青春期相关的事物"
+        }
+      ]
+    },
+    {
+      "word": "slur",
+      "phonetic": "/slɜː(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "诋毁，诽谤",
+          "usage": "指对他人名誉的侮辱性言论，常搭配介词on/against"
+        }
+      ]
+    },
+    {
+      "word": "spiteful",
+      "phonetic": "/ˈspaɪtfl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "恶意的，怀恨的",
+          "usage": "形容人或言行带有恶意、想要伤害他人的"
+        }
+      ]
+    },
+    {
+      "word": "dignity",
+      "phonetic": "/ˈdɪɡnəti/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "尊严，自尊",
+          "usage": "指人应有的受尊重的地位或自身的自尊感，不可数名词"
+        }
+      ]
+    },
+    {
+      "word": "descent",
+      "phonetic": "/dɪˈsent/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "堕落，沦落；下降",
+          "usage": "表示身份、行为水准的降低时，常搭配介词into"
+        }
+      ]
+    },
+    {
+      "word": "resolve",
+      "phonetic": "/rɪˈzɒlv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "决定，下决心",
+          "usage": "正式用法，后常接不定式或that从句"
+        }
+      ]
+    },
+    {
+      "word": "disillusionment",
+      "phonetic": "/ˌdɪsɪˈluːʒnmənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "幻想破灭，醒悟",
+          "usage": "指理想或美好想象被打破的状态，不可数名词"
+        }
+      ]
+    },
+    {
+      "word": "inevitable",
+      "phonetic": "/ɪnˈevɪtəbl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "不可避免的，必然发生的",
+          "usage": "强调某事一定会发生，无法规避"
+        }
+      ]
+    },
+    {
+      "word": "infallibility",
+      "phonetic": "/ɪnˌfæləˈbɪləti/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "绝对正确，无谬误",
+          "usage": "指不会犯错的特性，反义词为fallibility"
+        }
+      ]
+    },
+    {
+      "word": "opposition",
+      "phonetic": "/ˌɒpəˈzɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "反对，对立",
+          "usage": "表示处于敌对、相反的立场，常搭配介词to"
+        }
+      ]
+    },
+    {
+      "word": "sincerity",
+      "phonetic": "/sɪnˈserəti/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "真诚，诚意",
+          "usage": "指为人坦率、不虚伪的品质，不可数名词"
+        }
+      ]
+    },
+    {
+      "word": "cowed",
+      "phonetic": "/kaʊd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "被吓住的，胆怯的",
+          "usage": "由动词cow（恐吓，威胁）演变而来，形容人因害怕而顺从的状态"
+        }
+      ]
+    },
+    {
+      "word": "authoritarian",
+      "phonetic": "/ɔːˌθɒrəˈteəriən/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "独裁的，专制的",
+          "usage": "形容要求绝对服从、不允许反对的态度或体制"
+        }
+      ]
+    },
+    {
+      "word": "resent",
+      "phonetic": "/rɪˈzent/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "怨恨，愤恨",
+          "usage": "指对不公平的事或人感到愤怒不满，后接名词/动名词"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "regard ... as ...",
+      "usage": "表示“把……视作……”，用于表达对人或事物的看法，as后接名词、形容词等",
+      "examples": [
+        {
+          "en": "Parents regard their children's praise of friends' homes as a slur on their own housework.",
+          "zh": "父母把孩子夸赞朋友家视作对自己家务的诋毁。"
+        },
+        {
+          "en": "He regards his tutor as the person who has influenced him most in his academic career.",
+          "zh": "他把自己的导师视作学术生涯中对他影响最大的人。"
+        }
+      ]
+    },
+    {
+      "phrase": "accuse sb of sth",
+      "usage": "表示“指责/控告某人做了某事”，of后接被指责的具体行为或罪名",
+      "examples": [
+        {
+          "en": "Parents may even accuse adolescents of disloyalty when they speak highly of their friends' families.",
+          "zh": "当青少年夸赞朋友的家庭时，父母甚至可能指责他们不孝顺。"
+        },
+        {
+          "en": "The employee was accused of leaking the company's confidential information to competitors.",
+          "zh": "这名员工被指控向竞争对手泄露公司机密信息。"
+        }
+      ]
+    },
+    {
+      "phrase": "bring sth on oneself",
+      "usage": "表示“自作自受，自己造成（不好的结果）”，强调不良后果是自身行为导致的",
+      "examples": [
+        {
+          "en": "Parents seldom realize that their children's secretiveness is something they have brought on themselves.",
+          "zh": "父母很少意识到孩子的沉默寡言是他们自己造成的。"
+        },
+        {
+          "en": "Don't complain about the punishment - you brought it on yourself by cheating in the exam.",
+          "zh": "别抱怨惩罚了——你考试作弊，这是自作自受。"
+        }
+      ]
+    },
+    {
+      "phrase": "stand up to",
+      "usage": "表示“经得起，承受住；勇敢对抗”，文中取“经得起”的含义",
+      "examples": [
+        {
+          "en": "Children's high ideal of their parents can hardly stand up to a realistic evaluation.",
+          "zh": "孩子对父母的崇高想象几乎经不住现实的考量。"
+        },
+        {
+          "en": "This kind of waterproof fabric can stand up to the heaviest rainstorm.",
+          "zh": "这种防水面料可以经受住最大的暴雨。"
+        }
+      ]
+    },
+    {
+      "phrase": "drive sb into opposition",
+      "usage": "表示“把某人推向对立面，使某人持反对态度”，强调行为导致对方产生对立情绪",
+      "examples": [
+        {
+          "en": "Parents who resent their children's adolescent reaction will drive the child into opposition.",
+          "zh": "抵触孩子青春期反应的父母会把孩子推向自己的对立面。"
+        },
+        {
+          "en": "The manager's unreasonable demands drove most of the team into opposition.",
+          "zh": "经理不合理的要求让团队大部分人都产生了对立情绪。"
+        }
+      ]
+    },
+    {
+      "phrase": "face up to",
+      "usage": "表示“勇敢面对，正视”，用于指不逃避困难、现实等",
+      "examples": [
+        {
+          "en": "It is always wiser to face up to reality however painful it may be.",
+          "zh": "不管当下有多痛苦，正视现实永远是更明智的选择。"
+        },
+        {
+          "en": "You need to face up to the fact that you failed this time and learn from the experience.",
+          "zh": "你需要正视这次失败的事实，并从中吸取经验。"
+        }
+      ]
+    },
+    {
+      "phrase": "to some degree",
+      "usage": "表示“在某种程度上”，用于弱化观点的绝对性，说明情况有一定的合理性",
+      "examples": [
+        {
+          "en": "Disillusionment with parents is to some degree inevitable for most adolescents.",
+          "zh": "对大多数青少年来说，对父母的幻想破灭在某种程度上是不可避免的。"
+        },
+        {
+          "en": "To some degree, the success of the project depends on the support of local residents.",
+          "zh": "在某种程度上，这个项目的成功取决于当地居民的支持。"
+        }
+      ]
+    },
+    {
+      "phrase": "on the whole",
+      "usage": "表示“总体来说，大体上”，用于总结整体情况，忽略个别例外",
+      "examples": [
+        {
+          "en": "Today's more open attitude between parents and children is on the whole healthier.",
+          "zh": "如今父母和孩子之间更开放的相处态度总体来说更健康。"
+        },
+        {
+          "en": "On the whole, the performance of the new device meets our expectations.",
+          "zh": "总体来说，这个新设备的表现符合我们的预期。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "虚拟语气（与现在事实相反的非真实条件句）",
+      "definition": "用来描述和现在实际情况不符的假设，或者发生可能性极低的情况，表达愿望、假设、遗憾等情绪",
+      "structure": "If + 主语 + 动词过去式（be动词用were），主语 + would/could/should/might + 动词原形",
+      "usage": "当从句的假设和现在的真实情况相反时，使用该结构，体现假设的非真实性",
+      "examples": [
+        {
+          "en": "If parents were prepared for this adolescent reaction, they would not be so hurt.",
+          "zh": "如果父母对青少年的这种反应有所准备，他们就不会这么受伤了。"
+        },
+        {
+          "en": "If I had more spare time, I would learn to play the guitar.",
+          "zh": "如果我有更多空闲时间，我会去学弹吉他。"
+        }
+      ]
+    },
+    {
+      "title": "让步状语从句（however引导）",
+      "definition": "用来引导让步关系，表达“无论多么……，不管……”的含义，说明即使存在从句描述的情况，主句的内容依然成立",
+      "structure": "however + 形容词/副词 + 主语 + 谓语，主句",
+      "usage": "用于加强语气，强调不管程度如何，主句的结果都不会改变",
+      "examples": [
+        {
+          "en": "However good and adequate parents may be both as parents and as individuals, disillusionment with them is to some degree inevitable.",
+          "zh": "无论父母作为家长和个人有多么优秀称职，孩子对他们的幻想破灭在某种程度上都是不可避免的。"
+        },
+        {
+          "en": "However difficult the task is, we will try our best to finish it on time.",
+          "zh": "不管这个任务有多难，我们都会尽全力按时完成。"
+        }
+      ]
+    },
+    {
+      "title": "such...that...结果状语从句",
+      "definition": "用来引导结果状语从句，表示“如此……以至于……”，强调程度带来的结果",
+      "structure": "such + (a/an) + 形容词 + 可数名词单数/不可数名词/可数名词复数 + that + 结果从句",
+      "usage": "such修饰名词，当名词前有many/much/few/little等词修饰时，用so而不用such",
+      "examples": [
+        {
+          "en": "Most children have such a high ideal of their parents that it can hardly hope to stand up to a realistic evaluation.",
+          "zh": "大多数孩子对父母抱有极高的理想化想象，以至于这种想象几乎经不住现实的考量。"
+        },
+        {
+          "en": "It was such a boring lecture that many audience members left halfway.",
+          "zh": "这场讲座太无聊了，很多听众中途就离开了。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Sb would be greatly surprised and deeply touched if they realized how much + 名词 + ...",
+      "original": {
+        "en": "Parents would be greatly surprised and deeply touched if they realized how much belief their children usually have in their character and infallibility, and how much this faith means to a child.",
+        "zh": "如果父母意识到孩子通常多么相信他们的品行和绝对正确，以及这种信任对孩子有多重要，他们会非常震惊，而且深深被打动。"
+      },
+      "imitations": [
+        {
+          "en": "Teachers would be greatly surprised and deeply touched if they realized how much influence their words have on their students' growth, and how much a small encouragement means to a child who lacks confidence.",
+          "zh": "如果老师意识到他们的话对学生的成长有多大影响，以及一句小小的鼓励对一个缺乏自信的孩子有多重要，他们会非常震惊，而且深深被打动。"
+        },
+        {
+          "en": "Volunteers would be greatly surprised and deeply touched if they realized how much difference their small efforts make to the lives of people in remote areas, and how much their kindness is cherished by the local residents.",
+          "zh": "如果志愿者意识到他们小小的努力对偏远地区人们的生活有多大影响，以及他们的善意被当地居民多么珍视，他们会非常震惊，而且深深被打动。"
+        }
+      ]
+    },
+    {
+      "pattern": "What sb cannot forgive is + 名词/从句",
+      "original": {
+        "en": "What the child cannot forgive is the parents' refusal to admit these charges if the child knows them to be true.",
+        "zh": "孩子所不能原谅的是，父母在孩子知道这些指责属实的情况下拒不承认。"
+      },
+      "imitations": [
+        {
+          "en": "What the employees cannot forgive is the company's decision to cut salaries without any prior notice and reasonable explanation.",
+          "zh": "员工们不能原谅的是，公司没有任何提前通知和合理解释就降薪的决定。"
+        },
+        {
+          "en": "What the public cannot forgive is that the celebrity lied about his illegal behavior and tried to shift the blame to others.",
+          "zh": "公众不能原谅的是，这位明星对自己的违法行为撒谎，还试图把责任推给别人。"
+        }
+      ]
+    },
+    {
+      "pattern": "Sb believed that they ... by doing sth; in fact they did nothing of the kind, but ...",
+      "original": {
+        "en": "Victorian parents believed that they kept their dignity by retreating behind an unreasoning authoritarian attitude; in fact they did nothing of the kind, but children were then too cowed to let them know how they really felt.",
+        "zh": "维多利亚时代的父母认为，他们靠无理的权威姿态来维持自己的尊严；实际上他们根本没能维持尊严，只是当时的孩子太害怕，不敢让父母知道自己的真实想法。"
+      },
+      "imitations": [
+        {
+          "en": "Many traditional teachers believed that they maintained classroom order by being strict and forbidding students to express different opinions; in fact they did nothing of the kind, but students were just too afraid to voice their dissatisfaction openly.",
+          "zh": "很多传统教师认为，他们靠严格、禁止学生表达不同观点来维持课堂秩序；实际上他们根本没能维持秩序，只是学生太害怕，不敢公开表达不满罢了。"
+        },
+        {
+          "en": "Some managers believe that they improve the team's work efficiency by putting extra pressure on employees; in fact they do nothing of the kind, but staff just choose to pretend to be busy to avoid criticism.",
+          "zh": "一些管理者认为，他们靠给员工施加额外压力来提升团队工作效率；实际上他们根本没能提升效率，只是员工为了避免被批评，选择假装忙碌罢了。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,394 @@
+{
+  "book": "NCE2",
+  "lesson": "28",
+  "title": "What is Jasper White's problem?",
+  "vocabulary": [
+    {
+      "word": "rare",
+      "phonetic": "/reə(r)/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "稀有的，罕见的",
+          "usage": "形容少见或不普通的事物，强调稀缺性"
+        }
+      ]
+    },
+    {
+      "word": "ancient",
+      "phonetic": "/ˈeɪnʃənt/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "古代的，古老的",
+          "usage": "指很久以前存在的事物，与现代相对"
+        }
+      ]
+    },
+    {
+      "word": "myth",
+      "phonetic": "/mɪθ/",
+      "meanings": [
+        {
+          "pos": "n",
+          "meaning": "神话",
+          "usage": "指古代民间传说中关于神、英雄的故事"
+        }
+      ]
+    },
+    {
+      "word": "trouble",
+      "phonetic": "/ˈtrʌbl/",
+      "meanings": [
+        {
+          "pos": "n",
+          "meaning": "麻烦，问题",
+          "usage": "指造成困难或不便的情况"
+        }
+      ]
+    },
+    {
+      "word": "park",
+      "phonetic": "/pɑːk/",
+      "meanings": [
+        {
+          "pos": "v",
+          "meaning": "停车",
+          "usage": "指将车辆停放在某处"
+        }
+      ]
+    },
+    {
+      "word": "garage",
+      "phonetic": "/ˈɡærɑːʒ/",
+      "meanings": [
+        {
+          "pos": "n",
+          "meaning": "车库",
+          "usage": "用于停放汽车的建筑物"
+        }
+      ]
+    },
+    {
+      "word": "sign",
+      "phonetic": "/saɪn/",
+      "meanings": [
+        {
+          "pos": "n",
+          "meaning": "标志，标识牌",
+          "usage": "用于通知或警告的牌子"
+        }
+      ]
+    },
+    {
+      "word": "effect",
+      "phonetic": "/ɪˈfekt/",
+      "meanings": [
+        {
+          "pos": "n",
+          "meaning": "效果，影响",
+          "usage": "指行动或原因产生的结果"
+        }
+      ]
+    },
+    {
+      "word": "ugly",
+      "phonetic": "/ˈʌɡli/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "丑陋的，难看的",
+          "usage": "形容外观不美丽或不吸引人"
+        }
+      ]
+    },
+    {
+      "word": "stone",
+      "phonetic": "/stəʊn/",
+      "meanings": [
+        {
+          "pos": "n",
+          "meaning": "石头",
+          "usage": "指坚硬的岩石或石块"
+        }
+      ]
+    },
+    {
+      "word": "turn",
+      "phonetic": "/tɜːn/",
+      "meanings": [
+        {
+          "pos": "v",
+          "meaning": "使变成",
+          "usage": "与介词to/into连用，表示使某物变成另一种状态"
+        }
+      ]
+    },
+    {
+      "word": "Gorgon",
+      "phonetic": "/ˈɡɔːɡən/",
+      "meanings": [
+        {
+          "pos": "n",
+          "meaning": "戈耳工（希腊神话中的蛇发女妖）",
+          "usage": "特指希腊神话中能将人变成石头的蛇发三姐妹"
+        }
+      ]
+    },
+    {
+      "word": "gate",
+      "phonetic": "/ɡeɪt/",
+      "meanings": [
+        {
+          "pos": "n",
+          "meaning": "大门",
+          "usage": "指建筑物的入口门"
+        }
+      ]
+    },
+    {
+      "word": "believe",
+      "phonetic": "/bɪˈliːv/",
+      "meanings": [
+        {
+          "pos": "v",
+          "meaning": "相信，信仰",
+          "usage": "指相信某事是真的或某人的话语"
+        }
+      ]
+    },
+    {
+      "word": "owner",
+      "phonetic": "/ˈəʊnə(r)/",
+      "meanings": [
+        {
+          "pos": "n",
+          "meaning": "主人，所有者",
+          "usage": "指某物的合法拥有者"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "park a car",
+      "usage": "表示停放汽车的动作",
+      "examples": [
+        {
+          "en": "He parked his car outside the shop.",
+          "zh": "他把车停在了商店外面。"
+        }
+      ]
+    },
+    {
+      "phrase": "have trouble with",
+      "usage": "表示与某人某事有麻烦或纠纷",
+      "examples": [
+        {
+          "en": "She has trouble with her neighbors.",
+          "zh": "她和邻居有麻烦。"
+        }
+      ]
+    },
+    {
+      "phrase": "put up",
+      "usage": "表示张贴、建造或竖起某物",
+      "examples": [
+        {
+          "en": "They put up a tent in the garden.",
+          "zh": "他们在花园里搭起了帐篷。"
+        }
+      ]
+    },
+    {
+      "phrase": "turn to/into",
+      "usage": "表示变成某种状态或事物",
+      "examples": [
+        {
+          "en": "The water turned into ice.",
+          "zh": "水变成了冰。"
+        }
+      ]
+    },
+    {
+      "phrase": "ever since",
+      "usage": "表示从那时起一直到现在",
+      "examples": [
+        {
+          "en": "He has been ill ever since last week.",
+          "zh": "从上周起他就一直生病。"
+        }
+      ]
+    },
+    {
+      "phrase": "because of",
+      "usage": "表示因为、由于（后接名词或代词）",
+      "examples": [
+        {
+          "en": "Because of the rain, we stayed at home.",
+          "zh": "因为下雨，我们待在家里。"
+        }
+      ]
+    },
+    {
+      "phrase": "have an effect on",
+      "usage": "表示对...产生影响",
+      "examples": [
+        {
+          "en": "The medicine had no effect on him.",
+          "zh": "这药对他没有效果。"
+        }
+      ]
+    },
+    {
+      "phrase": "one of + 最高级 + 复数名词",
+      "usage": "表示最...之一",
+      "examples": [
+        {
+          "en": "This is one of the most beautiful cities in the world.",
+          "zh": "这是世界上最美丽的城市之一。"
+        }
+      ]
+    },
+    {
+      "phrase": "return home",
+      "usage": "表示回家",
+      "examples": [
+        {
+          "en": "I usually return home at six o'clock.",
+          "zh": "我通常六点回家。"
+        }
+      ]
+    },
+    {
+      "phrase": "at night",
+      "usage": "表示在晚上",
+      "examples": [
+        {
+          "en": "Stars are beautiful at night.",
+          "zh": "星星在晚上很美。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "现在完成时 (Present Perfect Tense)",
+      "definition": "表示过去发生的行为对现在造成的影响，或从过去开始一直持续到现在的动作",
+      "structure": "主语 + have/has + 过去分词",
+      "usage": "用于描述过去的经验或持续到现在的状态，常与ever since、for、already等连用",
+      "examples": [
+        {
+          "en": "He has just bought a new house.",
+          "zh": "他刚买了一栋新房子。"
+        },
+        {
+          "en": "He has not been able to get his own car into his garage even once.",
+          "zh": "他从未能够把自己的车停进车库。"
+        },
+        {
+          "en": "None of them has been turned to stone yet.",
+          "zh": "他们中还没有人被变成石头。"
+        }
+      ]
+    },
+    {
+      "title": "现在完成进行时 (Present Perfect Continuous Tense)",
+      "definition": "表示从过去开始一直持续到现在的动作，可能还在继续",
+      "structure": "主语 + have/has + been + 动词-ing形式",
+      "usage": "强调动作的持续性，常与ever since、for等时间状语连用",
+      "examples": [
+        {
+          "en": "He has been having trouble with cars and their owners.",
+          "zh": "他一直和汽车及车主有麻烦。"
+        }
+      ]
+    },
+    {
+      "title": "because of 与 because 的区别",
+      "definition": "because是连词，后接句子；because of是介词短语，后接名词或代词",
+      "structure": "because + 句子 / because of + 名词短语",
+      "usage": "两者都表示原因，但语法结构不同",
+      "examples": [
+        {
+          "en": "Because of this, he has not been able to get his car into the garage.",
+          "zh": "因为这个原因，他一直没能把车停进车库。"
+        },
+        {
+          "en": "He didn't come because he was ill.",
+          "zh": "他没来，因为他病了。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "主语 + has/have + just + 过去分词",
+      "original": {
+        "en": "He has just bought a new house in the city.",
+        "zh": "他刚在城里买了一栋新房子。"
+      },
+      "imitations": [
+        {
+          "en": "She has just finished her homework.",
+          "zh": "她刚完成作业。"
+        },
+        {
+          "en": "They have just arrived at the station.",
+          "zh": "他们刚到达车站。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + has/have not been able to + 动词原形",
+      "original": {
+        "en": "He has not been able to get his own car into his garage even once.",
+        "zh": "他从未能够把自己的车停进车库。"
+      },
+      "imitations": [
+        {
+          "en": "She has not been able to sleep well lately.",
+          "zh": "她最近一直睡不好。"
+        },
+        {
+          "en": "I have not been able to contact him.",
+          "zh": "我没能联系上他。"
+        }
+      ]
+    },
+    {
+      "pattern": "It is one of the + 最高级 + 复数名词 + I have ever seen/met",
+      "original": {
+        "en": "It is one of the ugliest faces I have ever seen.",
+        "zh": "这是我见过的最丑陋的脸之一。"
+      },
+      "imitations": [
+        {
+          "en": "This is one of the most interesting books I have ever read.",
+          "zh": "这是我读过的最有趣的书之一。"
+        },
+        {
+          "en": "She is one of the kindest people I have ever met.",
+          "zh": "她是我见过的最善良的人之一。"
+        }
+      ]
+    },
+    {
+      "pattern": "None of + 复数名词 + has/have + 过去分词 + yet",
+      "original": {
+        "en": "But none of them has been turned to stone yet!",
+        "zh": "但他们中还没有人被变成石头！"
+      },
+      "imitations": [
+        {
+          "en": "None of the students has finished the exam yet.",
+          "zh": "还没有一个学生完成考试。"
+        },
+        {
+          "en": "None of the letters has been replied to yet.",
+          "zh": "还没有一封信被回复。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,413 @@
+{
+  "book": "NCE4",
+  "lesson": "44",
+  "title": "Lesson 44",
+  "vocabulary": [
+    {
+      "word": "aberrant",
+      "phonetic": "/æˈberənt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "异常的，偏离常规的",
+          "usage": "用于描述行为、现象等与普遍公认的标准或常态不符"
+        }
+      ]
+    },
+    {
+      "word": "predominant",
+      "phonetic": "/prɪˈdɒmɪnənt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "占主导地位的，显著的",
+          "usage": "强调在某一范围内影响力最大、地位最重要的"
+        }
+      ]
+    },
+    {
+      "word": "manifest",
+      "phonetic": "/ˈmænɪfest/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "显示，表明",
+          "usage": "指让原本隐藏或不明显的事物清晰展现出来"
+        },
+        {
+          "pos": "adjective",
+          "meaning": "明显的，显而易见的",
+          "usage": "用于描述特征、情绪等容易被感知的"
+        }
+      ]
+    },
+    {
+      "word": "pristine",
+      "phonetic": "/ˈprɪstiːn/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "未受外界影响的，质朴的；崭新的",
+          "usage": "可形容事物处于原始未被改变的状态，也可形容物品十分新、没有磨损"
+        }
+      ]
+    },
+    {
+      "word": "probing",
+      "phonetic": "/ˈprəʊbɪŋ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "探查，探究",
+          "usage": "指对问题、真相进行深入的调查和探索"
+        },
+        {
+          "pos": "adjective",
+          "meaning": "追根究底的，锐利的",
+          "usage": "形容问题、目光等有探索性的"
+        }
+      ]
+    },
+    {
+      "word": "stereotype",
+      "phonetic": "/ˈsteriətaɪp/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "刻板印象，固定模式",
+          "usage": "指对某一类群体或事物的固定、僵化的看法，通常缺乏事实依据"
+        }
+      ]
+    },
+    {
+      "word": "vernacular",
+      "phonetic": "/vəˈnækjələ(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "方言，本地话，口语",
+          "usage": "指某一地区的人日常使用的本土语言，与官方语言、书面语相对"
+        }
+      ]
+    },
+    {
+      "word": "autonomously",
+      "phonetic": "/ɔːˈtɒnəməsli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "自主地，自治地",
+          "usage": "描述主体不受外部控制，能够独立管理自身事务的状态"
+        }
+      ]
+    },
+    {
+      "word": "accommodation",
+      "phonetic": "/əˌkɒməˈdeɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "适应，调节；住处",
+          "usage": "表示为了适应新环境做出的调整，也可指居住的场所"
+        }
+      ]
+    },
+    {
+      "word": "incumbent",
+      "phonetic": "/ɪnˈkʌmbənt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "有责任的，义不容辞的；现任的",
+          "usage": "常用于it is incumbent upon sb to do sth结构，表示某人有义务做某事；也可形容在职的人员"
+        }
+      ]
+    },
+    {
+      "word": "intelligible",
+      "phonetic": "/ɪnˈtelɪdʒəbl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "可理解的，明白易懂的",
+          "usage": "形容语言、信息、逻辑等能够被人清楚理解的"
+        }
+      ]
+    },
+    {
+      "word": "preliminary",
+      "phonetic": "/prɪˈlɪmɪnəri/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "初步的，预备的",
+          "usage": "用于描述在正式活动、研究开始之前的准备性的内容"
+        }
+      ]
+    },
+    {
+      "word": "proposition",
+      "phonetic": "/ˌprɒpəˈzɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "主张，观点；命题",
+          "usage": "指提出的有待讨论、验证的观点或理论假设"
+        }
+      ]
+    },
+    {
+      "word": "sophistication",
+      "phonetic": "/səˌfɪstɪˈkeɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": " sophisticated的名词形式，意为老练，严谨；精密",
+          "usage": "可形容人认知水平成熟、看问题全面，也可形容技术、设备等先进精密"
+        }
+      ]
+    },
+    {
+      "word": "supernatural",
+      "phonetic": "/ˌsuːpəˈnætʃrəl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "超自然的，神奇的",
+          "usage": "形容无法用自然规律解释的、超出科学认知的现象或力量"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "as a matter of fact",
+      "usage": "用于引出与对方想法不同的实际情况，或强调事实的真相，相当于in fact",
+      "examples": [
+        {
+          "en": "As a matter of fact, it is the other way around.",
+          "zh": "事实上，情况恰恰相反。"
+        },
+        {
+          "en": "As a matter of fact, I have already finished the report ahead of schedule.",
+          "zh": "实际上，我已经提前完成了报告。"
+        }
+      ]
+    },
+    {
+      "phrase": "have reference to",
+      "usage": "表示“与……有关，涉及”，用于说明事物之间的关联",
+      "examples": [
+        {
+          "en": "His very concepts of the true and the false will still have reference to his particular traditional customs.",
+          "zh": "他对是非的判断标准仍然和他所处的特定传统习俗有关。"
+        },
+        {
+          "en": "The data collected in this research have reference to the impact of climate change on crop production.",
+          "zh": "这项研究收集的数据和气候变化对作物生产的影响有关。"
+        }
+      ]
+    },
+    {
+      "phrase": "first and foremost",
+      "usage": "用于强调最重要的、首要的因素，放在句首或主语后引出核心内容",
+      "examples": [
+        {
+          "en": "The life history of the individual is first and foremost an accommodation to the patterns and standards traditionally handed down in his community.",
+          "zh": "个人的生活史首先就是适应他所在社群世代相传的模式和标准的过程。"
+        },
+        {
+          "en": "First and foremost, we need to ensure the safety of all the participants in the activity.",
+          "zh": "首要的是，我们需要确保活动所有参与者的安全。"
+        }
+      ]
+    },
+    {
+      "phrase": "hand down",
+      "usage": "表示“把……世代相传，传承”，常用于传统、习俗、财产、故事等从一代人传到下一代人",
+      "examples": [
+        {
+          "en": "These craftsmanship skills have been handed down from generation to generation in the local area.",
+          "zh": "这些工艺技能在当地代代相传。"
+        },
+        {
+          "en": "The necklace was handed down to her by her grandmother.",
+          "zh": "这条项链是她奶奶传给她的。"
+        }
+      ]
+    },
+    {
+      "phrase": "be incumbent upon sb to do sth",
+      "usage": "正式表达，意为“某人有义务/责任做某事”，强调责任的不可推卸性",
+      "examples": [
+        {
+          "en": "There is no social problem it is more incumbent upon us to understand than this of the role of custom.",
+          "zh": "我们有责任去理解的社会问题中，没有哪个比习俗的作用这个问题更重要了。"
+        },
+        {
+          "en": "It is incumbent upon the government to provide basic medical services for all citizens.",
+          "zh": "政府有义务为所有公民提供基础医疗服务。"
+        }
+      ]
+    },
+    {
+      "phrase": "hold sway over",
+      "usage": "表示“支配，控制，对……有影响力”，用于描述观点、信仰、势力等对人的思想或行为的控制作用",
+      "examples": [
+        {
+          "en": "As long as these distinctions between ourselves and the primitive, ourselves and the barbarian, ourselves and the pagan, held sway over people's minds.",
+          "zh": "只要我们自己和原始人、自己和野蛮人、自己和异教徒之间的这些区别还支配着人们的思想。"
+        },
+        {
+          "en": "Traditional values still hold sway over many people's choices in marriage.",
+          "zh": "传统观念仍然影响着很多人的婚姻选择。"
+        }
+      ]
+    },
+    {
+      "phrase": "substitute A for B",
+      "usage": "表示“用A代替B”，说明替换的对象和替代物",
+      "examples": [
+        {
+          "en": "The major social sciences have substituted the study of one local variation, that of Western civilization, for the study of human beings as a whole.",
+          "zh": "主要的社会学科用对一种本地变体（即西方文明）的研究，替代了对整个人类的研究。"
+        },
+        {
+          "en": "We can substitute coconut milk for dairy milk in this recipe if you are lactose intolerant.",
+          "zh": "如果你乳糖不耐受，我们可以在这个食谱里用椰奶代替牛奶。"
+        }
+      ]
+    },
+    {
+      "phrase": "arrive at",
+      "usage": "除了表示到达某地，还可表示“达成（共识），得出（结论），达到（某种水平）”，后接抽象名词",
+      "examples": [
+        {
+          "en": "It was necessary first to arrive at that degree of sophistication where we no longer set our own belief against our neighbour's superstition.",
+          "zh": "我们首先必须达到这种成熟的认知程度：不再把我们自己的信仰和邻人的迷信对立起来。"
+        },
+        {
+          "en": "After hours of discussion, the two sides finally arrived at an agreement.",
+          "zh": "经过数小时的讨论，双方最终达成了协议。"
+        }
+      ]
+    },
+    {
+      "phrase": "set ... against ...",
+      "usage": "表示“把……和……对立起来，使……和……抗衡”，用于描述两个事物被置于对立的关系中",
+      "examples": [
+        {
+          "en": "We should not set economic development against environmental protection.",
+          "zh": "我们不应该把经济发展和环境保护对立起来。"
+        },
+        {
+          "en": "The manager set the performance of the new employee against that of the experienced staff.",
+          "zh": "经理把新员工的表现和老员工的表现做对比。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "倒装语序 (Inversion)",
+      "definition": "为了强调句子成分、保持句子结构平衡，将句子的谓语或谓语的一部分放到主语之前的语序结构，本课文中出现的是宾语前置的倒装",
+      "structure": "宾语 + 主语 + 谓语",
+      "usage": "当宾语被放到句首进行强调时，句子使用自然语序，不需要助动词提前，常用于突出动作的对象，增强表达的力度",
+      "examples": [
+        {
+          "en": "The inner workings of our own brains we feel to be uniquely worthy of investigation.",
+          "zh": "我们觉得自己大脑的内部活动才是唯一值得研究的。"
+        },
+        {
+          "en": "All these problems I have already solved carefully.",
+          "zh": "所有这些问题我都已经仔细解决了。"
+        }
+      ]
+    },
+    {
+      "title": "as ... as 比例比较结构",
+      "definition": "用于比较两个事物在程度、比例等方面的关系，说明两者的比值相当",
+      "structure": "A is as + 名词/形容词 + as B",
+      "usage": "本句中用于表示前者和后者的比例关系，说明个体对习俗的影响和习俗对个体的塑造作用的比值，就像家庭吸收的婴儿用语占母语总词汇量的比例一样小",
+      "examples": [
+        {
+          "en": "The part played by custom in shaping the behaviour of the individual, as against any way in which he can affect traditional custom, is as the proportion of the total vocabulary of his mother tongue against those words of his own baby talk that are taken up into the vernacular of his family.",
+          "zh": "习俗在塑造个人行为方面所起的作用，和个人对传统习俗产生的任何影响相比，就如同他母语的总词汇量，和他自己的婴儿语被家庭日常用语吸收的词汇的比例一样。"
+        },
+        {
+          "en": "The impact of a single individual on the development of history is as the drop of water against the whole ocean.",
+          "zh": "单个人对历史发展的影响，就如同一滴水和整个海洋的比例一样。"
+        }
+      ]
+    },
+    {
+      "title": "It is + 形容词 + that从句/不定式结构",
+      "definition": "it作为形式主语，代替真正的主语（that引导的主语从句或者不定式短语），避免句子头重脚轻，保持结构平衡",
+      "structure": "It is + 形容词/名词短语 + (for sb) + to do sth / that从句",
+      "usage": "常用于表达必要性、重要性、可能性等含义，是正式文体中常见的结构",
+      "examples": [
+        {
+          "en": "It was necessary first to arrive at that degree of sophistication where we no longer set our own belief against our neighbour's superstition.",
+          "zh": "我们首先必须达到这种成熟的认知程度：不再把我们自己的信仰和邻人的迷信对立起来。"
+        },
+        {
+          "en": "It is essential that we should take measures to protect the endangered species immediately.",
+          "zh": "我们必须立即采取措施保护濒危物种，这十分重要。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "A has not commonly been regarded as ... As a matter of fact, it is the other way around.",
+      "original": {
+        "en": "Custom has not commonly been regarded as a subject of any great moment. As a matter of fact, it is the other way around.",
+        "zh": "习俗通常不被认为是有重要研究价值的主题。事实上，情况恰恰相反。"
+      },
+      "imitations": [
+        {
+          "en": "Failure has not commonly been regarded as a valuable experience. As a matter of fact, it is the other way around.",
+          "zh": "失败通常不被认为是一种有价值的经历。事实上，情况恰恰相反。"
+        },
+        {
+          "en": "Introversion has not commonly been regarded as a personal advantage. As a matter of fact, it is the other way around.",
+          "zh": "内向通常不被认为是一种个人优势。事实上，情况恰恰相反。"
+        }
+      ]
+    },
+    {
+      "pattern": "The fact of first-rate importance is ...",
+      "original": {
+        "en": "The fact of first-rate importance is the predominant role that custom plays in experience and in belief, and the very great varieties it may manifest.",
+        "zh": "最重要的事实是习俗在人的体验和信仰中起到的主导作用，以及它可能表现出的极其丰富的多样性。"
+      },
+      "imitations": [
+        {
+          "en": "The fact of first-rate importance is the long-term impact of early education on children's personality development.",
+          "zh": "最重要的事实是早期教育对儿童性格发展的长期影响。"
+        },
+        {
+          "en": "The fact of first-rate importance is that the company's innovation capability determines its long-term competitiveness in the market.",
+          "zh": "最重要的事实是，公司的创新能力决定了它在市场上的长期竞争力。"
+        }
+      ]
+    },
+    {
+      "pattern": "... can be profitable only after ...",
+      "original": {
+        "en": "The study of custom can be profitable only after certain preliminary propositions have been accepted, and some of these propositions have been violently opposed.",
+        "zh": "只有在某些初步的主张被接受之后，对习俗的研究才会有收获，而其中一些主张曾遭到激烈的反对。"
+      },
+      "imitations": [
+        {
+          "en": "The promotion of this new policy can be profitable only after the public has a full understanding of its benefits.",
+          "zh": "只有在公众充分理解这项新政策的好处之后，它的推行才会有成效。"
+        },
+        {
+          "en": "Language learning can be profitable only after you have accumulated a certain amount of vocabulary and mastered basic grammar rules.",
+          "zh": "只有在你积累了一定量的词汇、掌握了基础语法规则之后，语言学习才会有收获。"
+        }
+      ]
+    }
+  ]
+}

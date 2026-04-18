@@ -1,0 +1,410 @@
+{
+  "book": "NCE4",
+  "lesson": "28",
+  "title": "Lesson 28",
+  "vocabulary": [
+    {
+      "word": "sceptical",
+      "phonetic": "/ˈskeptɪkl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "怀疑的，持怀疑态度的",
+          "usage": "通常用来描述人对某件事不轻易相信，常与介词of/about搭配"
+        }
+      ]
+    },
+    {
+      "word": "fervently",
+      "phonetic": "/ˈfɜːvəntli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "热诚地，热烈地，笃信地",
+          "usage": "用来修饰表示相信、希望、支持等含义的动词"
+        }
+      ]
+    },
+    {
+      "word": "curative",
+      "phonetic": "/ˈkjʊərətɪv/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "有疗效的，能治病的",
+          "usage": "多用来修饰药物、治疗方法等名词"
+        }
+      ]
+    },
+    {
+      "word": "property",
+      "phonetic": "/ˈprɒpəti/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "特性，属性；财产",
+          "usage": "表示“特性”时常用复数形式，指物质、事物的固有属性"
+        }
+      ]
+    },
+    {
+      "word": "astronomical",
+      "phonetic": "/ˌæstrəˈnɒmɪkl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "天文数字的，极其巨大的；天文学的",
+          "usage": "常用来修饰数量、金额等，表示数额大到惊人"
+        }
+      ]
+    },
+    {
+      "word": "tangible",
+      "phonetic": "/ˈtændʒəbl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "有形的，实实在在的，可触摸的",
+          "usage": "用来描述能被实际感知到的事物，与抽象概念相对"
+        }
+      ]
+    },
+    {
+      "word": "remedy",
+      "phonetic": "/ˈremədi/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "治疗方法，药物；补救方法",
+          "usage": "表示“治疗药物”时可与for搭配，指针对某种疾病的疗法"
+        }
+      ]
+    },
+    {
+      "word": "ointment",
+      "phonetic": "/ˈɔɪntmənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "药膏，软膏",
+          "usage": "指外用的膏状药物，常与a jar of搭配使用"
+        }
+      ]
+    },
+    {
+      "word": "dispose of",
+      "phonetic": "/dɪˈspəʊz ɒv/",
+      "meanings": [
+        {
+          "pos": "phrasal verb",
+          "meaning": "处理，应付；扔掉，丢弃",
+          "usage": "此处表示快速应付、打发走某人，也可表示处理掉不需要的物品"
+        }
+      ]
+    },
+    {
+      "word": "time-consuming",
+      "phonetic": "/ˈtaɪm kənsjuːmɪŋ/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "耗费时间的，耗时的",
+          "usage": "用来描述需要花费大量时间才能完成的事务"
+        }
+      ]
+    },
+    {
+      "word": "recount",
+      "phonetic": "/rɪˈkaʊnt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "讲述，叙述（过去的事）",
+          "usage": "正式用词，指详细讲述已经发生的事情，常用被动结构it is recounted that..."
+        }
+      ]
+    },
+    {
+      "word": "prescribe",
+      "phonetic": "/prɪˈskraɪb/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "给……开（药），规定",
+          "usage": "作为医疗相关用词时，主语通常为医生，宾语为药物或治疗方案"
+        }
+      ]
+    },
+    {
+      "word": "indisposition",
+      "phonetic": "/ˌɪndɪspəˈzɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "微恙，小病",
+          "usage": "正式用词，指不严重的轻微疾病，是illness的委婉说法"
+        }
+      ]
+    },
+    {
+      "word": "hasten",
+      "phonetic": "/ˈheɪsn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "赶紧，匆忙；促进",
+          "usage": "表示急忙去某地或急忙做某事，比hurry更正式"
+        }
+      ]
+    },
+    {
+      "word": "disgusting",
+      "phonetic": "/dɪsˈɡʌstɪŋ/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "令人厌恶的，令人作呕的",
+          "usage": "用来形容事物的味道、外观等让人感到恶心"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "in the shape of",
+      "usage": "表示“以……的形式，呈……的形状”，用来描述事物的呈现形态",
+      "examples": [
+        {
+          "en": "The company received help in the shape of a government loan.",
+          "zh": "这家公司得到了政府贷款形式的帮助。"
+        },
+        {
+          "en": "He made a cake in the shape of a heart for his girlfriend's birthday.",
+          "zh": "他为女朋友的生日做了一个心形的蛋糕。"
+        }
+      ]
+    },
+    {
+      "phrase": "only too ready to do sth",
+      "usage": "表示“非常乐意做某事，巴不得做某事”，带有强调愿意的语气",
+      "examples": [
+        {
+          "en": "He is only too ready to help others when they are in trouble.",
+          "zh": "别人有困难时他非常乐意帮忙。"
+        },
+        {
+          "en": "The shop assistant was only too ready to show us the latest products.",
+          "zh": "店员非常乐意向我们展示最新的产品。"
+        }
+      ]
+    },
+    {
+      "phrase": "dispose of",
+      "usage": "此处表示“应付，打发”，也可表示“处理、丢弃不需要的物品”",
+      "examples": [
+        {
+          "en": "The manager quickly disposed of the customer's complaint and calmed him down.",
+          "zh": "经理迅速处理了顾客的投诉，让他冷静了下来。"
+        },
+        {
+          "en": "We need to dispose of all these old newspapers before moving to the new office.",
+          "zh": "搬去新办公室之前，我们需要把这些旧报纸都处理掉。"
+        }
+      ]
+    },
+    {
+      "phrase": "put up with",
+      "usage": "表示“忍受，容忍”，是常用的动词短语，宾语为令人不快的人或事",
+      "examples": [
+        {
+          "en": "I can't put up with his constant complaining any more.",
+          "zh": "我再也受不了他没完没了的抱怨了。"
+        },
+        {
+          "en": "Many residents have to put up with the noise from the construction site nearby.",
+          "zh": "很多居民不得不忍受附近建筑工地的噪音。"
+        }
+      ]
+    },
+    {
+      "phrase": "in all probability",
+      "usage": "表示“极有可能，十有八九”，是表示可能性的正式表达",
+      "examples": [
+        {
+          "en": "In all probability, the meeting will be cancelled because of the bad weather.",
+          "zh": "十有八九这次会议会因为恶劣天气取消。"
+        },
+        {
+          "en": "If you don't prepare for the exam, in all probability you will fail it.",
+          "zh": "如果你不为考试做准备，你很可能会不及格。"
+        }
+      ]
+    },
+    {
+      "phrase": "be of equal benefit",
+      "usage": "表示“有同等好处，同样有益”，属于“be of + 抽象名词”的结构，相当于be equally beneficial",
+      "examples": [
+        {
+          "en": "This training course is of equal benefit to both new and experienced employees.",
+          "zh": "这个培训课程对新员工和老员工都同样有益。"
+        },
+        {
+          "en": "Regular exercise is of equal benefit to people of all age groups.",
+          "zh": "规律锻炼对所有年龄段的人都有同样的好处。"
+        }
+      ]
+    },
+    {
+      "phrase": "out-patients department",
+      "usage": "医疗场景常用短语，表示“门诊部”，对应住院部的in-patients department",
+      "examples": [
+        {
+          "en": "The out-patients department of this hospital is open from 8 am to 5 pm every day.",
+          "zh": "这家医院的门诊部每天早上8点到下午5点开放。"
+        },
+        {
+          "en": "You need to register at the out-patients department first before seeing a doctor.",
+          "zh": "看医生之前你需要先在门诊部挂号。"
+        }
+      ]
+    },
+    {
+      "phrase": "make no demands on sb",
+      "usage": "表示“对某人没有要求，不给某人添麻烦”，用来描述某件事不需要对方付出什么",
+      "examples": [
+        {
+          "en": "This kind of houseplant makes no demands on the owner; it only needs occasional watering.",
+          "zh": "这种室内盆栽不需要主人费什么心思，只需要偶尔浇浇水就行。"
+        },
+        {
+          "en": "The new software makes very few demands on the computer's hardware.",
+          "zh": "这个新软件对电脑硬件的要求非常低。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "倒装语序（Nor引导的否定倒装）",
+      "definition": "当否定词nor位于句首时，句子需要使用部分倒装结构，表示前面的否定情况也适用于后者，意为“……也不”",
+      "structure": "Nor + 助动词/系动词/情态动词 + 主语 + 谓语剩余部分",
+      "usage": "承接前面的否定陈述，补充说明另一个主体也同样符合该否定情况，保持前后时态一致",
+      "examples": [
+        {
+          "en": "Nor is it only the ignorant and ill-educated person who has such faith in the bottle of medicine.",
+          "zh": "并不只有无知和没受过良好教育的人才如此信任瓶装药物。"
+        },
+        {
+          "en": "I don't like horror movies, nor does my sister.",
+          "zh": "我不喜欢恐怖电影，我妹妹也不喜欢。"
+        },
+        {
+          "en": "He can't speak French, nor can he write it.",
+          "zh": "他不会说法语，也不会写法语。"
+        }
+      ]
+    },
+    {
+      "title": "并列的宾语从句",
+      "definition": "当及物动词后面接多个that引导的宾语从句时，第一个从句的that可以省略，后面的从句that通常不可省略，多个从句之间用and连接",
+      "structure": "主语 + 谓语 + (that) 从句1 + and that 从句2 + and that 从句3",
+      "usage": "用来陈述与同一个谓语动词相关的多个并列内容，使句子逻辑清晰，避免重复主语和谓语",
+      "examples": [
+        {
+          "en": "Carlyle was entirely ignorant of what the bottle in his pocket contained, of the nature of the illness from which his friend was suffering, and of what had previously been wrong with his wife.",
+          "zh": "卡莱尔完全不知道自己口袋里的瓶子装的是什么，不知道他朋友患的病是什么性质，也不知道他妻子之前得的是什么病。"
+        },
+        {
+          "en": "The teacher told us that we should hand in the homework before Friday, and that we needed to prepare for the next week's test.",
+          "zh": "老师告诉我们应该在周五之前交作业，还告诉我们需要为下周的考试做准备。"
+        }
+      ]
+    },
+    {
+      "title": "同位语从句",
+      "definition": "跟在抽象名词（如fact, news, idea, belief等）后面，用来解释说明该名词的具体内容的从句，通常由that引导，that在从句中不充当成分",
+      "structure": "抽象名词 + that + 完整的陈述性句子",
+      "usage": "用来对前面的抽象名词进行内容上的补充说明，让读者明确该名词的具体所指",
+      "examples": [
+        {
+          "en": "This modern faith in medicines is proved by the fact that the annual drug bill of the Health Services is mounting to astronomical figures.",
+          "zh": "医疗服务机构每年的药品账单正攀升至天文数字，这一事实证明了现代人对药物的这种信任。"
+        },
+        {
+          "en": "We were all excited at the news that our team had won the championship.",
+          "zh": "听到我们队赢得了冠军的消息，我们都很兴奋。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "This is a ... age, but although our faith in ... has weakened, our confidence in ... remains the same as theirs.",
+      "original": {
+        "en": "This is a sceptical age, but although our faith in many of the things in which our forefathers fervently believed has weakened, our confidence in the curative properties of the bottle of medicine remains the same as theirs.",
+        "zh": "这是一个怀疑一切的时代，但是尽管我们对祖先们笃信的很多事物的信念已经减弱，我们对瓶装药物疗效的信心仍和他们一模一样。"
+      },
+      "imitations": [
+        {
+          "en": "This is a digital age, but although our faith in traditional face-to-face communication has weakened, our confidence in the importance of real emotional connection remains the same as previous generations'.",
+          "zh": "这是一个数字时代，但是尽管我们对传统面对面交流的信念已经减弱，我们对真实情感连接的重要性的信心仍和前几代人一模一样。"
+        },
+        {
+          "en": "This is a fast-paced age, but although our faith in slow, hand-made products has weakened, our confidence in the value of quality craftsmanship remains the same as our ancestors'.",
+          "zh": "这是一个快节奏的时代，但是尽管我们对缓慢的手工制品的信念已经减弱，我们对优质工艺价值的信心仍和我们的祖先一模一样。"
+        }
+      ]
+    },
+    {
+      "pattern": "The majority of ... feel that they have not received adequate ... unless they are able to ...",
+      "original": {
+        "en": "The majority of the patients attending the medical out-patients departments of our hospitals feel that they have not received adequate treatment unless they are able to carry home with them some tangible remedy in the shape of a bottle of medicine, a box of pills, or a small jar of ointment.",
+        "zh": "大多数去医院门诊部看病的病人觉得，自己没有得到充分的治疗，除非他们能带回去一些实实在在的治疗药物，不管是一瓶药水、一盒药片还是一小罐药膏。"
+      },
+      "imitations": [
+        {
+          "en": "The majority of customers shopping in physical stores feel that they have not received adequate service unless they are able to get a personal recommendation from the sales assistant.",
+          "zh": "大多数在实体店购物的顾客觉得，自己没有得到充分的服务，除非他们能得到销售助理的个人推荐。"
+        },
+        {
+          "en": "The majority of students taking online courses feel that they have not received adequate education unless they are able to interact with the teacher and classmates in real time.",
+          "zh": "大多数上在线课程的学生觉得，自己没有得到充分的教育，除非他们能和老师以及同学进行实时互动。"
+        }
+      ]
+    },
+    {
+      "pattern": "It is recounted of ... that when he heard of ..., he went off immediately to ..., carrying with him ...",
+      "original": {
+        "en": "It is recounted of Thomas Carlyle that when he heard of the illness of his friend, Henry Taylor, he went off immediately to visit him, carrying with him in his pocket what remained a bottle of medicine formerly prescribed for an indisposition of Mrs. Carlyle's.",
+        "zh": "据说托马斯·卡莱尔有这么一件事，当他听说朋友亨利·泰勒生病的消息后，他立刻动身去探望，口袋里还装着剩下的半瓶之前卡莱尔夫人得小病时开的药。"
+      },
+      "imitations": [
+        {
+          "en": "It is recounted of the old writer that when he heard of the flood in his hometown, he went off immediately to donate money, carrying with him all the savings he had stored for years.",
+          "zh": "据说这位老作家有这么一件事，当他听说家乡遭遇洪水的消息后，他立刻动身去捐款，随身带着自己存了多年的全部积蓄。"
+        },
+        {
+          "en": "It is recounted of the famous chef that when he heard of his apprentice's failure in the cooking competition, he went off immediately to comfort him, carrying with him the award he had won in the same competition many years ago.",
+          "zh": "据说这位名厨有这么一件事，当他听说自己的徒弟在烹饪比赛中失利的消息后，他立刻动身去安慰他，随身带着自己多年前在同一个比赛中赢得的奖杯。"
+        }
+      ]
+    },
+    {
+      "pattern": "The great advantage of ... is that it makes no demands on ... beyond that of ..., and that is what ... demand of ...",
+      "original": {
+        "en": "The great advantage of taking medicine is that it makes no demands on the taker beyond that of putting up for a moment with a disgusting taste, and that is what all patients demand of their doctors--to be cured at no inconvenience to themselves.",
+        "zh": "服药的一大好处是，它对服药者没有任何要求，只需要暂时忍受一下难吃的味道，这就是所有病人对医生的要求——把病治好，自己却不用承担任何不便。"
+      },
+      "imitations": [
+        {
+          "en": "The great advantage of using a smart speaker is that it makes no demands on the user beyond that of speaking out their needs clearly, and that is what most busy office workers demand of smart devices.",
+          "zh": "使用智能音箱的一大好处是，它对使用者没有任何要求，只需要清晰说出自己的需求，这就是大多数忙碌的上班族对智能设备的要求。"
+        },
+        {
+          "en": "The great advantage of this fitness method is that it makes no demands on the practitioner beyond that of setting aside 15 minutes every day, and that is what people with busy schedules demand of a workout program.",
+          "zh": "这种健身方法的一大好处是，它对练习者没有任何要求，只需要每天抽出15分钟，这就是日程繁忙的人对健身计划的要求。"
+        }
+      ]
+    }
+  ]
+}

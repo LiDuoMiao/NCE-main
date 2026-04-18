@@ -1,0 +1,387 @@
+{
+  "book": "NCE3",
+  "lesson": "08",
+  "title": "Lesson 8",
+  "vocabulary": [
+    {
+      "word": "monastery",
+      "phonetic": "/ˈmɒnəstri/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "修道院；寺院",
+          "usage": "指修道士、僧侣居住和进行宗教活动的场所"
+        }
+      ]
+    },
+    {
+      "word": "pass",
+      "phonetic": "/pɑːs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "山口；关隘",
+          "usage": "指山脉中可供通行的狭窄通道"
+        },
+        {
+          "pos": "verb",
+          "meaning": "通过；经过",
+          "usage": "表示从一个地方移动到另一个地方的动作"
+        }
+      ]
+    },
+    {
+      "word": "connect",
+      "phonetic": "/kəˈnekt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "连接；相连",
+          "usage": "常用搭配connect A to/with B，表示把A和B连接起来"
+        }
+      ]
+    },
+    {
+      "word": "found",
+      "phonetic": "/faʊnd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "创建；建立",
+          "usage": "为及物动词，通常表示创立组织、机构等，过去式和过去分词为founded"
+        }
+      ]
+    },
+    {
+      "word": "traveller",
+      "phonetic": "/ˈtrævələ(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "旅行者；游客",
+          "usage": "指长途旅行的人，美式拼写为traveler"
+        }
+      ]
+    },
+    {
+      "word": "watchdog",
+      "phonetic": "/ˈwɒtʃdɒɡ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "看门狗；监察人",
+          "usage": "既可以指看门的犬只，也可比喻监督公共事务的个人或组织"
+        }
+      ]
+    },
+    {
+      "word": "tunnel",
+      "phonetic": "/ˈtʌnl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "隧道；地道",
+          "usage": "指在山体、地下或海底开凿的通道"
+        }
+      ]
+    },
+    {
+      "word": "rashly",
+      "phonetic": "/ˈræʃli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "轻率地；鲁莽地",
+          "usage": "用来修饰动词，表示做事情没有经过慎重考虑"
+        }
+      ]
+    },
+    {
+      "word": "attempt",
+      "phonetic": "/əˈtempt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "尝试；试图",
+          "usage": "常用搭配attempt to do sth，表示努力做有难度的事"
+        },
+        {
+          "pos": "noun",
+          "meaning": "尝试；企图",
+          "usage": "常用搭配make an attempt to do sth"
+        }
+      ]
+    },
+    {
+      "word": "enclosure",
+      "phonetic": "/ɪnˈkləʊʒə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "围场；圈地",
+          "usage": "指用栅栏、围墙等围起来的区域"
+        }
+      ]
+    },
+    {
+      "word": "temperature",
+      "phonetic": "/ˈtemprətʃə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "温度；气温",
+          "usage": "表示天气或物体的冷热程度，常用搭配take one's temperature指量体温"
+        }
+      ]
+    },
+    {
+      "word": "monk",
+      "phonetic": "/mʌŋk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "修道士；僧侣",
+          "usage": "指男性修行者，对应女性修行者为nun（修女）"
+        }
+      ]
+    },
+    {
+      "word": "privacy",
+      "phonetic": "/ˈprɪvəsi/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "隐私；独处",
+          "usage": "表示不受他人打扰的私人空间或状态"
+        }
+      ]
+    },
+    {
+      "word": "wander",
+      "phonetic": "/ˈwɒndə(r)/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "漫步；闲逛",
+          "usage": "表示没有固定方向地随意行走"
+        }
+      ]
+    },
+    {
+      "word": "skier",
+      "phonetic": "/ˈskiːə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "滑雪者",
+          "usage": "指进行滑雪运动的人，动词形式为ski"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "now that",
+      "usage": "引导原因状语从句，意为“既然；由于”，表示已知的事实或新出现的情况",
+      "examples": [
+        {
+          "en": "Now that a tunnel has been built through the mountains, the Pass is less dangerous.",
+          "zh": "由于已经修建了一条穿山隧道，山口现在不那么危险了。"
+        },
+        {
+          "en": "Now that you have finished your homework, you can watch TV for a while.",
+          "zh": "既然你已经做完了作业，你可以看一会儿电视。"
+        }
+      ]
+    },
+    {
+      "phrase": "send out",
+      "usage": "动词短语，意为“派出；发出”，可接人或物作宾语",
+      "examples": [
+        {
+          "en": "The dogs are still sent out into the snow whenever a traveller is in difficulty.",
+          "zh": "每当有旅行者遇到困难时，这些狗仍然会被派到雪地里去。"
+        },
+        {
+          "en": "The rescue team sent out three groups to search for the missing climber.",
+          "zh": "救援队派出了三个小组搜寻失踪的登山者。"
+        }
+      ]
+    },
+    {
+      "phrase": "in difficulty",
+      "usage": "介词短语，意为“处于困境中”，在句中可作表语或后置定语",
+      "examples": [
+        {
+          "en": "We should give a hand to those who are in difficulty.",
+          "zh": "我们应该帮助那些身处困境的人。"
+        }
+      ]
+    },
+    {
+      "phrase": "despite",
+      "usage": "介词，意为“尽管；虽然”，后接名词、代词或动名词，引导让步关系",
+      "examples": [
+        {
+          "en": "Despite the new tunnel, there are still a few people who rashly attempt to cross the Pass on foot.",
+          "zh": "尽管有了新隧道，仍然有少数人鲁莽地试图步行穿越山口。"
+        },
+        {
+          "en": "Despite the bad weather, we still held the sports meeting as planned.",
+          "zh": "尽管天气不好，我们仍然按计划举办了运动会。"
+        }
+      ]
+    },
+    {
+      "phrase": "attempt to do sth",
+      "usage": "动词搭配，意为“试图做某事；尝试做某事”，常指做有难度或风险的事",
+      "examples": [
+        {
+          "en": "Very few people attempt to cross the Pass in winter.",
+          "zh": "冬天很少有人试图穿越山口。"
+        },
+        {
+          "en": "He attempted to climb the mountain alone, but failed due to the storm.",
+          "zh": "他试图独自攀登那座山，但因为暴风雨失败了。"
+        }
+      ]
+    },
+    {
+      "phrase": "prefer A to B",
+      "usage": "动词搭配，意为“比起B更喜欢A”，用于表达两者间的偏好",
+      "examples": [
+        {
+          "en": "The monks prefer winter to summer for they have more privacy.",
+          "zh": "修道士们喜欢冬天胜过夏天，因为他们有更多的独处时间。"
+        },
+        {
+          "en": "I prefer coffee to tea when I need to stay up late working.",
+          "zh": "我需要熬夜工作的时候，比起茶更喜欢喝咖啡。"
+        }
+      ]
+    },
+    {
+      "phrase": "be allowed to do sth",
+      "usage": "被动语态搭配，意为“被允许做某事”，表示得到许可做某件事",
+      "examples": [
+        {
+          "en": "The dogs are allowed to wander outside their enclosure in winter.",
+          "zh": "冬天狗被允许在围场外面闲逛。"
+        },
+        {
+          "en": "Students are not allowed to use mobile phones in class in most schools.",
+          "zh": "大多数学校不允许学生在课堂上使用手机。"
+        }
+      ]
+    },
+    {
+      "phrase": "receive a warm welcome",
+      "usage": "固定搭配，意为“受到热烈欢迎”",
+      "examples": [
+        {
+          "en": "These young people always receive a warm welcome at St.Bernard's monastery.",
+          "zh": "这些年轻人在圣伯纳德修道院总是受到热烈欢迎。"
+        },
+        {
+          "en": "The foreign visitors received a warm welcome when they arrived at the university.",
+          "zh": "外国访客抵达这所大学时受到了热烈欢迎。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "非限制性定语从句",
+      "definition": "对先行词进行补充说明，去掉之后不影响主句意思的完整性，和主句之间通常用逗号隔开",
+      "structure": "主句 + , + which/who/whom/whose + 从句",
+      "usage": "which指代物，who指代人，在从句中作主语或宾语，不能用that引导",
+      "examples": [
+        {
+          "en": "The famous monastery of St.Bernard, which was founded in the eleventh century, lies about a mile away.",
+          "zh": "著名的圣伯纳德修道院建于11世纪，位于（离山口）约一英里远的地方。"
+        },
+        {
+          "en": "These friendly dogs, which were first brought from Asia, were used as watchdogs even in Roman times.",
+          "zh": "这些友善的狗最初是从亚洲引进的，甚至在罗马时期就被用作看门狗。"
+        },
+        {
+          "en": "My elder sister, who works in Shanghai, will come back home next week.",
+          "zh": "我姐姐在上海工作，她下周会回家。"
+        }
+      ]
+    },
+    {
+      "title": "原因状语从句引导词for的用法",
+      "definition": "for是并列连词，用来补充说明前一句内容的原因，语气比because弱，不能放在句首",
+      "structure": "主句 + for + 原因分句",
+      "usage": "通常用于书面语，对前面的事实进行解释说明，前后两个分句是并列关系",
+      "examples": [
+        {
+          "en": "During the summer months, the monastery is very busy, for it is visited by thousands of people who cross the Pass in cars.",
+          "zh": "夏天的几个月里，修道院十分忙碌，因为有成千上万开车穿越山口的人来这里参观。"
+        },
+        {
+          "en": "The dogs have greater freedom, too, for they are allowed to wander outside their enclosure.",
+          "zh": "狗也有更多的自由，因为它们被允许在围场外面闲逛。"
+        },
+        {
+          "en": "He stayed up late last night, for he had to finish his report before the deadline.",
+          "zh": "他昨晚熬夜了，因为他得在截止日期前完成报告。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "At + 具体高度/年龄/价格, it is + 最高级 + 范围",
+      "original": {
+        "en": "At 2,473 metres, it is the highest mountain pass in Europe.",
+        "zh": "它海拔2473米，是欧洲最高的山口。"
+      },
+      "imitations": [
+        {
+          "en": "At 8,848 metres, Mount Qomolangma is the highest mountain in the world.",
+          "zh": "珠穆朗玛峰海拔8848米，是世界上最高的山峰。"
+        },
+        {
+          "en": "At 14 years old, he is the youngest player in the national football team.",
+          "zh": "他14岁，是国家足球队里最年轻的球员。"
+        }
+      ]
+    },
+    {
+      "pattern": "For + 时间段, sth/sb have done sth",
+      "original": {
+        "en": "For hundreds of years, St.Bernard dogs have saved the lives of travellers crossing the dangerous Pass.",
+        "zh": "数百年来，圣伯纳德狗拯救了穿越危险山口的旅行者的生命。"
+      },
+      "imitations": [
+        {
+          "en": "For thousands of years, Chinese people have created splendid traditional culture.",
+          "zh": "数千年来，中国人民创造了灿烂的传统文化。"
+        },
+        {
+          "en": "For nearly 10 years, this little library has provided free books for children in the village.",
+          "zh": "近十年来，这个小图书馆一直为村里的孩子提供免费书籍。"
+        }
+      ]
+    },
+    {
+      "pattern": "In winter/In summer, however, life + 地点 + is quite different.",
+      "original": {
+        "en": "In winter, however, life at the monastery is quite different.",
+        "zh": "然而到了冬天，修道院的生活就完全不同了。"
+      },
+      "imitations": [
+        {
+          "en": "In summer, however, life in this small coastal town is quite different.",
+          "zh": "然而到了夏天，这个海滨小镇的生活就完全不同了。"
+        },
+        {
+          "en": "On weekends, however, life in the office building is quite different.",
+          "zh": "然而到了周末，这座办公楼里的生活就完全不同了。"
+        }
+      ]
+    }
+  ]
+}

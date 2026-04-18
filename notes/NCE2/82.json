@@ -1,0 +1,406 @@
+{
+  "book": "NCE2",
+  "lesson": "82",
+  "title": "What was the monster called?",
+  "vocabulary": [
+    {
+      "word": "monster",
+      "phonetic": "/ˈmɒnstə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "怪物；妖怪",
+          "usage": "指形状奇怪、体积庞大的生物，常用于描述未知或传说中的生物"
+        }
+      ]
+    },
+    {
+      "word": "sailor",
+      "phonetic": "/ˈseɪlə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "水手；海员",
+          "usage": "指在船上工作的人，与 fisherman 不同，后者指以捕鱼为生的人"
+        }
+      ]
+    },
+    {
+      "word": "creature",
+      "phonetic": "/ˈkriːtʃə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "生物；动物",
+          "usage": "泛指任何动物或生物，语气比 animal 更为文学化"
+        }
+      ]
+    },
+    {
+      "word": "peculiar",
+      "phonetic": "/pɪˈkjuːliə(r)/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "奇怪的；特有的",
+          "usage": "强调与众不同的、稀奇古怪的，常用结构：be peculiar to 某地特有的"
+        }
+      ]
+    },
+    {
+      "word": "powerful",
+      "phonetic": "/ˈpaʊəfl/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "强大的；有力的",
+          "usage": "描述力量大、影响力强，可用于形容人或事物的力量"
+        }
+      ]
+    },
+    {
+      "word": "ordinary",
+      "phonetic": "/ˈɔːrdɪneri/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "普通的；平常的",
+          "usage": "指一般的、没有特别之处的，反义词为 extraordinary"
+        }
+      ]
+    },
+    {
+      "word": "eventually",
+      "phonetic": "/ɪˈventʃuəli/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "最终；终于",
+          "usage": "表示经过一段时间或努力之后的结果，近义词为 finally, in the end"
+        }
+      ]
+    },
+    {
+      "word": "examine",
+      "phonetic": "/ɪɡˈzæmɪn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "检查；仔细观察",
+          "usage": "指仔细检查或研究，常用结构：examine + n. / examine + wh-从句"
+        }
+      ]
+    },
+    {
+      "word": "depth",
+      "phonetic": "/depθ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "深度；深处",
+          "usage": "指从表面到下面的距离，常用结构：at a depth of... 在...深度"
+        }
+      ]
+    },
+    {
+      "word": "occasionally",
+      "phonetic": "/əˈkeɪʒənəli/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "偶尔；有时候",
+          "usage": "指不经常发生，频率介于 sometimes 和 rarely 之间"
+        }
+      ]
+    },
+    {
+      "word": "rarely",
+      "phonetic": "/ˈreəli/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "罕见地；很少",
+          "usage": "表示几乎不、难得，含有否定含义，用于句首时后接倒装"
+        }
+      ]
+    },
+    {
+      "word": "claim",
+      "phonetic": "/kleɪm/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "声称；宣称",
+          "usage": "指断言某事是真实的，常含有未必属实的意味"
+        }
+      ]
+    },
+    {
+      "word": "sight",
+      "phonetic": "/saɪt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "视力；看见；景象",
+          "usage": "指视力或看见的状态，catch sight of 看到；at sight 一见就"
+        }
+      ]
+    },
+    {
+      "word": "realize",
+      "phonetic": "/ˈrɪəlaɪz/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "意识到；认识到",
+          "usage": "指突然明白或意识到某事，后接 that 从句或 wh-从句"
+        }
+      ]
+    },
+    {
+      "word": "wash",
+      "phonetic": "/wɒʃ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "冲刷；冲走",
+          "usage": "指被水流冲到某处，常用被动 be washed to 被冲到"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "at times",
+      "usage": "表示偶尔、有时，相当于 sometimes，用于描述不经常发生的情况",
+      "examples": [
+        {
+          "en": "At times I feel tired after work.",
+          "zh": "有时我下班后会感到累。"
+        }
+      ]
+    },
+    {
+      "phrase": "no ordinary fish",
+      "usage": "no + adj. 表示强调，意为'绝非普通的'，用来突出事物的特殊性",
+      "examples": [
+        {
+          "en": "This is no ordinary question.",
+          "zh": "这绝不是一个普通的问题。"
+        }
+      ]
+    },
+    {
+      "phrase": "make every effort",
+      "usage": "表示尽一切努力、不遗余力，后接 to do sth.",
+      "examples": [
+        {
+          "en": "He made every effort to arrive on time.",
+          "zh": "他尽一切努力准时到达。"
+        }
+      ]
+    },
+    {
+      "phrase": "be washed to the shore",
+      "usage": "表示被（海浪）冲到岸边，wash 还有'冲刷、洗涤'的意思",
+      "examples": [
+        {
+          "en": "The debris was washed to the beach by the waves.",
+          "zh": "碎片被海浪冲到了海滩上。"
+        }
+      ]
+    },
+    {
+      "phrase": "pull on the line",
+      "usage": "表示拉鱼线，pull on 表示用力拉扯某物，line 在此指钓鱼线",
+      "examples": [
+        {
+          "en": "The fish pulled hard on the line.",
+          "zh": "那条鱼用力拉鱼线。"
+        }
+      ]
+    },
+    {
+      "phrase": "in any way",
+      "usage": "表示以任何方式，常用于否定句中加强语气，意为'丝毫不'",
+      "examples": [
+        {
+          "en": "I don't want to trouble you in any way.",
+          "zh": "我丝毫不想麻烦你。"
+        }
+      ]
+    },
+    {
+      "phrase": "be set to a museum",
+      "usage": "表示被送往博物馆，set 在此为过去分词，表示'被放置、被送往'",
+      "examples": [
+        {
+          "en": "The painting was set to the National Gallery.",
+          "zh": "这幅画被送到了国家美术馆。"
+        }
+      ]
+    },
+    {
+      "phrase": "live at a depth of",
+      "usage": "表示生活在...深度，depth 前可加具体数字",
+      "examples": [
+        {
+          "en": "These fish live at a depth of 300 meters.",
+          "zh": "这些鱼生活在300米深处。"
+        }
+      ]
+    },
+    {
+      "phrase": "laugh at",
+      "usage": "表示嘲笑、讥笑，也可表示'对...一笑了之'",
+      "examples": [
+        {
+          "en": "Don't laugh at his mistakes.",
+          "zh": "不要嘲笑他的错误。"
+        }
+      ]
+    },
+    {
+      "phrase": "carry sb. out to sea",
+      "usage": "表示把某人带到海上，carry 有'携带、带走'之意，此处指被鱼拖走",
+      "examples": [
+        {
+          "en": "The storm carried the boat out to sea.",
+          "zh": "暴风雨把船带到了海上。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "定语从句（非限定性）",
+      "definition": "非限定性定语从句对先行词进行补充说明，去掉后不影响主句意义，从句前后有逗号隔开",
+      "structure": "主句 + , + 关系代词/关系副词 + 从句 / 主句 + , + which/who + 句子",
+      "usage": "1. 用逗号与主句隔开\n2. 关系代词 which 可指代整个主句\n3. 不能用 that 引导",
+      "examples": [
+        {
+          "en": "The fish, which has been sent to a museum, is called an oarfish.",
+          "zh": "那条鱼被称为皇带鱼，已被送往博物馆。"
+        },
+        {
+          "en": "Mary, who is waiting outside, wants to see you.",
+          "zh": "玛丽在外面等着，想见你。"
+        },
+        {
+          "en": "The meeting, which held last week, was a success.",
+          "zh": "上周举行的会议很成功。"
+        }
+      ]
+    },
+    {
+      "title": "It is now known that... 句型",
+      "definition": "it is known that 是一个常用句型，意为'众所周知'，it 是形式主语，真正的主语是 that 引导的从句",
+      "structure": "It is + known/reported/believed + that + 从句",
+      "usage": "1. it 作形式主语，避免句子头重脚轻\n2. 类似结构：It is said that... 据说；It is believed that... 据认为\n3. 可以转换为：People know (that)...",
+      "examples": [
+        {
+          "en": "It is now known that many 'monsters' are simply strange fish.",
+          "zh": "现在已知，许多'怪物'不过是奇怪的鱼。"
+        },
+        {
+          "en": "It is known that he is the best student in the class.",
+          "zh": "众所周知，他是班里最好的学生。"
+        },
+        {
+          "en": "It is said that the restaurant is very good.",
+          "zh": "据说那家餐厅很不错。"
+        }
+      ]
+    },
+    {
+      "title": "过去分词作定语",
+      "definition": "过去分词作定语时，放在被修饰名词之前（单个过去分词）或之后（过去分词短语），表示被动和完成意义",
+      "structure": "名词 + 过去分词 / 名词 + 过去分词短语",
+      "usage": "1. 及物动词的过去分词表示被动和完成\n2. 单个过去分词作定语时放在名词前\n3. 过去分词短语作定语时放在名词后，相当于定语从句",
+      "examples": [
+        {
+          "en": "The fish caught near Madagascar was over thirteen feet long.",
+          "zh": "在马达加斯加附近捕获的鱼有13英尺多长。"
+        },
+        {
+          "en": "The boy named Tom is my brother.",
+          "zh": "叫汤姆的男孩是我弟弟。"
+        },
+        {
+          "en": "The fish (which was) caught yesterday is still alive.",
+          "zh": "昨天捕到的那条鱼还活着。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Though + 主语 + 动词..., ...",
+      "original": {
+        "en": "Though people have often laughed at stories told by seamen, it is now known that many of these 'monsters' are simply strange fish.",
+        "zh": "尽管人们经常嘲笑海员讲的故事，但现在已知这些'怪物'中有许多只是奇怪的鱼。"
+      },
+      "imitations": [
+        {
+          "en": "Though she is young, she speaks English very well.",
+          "zh": "虽然她很年轻，但她英语说得很好。"
+        },
+        {
+          "en": "Though it was raining hard, we went out.",
+          "zh": "虽然雨下得很大，我们还是出去了。"
+        }
+      ]
+    },
+    {
+      "pattern": "A + 名词 + was + 过去分词 + 地点/时间",
+      "original": {
+        "en": "A peculiar fish was caught near Madagascar.",
+        "zh": "一条奇特的鱼在马达加斯加附近被捕获。"
+      },
+      "imitations": [
+        {
+          "en": "A rare bird was spotted in the forest.",
+          "zh": "一只珍稀鸟在森林里被发现。"
+        },
+        {
+          "en": "A beautiful painting was sold at auction.",
+          "zh": "一幅美丽的画在拍卖会上被售出。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + make(s) every effort + to do",
+      "original": {
+        "en": "The fisherman made every effort not to damage it in any way.",
+        "zh": "渔民尽一切努力不损坏它。"
+      },
+      "imitations": [
+        {
+          "en": "She made every effort to finish the work on time.",
+          "zh": "她尽一切努力按时完成工作。"
+        },
+        {
+          "en": "We made every effort to help the poor family.",
+          "zh": "我们尽一切努力帮助这个贫困家庭。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + have/has + 过去分词 + by + 动作执行者",
+      "original": {
+        "en": "Such creatures have rarely been seen alive by man as they live at a depth of six hundred feet.",
+        "zh": "这类生物很少被人类活着看到，因为它们生活在600英尺深处。"
+      },
+      "imitations": [
+        {
+          "en": "The painting has been examined by experts.",
+          "zh": "这幅画已被专家检查过。"
+        },
+        {
+          "en": "The story has been told by many people.",
+          "zh": "这个故事已被许多人讲述过。"
+        }
+      ]
+    }
+  ]
+}

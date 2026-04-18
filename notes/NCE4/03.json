@@ -1,0 +1,345 @@
+{
+  "book": "NCE4",
+  "lesson": "03",
+  "title": "Lesson 3",
+  "vocabulary": [
+    {
+      "word": "alpinist",
+      "phonetic": "/ˈælpɪnɪst/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "登山运动员；阿尔卑斯登山家",
+          "usage": "特指擅长攀登阿尔卑斯山脉的专业登山者"
+        }
+      ]
+    },
+    {
+      "word": "pioneering",
+      "phonetic": "/ˌpaɪəˈnɪərɪŋ/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "先驱的；开创性的",
+          "usage": "用于描述某领域最早进行探索、开创先例的人或事物"
+        }
+      ]
+    },
+    {
+      "word": "summit",
+      "phonetic": "/ˈsʌmɪt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "山顶；顶峰；峰会",
+          "usage": "可指山的最高点，也可引申为最高级别的官方会议"
+        }
+      ]
+    },
+    {
+      "word": "attain",
+      "phonetic": "/əˈteɪn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "达到；获得；实现",
+          "usage": "正式用语，指经过努力实现目标或达到某个水平"
+        }
+      ]
+    },
+    {
+      "word": "perilous",
+      "phonetic": "/ˈperələs/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "危险的；冒险的",
+          "usage": "书面语，强调风险极高、可能造成严重伤害的"
+        }
+      ]
+    },
+    {
+      "word": "shudder",
+      "phonetic": "/ˈʃʌdə(r)/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "发抖；战栗",
+          "usage": "通常因恐惧、寒冷或厌恶而不自觉地颤抖，常与at搭配"
+        }
+      ]
+    },
+    {
+      "word": "court",
+      "phonetic": "/kɔːt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "招致；吸引；追求",
+          "usage": "此处指主动招致不好的事，也可表示追求异性、博取关注"
+        }
+      ]
+    },
+    {
+      "word": "solitary",
+      "phonetic": "/ˈsɒlətri/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "唯一的；单独的；孤独的",
+          "usage": "强调单个的、没有其他伴随的"
+        }
+      ]
+    },
+    {
+      "word": "impoverished",
+      "phonetic": "/ɪmˈpɒvərɪʃt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "贫困的；赤贫的",
+          "usage": "正式用语，形容地区或人极度贫穷的状态"
+        }
+      ]
+    },
+    {
+      "word": "flea-ridden",
+      "phonetic": "/ˈfliː rɪdn/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "布满跳蚤的",
+          "usage": "复合形容词，由名词+过去分词构成，表充满某个不好的事物的"
+        }
+      ]
+    },
+    {
+      "word": "coarse",
+      "phonetic": "/kɔːs/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "粗糙的；粗劣的；粗俗的",
+          "usage": "可形容物品质量差，也可形容人的言行粗鲁"
+        }
+      ]
+    },
+    {
+      "word": "boast",
+      "phonetic": "/bəʊst/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "有（值得骄傲的东西）；吹嘘",
+          "usage": "中性义指某地/某人拥有某个好的事物，贬义指夸耀、说大话"
+        }
+      ]
+    },
+    {
+      "word": "parishioner",
+      "phonetic": "/pəˈrɪʃənə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "教区居民",
+          "usage": "指归某个教堂管辖的当地居民"
+        }
+      ]
+    },
+    {
+      "word": "invariably",
+      "phonetic": "/ɪnˈveəriəbli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "始终如一地；一贯地",
+          "usage": "强调情况没有例外、总是如此"
+        }
+      ]
+    },
+    {
+      "word": "accustomed",
+      "phonetic": "/əˈkʌstəmd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "习惯的；适应了的",
+          "usage": "固定搭配为be accustomed to (doing) sth，表习惯于某事"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "the more...the more...",
+      "usage": "用于表示两个事物按比例同步变化，意为“越……就越……”",
+      "examples": [
+        {
+          "en": "The more difficult it is, the more highly it is regarded.",
+          "zh": "路线越难，就越被人们看重。"
+        },
+        {
+          "en": "The more you practice, the more fluent your English will be.",
+          "zh": "你练习得越多，英语就会越流利。"
+        }
+      ]
+    },
+    {
+      "phrase": "in the pioneering days",
+      "usage": "指某个领域的初创、探索阶段，意为“在开创初期”",
+      "examples": [
+        {
+          "en": "In the pioneering days however, this was not the case at all.",
+          "zh": "然而在登山运动的初创时期，情况完全不是这样。"
+        },
+        {
+          "en": "In the pioneering days of the Internet, few people could imagine its popularity today.",
+          "zh": "在互联网发展初期，很少有人能想象到它如今的普及程度。"
+        }
+      ]
+    },
+    {
+      "phrase": "go out of one's way to do sth",
+      "usage": "意为“特地、格外努力做某事；刻意做某事”",
+      "examples": [
+        {
+          "en": "They did not go out of their way to court such excitement.",
+          "zh": "他们并不是刻意追求这种刺激。"
+        },
+        {
+          "en": "The host went out of his way to make every guest feel at home.",
+          "zh": "主人费尽心思让每位客人都感觉自在。"
+        }
+      ]
+    },
+    {
+      "phrase": "cut off from",
+      "usage": "意为“切断、隔绝与……的联系”，常用被动形式",
+      "examples": [
+        {
+          "en": "Alpine villages tended to be impoverished settlements cut off from civilization by the high mountains.",
+          "zh": "阿尔卑斯山区的村庄大多是贫穷的村落，被高山隔绝了与文明世界的联系。"
+        },
+        {
+          "en": "The small town was cut off from the outside world due to the heavy snow.",
+          "zh": "由于大雪，这个小镇和外界失去了联系。"
+        }
+      ]
+    },
+    {
+      "phrase": "wash down",
+      "usage": "意为“（就着饮料）把食物送下；冲洗”",
+      "examples": [
+        {
+          "en": "All washed down with coarse wine.",
+          "zh": "所有食物都得就着粗劣的葡萄酒咽下。"
+        },
+        {
+          "en": "You need some water to wash down the medicine.",
+          "zh": "你需要点水来把药送服下去。"
+        }
+      ]
+    },
+    {
+      "phrase": "accustomed to",
+      "usage": "意为“习惯于……”，to是介词，后接名词或动名词",
+      "examples": [
+        {
+          "en": "For men accustomed to eating seven-course dinners and sleeping between fine linen sheets at home.",
+          "zh": "对于那些习惯了在家吃七道菜的正餐、睡细亚麻床单的人来说。"
+        },
+        {
+          "en": "She is accustomed to jogging for half an hour every morning.",
+          "zh": "她习惯了每天早上慢跑半小时。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "the + 比较级，the + 比较级结构",
+      "definition": "表示两个过程按比例同时增减，即前者变化的同时后者也随之发生相应变化",
+      "structure": "the + 形容词/副词比较级 + 句子，the + 形容词/副词比较级 + 句子",
+      "usage": "用于说明两个变量的正相关或负相关关系，前半句相当于条件状语，后半句是结果",
+      "examples": [
+        {
+          "en": "The more difficult it is, the more highly it is regarded.",
+          "zh": "路线越难，就越被人们看重。"
+        },
+        {
+          "en": "The earlier you start, the sooner you will finish the task.",
+          "zh": "你开始得越早，完成任务就越快。"
+        }
+      ]
+    },
+    {
+      "title": "过去分词作后置定语",
+      "definition": "过去分词放在被修饰的名词之后，相当于一个被动语态的定语从句，表被动或完成的含义",
+      "structure": "名词 + 过去分词短语",
+      "usage": "当定语内容较长时，常把过去分词短语后置，避免句子头重脚轻",
+      "examples": [
+        {
+          "en": "Alpine villages tended to be impoverished settlements cut off from civilization by the high mountains.",
+          "zh": "阿尔卑斯山区的村庄大多是贫穷的村落，被高山隔绝了与文明世界的联系。"
+        },
+        {
+          "en": "The book written by my professor has been sold out nationwide.",
+          "zh": "我教授写的那本书已经在全国售罄了。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "It is true that..., but...",
+      "original": {
+        "en": "It is true that during their explorations they often faced difficulties and dangers of the most perilous nature, equipped in a manner which would make a modern climber shudder at the thought, but they did not go out of their way to court such excitement.",
+        "zh": "诚然，在探险过程中他们经常面临极度的困难和危险，他们的装备简陋到现代登山者一想就会不寒而栗，但他们并不是刻意追求这种刺激。"
+      },
+      "imitations": [
+        {
+          "en": "It is true that learning a new language takes a lot of time and effort, but the benefits it brings are priceless.",
+          "zh": "诚然，学习一门新语言需要投入大量时间和精力，但它带来的好处是无价的。"
+        },
+        {
+          "en": "It is true that the team has made great progress this season, but they still have a long way to go to win the championship.",
+          "zh": "诚然，这支队伍本赛季已经取得了很大进步，但要赢得冠军他们还有很长的路要走。"
+        }
+      ]
+    },
+    {
+      "pattern": "It is hard for sb to do sth nowadays",
+      "original": {
+        "en": "It is hard for us to realize nowadays how difficult it was for the pioneers.",
+        "zh": "如今我们很难想象当初的先驱者们面临的是怎样的困难。"
+      },
+      "imitations": [
+        {
+          "en": "It is hard for young people nowadays to imagine how life was like without smartphones.",
+          "zh": "现在的年轻人很难想象没有智能手机的生活是什么样的。"
+        },
+        {
+          "en": "It is hard for city dwellers nowadays to experience the quiet life in the countryside.",
+          "zh": "如今的城市居民很难体验到乡村的宁静生活。"
+        }
+      ]
+    },
+    {
+      "pattern": "For sb accustomed to..., sth must have been very hard indeed",
+      "original": {
+        "en": "For men accustomed to eating seven-course dinners and sleeping between fine linen sheets at home, the change to the Alps must have been very hard indeed.",
+        "zh": "对于那些习惯了在家吃七道菜的正餐、睡细亚麻床单的人来说，到阿尔卑斯山的这种生活转变肯定非常艰难。"
+      },
+      "imitations": [
+        {
+          "en": "For people accustomed to working in air-conditioned offices, doing physical work outdoors in summer must have been very hard indeed.",
+          "zh": "对于习惯了在空调办公室工作的人来说，夏天在户外做体力活肯定非常难熬。"
+        },
+        {
+          "en": "For children accustomed to being taken care of by their parents, living alone in a new city must have been very hard indeed.",
+          "zh": "对于习惯了被父母照顾的孩子来说，独自在陌生城市生活肯定非常不容易。"
+        }
+      ]
+    }
+  ]
+}

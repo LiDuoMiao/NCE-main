@@ -1,0 +1,367 @@
+{
+  "book": "NCE3",
+  "lesson": "37",
+  "title": "Lesson 37",
+  "vocabulary": [
+    {
+      "word": "punctual",
+      "phonetic": "/ˈpʌŋktʃuəl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "准时的，守时的",
+          "usage": "用来描述人或交通工具按照约定时间到达或完成的状态"
+        }
+      ]
+    },
+    {
+      "word": "conditioning",
+      "phonetic": "/kənˈdɪʃənɪŋ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "训练，条件作用",
+          "usage": "指长期的环境影响或反复经历形成的固定思维、行为模式"
+        }
+      ]
+    },
+    {
+      "word": "unshakable",
+      "phonetic": "/ʌnˈʃeɪkəbl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "不可动摇的，坚定不移的",
+          "usage": "常用来修饰信念、信仰、决心等抽象名词，表示其非常稳固"
+        }
+      ]
+    },
+    {
+      "word": "dislocate",
+      "phonetic": "/ˈdɪsləkeɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "扰乱，使混乱；使脱位",
+          "usage": "作“扰乱”义时，宾语多为服务、计划、系统等事物"
+        }
+      ]
+    },
+    {
+      "word": "temporarily",
+      "phonetic": "/ˈtemprərəli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "暂时地，临时地",
+          "usage": "用来修饰动作或状态，表示其只持续有限的时间"
+        }
+      ]
+    },
+    {
+      "word": "express",
+      "phonetic": "/ɪkˈspres/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "快车；快递",
+          "usage": "作名词时可指特快列车、快递服务；也可作形容词表示“特快的”"
+        }
+      ]
+    },
+    {
+      "word": "mere",
+      "phonetic": "/mɪə(r)/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "仅仅的，只不过的",
+          "usage": "用来强调数量少、程度轻，放在名词前修饰"
+        }
+      ]
+    },
+    {
+      "word": "strike",
+      "phonetic": "/straɪk/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "给（某人以……）印象，让（某人）觉得",
+          "usage": "常用结构为it strikes sb as + adj. 表示“某人觉得某事怎么样”"
+        }
+      ]
+    },
+    {
+      "word": "odd",
+      "phonetic": "/ɒd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "奇怪的，反常的",
+          "usage": "用来描述事物或情况不符合常理、令人疑惑"
+        }
+      ]
+    },
+    {
+      "word": "reflect",
+      "phonetic": "/rɪˈflekt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "认真思考，沉思",
+          "usage": "后可接that从句或者on/upon sth，表示对某事进行深入思考"
+        }
+      ]
+    },
+    {
+      "word": "dawdle",
+      "phonetic": "/ˈdɔːdl/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "拖延，磨蹭，缓慢行进",
+          "usage": "可作不及物动词，表示动作缓慢、浪费时间"
+        }
+      ]
+    },
+    {
+      "word": "dawn",
+      "phonetic": "/dɔːn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "开始明白，开始领悟",
+          "usage": "常用结构it dawns on sb that... 表示“某人逐渐明白某事”"
+        }
+      ]
+    },
+    {
+      "word": "barely",
+      "phonetic": "/ˈbeəli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "仅仅，几乎不",
+          "usage": "表示刚刚达到某个最低程度，暗含数量少、程度低的含义"
+        }
+      ]
+    },
+    {
+      "word": "lodge",
+      "phonetic": "/lɒdʒ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "正式提出（投诉、索赔等）",
+          "usage": "常见搭配为lodge a complaint/protest/claim against sb"
+        }
+      ]
+    },
+    {
+      "word": "suspend",
+      "phonetic": "/səˈspend/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "暂停，中止",
+          "usage": "宾语多为服务、活动、航班等，表示其暂时停止运营或开展"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "take advantage of",
+      "usage": "表示利用某种有利条件、机会或服务，中性用法",
+      "examples": [
+        {
+          "en": "You should take advantage of the free library resources to improve your English.",
+          "zh": "你应该利用免费的图书馆资源来提升你的英语水平。"
+        },
+        {
+          "en": "Many tourists take advantage of the low season to travel at a lower cost.",
+          "zh": "很多游客利用淡季以更低的成本出行。"
+        }
+      ]
+    },
+    {
+      "phrase": "hold up",
+      "usage": "被动语态中表示“被耽搁、被延误”，主语通常是交通工具、行程等",
+      "examples": [
+        {
+          "en": "We were held up for two hours on the highway because of the car accident.",
+          "zh": "因为车祸，我们在高速公路上被耽搁了两个小时。"
+        },
+        {
+          "en": "The project was held up by a lack of funding.",
+          "zh": "这个项目因为资金短缺被延误了。"
+        }
+      ]
+    },
+    {
+      "phrase": "dawn on sb",
+      "usage": "表示某人逐渐明白、突然意识到某个之前没注意到的事实，主语通常是it",
+      "examples": [
+        {
+          "en": "It dawned on me that I had left my keys at the office when I got home.",
+          "zh": "我到家的时候才突然意识到我把钥匙落在办公室了。"
+        },
+        {
+          "en": "It finally dawned on him that all the suggestions his parents gave were for his own good.",
+          "zh": "他终于明白父母给的所有建议都是为了他好。"
+        }
+      ]
+    },
+    {
+      "phrase": "in black and white",
+      "usage": "表示“以书面形式、白纸黑字”，强调内容有正式的文字记录，不容否认",
+      "examples": [
+        {
+          "en": "I want the terms of our agreement in black and white to avoid future disputes.",
+          "zh": "我希望我们的协议条款白纸黑字写下来，避免未来产生纠纷。"
+        },
+        {
+          "en": "You can't deny you made the promise—it's here in black and white.",
+          "zh": "你不能否认你许下过这个承诺——这里白纸黑字写着呢。"
+        }
+      ]
+    },
+    {
+      "phrase": "lodge a complaint",
+      "usage": "表示正式向相关方提出投诉，语气比较正式",
+      "examples": [
+        {
+          "en": "If the noise from the construction site continues, I will lodge a complaint with the property management.",
+          "zh": "如果工地的噪音还继续，我就要向物业投诉了。"
+        },
+        {
+          "en": "Many customers lodged complaints against the restaurant for its poor hygiene conditions.",
+          "zh": "很多顾客投诉这家餐厅卫生条件很差。"
+        }
+      ]
+    },
+    {
+      "phrase": "strike sb as odd",
+      "usage": "表示某人觉得某事很奇怪、反常",
+      "examples": [
+        {
+          "en": "It strikes me as odd that he never mentions his family when we talk.",
+          "zh": "我们聊天的时候他从来没提过他的家人，我觉得很奇怪。"
+        },
+        {
+          "en": "Her sudden change of attitude struck everyone as odd.",
+          "zh": "她突然的态度转变让所有人都觉得反常。"
+        }
+      ]
+    },
+    {
+      "phrase": "can't help doing sth",
+      "usage": "表示忍不住、情不自禁做某事",
+      "examples": [
+        {
+          "en": "I can't help laughing every time I watch that comedy show.",
+          "zh": "我每次看那个喜剧节目都忍不住笑。"
+        },
+        {
+          "en": "She couldn't help crying when she heard the bad news.",
+          "zh": "她听到这个坏消息的时候忍不住哭了。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "部分倒装 (Partial Inversion)",
+      "definition": "将谓语的一部分（如助动词、情态动词）放到主语前面的倒装结构，通常用于否定词或半否定词放在句首的情况",
+      "structure": "Negative word/phrase + 助动词/情态动词 + 主语 + 谓语动词剩余部分",
+      "usage": "当neither, nor, never, hardly, seldom等否定或半否定含义的词/短语放在句首时，句子需要使用部分倒装，来强调否定的含义",
+      "examples": [
+        {
+          "en": "Neither was I surprised when the train stopped at Widley, a tiny station a few miles along the line.",
+          "zh": "当火车在沿线几英里外的小站威德利停靠时，我也没有感到惊讶。"
+        },
+        {
+          "en": "Never have I seen such a beautiful sunset in my life.",
+          "zh": "我这辈子从来没见过这么美的日落。"
+        },
+        {
+          "en": "Seldom does he go to bed before 11 o'clock on weekdays.",
+          "zh": "工作日他很少在11点前睡觉。"
+        }
+      ]
+    },
+    {
+      "title": "情态动词表推测 (Modal Verbs for Deduction)",
+      "definition": "用must, might, may, can't等情态动词对现在或过去的情况进行可能性判断",
+      "structure": "情态动词 + 动词原形（对现在的推测）/ have done（对过去的推测）",
+      "usage": "must表示非常肯定的推测“一定”，might/may表示可能性较低的推测“可能”，can't表示否定推测“不可能”",
+      "examples": [
+        {
+          "en": "I reflected that there must be a great many people besides myself who wished to take advantage of this excellent service.",
+          "zh": "我心想，除了我之外，肯定还有很多人想要享受这项优质的服务。"
+        },
+        {
+          "en": "The ground is wet. It must have rained last night.",
+          "zh": "地面是湿的，昨晚肯定下雨了。"
+        },
+        {
+          "en": "He might come to the party tonight, but I'm not sure.",
+          "zh": "他今晚可能会来派对，但我不确定。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "We have learnt to expect that...",
+      "original": {
+        "en": "We have learnt to expect that trains will be punctual.",
+        "zh": "我们已经习惯于期待火车准点。"
+      },
+      "imitations": [
+        {
+          "en": "We have learnt to expect that the delivery will arrive within three working days.",
+          "zh": "我们已经习惯于期待快递会在三个工作日内送达。"
+        },
+        {
+          "en": "We have learnt to expect that the coffee shop will be open at 7 a.m. every day.",
+          "zh": "我们已经习惯于期待这家咖啡店每天早上7点开门。"
+        }
+      ]
+    },
+    {
+      "pattern": "It suddenly dawned on me that...",
+      "original": {
+        "en": "It suddenly dawned on me that this express was not roaring down the line at ninety miles an hour, but barely chugging along at thirty.",
+        "zh": "我突然意识到，这趟快车并没有以90英里的时速在轨道上疾驰，而是只以30英里的时速突突地缓慢前进。"
+      },
+      "imitations": [
+        {
+          "en": "It suddenly dawned on me that I had signed up for the speech contest next week.",
+          "zh": "我突然想起我报名了下周的演讲比赛。"
+        },
+        {
+          "en": "It suddenly dawned on me that the answer to the problem was much simpler than I thought.",
+          "zh": "我突然意识到这个问题的答案比我想的要简单得多。"
+        }
+      ]
+    },
+    {
+      "pattern": "There was a note of + 情绪名词 + in one's voice when...",
+      "original": {
+        "en": "There was a note of triumph in my voice when I told him that it was there in black and white.",
+        "zh": "我告诉他白纸黑字写在那儿的时候，声音里带着一丝得意。"
+      },
+      "imitations": [
+        {
+          "en": "There was a note of disappointment in her voice when she said she failed the exam.",
+          "zh": "她说自己考试没及格的时候，声音里带着一丝失望。"
+        },
+        {
+          "en": "There was a note of excitement in his voice when he told us he got the offer.",
+          "zh": "他告诉我们他拿到录用通知的时候，声音里带着一丝兴奋。"
+        }
+      ]
+    }
+  ]
+}

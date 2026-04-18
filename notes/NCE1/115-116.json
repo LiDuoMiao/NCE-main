@@ -1,0 +1,395 @@
+{
+  "book": "NCE1",
+  "lesson": "115-116",
+  "title": "Lesson 115",
+  "vocabulary": [
+    {
+      "word": "knock",
+      "phonetic": "/nɒk/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "敲；打；撞击",
+          "usage": "指用拳头或其他物体敲击门、窗等"
+        },
+        {
+          "pos": "noun",
+          "meaning": "敲击声",
+          "usage": "敲门的声音"
+        }
+      ]
+    },
+    {
+      "word": "quiet",
+      "phonetic": "/ˈkwaɪət/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "安静的；寂静的",
+          "usage": "形容没有声音或很安静的环境"
+        }
+      ]
+    },
+    {
+      "word": "impossible",
+      "phonetic": "/ɪmˈpɒsəbl/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "不可能的",
+          "usage": "表示某事不可能发生或做到"
+        }
+      ]
+    },
+    {
+      "word": "invite",
+      "phonetic": "/ɪnˈvaɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "邀请",
+          "usage": "请人到某处或参加某活动"
+        }
+      ]
+    },
+    {
+      "word": "garden",
+      "phonetic": "/ˈɡɑːdn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "花园；庭院",
+          "usage": "房屋周围种植花草蔬菜的地方"
+        }
+      ]
+    },
+    {
+      "word": "lemonade",
+      "phonetic": "/ˌleməˈneɪd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "柠檬水；柠檬饮料",
+          "usage": "用柠檬制成的饮料"
+        }
+      ]
+    },
+    {
+      "word": "joke",
+      "phonetic": "/dʒəʊk/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "开玩笑",
+          "usage": "以幽默方式说话或做事"
+        }
+      ]
+    },
+    {
+      "word": "left",
+      "phonetic": "/left/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "剩余的；剩下的",
+          "usage": "表示某物还剩多少，常与none连用"
+        }
+      ]
+    },
+    {
+      "word": "glass",
+      "phonetic": "/ɡlɑːs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "玻璃杯；玻璃",
+          "usage": "用于喝水的杯子，或玻璃这种材料"
+        }
+      ]
+    },
+    {
+      "word": "beer",
+      "phonetic": "/bɪə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "啤酒",
+          "usage": "一种含酒精的饮料"
+        }
+      ]
+    },
+    {
+      "word": "sure",
+      "phonetic": "/ʃɔː/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "确信的；肯定的",
+          "usage": "表示对某事很有把握"
+        }
+      ]
+    },
+    {
+      "word": "warm",
+      "phonetic": "/wɔːm/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "温暖的；暖和的",
+          "usage": "形容温度不冷不热"
+        }
+      ]
+    },
+    {
+      "word": "anything",
+      "phonetic": "/ˈeniθɪŋ/",
+      "meanings": [
+        {
+          "pos": "pron",
+          "meaning": "任何事；任何东西",
+          "usage": "用于否定句和疑问句"
+        }
+      ]
+    },
+    {
+      "word": "nothing",
+      "phonetic": "/ˈnʌθɪŋ/",
+      "meanings": [
+        {
+          "pos": "pron",
+          "meaning": "没有什么；无物",
+          "usage": "表示什么都没有"
+        }
+      ]
+    },
+    {
+      "word": "everybody",
+      "phonetic": "/ˈevribɒdi/",
+      "meanings": [
+        {
+          "pos": "pron",
+          "meaning": "每个人；所有人",
+          "usage": "指所有的人"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "knock again",
+      "usage": "再敲一次门",
+      "examples": [
+        {
+          "en": "I'll knock again, Helen.",
+          "zh": "我再敲一次，海伦。"
+        }
+      ]
+    },
+    {
+      "phrase": "look through the window",
+      "usage": "透过窗户看",
+      "examples": [
+        {
+          "en": "Look through the window.",
+          "zh": "透过窗户看看。"
+        }
+      ]
+    },
+    {
+      "phrase": "try the back door",
+      "usage": "试试后门",
+      "examples": [
+        {
+          "en": "Let's try the back door.",
+          "zh": "我们试试后门吧。"
+        }
+      ]
+    },
+    {
+      "phrase": "have lunch",
+      "usage": "吃午饭",
+      "examples": [
+        {
+          "en": "Everybody wants to have lunch in the garden.",
+          "zh": "大家想在花园里吃午饭。"
+        }
+      ]
+    },
+    {
+      "phrase": "come and have something to drink",
+      "usage": "来喝点东西",
+      "examples": [
+        {
+          "en": "Come and have something to drink.",
+          "zh": "来喝点东西吧。"
+        }
+      ]
+    },
+    {
+      "phrase": "have a glass of beer",
+      "usage": "喝一杯啤酒",
+      "examples": [
+        {
+          "en": "May I have a glass of beer please?",
+          "zh": "请给我一杯啤酒好吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "none left",
+      "usage": "没有剩余",
+      "examples": [
+        {
+          "en": "There's none left.",
+          "zh": "没有剩余了。"
+        }
+      ]
+    },
+    {
+      "phrase": "be joking",
+      "usage": "在开玩笑",
+      "examples": [
+        {
+          "en": "She's only joking.",
+          "zh": "她只是在开玩笑。"
+        }
+      ]
+    },
+    {
+      "phrase": "nice and warm",
+      "usage": "暖和舒适的",
+      "examples": [
+        {
+          "en": "It's nice and warm out here.",
+          "zh": "外面很暖和舒适。"
+        }
+      ]
+    },
+    {
+      "phrase": "knock, knock",
+      "usage": "用于引起注意或开始讲笑话的拟声词",
+      "examples": [
+        {
+          "en": "Knock, knock!",
+          "zh": "咚咚咚！"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "否定疑问句 (Negative Questions)",
+      "definition": "由否定词not与助动词/系动词/情态动词构成的疑问句，用于表达惊讶、确认或期望肯定回答",
+      "structure": "Isn't/Don't/Can't + 主语 + ...?",
+      "usage": "表达惊讶或难以置信的语气，或期望对方确认",
+      "examples": [
+        {
+          "en": "Isn't there anyone at home?",
+          "zh": "难道没有人吗？"
+        }
+      ]
+    },
+    {
+      "title": "some和any的用法 (Some and Any)",
+      "definition": "some用于肯定句，any用于否定句和疑问句",
+      "structure": "some + 可数名词复数/不可数名词；any + 可数名词复数/不可数名词",
+      "usage": "表示一些/任意数量的某物",
+      "examples": [
+        {
+          "en": "Can you see anything?",
+          "zh": "你能看见什么东西吗？"
+        },
+        {
+          "en": "Everything's very quiet.",
+          "zh": "一切都很安静。"
+        }
+      ]
+    },
+    {
+      "title": "Let's 引导的建议句型 (Let's for Suggestions)",
+      "definition": "Let's = Let us，用于提出建议或邀请",
+      "structure": "Let's + 动词原形",
+      "usage": "建议一起做某事",
+      "examples": [
+        {
+          "en": "Let's try the back door.",
+          "zh": "我们试试后门吧。"
+        },
+        {
+          "en": "Let's have a drink.",
+          "zh": "我们喝一杯吧。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Isn't there + anyone/someone + at home?",
+      "original": {
+        "en": "Isn't there anyone at home?",
+        "zh": "难道没有人吗？"
+      },
+      "imitations": [
+        {
+          "en": "Isn't there any milk?",
+          "zh": "难道没有牛奶了吗？"
+        },
+        {
+          "en": "Isn't there anyone in the room?",
+          "zh": "难道房间里没有人吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "Can you see + anything/something?",
+      "original": {
+        "en": "Can you see anything?",
+        "zh": "你能看见什么吗？"
+      },
+      "imitations": [
+        {
+          "en": "Can you see anyone?",
+          "zh": "你能看见什么人吗？"
+        },
+        {
+          "en": "Can you see something in the box?",
+          "zh": "你能看见盒子里有什么东西吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "Let's + 动词原形",
+      "original": {
+        "en": "Let's try the back door.",
+        "zh": "我们试试后门吧。"
+      },
+      "imitations": [
+        {
+          "en": "Let's have lunch together.",
+          "zh": "我们一起吃午饭吧。"
+        },
+        {
+          "en": "Let's go to the garden.",
+          "zh": "我们去花园吧。"
+        }
+      ]
+    },
+    {
+      "pattern": "May I have + a glass of + 名词?",
+      "original": {
+        "en": "May I have a glass of beer please?",
+        "zh": "请给我一杯啤酒好吗？"
+      },
+      "imitations": [
+        {
+          "en": "May I have a glass of water?",
+          "zh": "请给我一杯水好吗？"
+        },
+        {
+          "en": "May I have some lemonade?",
+          "zh": "请给我一些柠檬水好吗？"
+        }
+      ]
+    }
+  ]
+}

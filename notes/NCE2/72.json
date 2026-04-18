@@ -1,0 +1,400 @@
+{
+  "book": "NCE2",
+  "lesson": "72",
+  "title": "What mistake was made?",
+  "vocabulary": [
+    {
+      "word": "racing",
+      "phonetic": "/ˈreɪsɪŋ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "赛车；竞赛",
+          "usage": "指速度竞赛活动"
+        },
+        {
+          "pos": "adjective",
+          "meaning": "赛车的",
+          "usage": "修饰名词，如racing driver"
+        }
+      ]
+    },
+    {
+      "word": "record",
+      "phonetic": "/ˈrekɔːd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "纪录；记录",
+          "usage": "指最佳成绩或官方记载"
+        },
+        {
+          "pos": "verb",
+          "meaning": "记录；记载",
+          "usage": "指把信息写下来或录制"
+        }
+      ]
+    },
+    {
+      "word": "speed",
+      "phonetic": "/spiːd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "速度",
+          "usage": "指物体运动的快慢程度"
+        }
+      ]
+    },
+    {
+      "word": "specially",
+      "phonetic": "/ˈspeʃəli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "专门地；特别地",
+          "usage": "表示为特定目的而做"
+        }
+      ]
+    },
+    {
+      "word": "engine",
+      "phonetic": "/ˈendʒɪn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "引擎；发动机",
+          "usage": "指提供动力的机械装置"
+        }
+      ]
+    },
+    {
+      "word": "difficulty",
+      "phonetic": "/ˈdɪfɪkəlti/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "困难；难题",
+          "usage": "指做某事时遇到的障碍"
+        }
+      ]
+    },
+    {
+      "word": "burst",
+      "phonetic": "/bɜːst/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "爆裂；爆胎",
+          "usage": "指突然破裂或爆炸"
+        }
+      ]
+    },
+    {
+      "word": "average",
+      "phonetic": "/ˈævərɪdʒ/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "平均的",
+          "usage": "指多个数值的中间值"
+        },
+        {
+          "pos": "noun",
+          "meaning": "平均数",
+          "usage": "指数值的平均"
+        }
+      ]
+    },
+    {
+      "word": "disappointed",
+      "phonetic": "/ˌdɪsəˈpɔɪntɪd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "失望的；沮丧的",
+          "usage": "指因期望落空而感到不开心"
+        }
+      ]
+    },
+    {
+      "word": "attempt",
+      "phonetic": "/əˈtempt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "尝试；努力",
+          "usage": "指试图做某事的行为"
+        },
+        {
+          "pos": "verb",
+          "meaning": "尝试；企图",
+          "usage": "指努力去做某事"
+        }
+      ]
+    },
+    {
+      "word": "reach",
+      "phonetic": "/riːtʃ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "达到；抵达",
+          "usage": "指到达某个地点或程度"
+        }
+      ]
+    },
+    {
+      "word": "control",
+      "phonetic": "/kənˈtrəʊl/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "控制；操纵",
+          "usage": "指对某物进行管理或支配"
+        }
+      ]
+    },
+    {
+      "word": "footstep",
+      "phonetic": "/ˈfʊtstep/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "脚步；足迹",
+          "usage": "follow in someone's footsteps表示继承某人的事业"
+        }
+      ]
+    },
+    {
+      "word": "horsepower",
+      "phonetic": "/ˈhɔːspaʊə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "马力",
+          "usage": "指发动机的功率单位"
+        }
+      ]
+    },
+    {
+      "word": "length",
+      "phonetic": "/leŋθ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "长度；距离",
+          "usage": "指物体从一端到另一端的距离"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "set up a new world record",
+      "usage": "创造新的世界纪录",
+      "examples": [
+        {
+          "en": "She set up a new world record in the 100-meter dash.",
+          "zh": "她在百米赛跑中创造了新的世界纪录。"
+        }
+      ]
+    },
+    {
+      "phrase": "have great difficulty in doing something",
+      "usage": "在做某事方面有很大困难",
+      "examples": [
+        {
+          "en": "He had great difficulty in controlling the car.",
+          "zh": "他在控制汽车方面有很大困难。"
+        }
+      ]
+    },
+    {
+      "phrase": "be disappointed to learn",
+      "usage": "失望地得知",
+      "examples": [
+        {
+          "en": "I was disappointed to learn that the concert was cancelled.",
+          "zh": "我失望地得知音乐会取消了。"
+        }
+      ]
+    },
+    {
+      "phrase": "reach speeds of over",
+      "usage": "达到超过...的速度",
+      "examples": [
+        {
+          "en": "The train can reach speeds of over 300 kilometers per hour.",
+          "zh": "这列火车可以达到每小时300公里以上的速度。"
+        }
+      ]
+    },
+    {
+      "phrase": "following in someone's footsteps",
+      "usage": "追随某人的脚步；继承衣钵",
+      "examples": [
+        {
+          "en": "She followed in her mother's footsteps and became a doctor.",
+          "zh": "她追随母亲的脚步，成为了一名医生。"
+        }
+      ]
+    },
+    {
+      "phrase": "drive at over",
+      "usage": "以超过...的速度驾驶",
+      "examples": [
+        {
+          "en": "The racing car drove at over 200 miles per hour.",
+          "zh": "这辆赛车以超过每小时200英里的速度行驶。"
+        }
+      ]
+    },
+    {
+      "phrase": "a few days later",
+      "usage": "几天后",
+      "examples": [
+        {
+          "en": "A few days later, we received the good news.",
+          "zh": "几天后，我们收到了好消息。"
+        }
+      ]
+    },
+    {
+      "phrase": "be specially built for",
+      "usage": "为...专门建造",
+      "examples": [
+        {
+          "en": "This car was specially built for the racing competition.",
+          "zh": "这辆车是为赛车比赛专门建造的。"
+        }
+      ]
+    },
+    {
+      "phrase": "although...+主语+动词",
+      "usage": "虽然...但是...",
+      "examples": [
+        {
+          "en": "Although it was raining, we still went out.",
+          "zh": "虽然下雨了，但我们还是出去了。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去完成时 (Past Perfect Tense)",
+      "definition": "表示在过去某一时刻之前已经完成的动作，或称为\"过去的过去\"",
+      "structure": "主语 + had + 过去分词",
+      "usage": "用于描述两个发生在过去的动作，先发生的动作用过去完成时，后发生的动作用一般过去时",
+      "examples": [
+        {
+          "en": "He was disappointed because his average speed had been 299 miles per hour.",
+          "zh": "他很失望，因为他的平均速度是299英里/小时。"
+        },
+        {
+          "en": "A few days later, he was told that a mistake had been made.",
+          "zh": "几天后，有人告诉他一个错误已经犯了。"
+        }
+      ]
+    },
+    {
+      "title": " although 引导的让步状语从句",
+      "definition": "although引导让步状语从句，表示\"虽然...但是...\"",
+      "structure": "Although + 主语 + 动词(从句), 主语 + 动词(主句)",
+      "usage": "although引导的从句放在句首，修饰主句的转折关系。注意：although和but不能同时使用",
+      "examples": [
+        {
+          "en": "Although Campbell reached a speed of over 304 miles per hour, he had great difficulty in controlling the car.",
+          "zh": "虽然坎贝尔达到了每小时304英里以上的速度，但他很难控制汽车。"
+        }
+      ]
+    },
+    {
+      "title": "被动语态 (Passive Voice)",
+      "definition": "当动作的承受者作为句子的主语时，使用被动语态",
+      "structure": "主语 + be + 过去分词 (+ by + 动作执行者)",
+      "usage": "用于强调动作的承受者或不知道动作执行者时",
+      "examples": [
+        {
+          "en": "Bluebird had been specially built for him.",
+          "zh": "蓝鸟号是专门为他建造的。"
+        },
+        {
+          "en": "He was told that a mistake had been made.",
+          "zh": "有人告诉他犯了一个错误。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "主语 + was/were + 形容词 + to do something",
+      "original": {
+        "en": "Campbell was disappointed to learn that his average speed had been 299 miles per hour.",
+        "zh": "坎贝尔失望地得知他的平均速度是299英里/小时。"
+      },
+      "imitations": [
+        {
+          "en": "She was happy to hear the good news.",
+          "zh": "她高兴地听到这个消息。"
+        },
+        {
+          "en": "I was surprised to see him there.",
+          "zh": "我很惊讶在那里见到他。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + set up + a + 形容词 + world record + 时间/地点",
+      "original": {
+        "en": "He set up a new world record in September 1935 at Bonneville Salt Flats, Utah.",
+        "zh": "1935年9月，他在犹他州的博纳维尤盐沼创造了新的世界纪录。"
+      },
+      "imitations": [
+        {
+          "en": "She set up a new world record in the Olympic Games.",
+          "zh": "她在奥运会上创造了新的世界纪录。"
+        },
+        {
+          "en": "He set up a new record at the age of 25.",
+          "zh": "他在25岁时创造了新的纪录。"
+        }
+      ]
+    },
+    {
+      "pattern": "although + 主语 + 动词..., 主语 + 动词...",
+      "original": {
+        "en": "Although Campbell reached a speed of over 304 miles per hour, he had great difficulty in controlling the car.",
+        "zh": "虽然坎贝尔达到了每小时304英里以上的速度，但他很难控制汽车。"
+      },
+      "imitations": [
+        {
+          "en": "Although it was very cold, we went swimming.",
+          "zh": "虽然天气很冷，我们还是去游泳了。"
+        },
+        {
+          "en": "Although she studied hard, she failed the exam.",
+          "zh": "虽然她学习很努力，但她考试没通过。"
+        }
+      ]
+    },
+    {
+      "pattern": "Following in someone's footsteps, 主语 + 动词",
+      "original": {
+        "en": "Following in his father's footsteps many years later, Sir Malcolm's son also set up a world record.",
+        "zh": "多年后，继承父亲的衣钵，坎贝尔爵士的儿子也创造了世界纪录。"
+      },
+      "imitations": [
+        {
+          "en": "Following in her teacher's footsteps, she became a professor.",
+          "zh": "继承她老师的衣钵，她成为了一名教授。"
+        },
+        {
+          "en": "Following in his brother's footsteps, he joined the army.",
+          "zh": "追随他哥哥的脚步，他参了军。"
+        }
+      ]
+    }
+  ]
+}

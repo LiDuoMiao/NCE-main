@@ -1,0 +1,345 @@
+{
+  "book": "NCE4",
+  "lesson": "39",
+  "title": "Lesson 39",
+  "vocabulary": [
+    {
+      "word": "confess",
+      "phonetic": "/kənˈfes/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "承认；坦白",
+          "usage": "指坦率承认自己的过错、秘密或真实想法，后可接that从句、to doing sth结构"
+        }
+      ]
+    },
+    {
+      "word": "radical",
+      "phonetic": "/ˈrædɪkl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "根本的；彻底的",
+          "usage": "强调变化、差异等程度极深，涉及事物的本质层面"
+        },
+        {
+          "pos": "noun",
+          "meaning": "激进分子",
+          "usage": "指主张极端社会或政治变革的人"
+        }
+      ]
+    },
+    {
+      "word": "reset",
+      "phonetic": "/ˌriːˈset/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "重新设置；重写",
+          "usage": "可表示调整设备参数、重新安排计划，也可指对文学作品内容进行大幅调整"
+        }
+      ]
+    },
+    {
+      "word": "discern",
+      "phonetic": "/dɪˈsɜːn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "辨明；觉察出",
+          "usage": "指经过仔细观察、思考后识别出原本模糊或隐藏的事物"
+        }
+      ]
+    },
+    {
+      "word": "indescribable",
+      "phonetic": "/ˌɪndɪˈskraɪbəbl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "难以形容的；无法描述的",
+          "usage": "用于修饰感受、景象等强烈到难以用语言表达的事物"
+        }
+      ]
+    },
+    {
+      "word": "fascination",
+      "phonetic": "/ˌfæsɪˈneɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "魅力；入迷",
+          "usage": "不可数名词，可表示事物本身的吸引力，也可指人对某物的着迷状态，后常接介词for/with"
+        }
+      ]
+    },
+    {
+      "word": "blurred",
+      "phonetic": "/blɜːd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "模糊不清的",
+          "usage": "可形容图像、边界等视觉上的模糊，也可指记忆、概念等抽象事物的不清晰"
+        }
+      ]
+    },
+    {
+      "word": "fathom",
+      "phonetic": "/ˈfæðəm/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "透彻理解；弄清",
+          "usage": "强调理解复杂、神秘的事物，常用于否定句或疑问句中"
+        },
+        {
+          "pos": "noun",
+          "meaning": "英寻（测量水深单位，约合1.8米）",
+          "usage": "航海领域的长度单位"
+        }
+      ]
+    },
+    {
+      "word": "interminably",
+      "phonetic": "/ɪnˈtɜːmɪnəbli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "没完没了地；冗长地",
+          "usage": "带有贬义，修饰持续时间过长、让人厌烦的动作"
+        }
+      ]
+    },
+    {
+      "word": "pertinent",
+      "phonetic": "/ˈpɜːtɪnənt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "相关的；中肯的",
+          "usage": "指言论、问题等与讨论的主题直接相关且有价值，后常接介词to"
+        }
+      ]
+    },
+    {
+      "word": "anarchy",
+      "phonetic": "/ˈænəki/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "混乱；无政府状态",
+          "usage": "可指社会缺乏政府管控的混乱状态，也可形容抽象事物的无序状态"
+        }
+      ]
+    },
+    {
+      "word": "ruthless",
+      "phonetic": "/ˈruːθləs/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "无情的；严格的",
+          "usage": "可形容人冷漠绝情，也可形容规则、标准等非常严苛没有转圜余地"
+        }
+      ]
+    },
+    {
+      "word": "inmost",
+      "phonetic": "/ˈɪnməʊst/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "内心深处的；最深处的",
+          "usage": "用于修饰想法、感受、地点等处于最核心、最隐秘的位置"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "set pen to paper",
+      "usage": "表示开始写作、动笔的固定表达，语体偏正式",
+      "examples": [
+        {
+          "en": "She had been planning the story for months before she finally set pen to paper.",
+          "zh": "她为这个故事构思了好几个月，才终于动笔开始写。"
+        }
+      ]
+    },
+    {
+      "phrase": "pass for",
+      "usage": "表示“被当作；被误认为”，强调事物和实际标准有差距但被当成合格的或真实的",
+      "examples": [
+        {
+          "en": "In this small town, a simple meal of noodles and eggs passes for a luxury.",
+          "zh": "在这个小镇里，一顿简单的鸡蛋面都被当成奢侈的食物。"
+        }
+      ]
+    },
+    {
+      "phrase": "to my certain knowledge",
+      "usage": "插入语，意为“据我所知”，强调说话者对所说内容的真实性十分确定",
+      "examples": [
+        {
+          "en": "To my certain knowledge, he has never lied to anyone in the team.",
+          "zh": "据我所知，他从来没有对团队里的任何人撒过谎。"
+        }
+      ]
+    },
+    {
+      "phrase": "begin afresh",
+      "usage": "表示“重新开始；从头再来”，强调抛开之前的积累或错误重头做起",
+      "examples": [
+        {
+          "en": "After the failure of his first business, he moved to another city to begin afresh.",
+          "zh": "第一次创业失败后，他搬到了另一个城市从头开始。"
+        }
+      ]
+    },
+    {
+      "phrase": "winkle out",
+      "usage": "表示“挖掘出；费尽周折找出”，指付出努力得到隐藏的信息或事物",
+      "examples": [
+        {
+          "en": "The journalist spent three months trying to winkle out the truth behind the scandal.",
+          "zh": "这名记者花了三个月的时间，试图挖出这起丑闻背后的真相。"
+        }
+      ]
+    },
+    {
+      "phrase": "might as well",
+      "usage": "表示“倒不如；不妨”，用于建议做某事，或强调两种情况结果差不多、都没有意义",
+      "examples": [
+        {
+          "en": "Since the train is delayed for two hours, we might as well go to the café nearby to wait.",
+          "zh": "既然火车晚点了两个小时，我们倒不如去附近的咖啡馆等着。"
+        }
+      ]
+    },
+    {
+      "phrase": "take time off",
+      "usage": "表示“抽出时间；暂时放下（手头的事）”，后可接from sth说明停下的事情",
+      "examples": [
+        {
+          "en": "He decided to take time off from work to spend more time with his sick mother.",
+          "zh": "他决定暂时放下工作，花更多时间陪伴生病的母亲。"
+        }
+      ]
+    },
+    {
+      "phrase": "at its inmost point",
+      "usage": "表示“在其最核心处；在最深处”，用于描述事物或情感的本质层面",
+      "examples": [
+        {
+          "en": "The poem touches the vulnerability at the inmost point of human nature.",
+          "zh": "这首诗触及了人性最深处的脆弱。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "定语从句的连用",
+      "definition": "当先行词同时被多个定语从句修饰时，多个定语从句可以并列连接，共同限定先行词的范围",
+      "structure": "先行词 + 定语从句1 + and + 定语从句2",
+      "usage": "用于从多个角度描述同一个先行词，丰富先行词的信息",
+      "examples": [
+        {
+          "en": "but those I have known and whom I respect, confess at once that they have little idea where they are going when they first set pen to paper.",
+          "zh": "但我所认识的、我所尊敬的那些作家，都立刻承认他们刚动笔的时候，根本不知道自己要写什么。"
+        },
+        {
+          "en": "The books that my father collected and which he kept for years were all donated to the village library.",
+          "zh": "我父亲收集的、珍藏了很多年的那些书，全都捐给了乡村图书馆。"
+        }
+      ]
+    },
+    {
+      "title": "as引导的方式状语从句",
+      "definition": "as引导方式状语从句时，意为“正如；按照”，用于说明主从句动作的方式一致",
+      "structure": "主句 + as + 从句",
+      "usage": "常用来引出人们已知的事实、常规做法等，和主句的内容形成对比或参照",
+      "examples": [
+        {
+          "en": "I never heard of anyone making a 'skeleton', as we were taught at school.",
+          "zh": "我从来没听说过有人像我们在学校里被教的那样，先写个“提纲”。"
+        },
+        {
+          "en": "Please do the experiment as the teacher demonstrated in class.",
+          "zh": "请按照老师课上演示的那样做这个实验。"
+        }
+      ]
+    },
+    {
+      "title": "which引导的非限制性定语从句",
+      "definition": "非限制性定语从句用来对先行词或者整个主句的内容进行补充说明，和主句之间用逗号隔开，去掉从句后主句意思依然完整",
+      "structure": "主句, which + 从句内容",
+      "usage": "用于补充额外信息，which可以指代前面的单个名词，也可以指代整个主句的内容",
+      "examples": [
+        {
+          "en": "This organic process, often leading to moments of extraordinary self-discovery, is of an indescribable fascination.",
+          "zh": "这种有机的过程，常常会带来非同寻常的自我发现时刻，有着难以形容的魅力。"
+        },
+        {
+          "en": "She finally passed the driving test, which made her whole family very happy.",
+          "zh": "她终于通过了驾照考试，这让她全家人都很高兴。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "I have known very few + 名词, but those I have known and whom I respect, confess at once that + 从句",
+      "original": {
+        "en": "I have known very few writers, but those I have known and whom I respect, confess at once that they have little idea where they are going when they first set pen to paper.",
+        "zh": "我认识的作家很少，但我所认识的、我所尊敬的那些作家，都立刻承认他们刚动笔的时候，根本不知道自己要写什么。"
+      },
+      "imitations": [
+        {
+          "en": "I have known very few traditional craftsmen, but those I have known and whom I respect, confess at once that they spend at least three years mastering the basic skills.",
+          "zh": "我认识的传统手艺人很少，但我所认识的、我所尊敬的那些手艺人，都立刻承认他们要花至少三年时间才能掌握基础技艺。"
+        },
+        {
+          "en": "I have known very few successful entrepreneurs, but those I have known and whom I respect, confess at once that they have faced countless failures before achieving their goals.",
+          "zh": "我认识的成功企业家很少，但我所认识的、我所尊敬的那些企业家，都立刻承认他们在达成目标前曾遭遇过无数次失败。"
+        }
+      ]
+    },
+    {
+      "pattern": "For the same reason, + 主句内容, doing sth, to do sth, begging response from sb",
+      "original": {
+        "en": "For the same reason, writers talk interminably about their own books, winkling out hidden meanings, super-imposing new ones, begging response from those around them.",
+        "zh": "出于同样的原因，作家们没完没了地谈论自己的书，挖掘其中隐藏的含义，叠加新的解读，渴望从身边的人那里得到回应。"
+      },
+      "imitations": [
+        {
+          "en": "For the same reason, young designers talk excitedly about their new works, explaining their original ideas, adjusting details according to feedback, begging recognition from the audience.",
+          "zh": "出于同样的原因，年轻的设计师们兴奋地谈论自己的新作品，解释他们的原创理念，根据反馈调整细节，渴望得到观众的认可。"
+        },
+        {
+          "en": "For the same reason, students share their creative projects in class, showing the process of exploration, pointing out the innovations of their work, begging advice from the teacher.",
+          "zh": "出于同样的原因，学生们在课堂上分享自己的创意项目，展示探索的过程，指出作品的创新之处，渴望得到老师的建议。"
+        }
+      ]
+    },
+    {
+      "pattern": "A + 身份名词 + made the pertinent observation + 时间状语 that + 观察结论",
+      "original": {
+        "en": "A young English writer made the pertinent observation a year or two back that the talent goes into the first draft, and the art into the drafts that follow.",
+        "zh": "一两年前，一位年轻的英国作家给出了一个中肯的看法：才华体现在初稿里，而艺术则体现在后续的修改稿中。"
+      },
+      "imitations": [
+        {
+          "en": "A senior education expert made the pertinent observation last year that the core of quality education is to cultivate children's ability to learn independently.",
+          "zh": "去年，一位资深的教育专家给出了一个中肯的看法：素质教育的核心是培养孩子自主学习的能力。"
+        },
+        {
+          "en": "A famous environmental scientist made the pertinent observation a few months ago that reducing single-use plastic is more effective than recycling in controlling plastic pollution.",
+          "zh": "几个月前，一位著名的环境科学家给出了一个中肯的看法：在治理塑料污染方面，减少一次性塑料的使用比回收更有效。"
+        }
+      ]
+    }
+  ]
+}

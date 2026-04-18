@@ -1,0 +1,394 @@
+{
+  "book": "NCE2",
+  "lesson": "60",
+  "title": "Does what Madam Bellinsky said come true?",
+  "vocabulary": [
+    {
+      "word": "fortune-teller",
+      "phonetic": "/ˈfɔːtʃuːn ˌtelər/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "算命者；占卜师",
+          "usage": "指给人算命或预测未来的人"
+        }
+      ]
+    },
+    {
+      "word": "fair",
+      "phonetic": "/feər/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "集市；庙会",
+          "usage": "露天的商品交易或娱乐活动集会"
+        }
+      ]
+    },
+    {
+      "word": "relation",
+      "phonetic": "/rɪˈleɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "亲戚；关系",
+          "usage": "指家庭成员或亲戚关系"
+        }
+      ]
+    },
+    {
+      "word": "crystal ball",
+      "phonetic": "/ˈkrɪstl bɔːl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "水晶球",
+          "usage": "算命者用来预测未来的工具"
+        }
+      ]
+    },
+    {
+      "word": "tent",
+      "phonetic": "/tent/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "帐篷",
+          "usage": "用帆布等搭建的临时住所"
+        }
+      ]
+    },
+    {
+      "word": "impatiently",
+      "phonetic": "/ɪmˈpeɪʃntli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "不耐烦地",
+          "usage": "形容急切或缺乏耐心的样子"
+        }
+      ]
+    },
+    {
+      "word": "intend",
+      "phonetic": "/ɪnˈtend/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "打算；计划",
+          "usage": "表示有意去做某事"
+        }
+      ]
+    },
+    {
+      "word": "lead",
+      "phonetic": "/liːd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "引导；带领",
+          "usage": "指引某人去某处"
+        }
+      ]
+    },
+    {
+      "word": "hurry",
+      "phonetic": "/ˈhʌri/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "匆忙；赶紧",
+          "usage": "表示快速移动或匆忙做事"
+        }
+      ]
+    },
+    {
+      "word": "hide",
+      "phonetic": "/haɪd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "躲藏；隐藏",
+          "usage": "指把自己藏起来不让别人发现"
+        }
+      ]
+    },
+    {
+      "word": "forget",
+      "phonetic": "/fəˈɡet/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "忘记",
+          "usage": "指不记得某事或某人"
+        }
+      ]
+    },
+    {
+      "word": "surprise",
+      "phonetic": "/səˈpraɪz/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "惊讶；惊喜",
+          "usage": "指出乎意料的事情"
+        }
+      ]
+    },
+    {
+      "word": "rush",
+      "phonetic": "/rʌʃ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "冲；奔",
+          "usage": "指快速移动或匆忙行动"
+        }
+      ]
+    },
+    {
+      "word": "moment",
+      "phonetic": "/ˈməʊmənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "时刻；瞬间",
+          "usage": "指某个具体的时间点"
+        }
+      ]
+    },
+    {
+      "word": "arrive",
+      "phonetic": "/əˈraɪv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "到达",
+          "usage": "指到达某个地方"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "decide to",
+      "usage": "决定做某事",
+      "examples": [
+        {
+          "en": "I decided to visit a fortune-teller.",
+          "zh": "我决定去拜访一位算命师。"
+        }
+      ]
+    },
+    {
+      "phrase": "look into",
+      "usage": "向...里面看；调查",
+      "examples": [
+        {
+          "en": "She looked into a crystal ball.",
+          "zh": "她向水晶球里面看。"
+        }
+      ]
+    },
+    {
+      "phrase": "as soon as",
+      "usage": "一...就...",
+      "examples": [
+        {
+          "en": "As soon as I went outside, I forgot all about Madam Bellinsky.",
+          "zh": "我一走出帐篷，就把贝琳斯基夫人忘得一干二净。"
+        }
+      ]
+    },
+    {
+      "phrase": "forget all about",
+      "usage": "完全忘记",
+      "examples": [
+        {
+          "en": "I forgot all about Madam Bellinsky.",
+          "zh": "我把贝琳斯基夫人忘得一干二净。"
+        }
+      ]
+    },
+    {
+      "phrase": "hurry towards",
+      "usage": "匆忙走向",
+      "examples": [
+        {
+          "en": "My wife hurried towards me.",
+          "zh": "我妻子匆忙向我走来。"
+        }
+      ]
+    },
+    {
+      "phrase": "in less than",
+      "usage": "不到；少于",
+      "examples": [
+        {
+          "en": "Your sister will be here in less than an hour.",
+          "zh": "你姐姐不到一个小时就到了。"
+        }
+      ]
+    },
+    {
+      "phrase": "lead away",
+      "usage": "带离",
+      "examples": [
+        {
+          "en": "She will lead you away from this place.",
+          "zh": "她会把你从这个地方带走。"
+        }
+      ]
+    },
+    {
+      "phrase": "stay for",
+      "usage": "停留（一段时间）",
+      "examples": [
+        {
+          "en": "She intends to stay for a few days.",
+          "zh": "她打算待几天。"
+        }
+      ]
+    },
+    {
+      "phrase": "walk away",
+      "usage": "走开",
+      "examples": [
+        {
+          "en": "As she walked away, I followed her.",
+          "zh": "她走开时，我跟在她后面。"
+        }
+      ]
+    },
+    {
+      "phrase": "be at the station",
+      "usage": "在车站",
+      "examples": [
+        {
+          "en": "We must be at the station to meet her.",
+          "zh": "我们必须在车站接她。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去完成时 (Past Perfect Tense)",
+      "definition": "表示在过去某一时刻之前已经完成的动作，强调动作的先后顺序",
+      "structure": "主语 + had + 过去分词",
+      "usage": "用于描述两个过去的动作，先发生的动作用过去完成时，后发生的动作用一般过去时",
+      "examples": [
+        {
+          "en": "After I had given her some money, she looked into a crystal ball.",
+          "zh": "我给她一些钱之后，她看向水晶球。"
+        },
+        {
+          "en": "After she had finished her work, she went home.",
+          "zh": "她完成工作后回家了。"
+        }
+      ]
+    },
+    {
+      "title": "be going to 表示意图 (Future Intention)",
+      "definition": "表示已经计划好或决定好的将来意图",
+      "structure": "主语 + be going to + 动词原形",
+      "usage": "用于表达主语已经决定要做的事情，带有计划性",
+      "examples": [
+        {
+          "en": "She intends to stay for a few days.",
+          "zh": "她打算待几天。"
+        },
+        {
+          "en": "We are going to be at the station.",
+          "zh": "我们打算在车站。"
+        }
+      ]
+    },
+    {
+      "title": "时间状语从句 (Time Clause)",
+      "definition": "用连词引导的状语从句，说明动作发生的时间",
+      "structure": "连词 + 主语 + 动词",
+      "usage": "as soon as, the moment, after, before 等引导时间状语从句，主句用一般将来时，从句用一般现在时",
+      "examples": [
+        {
+          "en": "The moment you leave this tent, you will get a big surprise.",
+          "zh": "你一离开这个帐篷，你就会得到一个大惊喜。"
+        },
+        {
+          "en": "As soon as I went outside, I forgot all about Madam Bellinsky.",
+          "zh": "我一走出帐篷，就把贝琳斯基夫人忘得一干二净。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "A relation of yours is coming to see you.",
+      "original": {
+        "en": "A relation of yours is coming to see you.",
+        "zh": "你的一个亲戚要来看你。"
+      },
+      "imitations": [
+        {
+          "en": "A friend of yours is waiting for you.",
+          "zh": "你的一个朋友在等你。"
+        },
+        {
+          "en": "A colleague of mine is traveling to London.",
+          "zh": "我的一位同事要去伦敦。"
+        }
+      ]
+    },
+    {
+      "pattern": "Where have you been hiding?",
+      "original": {
+        "en": "Where have you been hiding?",
+        "zh": "你躲到哪里去了？"
+      },
+      "imitations": [
+        {
+          "en": "Where have you been staying?",
+          "zh": "你一直待在哪里？"
+        },
+        {
+          "en": "Where has she been working?",
+          "zh": "她一直在哪里工作？"
+        }
+      ]
+    },
+    {
+      "pattern": "The moment you leave...",
+      "original": {
+        "en": "The moment you leave this tent, you will get a big surprise.",
+        "zh": "你一离开这个帐篷，你就会得到一个大惊喜。"
+      },
+      "imitations": [
+        {
+          "en": "The moment you open the door, you will see the gift.",
+          "zh": "你一打开门，就会看到礼物。"
+        },
+        {
+          "en": "The moment he arrived, it started to rain.",
+          "zh": "他一到，就开始下雨了。"
+        }
+      ]
+    },
+    {
+      "pattern": "After + 过去完成时, 主语 + 一般过去时",
+      "original": {
+        "en": "After I had given her some money, she looked into a crystal ball.",
+        "zh": "我给她一些钱之后，她看向水晶球。"
+      },
+      "imitations": [
+        {
+          "en": "After I had finished dinner, I watched TV.",
+          "zh": "我吃完晚饭后，看了电视。"
+        },
+        {
+          "en": "After she had called me, I went to the office.",
+          "zh": "她给我打电话后，我去了办公室。"
+        }
+      ]
+    }
+  ]
+}

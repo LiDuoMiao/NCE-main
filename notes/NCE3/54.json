@@ -1,0 +1,394 @@
+{
+  "book": "NCE3",
+  "lesson": "54",
+  "title": "Lesson 54",
+  "vocabulary": [
+    {
+      "word": "instinct",
+      "phonetic": "/ˈɪnstɪŋkt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "本能",
+          "usage": "指人或动物天生的、不需要学习的行为反应"
+        }
+      ]
+    },
+    {
+      "word": "contaminate",
+      "phonetic": "/kənˈtæmɪneɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "污染，弄脏",
+          "usage": "指对食物、环境等造成污染"
+        }
+      ]
+    },
+    {
+      "word": "provocation",
+      "phonetic": "/ˌprɒvəˈkeɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "挑衅，激怒",
+          "usage": "指引起愤怒或不满的行为"
+        }
+      ]
+    },
+    {
+      "word": "revulsion",
+      "phonetic": "/rɪˈvʌlʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "厌恶，反感",
+          "usage": "指对令人不快事物的强烈反感"
+        }
+      ]
+    },
+    {
+      "word": "industrious",
+      "phonetic": "/ɪnˈdʌstriəs/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "勤劳的，勤奋的",
+          "usage": "形容人工作努力、不知疲倦"
+        }
+      ]
+    },
+    {
+      "word": "horde",
+      "phonetic": "/hɔːd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "群，一大群",
+          "usage": "通常指移动中的一大群人或动物，带贬义"
+        }
+      ]
+    },
+    {
+      "word": "uncanny",
+      "phonetic": "/ʌnˈkæni/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "离奇的，不可思议的",
+          "usage": "形容超出寻常、令人惊讶的事物"
+        }
+      ]
+    },
+    {
+      "word": "entranced",
+      "phonetic": "/ɪnˈtrɑːnst/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "着迷的，入迷的",
+          "usage": "形容被某事物吸引、沉迷其中"
+        }
+      ]
+    },
+    {
+      "word": "shelter",
+      "phonetic": "/ˈʃeltə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "遮蔽，庇护所",
+          "usage": "指可以遮风挡雨的地方或保护"
+        }
+      ]
+    },
+    {
+      "word": "wither",
+      "phonetic": "/ˈwɪðə(r)/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "枯萎，凋谢",
+          "usage": "指植物因缺水或衰老而枯萎"
+        }
+      ]
+    },
+    {
+      "word": "aphides",
+      "phonetic": "/ˈæfɪdiːz/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "蚜虫（复数）",
+          "usage": "一种吸食植物汁液的害虫"
+        }
+      ]
+    },
+    {
+      "word": "scurry",
+      "phonetic": "/ˈskʌri/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "急促奔跑",
+          "usage": "指小步快速移动，常带慌张含义"
+        }
+      ]
+    },
+    {
+      "word": "swarm",
+      "phonetic": "/swɔːm/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "蜂拥，挤满",
+          "usage": "指大量昆虫或人聚集移动"
+        }
+      ]
+    },
+    {
+      "word": "ingenuity",
+      "phonetic": "/ˌɪndʒɪˈnjuːəti/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "独创力，聪明才智",
+          "usage": "指解决问题的巧妙方法和创新能力"
+        }
+      ]
+    },
+    {
+      "word": "luscious",
+      "phonetic": "/ˈlʌʃəs/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "美味的，甘美的",
+          "usage": "形容食物或水果味道甜美诱人"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "do more harm than good",
+      "usage": "表示某事弊大于利",
+      "examples": [
+        {
+          "en": "We regard them as unnecessary creatures that do more harm than good.",
+          "zh": "我们认为它们是无用的生物，弊大于利。"
+        }
+      ]
+    },
+    {
+      "phrase": "wage war on",
+      "usage": "对...发动战争/发起攻势",
+      "examples": [
+        {
+          "en": "We continually wage war on them, for they contaminate our food.",
+          "zh": "我们不断地对它们发动战争，因为它们污染我们的食物。"
+        }
+      ]
+    },
+    {
+      "phrase": "without provocation",
+      "usage": "无缘无故地，无端地",
+      "examples": [
+        {
+          "en": "They sting or bite without provocation.",
+          "zh": "它们无缘无故地蜇人或咬人。"
+        }
+      ]
+    },
+    {
+      "phrase": "be filled with revulsion",
+      "usage": "充满厌恶感",
+      "examples": [
+        {
+          "en": "Knowing that the industrious ant lives in a highly organized society does nothing to prevent us from being filled with revulsion.",
+          "zh": "尽管知道勤劳的蚂蚁生活在高度组织化的社会中，这并不能阻止我们对它们产生厌恶感。"
+        }
+      ]
+    },
+    {
+      "phrase": "stand in awe",
+      "usage": "敬畏地站着，肃然起敬",
+      "examples": [
+        {
+          "en": "Who has not stood in awe at the sight of a spider pouncing on a fly?",
+          "zh": "看到蜘蛛扑向苍蝇时，谁没有敬畏地驻足观看？"
+        }
+      ]
+    },
+    {
+      "phrase": "pounce on",
+      "usage": "猛扑，突然袭击",
+      "examples": [
+        {
+          "en": "Who has not stood in awe at the sight of a spider pouncing on a fly?",
+          "zh": "看到蜘蛛扑向苍蝇时，谁没有敬畏地驻足观看？"
+        }
+      ]
+    },
+    {
+      "phrase": "embark on",
+      "usage": "开始从事，着手进行",
+      "examples": [
+        {
+          "en": "I immediately embarked on an experiment.",
+          "zh": "我立刻着手进行一项实验。"
+        }
+      ]
+    },
+    {
+      "phrase": "give up in despair",
+      "usage": "绝望地放弃",
+      "examples": [
+        {
+          "en": "I got up early next morning hoping to find that the ants had given up in despair.",
+          "zh": "第二天一大早我起床，希望发现蚂蚁已经绝望地放弃了。"
+        }
+      ]
+    },
+    {
+      "phrase": "discover a new route",
+      "usage": "发现新的路线",
+      "examples": [
+        {
+          "en": "Instead, I saw that they had discovered a new route.",
+          "zh": "然而，我发现它们已经找到了一条新的路线。"
+        }
+      ]
+    },
+    {
+      "phrase": "find an answer to",
+      "usage": "找到...的答案/解决办法",
+      "examples": [
+        {
+          "en": "The ants had been quick to find an answer to my thoroughly unscientific methods!",
+          "zh": "蚂蚁很快就找到了对付我完全不科学的方法的答案！"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "现在完成进行时 (Present Perfect Continuous)",
+      "definition": "表示从过去开始一直持续到现在并且可能继续下去的动作，常与all morning/afternoon, for hours, since等时间状语连用",
+      "structure": "have/has + been + 动词-ing形式",
+      "usage": "强调动作的持续性、反复性或持续产生的结果",
+      "examples": [
+        {
+          "en": "We have been brought up to fear insects.",
+          "zh": "我们从小就被教育要害怕昆虫。"
+        },
+        {
+          "en": "I have been learning English for five years.",
+          "zh": "我已经学英语五年了。"
+        }
+      ]
+    },
+    {
+      "title": "让步状语从句 (Concessive Clause)",
+      "definition": "表示虽然存在某种情况，但主句的动作或状态仍然成立",
+      "structure": "even though / even if / although / though + 从句；no matter how + 从句",
+      "usage": "用于表达转折关系，强调尽管存在困难或相反情况",
+      "examples": [
+        {
+          "en": "No matter how much we like honey, or how much we have read about the uncanny sense of direction which bees possess, we have a horror of being stung.",
+          "zh": "无论我们多么喜欢蜂蜜，或者我们读过多少关于蜜蜂具有不可思议的方向感的文章，我们仍然害怕被蜇。"
+        },
+        {
+          "en": "Even though it failed to get rid of the ants, it kept me fascinated.",
+          "zh": "虽然它没能消灭蚂蚁，但它让我着迷了24个小时。"
+        }
+      ]
+    },
+    {
+      "title": "双重否定疑问句 (Negative Question)",
+      "definition": "用否定形式提问，但期望得到肯定回答，表示强调",
+      "structure": "Who/What + has not + 动词...?(谁能不...呢?)",
+      "usage": "用于反问，强调说话人认为大家都会有某种感受或行为",
+      "examples": [
+        {
+          "en": "Who has not stood in awe at the sight of a spider pouncing on a fly?",
+          "zh": "看到蜘蛛扑向苍蝇时，谁没有敬畏地驻足观看？"
+        },
+        {
+          "en": "Who has not experienced this feeling?",
+          "zh": "谁没有体验过这种感觉呢？"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "No matter how + much/how/形容词..., + 主句",
+      "original": {
+        "en": "No matter how much we like honey, or how much we have read about the uncanny sense of direction which bees possess, we have a horror of being stung.",
+        "zh": "无论我们多么喜欢蜂蜜，或者我们读过多少关于蜜蜂不可思议的方向感的文章，我们仍然害怕被蜇。"
+      },
+      "imitations": [
+        {
+          "en": "No matter how hard I tried, I couldn't solve the problem.",
+          "zh": "无论我多么努力，我都无法解决这个问题。"
+        },
+        {
+          "en": "No matter how expensive the phone is, people will buy it.",
+          "zh": "无论手机多贵，人们都会买。"
+        }
+      ]
+    },
+    {
+      "pattern": "We have been + 过去分词 + to + 动词原形",
+      "original": {
+        "en": "We have been brought up to fear insects.",
+        "zh": "我们从小就被教育要害怕昆虫。"
+      },
+      "imitations": [
+        {
+          "en": "We have been taught to respect the elderly.",
+          "zh": "我们从小就被教导要尊重老人。"
+        },
+        {
+          "en": "Children have been encouraged to read more books.",
+          "zh": "孩子们一直被鼓励多读书。"
+        }
+      ]
+    },
+    {
+      "pattern": "Who has not + 过去分词 + at the sight of...?",
+      "original": {
+        "en": "Who has not stood in awe at the sight of a spider pouncing on a fly?",
+        "zh": "看到蜘蛛扑向苍蝇时，谁没有敬畏地驻足观看？"
+      },
+      "imitations": [
+        {
+          "en": "Who has not felt surprised at the news?",
+          "zh": "听到这个消息时，谁没有感到惊讶？"
+        },
+        {
+          "en": "Who has not experienced loneliness in a foreign country?",
+          "zh": "在异国他乡时，谁没有经历过孤独？"
+        }
+      ]
+    },
+    {
+      "pattern": "...which/who + 从句, + 主句",
+      "original": {
+        "en": "I am especially proud of it, not only because it has survived several severe winters, but because it occasionally produces luscious peaches.",
+        "zh": "我特别为它感到骄傲，不仅因为它度过了几个严冬，而且因为它偶尔会结出甘美的桃子。"
+      },
+      "imitations": [
+        {
+          "en": "I love this city, not only because it has beautiful scenery, but because the people are friendly.",
+          "zh": "我爱这座城市，不仅因为它有美丽的风景，而且因为人们很友好。"
+        },
+        {
+          "en": "She is a good teacher, not only because she is patient, but because she is passionate.",
+          "zh": "她是一位好老师，不仅因为她有耐心，而且因为她充满热情。"
+        }
+      ]
+    }
+  ]
+}

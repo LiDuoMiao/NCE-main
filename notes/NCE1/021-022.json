@@ -1,0 +1,309 @@
+{
+  "book": "NCE1",
+  "lesson": "021-022",
+  "title": "Lesson 21",
+  "vocabulary": [
+    {
+      "word": "book",
+      "phonetic": "/bʊk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "书；书籍",
+          "usage": "可数名词，指装订成册的印刷或书写作品"
+        }
+      ]
+    },
+    {
+      "word": "which",
+      "phonetic": "/wɪtʃ/",
+      "meanings": [
+        {
+          "pos": "determiner/pronoun",
+          "meaning": "哪一个；哪一些",
+          "usage": "用于提问，要求从特定范围内选择"
+        }
+      ]
+    },
+    {
+      "word": "red",
+      "phonetic": "/red/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "红色的",
+          "usage": "表示颜色，修饰名词时放在名词前或后"
+        }
+      ]
+    },
+    {
+      "word": "give",
+      "phonetic": "/ɡɪv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "给；给予",
+          "usage": "give me + 名词，表示给我某物"
+        }
+      ]
+    },
+    {
+      "word": "please",
+      "phonetic": "/pliːz/",
+      "meanings": [
+        {
+          "pos": "interjection",
+          "meaning": "请（用于礼貌请求）",
+          "usage": "用于祈使句中使语气委婉"
+        }
+      ]
+    },
+    {
+      "word": "one",
+      "phonetic": "/wʌn/",
+      "meanings": [
+        {
+          "pos": "pronoun",
+          "meaning": "一个；一个人；一件事",
+          "usage": "代替前面提到的人或物，避免重复"
+        }
+      ]
+    },
+    {
+      "word": "this",
+      "phonetic": "/ðɪs/",
+      "meanings": [
+        {
+          "pos": "pronoun/determiner",
+          "meaning": "这；这个",
+          "usage": "指代距离说话人较近的人或物"
+        }
+      ]
+    },
+    {
+      "word": "that",
+      "phonetic": "/ðæt/",
+      "meanings": [
+        {
+          "pos": "pronoun/determiner",
+          "meaning": "那；那个",
+          "usage": "指代距离说话人较远的人或物"
+        }
+      ]
+    },
+    {
+      "word": "want",
+      "phonetic": "/wɒnt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "想要；需要",
+          "usage": "want + 名词，或 want sb. to do sth."
+        }
+      ]
+    },
+    {
+      "word": "here",
+      "phonetic": "/hɪə/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "这里；在这里",
+          "usage": "here you are 表示把东西递给别人"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Give me a book please",
+      "usage": "用于礼貌地请求某本书",
+      "examples": [
+        {
+          "en": "Give me a book please, Jane.",
+          "zh": "请给我一本书，简。"
+        }
+      ]
+    },
+    {
+      "phrase": "Which book?",
+      "usage": "询问具体是哪一本书",
+      "examples": [
+        {
+          "en": "Which book do you want?",
+          "zh": "你想要哪本书？"
+        }
+      ]
+    },
+    {
+      "phrase": "This one",
+      "usage": "指代近处的某物，代替重复名词",
+      "examples": [
+        {
+          "en": "This one? Is this the right one?",
+          "zh": "这个？这是对的那个吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "That one",
+      "usage": "指代远处的某物，口语中常用 'that' 代替 'that one'",
+      "examples": [
+        {
+          "en": "No, not that one. The blue one.",
+          "zh": "不，不是那个。是蓝色的那个。"
+        }
+      ]
+    },
+    {
+      "phrase": "Here you are",
+      "usage": "递东西给他人时的常用表达，意为'给你'",
+      "examples": [
+        {
+          "en": "Here you are. Thank you.",
+          "zh": "给你。谢谢。"
+        }
+      ]
+    },
+    {
+      "phrase": "Thank you",
+      "usage": "表示感谢的日常用语",
+      "examples": [
+        {
+          "en": "Thank you very much!",
+          "zh": "非常感谢！"
+        }
+      ]
+    },
+    {
+      "phrase": "The red one",
+      "usage": "用颜色+one来指代特定物品，避免重复",
+      "examples": [
+        {
+          "en": "I want the red one.",
+          "zh": "我想要红色的那个。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Which引导的特殊疑问句",
+      "definition": "用which提问，要求从已知选项中选择答案",
+      "structure": "Which + 名词 + ...?",
+      "usage": "用于询问特定范围内的人或物",
+      "examples": [
+        {
+          "en": "Which book do you want?",
+          "zh": "你想要哪本书？"
+        },
+        {
+          "en": "Which one is yours?",
+          "zh": "哪一个是你的？"
+        }
+      ]
+    },
+    {
+      "title": "指示代词 this/that 与 one 的连用",
+      "definition": "this one/that one 代替前面提到的名词，避免重复",
+      "structure": "This/That + one",
+      "usage": "在对话中指代已提及的物品，this指近处，that指远处",
+      "examples": [
+        {
+          "en": "This one? No, that one.",
+          "zh": "这个？不，是那个。"
+        },
+        {
+          "en": "I like this one better.",
+          "zh": "我更喜欢这个。"
+        }
+      ]
+    },
+    {
+      "title": "颜色+one结构",
+      "definition": "用'the + 颜色 + one'来特指某个物品",
+      "structure": "The + 颜色 + one",
+      "usage": "当有多个相同物品但颜色不同时，用此结构指明具体哪一个",
+      "examples": [
+        {
+          "en": "The red one is mine.",
+          "zh": "红色那个是我的。"
+        },
+        {
+          "en": "Give me the blue one please.",
+          "zh": "请给我蓝色的那个。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Give me + 名词 + please.",
+      "original": {
+        "en": "Give me a book please, Jane.",
+        "zh": "请给我一本书，简。"
+      },
+      "imitations": [
+        {
+          "en": "Give me a pen please.",
+          "zh": "请给我一支钢笔。"
+        },
+        {
+          "en": "Give me an umbrella please.",
+          "zh": "请给我一把伞。"
+        }
+      ]
+    },
+    {
+      "pattern": "Which + 名词 + (do you want)?",
+      "original": {
+        "en": "Which book?",
+        "zh": "哪本书？"
+      },
+      "imitations": [
+        {
+          "en": "Which one?",
+          "zh": "哪一个？"
+        },
+        {
+          "en": "Which colour?",
+          "zh": "哪个颜色？"
+        }
+      ]
+    },
+    {
+      "pattern": "Not that one. The + 颜色 + one.",
+      "original": {
+        "en": "No, not that one. The red one.",
+        "zh": "不，不是那个。是红色那个。"
+      },
+      "imitations": [
+        {
+          "en": "No, not that one. The blue one.",
+          "zh": "不，不是那个。是蓝色那个。"
+        },
+        {
+          "en": "No, not this one. The green one.",
+          "zh": "不，不是这个。是绿色那个。"
+        }
+      ]
+    },
+    {
+      "pattern": "Here you are.",
+      "original": {
+        "en": "Here you are.",
+        "zh": "给你。"
+      },
+      "imitations": [
+        {
+          "en": "Here you are. Thank you.",
+          "zh": "给你。谢谢。"
+        },
+        {
+          "en": "Here it is.",
+          "zh": "给你。（指代单数物品）"
+        }
+      ]
+    }
+  ]
+}

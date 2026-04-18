@@ -868,11 +868,11 @@ class ReadingSystem {
 
     // 更新容器显示
     if (tab === 'pdf') {
-      this.dom.pdfContainer.hidden = false;
-      this.dom.notesContainer.hidden = true;
+      this.dom.pdfContainer.style.display = '';
+      this.dom.notesContainer.style.display = 'none';
     } else {
-      this.dom.pdfContainer.hidden = true;
-      this.dom.notesContainer.hidden = false;
+      this.dom.pdfContainer.style.display = 'none';
+      this.dom.notesContainer.style.display = '';
       // 如果笔记未加载，则加载
       if (!this.state.currentNotes) {
         this.loadNotes();
@@ -898,22 +898,25 @@ class ReadingSystem {
     };
 
     const bookKey = bookKeyMap[this.state.bookKey] || this.state.bookKey;
-    const unit = this.state.units[this.state.currentUnitIndex];
-    if (!unit) return;
-
-    // 从unit.title或filename提取课次编号
-    let lessonKey = '001';
-    if (unit.filename) {
-      const match = unit.filename.match(/(\d{3}-\d{3}|\d{2})/);
-      if (match) {
-        lessonKey = match[1];
-      }
-    }
-
-    const notesPath = `notes/${bookKey}/${lessonKey}.json`;
+    const unitIndex = this.state.currentUnitIndex;
+    if (unitIndex === undefined || unitIndex < 0) return;
 
     try {
       notesContainer.innerHTML = '<div class="notes-placeholder">加载笔记中...</div>';
+
+      // 先加载索引文件获取下标对应的lesson key
+      const indexPath = `notes/${bookKey}/index.json`;
+      const indexResponse = await fetch(indexPath);
+      if (!indexResponse.ok) {
+        throw new Error('笔记索引加载失败');
+      }
+      const lessonIndex = await indexResponse.json();
+      const lessonKey = lessonIndex[unitIndex];
+      if (!lessonKey) {
+        throw new Error('未找到对应笔记');
+      }
+
+      const notesPath = `notes/${bookKey}/${lessonKey}.json`;
       const response = await fetch(notesPath);
       if (!response.ok) {
         throw new Error('笔记加载失败');
@@ -932,29 +935,39 @@ class ReadingSystem {
 
     let html = '';
 
-    // 渲染核心词汇
+    // 渲染核心词汇（两列网格布局）
     if (notes.vocabulary && notes.vocabulary.length) {
       html += '<div class="notes-section">';
       html += '<h3 class="notes-section-title">核心词汇</h3>';
+      html += '<div class="vocab-grid">';
       notes.vocabulary.forEach(vocab => {
         html += '<div class="vocab-item">';
-        html += `<span class="vocab-word">${this.wrapWords(vocab.word)}</span>`;
-        if (vocab.phonetic) {
-          html += `<span class="vocab-phonetic">${vocab.phonetic}</span>`;
-        }
-        html += '<div class="vocab-meanings">';
-        vocab.meanings.forEach(m => {
-          html += '<div class="vocab-meaning">';
-          html += `<span class="vocab-pos">${m.pos}</span>`;
-          html += `<span class="vocab-meaning-text">${m.meaning}</span>`;
-          if (m.usage) {
-            html += `<div class="vocab-usage">${m.usage}</div>`;
+        html += `<span class="vocab-word">${this.wrapWords(vocab.word || vocab.word)}</span>`;
+        // 支持两种结构：meanings数组 或 translation字符串
+        if (vocab.meanings && vocab.meanings.length) {
+          if (vocab.phonetic) {
+            html += `<span class="vocab-phonetic">${vocab.phonetic}</span>`;
           }
+          html += '<div class="vocab-meanings">';
+          vocab.meanings.forEach(m => {
+            html += '<div class="vocab-meaning">';
+            if (m.pos) html += `<span class="vocab-pos">${m.pos}</span>`;
+            html += `<span class="vocab-meaning-text">${m.meaning}</span>`;
+            if (m.usage) {
+              html += `<div class="vocab-usage">${m.usage}</div>`;
+            }
+            html += '</div>';
+          });
           html += '</div>';
-        });
-        html += '</div></div>';
+        } else if (vocab.translation) {
+          html += `<span class="vocab-translation">${vocab.translation}</span>`;
+        }
+        if (vocab.example) {
+          html += `<div class="vocab-example">${this.wrapWords(vocab.example)}</div>`;
+        }
+        html += '</div>';
       });
-      html += '</div>';
+      html += '</div></div>';
     }
 
     // 渲染重点短语
@@ -964,12 +977,17 @@ class ReadingSystem {
       notes.phrases.forEach(phrase => {
         html += '<div class="phrase-item">';
         html += `<div class="phrase-text">${this.wrapWords(phrase.phrase)}</div>`;
+        if (phrase.translation) {
+          html += `<div class="phrase-translation">${phrase.translation}</div>`;
+        }
         if (phrase.usage) {
           html += `<div class="phrase-usage">${phrase.usage}</div>`;
         }
-        if (phrase.examples) {
+        if (phrase.examples && phrase.examples.length) {
           phrase.examples.forEach(ex => {
-            html += `<div class="phrase-example">${this.wrapWords(ex.en)} - ${ex.zh}</div>`;
+            if (ex.en && ex.zh) {
+              html += `<div class="phrase-example">${this.wrapWords(ex.en)} - ${ex.zh}</div>`;
+            }
           });
         }
         html += '</div>';
@@ -983,9 +1001,11 @@ class ReadingSystem {
       html += '<h3 class="notes-section-title">语法讲解</h3>';
       notes.grammar.forEach(g => {
         html += '<div class="grammar-item">';
-        html += `<div class="grammar-title">${g.title}</div>`;
-        if (g.definition) {
-          html += `<div class="grammar-detail"><strong>定义：</strong>${g.definition}</div>`;
+        if (g.title || g.rule) {
+          html += `<div class="grammar-title">${g.title || g.rule}</div>`;
+        }
+        if (g.definition || g.explanation) {
+          html += `<div class="grammar-detail">${g.definition || g.explanation}</div>`;
         }
         if (g.structure) {
           html += `<div class="grammar-detail"><strong>结构：</strong>${g.structure}</div>`;
@@ -993,10 +1013,14 @@ class ReadingSystem {
         if (g.usage) {
           html += `<div class="grammar-detail"><strong>用法：</strong>${g.usage}</div>`;
         }
-        if (g.examples) {
+        if (g.examples && g.examples.length) {
           html += '<div class="grammar-examples">';
           g.examples.forEach(ex => {
-            html += `<div class="phrase-example">${this.wrapWords(ex.en)} - ${ex.zh}</div>`;
+            if (ex.en && ex.zh) {
+              html += `<div class="phrase-example">${this.wrapWords(ex.en)} - ${ex.zh}</div>`;
+            } else if (typeof ex === 'string') {
+              html += `<div class="phrase-example">${ex}</div>`;
+            }
           });
           html += '</div>';
         }
@@ -1011,13 +1035,21 @@ class ReadingSystem {
       html += '<h3 class="notes-section-title">句型仿写</h3>';
       notes.sentencePatterns.forEach(p => {
         html += '<div class="pattern-item">';
-        html += `<div class="pattern-title">${p.pattern}</div>`;
-        if (p.original) {
-          html += `<div class="pattern-original">原文：${this.wrapWords(p.original.en)} - ${p.original.zh}</div>`;
+        if (p.pattern) {
+          html += `<div class="pattern-title">${p.pattern}</div>`;
         }
-        if (p.imitations) {
+        if (p.original) {
+          if (p.original.en && p.original.zh) {
+            html += `<div class="pattern-original">原文：${this.wrapWords(p.original.en)} - ${p.original.zh}</div>`;
+          }
+        } else if (p.example) {
+          html += `<div class="pattern-original">原文：${this.wrapWords(p.example)}</div>`;
+        }
+        if (p.imitations && p.imitations.length) {
           p.imitations.forEach((im, i) => {
-            html += `<div class="pattern-imitation">仿写${i+1}：${this.wrapWords(im.en)} - ${im.zh}</div>`;
+            if (im.en && im.zh) {
+              html += `<div class="pattern-imitation">仿写${i+1}：${this.wrapWords(im.en)} - ${im.zh}</div>`;
+            }
           });
         }
         html += '</div>';

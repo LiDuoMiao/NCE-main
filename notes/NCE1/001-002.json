@@ -1,0 +1,305 @@
+{
+  "book": "NCE1",
+  "lesson": "001-002",
+  "title": "Lesson 1",
+  "vocabulary": [
+    {
+      "word": "excuse",
+      "phonetic": "/ɪkˈskjuːz/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "原谅；宽恕",
+          "usage": "用于请求原谅或引起他人注意时使用"
+        }
+      ]
+    },
+    {
+      "word": "handbag",
+      "phonetic": "/ˈhændbæɡ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "手提包；女士手提袋",
+          "usage": "指较小的手提包，通常用于装个人物品"
+        }
+      ]
+    },
+    {
+      "word": "pardon",
+      "phonetic": "/ˈpɑːrdən/",
+      "meanings": [
+        {
+          "pos": "interjection",
+          "meaning": "请再说一遍；抱歉",
+          "usage": "用于没听清楚对方说话时，请求重复"
+        }
+      ]
+    },
+    {
+      "word": "very",
+      "phonetic": "/ˈveri/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "非常；很",
+          "usage": "用于修饰形容词或副词，表示程度"
+        }
+      ]
+    },
+    {
+      "word": "thank",
+      "phonetic": "/θæŋk/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "感谢；谢谢",
+          "usage": "用于表达感激之情"
+        }
+      ]
+    },
+    {
+      "word": "your",
+      "phonetic": "/jɔːr/",
+      "meanings": [
+        {
+          "pos": "possessive pronoun",
+          "meaning": "你的；你们的",
+          "usage": "表示所属关系"
+        }
+      ]
+    },
+    {
+      "word": "this",
+      "phonetic": "/ðɪs/",
+      "meanings": [
+        {
+          "pos": "pronoun/determiner",
+          "meaning": "这；这个",
+          "usage": "指代近处的人或事物"
+        }
+      ]
+    },
+    {
+      "word": "is",
+      "phonetic": "/ɪz/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "是",
+          "usage": "be动词的第三人称单数形式"
+        }
+      ]
+    },
+    {
+      "word": "yes",
+      "phonetic": "/jes/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "是的；好的",
+          "usage": "用于肯定回答"
+        }
+      ]
+    },
+    {
+      "word": "it",
+      "phonetic": "/ɪt/",
+      "meanings": [
+        {
+          "pos": "pronoun",
+          "meaning": "它",
+          "usage": "指代前面提到的单数事物"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Excuse me",
+      "usage": "用于引起他人注意、请求让路、或在打扰别人之前",
+      "examples": [
+        {
+          "en": "Excuse me, is this your handbag?",
+          "zh": "打扰一下，这是你的手提包吗？"
+        },
+        {
+          "en": "Excuse me, where is the post office?",
+          "zh": "打扰一下，邮局在哪里？"
+        }
+      ]
+    },
+    {
+      "phrase": "Thank you very much",
+      "usage": "表示非常感谢，语气较强",
+      "examples": [
+        {
+          "en": "Thank you very much for your help.",
+          "zh": "非常感谢你的帮助。"
+        },
+        {
+          "en": "Thank you very much indeed.",
+          "zh": "真是非常感谢。"
+        }
+      ]
+    },
+    {
+      "phrase": "Pardon?",
+      "usage": "用于没听清楚时礼貌地请求重复",
+      "examples": [
+        {
+          "en": "Pardon? I didn't hear you clearly.",
+          "zh": "请再说一遍？我没听清楚。"
+        }
+      ]
+    },
+    {
+      "phrase": "Yes?",
+      "usage": "用于回应他人的招呼或询问，表示在听",
+      "examples": [
+        {
+          "en": "Excuse me! Yes?",
+          "zh": "打扰一下！什么事？"
+        }
+      ]
+    },
+    {
+      "phrase": "It's mine",
+      "usage": "表示某物属于自己",
+      "examples": [
+        {
+          "en": "Is this your book? Yes, it's mine.",
+          "zh": "这是你的书吗？是的，是我的。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "一般疑问句 (Yes/No Question)",
+      "definition": "可以用yes或no回答的疑问句，通常需要用升调朗读",
+      "structure": "Be动词(Am/Is/Are) + 主语 + ...?",
+      "usage": "用于询问某物是否属于某人，或询问某事是否属实",
+      "examples": [
+        {
+          "en": "Is this your handbag?",
+          "zh": "这是你的手提包吗？"
+        },
+        {
+          "en": "Is this your pen?",
+          "zh": "这是你的钢笔吗？"
+        },
+        {
+          "en": "Is this your book?",
+          "zh": "这是你的书吗？"
+        }
+      ]
+    },
+    {
+      "title": "指示代词 this/that 的用法",
+      "definition": "this指代离说话人较近的事物，that指代较远的事物",
+      "structure": "this/that + 名词",
+      "usage": "this用于指代近处的人或事物，在询问物品归属时常用this",
+      "examples": [
+        {
+          "en": "Is this your handbag?",
+          "zh": "这是你的手提包吗？"
+        },
+        {
+          "en": "Is that your car?",
+          "zh": "那是你的车吗？"
+        }
+      ]
+    },
+    {
+      "title": "肯定回答的简略形式",
+      "definition": "在口语中，回答时常用简略形式",
+      "structure": "Yes, it is. / No, it isn't.",
+      "usage": "回答一般疑问句时，可以用简略形式，避免重复完整句子",
+      "examples": [
+        {
+          "en": "Is this your handbag? Yes, it is.",
+          "zh": "这是你的手提包吗？是的，它是。"
+        },
+        {
+          "en": "Is this your bag? No, it isn't.",
+          "zh": "这是你的包吗？不，它不是。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Is this your + 名词?",
+      "original": {
+        "en": "Is this your handbag?",
+        "zh": "这是你的手提包吗？"
+      },
+      "imitations": [
+        {
+          "en": "Is this your pen?",
+          "zh": "这是你的钢笔吗？"
+        },
+        {
+          "en": "Is this your book?",
+          "zh": "这是你的书吗？"
+        },
+        {
+          "en": "Is this your umbrella?",
+          "zh": "这是你的雨伞吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "Excuse me + 一般疑问句",
+      "original": {
+        "en": "Excuse me! Is this your handbag?",
+        "zh": "打扰一下！这是你的手提包吗？"
+      },
+      "imitations": [
+        {
+          "en": "Excuse me! Is this your seat?",
+          "zh": "打扰一下！这是你的座位吗？"
+        },
+        {
+          "en": "Excuse me! Is this your coat?",
+          "zh": "打扰一下！这是你的外套吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "Yes/No, it is/isn't.",
+      "original": {
+        "en": "Yes, it is.",
+        "zh": "是的，它是。"
+      },
+      "imitations": [
+        {
+          "en": "No, it isn't.",
+          "zh": "不，它不是。"
+        },
+        {
+          "en": "Yes, it is my bag.",
+          "zh": "是的，它是我的包。"
+        }
+      ]
+    },
+    {
+      "pattern": "Thank you very much.",
+      "original": {
+        "en": "Thank you very much.",
+        "zh": "非常感谢。"
+      },
+      "imitations": [
+        {
+          "en": "Thanks a lot.",
+          "zh": "多谢。"
+        },
+        {
+          "en": "Thank you so much!",
+          "zh": "太感谢你了！"
+        }
+      ]
+    }
+  ]
+}

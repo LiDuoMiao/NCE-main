@@ -1,0 +1,398 @@
+{
+  "book": "NCE2",
+  "lesson": "08",
+  "title": "Why is Joe's garden",
+  "vocabulary": [
+    {
+      "word": "competition",
+      "phonetic": "/ˌkɒmpɪˈtɪʃən/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "比赛；竞赛",
+          "usage": "指有组织的竞争活动"
+        }
+      ]
+    },
+    {
+      "word": "beautiful",
+      "phonetic": "/ˈbjuːtɪfəl/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "美丽的；漂亮的",
+          "usage": "形容外观美观的事物"
+        }
+      ]
+    },
+    {
+      "word": "nearly",
+      "phonetic": "/ˈnɪəli/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "几乎；差不多",
+          "usage": "表示接近但不完全"
+        }
+      ]
+    },
+    {
+      "word": "enter",
+      "phonetic": "/ˈentə/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "参加；进入",
+          "usage": "enter for 表示报名参加比赛或活动"
+        }
+      ]
+    },
+    {
+      "word": "large",
+      "phonetic": "/lɑːdʒ/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "大的；广阔的",
+          "usage": "形容尺寸或规模大"
+        }
+      ]
+    },
+    {
+      "word": "vegetable",
+      "phonetic": "/ˈvedʒtəbəl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "蔬菜",
+          "usage": "可食用的植物"
+        }
+      ]
+    },
+    {
+      "word": "interesting",
+      "phonetic": "/ˈɪntrəstɪŋ/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "有趣的；引起兴趣的",
+          "usage": "形容能引起兴趣或好奇的事物"
+        }
+      ]
+    },
+    {
+      "word": "neat",
+      "phonetic": "/niːt/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "整洁的；整齐的",
+          "usage": "形容布置有序、干净利落"
+        }
+      ]
+    },
+    {
+      "word": "wooden",
+      "phonetic": "/ˈwʊdən/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "木制的；木头的",
+          "usage": "由木材制成的"
+        }
+      ]
+    },
+    {
+      "word": "bridge",
+      "phonetic": "/brɪdʒ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "桥；桥梁",
+          "usage": "跨越河流或障碍的建筑"
+        }
+      ]
+    },
+    {
+      "word": "pool",
+      "phonetic": "/puːl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "水池；池塘",
+          "usage": "较小的静止水面"
+        }
+      ]
+    },
+    {
+      "word": "worst",
+      "phonetic": "/wɜːst/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "最差的；最坏的",
+          "usage": "good/bad的最高级形式"
+        }
+      ]
+    },
+    {
+      "word": "prize",
+      "phonetic": "/praɪz/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "奖品；奖金",
+          "usage": "比赛中给予的奖励"
+        }
+      ]
+    },
+    {
+      "word": "path",
+      "phonetic": "/pɑːθ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "小路；道路",
+          "usage": "人或动物走的小路"
+        }
+      ]
+    },
+    {
+      "word": "grow",
+      "phonetic": "/ɡrəʊ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "种植；生长",
+          "usage": "指植物生长或培育植物"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "enter for",
+      "usage": "报名参加（比赛、考试等）",
+      "examples": [
+        {
+          "en": "Nearly everybody enters for 'The Nicest Garden Competition' each year.",
+          "zh": "几乎每个人都每年报名参加'最佳花园竞赛'。"
+        }
+      ]
+    },
+    {
+      "phrase": "every time",
+      "usage": "每次；总是",
+      "examples": [
+        {
+          "en": "Joe wins every time.",
+          "zh": "乔每次都赢。"
+        }
+      ]
+    },
+    {
+      "phrase": "larger than",
+      "usage": "比...更大",
+      "examples": [
+        {
+          "en": "Bill Frith's garden is larger than Joe's.",
+          "zh": "比尔·弗里斯的花园比乔的更大。"
+        }
+      ]
+    },
+    {
+      "phrase": "works harder than",
+      "usage": "比...更努力工作",
+      "examples": [
+        {
+          "en": "Bill works harder than Joe.",
+          "zh": "比尔比乔更努力工作。"
+        }
+      ]
+    },
+    {
+      "phrase": "has built",
+      "usage": "已经建造（现在完成时）",
+      "examples": [
+        {
+          "en": "He has built a wooden bridge over a pool.",
+          "zh": "他在池塘上建了一座木桥。"
+        }
+      ]
+    },
+    {
+      "phrase": "over a pool",
+      "usage": "在池塘上方",
+      "examples": [
+        {
+          "en": "He has built a wooden bridge over a pool.",
+          "zh": "他在池塘上建了一座木桥。"
+        }
+      ]
+    },
+    {
+      "phrase": "wins a little prize",
+      "usage": "获得一个小奖品",
+      "examples": [
+        {
+          "en": "I always win a little prize for the worst garden in the town!",
+          "zh": "我总是因为镇上最差的花园而获得一个小奖品！"
+        }
+      ]
+    },
+    {
+      "phrase": "the most beautiful one",
+      "usage": "最美丽的一个",
+      "examples": [
+        {
+          "en": "Why is Joe's garden the most beautiful one in the town?",
+          "zh": "为什么乔的花园是镇上最美丽的一个？"
+        }
+      ]
+    },
+    {
+      "phrase": "in our town",
+      "usage": "在我们的镇上",
+      "examples": [
+        {
+          "en": "Joe Sanders has the most beautiful garden in our town.",
+          "zh": "乔·桑德斯拥有我们镇上最美丽的花园。"
+        }
+      ]
+    },
+    {
+      "phrase": "more flowers and vegetables",
+      "usage": "更多的花和蔬菜",
+      "examples": [
+        {
+          "en": "Bill grows more flowers and vegetables.",
+          "zh": "比尔种了更多的花和蔬菜。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "形容词最高级 (Superlative Degree)",
+      "definition": "表示三个或以上事物中最...的，用最高级形式，前面通常加the",
+      "structure": "the + 最高级 + (in/of短语)",
+      "usage": "用于比较多个事物，指出最突出的一个",
+      "examples": [
+        {
+          "en": "Joe Sanders has the most beautiful garden in our town.",
+          "zh": "乔·桑德斯拥有我们镇上最美丽的花园。"
+        },
+        {
+          "en": "I always win a little prize for the worst garden in the town!",
+          "zh": "我总是因为镇上最差的花园而获得一个小奖品！"
+        }
+      ]
+    },
+    {
+      "title": "形容词比较级 (Comparative Degree)",
+      "definition": "用于两者之间的比较，表示更...的",
+      "structure": "形容词比较级 + than + 比较对象",
+      "usage": "比较两个事物的差异",
+      "examples": [
+        {
+          "en": "Bill Frith's garden is larger than Joe's.",
+          "zh": "比尔·弗里斯的花园比乔的更大。"
+        },
+        {
+          "en": "Bill works harder than Joe.",
+          "zh": "比尔比乔更努力工作。"
+        },
+        {
+          "en": "Joe's garden is more interesting.",
+          "zh": "乔的花园更有趣。"
+        }
+      ]
+    },
+    {
+      "title": "现在完成时 (Present Perfect Tense)",
+      "definition": "表示过去发生的行为对现在造成的影响，或从过去持续到现在的动作",
+      "structure": "has/have + 过去分词",
+      "usage": "描述已完成的动作，强调结果",
+      "examples": [
+        {
+          "en": "He has made neat paths.",
+          "zh": "他修建了整洁的小路。"
+        },
+        {
+          "en": "He has built a wooden bridge over a pool.",
+          "zh": "他在池塘上建了一座木桥。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "S + has the + 最高级 + 名词 + in + 地点",
+      "original": {
+        "en": "Joe Sanders has the most beautiful garden in our town.",
+        "zh": "乔·桑德斯拥有我们镇上最美丽的花园。"
+      },
+      "imitations": [
+        {
+          "en": "Mary has the longest hair in our class.",
+          "zh": "玛丽在我们班有最长的头发。"
+        },
+        {
+          "en": "This is the most expensive restaurant in the city.",
+          "zh": "这是这座城市最昂贵的餐厅。"
+        }
+      ]
+    },
+    {
+      "pattern": "S + 形容词比较级 + than + 对象",
+      "original": {
+        "en": "Bill Frith's garden is larger than Joe's.",
+        "zh": "比尔·弗里斯的花园比乔的更大。"
+      },
+      "imitations": [
+        {
+          "en": "This book is more interesting than that one.",
+          "zh": "这本书比那本书更有趣。"
+        },
+        {
+          "en": "My sister is taller than me.",
+          "zh": "我妹妹比我高。"
+        }
+      ]
+    },
+    {
+      "pattern": "S + has/have + 过去分词",
+      "original": {
+        "en": "He has made neat paths and has built a wooden bridge over a pool.",
+        "zh": "他修建了整洁的小路，并在池塘上建了一座木桥。"
+      },
+      "imitations": [
+        {
+          "en": "She has written three letters today.",
+          "zh": "她今天写了三封信。"
+        },
+        {
+          "en": "I have finished my homework.",
+          "zh": "我已经完成了作业。"
+        }
+      ]
+    },
+    {
+      "pattern": "S + always + 动词一般现在时 + ..., and + S + always + 动词一般现在时 + ...",
+      "original": {
+        "en": "Every year I enter for the garden competition too, and I always win a little prize.",
+        "zh": "每年我也报名参加花园竞赛，而我总是获得一个小奖品。"
+      },
+      "imitations": [
+        {
+          "en": "She studies hard, and she always gets good grades.",
+          "zh": "她努力学习，而且总是取得好成绩。"
+        },
+        {
+          "en": "He goes to the gym every day, and he always feels energetic.",
+          "zh": "他每天去健身房，而且总是精力充沛。"
+        }
+      ]
+    }
+  ]
+}

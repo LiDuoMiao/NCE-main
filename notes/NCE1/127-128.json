@@ -1,0 +1,402 @@
+{
+  "book": "NCE1",
+  "lesson": "127-128",
+  "title": "Lesson 127",
+  "vocabulary": [
+    {
+      "word": "actress",
+      "phonetic": "/ˈæktrəs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "女演员",
+          "usage": "指从事表演工作的女性"
+        }
+      ]
+    },
+    {
+      "word": "recognize",
+      "phonetic": "/ˈrekəɡnaɪz/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "认出；认识",
+          "usage": "指能够辨认出某人或某物"
+        }
+      ]
+    },
+    {
+      "word": "famous",
+      "phonetic": "/ˈfeɪməs/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "著名的；出名的",
+          "usage": "用于描述广为人知的人或事物"
+        }
+      ]
+    },
+    {
+      "word": "beside",
+      "phonetic": "/bɪˈsaɪd/",
+      "meanings": [
+        {
+          "pos": "prep",
+          "meaning": "在...旁边",
+          "usage": "表示位置，紧邻某人或某物"
+        }
+      ]
+    },
+    {
+      "word": "actor",
+      "phonetic": "/ˈæktə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "男演员",
+          "usage": "指从事表演工作的男性"
+        }
+      ]
+    },
+    {
+      "word": "husband",
+      "phonetic": "/ˈhʌzbənd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "丈夫",
+          "usage": "指女性的配偶"
+        }
+      ]
+    },
+    {
+      "word": "third",
+      "phonetic": "/θɜːd/",
+      "meanings": [
+        {
+          "pos": "adj/num",
+          "meaning": "第三的；三号",
+          "usage": "表示顺序中的第三个"
+        }
+      ]
+    },
+    {
+      "word": "fourth",
+      "phonetic": "/fɔːθ/",
+      "meanings": [
+        {
+          "pos": "adj/num",
+          "meaning": "第四的；四号",
+          "usage": "表示顺序中的第四个"
+        }
+      ]
+    },
+    {
+      "word": "fifth",
+      "phonetic": "/fɪfθ/",
+      "meanings": [
+        {
+          "pos": "adj/num",
+          "meaning": "第五的；五号",
+          "usage": "表示顺序中的第五个"
+        }
+      ]
+    },
+    {
+      "word": "old",
+      "phonetic": "/əʊld/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "老的；旧的",
+          "usage": "描述年龄大或使用时间长"
+        }
+      ]
+    },
+    {
+      "word": "least",
+      "phonetic": "/liːst/",
+      "meanings": [
+        {
+          "pos": "adj/adv",
+          "meaning": "最小的；最少地",
+          "usage": "at least表示至少"
+        }
+      ]
+    },
+    {
+      "word": "sure",
+      "phonetic": "/ʃɔː/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "确信的；肯定的",
+          "usage": "表示对某事很有把握"
+        }
+      ]
+    },
+    {
+      "word": "still",
+      "phonetic": "/stɪl/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "仍然；还",
+          "usage": "表示动作或状态继续存在"
+        }
+      ]
+    },
+    {
+      "word": "read",
+      "phonetic": "/riːd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "读到；阅读",
+          "usage": "表示通过阅读了解到信息"
+        }
+      ]
+    },
+    {
+      "word": "myself",
+      "phonetic": "/maɪˈself/",
+      "meanings": [
+        {
+          "pos": "pron",
+          "meaning": "我自己",
+          "usage": "反身代词，表示动作作用于说话者自己"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Can you recognize...?",
+      "usage": "用于询问对方是否能认出某人或某物",
+      "examples": [
+        {
+          "en": "Can you recognize that woman, Liz?",
+          "zh": "你能认出那个女人吗，莉兹？"
+        }
+      ]
+    },
+    {
+      "phrase": "It must be...",
+      "usage": "表示有把握的推测，意为一定是",
+      "examples": [
+        {
+          "en": "It must be Karen Marsh, the actress.",
+          "zh": "那一定是女演员凯伦·马什。"
+        }
+      ]
+    },
+    {
+      "phrase": "It can't be...",
+      "usage": "表示否定的推测，意为不可能是",
+      "examples": [
+        {
+          "en": "It can't be.",
+          "zh": "不可能是。"
+        }
+      ]
+    },
+    {
+      "phrase": "Let me have another look.",
+      "usage": "表示再看一下",
+      "examples": [
+        {
+          "en": "Let me have another look.",
+          "zh": "让我再看看。"
+        }
+      ]
+    },
+    {
+      "phrase": "at least",
+      "usage": "表示至少，不少于",
+      "examples": [
+        {
+          "en": "She must be at least forty.",
+          "zh": "她一定至少四十岁了。"
+        }
+      ]
+    },
+    {
+      "phrase": "I read...",
+      "usage": "表示从阅读中获得信息",
+      "examples": [
+        {
+          "en": "I read she's twenty-nine.",
+          "zh": "我读到她说她二十九岁。"
+        }
+      ]
+    },
+    {
+      "phrase": "She was... when I was...",
+      "usage": "表示过去某事发生时的情况",
+      "examples": [
+        {
+          "en": "She was a famous actress when I was still at school.",
+          "zh": "当我还在上学时她就是著名演员了。"
+        }
+      ]
+    },
+    {
+      "phrase": "Isn't she...?",
+      "usage": "反义疑问句，表示确认",
+      "examples": [
+        {
+          "en": "Doesn't Karen Marsh look old!",
+          "zh": "凯伦·马什看起来不是很老吗！"
+        }
+      ]
+    },
+    {
+      "phrase": "She does, doesn't she!",
+      "usage": "表示同意某人的陈述",
+      "examples": [
+        {
+          "en": "She does, doesn't she!",
+          "zh": "她确实看起来老，不是吗！"
+        }
+      ]
+    },
+    {
+      "phrase": "I'm not more than...",
+      "usage": "表示不超过某个年龄或数量",
+      "examples": [
+        {
+          "en": "I'm not more than twenty-nine myself.",
+          "zh": "我自己不超过二十九岁。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "must be 表示肯定推测",
+      "definition": "must be 用于表示根据现有证据或情况得出的肯定推测，意思是一定、肯定。",
+      "structure": "主语 + must be + 形容词/名词",
+      "usage": "当说话人有把握确定某事时使用must be，表示非常肯定的推测。否定形式用can't be（不可能是）。",
+      "examples": [
+        {
+          "en": "It must be Karen Marsh.",
+          "zh": "那一定是凯伦·马什。"
+        },
+        {
+          "en": "She must be at least forty.",
+          "zh": "她一定至少四十岁了。"
+        },
+        {
+          "en": "It can't be Conrad Reeves.",
+          "zh": "那不可能是康拉德·里夫斯。"
+        }
+      ]
+    },
+    {
+      "title": "反义疑问句（附加疑问句）",
+      "definition": "反义疑问句由陈述句加简短疑问句组成，前否定后肯定或前肯定后否定。",
+      "structure": "陈述句 + 否定/肯定附加问句？",
+      "usage": "用于寻求确认或同意，语调不同表示的意义不同：升调表示询问，降调表示强调。",
+      "examples": [
+        {
+          "en": "Doesn't Karen Marsh look old!",
+          "zh": "凯伦·马什看起来不是很老吗！"
+        },
+        {
+          "en": "She does, doesn't she!",
+          "zh": "她确实很老，不是吗！"
+        },
+        {
+          "en": "That was a long time ago, wasn't it?",
+          "zh": "那是很久以前的事了，不是吗？"
+        }
+      ]
+    },
+    {
+      "title": "过去时态（was, read）",
+      "definition": "表示过去发生的动作或存在的状态",
+      "structure": "主语 + was/were + ... / 主语 + 动词过去式",
+      "usage": "描述过去的情况、动作或状态，与现在形成对比",
+      "examples": [
+        {
+          "en": "She was a famous actress when I was still at school.",
+          "zh": "当我还在上学时她就是著名演员了。"
+        },
+        {
+          "en": "I read she's twenty-nine.",
+          "zh": "我读到（到的信息）是她二十九岁。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "It must be + 名词/形容词",
+      "original": {
+        "en": "It must be Karen Marsh, the actress.",
+        "zh": "那一定是女演员凯伦·马什。"
+      },
+      "imitations": [
+        {
+          "en": "It must be her third husband.",
+          "zh": "那一定是她的第三任丈夫。"
+        },
+        {
+          "en": "It must be the famous building.",
+          "zh": "那一定是那座著名的建筑。"
+        }
+      ]
+    },
+    {
+      "pattern": "Who/What's that + 介词 + ...?",
+      "original": {
+        "en": "Who's that beside her?",
+        "zh": "她旁边是谁？"
+      },
+      "imitations": [
+        {
+          "en": "Who's that beside you?",
+          "zh": "你旁边是谁？"
+        },
+        {
+          "en": "What's that on the table?",
+          "zh": "桌上那个是什么？"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + must be at least + 数字/名词",
+      "original": {
+        "en": "She must be at least forty.",
+        "zh": "她一定至少四十岁了。"
+      },
+      "imitations": [
+        {
+          "en": "He must be at least thirty.",
+          "zh": "他一定至少三十岁了。"
+        },
+        {
+          "en": "The book must be at least 500 pages.",
+          "zh": "这本书一定至少五百页。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + was + 名词 + when + 主语 + was + 地点/时间",
+      "original": {
+        "en": "She was a famous actress when I was still at school.",
+        "zh": "当我还在上学时她就是著名演员了。"
+      },
+      "imitations": [
+        {
+          "en": "He was a teacher when I was a student.",
+          "zh": "当我还是学生时他是老师。"
+        },
+        {
+          "en": "She was young when I was born.",
+          "zh": "我出生时她还年轻。"
+        }
+      ]
+    }
+  ]
+}

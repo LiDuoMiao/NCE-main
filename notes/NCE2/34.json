@@ -1,0 +1,422 @@
+{
+  "book": "NCE2",
+  "lesson": "34",
+  "title": "How long had the police taken to find his bicycle?",
+  "vocabulary": [
+    {
+      "word": "worried",
+      "phonetic": "/ˈwʌrid/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "担心的；烦恼的",
+          "usage": "指对某事感到忧虑或不安的状态"
+        }
+      ]
+    },
+    {
+      "word": "receive",
+      "phonetic": "/rɪˈsiːv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "收到；接到",
+          "usage": "指被动地获得或收到某物"
+        }
+      ]
+    },
+    {
+      "word": "local",
+      "phonetic": "/ˈləʊkl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "当地的；本地的",
+          "usage": "形容与某地相关的事物"
+        }
+      ]
+    },
+    {
+      "word": "station",
+      "phonetic": "/ˈsteɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "警察局；车站",
+          "usage": "文中指警察局，a police station"
+        }
+      ]
+    },
+    {
+      "word": "pick up",
+      "phonetic": "/pɪk ʌp/",
+      "meanings": [
+        {
+          "pos": "verb phrase",
+          "meaning": "捡起；偶然发现",
+          "usage": "表示发现或拾起某物"
+        }
+      ]
+    },
+    {
+      "word": "village",
+      "phonetic": "/ˈvɪlɪdʒ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "村庄；乡村",
+          "usage": "指小于城镇的居民区"
+        }
+      ]
+    },
+    {
+      "word": "surprised",
+      "phonetic": "/səˈpraɪzd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "惊讶的；吃惊的",
+          "usage": "指对意外之事感到惊奇"
+        }
+      ]
+    },
+    {
+      "word": "amused",
+      "phonetic": "/əˈmjuːzd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "觉得好笑的；愉快的",
+          "usage": "指觉得有趣或好笑"
+        }
+      ]
+    },
+    {
+      "word": "expect",
+      "phonetic": "/ɪkˈspekt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "期望；预料",
+          "usage": "指认为某事会发生"
+        }
+      ]
+    },
+    {
+      "word": "steal",
+      "phonetic": "/stiːl/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "偷窃；偷盗",
+          "usage": "指非法取走他人财物"
+        }
+      ]
+    },
+    {
+      "word": "send",
+      "phonetic": "/send/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "发送；寄送",
+          "usage": "指通过某种方式传递某物"
+        }
+      ]
+    },
+    {
+      "word": "smile",
+      "phonetic": "/smaɪl/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "微笑",
+          "usage": "指面带笑容的表情"
+        }
+      ]
+    },
+    {
+      "word": "anymore",
+      "phonetic": "/ˌenɪˈmɔː/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "再（也不）；不再",
+          "usage": "与not连用表示不再做某事"
+        }
+      ]
+    },
+    {
+      "word": "news",
+      "phonetic": "/njuːz/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "消息；新闻",
+          "usage": "指新发生的信息或事件"
+        }
+      ]
+    },
+    {
+      "word": "bicycle",
+      "phonetic": "/ˈbaɪsɪkl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "自行车",
+          "usage": "一种两轮交通工具"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "call at",
+      "usage": "表示短暂拜访或停留某地",
+      "examples": [
+        {
+          "en": "Dan was asked to call at the station.",
+          "zh": "丹被要求去警察局一趟。"
+        },
+        {
+          "en": "The train calls at every station.",
+          "zh": "火车每站都停。"
+        }
+      ]
+    },
+    {
+      "phrase": "pick up",
+      "usage": "表示偶然发现、捡起或接人",
+      "examples": [
+        {
+          "en": "The bicycle was picked up in a small village.",
+          "zh": "自行车是在一个小村庄被发现的。"
+        },
+        {
+          "en": "I'll pick you up at the airport.",
+          "zh": "我会去机场接你。"
+        }
+      ]
+    },
+    {
+      "phrase": "be worried",
+      "usage": "表示感到担心的状态",
+      "examples": [
+        {
+          "en": "Dan Robinson has been worried all week.",
+          "zh": "丹·鲁滨逊整个星期都很担心。"
+        },
+        {
+          "en": "She was worried about her exam.",
+          "zh": "她担心她的考试。"
+        }
+      ]
+    },
+    {
+      "phrase": "be surprised",
+      "usage": "表示对某事感到惊讶",
+      "examples": [
+        {
+          "en": "Dan was most surprised when he heard the news.",
+          "zh": "丹听到这个消息时非常惊讶。"
+        },
+        {
+          "en": "We were surprised at the result.",
+          "zh": "我们对结果感到惊讶。"
+        }
+      ]
+    },
+    {
+      "phrase": "be amused",
+      "usage": "表示觉得好笑或有趣",
+      "examples": [
+        {
+          "en": "He was amused too, because he never expected the bicycle to be found.",
+          "zh": "他也觉得好笑，因为他从未期望自行车能被找到。"
+        }
+      ]
+    },
+    {
+      "phrase": "by train",
+      "usage": "表示通过火车的方式",
+      "examples": [
+        {
+          "en": "It is now being sent to his home by train.",
+          "zh": "现在正通过火车寄送给他。"
+        },
+        {
+          "en": "We often travel by train.",
+          "zh": "我们经常坐火车旅行。"
+        }
+      ]
+    },
+    {
+      "phrase": "all week",
+      "usage": "表示整个星期",
+      "examples": [
+        {
+          "en": "He has been worried all week.",
+          "zh": "他整个星期都很担心。"
+        }
+      ]
+    },
+    {
+      "phrase": "now...anymore",
+      "usage": "not...anymore 表示不再做某事",
+      "examples": [
+        {
+          "en": "He went to the station yesterday and now he is not worried anymore.",
+          "zh": "他昨天去了警察局，现在不再担心了。"
+        }
+      ]
+    },
+    {
+      "phrase": "be wanted by",
+      "usage": "表示被...需要或通缉",
+      "examples": [
+        {
+          "en": "Dan wondered why he was wanted by the police.",
+          "zh": "丹想知道为什么警察要找他。"
+        }
+      ]
+    },
+    {
+      "phrase": "never expect",
+      "usage": "表示从未预料到",
+      "examples": [
+        {
+          "en": "He never expected the bicycle to be found.",
+          "zh": "他从未期望自行车能被找到。"
+        },
+        {
+          "en": "I never expected to see you here.",
+          "zh": "我从未想到会在这里见到你。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去完成时 (Past Perfect Tense)",
+      "definition": "表示在过去某一时刻之前已经完成的动作，强调“过去的过去”。",
+      "structure": "主语 + had + 过去分词",
+      "usage": "用于描述两个过去的动作，先发生的动作用过去完成时，后发生的动作用一般过去时。常用时间状语：already, just, never, ever, before, after, when等。",
+      "examples": [
+        {
+          "en": "Dan had been worried all week before he went to the station.",
+          "zh": "在去警察局之前，丹已经担心了一整周。"
+        },
+        {
+          "en": "The bicycle had been stolen twenty years ago.",
+          "zh": "自行车在二十年前就被偷了。"
+        },
+        {
+          "en": "He was not worried anymore because the bicycle had been found.",
+          "zh": "他不再担心了，因为自行车已经被找到了。"
+        }
+      ]
+    },
+    {
+      "title": "过去进行时 (Past Continuous Tense)",
+      "definition": "表示在过去某一时刻或时间段正在进行的动作。",
+      "structure": "主语 + was/were + 动词-ing",
+      "usage": "用于描述过去正在发生的动作，常与when, while, at that time等连用。",
+      "examples": [
+        {
+          "en": "He was smiling when he told Dan the news.",
+          "zh": "他告诉丹这个消息时正微笑着。"
+        },
+        {
+          "en": "The police were working on the case for five days.",
+          "zh": "警察处理这个案件已经五天了。"
+        }
+      ]
+    },
+    {
+      "title": "一般过去时 (Past Simple Tense)",
+      "definition": "表示过去发生的动作或存在的状态。",
+      "structure": "主语 + 动词过去式",
+      "usage": "用于描述过去某个具体时间发生的动作，常与yesterday, last week, two years ago等时间状语连用。",
+      "examples": [
+        {
+          "en": "He received a letter from the local police.",
+          "zh": "他收到了当地警察的一封信。"
+        },
+        {
+          "en": "Dan went to the station yesterday.",
+          "zh": "丹昨天去了警察局。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "How long had + 主语 + 过去分词...?",
+      "original": {
+        "en": "How long had the police taken to find his bicycle?",
+        "zh": "警察花了多长时间才找到他的自行车？"
+      },
+      "imitations": [
+        {
+          "en": "How long had she been waiting for the bus?",
+          "zh": "她等公交车等了多久？"
+        },
+        {
+          "en": "How long had he studied English before he moved to London?",
+          "zh": "他在搬到伦敦之前学了多久英语？"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + has been + 形容词/动词-ing + all + 时间段",
+      "original": {
+        "en": "Dan Robinson has been worried all week.",
+        "zh": "丹·鲁滨逊整个星期都很担心。"
+      },
+      "imitations": [
+        {
+          "en": "She has been happy all day.",
+          "zh": "她一整天都很开心。"
+        },
+        {
+          "en": "They have been working hard all month.",
+          "zh": "他们整个月都在努力工作。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + was told + (that从句)",
+      "original": {
+        "en": "At the station, he was told by a smiling policeman that his bicycle had been found.",
+        "zh": "在警察局，一位微笑着的警察告诉他自行车已经被找到了。"
+      },
+      "imitations": [
+        {
+          "en": "I was told that the meeting had been cancelled.",
+          "zh": "我被告知会议已经被取消了。"
+        },
+        {
+          "en": "She was told that her son had passed the exam.",
+          "zh": "她被告知她儿子已经通过了考试。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + never expected + (that) + 从句",
+      "original": {
+        "en": "He never expected the bicycle to be found.",
+        "zh": "他从未期望自行车能被找到。"
+      },
+      "imitations": [
+        {
+          "en": "I never expected to pass the exam.",
+          "zh": "我从未期望能通过考试。"
+        },
+        {
+          "en": "She never expected that he would come back.",
+          "zh": "她从未期望他会回来。"
+        }
+      ]
+    }
+  ]
+}

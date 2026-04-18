@@ -1,0 +1,394 @@
+{
+  "book": "NCE2",
+  "lesson": "46",
+  "title": "What did the man in this story do?",
+  "vocabulary": [
+    {
+      "word": "unload",
+      "phonetic": "/ˌʌnˈləʊd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "卸（货）；从...卸下货物",
+          "usage": "指从交通工具上卸下货物，与load（装载）相对"
+        }
+      ]
+    },
+    {
+      "word": "wooden",
+      "phonetic": "/ˈwʊdn/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "木制的；木头的",
+          "usage": "由名词wood + en构成，表示材质"
+        }
+      ]
+    },
+    {
+      "word": "extremely",
+      "phonetic": "/ɪkˈstriːmli/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "极其；非常",
+          "usage": "用于强调程度，相当于very much，但语气更强"
+        }
+      ]
+    },
+    {
+      "word": "occur",
+      "phonetic": "/əˈkɜː/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "发生；出现",
+          "usage": "常用于It occurred to sb that...句型，表示某人突然想起"
+        }
+      ]
+    },
+    {
+      "word": "astonish",
+      "phonetic": "/əˈstɒnɪʃ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "使惊讶；使感到震惊",
+          "usage": "强调意外程度比surprise更大"
+        }
+      ]
+    },
+    {
+      "word": "discover",
+      "phonetic": "/dɪˈskʌvə/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "发现；发觉",
+          "usage": "指发现原本存在但未被知晓的事物或情况"
+        }
+      ]
+    },
+    {
+      "word": "confine",
+      "phonetic": "/kənˈfaɪn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "限制；使局限；禁闭",
+          "usage": "常与to连用，表示被困在狭小空间"
+        }
+      ]
+    },
+    {
+      "word": "admit",
+      "phonetic": "/ədˈmɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "承认；供认",
+          "usage": "后接名词或动名词，表示承认某事"
+        }
+      ]
+    },
+    {
+      "word": "arrest",
+      "phonetic": "/əˈrest/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "逮捕；拘留",
+          "usage": "指依法拘留犯罪嫌疑人"
+        }
+      ]
+    },
+    {
+      "word": "account",
+      "phonetic": "/əˈkaʊnt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "解释；说明（原因）",
+          "usage": "account for表示解释原因或占据（数量比例）"
+        }
+      ]
+    },
+    {
+      "word": "pile",
+      "phonetic": "/paɪl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "堆；叠；摞",
+          "usage": "a pile of表示一堆，可用于实物或抽象概念"
+        }
+      ]
+    },
+    {
+      "word": "order",
+      "phonetic": "/ˈɔːdə/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "命令；指示；订购",
+          "usage": "be ordered to do sth表示被命令做某事"
+        }
+      ]
+    },
+    {
+      "word": "normal",
+      "phonetic": "/ˈnɔːml/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "正常的；标准的；平常的",
+          "usage": "指符合常规的或标准的"
+        }
+      ]
+    },
+    {
+      "word": "price",
+      "phonetic": "/praɪs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "价格；价钱",
+          "usage": "指商品或服务的价格，常与high/low搭配"
+        }
+      ]
+    },
+    {
+      "word": "trip",
+      "phonetic": "/trɪp/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "旅行；旅程；行程",
+          "usage": "指短途旅行或行程，也可指旅途"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "begin to do sth",
+      "usage": "开始做某事，表示动作的开始",
+      "examples": [
+        {
+          "en": "Workers began to unload the boxes.",
+          "zh": "工人们开始卸箱子。"
+        }
+      ]
+    },
+    {
+      "phrase": "a number of",
+      "usage": "许多；若干，后接可数名词复数",
+      "examples": [
+        {
+          "en": "A number of wooden boxes contained clothing.",
+          "zh": "许多木箱装着衣服。"
+        }
+      ]
+    },
+    {
+      "phrase": "It occurred to sb to do sth",
+      "usage": "某人突然想起做某事",
+      "examples": [
+        {
+          "en": "It occurred to one of the workers to open up the box.",
+          "zh": "其中一个工人突然想起要打开箱子。"
+        }
+      ]
+    },
+    {
+      "phrase": "be astonished at",
+      "usage": "对...感到非常惊讶",
+      "examples": [
+        {
+          "en": "He was astonished at what he found.",
+          "zh": "他对发现的东西感到非常惊讶。"
+        }
+      ]
+    },
+    {
+      "phrase": "try to do sth",
+      "usage": "试图/企图做某事（但未必成功）",
+      "examples": [
+        {
+          "en": "He did not even try to run away.",
+          "zh": "他甚至没有试图逃跑。"
+        }
+      ]
+    },
+    {
+      "phrase": "run away",
+      "usage": "逃跑；跑掉",
+      "examples": [
+        {
+          "en": "The boy ran away from home.",
+          "zh": "那个男孩从家里逃跑了。"
+        }
+      ]
+    },
+    {
+      "phrase": "be ordered to do sth",
+      "usage": "被命令/要求做某事",
+      "examples": [
+        {
+          "en": "The man was ordered to pay £3,500.",
+          "zh": "那个男子被要求支付3500英镑。"
+        }
+      ]
+    },
+    {
+      "phrase": "pay for",
+      "usage": "为...付钱；支付...的费用",
+      "examples": [
+        {
+          "en": "He was ordered to pay for the cost of the trip.",
+          "zh": "他被要求支付旅途费用。"
+        }
+      ]
+    },
+    {
+      "phrase": "on top of",
+      "usage": "在...上面；此外",
+      "examples": [
+        {
+          "en": "A man was lying on top of a pile of woollen goods.",
+          "zh": "一名男子躺在羊毛制品堆的上面。"
+        }
+      ]
+    },
+    {
+      "phrase": "before the plane left London",
+      "usage": "在飞机离开伦敦之前",
+      "examples": [
+        {
+          "en": "He hid in the box before the plane left London.",
+          "zh": "他在飞机离开伦敦之前藏进了箱子里。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去进行时 (Past Continuous Tense)",
+      "definition": "表示在过去某一时刻或某一段时间正在进行的动作",
+      "structure": "主语 + was/were + 动词-ing",
+      "usage": "描述故事发生的背景或正在进行的动作，常与when/while连用",
+      "examples": [
+        {
+          "en": "Workers were unloading wooden boxes when they found the heavy box.",
+          "zh": "工人们正在卸木箱时，发现了那个很重的箱子。"
+        },
+        {
+          "en": "The man was hiding in the box when the plane arrived.",
+          "zh": "飞机到达时，那个男子正藏在箱子里。"
+        }
+      ]
+    },
+    {
+      "title": "过去完成时 (Past Perfect Tense)",
+      "definition": "表示在过去某一时间之前已经完成的动作，即\"过去的过去\"",
+      "structure": "主语 + had + 过去分词",
+      "usage": "用于过去完成时的动作发生在另一个过去动作之前，常与before/after连用",
+      "examples": [
+        {
+          "en": "The man admitted hiding in the box before the plane left London.",
+          "zh": "那个人承认在飞机离开伦敦之前就藏进了箱子里。"
+        },
+        {
+          "en": "He had been confined to the box for over eighteen hours.",
+          "zh": "他已经被关在箱子里超过十八个小时了。"
+        }
+      ]
+    },
+    {
+      "title": "过去完成进行时 (Past Perfect Continuous Tense)",
+      "definition": "表示过去某一时间之前一直在进行的动作",
+      "structure": "主语 + had been + 动词-ing",
+      "usage": "强调动作的持续性和持续时间",
+      "examples": [
+        {
+          "en": "He had been waiting for over eighteen hours.",
+          "zh": "他已经等了超过十八个小时。"
+        },
+        {
+          "en": "The plane had been flying for ten hours before it arrived.",
+          "zh": "飞机到达前已经飞了十个小时。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "No one could account for the fact that...",
+      "original": {
+        "en": "No one could account for the fact that one of the boxes was extremely heavy.",
+        "zh": "没有人能解释其中一个箱子特别重这一事实。"
+      },
+      "imitations": [
+        {
+          "en": "No one could account for the fact that he was late.",
+          "zh": "没有人能解释他迟到的原因。"
+        },
+        {
+          "en": "No one could account for the fact that the door was open.",
+          "zh": "没有人能解释门为什么开着。"
+        }
+      ]
+    },
+    {
+      "pattern": "It occurred to sb to do sth",
+      "original": {
+        "en": "It suddenly occurred to one of the workers to open up the box.",
+        "zh": "其中一个工人突然想起要打开箱子。"
+      },
+      "imitations": [
+        {
+          "en": "It occurred to me to call my mother.",
+          "zh": "我突然想起要给我妈妈打电话。"
+        },
+        {
+          "en": "It occurred to him to ask for help.",
+          "zh": "他突然想起要请求帮助。"
+        }
+      ]
+    },
+    {
+      "pattern": "be ordered to do sth",
+      "original": {
+        "en": "The man was ordered to pay £3,500 for the cost of the trip.",
+        "zh": "那名男子被要求支付3500英镑的旅途费用。"
+      },
+      "imitations": [
+        {
+          "en": "He was ordered to leave the room.",
+          "zh": "他被命令离开房间。"
+        },
+        {
+          "en": "The students were ordered to finish the test in one hour.",
+          "zh": "学生们被要求在一小时内完成考试。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + had been + 动词-ing + for/over + 时间段",
+      "original": {
+        "en": "He had been confined to the wooden box for over eighteen hours.",
+        "zh": "他已经被关在木箱里超过十八个小时了。"
+      },
+      "imitations": [
+        {
+          "en": "She had been waiting for over two hours.",
+          "zh": "她已经等了两个多小时。"
+        },
+        {
+          "en": "They had been working for over ten hours.",
+          "zh": "他们已经工作了十多个小时。"
+        }
+      ]
+    }
+  ]
+}

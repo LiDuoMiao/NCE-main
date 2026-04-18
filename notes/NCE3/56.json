@@ -1,0 +1,409 @@
+{
+  "book": "NCE3",
+  "lesson": "56",
+  "title": "Lesson 56",
+  "vocabulary": [
+    {
+      "word": "boundary",
+      "phonetic": "/ˈbaʊndri/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "边界，分界线",
+          "usage": "指两个地区或区域之间的界限"
+        }
+      ]
+    },
+    {
+      "word": "predecessor",
+      "phonetic": "/ˈpriːdɪsesə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "前任，前辈",
+          "usage": "指在同一职位或角色上之前的人"
+        }
+      ]
+    },
+    {
+      "word": "backwater",
+      "phonetic": "/ˈbækwɔːtə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "回水湾，死水区",
+          "usage": "河流中水流缓慢或静止的区域"
+        }
+      ]
+    },
+    {
+      "word": "overflow",
+      "phonetic": "/ˌəʊvəˈfləʊ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "溢出，泛滥",
+          "usage": "液体超出容器或河岸的界限"
+        },
+        {
+          "pos": "noun",
+          "meaning": "溢出，溢流",
+          "usage": "指泛滥的情况"
+        }
+      ]
+    },
+    {
+      "word": "occurrence",
+      "phonetic": "/əˈkʌrəns/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "发生的事件，偶发的事",
+          "usage": "指发生的事情或事件"
+        }
+      ]
+    },
+    {
+      "word": "wade",
+      "phonetic": "/weɪd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "涉水，趟水",
+          "usage": "在浅水中行走"
+        }
+      ]
+    },
+    {
+      "word": "grapple",
+      "phonetic": "/ˈɡræpl/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "抓住，抓紧",
+          "usage": "用力抓住某物"
+        },
+        {
+          "pos": "verb",
+          "meaning": "努力解决（问题）",
+          "usage": "grapple with something 表示努力处理棘手问题"
+        }
+      ]
+    },
+    {
+      "word": "raft",
+      "phonetic": "/rɑːft/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "木筏，竹筏",
+          "usage": "由木材绑在一起做成的水上交通工具"
+        }
+      ]
+    },
+    {
+      "word": "unduly",
+      "phonetic": "/ˌʌnˈdjuːli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "过度地，不适当地",
+          "usage": "超出正常或合理程度"
+        }
+      ]
+    },
+    {
+      "word": "sweeping",
+      "phonetic": "/ˈswiːpɪŋ/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "一览无余的，广阔的",
+          "usage": "形容视野开阔，涵盖范围广"
+        }
+      ]
+    },
+    {
+      "word": "juncture",
+      "phonetic": "/ˈdʒʌŋktʃə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "时刻，关头",
+          "usage": "at this juncture 表示在这个关键时刻"
+        }
+      ]
+    },
+    {
+      "word": "exhausted",
+      "phonetic": "/ɪɡˈzɔːstɪd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "筋疲力尽的，疲惫的",
+          "usage": "指极度疲劳的状态"
+        }
+      ]
+    },
+    {
+      "word": "proportion",
+      "phonetic": "/prəˈpɔːʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "比例，部分",
+          "usage": "指整体中的份额或比率"
+        }
+      ]
+    },
+    {
+      "word": "crowning",
+      "phonetic": "/ˈkraʊnɪŋ/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "加冕的，顶点的",
+          "usage": "表示最崇高或最重要的"
+        }
+      ]
+    },
+    {
+      "word": "current",
+      "phonetic": "/ˈkʌrənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "水流，潮流",
+          "usage": "指河流中水的流动"
+        },
+        {
+          "pos": "adjective",
+          "meaning": "当前的，现在的",
+          "usage": "指当前的、正在发生的"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "play an important part in",
+      "usage": "在...中起重要作用",
+      "examples": [
+        {
+          "en": "The river has always played an important part in our lives.",
+          "zh": "这条河在我们的生活中一直扮演着重要的角色。"
+        }
+      ]
+    },
+    {
+      "phrase": "make a living",
+      "usage": "谋生，维持生计",
+      "examples": [
+        {
+          "en": "Without it we could not make a living.",
+          "zh": "没有它，我们无法谋生。"
+        }
+      ]
+    },
+    {
+      "phrase": "take turns",
+      "usage": "轮流，依次",
+      "examples": [
+        {
+          "en": "We took turns in watching that point.",
+          "zh": "我们轮流监视那个地点。"
+        }
+      ]
+    },
+    {
+      "phrase": "in the hope of",
+      "usage": "怀着...的希望",
+      "examples": [
+        {
+          "en": "The men waded down with boat hooks in the hope of being able to grapple a corner of the raft.",
+          "zh": "男人们涉水走下去，带着船钩，希望能够抓住木筏的一角。"
+        }
+      ]
+    },
+    {
+      "phrase": "put out of order",
+      "usage": "使出故障，使损坏",
+      "examples": [
+        {
+          "en": "The floods had put the telephone out of order.",
+          "zh": "洪水使电话出了故障。"
+        }
+      ]
+    },
+    {
+      "phrase": "spell disaster",
+      "usage": "意味着灾难，预示灾祸",
+      "examples": [
+        {
+          "en": "Flooding can sometimes spell disaster for their owners.",
+          "zh": "洪水有时会给农场主带来灾难。"
+        }
+      ]
+    },
+    {
+      "phrase": "at the most critical juncture",
+      "usage": "在最关键的时刻",
+      "examples": [
+        {
+          "en": "At the most critical juncture we took turns in watching that point.",
+          "zh": "在最关键的时刻，我们轮流监视那个地点。"
+        }
+      ]
+    },
+    {
+      "phrase": "look rather like",
+      "usage": "看起来有点像",
+      "examples": [
+        {
+          "en": "A raft appeared, looking rather like Noah's ark.",
+          "zh": "一个木筏出现了，看起来有点像诺亚方舟。"
+        }
+      ]
+    },
+    {
+      "phrase": "stand to lose",
+      "usage": "可能失去，注定要损失",
+      "examples": [
+        {
+          "en": "We stood to lose little.",
+          "zh": "我们损失不大。"
+        }
+      ]
+    },
+    {
+      "phrase": "a proportion of",
+      "usage": "...的一部分",
+      "examples": [
+        {
+          "en": "The lower fields make up a very small proportion of our farm.",
+          "zh": "地势较低的田地只占我们农场的一小部分。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去完成时 (Past Perfect Tense)",
+      "definition": "表示在过去某一时间点之前已经完成的动作，强调'过去的过去'。常与一般过去时连用，构成时间上的先后关系。",
+      "structure": "主语 + had + 过去分词",
+      "usage": "用于叙述两个过去的动作，先发生的动作用过去完成时，后发生的动作用一般过去时。也用于after, before, when, as soon as等时间连词引导的复合句中。",
+      "examples": [
+        {
+          "en": "After the floods had put the telephone out of order, we could not find out how they were managing.",
+          "zh": "洪水使电话出现故障后，我们无法了解他们如何应对。"
+        },
+        {
+          "en": "We realized that they must have become unduly frightened by the rising flood.",
+          "zh": "我们意识到他们一定是因上涨的洪水而过度惊慌了。"
+        }
+      ]
+    },
+    {
+      "title": "关系从句（限制性定语从句）",
+      "definition": "用来修饰名词或代词的从句，为句子提供必要的限定信息，不能省略。由关系代词（who, whom, which, that）或关系副词（where, when, why）引导。",
+      "structure": "主句 + 关系代词/副词 + 从句",
+      "usage": "当先行词是物时，用which或that；当先行词是人时，用who, whom或that。关系副词where代替介词+which表示地点。",
+      "examples": [
+        {
+          "en": "The river which forms the eastern boundary of our farm has always played an important part in our lives.",
+          "zh": "形成我们农场东边边界的这条河在我们的生活中一直扮演着重要的角色。"
+        },
+        {
+          "en": "We went upstream to a favourite backwater, where we sometimes had our party.",
+          "zh": "我们有时会到上游一个喜欢的回水湾去，在那里举办聚会。"
+        }
+      ]
+    },
+    {
+      "title": "情态动词must have done（对过去事实的肯定推测）",
+      "definition": "must + have + 过去分词表示对过去发生的事情的肯定推测，意为'一定...'。否定推测用can't have done，意为'不可能...'。",
+      "structure": "主语 + must have + 过去分词",
+      "usage": "用于对过去发生的事实进行有把握的推测，语气较强。",
+      "examples": [
+        {
+          "en": "We realized that they must have become unduly frightened by the rising flood.",
+          "zh": "我们意识到他们一定是因上涨的洪水而过度惊慌了。"
+        },
+        {
+          "en": "He must have passed the exam because he studied so hard.",
+          "zh": "他一定通过考试了，因为他学习很努力。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "The river which/that + 动词...has always played an important part in our lives.",
+      "original": {
+        "en": "The river which forms the eastern boundary of our farm has always played an important part in our lives.",
+        "zh": "形成我们农场东边边界的这条河在我们的生活中一直扮演着重要的角色。"
+      },
+      "imitations": [
+        {
+          "en": "The tree that stands in our garden has always provided us with shade in summer.",
+          "zh": "长在我们花园里的那棵树在夏天一直为我们提供阴凉。"
+        },
+        {
+          "en": "The tradition which our family keeps has always played an important part in our life.",
+          "zh": "我们家族保持的传统在我们的生活中一直扮演着重要的角色。"
+        }
+      ]
+    },
+    {
+      "pattern": "Without + 名词, we could not/couldn't + 动词原形.",
+      "original": {
+        "en": "Without it we could not make a living.",
+        "zh": "没有它，我们无法谋生。"
+      },
+      "imitations": [
+        {
+          "en": "Without water, nothing could survive in the desert.",
+          "zh": "没有水，沙漠中任何东西都无法生存。"
+        },
+        {
+          "en": "Without your help, I could not have finished this task on time.",
+          "zh": "没有你的帮助，我不可能按时完成这项任务。"
+        }
+      ]
+    },
+    {
+      "pattern": "We were worried about + 名词/代词, who/which...",
+      "original": {
+        "en": "We were, however, worried about our nearest neighbours, whose farm was low lying and who were newcomers to the district.",
+        "zh": "然而，我们担心的是我们的近邻，他们的农场地势低洼，而且他们是刚搬到这个地区的。"
+      },
+      "imitations": [
+        {
+          "en": "I was worried about my younger brother, who had to travel alone in the storm.",
+          "zh": "我担心我的弟弟，他不得不在暴风雨中独自旅行。"
+        },
+        {
+          "en": "She was worried about her son, who was always late for school.",
+          "zh": "她担心她的儿子，他总是上学迟到。"
+        }
+      ]
+    },
+    {
+      "pattern": "The first sign of + 名词 was + 名词/动名词...",
+      "original": {
+        "en": "The first sign of disaster was a dead sheep floating down.",
+        "zh": "灾难的第一个迹象是一只死羊漂浮下来。"
+      },
+      "imitations": [
+        {
+          "en": "The first sign of spring was the flowers blooming in the garden.",
+          "zh": "春天的第一个迹象是花园里花朵绽放。"
+        },
+        {
+          "en": "The first sign of trouble was the dark clouds gathering in the sky.",
+          "zh": "麻烦的第一个迹象是天空乌云密布。"
+        }
+      ]
+    }
+  ]
+}

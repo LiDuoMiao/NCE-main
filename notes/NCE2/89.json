@@ -1,0 +1,390 @@
+{
+  "book": "NCE2",
+  "lesson": "89",
+  "title": "Who made the only funny joke that evening and why?",
+  "vocabulary": [
+    {
+      "word": "comedy",
+      "phonetic": "/ˈkɒmədi/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "喜剧；喜剧表演",
+          "usage": "指使人发笑的戏剧或表演形式"
+        }
+      ]
+    },
+    {
+      "word": "present",
+      "phonetic": "/prɪˈzent/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "上演；呈现",
+          "usage": "指演出或展示某事物"
+        }
+      ]
+    },
+    {
+      "word": "queue",
+      "phonetic": "/kjuː/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "排队",
+          "usage": "常与up连用，表示排队等候"
+        }
+      ]
+    },
+    {
+      "word": "unfortunately",
+      "phonetic": "/ʌnˈfɔːtʃənətli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "不幸地",
+          "usage": "用于表达令人失望或糟糕的情况"
+        }
+      ]
+    },
+    {
+      "word": "dull",
+      "phonetic": "/dʌl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "枯燥的；无聊的",
+          "usage": "形容缺乏趣味或刺激的事物"
+        }
+      ]
+    },
+    {
+      "word": "artiste",
+      "phonetic": "/ɑːˈtiːst/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "艺人；演员",
+          "usage": "指专业表演者，如歌手、舞者等"
+        }
+      ]
+    },
+    {
+      "word": "advertiser",
+      "phonetic": "/ˈædvətaɪzə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "广告商；做广告的人",
+          "usage": "指为产品或服务做宣传的人"
+        }
+      ]
+    },
+    {
+      "word": "obviously",
+      "phonetic": "/ˈɒbviəsli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "明显地",
+          "usage": "用于强调某事清晰可见或毋庸置疑"
+        }
+      ]
+    },
+    {
+      "word": "nervous",
+      "phonetic": "/ˈnɜːvəs/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "紧张的",
+          "usage": "描述人因紧张而感到不安的状态"
+        }
+      ]
+    },
+    {
+      "word": "awkwardly",
+      "phonetic": "/ˈɔːkwədli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "笨拙地；尴尬地",
+          "usage": "形容动作不自然或不熟练"
+        }
+      ]
+    },
+    {
+      "word": "microphone",
+      "phonetic": "/ˈmaɪkrəfəʊn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "麦克风；话筒",
+          "usage": "用于扩大声音的电子设备"
+        }
+      ]
+    },
+    {
+      "word": "round",
+      "phonetic": "/raʊnd/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "传播；四处",
+          "usage": "get round表示消息传开"
+        }
+      ]
+    },
+    {
+      "word": "fail",
+      "phonetic": "/feɪl/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "未能做到；失败",
+          "usage": "fail to do something表示未能做成某事"
+        }
+      ]
+    },
+    {
+      "word": "several",
+      "phonetic": "/ˈsevrəl/",
+      "meanings": [
+        {
+          "pos": "determiner",
+          "meaning": "几个；若干",
+          "usage": "表示不确定的较小数量"
+        }
+      ]
+    },
+    {
+      "word": "ladies",
+      "phonetic": "/ˈleɪdiz/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "女士们（复数）",
+          "usage": "对女性听众或观众的正式称呼"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "get round",
+      "usage": "消息传开；传播",
+      "examples": [
+        {
+          "en": "When the news got round, everyone came to see.",
+          "zh": "消息传开后，大家都来看了。"
+        }
+      ]
+    },
+    {
+      "phrase": "queue for",
+      "usage": "排队等候",
+      "examples": [
+        {
+          "en": "We had to queue for hours to get in.",
+          "zh": "我们不得不排了好几个小时的队才能进去。"
+        }
+      ]
+    },
+    {
+      "phrase": "burst out laughing",
+      "usage": "突然大笑起来",
+      "examples": [
+        {
+          "en": "As soon as he opened his mouth, everyone burst out laughing.",
+          "zh": "他一开口，大家就突然大笑起来。"
+        }
+      ]
+    },
+    {
+      "phrase": "stand before",
+      "usage": "站在...前面",
+      "examples": [
+        {
+          "en": "He stood awkwardly before the microphone.",
+          "zh": "他尴尬地站在麦克风前。"
+        }
+      ]
+    },
+    {
+      "phrase": "at the beginning of",
+      "usage": "在...开始时",
+      "examples": [
+        {
+          "en": "He spoke at the beginning of the programme.",
+          "zh": "他在节目开始时讲话。"
+        }
+      ]
+    },
+    {
+      "phrase": "failed to do",
+      "usage": "未能做到；没能做成",
+      "examples": [
+        {
+          "en": "Those who failed to get in need not have felt disappointed.",
+          "zh": "那些没能进去的人不必感到失望。"
+        }
+      ]
+    },
+    {
+      "phrase": "should have done",
+      "usage": "本应该做（但实际没做）",
+      "examples": [
+        {
+          "en": "Many of the artistes who should have appeared did not come.",
+          "zh": "许多本应该出现的艺人没有来。"
+        }
+      ]
+    },
+    {
+      "phrase": "need not have done",
+      "usage": "本不必做（但实际做了）",
+      "examples": [
+        {
+          "en": "Those who failed to get in need not have felt disappointed.",
+          "zh": "那些没能进去的人本不必感到失望。"
+        }
+      ]
+    },
+    {
+      "phrase": "open one's mouth",
+      "usage": "张嘴；开口说话",
+      "examples": [
+        {
+          "en": "As soon as he opened his mouth, everyone burst out laughing.",
+          "zh": "他一开口，大家就大笑起来。"
+        }
+      ]
+    },
+    {
+      "phrase": "good ladies, evening and gentlemen",
+      "usage": "女士们，晚上好（的错误说法）",
+      "examples": [
+        {
+          "en": "What he actually said was: 'Good ladies, evening and gentlemen!'",
+          "zh": "他实际说的是：'女士们好，晚上和先生们！'"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "情态动词need的用法（needn't have done）",
+      "definition": "needn't have + 过去分词表示本不必做某事（但实际上已经做了）",
+      "structure": "主语 + needn't have + 过去分词",
+      "usage": "用于表达某动作是不必要的，但已经发生了",
+      "examples": [
+        {
+          "en": "Those who failed to get in need not have felt disappointed.",
+          "zh": "那些没能进去的人本不必感到失望。"
+        },
+        {
+          "en": "You needn't have waited for me.",
+          "zh": "你本不必等我的。"
+        }
+      ]
+    },
+    {
+      "title": "情态动词should的用法（should have done）",
+      "definition": "should have + 过去分词表示本应该做某事（但实际没做）",
+      "structure": "主语 + should have + 过去分词",
+      "usage": "用于表达遗憾或责备，暗示期望与现实的差距",
+      "examples": [
+        {
+          "en": "Many of the artistes who should have appeared did not come.",
+          "zh": "许多本应该出现的艺人没有来。"
+        },
+        {
+          "en": "I should have studied harder for the exam.",
+          "zh": "我本应该更努力学习考试的。"
+        }
+      ]
+    },
+    {
+      "title": "when引导的时间状语从句",
+      "definition": "when引导的时间状语从句，说明主句动作发生的背景或时机",
+      "structure": "When + 从句, 主句",
+      "usage": "when在此处意为'当...的时候'或'当...的消息传开时'",
+      "examples": [
+        {
+          "en": "When the news got round that a comedy show would be presented, we all rushed to see it.",
+          "zh": "当免费喜剧表演的消息传开时，我们都赶去看。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "People will do anything to + 动词原形",
+      "original": {
+        "en": "People will do anything to see a free show--even if it is a bad one.",
+        "zh": "人们会做任何事去看免费表演——即使是很糟糕的。"
+      },
+      "imitations": [
+        {
+          "en": "People will do anything to get a bargain.",
+          "zh": "人们会做任何事来买到便宜货。"
+        },
+        {
+          "en": "Students will do anything to pass the exam.",
+          "zh": "学生们会做任何事来通过考试。"
+        }
+      ]
+    },
+    {
+      "pattern": "When the news got round that...",
+      "original": {
+        "en": "When the news got round that a comedy show would be presented at our local cinema, we all rushed to see it.",
+        "zh": "当喜剧表演将在当地电影院上演的消息传开时，我们都赶去看。"
+      },
+      "imitations": [
+        {
+          "en": "When the news got round that the store was closing down, everyone rushed there.",
+          "zh": "当那家店即将关门的消息传开时，大家都赶了过去。"
+        },
+        {
+          "en": "When the news got round that he won the lottery, his phone never stopped ringing.",
+          "zh": "当他中彩票的消息传开时，他的电话响个不停。"
+        }
+      ]
+    },
+    {
+      "pattern": "The only...was/were...",
+      "original": {
+        "en": "The only funny things we heard that evening came from the advertiser.",
+        "zh": "那天晚上我们听到的唯一有趣的事情来自那个广告商。"
+      },
+      "imitations": [
+        {
+          "en": "The only food left in the fridge was some old bread.",
+          "zh": "冰箱里剩下的唯一食物是一些旧面包。"
+        },
+        {
+          "en": "The only person who understood the problem was the teacher.",
+          "zh": "唯一理解这个问题的人是老师。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + be obviously + 形容词/副词",
+      "original": {
+        "en": "He was obviously very nervous and for some minutes stood awkwardly before the microphone.",
+        "zh": "他显然非常紧张，在麦克风前笨拙地站了好几分钟。"
+      },
+      "imitations": [
+        {
+          "en": "She was obviously very tired after the long journey.",
+          "zh": "长途旅行后，她显然非常疲惫。"
+        },
+        {
+          "en": "The student was obviously very nervous during the presentation.",
+          "zh": "那个学生在做报告时显然非常紧张。"
+        }
+      ]
+    }
+  ]
+}

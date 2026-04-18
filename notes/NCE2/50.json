@@ -1,0 +1,426 @@
+{
+  "book": "NCE2",
+  "lesson": "50",
+  "title": "Why did the writer not get off the bus at Woodford Green?",
+  "vocabulary": [
+    {
+      "word": "excursion",
+      "phonetic": "/ɪkˈskɜːʃən/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "远足；短途旅行；游览",
+          "usage": "通常指有组织的一日游或短途旅行"
+        }
+      ]
+    },
+    {
+      "word": "conductor",
+      "phonetic": "/kənˈdʌktə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "售票员；导体",
+          "usage": "指公共汽车或火车上的售票员"
+        }
+      ]
+    },
+    {
+      "word": "countryside",
+      "phonetic": "/ˈkʌntrisaɪd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "乡村；农村",
+          "usage": "指城镇以外的地区，乡村风景"
+        }
+      ]
+    },
+    {
+      "word": "passenger",
+      "phonetic": "/ˈpæsɪndʒə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "乘客；旅客",
+          "usage": "指乘坐公共交通工具的人"
+        }
+      ]
+    },
+    {
+      "word": "shock",
+      "phonetic": "/ʃɒk/",
+      "meanings": [
+        {
+          "pos": "noun/verb",
+          "meaning": "震惊；使震惊",
+          "usage": "作名词时指惊讶的感觉；作动词指使震惊"
+        }
+      ]
+    },
+    {
+      "word": "matter",
+      "phonetic": "/ˈmætə/",
+      "meanings": [
+        {
+          "pos": "verb/noun",
+          "meaning": "重要；要紧；事情",
+          "usage": "常用于It doesn't matter表示没关系"
+        }
+      ]
+    },
+    {
+      "word": "forget",
+      "phonetic": "/fəˈɡet/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "忘记",
+          "usage": "过去式为forgot，过去分词为forgotten"
+        }
+      ]
+    },
+    {
+      "word": "prefer",
+      "phonetic": "/prɪˈfɜː/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "更喜欢；宁愿",
+          "usage": "prefer to do sth表示宁愿做某事"
+        }
+      ]
+    },
+    {
+      "word": "view",
+      "phonetic": "/vjuː/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "景色；视野；观点",
+          "usage": "指从某处看到的风景或景色"
+        }
+      ]
+    },
+    {
+      "word": "recently",
+      "phonetic": "/ˈriːsəntli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "最近；近来",
+          "usage": "用于谈论过去不久发生的事情"
+        }
+      ]
+    },
+    {
+      "word": "conductor",
+      "phonetic": "/kənˈdʌktə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "售票员",
+          "usage": "公共汽车或火车上的工作人员"
+        }
+      ]
+    },
+    {
+      "word": "lose",
+      "phonetic": "/luːz/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "失去；迷路",
+          "usage": "lose one's way表示迷路"
+        }
+      ]
+    },
+    {
+      "word": "journey",
+      "phonetic": "/ˈdʒɜːni/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "旅行；旅程",
+          "usage": "指从一地到另一地的旅行过程"
+        }
+      ]
+    },
+    {
+      "word": "expect",
+      "phonetic": "/ɪkˈspekt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "期望；预料",
+          "usage": "指预计某事会发生"
+        }
+      ]
+    },
+    {
+      "word": "suddenly",
+      "phonetic": "/ˈsʌdənli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "突然地；出乎意料地",
+          "usage": "描述事情发生得很迅速且意外"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "get off",
+      "usage": "下车，指从公共交通工具上下来",
+      "examples": [
+        {
+          "en": "You'll have to get off here.",
+          "zh": "你得在这里下车。"
+        },
+        {
+          "en": "Where should I get off?",
+          "zh": "我应该在哪儿下车？"
+        }
+      ]
+    },
+    {
+      "phrase": "as far as",
+      "usage": "到...为止，表示距离或程度的终点",
+      "examples": [
+        {
+          "en": "This is as far as we go.",
+          "zh": "这是我们能到达的最远的地方。"
+        },
+        {
+          "en": "As far as I know, he is a good teacher.",
+          "zh": "据我所知，他是个好老师。"
+        }
+      ]
+    },
+    {
+      "phrase": "in that case",
+      "usage": "既然那样/如果是这样的话，用于基于前面情况做出判断",
+      "examples": [
+        {
+          "en": "Well, in that case, I prefer to stay on the bus.",
+          "zh": "既然那样，我宁愿继续待在车上。"
+        },
+        {
+          "en": "It might rain. In that case, we'll stay indoors.",
+          "zh": "可能会下雨。如果是这样的话，我们就待在室内。"
+        }
+      ]
+    },
+    {
+      "phrase": "prefer to",
+      "usage": "宁愿/更喜欢，表示选择偏好",
+      "examples": [
+        {
+          "en": "I prefer to stay on the bus.",
+          "zh": "我宁愿留在车上。"
+        },
+        {
+          "en": "She prefers to walk rather than take a bus.",
+          "zh": "她宁愿走路也不愿坐公交车。"
+        }
+      ]
+    },
+    {
+      "phrase": "forget to do sth",
+      "usage": "忘记去做某事，指本应该做但没有做",
+      "examples": [
+        {
+          "en": "I forgot to put you off.",
+          "zh": "我忘了让你下车。"
+        },
+        {
+          "en": "Don't forget to lock the door.",
+          "zh": "别忘了锁门。"
+        }
+      ]
+    },
+    {
+      "phrase": "have to",
+      "usage": "不得不，必须，表示必要性",
+      "examples": [
+        {
+          "en": "You'll have to get off here.",
+          "zh": "你得在这里下车。"
+        },
+        {
+          "en": "I have to go now.",
+          "zh": "我现在得走了。"
+        }
+      ]
+    },
+    {
+      "phrase": "going back",
+      "usage": "回去，返回，指返回原来的地方",
+      "examples": [
+        {
+          "en": "We're going back now.",
+          "zh": "我们现在要回去了。"
+        },
+        {
+          "en": "When are you going back home?",
+          "zh": "你什么时候回家？"
+        }
+      ]
+    },
+    {
+      "phrase": "lose one's way",
+      "usage": "迷路，找不到路",
+      "examples": [
+        {
+          "en": "I don't like losing my way.",
+          "zh": "我不喜欢迷路。"
+        }
+      ]
+    },
+    {
+      "phrase": "a good view of",
+      "usage": "良好的视野/景色，欣赏风景",
+      "examples": [
+        {
+          "en": "I sat in the front of the bus to get a good view of the countryside.",
+          "zh": "我坐在公交车的前部，以便好好欣赏乡村景色。"
+        }
+      ]
+    },
+    {
+      "phrase": "It doesn't matter",
+      "usage": "没关系，不要紧，用于回应道歉或表示不重要",
+      "examples": [
+        {
+          "en": "It doesn't matter. I'll get off here.",
+          "zh": "没关系，我就在这里下车。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "一般过去时 (Simple Past Tense)",
+      "definition": "表示过去发生的动作或存在的状态，通常与过去的时间状语连用",
+      "structure": "主语 + 动词过去式",
+      "usage": "用于叙述过去发生的事情，故事中的叙述大多使用一般过去时",
+      "examples": [
+        {
+          "en": "I went on an excursion recently.",
+          "zh": "我最近去了一次短途旅行。"
+        },
+        {
+          "en": "The bus stopped and I realized I was the only passenger left.",
+          "zh": "公交车停了，我意识到我是车上唯一剩下的乘客。"
+        },
+        {
+          "en": "The conductor forgot to put me off.",
+          "zh": "售票员忘了让我下车。"
+        }
+      ]
+    },
+    {
+      "title": "be going to 表示将来计划",
+      "definition": "表示已经决定或计划好的将来动作，或根据眼前情况预测即将发生的事",
+      "structure": "主语 + am/is/are + going to + 动词原形",
+      "usage": "表达明确的计划或意图，We're going back now 表示即将返回的动作",
+      "examples": [
+        {
+          "en": "We're going back now.",
+          "zh": "我们现在要回去了。"
+        },
+        {
+          "en": "I'm going to Woodford Green.",
+          "zh": "我要去伍德福德格林。"
+        }
+      ]
+    },
+    {
+      "title": "will 用于将来时态",
+      "definition": "will表示对将来的预测、承诺或临时决定",
+      "structure": "主语 + will + 动词原形",
+      "usage": "表示说话时即时做出的决定或承诺",
+      "examples": [
+        {
+          "en": "I'll tell you where to get off.",
+          "zh": "我会告诉你在哪站下车。"
+        },
+        {
+          "en": "I'll get off here.",
+          "zh": "我就在这里下车吧。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "I'm going to + 地点",
+      "original": {
+        "en": "I'm going to Woodford Green.",
+        "zh": "我要去伍德福德格林。"
+      },
+      "imitations": [
+        {
+          "en": "I'm going to the train station.",
+          "zh": "我要去火车站。"
+        },
+        {
+          "en": "I'm going to London next week.",
+          "zh": "下周我要去伦敦。"
+        }
+      ]
+    },
+    {
+      "pattern": "I don't know + 宾语从句",
+      "original": {
+        "en": "I don't know where it is.",
+        "zh": "我不知道它在哪里。"
+      },
+      "imitations": [
+        {
+          "en": "I don't know how to get there.",
+          "zh": "我不知道怎么去那里。"
+        },
+        {
+          "en": "I don't know when the bus arrives.",
+          "zh": "我不知道公交车什么时候到。"
+        }
+      ]
+    },
+    {
+      "pattern": "I'll tell you + 从句",
+      "original": {
+        "en": "I'll tell you where to get off.",
+        "zh": "我会告诉你在哪里下车。"
+      },
+      "imitations": [
+        {
+          "en": "I'll tell you when to get off.",
+          "zh": "我会告诉你什么时候下车。"
+        },
+        {
+          "en": "He'll tell you where to wait.",
+          "zh": "他会告诉你在哪里等。"
+        }
+      ]
+    },
+    {
+      "pattern": "In that case, + 主句",
+      "original": {
+        "en": "In that case, I prefer to stay on the bus.",
+        "zh": "既然那样，我宁愿继续待在车上。"
+      },
+      "imitations": [
+        {
+          "en": "In that case, I'll take a taxi.",
+          "zh": "既然那样，我就打车。"
+        },
+        {
+          "en": "In that case, we should leave early.",
+          "zh": "既然那样，我们应该早点出发。"
+        }
+      ]
+    }
+  ]
+}

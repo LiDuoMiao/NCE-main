@@ -1,0 +1,399 @@
+{
+  "book": "NCE2",
+  "lesson": "61",
+  "title": "What is the special importance of a telescope in space?",
+  "vocabulary": [
+    {
+      "word": "telescope",
+      "phonetic": "/ˈtelɪskəʊp/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "望远镜",
+          "usage": "用于观察远处物体的光学仪器"
+        }
+      ]
+    },
+    {
+      "word": "launch",
+      "phonetic": "/lɔːntʃ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "发射；把...投入市场",
+          "usage": "指将火箭、飞船等发射升空"
+        }
+      ]
+    },
+    {
+      "word": "cost",
+      "phonetic": "/kɒst/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "费用；成本",
+          "usage": "指购买或做某事所需的金钱"
+        },
+        {
+          "pos": "verb",
+          "meaning": "花费",
+          "usage": "表示某物值多少钱"
+        }
+      ]
+    },
+    {
+      "word": "trouble",
+      "phonetic": "/ˈtrʌbl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "麻烦；问题",
+          "usage": "指遇到的困难或麻烦"
+        },
+        {
+          "pos": "verb",
+          "meaning": "麻烦；打扰",
+          "usage": "指给人添麻烦"
+        }
+      ]
+    },
+    {
+      "word": "disappointing",
+      "phonetic": "/ˌdɪsəˈpɔɪntɪŋ/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "令人失望的",
+          "usage": "形容某事物没有达到期望"
+        }
+      ]
+    },
+    {
+      "word": "faulty",
+      "phonetic": "/ˈfɔːlti/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "有故障的；有缺陷的",
+          "usage": "描述机器或设备有毛病"
+        }
+      ]
+    },
+    {
+      "word": "astronaut",
+      "phonetic": "/ˈæstrənɔːt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "宇航员",
+          "usage": "指在太空执行任务的人"
+        }
+      ]
+    },
+    {
+      "word": "atmosphere",
+      "phonetic": "/ˈætməsfɪə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "大气层；气氛",
+          "usage": "指围绕地球的气体层"
+        }
+      ]
+    },
+    {
+      "word": "galaxy",
+      "phonetic": "/ˈɡæləksi/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "星系",
+          "usage": "指由恒星、星云等组成的系统"
+        }
+      ]
+    },
+    {
+      "word": "universe",
+      "phonetic": "/ˈjuːnɪvɜːs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "宇宙",
+          "usage": "指所有的空间、物质和能量"
+        }
+      ]
+    },
+    {
+      "word": "repair",
+      "phonetic": "/rɪˈpeə/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "修理；修复",
+          "usage": "指把损坏的东西修好"
+        },
+        {
+          "pos": "noun",
+          "meaning": "修理；修补",
+          "usage": "指修理的行为或结果"
+        }
+      ]
+    },
+    {
+      "word": "grab",
+      "phonetic": "/ɡræb/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "抓住；攫取",
+          "usage": "指用力抓住某物"
+        }
+      ]
+    },
+    {
+      "word": "thousand",
+      "phonetic": "/ˈθaʊzənd/",
+      "meanings": [
+        {
+          "pos": "numeral",
+          "meaning": "千",
+          "usage": "表示数字1000"
+        }
+      ]
+    },
+    {
+      "word": "eagle eye",
+      "phonetic": "/ˈiːɡl aɪ/",
+      "meanings": [
+        {
+          "pos": "noun phrase",
+          "meaning": "敏锐的目光；鹰眼",
+          "usage": "比喻观察力非常敏锐"
+        }
+      ]
+    },
+    {
+      "word": "shuttle",
+      "phonetic": "/ˈʃʌtl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "航天飞机；穿梭机",
+          "usage": "指可重复使用的航天器"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "right from the start",
+      "usage": "从一开始，表示从一开始就出现问题或情况",
+      "examples": [
+        {
+          "en": "Right from the start there was trouble with the Hubble.",
+          "zh": "从一开始，哈勃望远镜就有问题。"
+        }
+      ]
+    },
+    {
+      "phrase": "put right",
+      "usage": "修正；纠正；使恢复正常",
+      "examples": [
+        {
+          "en": "NASA is now going to put the telescope right.",
+          "zh": "美国国家航空航天局现在准备把望远镜修好。"
+        }
+      ]
+    },
+    {
+      "phrase": "send up",
+      "usage": "发射；把...送上去",
+      "examples": [
+        {
+          "en": "It will soon be sending up four astronauts to repair it.",
+          "zh": "它很快将把四名宇航员送上太空去修理它。"
+        }
+      ]
+    },
+    {
+      "phrase": "take...to...",
+      "usage": "带...去...",
+      "examples": [
+        {
+          "en": "The shuttle Endeavour will be taking the astronauts to the Hubble.",
+          "zh": "奋进号航天飞机将把宇航员送往哈勃望远镜。"
+        }
+      ]
+    },
+    {
+      "phrase": "make repairs",
+      "usage": "进行修理；做维修工作",
+      "examples": [
+        {
+          "en": "The astronauts make the necessary repairs.",
+          "zh": "宇航员们进行必要的维修工作。"
+        }
+      ]
+    },
+    {
+      "phrase": "above the earth's atmosphere",
+      "usage": "在地球大气层之上",
+      "examples": [
+        {
+          "en": "The Hubble is above the earth's atmosphere.",
+          "zh": "哈勃望远镜在地球大气层之上。"
+        }
+      ]
+    },
+    {
+      "phrase": "tell us a great deal about",
+      "usage": "告诉我们很多关于...",
+      "examples": [
+        {
+          "en": "The Hubble will tell us a great deal about the age and size of the universe.",
+          "zh": "哈勃望远镜将告诉我们很多关于宇宙的年龄和大小。"
+        }
+      ]
+    },
+    {
+      "phrase": "by the time",
+      "usage": "到...时候（为止）",
+      "examples": [
+        {
+          "en": "By the time you read this, the Hubble's eagle eye will have sent us thousands of pictures.",
+          "zh": "到你读到这个的时候，哈勃的鹰眼将已经给我们发送了成千上万的照片。"
+        }
+      ]
+    },
+    {
+      "phrase": "hold...while...",
+      "usage": "当...的时候握住/保持...",
+      "examples": [
+        {
+          "en": "A robot-arm will grab the telescope and hold it while the astronauts make the necessary repairs.",
+          "zh": "机械臂将抓住望远镜并保持稳定，而宇航员们进行必要的维修工作。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去将来时 (Future in the Past)",
+      "definition": "表示从过去某时看来将要发生的动作或存在的状态，常用于宾语从句中",
+      "structure": "would + 动词原形 / was/were going to + 动词原形",
+      "usage": "当主句谓语是过去时态时（如said, thought, knew等），宾语从句中要使用过去将来时表示当时认为将要发生的事",
+      "examples": [
+        {
+          "en": "Right from the start there was trouble with the Hubble. (客观事实)",
+          "zh": "从一开始哈勃望远镜就有问题。"
+        },
+        {
+          "en": "NASA was going to put the telescope right. (当时计划要做的)",
+          "zh": "美国国家航空航天局准备把望远镜修好。"
+        },
+        {
+          "en": "By the time you read this, the Hubble's eagle eye will have sent us thousands of wonderful pictures. (将来完成时)",
+          "zh": "到你读到这个的时候，哈勃的鹰眼将已经给我们发送了成千上万张精彩的照片。"
+        }
+      ]
+    },
+    {
+      "title": "将来进行时 (Future Continuous)",
+      "definition": "表示在将来某一时刻或某段时间正在进行的动作",
+      "structure": "will be + 动词-ing",
+      "usage": "用于描述在将来某个时间正在发生的动作，强调动作的进行性",
+      "examples": [
+        {
+          "en": "It will soon be sending us the clearest pictures of the stars.",
+          "zh": "它很快将给我们发送最清晰的星星照片。"
+        },
+        {
+          "en": "The shuttle Endeavour will be taking the astronauts to the Hubble.",
+          "zh": "奋进号航天飞机将把宇航员送往哈勃望远镜。"
+        }
+      ]
+    },
+    {
+      "title": "将来完成时 (Future Perfect)",
+      "definition": "表示在将来某一时刻之前已经完成的动作",
+      "structure": "will have + 过去分词",
+      "usage": "用于描述到将来某个时间为止已经完成的事情，常与by the time等时间状语连用",
+      "examples": [
+        {
+          "en": "By the time you read this, the Hubble's eagle eye will have sent us thousands of wonderful pictures.",
+          "zh": "到你读到这个的时候，哈勃的鹰眼将已经给我们发送了成千上万张精彩的照片。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "...was launched into space by...on...",
+      "original": {
+        "en": "The Hubble telescope was launched into space by NASA on April 20, 1990.",
+        "zh": "哈勃望远镜于1990年4月20日由美国国家航空航天局发射升空。"
+      },
+      "imitations": [
+        {
+          "en": "The satellite was launched into space by China last year.",
+          "zh": "这颗卫星去年由中国发射升空。"
+        },
+        {
+          "en": "A new spacecraft was launched into orbit by SpaceX yesterday.",
+          "zh": "昨天SpaceX公司将一艘新宇宙飞船发射到轨道上。"
+        }
+      ]
+    },
+    {
+      "pattern": "...is now going to...",
+      "original": {
+        "en": "NASA is now going to put the telescope right.",
+        "zh": "美国国家航空航天局现在准备把望远镜修好。"
+      },
+      "imitations": [
+        {
+          "en": "The company is now going to launch a new product.",
+          "zh": "这家公司现在准备推出一款新产品。"
+        },
+        {
+          "en": "They are now going to make important changes.",
+          "zh": "他们现在准备做出重要的改变。"
+        }
+      ]
+    },
+    {
+      "pattern": "...will tell us a great deal about...",
+      "original": {
+        "en": "The Hubble will tell us a great deal about the age and size of the universe.",
+        "zh": "哈勃望远镜将告诉我们很多关于宇宙的年龄和大小。"
+      },
+      "imitations": [
+        {
+          "en": "This research will tell us a great deal about climate change.",
+          "zh": "这项研究将告诉我们很多关于气候变化的信息。"
+        },
+        {
+          "en": "The new book will tell us a great deal about history.",
+          "zh": "这本新书将告诉我们很多关于历史的知识。"
+        }
+      ]
+    },
+    {
+      "pattern": "By the time..., ...will have + 过去分词",
+      "original": {
+        "en": "By the time you read this, the Hubble's eagle eye will have sent us thousands of wonderful pictures.",
+        "zh": "到你读到这个的时候，哈勃的鹰眼将已经给我们发送了成千上万张精彩的照片。"
+      },
+      "imitations": [
+        {
+          "en": "By the time you arrive, I will have finished the work.",
+          "zh": "到你到达的时候，我将已经完成这项工作。"
+        },
+        {
+          "en": "By the time we get there, the movie will have started.",
+          "zh": "到我们到达那里的时候，电影将已经开始了。"
+        }
+      ]
+    }
+  ]
+}

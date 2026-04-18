@@ -1,0 +1,386 @@
+{
+  "book": "NCE4",
+  "lesson": "31",
+  "title": "Lesson 31",
+  "vocabulary": [
+    {
+      "word": "sculptor",
+      "phonetic": "/ˈskʌlptə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "雕刻家，雕塑家",
+          "usage": "指从事雕塑创作的职业艺术家"
+        }
+      ]
+    },
+    {
+      "word": "appreciate",
+      "phonetic": "/əˈpriːʃieɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "欣赏，鉴赏",
+          "usage": "指对艺术、美等有深入的理解和感知"
+        },
+        {
+          "pos": "verb",
+          "meaning": "感激，感谢",
+          "usage": "表示对他人的帮助或付出怀有谢意"
+        }
+      ]
+    },
+    {
+      "word": "dimension",
+      "phonetic": "/daɪˈmenʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "维度，方面",
+          "usage": "用于描述空间的维度，也可引申为事物的某一方面"
+        }
+      ]
+    },
+    {
+      "word": "sculpture",
+      "phonetic": "/ˈskʌlptʃə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "雕塑，雕刻作品",
+          "usage": "指三维的造型艺术作品，也可指雕塑这一艺术形式"
+        }
+      ]
+    },
+    {
+      "word": "perception",
+      "phonetic": "/pəˈsepʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "感知，看法",
+          "usage": "指人通过感官对事物产生的认知，也可指主观的看法"
+        }
+      ]
+    },
+    {
+      "word": "spatial",
+      "phonetic": "/ˈspeɪʃl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "空间的，与空间有关的",
+          "usage": "用于修饰和空间、位置相关的概念"
+        }
+      ]
+    },
+    {
+      "word": "strive",
+      "phonetic": "/straɪv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "努力，奋斗",
+          "usage": "强调为了某个目标付出持续的努力，常见搭配strive for sth/strive to do sth"
+        }
+      ]
+    },
+    {
+      "word": "visualize",
+      "phonetic": "/ˈvɪʒuəlaɪz/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "想象，使可视化",
+          "usage": "指在脑海中形成清晰的图像或画面"
+        }
+      ]
+    },
+    {
+      "word": "gravity",
+      "phonetic": "/ˈɡrævəti/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "重力，地心引力",
+          "usage": "物理学概念，也可引申为严重性"
+        }
+      ]
+    },
+    {
+      "word": "volume",
+      "phonetic": "/ˈvɒljuːm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "体积，容积",
+          "usage": "描述物体所占空间的大小，也可指音量、书卷"
+        }
+      ]
+    },
+    {
+      "word": "sensitive",
+      "phonetic": "/ˈsensətɪv/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "敏感的，敏锐的",
+          "usage": "形容人对事物的感知力强，也可指易受伤害的"
+        }
+      ]
+    },
+    {
+      "word": "reminiscence",
+      "phonetic": "/ˌremɪˈnɪsns/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "回忆，怀旧",
+          "usage": "指对过去事物的记忆和回想"
+        }
+      ]
+    },
+    {
+      "word": "perceive",
+      "phonetic": "/pəˈsiːv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "感知，认为",
+          "usage": "指通过感官察觉，也可指对事物形成某种看法"
+        }
+      ]
+    },
+    {
+      "word": "significance",
+      "phonetic": "/sɪɡˈnɪfɪkəns/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "意义，重要性",
+          "usage": "指事物的含义或重要程度"
+        }
+      ]
+    },
+    {
+      "word": "combination",
+      "phonetic": "/ˌkɒmbɪˈneɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "结合，组合",
+          "usage": "指多个事物组合在一起的整体，或组合的过程"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "depend upon/on",
+      "usage": "表示某事物由另一事物决定或取决于后者",
+      "examples": [
+        {
+          "en": "The success of the project depends upon the cooperation of all team members.",
+          "zh": "这个项目的成功取决于所有团队成员的合作。"
+        },
+        {
+          "en": "Your grade will depend on your final exam performance.",
+          "zh": "你的成绩将取决于你期末考试的表现。"
+        }
+      ]
+    },
+    {
+      "phrase": "by means of",
+      "usage": "表示通过某种方式、方法或工具达成目的，是较正式的表达",
+      "examples": [
+        {
+          "en": "We can lift the heavy box by means of a pulley.",
+          "zh": "我们可以借助滑轮抬起这个重箱子。"
+        },
+        {
+          "en": "The rescue team communicated with each other by means of walkie-talkies.",
+          "zh": "救援队通过对讲机互相沟通。"
+        }
+      ]
+    },
+    {
+      "phrase": "as it were",
+      "usage": "插入语，用于表示所说的话不完全准确，是一种比喻或委婉的说法，可译为“可以说，在某种程度上”",
+      "examples": [
+        {
+          "en": "The new shopping centre is, as it were, the heart of the city.",
+          "zh": "这个新的购物中心可以说是这座城市的心脏。"
+        },
+        {
+          "en": "He is, as it were, a walking dictionary in our class.",
+          "zh": "他在我们班可以说是一本活字典。"
+        }
+      ]
+    },
+    {
+      "phrase": "identify with",
+      "usage": "表示与某人/某物产生共鸣，或者将自己等同于某人/某物，理解其感受",
+      "examples": [
+        {
+          "en": "Many readers identify with the main character of the novel.",
+          "zh": "很多读者都和这本小说的主角产生了共鸣。"
+        },
+        {
+          "en": "It's hard for children to identify with the worries of adults.",
+          "zh": "孩子很难理解成年人的烦恼。"
+        }
+      ]
+    },
+    {
+      "phrase": "apart from",
+      "usage": "表示“除了……之外，撇开……不谈”，既可以表示包含也可以表示排除的含义",
+      "examples": [
+        {
+          "en": "Apart from the cost, the dress is very suitable for you.",
+          "zh": "撇开价格不谈，这条裙子非常适合你。"
+        },
+        {
+          "en": "Apart from English, he can also speak French and Japanese.",
+          "zh": "除了英语之外，他还会说法语和日语。"
+        }
+      ]
+    },
+    {
+      "phrase": "strive to do sth",
+      "usage": "表示为了达成某个目标而努力奋斗，强调付出持续的努力",
+      "examples": [
+        {
+          "en": "Scientists strive to find a cure for this rare disease.",
+          "zh": "科学家们努力寻找这种罕见疾病的治疗方法。"
+        },
+        {
+          "en": "Every student should strive to improve their learning efficiency.",
+          "zh": "每个学生都应该努力提高自己的学习效率。"
+        }
+      ]
+    },
+    {
+      "phrase": "attain accuracy in",
+      "usage": "表示在某个方面达到准确性，多用于描述技能、认知等领域的精准度提升",
+      "examples": [
+        {
+          "en": "After months of practice, he attained great accuracy in playing the piano.",
+          "zh": "经过几个月的练习，他弹钢琴的准度已经非常高了。"
+        },
+        {
+          "en": "The weather forecast has attained high accuracy in recent years.",
+          "zh": "近年来天气预报的准确率已经很高了。"
+        }
+      ]
+    },
+    {
+      "phrase": "respond to",
+      "usage": "表示对……做出反应、回应，也可引申为对某事物有感知、有共鸣",
+      "examples": [
+        {
+          "en": "The audience responded positively to the speaker's wonderful speech.",
+          "zh": "观众对演讲者的精彩演讲反应很积极。"
+        },
+        {
+          "en": "A good listener knows how to properly respond to others' feelings.",
+          "zh": "好的倾听者知道如何恰当回应他人的情绪。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "让步状语从句：though引导的让步结构",
+      "definition": "用来表示虽然存在某个情况，但主句的结果仍然成立，表达让步的逻辑关系",
+      "structure": "Though + 从句, 主句",
+      "usage": "though引导的从句可以放在句首或句中，不与but连用，但可以和yet、still搭配，语气较although更口语化",
+      "examples": [
+        {
+          "en": "Though they may attain considerable accuracy in the perception of flat form, they do not make the further intellectual and emotional effort needed to comprehend form in its full spatial existence.",
+          "zh": "虽然他们可能在感知平面形状方面达到相当准确的程度，但他们不会进一步付出智力和情感上的努力，去理解存在于完整空间中的形体。"
+        },
+        {
+          "en": "Though he is very young, he has already published three novels.",
+          "zh": "虽然他很年轻，但他已经出版了三本小说。"
+        },
+        {
+          "en": "The project is progressing well, though there are still some small problems to be solved.",
+          "zh": "项目进展很顺利，尽管还有一些小问题需要解决。"
+        }
+      ]
+    },
+    {
+      "title": "被动语态的使用",
+      "definition": "当动作的承受者是句子的主语，或者不需要明确指出动作发出者时，使用被动语态",
+      "structure": "主语 + be + 动词过去分词 + (by + 动作发出者)",
+      "usage": "常用于正式文体中，强调动作的承受者，或者当动作发出者不明确、不重要时使用",
+      "examples": [
+        {
+          "en": "That is perhaps why sculpture has been described as the most difficult of all arts.",
+          "zh": "这也许就是为什么雕塑被称作所有艺术中最难的一种。"
+        },
+        {
+          "en": "The old temple has been preserved perfectly by the local government.",
+          "zh": "这座古老的寺庙被当地政府保护得非常完好。"
+        },
+        {
+          "en": "This theory was first proposed by a scientist in the 19th century.",
+          "zh": "这个理论是19世纪的一位科学家首次提出的。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "... depends upon the ability to do sth",
+      "original": {
+        "en": "Appreciation of sculpture depends upon the ability to respond to form in 3 dimensions.",
+        "zh": "对雕塑的鉴赏取决于对三维形体做出反应的能力。"
+      },
+      "imitations": [
+        {
+          "en": "Learning a foreign language well depends upon the ability to use it in real communication.",
+          "zh": "学好一门外语取决于在真实交流中使用它的能力。"
+        },
+        {
+          "en": "Success in the competitive job market depends upon the ability to adapt to changes quickly.",
+          "zh": "在竞争激烈的就业市场中取得成功取决于快速适应变化的能力。"
+        }
+      ]
+    },
+    {
+      "pattern": "That is perhaps why + 从句",
+      "original": {
+        "en": "That is perhaps why sculpture has been described as the most difficult of all arts.",
+        "zh": "这也许就是为什么雕塑被称作所有艺术中最难的一种。"
+      },
+      "imitations": [
+        {
+          "en": "That is perhaps why many people prefer to travel during off-peak seasons.",
+          "zh": "这也许就是为什么很多人更喜欢在淡季出行。"
+        },
+        {
+          "en": "That is perhaps why regular exercise is always recommended by health experts.",
+          "zh": "这也许就是健康专家一直推荐规律锻炼的原因。"
+        }
+      ]
+    },
+    {
+      "pattern": "Sb must learn to do sth, not as sth else.",
+      "original": {
+        "en": "And the sensitive observer of sculpture must also learn to feel shape simply as shape, not as description or reminiscence.",
+        "zh": "而敏锐的雕塑观察者也必须学会单纯地把形状当作形状去感受，而不是作为描述或者回忆。"
+      },
+      "imitations": [
+        {
+          "en": "A literary critic must learn to analyze a work simply as an independent creation, not as an extension of the author's private life.",
+          "zh": "文学评论家必须学会单纯把作品当作独立的创作去分析，而不是作为作者私生活的延伸。"
+        },
+        {
+          "en": "When tasting wine, you should learn to savor the flavor simply as flavor, not as a symbol of social status.",
+          "zh": "品鉴葡萄酒的时候，你应该学会单纯品味它的风味，而不是把它当作社会地位的象征。"
+        }
+      ]
+    }
+  ]
+}

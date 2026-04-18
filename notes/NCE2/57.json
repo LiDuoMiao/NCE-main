@@ -1,0 +1,382 @@
+{
+  "book": "NCE2",
+  "lesson": "57",
+  "title": "Did the woman get what she wanted?",
+  "vocabulary": [
+    {
+      "word": "jeans",
+      "phonetic": "/dʒiːnz/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "牛仔裤",
+          "usage": "复数形式，表示一种下装"
+        }
+      ]
+    },
+    {
+      "word": "hesitate",
+      "phonetic": "/ˈhezɪteɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "犹豫，踌躇",
+          "usage": "常与for a moment搭配使用"
+        }
+      ]
+    },
+    {
+      "word": "expensive",
+      "phonetic": "/ɪkˈspensɪv/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "昂贵的，价格高的",
+          "usage": "反义词为cheap"
+        }
+      ]
+    },
+    {
+      "word": "assistant",
+      "phonetic": "/əˈsɪstənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "店员，助理",
+          "usage": "指商店里提供服务的人"
+        }
+      ]
+    },
+    {
+      "word": "scornfully",
+      "phonetic": "/ˈskɔːnfəli/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "轻蔑地，鄙视地",
+          "usage": "由形容词scornful变化而来"
+        }
+      ]
+    },
+    {
+      "word": "punish",
+      "phonetic": "/ˈpʌnɪʃ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "惩罚，处罚",
+          "usage": "常用于对做错事的人进行处罚"
+        }
+      ]
+    },
+    {
+      "word": "fur",
+      "phonetic": "/fɜː/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "毛皮，皮草",
+          "usage": "fur coat表示皮草大衣"
+        }
+      ]
+    },
+    {
+      "word": "eager",
+      "phonetic": "/ˈiːɡə/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "热切的，热情的",
+          "usage": "be eager to do something表示渴望做某事"
+        }
+      ]
+    },
+    {
+      "word": "difficulty",
+      "phonetic": "/ˈdɪfɪkəlti/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "困难，难度",
+          "usage": "with great difficulty表示费了很大力气"
+        }
+      ]
+    },
+    {
+      "word": "window",
+      "phonetic": "/ˈwɪndəʊ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "橱窗，窗户",
+          "usage": "shop window指商店橱窗"
+        }
+      ]
+    },
+    {
+      "word": "angrily",
+      "phonetic": "/ˈæŋɡrɪli/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "生气地，愤怒地",
+          "usage": "由形容词angry变化而来"
+        }
+      ]
+    },
+    {
+      "word": "though",
+      "phonetic": "/ðəʊ/",
+      "meanings": [
+        {
+          "pos": "conj",
+          "meaning": "虽然，尽管",
+          "usage": "用于引导让步状语从句"
+        }
+      ]
+    },
+    {
+      "word": "seek",
+      "phonetic": "/siːk/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "寻找，寻求",
+          "usage": "过去式为sought"
+        }
+      ]
+    },
+    {
+      "word": "decide",
+      "phonetic": "/dɪˈsaɪd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "决定，下决心",
+          "usage": "decide to do something表示决定做某事"
+        }
+      ]
+    },
+    {
+      "word": "enjoy",
+      "phonetic": "/ɪnˈdʒɔɪ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "享受，喜爱",
+          "usage": "enjoy oneself表示过得愉快"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "in jeans",
+      "usage": "穿着牛仔裤，in+衣物表示穿着状态",
+      "examples": [
+        {
+          "en": "The woman in jeans stood at the window.",
+          "zh": "穿着牛仔裤的女人站在橱窗前。"
+        }
+      ]
+    },
+    {
+      "phrase": "hesitate for a moment",
+      "usage": "犹豫了一会儿",
+      "examples": [
+        {
+          "en": "She hesitated for a moment before going in.",
+          "zh": "她在进去之前犹豫了一会儿。"
+        }
+      ]
+    },
+    {
+      "phrase": "walk out of",
+      "usage": "走出，离开",
+      "examples": [
+        {
+          "en": "The woman walked out of the shop angrily.",
+          "zh": "那个女人生气地走出了商店。"
+        }
+      ]
+    },
+    {
+      "phrase": "punish someone",
+      "usage": "惩罚某人",
+      "examples": [
+        {
+          "en": "She decided to punish the assistant next day.",
+          "zh": "她决定第二天惩罚那个店员。"
+        }
+      ]
+    },
+    {
+      "phrase": "be dressed in",
+      "usage": "穿着...（的状态）",
+      "examples": [
+        {
+          "en": "She returned dressed in a fur coat.",
+          "zh": "她穿着皮草大衣回来了。"
+        }
+      ]
+    },
+    {
+      "phrase": "seek out",
+      "usage": "找到，找到并接触",
+      "examples": [
+        {
+          "en": "After seeking out the rude assistant, she asked for the same dress.",
+          "zh": "找到那个粗鲁的店员后，她要买同样的裙子。"
+        }
+      ]
+    },
+    {
+      "phrase": "be eager to do",
+      "usage": "渴望做某事，热切地想做",
+      "examples": [
+        {
+          "en": "The assistant was eager to serve her this time.",
+          "zh": "这次店员热切地为她服务。"
+        }
+      ]
+    },
+    {
+      "phrase": "with great difficulty",
+      "usage": "费了很大力气",
+      "examples": [
+        {
+          "en": "With great difficulty, he climbed into the shop window.",
+          "zh": "费了很大力气，他爬进了商店橱窗。"
+        }
+      ]
+    },
+    {
+      "phrase": "enjoy oneself",
+      "usage": "过得愉快，玩得开心",
+      "examples": [
+        {
+          "en": "She enjoyed herself making the assistant bring almost everything.",
+          "zh": "她让店员把几乎所有东西都拿了出来，玩得很开心。"
+        }
+      ]
+    },
+    {
+      "phrase": "next day/morning",
+      "usage": "第二天/第二天早上",
+      "examples": [
+        {
+          "en": "She returned to the shop the following morning.",
+          "zh": "第二天早上她回到了商店。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "一般过去时 (Past Simple Tense)",
+      "definition": "表示过去发生的动作或存在的状态",
+      "structure": "主语 + 动词过去式 + 其他",
+      "usage": "用于叙述过去发生的事情，如本课讲述女人去商店的故事",
+      "examples": [
+        {
+          "en": "She stood at the window of an expensive shop.",
+          "zh": "她站在一家高档商店的橱窗前。"
+        },
+        {
+          "en": "The assistant told her that the dress was sold.",
+          "zh": "店员告诉她裙子已经卖掉了。"
+        }
+      ]
+    },
+    {
+      "title": "让步状语从句 (Though/Although Clause)",
+      "definition": "表示虽然/尽管...但是...",
+      "structure": "Though/Although + 主语 + 动词... + 主句",
+      "usage": "用于表达两个相反的事实，though位于句首时可用逗号与主句隔开",
+      "examples": [
+        {
+          "en": "Though she hesitated for a moment, she finally went in.",
+          "zh": "虽然她犹豫了一会儿，但最后还是进去了。"
+        }
+      ]
+    },
+    {
+      "title": "过去进行时 (Past Continuous Tense)",
+      "definition": "表示过去某一时刻或时间段正在进行的动作",
+      "structure": "主语 + was/were + 动词-ing + 其他",
+      "usage": "用于描述故事发生的背景或正在进行的动作",
+      "examples": [
+        {
+          "en": "A woman in jeans stood at the window.",
+          "zh": "一个穿着牛仔裤的女人站在橱窗前。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "A woman/man in + 衣物 stood at...",
+      "original": {
+        "en": "A woman in jeans stood at the window of an expensive shop.",
+        "zh": "一个穿着牛仔裤的女人站在一家高档商店的橱窗前。"
+      },
+      "imitations": [
+        {
+          "en": "A man in a suit stood at the door.",
+          "zh": "一个穿着西装的男人站在门口。"
+        },
+        {
+          "en": "A girl in a red dress stood at the bus stop.",
+          "zh": "一个穿着红裙子的女孩站在公交站。"
+        }
+      ]
+    },
+    {
+      "pattern": "Though + 主语 + 动词... + 主句",
+      "original": {
+        "en": "Though she hesitated for a moment, she finally went in.",
+        "zh": "虽然她犹豫了一会儿，但她最后还是进去了。"
+      },
+      "imitations": [
+        {
+          "en": "Though it was raining, they went out.",
+          "zh": "虽然下雨了，但他们还是出去了。"
+        },
+        {
+          "en": "Though he was tired, he finished his work.",
+          "zh": "虽然他很累，但他完成了工作。"
+        }
+      ]
+    },
+    {
+      "pattern": "After + doing something, 主语 + 动词过去式...",
+      "original": {
+        "en": "After seeking out the rude assistant, she asked for the same dress.",
+        "zh": "找到那个粗鲁的店员后，她要买同样的裙子。"
+      },
+      "imitations": [
+        {
+          "en": "After finishing lunch, I went for a walk.",
+          "zh": "吃完午饭后，我去散步了。"
+        },
+        {
+          "en": "After reading the book, I understood the story.",
+          "zh": "读完这本书后，我理解了这个故事。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + was/were + 动词-ing + when + 主语 + 动词过去式...",
+      "original": {
+        "en": "She was dressed in a fur coat, with a handbag in one hand and a long umbrella in the other.",
+        "zh": "她穿着皮草大衣，一手拎着手提包，一手拿着长柄伞。"
+      },
+      "imitations": [
+        {
+          "en": "He was wearing a blue shirt, with glasses on his nose.",
+          "zh": "他穿着蓝色衬衫，鼻子上戴着眼镜。"
+        }
+      ]
+    }
+  ]
+}

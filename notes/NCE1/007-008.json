@@ -1,0 +1,334 @@
+{
+  "book": "NCE1",
+  "lesson": "007-008",
+  "title": "Lesson 7",
+  "vocabulary": [
+    {
+      "word": "student",
+      "phonetic": "/ˈstjuːdənt/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "学生",
+          "usage": "指正在学习的人，可与a连用表示一个学生"
+        }
+      ]
+    },
+    {
+      "word": "name",
+      "phonetic": "/neɪm/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "名字；名称",
+          "usage": "用于询问或介绍姓名"
+        }
+      ]
+    },
+    {
+      "word": "nationality",
+      "phonetic": "/ˌnæʃəˈnæləti/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "国籍；民族",
+          "usage": "询问对方的国籍时使用What nationality are you?"
+        }
+      ]
+    },
+    {
+      "word": "Italian",
+      "phonetic": "/ɪˈtæliən/",
+      "meanings": [
+        {
+          "pos": "adj./n.",
+          "meaning": "意大利的；意大利人/意大利语",
+          "usage": "可作形容词或名词使用"
+        }
+      ]
+    },
+    {
+      "word": "French",
+      "phonetic": "/frentʃ/",
+      "meanings": [
+        {
+          "pos": "adj./n.",
+          "meaning": "法国的；法国人/法语",
+          "usage": "首字母大写French可指法国人"
+        }
+      ]
+    },
+    {
+      "word": "teacher",
+      "phonetic": "/ˈtiːtʃə/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "教师；老师",
+          "usage": "职业名称的一种"
+        }
+      ]
+    },
+    {
+      "word": "job",
+      "phonetic": "/dʒɒb/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "工作；职业",
+          "usage": "询问职业时常用What's your job?"
+        }
+      ]
+    },
+    {
+      "word": "keyboard",
+      "phonetic": "/ˈkiːbɔːd/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "键盘",
+          "usage": "keyboard operator键盘操作员"
+        }
+      ]
+    },
+    {
+      "word": "operator",
+      "phonetic": "/ˈɒpəreɪtə/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "操作员",
+          "usage": "操作机器或设备的人员"
+        }
+      ]
+    },
+    {
+      "word": "engineer",
+      "phonetic": "/ˌendʒɪˈnɪə/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "工程师",
+          "usage": "职业名称的一种"
+        }
+      ]
+    },
+    {
+      "word": "nice",
+      "phonetic": "/naɪs/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "meaning": "好的；令人愉快的",
+          "usage": "常用短语Nice to meet you."
+        }
+      ]
+    },
+    {
+      "word": "meet",
+      "phonetic": "/miːt/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "meaning": "遇见；见面",
+          "usage": "用于初次见面的问候语中"
+        }
+      ]
+    },
+    {
+      "word": "what",
+      "phonetic": "/wɒt/",
+      "meanings": [
+        {
+          "pos": "pron.",
+          "meaning": "什么",
+          "usage": "用于特殊疑问句开头"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Nice to meet you",
+      "usage": "初次见面时的礼貌用语",
+      "examples": [
+        {
+          "en": "Nice to meet you, I'm Robert.",
+          "zh": "很高兴认识你，我是罗伯特。"
+        }
+      ]
+    },
+    {
+      "phrase": "My name's...",
+      "usage": "自我介绍时说明姓名",
+      "examples": [
+        {
+          "en": "My name's Robert.",
+          "zh": "我叫罗伯特。"
+        }
+      ]
+    },
+    {
+      "phrase": "Are you French?",
+      "usage": "询问对方是否是法国人的一般疑问句",
+      "examples": [
+        {
+          "en": "Are you French? Yes, I am.",
+          "zh": "你是法国人吗？是的，我是。"
+        }
+      ]
+    },
+    {
+      "phrase": "What's your job?",
+      "usage": "询问他人职业的句型",
+      "examples": [
+        {
+          "en": "What's your job? I'm a teacher.",
+          "zh": "你的工作是什么？我是一名教师。"
+        }
+      ]
+    },
+    {
+      "phrase": "What nationality are you?",
+      "usage": "询问他人国籍的特殊疑问句",
+      "examples": [
+        {
+          "en": "What nationality are you? I'm Italian.",
+          "zh": "你是哪国人？我是意大利人。"
+        }
+      ]
+    },
+    {
+      "phrase": "I am not",
+      "usage": "be动词的否定缩略形式",
+      "examples": [
+        {
+          "en": "No, I am not.",
+          "zh": "不，我不是。"
+        }
+      ]
+    },
+    {
+      "phrase": "I'm a new student",
+      "usage": "自我介绍自己是新学生",
+      "examples": [
+        {
+          "en": "I am a new student.",
+          "zh": "我是一名新学生。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Be动词的一般疑问句",
+      "definition": "将be动词(am/is/are)移到句首构成的疑问句，用于询问情况是否属实",
+      "structure": "Be动词 + 主语 + 表语?",
+      "usage": "用于需要用Yes或No回答的询问",
+      "examples": [
+        {
+          "en": "Are you a teacher?",
+          "zh": "你是一名教师吗？"
+        },
+        {
+          "en": "Is she French?",
+          "zh": "她是法国人吗？"
+        }
+      ]
+    },
+    {
+      "title": "Be动词的否定句",
+      "definition": "在be动词后加not构成否定句",
+      "structure": "主语 + be动词 + not + 表语",
+      "usage": "用于否认某种情况",
+      "examples": [
+        {
+          "en": "I am not a teacher.",
+          "zh": "我不是一名教师。"
+        },
+        {
+          "en": "She is not French.",
+          "zh": "她不是法国人。"
+        }
+      ]
+    },
+    {
+      "title": "What引导的特殊疑问句",
+      "definition": "以What开头的疑问句，用于询问具体信息",
+      "structure": "What + be动词 + 主语 + ?",
+      "usage": "询问职业、国籍等具体信息",
+      "examples": [
+        {
+          "en": "What's your job?",
+          "zh": "你的工作是什么？"
+        },
+        {
+          "en": "What nationality are you?",
+          "zh": "你是哪国人？"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Are you + 国籍/职业?",
+      "original": {
+        "en": "Are you French?",
+        "zh": "你是法国人吗？"
+      },
+      "imitations": [
+        {
+          "en": "Are you Italian?",
+          "zh": "你是意大利人吗？"
+        },
+        {
+          "en": "Are you a teacher?",
+          "zh": "你是一名教师吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "What's your + 国籍/职业?",
+      "original": {
+        "en": "What's your job?",
+        "zh": "你的工作是什么？"
+      },
+      "imitations": [
+        {
+          "en": "What's your nationality?",
+          "zh": "你的国籍是什么？"
+        }
+      ]
+    },
+    {
+      "pattern": "I'm a(n) + 职业",
+      "original": {
+        "en": "I'm a keyboard operator.",
+        "zh": "我是一名键盘操作员。"
+      },
+      "imitations": [
+        {
+          "en": "I'm a student.",
+          "zh": "我是一名学生。"
+        },
+        {
+          "en": "I'm an engineer.",
+          "zh": "我是一名工程师。"
+        }
+      ]
+    },
+    {
+      "pattern": "My name's + 姓名",
+      "original": {
+        "en": "My name's Robert.",
+        "zh": "我叫罗伯特。"
+      },
+      "imitations": [
+        {
+          "en": "My name's Sophie.",
+          "zh": "我叫苏菲。"
+        }
+      ]
+    }
+  ]
+}

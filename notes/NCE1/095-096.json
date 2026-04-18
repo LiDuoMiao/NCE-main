@@ -1,0 +1,421 @@
+{
+  "book": "NCE1",
+  "lesson": "095-096",
+  "title": "Lesson 95",
+  "vocabulary": [
+    {
+      "word": "ticket",
+      "phonetic": "/ˈtɪkɪt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "票；入场券",
+          "usage": "指火车票、机票、电影票等"
+        }
+      ]
+    },
+    {
+      "word": "return",
+      "phonetic": "/rɪˈtɜːn/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "往返的；回程的",
+          "usage": "return ticket 表示往返票"
+        },
+        {
+          "pos": "verb",
+          "meaning": "返回；回来",
+          "usage": "回到原来的地方"
+        }
+      ]
+    },
+    {
+      "word": "platform",
+      "phonetic": "/ˈplætfɔːm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "站台；月台",
+          "usage": "火车站的站台"
+        }
+      ]
+    },
+    {
+      "word": "bridge",
+      "phonetic": "/brɪdʒ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "桥；桥梁",
+          "usage": "连接两地的建筑"
+        }
+      ]
+    },
+    {
+      "word": "plenty",
+      "phonetic": "/ˈplenti/",
+      "meanings": [
+        {
+          "pos": "pronoun",
+          "meaning": "大量；充足",
+          "usage": "plenty of + 名词，表示很多"
+        }
+      ]
+    },
+    {
+      "word": "miss",
+      "phonetic": "/mɪs/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "错过；未赶上",
+          "usage": "错过火车、公交车等"
+        },
+        {
+          "pos": "verb",
+          "meaning": "想念；思念",
+          "usage": "想念某人或某物"
+        }
+      ]
+    },
+    {
+      "word": "catch",
+      "phonetic": "/kætʃ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "赶上；捉住",
+          "usage": "catch a train/bus 赶火车/公交车"
+        }
+      ]
+    },
+    {
+      "word": "station",
+      "phonetic": "/ˈsteɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "车站；站",
+          "usage": "火车站、汽车站等"
+        }
+      ]
+    },
+    {
+      "word": "bar",
+      "phonetic": "/bɑː/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "酒吧；吧台",
+          "usage": "饮酒的场所"
+        }
+      ]
+    },
+    {
+      "word": "leave",
+      "phonetic": "/liːv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "离开；出发",
+          "usage": "指交通工具离开"
+        }
+      ]
+    },
+    {
+      "word": "drink",
+      "phonetic": "/drɪŋk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "饮料；酒",
+          "usage": "泛指各类饮品"
+        },
+        {
+          "pos": "verb",
+          "meaning": "喝；饮",
+          "usage": "喝的动作"
+        }
+      ]
+    },
+    {
+      "word": "slow",
+      "phonetic": "/sləʊ/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "慢的；缓慢的",
+          "usage": "与fast相反"
+        }
+      ]
+    },
+    {
+      "word": "hour",
+      "phonetic": "/ˈaʊə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "小时；钟头",
+          "usage": "时间单位，一小时60分钟"
+        }
+      ]
+    },
+    {
+      "word": "sorry",
+      "phonetic": "/ˈsɒri/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "抱歉的；遗憾的",
+          "usage": "表示歉意或同情"
+        }
+      ]
+    },
+    {
+      "word": "next",
+      "phonetic": "/nekst/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "下一个的；其次的",
+          "usage": "the next train 下一班火车"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Two return tickets to London, please",
+      "usage": "购买两张去伦敦的往返票",
+      "examples": [
+        {
+          "en": "Two return tickets to London, please.",
+          "zh": "请给我两张去伦敦的往返票。"
+        }
+      ]
+    },
+    {
+      "phrase": "What time will the next train leave?",
+      "usage": "询问下一班火车什么时候出发",
+      "examples": [
+        {
+          "en": "What time will the next train leave?",
+          "zh": "下一班火车什么时候出发？"
+        }
+      ]
+    },
+    {
+      "phrase": "Which platform?",
+      "usage": "询问在哪个站台乘车",
+      "examples": [
+        {
+          "en": "Which platform?",
+          "zh": "在哪个站台？"
+        }
+      ]
+    },
+    {
+      "phrase": "We've got plenty of time",
+      "usage": "表示时间很充裕",
+      "examples": [
+        {
+          "en": "We've got plenty of time.",
+          "zh": "我们时间很充裕。"
+        }
+      ]
+    },
+    {
+      "phrase": "It's only three minutes to eight",
+      "usage": "表示时间快到八点",
+      "examples": [
+        {
+          "en": "It's only three minutes to eight.",
+          "zh": "现在才差三分钟八点。"
+        }
+      ]
+    },
+    {
+      "phrase": "Let's go and have a drink",
+      "usage": "建议去喝点东西",
+      "examples": [
+        {
+          "en": "Let's go and have a drink.",
+          "zh": "我们去喝点东西吧。"
+        }
+      ]
+    },
+    {
+      "phrase": "We had better go back to the station",
+      "usage": "建议最好回车站",
+      "examples": [
+        {
+          "en": "We had better go back to the station now.",
+          "zh": "我们现在最好回车站。"
+        }
+      ]
+    },
+    {
+      "phrase": "You've just missed it",
+      "usage": "表示刚好错过了",
+      "examples": [
+        {
+          "en": "You've just missed it!",
+          "zh": "你刚好错过了！"
+        }
+      ]
+    },
+    {
+      "phrase": "In five hours' time",
+      "usage": "五个小时后，表示将来时间",
+      "examples": [
+        {
+          "en": "In five hours' time.",
+          "zh": "五个小时后。"
+        }
+      ]
+    },
+    {
+      "phrase": "There's a bar next door to the station",
+      "usage": "站旁边有一家酒吧",
+      "examples": [
+        {
+          "en": "There's a bar next door to the station.",
+          "zh": "车站隔壁有一家酒吧。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "had better 表示建议",
+      "definition": "had better 表示劝告或建议，意为\"应该\"、\"最好\"，含有说话者认为不这样做会有不良后果的意味。",
+      "structure": "主语 + had better + 动词原形",
+      "usage": "用于对某人提出建议或劝告，语气比should稍强，暗示如果不这样做会产生不好的结果。否定形式为 had better not。",
+      "examples": [
+        {
+          "en": "We had better go back to the station now.",
+          "zh": "我们现在最好回车站。"
+        },
+        {
+          "en": "You had better hurry.",
+          "zh": "你最好快点。"
+        },
+        {
+          "en": "We had better not be late.",
+          "zh": "我们最好不要迟到。"
+        }
+      ]
+    },
+    {
+      "title": "时间的询问与表达",
+      "definition": "学习用不同方式询问和表达时间，特别是关于火车时刻的表达。",
+      "structure": "What time + will + 主语 + 动词...? / It's + 时间",
+      "usage": "用于询问具体时间或报告时间。英语中时间的表达方式有多种，如 eight fifteen (8:15)、nineteen minutes past eight (8:19)。",
+      "examples": [
+        {
+          "en": "What time will the next train leave?",
+          "zh": "下一班火车什么时候出发？"
+        },
+        {
+          "en": "At nineteen minutes past eight.",
+          "zh": "八点十九分。"
+        },
+        {
+          "en": "It's only three minutes to eight.",
+          "zh": "现在才八点差三分。"
+        }
+      ]
+    },
+    {
+      "title": "'s 所有格表示时间",
+      "definition": "在表示时间、距离、金钱等的名词后加 's 构成所有格，表示持续的时间或距离。",
+      "structure": "数词 + 名词复数 + 's + time",
+      "usage": "用于表示一段时间，如 five hours' time 表示\"五个小时后\"。这种用法在正式场合或书面语中常见。",
+      "examples": [
+        {
+          "en": "In five hours' time!",
+          "zh": "五个小时后！"
+        },
+        {
+          "en": "three days' time",
+          "zh": "三天后"
+        },
+        {
+          "en": "two weeks' holiday",
+          "zh": "两周的假期"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "What time will the next train leave?",
+      "original": {
+        "en": "What time will the next train leave?",
+        "zh": "下一班火车什么时候出发？"
+      },
+      "imitations": [
+        {
+          "en": "What time will the next bus arrive?",
+          "zh": "下一班公交车什么时候到达？"
+        },
+        {
+          "en": "What time will the film start?",
+          "zh": "电影什么时候开始？"
+        }
+      ]
+    },
+    {
+      "pattern": "Which platform?",
+      "original": {
+        "en": "Which platform?",
+        "zh": "在哪个站台？"
+      },
+      "imitations": [
+        {
+          "en": "Which gate?",
+          "zh": "在哪个登机口？"
+        },
+        {
+          "en": "Which room?",
+          "zh": "在哪个房间？"
+        }
+      ]
+    },
+    {
+      "pattern": "We've got plenty of time",
+      "original": {
+        "en": "We've got plenty of time.",
+        "zh": "我们时间很充裕。"
+      },
+      "imitations": [
+        {
+          "en": "We've got plenty of money.",
+          "zh": "我们有很多钱。"
+        },
+        {
+          "en": "We've got plenty of food.",
+          "zh": "我们有很多食物。"
+        }
+      ]
+    },
+    {
+      "pattern": "We had better + 动词原形",
+      "original": {
+        "en": "We had better go back to the station now.",
+        "zh": "我们现在最好回车站。"
+      },
+      "imitations": [
+        {
+          "en": "We had better hurry.",
+          "zh": "我们最好快点。"
+        },
+        {
+          "en": "You had better call a doctor.",
+          "zh": "你最好叫医生。"
+        }
+      ]
+    }
+  ]
+}

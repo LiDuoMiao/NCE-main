@@ -1,0 +1,399 @@
+{
+  "book": "NCE3",
+  "lesson": "25",
+  "title": "Lesson 25",
+  "vocabulary": [
+    {
+      "word": "sailing",
+      "phonetic": "/ˈseɪlɪŋ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "航海；帆船运动",
+          "usage": "指利用风力推动船只行驶的活动或方式"
+        },
+        {
+          "pos": "adj",
+          "meaning": "帆船的；航行的",
+          "usage": "修饰名词，如sailing ship帆船"
+        }
+      ]
+    },
+    {
+      "word": "vessel",
+      "phonetic": "/ˈvesl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "船；舰",
+          "usage": "正式用语，指大型船只或容器"
+        }
+      ]
+    },
+    {
+      "word": "impressive",
+      "phonetic": "/ɪmˈpresɪv/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "令人印象深刻的",
+          "usage": "描述给人留下深刻印象的事物"
+        }
+      ]
+    },
+    {
+      "word": "reminder",
+      "phonetic": "/rɪˈmaɪndə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "提醒物；提示",
+          "usage": "使某人想起某事的事物"
+        }
+      ]
+    },
+    {
+      "word": "tradition",
+      "phonetic": "/trəˈdɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "传统；惯例",
+          "usage": "指代代相传的风俗或习惯"
+        }
+      ]
+    },
+    {
+      "word": "era",
+      "phonetic": "/ˈɪərə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "时代；纪元",
+          "usage": "指历史上具有特征的时期"
+        }
+      ]
+    },
+    {
+      "word": "match",
+      "phonetic": "/mætʃ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "比得上；相配",
+          "usage": "表示在质量或能力上相当"
+        }
+      ]
+    },
+    {
+      "word": "steer",
+      "phonetic": "/stɪə(r)/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "驾驶；掌舵",
+          "usage": "指控制船只或车辆的方向"
+        }
+      ]
+    },
+    {
+      "word": "rudder",
+      "phonetic": "/ˈrʌdə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "舵；船舵",
+          "usage": "船上用于控制方向的装置"
+        }
+      ]
+    },
+    {
+      "word": "tremendous",
+      "phonetic": "/trəˈmendəs/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "巨大的；极大的",
+          "usage": "强调规模或程度非常大"
+        }
+      ]
+    },
+    {
+      "word": "delay",
+      "phonetic": "/dɪˈleɪ/",
+      "meanings": [
+        {
+          "pos": "noun/verb",
+          "meaning": "延误；耽搁",
+          "usage": "指事情被推迟或延误的状态"
+        }
+      ]
+    },
+    {
+      "word": "remarkable",
+      "phonetic": "/rɪˈmɑːkəbl/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "非凡的；卓越的",
+          "usage": "指值得注意的、不寻常的"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "phonetic": "/stɔːm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "暴风雨；风暴",
+          "usage": "指恶劣的天气状况"
+        }
+      ]
+    },
+    {
+      "word": "plank",
+      "phonetic": "/plæŋk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "木板；板条",
+          "usage": "指长而薄的木料"
+        }
+      ]
+    },
+    {
+      "word": "Equator",
+      "phonetic": "/ɪˈkweɪtə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "赤道",
+          "usage": "地球南北之间的假想线"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "set out",
+      "usage": "出发；启程，指开始一段旅程",
+      "examples": [
+        {
+          "en": "Both ships set out from Shanghai on June 18th, 1872.",
+          "zh": "两艘船于1872年6月18日从上海出发。"
+        }
+      ]
+    },
+    {
+      "phrase": "take the lead",
+      "usage": "取得领先地位",
+      "examples": [
+        {
+          "en": "On the Indian Ocean, the Cutty Sark took the lead.",
+          "zh": "在印度洋上，卡蒂萨克号取得了领先。"
+        }
+      ]
+    },
+    {
+      "phrase": "be struck by",
+      "usage": "被击中；遭受，指突然遭遇不好的事情",
+      "examples": [
+        {
+          "en": "In August, she was struck by a very heavy storm.",
+          "zh": "八月，她遭遇了一场猛烈的暴风雨。"
+        }
+      ]
+    },
+    {
+      "phrase": "lose one's lead",
+      "usage": "失去领先地位",
+      "examples": [
+        {
+          "en": "Because of this, the Cutty Sark lost her lead.",
+          "zh": "因此，卡蒂萨克号失去了领先地位。"
+        }
+      ]
+    },
+    {
+      "phrase": "call in at",
+      "usage": "（船等）停靠，指在某个港口停留",
+      "examples": [
+        {
+          "en": "The captain called in at a port to have a new rudder fitted.",
+          "zh": "船长将船停靠在一个港口，让工人安装新舵。"
+        }
+      ]
+    },
+    {
+      "phrase": "roll from side to side",
+      "usage": "左右摇晃，形容船只不稳地晃动",
+      "examples": [
+        {
+          "en": "The Cutty Sark rolled from side to side and it became impossible to steer her.",
+          "zh": "卡蒂萨克号左右摇晃，变得无法操控。"
+        }
+      ]
+    },
+    {
+      "phrase": "fit with difficulty",
+      "usage": "困难地安装，形容做某事很艰难",
+      "examples": [
+        {
+          "en": "A temporary rudder was made and it was fitted with great difficulty.",
+          "zh": "一个临时舵被制造出来，但安装得非常困难。"
+        }
+      ]
+    },
+    {
+      "phrase": "There is no doubt that...",
+      "usage": "毫无疑问...，用于强调确信某事",
+      "examples": [
+        {
+          "en": "There is no doubt that if she had not lost her rudder she would have won the race easily.",
+          "zh": "毫无疑问，如果她没有失去舵，她会轻松赢得比赛。"
+        }
+      ]
+    },
+    {
+      "phrase": "lose one's rudder",
+      "usage": "失去舵，船只失去控制",
+      "examples": [
+        {
+          "en": "Her rudder was torn away.",
+          "zh": "她的舵被撕裂了。"
+        }
+      ]
+    },
+    {
+      "phrase": "be replaced by",
+      "usage": "被...取代",
+      "examples": [
+        {
+          "en": "Before they were replaced by steamships, sailing vessels were used to carry tea.",
+          "zh": "在被汽船取代之前，帆船被用来运茶。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去完成时 (Past Perfect Tense)",
+      "definition": "表示在过去某个时间点之前已经完成的动作或状态，常与一般过去时连用",
+      "structure": "had + 过去分词",
+      "usage": "用于描述发生在过去之前的事件，常用于复合句中",
+      "examples": [
+        {
+          "en": "The first of the two ships to reach Java after the race had begun was the Thermopylae.",
+          "zh": "比赛开始后，第一艘到达爪哇的船是Thermopylae号。"
+        },
+        {
+          "en": "She had had many delays before arriving in England.",
+          "zh": "她在到达英国之前经历了许多延误。"
+        }
+      ]
+    },
+    {
+      "title": "虚拟语气 (Subjunctive Mood) - 与过去事实相反",
+      "definition": "用来表达与事实相反的假设或不可能发生的情况",
+      "structure": "if + 主语 + had + 过去分词, 主语 + would/could/might have + 过去分词",
+      "usage": "用于谈论与过去事实相反的假设",
+      "examples": [
+        {
+          "en": "If she had not lost her rudder, she would have won the race easily.",
+          "zh": "如果她没有失去舵，她本会轻松赢得比赛。"
+        },
+        {
+          "en": "If it had not rained, we would have gone out.",
+          "zh": "如果没有下雨，我们本会出去。"
+        }
+      ]
+    },
+    {
+      "title": "过去分词作定语 (Past Participle as Adjective)",
+      "definition": "过去分词可用作形容词，修饰名词，表示被动或完成的意义",
+      "structure": "过去分词 + 名词 或 名词 + 过去分词",
+      "usage": "用于简化定语从句，使句子更简洁",
+      "examples": [
+        {
+          "en": "The only other ship to match her was the Thermopylae.",
+          "zh": "唯一能与她匹敌的另一艘船是Thermopylae号。"
+        },
+        {
+          "en": "She serves as an impressive reminder of the great ships of the past.",
+          "zh": "她作为一个令人印象深刻的纪念物，提醒人们过去伟大的船只。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "It seemed certain that...",
+      "original": {
+        "en": "It seemed certain that she would be the first ship home.",
+        "zh": "她似乎是第一个到达的船，这似乎是确定的。"
+      },
+      "imitations": [
+        {
+          "en": "It seemed certain that he would pass the exam.",
+          "zh": "他似乎一定会通过考试。"
+        },
+        {
+          "en": "It seemed certain that our team would win the match.",
+          "zh": "我们队似乎一定会赢得比赛。"
+        }
+      ]
+    },
+    {
+      "pattern": "There is no doubt that...",
+      "original": {
+        "en": "There is no doubt that if she had not lost her rudder she would have won the race easily.",
+        "zh": "毫无疑问，如果她没有失去舵，她会轻松赢得比赛。"
+      },
+      "imitations": [
+        {
+          "en": "There is no doubt that hard work leads to success.",
+          "zh": "毫无疑问，努力工作会带来成功。"
+        },
+        {
+          "en": "There is no doubt that she is the best student in the class.",
+          "zh": "毫无疑问，她是班上最好的学生。"
+        }
+      ]
+    },
+    {
+      "pattern": "The only other...to do something was...",
+      "original": {
+        "en": "The only other ship to match her was the Thermopylae.",
+        "zh": "唯一能与她匹敌的另一艘船是Thermopylae号。"
+      },
+      "imitations": [
+        {
+          "en": "The only other student to finish the test early was Tom.",
+          "zh": "唯一另一个提前完成考试的学生是汤姆。"
+        },
+        {
+          "en": "The only other country to win the championship three times was Brazil.",
+          "zh": "唯一另一个三次赢得冠军的国家是巴西。"
+        }
+      ]
+    },
+    {
+      "pattern": "Because of this, ...",
+      "original": {
+        "en": "Because of this, the Cutty Sark lost her lead.",
+        "zh": "因此，卡蒂萨克号失去了领先地位。"
+      },
+      "imitations": [
+        {
+          "en": "Because of this, he decided to change his major.",
+          "zh": "因此，他决定换专业。"
+        },
+        {
+          "en": "Because of the heavy traffic, we arrived late.",
+          "zh": "因为交通拥堵，我们迟到了。"
+        }
+      ]
+    }
+  ]
+}

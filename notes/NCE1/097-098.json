@@ -1,0 +1,406 @@
+{
+  "book": "NCE1",
+  "lesson": "097-098",
+  "title": "Lesson 97",
+  "vocabulary": [
+    {
+      "word": "suitcase",
+      "phonetic": "/ˈsuːtkeɪs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "手提箱；行李箱",
+          "usage": "指旅行用的箱子"
+        }
+      ]
+    },
+    {
+      "word": "describe",
+      "phonetic": "/dɪˈskraɪb/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "描述；描写",
+          "usage": "用于描述某物的特征或外观"
+        }
+      ]
+    },
+    {
+      "word": "case",
+      "phonetic": "/keɪs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "箱子；盒子",
+          "usage": "指容器，可以是各种材质和大小"
+        }
+      ]
+    },
+    {
+      "word": "zip",
+      "phonetic": "/zɪp/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "拉链；拉锁",
+          "usage": "用于闭合衣物、袋子等"
+        }
+      ]
+    },
+    {
+      "word": "label",
+      "phonetic": "/ˈleɪbl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "标签；标记",
+          "usage": "贴在外表用于标识姓名、地址等"
+        }
+      ]
+    },
+    {
+      "word": "handle",
+      "phonetic": "/ˈhændl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "把手；手柄",
+          "usage": "用于提握箱子或门的部分"
+        }
+      ]
+    },
+    {
+      "word": "address",
+      "phonetic": "/əˈdres/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "地址；住址",
+          "usage": "指家庭或办公地点的详细位置"
+        }
+      ]
+    },
+    {
+      "word": "belong",
+      "phonetic": "/bɪˈlɒŋ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "属于",
+          "usage": "常与 to 连用，表示所有权"
+        }
+      ]
+    },
+    {
+      "word": "wrong",
+      "phonetic": "/rɒŋ/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "错误的；不对的",
+          "usage": "表示不正确或不符合要求的"
+        }
+      ]
+    },
+    {
+      "word": "matter",
+      "phonetic": "/ˈmætə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "事情；问题",
+          "usage": "常用于 What's the matter? 询问怎么了"
+        }
+      ]
+    },
+    {
+      "word": "pound",
+      "phonetic": "/paʊnd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "英镑（英国货币单位）",
+          "usage": "英国的货币单位，符号为 £"
+        }
+      ]
+    },
+    {
+      "word": "pence",
+      "phonetic": "/pens/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "便士（英镑的百分之一）",
+          "usage": "英国货币的小单位"
+        }
+      ]
+    },
+    {
+      "word": "train",
+      "phonetic": "/treɪn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "火车；列车",
+          "usage": "铁路交通工具"
+        }
+      ]
+    },
+    {
+      "word": "left",
+      "phonetic": "/left/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "留下；遗忘",
+          "usage": "leave 的过去式，意为遗忘在某处"
+        }
+      ]
+    },
+    {
+      "word": "given",
+      "phonetic": "/ˈɡɪvn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "给；给予",
+          "usage": "give 的过去分词"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "the other day",
+      "usage": "前几天；某天",
+      "examples": [
+        {
+          "en": "I met him at the station the other day.",
+          "zh": "前几天我在车站遇见了他。"
+        }
+      ]
+    },
+    {
+      "phrase": "a label on the handle",
+      "usage": "在手柄上的标签",
+      "examples": [
+        {
+          "en": "There's a label on the handle with my name.",
+          "zh": "手柄上有个标签，上面写着我的名字。"
+        }
+      ]
+    },
+    {
+      "phrase": "Let me see it",
+      "usage": "让我看看",
+      "examples": [
+        {
+          "en": "This one's got a label. Let me see it.",
+          "zh": "这个有标签。让我看看。"
+        }
+      ]
+    },
+    {
+      "phrase": "Here you are",
+      "usage": "给你；这是你要的东西",
+      "examples": [
+        {
+          "en": "Three pounds fifty pence, please. Here you are.",
+          "zh": "三英镑五十便士。给你。"
+        }
+      ]
+    },
+    {
+      "phrase": "What's the matter?",
+      "usage": "怎么了？发生什么事了？",
+      "examples": [
+        {
+          "en": "Hey! What's the matter?",
+          "zh": "嘿！怎么了？"
+        }
+      ]
+    },
+    {
+      "phrase": "belong to",
+      "usage": "属于",
+      "examples": [
+        {
+          "en": "This case doesn't belong to me.",
+          "zh": "这个箱子不属于我。"
+        }
+      ]
+    },
+    {
+      "phrase": "give someone the wrong + 名词",
+      "usage": "给某人拿错某物",
+      "examples": [
+        {
+          "en": "You've given me the wrong case!",
+          "zh": "你给我拿错箱子了！"
+        }
+      ]
+    },
+    {
+      "phrase": "Three pounds fifty pence",
+      "usage": "三英镑五十便士",
+      "examples": [
+        {
+          "en": "It's three pounds fifty pence.",
+          "zh": "三英镑五十便士。"
+        }
+      ]
+    },
+    {
+      "phrase": "got a zip / got a label",
+      "usage": "有拉链/有标签",
+      "examples": [
+        {
+          "en": "It's a small blue case and it's got a zip.",
+          "zh": "这是一个蓝色小箱子，有拉链。"
+        }
+      ]
+    },
+    {
+      "phrase": "Can you describe it?",
+      "usage": "你能描述一下吗？",
+      "examples": [
+        {
+          "en": "Can you describe it, sir?",
+          "zh": "先生，你能描述一下吗？"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "一般疑问句（Yes/No Questions）",
+      "definition": "可以用 yes 或 no 回答的疑问句，通过将 be 动词、情态动词或助动词移至句首构成",
+      "structure": "Be动词/情态动词 + 主语 + ...?",
+      "usage": "用于询问某物是否属于某人、某物的特征等",
+      "examples": [
+        {
+          "en": "Is this case yours?",
+          "zh": "这个箱子是你的吗？"
+        },
+        {
+          "en": "Is this seat taken?",
+          "zh": "这个座位有人吗？"
+        },
+        {
+          "en": "Are you a student?",
+          "zh": "你是学生吗？"
+        }
+      ]
+    },
+    {
+      "title": "物主代词（Possessive Pronouns）",
+      "definition": "表示所有关系的代词，分为形容词性物主代词和名词性物主代词",
+      "structure": "形容词性物主代词 + 名词 / 名词性物主代词（单独使用）",
+      "usage": "表示某物属于某人所有",
+      "examples": [
+        {
+          "en": "No, that's not mine.",
+          "zh": "不，那不是我的。"
+        },
+        {
+          "en": "Is this your case?",
+          "zh": "这是你的箱子吗？"
+        },
+        {
+          "en": "This is my suitcase.",
+          "zh": "这是我的手提箱。"
+        }
+      ]
+    },
+    {
+      "title": "have got 的用法",
+      "definition": "have got 在英式英语中相当于 have，表示拥有或具有某种特征",
+      "structure": "主语 + have/has got + 名词/形容词",
+      "usage": "用于描述某物具有某种特征或某人拥有某物",
+      "examples": [
+        {
+          "en": "It's got a zip.",
+          "zh": "它有拉链。"
+        },
+        {
+          "en": "This one's got a label.",
+          "zh": "这个有标签。"
+        },
+        {
+          "en": "He has got a new car.",
+          "zh": "他有一辆新车。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Is this + 名词 + yours/my/his/her...?",
+      "original": {
+        "en": "Is this case yours?",
+        "zh": "这个箱子是你的吗？"
+      },
+      "imitations": [
+        {
+          "en": "Is this bag yours?",
+          "zh": "这个包是你的吗？"
+        },
+        {
+          "en": "Is this book his?",
+          "zh": "这本书是他的吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "What's your name and address?",
+      "original": {
+        "en": "What's your name and address?",
+        "zh": "你的姓名和地址是什么？"
+      },
+      "imitations": [
+        {
+          "en": "What's your name?",
+          "zh": "你叫什么名字？"
+        },
+        {
+          "en": "What's your address?",
+          "zh": "你的地址是什么？"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + have/has got + a/an + 名词",
+      "original": {
+        "en": "This one's got a label.",
+        "zh": "这个有标签。"
+      },
+      "imitations": [
+        {
+          "en": "My car has got a big trunk.",
+          "zh": "我的车有一个大后备箱。"
+        },
+        {
+          "en": "That house has got a beautiful garden.",
+          "zh": "那栋房子有一个漂亮的花园。"
+        }
+      ]
+    },
+    {
+      "pattern": "You've given me the wrong + 名词",
+      "original": {
+        "en": "You've given me the wrong case!",
+        "zh": "你给我拿错箱子了！"
+      },
+      "imitations": [
+        {
+          "en": "You've given me the wrong ticket.",
+          "zh": "你给我拿错票了！"
+        },
+        {
+          "en": "You've given me the wrong number.",
+          "zh": "你给我说错号码了！"
+        }
+      ]
+    }
+  ]
+}

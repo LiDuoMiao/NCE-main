@@ -1,0 +1,389 @@
+{
+  "book": "NCE3",
+  "lesson": "39",
+  "title": "Lesson 39",
+  "vocabulary": [
+    {
+      "word": "perturb",
+      "phonetic": "/pəˈtɜːb/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "使不安；使烦恼",
+          "usage": "常用被动语态be perturbed，描述人因外界因素感到焦虑、慌乱"
+        }
+      ]
+    },
+    {
+      "word": "underestimate",
+      "phonetic": "/ˌʌndərˈestɪmeɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "低估；看轻",
+          "usage": "后可直接接名词/动名词，反义词为overestimate"
+        }
+      ]
+    },
+    {
+      "word": "bump",
+      "phonetic": "/bʌmp/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "颠簸而行；碰撞",
+          "usage": "表示颠簸时常与over/along搭配，描述车辆在不平路面行驶的状态"
+        }
+      ]
+    },
+    {
+      "word": "swerve",
+      "phonetic": "/swɜːv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "突然转向；急转弯",
+          "usage": "常与to do搭配，表示转向的目的，也可与off搭配表示偏离路线"
+        }
+      ]
+    },
+    {
+      "word": "ominously",
+      "phonetic": "/ˈɒmɪnəsli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "不祥地；有凶兆地",
+          "usage": "修饰动作，暗示即将发生不好的事情"
+        }
+      ]
+    },
+    {
+      "word": "rip",
+      "phonetic": "/rɪp/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "撕破；划破",
+          "usage": "常与in/through搭配，描述外力导致物体出现裂口的状态"
+        }
+      ]
+    },
+    {
+      "word": "obstacle",
+      "phonetic": "/ˈɒbstəkl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "障碍；阻碍",
+          "usage": "既可以指具体的障碍物，也可以指抽象的困难、阻碍"
+        }
+      ]
+    },
+    {
+      "word": "clump",
+      "phonetic": "/klʌmp/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "丛；簇；块",
+          "usage": "常与of搭配，描述密集生长的植物或聚集的块状物"
+        }
+      ]
+    },
+    {
+      "word": "fissure",
+      "phonetic": "/ˈfɪʃə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "裂缝；裂隙",
+          "usage": "指岩石、地面等出现的狭长深裂缝"
+        }
+      ]
+    },
+    {
+      "word": "pleading",
+      "phonetic": "/ˈpliːdɪŋ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "恳求；乞求",
+          "usage": "常用复数形式，表示多次反复的请求"
+        }
+      ]
+    },
+    {
+      "word": "astride",
+      "phonetic": "/əˈstraɪd/",
+      "meanings": [
+        {
+          "pos": "preposition/adverb",
+          "meaning": "跨在…上；两腿分开着",
+          "usage": "描述物体或人跨越在某个事物两侧的状态"
+        }
+      ]
+    },
+    {
+      "word": "zigzag",
+      "phonetic": "/ˈzɪɡzæɡ/",
+      "meanings": [
+        {
+          "pos": "adjective/noun",
+          "meaning": "之字形的；锯齿形的；之字形路线",
+          "usage": "描述路线、形状呈连续的Z形转折"
+        }
+      ]
+    },
+    {
+      "word": "shallow",
+      "phonetic": "/ˈʃæləʊ/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "浅的；肤浅的",
+          "usage": "既可以形容水、坑等深度浅，也可以形容人思想浅薄"
+        }
+      ]
+    },
+    {
+      "word": "charge",
+      "phonetic": "/tʃɑːdʒ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "猛冲；猛攻",
+          "usage": "常与at搭配，表示向某个方向快速、鲁莽地冲过去"
+        }
+      ]
+    },
+    {
+      "word": "grinding",
+      "phonetic": "/ˈɡraɪndɪŋ/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "刺耳的；摩擦的",
+          "usage": "常用来形容金属摩擦产生的难听声音，grinding halt表示戛然而止"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "in the least",
+      "usage": "用于否定句中，加强否定语气，表示“一点也不，丝毫没有”",
+      "examples": [
+        {
+          "en": "Even though the road was littered with boulders and pitted with holes, Bruce was not in the least perturbed.",
+          "zh": "尽管路上满是大石头，坑坑洼洼，布鲁斯却一点也不慌。"
+        },
+        {
+          "en": "She was not in the least surprised by the bad news.",
+          "zh": "她对这个坏消息一点也不感到惊讶。"
+        }
+      ]
+    },
+    {
+      "phrase": "give way to",
+      "usage": "表示“被…取代；让位于”，描述一种情况被另一种情况替代",
+      "examples": [
+        {
+          "en": "What a relief it was when the boulders suddenly disappeared, giving way to a stretch of plain where the only obstacles were clumps bushes.",
+          "zh": "大石头突然消失了，取而代之的是一片平原，唯一的障碍是一簇簇灌木丛，这让我们松了一大口气。"
+        },
+        {
+          "en": "The storm gave way to bright sunshine the next morning.",
+          "zh": "第二天早上，暴风雨过后阳光明媚。"
+        }
+      ]
+    },
+    {
+      "phrase": "in response to",
+      "usage": "表示“作为对…的回应；响应”，引出某个动作的触发原因",
+      "examples": [
+        {
+          "en": "In response to renewed pleadings, Bruce stopped.",
+          "zh": "在我们再次恳求下，布鲁斯停了车。"
+        },
+        {
+          "en": "The company changed its policy in response to customer complaints.",
+          "zh": "公司为了回应客户投诉，修改了政策。"
+        }
+      ]
+    },
+    {
+      "phrase": "go into low gear",
+      "usage": "原指车辆挂上低速挡，也可引申为“放慢节奏；低速运行”",
+      "examples": [
+        {
+          "en": "Bruce went into a low gear and drove at a terrifying speed.",
+          "zh": "布鲁斯挂上低速挡，以惊人的速度行驶。"
+        },
+        {
+          "en": "When you climb a steep hill, you need to go into low gear.",
+          "zh": "爬陡坡的时候，你需要挂低速挡。"
+        }
+      ]
+    },
+    {
+      "phrase": "come to a halt",
+      "usage": "表示“停止；停下来”，强调逐渐停止的过程，可加形容词修饰停止的状态",
+      "examples": [
+        {
+          "en": "Bruce charged at it, but in the middle, the car came to a grinding halt.",
+          "zh": "布鲁斯冲着水潭开过去，可开到中间时，车嘎吱一声停住了。"
+        },
+        {
+          "en": "The project came to a halt due to lack of funding.",
+          "zh": "由于缺乏资金，项目停了下来。"
+        }
+      ]
+    },
+    {
+      "phrase": "sooner or later",
+      "usage": "作时间状语，表示“迟早，总有一天”，强调某事最终必然会发生",
+      "examples": [
+        {
+          "en": "We felt sure that sooner or later a stone would rip a hole in our petrol tank or damage the engine.",
+          "zh": "我们确信迟早会有石头把油箱砸个洞，或者把发动机弄坏。"
+        },
+        {
+          "en": "If you keep lying, people will find out sooner or later.",
+          "zh": "如果你一直撒谎，大家迟早会发现的。"
+        }
+      ]
+    },
+    {
+      "phrase": "a trail of",
+      "usage": "表示“一串；一溜；痕迹”，描述人或物经过后留下的连续痕迹",
+      "examples": [
+        {
+          "en": "We kept looking back, wondering if we were leaving a trail of oil and petrol behind us.",
+          "zh": "我们不停地往后看，想知道是不是在身后漏了一路油。"
+        },
+        {
+          "en": "The hurricane left a trail of destruction across the country.",
+          "zh": "飓风在全国留下了满目疮痍。"
+        }
+      ]
+    },
+    {
+      "phrase": "charge at",
+      "usage": "表示“向…猛冲；冲向”，带有动作鲁莽、不顾后果的意味",
+      "examples": [
+        {
+          "en": "Bruce charged at it, but in the middle, the car came to a grinding halt.",
+          "zh": "布鲁斯冲着水潭开过去，可开到中间时，车嘎吱一声停住了。"
+        },
+        {
+          "en": "The dog charged at the stranger when he walked into the yard.",
+          "zh": "陌生人走进院子时，狗朝他冲了过去。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "even though/even if引导的让步状语从句",
+      "definition": "用来引导让步状语，表示“尽管，即使”，强调主句描述的情况不受从句情况的影响，存在转折关系",
+      "structure": "Even though/Even if + 从句，主句",
+      "usage": "even though多引导已经发生的事实，even if多引导假设的情况，二者在很多场景下可通用，从句可以放在主句前或主句后",
+      "examples": [
+        {
+          "en": "Even though the road was littered with boulders and pitted with holes, Bruce was not in the least perturbed.",
+          "zh": "尽管路上满是大石头，坑坑洼洼，布鲁斯却一点也不慌。"
+        },
+        {
+          "en": "Even if it rains tomorrow, we will still hold the sports meeting.",
+          "zh": "即使明天下雨，我们还是会举办运动会。"
+        }
+      ]
+    },
+    {
+      "title": "no matter what引导的让步状语从句",
+      "definition": "表示“无论什么”，引导让步状语，强调不管出现什么情况，主句的动作或状态都不会改变",
+      "structure": "No matter what + 从句，主句",
+      "usage": "no matter what相当于whatever，在从句中可作主语或宾语，同类结构还有no matter when/where/how等",
+      "examples": [
+        {
+          "en": "No matter what the conditions were, he believed that a car should be driven as fast as it could possibly go.",
+          "zh": "不管路况如何，他都认为车应该能开多快就开多快。"
+        },
+        {
+          "en": "No matter what difficulties we meet, we will never give up.",
+          "zh": "无论遇到什么困难，我们都不会放弃。"
+        }
+      ]
+    },
+    {
+      "title": "现在分词作伴随/结果状语",
+      "definition": "现在分词（短语）可以在句中作状语，用来表示和主句动作同时发生的伴随动作，或者主句动作带来的自然结果",
+      "structure": "主句，现在分词（短语）",
+      "usage": "现在分词的逻辑主语必须和主句主语一致，表伴随时动作与主句动作同时发生，表结果时是主句动作产生的意料之中的结果",
+      "examples": [
+        {
+          "en": "Glancing at his map, he informed us that the next village was a mere twenty miles away.",
+          "zh": "他看了一眼地图，告诉我们下一个村子只有20英里远了。"
+        },
+        {
+          "en": "The fire lasted nearly a month, leaving nothing valuable.",
+          "zh": "大火持续了近一个月，没留下什么值钱的东西。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "It was not that... It was simply that...",
+      "original": {
+        "en": "It was not that Bruce always underestimated difficulties. He simply had no sense of danger at all.",
+        "zh": "并不是布鲁斯总低估困难，他根本就完全没有危险意识。"
+      },
+      "imitations": [
+        {
+          "en": "It was not that she doesn't like the gift. She simply thinks it's too expensive.",
+          "zh": "并不是她不喜欢这个礼物，她只是觉得它太贵了。"
+        },
+        {
+          "en": "It was not that the task is too hard. We simply don't have enough time to finish it.",
+          "zh": "并不是任务太难，我们只是没有足够的时间完成它。"
+        }
+      ]
+    },
+    {
+      "pattern": "What a relief it was when...",
+      "original": {
+        "en": "What a relief it was when the boulders suddenly disappeared, giving way to a stretch of plain where the only obstacles were clumps bushes.",
+        "zh": "大石头突然消失了，取而代之的是一片平原，唯一的障碍是一簇簇灌木丛，这让我们松了一大口气。"
+      },
+      "imitations": [
+        {
+          "en": "What a relief it was when the final exam ended and we could go on vacation.",
+          "zh": "期末考试结束了，我们可以去度假了，真是太让人松口气了。"
+        },
+        {
+          "en": "What a relief it was when the missing child was found safe and sound.",
+          "zh": "失踪的孩子被安然无恙地找到了，真是让人松了一大口气。"
+        }
+      ]
+    },
+    {
+      "pattern": "so...that...引导的结果状语从句",
+      "original": {
+        "en": "The rough road across the plain soon became so bad that we tried to get Bruce to drive back to the village we had come from.",
+        "zh": "穿越平原的崎岖道路很快变得极差，我们都试图让布鲁斯开回我们来的那个村子。"
+      },
+      "imitations": [
+        {
+          "en": "The movie was so touching that almost everyone in the cinema cried.",
+          "zh": "这部电影太感人了，电影院里几乎所有人都哭了。"
+        },
+        {
+          "en": "He spoke so fast that I could hardly catch what he was saying.",
+          "zh": "他说得太快了，我几乎跟不上他说的内容。"
+        }
+      ]
+    }
+  ]
+}

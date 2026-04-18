@@ -1,0 +1,394 @@
+{
+  "book": "NCE2",
+  "lesson": "81",
+  "title": "Why did the prisoner attack the driver?",
+  "vocabulary": [
+    {
+      "word": "prisoner",
+      "phonetic": "/ˈprɪzənə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "囚犯；俘虏",
+          "usage": "指被关押的人或战俘"
+        }
+      ]
+    },
+    {
+      "word": "guard",
+      "phonetic": "/ɡɑːd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "卫兵；看守",
+          "usage": "负责看守或保护的人"
+        }
+      ]
+    },
+    {
+      "word": "rapidly",
+      "phonetic": "/ˈræpɪdli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "快速地；迅速地",
+          "usage": "描述动作进行的速度快"
+        }
+      ]
+    },
+    {
+      "word": "uniform",
+      "phonetic": "/ˈjuːnɪfɔːm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "制服；军装",
+          "usage": "统一规格的服装，常指军服或工作服"
+        }
+      ]
+    },
+    {
+      "word": "rifle",
+      "phonetic": "/ˈraɪfl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "步枪；来复枪",
+          "usage": "一种长管枪械"
+        }
+      ]
+    },
+    {
+      "word": "blaze",
+      "phonetic": "/bleɪz/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "闪耀；发光",
+          "usage": "指光亮强烈地照射或燃烧"
+        }
+      ]
+    },
+    {
+      "word": "escape",
+      "phonetic": "/ɪˈskeɪp/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "逃跑；逃脱",
+          "usage": "指从束缚或危险中逃离"
+        }
+      ]
+    },
+    {
+      "word": "officer",
+      "phonetic": "/ˈɒfɪsə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "军官；官员",
+          "usage": "军队中有军衔的人或政府官员"
+        }
+      ]
+    },
+    {
+      "word": "salute",
+      "phonetic": "/səˈluːt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "行礼；致敬",
+          "usage": "军队中下级对上级表示敬意的动作"
+        }
+      ]
+    },
+    {
+      "word": "elderly",
+      "phonetic": "/ˈeldəli/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "年老的；上了年纪的",
+          "usage": "委婉地指老年人"
+        }
+      ]
+    },
+    {
+      "word": "sharp",
+      "phonetic": "/ʃɑːp/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "锐利的；尖刻的",
+          "usage": "形容刀刃锋利或动作突然有力"
+        }
+      ]
+    },
+    {
+      "word": "blow",
+      "phonetic": "/bləʊ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "打击；撞击",
+          "usage": "指用拳头或工具的强力撞击"
+        }
+      ]
+    },
+    {
+      "word": "boldly",
+      "phonetic": "/ˈbəʊldli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "大胆地；勇敢地",
+          "usage": "描述无所畏惧地做某事"
+        }
+      ]
+    },
+    {
+      "word": "bush",
+      "phonetic": "/bʊʃ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "灌木丛；矮树丛",
+          "usage": "指低矮的灌木植物"
+        }
+      ]
+    },
+    {
+      "word": "attention",
+      "phonetic": "/əˈtenʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "注意；立正",
+          "usage": "stand to attention表示立正姿势"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "drag into",
+      "usage": "把...拖进；拽进",
+      "examples": [
+        {
+          "en": "He dragged the box into the room.",
+          "zh": "他把箱子拖进房间。"
+        }
+      ]
+    },
+    {
+      "phrase": "change into",
+      "usage": "换上；变成",
+      "examples": [
+        {
+          "en": "She changed into her sports clothes.",
+          "zh": "她换上了运动服。"
+        }
+      ]
+    },
+    {
+      "phrase": "march up and down",
+      "usage": "来回走动；踱步",
+      "examples": [
+        {
+          "en": "The soldier marched up and down in front of the gate.",
+          "zh": "士兵在门前来回走动。"
+        }
+      ]
+    },
+    {
+      "phrase": "stand to attention",
+      "usage": "立正",
+      "examples": [
+        {
+          "en": "The soldiers stood to attention when the officer passed.",
+          "zh": "当军官经过时，士兵们立正敬礼。"
+        }
+      ]
+    },
+    {
+      "phrase": "come towards",
+      "usage": "走向；向...走来",
+      "examples": [
+        {
+          "en": "A stranger came towards me on the street.",
+          "zh": "街上一个陌生人向我走来。"
+        }
+      ]
+    },
+    {
+      "phrase": "knock to the ground",
+      "usage": "击倒；打倒在地",
+      "examples": [
+        {
+          "en": "He knocked the man to the ground with one punch.",
+          "zh": "他一拳把那人打倒在地。"
+        }
+      ]
+    },
+    {
+      "phrase": "drive off",
+      "usage": "开车离开；驶离",
+      "examples": [
+        {
+          "en": "The thief drove off at high speed.",
+          "zh": "小偷高速驾车逃离。"
+        }
+      ]
+    },
+    {
+      "phrase": "in the darkness",
+      "usage": "在黑暗中",
+      "examples": [
+        {
+          "en": "They couldn't see anything in the darkness.",
+          "zh": "他们在黑暗中什么都看不见。"
+        }
+      ]
+    },
+    {
+      "phrase": "with a rifle over his shoulder",
+      "usage": "肩上扛着步枪",
+      "examples": [
+        {
+          "en": "He stood there with a bag over his shoulder.",
+          "zh": "他肩上背着包站在那里。"
+        }
+      ]
+    },
+    {
+      "phrase": "jump into",
+      "usage": "跳进；钻进",
+      "examples": [
+        {
+          "en": "He jumped into the car and drove away.",
+          "zh": "他钻进车里开走了。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去完成时 (Past Perfect Tense)",
+      "definition": "表示在过去某一时刻之前已经完成的动作或状态，由had + 过去分词构成",
+      "structure": "主语 + had + 过去分词 + (before + 过去时态)...",
+      "usage": "用于描述两个过去的动作，先发生的动作用过去完成时，后发生的动作用一般过去时。常与when, after, before等连词连用。",
+      "examples": [
+        {
+          "en": "When he had killed the guard, the prisoner dragged him into the bushes.",
+          "zh": "当他杀死卫兵后，囚犯把他拖进了灌木丛。"
+        },
+        {
+          "en": "When they had gone, the driver came towards him.",
+          "zh": "他们走后，司机向他走来。"
+        }
+      ]
+    },
+    {
+      "title": "过去进行时与一般过去时的对比",
+      "definition": "过去进行时表示过去某时刻正在进行的动作，一般过去时表示过去已完成的动作",
+      "structure": "was/were + doing (过去进行时) vs. did (一般过去时)",
+      "usage": "当一个长时间动作正在进行时，另一个短动作发生，此时用过去进行时+when+一般过去时",
+      "examples": [
+        {
+          "en": "Lights were blazing and men were running here and there.",
+          "zh": "灯光明亮，人们四处奔跑。"
+        },
+        {
+          "en": "The officers got out and the prisoner stood to attention.",
+          "zh": "军官们下车了，囚犯立正敬礼。"
+        }
+      ]
+    },
+    {
+      "title": "with复合结构",
+      "definition": "with + 宾语 + 介词短语/形容词/副词/分词，表示附带状态或伴随情况",
+      "structure": "with + 名词/代词 + 介词短语/形容词/副词/分词",
+      "usage": "用于描述事物的状态、穿着、携带物品等，可作状语或定语",
+      "examples": [
+        {
+          "en": "Now, dressed in a blue uniform and with a rifle over his shoulder, the prisoner marched boldly.",
+          "zh": "现在，穿着蓝色制服，肩上扛着步枪，囚犯大胆地来回走动。"
+        },
+        {
+          "en": "The man was rather elderly with grey hair and clear blue eyes.",
+          "zh": "这人年纪较大，满头白发，碧蓝的眼睛。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "When + 主语 + had + 过去分词..., 主语 + 过去时态...",
+      "original": {
+        "en": "When he had killed the guard, the prisoner quickly dragged him into the bushes.",
+        "zh": "当他杀死卫兵后，囚犯迅速把他拖进了灌木丛。"
+      },
+      "imitations": [
+        {
+          "en": "When I had finished my homework, I went to bed.",
+          "zh": "当我完成作业后，我就去睡觉了。"
+        },
+        {
+          "en": "When she had cooked dinner, she called the family.",
+          "zh": "她做完饭后，叫家人吃饭。"
+        }
+      ]
+    },
+    {
+      "pattern": "...with + 名词 + 介词短语/形容词...",
+      "original": {
+        "en": "He was rather elderly with grey hair and clear blue eyes.",
+        "zh": "这人年纪较大，满头白发，碧蓝的眼睛。"
+      },
+      "imitations": [
+        {
+          "en": "The girl stood there with a red flower in her hand.",
+          "zh": "女孩手里拿着一朵红花站在那里。"
+        },
+        {
+          "en": "He came in with his head down.",
+          "zh": "他低着头走了进来。"
+        }
+      ]
+    },
+    {
+      "pattern": "...wanted to + 动词原形",
+      "original": {
+        "en": "The man obviously wanted to talk.",
+        "zh": "这人显然想聊天。"
+      },
+      "imitations": [
+        {
+          "en": "She wanted to buy a new car.",
+          "zh": "她想买一辆新车。"
+        },
+        {
+          "en": "They wanted to travel around the world.",
+          "zh": "他们想环游世界。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + 动词 + off + as + 形容词/副词比较级 + as + 主语 + could",
+      "original": {
+        "en": "He drove off as quickly as he could.",
+        "zh": "他尽可能快地开车离开了。"
+      },
+      "imitations": [
+        {
+          "en": "She ran away as fast as she could.",
+          "zh": "她尽快跑开了。"
+        },
+        {
+          "en": "He finished the work as soon as he could.",
+          "zh": "他尽快完成了工作。"
+        }
+      ]
+    }
+  ]
+}

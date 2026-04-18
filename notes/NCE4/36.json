@@ -1,0 +1,346 @@
+{
+  "book": "NCE4",
+  "lesson": "36",
+  "title": "Lesson 36",
+  "vocabulary": [
+    {
+      "word": "essentially",
+      "phonetic": "/ɪˈsenʃəli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "本质上；根本上；基本上",
+          "usage": "用来强调事物最核心的性质或特征，可修饰形容词、动词或整个句子"
+        }
+      ]
+    },
+    {
+      "word": "disunited",
+      "phonetic": "/ˌdɪsjuˈnaɪtɪd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "分裂的；不团结的",
+          "usage": "用来描述群体、国家等内部存在分歧、无法统一行动的状态"
+        }
+      ]
+    },
+    {
+      "word": "correspondingly",
+      "phonetic": "/ˌkɒrəˈspɒndɪŋli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "相应地；对应地",
+          "usage": "表示两个事物之间存在关联的变化，一个变化伴随另一个同步发生"
+        }
+      ]
+    },
+    {
+      "word": "backward",
+      "phonetic": "/ˈbækwəd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "落后的；发展缓慢的",
+          "usage": "形容地区、国家等经济、社会发展水平较低，注意该词带有一定贬义，正式语境中常用 less developed 替代"
+        }
+      ]
+    },
+    {
+      "word": "incur",
+      "phonetic": "/ɪnˈkɜː(r)/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "招致；遭受；带来（成本、损失等）",
+          "usage": "及物动词，常搭配 cost, expense, loss, debt 等表示负面结果的名词"
+        }
+      ]
+    },
+    {
+      "word": "administer",
+      "phonetic": "/ədˈmɪnɪstə(r)/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "管理；治理；行政",
+          "usage": "指对组织、机构、国家等的日常事务进行管理，名词形式为administration"
+        }
+      ]
+    },
+    {
+      "word": "overhead",
+      "phonetic": "/ˈəʊvəhed/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "运营成本；管理费用；经常开支",
+          "usage": "商务语境常用，指企业运营的间接成本，常用复数形式overheads"
+        }
+      ]
+    },
+    {
+      "word": "analogous",
+      "phonetic": "/əˈnæləɡəs/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "类似的；可比拟的",
+          "usage": "正式用语，常用结构be analogous to/with，表示两者具有相似性可做类比"
+        }
+      ]
+    },
+    {
+      "word": "initiative",
+      "phonetic": "/ɪˈnɪʃətɪv/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "主动性；积极性；首创精神",
+          "usage": "不可数名词，常用搭配take initiative表示“采取主动，发挥主动性”"
+        }
+      ]
+    },
+    {
+      "word": "sphere",
+      "phonetic": "/sfɪə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "范围；领域；阶层",
+          "usage": "正式用语，指某人的职权、活动或兴趣的范围，常用搭配within one's sphere"
+        }
+      ]
+    },
+    {
+      "word": "foreman",
+      "phonetic": "/ˈfɔːmən/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "工头；领班；陪审团团长",
+          "usage": "指工厂、工地等管理基层工人的主管人员，复数形式为foremen"
+        }
+      ]
+    },
+    {
+      "word": "dividend",
+      "phonetic": "/ˈdɪvɪdend/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "股息；红利；回报",
+          "usage": "商务常用词，指公司按股份分配给股东的利润，也可引申为付出带来的回报"
+        }
+      ]
+    },
+    {
+      "word": "civil servant",
+      "phonetic": "/ˌsɪvl ˈsɜːvənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "公务员；文职人员",
+          "usage": "指政府部门的非军事雇佣人员，对应集体名词为civil service（行政部门）"
+        }
+      ]
+    },
+    {
+      "word": "unduly",
+      "phonetic": "/ʌnˈdjuːli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "过度地；不适当地；过分地",
+          "usage": "用来修饰形容词或副词，强调程度超出合理范围"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "keep sth/sb running",
+      "usage": "表示维持某事物正常运转、某人正常工作",
+      "examples": [
+        {
+          "en": "It takes a lot of effort to keep a large company running smoothly.",
+          "zh": "维持一家大公司的顺利运转需要付出很多努力。"
+        }
+      ]
+    },
+    {
+      "phrase": "stay in business",
+      "usage": "商务用语，指企业维持运营、不倒闭",
+      "examples": [
+        {
+          "en": "Many small shops had to cut costs sharply to stay in business during the pandemic.",
+          "zh": "疫情期间很多小商店不得不大幅削减成本才能维持经营。"
+        }
+      ]
+    },
+    {
+      "phrase": "be concerned with",
+      "usage": "表示关注、涉及、以…为主题，后接名词或动名词",
+      "examples": [
+        {
+          "en": "This research is concerned with the impact of social media on teenagers' mental health.",
+          "zh": "这项研究关注社交媒体对青少年心理健康的影响。"
+        }
+      ]
+    },
+    {
+      "phrase": "fall within one's sphere",
+      "usage": "表示属于某人的职权、责任或兴趣范围",
+      "examples": [
+        {
+          "en": "Employee training issues fall within the HR manager's sphere of responsibility.",
+          "zh": "员工培训问题属于人力资源经理的职责范围。"
+        }
+      ]
+    },
+    {
+      "phrase": "keep sb in line",
+      "usage": "表示约束某人、使某人遵守规则、行为合规",
+      "examples": [
+        {
+          "en": "The new company rules are designed to keep all employees in line with corporate standards.",
+          "zh": "新的公司规定旨在约束所有员工符合企业规范。"
+        }
+      ]
+    },
+    {
+      "phrase": "meet the expense of",
+      "usage": "表示支付、承担某项费用，相当于cover the expense of",
+      "examples": [
+        {
+          "en": "The local government will meet the expense of building the new community library.",
+          "zh": "当地政府将承担新建社区图书馆的费用。"
+        }
+      ]
+    },
+    {
+      "phrase": "to the extent that",
+      "usage": "引导状语从句，表示“在…程度上；就…而言”，用来限定陈述的适用范围",
+      "examples": [
+        {
+          "en": "To the extent that you practice every day, your English speaking skills will improve quickly.",
+          "zh": "只要你每天练习，你的英语口语能力就会快速提升。"
+        }
+      ]
+    },
+    {
+      "phrase": "in the interests of",
+      "usage": "表示“为了…的利益；符合…的利益”，后接人或组织",
+      "examples": [
+        {
+          "en": "It is in the interests of the whole family to choose a house near good schools.",
+          "zh": "选一所靠近好学校的房子符合全家的利益。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "where引导的地点状语从句引申用法",
+      "definition": "where除了引导表示具体地点的状语从句，还可以引申为引导抽象条件的状语从句，表示“在…的情况下”",
+      "structure": "Where + 条件/情况描述, + 主句",
+      "usage": "用来表达在某种特定的抽象情形下会产生对应的结果，常见于正式论述类文本",
+      "examples": [
+        {
+          "en": "Where the cost of government is high, resources for development are correspondingly low.",
+          "zh": "在政府成本高的地方，可用于发展的资源就相应较少。"
+        },
+        {
+          "en": "Where there is a will, there is a way.",
+          "zh": "有志者，事竟成。"
+        }
+      ]
+    },
+    {
+      "title": "as引导的比例状语从句",
+      "definition": "as可以引导表示同步变化的状语从句，意思是“随着…；与…同时”，体现两个变化的关联性",
+      "structure": "As + 从句（描述变化）, + so + 主句（描述同步的变化）",
+      "usage": "用于说明两个事物的变化成正比关系，主句中的so可以省略，也可以保留增强语气",
+      "examples": [
+        {
+          "en": "As administrative overheads rise, so the earnings of the business after meeting the expense of administration, will fall.",
+          "zh": "随着管理费用的上升，企业在支付管理费用后的收益就会下降。"
+        },
+        {
+          "en": "As you grow older, so you will understand more about the importance of health.",
+          "zh": "随着年龄增长，你会越来越明白健康的重要性。"
+        }
+      ]
+    },
+    {
+      "title": "It作形式主语的主语从句",
+      "definition": "当主语是较长的从句时，为了避免句子头重脚轻，常用it作形式主语放在句首，真正的主语从句放在句末",
+      "structure": "It + 被动语态/形容词 + that + 真正的主语从句",
+      "usage": "常见于正式论述中，用来引出普遍认知、需要说明的事实等，常见结构有it is said that, it should be noted that等",
+      "examples": [
+        {
+          "en": "And it should not be forgotten how small those resources are in a poor and backward country.",
+          "zh": "不应忘记的是，在贫穷落后的国家，这些资源是多么匮乏。"
+        },
+        {
+          "en": "It is widely accepted that regular exercise is beneficial to physical and mental health.",
+          "zh": "人们普遍认为规律锻炼对身心健康有益。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "A may be illustrated by comparing the position of B with that of C.",
+      "original": {
+        "en": "This may be illustrated by comparing the position of a nation with that of a private business enterprise.",
+        "zh": "要说明这一点，可以把国家的状况和私营企业的状况做个比较。"
+      },
+      "imitations": [
+        {
+          "en": "The importance of time management may be illustrated by comparing the efficiency of people with good habits with that of people without plans.",
+          "zh": "要说明时间管理的重要性，可以把有良好习惯的人和没有规划的人的效率做个比较。"
+        },
+        {
+          "en": "The harm of air pollution may be illustrated by comparing the health condition of residents in industrial areas with that of people in rural areas.",
+          "zh": "要说明空气污染的危害，可以把工业区居民和乡村居民的健康状况做个比较。"
+        }
+      ]
+    },
+    {
+      "pattern": "A in X are analogous to B in Y.",
+      "original": {
+        "en": "Such administrative overheads in a business are analogous to the cost of government in a nation.",
+        "zh": "企业的这类管理费用与国家的政府成本是类似的。"
+      },
+      "imitations": [
+        {
+          "en": "The heart in the human body is analogous to the engine in a car.",
+          "zh": "人体的心脏相当于汽车的发动机。"
+        },
+        {
+          "en": "Teachers in a school are analogous to coaches in a sports team.",
+          "zh": "学校里的老师相当于运动队里的教练。"
+        }
+      ]
+    },
+    {
+      "pattern": "To the extent that..., ...do/does not require...",
+      "original": {
+        "en": "To the extent that the people can be relied on to behave in a loyal and responsible manner, the government does not require armies of police and civil servants to keep them in order.",
+        "zh": "只要人民的行为是忠诚可靠、有责任心的，政府就不需要大批警察和公务员来维持秩序。"
+      },
+      "imitations": [
+        {
+          "en": "To the extent that all team members can be trusted to finish their tasks on time, the project manager does not require extra supervisors to check the progress every day.",
+          "zh": "只要所有团队成员都能按时完成任务，项目经理就不需要额外的监督人员每天检查进度。"
+        },
+        {
+          "en": "To the extent that students are interested in the subject, teachers do not require strict rules to force them to attend classes.",
+          "zh": "只要学生对这门学科感兴趣，老师就不需要严格的规定来强迫他们上课。"
+        }
+      ]
+    }
+  ]
+}

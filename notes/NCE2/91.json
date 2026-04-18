@@ -1,0 +1,423 @@
+{
+  "book": "NCE2",
+  "lesson": "91",
+  "title": "Where was the station's Commanding Officer?",
+  "vocabulary": [
+    {
+      "word": "balloon",
+      "phonetic": "/bəˈluːn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "气球",
+          "usage": "指充气后能飘浮在空中的球状物，常用于娱乐或侦察"
+        }
+      ]
+    },
+    {
+      "word": "pilot",
+      "phonetic": "/ˈpaɪlət/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "飞行员",
+          "usage": "指驾驶飞机的人"
+        },
+        {
+          "pos": "verb",
+          "meaning": "驾驶/领航",
+          "usage": "指驾驶飞机或引导船只"
+        }
+      ]
+    },
+    {
+      "word": "station",
+      "phonetic": "/ˈsteɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "基地/站",
+          "usage": "指军事设施、警局或火车站等"
+        }
+      ]
+    },
+    {
+      "word": "control tower",
+      "phonetic": "/kənˈtrəʊl ˈtaʊə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "指挥塔",
+          "usage": "机场或军事基地中用于指挥飞机起降的建筑"
+        }
+      ]
+    },
+    {
+      "word": "aircraft",
+      "phonetic": "/ˈeəkrɑːft/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "飞机/航空器",
+          "usage": "飞机的总称，复数形式仍为aircraft"
+        }
+      ]
+    },
+    {
+      "word": "spy",
+      "phonetic": "/spaɪ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "间谍/特工",
+          "usage": "指从事情报工作的人"
+        },
+        {
+          "pos": "verb",
+          "meaning": "侦察/窥探",
+          "usage": "指暗中监视或收集情报"
+        }
+      ]
+    },
+    {
+      "word": "track",
+      "phonetic": "/træk/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "追踪/跟踪",
+          "usage": "keep track of 意为'追踪/掌握...的动态'"
+        },
+        {
+          "pos": "noun",
+          "meaning": "轨迹/轨道",
+          "usage": "指留下的痕迹或路径"
+        }
+      ]
+    },
+    {
+      "word": "binoculars",
+      "phonetic": "/bɪˈnɒkjələz/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "双筒望远镜",
+          "usage": "常用于复数形式，指手持的双筒观景设备"
+        }
+      ]
+    },
+    {
+      "word": "photograph",
+      "phonetic": "/ˈfəʊtəɡrɑːf/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "照片",
+          "usage": "指拍摄得到的图片"
+        },
+        {
+          "pos": "verb",
+          "meaning": "拍照",
+          "usage": "指用相机拍摄的动作"
+        }
+      ]
+    },
+    {
+      "word": "descend",
+      "phonetic": "/dɪˈsend/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "下降/降落",
+          "usage": "指从高处向低处移动，是ascend的反义词"
+        }
+      ]
+    },
+    {
+      "word": "airfield",
+      "phonetic": "/ˈeəfiːld/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "飞机场/停机坪",
+          "usage": "指供飞机起飞降落的地方，比airport规模小"
+        }
+      ]
+    },
+    {
+      "word": "arrest",
+      "phonetic": "/əˈrest/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "逮捕/拘留",
+          "usage": "指依法扣押嫌疑人"
+        },
+        {
+          "pos": "noun",
+          "meaning": "逮捕",
+          "usage": "under arrest 意为'被逮捕'"
+        }
+      ]
+    },
+    {
+      "word": "Commanding Officer",
+      "phonetic": "/kəˈmɑːndɪŋ ˈɒfɪsə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "指挥官/司令官",
+          "usage": "军队中的最高指挥官，常缩写为C.O."
+        }
+      ]
+    },
+    {
+      "word": "Member of Parliament",
+      "phonetic": "/ˈmembə(r) əv ˈpɑːləmənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "国会议员",
+          "usage": "英国议会的下议院议员，简称MP"
+        }
+      ]
+    },
+    {
+      "word": "mystery",
+      "phonetic": "/ˈmɪstri/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "谜团/神秘事物",
+          "usage": "指令人费解或不知原因的事情"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "make for",
+      "usage": "驶向/走向某地，表示朝某个方向前进",
+      "examples": [
+        {
+          "en": "The balloon seemed to be making for the RAF station.",
+          "zh": "气球似乎正朝皇家空军基地飘去。"
+        }
+      ]
+    },
+    {
+      "phrase": "keep track of",
+      "usage": "追踪/掌握...的动态，保持对某事的了解",
+      "examples": [
+        {
+          "en": "The pilot was ordered to keep track of the strange object.",
+          "zh": "飞行员被命令追踪那个奇怪的物体。"
+        }
+      ]
+    },
+    {
+      "phrase": "make out",
+      "usage": "辨认出/看清楚/理解，常用于表示看清或辨认某物",
+      "examples": [
+        {
+          "en": "He could make out three men in a basket.",
+          "zh": "他辨认出篮子里有三个人。"
+        }
+      ]
+    },
+    {
+      "phrase": "call in",
+      "usage": "召来/召集/叫来，指请求某人或某物前来帮助",
+      "examples": [
+        {
+          "en": "The police were called in.",
+          "zh": "警察被召来了。"
+        }
+      ]
+    },
+    {
+      "phrase": "soon afterwards",
+      "usage": "不久之后，表示紧接着发生的动作",
+      "examples": [
+        {
+          "en": "Soon afterwards, the balloon began to descend.",
+          "zh": "不久之后，气球开始下降。"
+        }
+      ]
+    },
+    {
+      "phrase": "a great danger to",
+      "usage": "对...很大的危险，danger后接介词to引出危险对象",
+      "examples": [
+        {
+          "en": "Balloons can be a great danger to aircraft.",
+          "zh": "气球可能对飞机造成很大危险。"
+        }
+      ]
+    },
+    {
+      "phrase": "circle around",
+      "usage": "盘旋/环绕飞行，指绕着某物做圆周运动",
+      "examples": [
+        {
+          "en": "The pilot managed to circle the balloon for some time.",
+          "zh": "飞行员设法绕着气球盘旋了一会儿。"
+        }
+      ]
+    },
+    {
+      "phrase": "take photographs",
+      "usage": "拍照/摄影，指用相机拍摄照片的动作",
+      "examples": [
+        {
+          "en": "One of the men was taking photographs.",
+          "zh": "其中一个人正在拍照。"
+        }
+      ]
+    },
+    {
+      "phrase": "at once",
+      "usage": "立即/马上，表示即刻发生的动作",
+      "examples": [
+        {
+          "en": "He informed the station at once.",
+          "zh": "他立刻通知了基地。"
+        }
+      ]
+    },
+    {
+      "phrase": "be angry with",
+      "usage": "对...生气，angry后接介词with再加对象",
+      "examples": [
+        {
+          "en": "The officer was very angry when he heard the news.",
+          "zh": "军官听到这个消息后非常生气。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去进行时 (Past Continuous Tense)",
+      "definition": "表示在过去某一时刻或某一段时间正在进行的动作",
+      "structure": "主语 + was/were + 动词-ing",
+      "usage": "用于描述正在进行的动作，或与一般过去时连用表示一个动作发生时另一个动作正在进行。通常与when、while、as等连用。",
+      "examples": [
+        {
+          "en": "The balloon seemed to be making for the RAF station.",
+          "zh": "气球似乎正朝皇家空军基地飘去。"
+        },
+        {
+          "en": "One of the men was taking photographs.",
+          "zh": "其中一个人正在拍照。"
+        },
+        {
+          "en": "While the pilot was circling the balloon, he saw three men.",
+          "zh": "当飞行员绕着气球盘旋时，他看到了三个人。"
+        }
+      ]
+    },
+    {
+      "title": "过去完成时 (Past Perfect Tense)",
+      "definition": "表示在过去某一时间之前已经完成的动作，即'过去的过去'",
+      "structure": "主语 + had + 过去分词",
+      "usage": "用于描述两个过去的动作，先发生的动作用过去完成时，后发生的动作用一般过去时。常与before、after、by、when等连用。",
+      "examples": [
+        {
+          "en": "He had never seen anything like it before.",
+          "zh": "他以前从未见过这样的东西。"
+        },
+        {
+          "en": "When the police arrived, the balloon had already landed.",
+          "zh": "警察到达时，气球已经降落了。"
+        }
+      ]
+    },
+    {
+      "title": "when引导的时间状语从句",
+      "definition": "when引导的从句表示主句动作发生的时间",
+      "structure": "主句 + when + 从句 / when + 从句 + 主句",
+      "usage": "when引导的从句中，如果动作正在进行（长动作），用过去进行时；如果动作发生（短动作），用一般过去时。主句用一般过去时。",
+      "examples": [
+        {
+          "en": "The officer was very angry when he heard the news.",
+          "zh": "军官听到消息时非常生气。"
+        },
+        {
+          "en": "When the balloon was over the station, the pilot saw one of the men taking photographs.",
+          "zh": "当气球飞临基地上空时，飞行员看到其中一人正在拍照。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "主语 + was/were + 动词-ing + when + 主语 + 动词-ed",
+      "original": {
+        "en": "The officer was very angry when he heard the news.",
+        "zh": "军官听到消息时非常生气。"
+      },
+      "imitations": [
+        {
+          "en": "The pilot was watching the balloon when it began to descend.",
+          "zh": "飞行员正在观察气球时，它开始下降了。"
+        },
+        {
+          "en": "I was having dinner when the phone rang.",
+          "zh": "我正在吃晚饭时电话响了。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + could make out + 宾语",
+      "original": {
+        "en": "He could make out three men in a basket under it.",
+        "zh": "他能辨认出气球下面篮子里有三个人。"
+      },
+      "imitations": [
+        {
+          "en": "From the plane, he could make out the coastline.",
+          "zh": "从飞机上他能辨认出海岸线。"
+        },
+        {
+          "en": "I could make out a figure in the distance.",
+          "zh": "我能辨认出远处有一个人影。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + be ordered to + 动词原形",
+      "original": {
+        "en": "The pilot was ordered to keep track of the strange object.",
+        "zh": "飞行员被命令追踪那个奇怪的物体。"
+      },
+      "imitations": [
+        {
+          "en": "The soldiers were ordered to march forward.",
+          "zh": "士兵们被命令向前行进。"
+        },
+        {
+          "en": "He was ordered to report to the commander immediately.",
+          "zh": "他被命令立即向指挥官报到。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + be + 形容词 + when + 从句",
+      "original": {
+        "en": "The officer in the control tower was very angry when he heard the news.",
+        "zh": "指挥塔里的军官听到消息时非常生气。"
+      },
+      "imitations": [
+        {
+          "en": "She was surprised when she saw the result.",
+          "zh": "她看到结果时很惊讶。"
+        },
+        {
+          "en": "The teacher was delighted when the students answered correctly.",
+          "zh": "学生正确回答时老师很高兴。"
+        }
+      ]
+    }
+  ]
+}

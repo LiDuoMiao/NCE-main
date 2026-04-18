@@ -1,0 +1,405 @@
+{
+  "book": "NCE4",
+  "lesson": "05",
+  "title": "Lesson 5",
+  "vocabulary": [
+    {
+      "word": "glorious",
+      "phonetic": "/ˈɡlɔːriəs/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "光荣的；辉煌的；极好的",
+          "usage": "用于描述值得称赞、非常美好或令人印象深刻的事物，可修饰未来、成就、风景等名词"
+        }
+      ]
+    },
+    {
+      "word": "splendid",
+      "phonetic": "/ˈsplendɪd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "极佳的；辉煌的；灿烂的",
+          "usage": "口语和书面语均常用，可表示对事物的赞赏，也可描述辉煌的经历、建筑等"
+        }
+      ]
+    },
+    {
+      "word": "rub",
+      "phonetic": "/rʌb/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "问题；困难；障碍",
+          "usage": "非正式用法，通常用单数形式，the rub 指某个情况中最难解决的问题所在"
+        },
+        {
+          "pos": "verb",
+          "meaning": "擦；摩擦",
+          "usage": "表示用某物在表面来回移动擦拭的动作"
+        }
+      ]
+    },
+    {
+      "word": "identity",
+      "phonetic": "/aɪˈdentəti/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "身份；个性；认同感",
+          "usage": "指一个人区别于他人的固有特征，也可表示对自身所属群体的归属感"
+        }
+      ]
+    },
+    {
+      "word": "dreary",
+      "phonetic": "/ˈdrɪəri/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "沉闷的；枯燥乏味的；令人沮丧的",
+          "usage": "用于描述事物或氛围无聊、缺乏趣味，使人感到消沉"
+        }
+      ]
+    },
+    {
+      "word": "commitment",
+      "phonetic": "/kəˈmɪtmənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "承诺；投入；献身",
+          "usage": "后常接介词to，表示对某事物的投入、承诺或责任"
+        }
+      ]
+    },
+    {
+      "word": "presumptuous",
+      "phonetic": "/prɪˈzʌmptʃuəs/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "专横的；冒昧的；放肆的",
+          "usage": "用于描述人在没有得到许可的情况下做超出自己权限的事，带有贬义"
+        }
+      ]
+    },
+    {
+      "word": "fatuous",
+      "phonetic": "/ˈfætʃuəs/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "愚蠢的；愚昧的；荒谬的",
+          "usage": "用于形容人或行为缺乏理智、十分荒唐"
+        }
+      ]
+    },
+    {
+      "word": "cliche",
+      "phonetic": "/ˈkliːʃeɪ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "陈词滥调；老套的说法",
+          "usage": "指被过度使用以至于失去原有新意的表达或观点，带有贬义"
+        }
+      ]
+    },
+    {
+      "word": "cosmic",
+      "phonetic": "/ˈkɒzmɪk/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "宇宙的；广大无边的",
+          "usage": "可描述和宇宙相关的事物，也可引申表示极其宏大、不受世俗局限的"
+        }
+      ]
+    },
+    {
+      "word": "suburban",
+      "phonetic": "/səˈbɜːbən/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "郊区的；土气的；呆板的",
+          "usage": "除了表示地理位置在郊区，也可引申形容人思想偏狭、平淡无趣，带有贬义色彩"
+        }
+      ]
+    },
+    {
+      "word": "conceited",
+      "phonetic": "/kənˈsiːtɪd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "自负的；骄傲自大的",
+          "usage": "用于描述人过于高估自己，看不起他人，含贬义"
+        }
+      ]
+    },
+    {
+      "word": "fundamental",
+      "phonetic": "/ˌfʌndəˈmentl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "基本原理；基础",
+          "usage": "常用复数形式fundamentals，指某一领域最核心、最基础的规则或事实"
+        },
+        {
+          "pos": "adjective",
+          "meaning": "基础的；根本的",
+          "usage": "用于形容事物是核心的、至关重要的"
+        }
+      ]
+    },
+    {
+      "word": "devotion",
+      "phonetic": "/dɪˈvəʊʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "深爱；奉献；热衷",
+          "usage": "后常接介词to，表示对某人、某事物的热爱或投入"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "take leave to do sth",
+      "usage": "正式用语，用于礼貌地表示自己要做可能稍显冒昧的事，可译为“冒昧做某事，擅自做某事”",
+      "examples": [
+        {
+          "en": "If there is one -- which I take leave to doubt -- then it is older people who create it, not the young themselves.",
+          "zh": "如果确有这样一个问题的话——恕我对此表示怀疑——那也是老年人而非年轻人自己造成的。"
+        },
+        {
+          "en": "I take leave to disagree with your view on this project.",
+          "zh": "请恕我冒昧，我不赞同你对这个项目的看法。"
+        }
+      ]
+    },
+    {
+      "phrase": "get down to fundamentals",
+      "usage": "表示开始探讨最核心、最根本的问题，get down to 意为“开始认真处理，着手做”",
+      "examples": [
+        {
+          "en": "Let us get down to fundamentals and agree that the young are after all human beings -- people just like their elders.",
+          "zh": "让我们来认真探讨一下根本问题，先承认年轻人毕竟也是人——和他们的长辈一样的人。"
+        },
+        {
+          "en": "Instead of arguing about trivial details, we should get down to fundamentals of the plan.",
+          "zh": "我们与其争论无关紧要的细节，不如好好探讨这个计划的根本问题。"
+        }
+      ]
+    },
+    {
+      "phrase": "after all",
+      "usage": "常用于提醒对方某个容易被忽略的重要事实或理由，可译为“毕竟，终究”",
+      "examples": [
+        {
+          "en": "Let us get down to fundamentals and agree that the young are after all human beings -- people just like their elders.",
+          "zh": "让我们来认真探讨一下根本问题，先承认年轻人毕竟也是人——和他们的长辈一样的人。"
+        },
+        {
+          "en": "You shouldn't scold him too much; after all, he is only a child.",
+          "zh": "你别太责怪他了，毕竟他还只是个孩子。"
+        }
+      ]
+    },
+    {
+      "phrase": "be engaged in (doing) sth",
+      "usage": "表示忙于做某事、参与某事，是正式表达",
+      "examples": [
+        {
+          "en": "For one thing, being a problem gives you a certain identity, and that is one of the things the young are busily engaged in seeking.",
+          "zh": "首先，成为问题能给你一种特定的身份，而这正是年轻人忙着追求的东西之一。"
+        },
+        {
+          "en": "The researchers are engaged in studying the effect of climate change on local ecosystems.",
+          "zh": "研究人员正忙于研究气候变化对当地生态系统的影响。"
+        }
+      ]
+    },
+    {
+      "phrase": "an air of",
+      "usage": "用于描述人或事物带有某种气质、氛围，air在此处意为“神态，气质，氛围”",
+      "examples": [
+        {
+          "en": "They have an air of freedom, and they have not a dreary commitment to mean ambitions or love of comfort.",
+          "zh": "他们有一种自由的气质，不会乏味地投身于卑俗的野心或对安逸的追求中。"
+        },
+        {
+          "en": "There is an air of mystery around the old castle at the top of the hill.",
+          "zh": "山顶上的那座古堡周围有一种神秘的氛围。"
+        }
+      ]
+    },
+    {
+      "phrase": "social climber",
+      "usage": "指试图通过结交上流社会人士来提高自身社会地位的人，含贬义，可译为“趋炎附势的人，想方设法跻身上流社会的人”",
+      "examples": [
+        {
+          "en": "They are not anxious social climbers, and they have no devotion to material things.",
+          "zh": "他们不是急着往上爬的趋炎附势之徒，也不执着于物质事物。"
+        },
+        {
+          "en": "Everyone could tell that she was a social climber who only made friends with rich people.",
+          "zh": "所有人都能看出来她是个趋炎附势的人，只和有钱人交朋友。"
+        }
+      ]
+    },
+    {
+      "phrase": "in contrast with",
+      "usage": "表示“与……形成对比，和……相比”，用于突出两者之间的差异",
+      "examples": [
+        {
+          "en": "It's as if they were in some sense cosmic beings in violent and lovely contrast with us suburban creatures.",
+          "zh": "从某种意义上说，他们仿佛是宇宙的子民，与我们这些世俗庸人形成了强烈而美好的对比。"
+        },
+        {
+          "en": "In contrast with last year's cold winter, this winter is unusually warm.",
+          "zh": "和去年寒冷的冬天相比，今年的冬天异常暖和。"
+        }
+      ]
+    },
+    {
+      "phrase": "turn to sb/sth for sth",
+      "usage": "表示“向……求助以获得某物”，是常用的固定搭配",
+      "examples": [
+        {
+          "en": "He may be conceited, ill-mannered, presumptuous or fatuous, but I do not turn for protection to dreary cliches about respect for elders -- as if mere age were a reason for respect.",
+          "zh": "他可能自负、无礼、放肆、愚蠢，但我不会用“要尊重长辈”这种陈腐的套话来为自己撑腰——好像仅凭年龄就值得尊重似的。"
+        },
+        {
+          "en": "When you meet difficulties in study, you can turn to your teacher for help.",
+          "zh": "你在学习上遇到困难时，可以向老师求助。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "强调句 (Emphatic Sentence)",
+      "definition": "用于突出句子中的某个成分（如主语、宾语、状语等），表达强烈语气的句式，常译为“正是……，就是……”",
+      "structure": "It is/was + 被强调部分 + that/who + 句子其余部分",
+      "usage": "被强调部分指人时可用who/that，指其他事物时只能用that；即使被强调部分是复数，be动词依然用is/was",
+      "examples": [
+        {
+          "en": "If there is one -- which I take leave to doubt -- then it is older people who create it, not the young themselves.",
+          "zh": "如果确有这样一个问题的话——恕我对此表示怀疑——那也是老年人而非年轻人自己造成的。"
+        },
+        {
+          "en": "It is your hard work rather than luck that leads to your success.",
+          "zh": "正是你的努力而非运气造就了你的成功。"
+        }
+      ]
+    },
+    {
+      "title": "as if 引导的虚拟语气",
+      "definition": "as if意为“好像，仿佛”，当引导的从句表示的内容与事实不符或者是假想的情况时，需要使用虚拟语气",
+      "structure": "主句 + as if + 从句（从句用相应的过去时态表示虚拟）",
+      "usage": "表示与现在事实相反时，从句动词用一般过去时（be动词常用were，所有人称通用）；表示与过去事实相反时用过去完成时",
+      "examples": [
+        {
+          "en": "It's as if they were in some sense cosmic beings in violent and lovely contrast with us suburban creatures.",
+          "zh": "从某种意义上说，他们仿佛是宇宙的子民，与我们这些世俗庸人形成了强烈而美好的对比。"
+        },
+        {
+          "en": "He talks as if he knew everything about this field, but actually he is a newcomer.",
+          "zh": "他说起话来好像对这个领域无所不知，但实际上他只是个新人。"
+        }
+      ]
+    },
+    {
+      "title": "as 引导的方式状语从句",
+      "definition": "as可引导方式状语从句，表示“按照，如同，就像”，说明动作的方式或两者的相似性",
+      "structure": "主句 + as + 从句",
+      "usage": "用于比较两个动作或情况的相似之处，从句通常是完整的句子，口语中可省略部分成分",
+      "examples": [
+        {
+          "en": "I accept that we are equals, and I will argue with him, as an equal, if I think he is wrong.",
+          "zh": "我认为我们是平等的，如果我觉得他错了，我会以平等的身份和他争论。"
+        },
+        {
+          "en": "When in Rome, do as the Romans do.",
+          "zh": "入乡随俗。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "People are always talking about + 名词/名词短语.",
+      "original": {
+        "en": "People are always talking about 'the problem of youth'.",
+        "zh": "人们总是在谈论“青年问题”。"
+      },
+      "imitations": [
+        {
+          "en": "People are always talking about the impact of social media on teenagers.",
+          "zh": "人们总是在谈论社交媒体对青少年的影响。"
+        },
+        {
+          "en": "People are always talking about the best way to keep healthy in modern society.",
+          "zh": "人们总是在谈论现代社会保持健康的最佳方式。"
+        }
+      ]
+    },
+    {
+      "pattern": "There is only one difference between A and B: A... and B...",
+      "original": {
+        "en": "There is only one difference between an old man and a young one: the young man has a glorious future before him and the old one has a splendid future behind him.",
+        "zh": "老人和年轻人之间只有一个区别：年轻人的前面有辉煌的未来，而老人的辉煌未来已经在身后了。"
+      },
+      "imitations": [
+        {
+          "en": "There is only one difference between optimistic people and pessimistic people: optimistic people always look for opportunities in difficulties, and pessimistic people always see difficulties in opportunities.",
+          "zh": "乐观的人和悲观的人之间只有一个区别：乐观的人总能在困难中寻找机会，而悲观的人总能在机会中看到困难。"
+        },
+        {
+          "en": "There is only one difference between regular exercise and occasional exercise: regular exercise brings long-term health benefits, and occasional exercise only provides short-term comfort.",
+          "zh": "规律运动和偶尔运动只有一个区别：规律运动能带来长期的健康益处，而偶尔运动只能提供短期的安慰。"
+        }
+      ]
+    },
+    {
+      "pattern": "I find + 名词 + 形容词.",
+      "original": {
+        "en": "I find young people exciting.",
+        "zh": "我觉得年轻人很有活力。"
+      },
+      "imitations": [
+        {
+          "en": "I find reading books about history very interesting.",
+          "zh": "我觉得读历史相关的书非常有意思。"
+        },
+        {
+          "en": "I find the process of learning a new language challenging but rewarding.",
+          "zh": "我觉得学习一门新语言的过程虽然有挑战，但很有收获。"
+        }
+      ]
+    },
+    {
+      "pattern": "Sb may be..., but I do not... -- as if...",
+      "original": {
+        "en": "He may be conceited, ill-mannered, presumptuous or fatuous, but I do not turn for protection to dreary cliches about respect for elders -- as if mere age were a reason for respect.",
+        "zh": "他可能自负、无礼、放肆、愚蠢，但我不会用“要尊重长辈”这种陈腐的套话来为自己撑腰——好像仅凭年龄就值得尊重似的。"
+      },
+      "imitations": [
+        {
+          "en": "He may be inexperienced and make mistakes sometimes, but I do not deny his value to the team -- as if seniority alone means everything.",
+          "zh": "他可能经验不足，偶尔会犯错，但我不会因此否定他对团队的价值——好像资历本身就代表一切似的。"
+        },
+        {
+          "en": "This method may have some small flaws, but I do not reject it completely -- as if there was a perfect solution in the world.",
+          "zh": "这个方法可能有一些小缺陷，但我不会完全否定它——好像世界上存在完美的解决方案似的。"
+        }
+      ]
+    }
+  ]
+}

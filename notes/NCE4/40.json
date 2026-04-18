@@ -1,0 +1,346 @@
+{
+  "book": "NCE4",
+  "lesson": "40",
+  "title": "Lesson 40",
+  "vocabulary": [
+    {
+      "word": "signature",
+      "phonetic": "/ˈsɪɡnətʃə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "标志；特征；签名",
+          "usage": "可指人或事物独有的、可识别的特征，也可指手写签名"
+        }
+      ]
+    },
+    {
+      "word": "infinity",
+      "phonetic": "/ɪnˈfɪnəti/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "无限；无穷",
+          "usage": "表示没有边界、尽头的状态，常用来描述时间、空间等抽象概念"
+        }
+      ]
+    },
+    {
+      "word": "energize",
+      "phonetic": "/ˈenədʒaɪz/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "使充满活力；给…提供能量",
+          "usage": "主语可以是自然能量，也可以是能给人带来动力的事物，宾语多为人或抽象事物"
+        }
+      ]
+    },
+    {
+      "word": "rhythm",
+      "phonetic": "/ˈrɪðəm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "节奏；律动",
+          "usage": "可指音乐的节奏，也可指自然事物、生活等有规律的运动模式"
+        }
+      ]
+    },
+    {
+      "word": "exquisite",
+      "phonetic": "/ɪkˈskwɪzɪt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "精美的；细腻的；强烈的",
+          "usage": "多用来修饰事物的精致度，也可形容感受的强烈程度"
+        }
+      ]
+    },
+    {
+      "word": "phenomenon",
+      "phonetic": "/fəˈnɒmɪnən/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "现象",
+          "usage": "指可观察到的自然或社会现象，复数形式为phenomena"
+        }
+      ]
+    },
+    {
+      "word": "crest",
+      "phonetic": "/krest/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "浪尖；顶峰；羽冠",
+          "usage": "可指波浪的最高点，也可引申为事物发展的巅峰阶段"
+        }
+      ]
+    },
+    {
+      "word": "trough",
+      "phonetic": "/trɒf/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "波谷；低谷；饲料槽",
+          "usage": "是crest的反义词，可指波浪的最低点，也可引申为经济、情绪等的低迷阶段"
+        }
+      ]
+    },
+    {
+      "word": "vertical",
+      "phonetic": "/ˈvɜːtɪkl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "垂直的；竖直的",
+          "usage": "描述与水平面垂直的方向，反义词是horizontal（水平的）"
+        }
+      ]
+    },
+    {
+      "word": "horizontal",
+      "phonetic": "/ˌhɒrɪˈzɒntl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "水平的；横的",
+          "usage": "描述与水平面平行的方向，反义词是vertical（垂直的）"
+        }
+      ]
+    },
+    {
+      "word": "catastrophic",
+      "phonetic": "/ˌkætəˈstrɒfɪk/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "灾难性的；毁灭性的",
+          "usage": "用来修饰后果、事件等，强调破坏程度非常严重"
+        }
+      ]
+    },
+    {
+      "word": "particle",
+      "phonetic": "/ˈpɑːtɪkl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "颗粒；微粒",
+          "usage": "多指物理中的微小粒子，也可指物质的细小碎块"
+        }
+      ]
+    },
+    {
+      "word": "orbit",
+      "phonetic": "/ˈɔːbɪt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "轨道；势力范围",
+          "usage": "可指天体运行的轨道，也可引申为人或事物的活动范围"
+        },
+        {
+          "pos": "verb",
+          "meaning": "绕…运行",
+          "usage": "主语为天体、卫星等，宾语为绕行的中心天体"
+        }
+      ]
+    },
+    {
+      "word": "tremor",
+      "phonetic": "/ˈtremə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "轻微地震；颤动；颤抖",
+          "usage": "可指地壳的微小震动，也可指人因情绪、疾病产生的身体颤抖"
+        }
+      ]
+    },
+    {
+      "word": "gravitational",
+      "phonetic": "/ˌɡrævɪˈteɪʃənl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "重力的；引力的",
+          "usage": "为物理领域形容词，多用来修饰与引力相关的名词，如pull, force等"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "be subject to",
+      "usage": "表示“受…支配；易遭受…；取决于…”，to为介词，后接名词或动名词",
+      "examples": [
+        {
+          "en": "From both maturity to death, a wave is subject to the same laws as any other 'living' thing.",
+          "zh": "从成熟到消亡，波浪和其他任何“有生命”的事物一样，都受相同的规律支配。"
+        },
+        {
+          "en": "All flights are subject to delay due to the bad weather.",
+          "zh": "受恶劣天气影响，所有航班都有可能延误。"
+        }
+      ]
+    },
+    {
+      "phrase": "give the impression of",
+      "usage": "表示“给人…的印象”，后可接名词、动名词或that从句",
+      "examples": [
+        {
+          "en": "Although an ocean wave gives the impression of a wall of water moving in your direction, in actuality waves move through the water leaving the water about where it was.",
+          "zh": "尽管海浪给人的印象是一堵水墙朝你移动，但实际上波浪穿过水体，而水本身几乎留在原位。"
+        },
+        {
+          "en": "He gives the impression of being a very hardworking person.",
+          "zh": "他给人的印象是一个非常勤奋的人。"
+        }
+      ]
+    },
+    {
+      "phrase": "in actuality",
+      "usage": "表示“实际上；事实上”，为书面用语，可替换in fact, actually",
+      "examples": [
+        {
+          "en": "The team seemed to be in control of the match, but in actuality they were under great pressure.",
+          "zh": "这支球队看起来掌控了比赛，但实际上他们承受着巨大的压力。"
+        }
+      ]
+    },
+    {
+      "phrase": "assume a ... individuality",
+      "usage": "表示“呈现出…的特质/个性”，assume在这里意为“呈现（外观、特质）”",
+      "examples": [
+        {
+          "en": "For a time it assumes a miraculous individuality that, in the end, is reabsorbed into the great ocean of life.",
+          "zh": "有那么一段时间，它呈现出一种不可思议的独特性，而最终又会被重新吸纳入生命的汪洋之中。"
+        },
+        {
+          "en": "The city assumes a romantic individuality when the neon lights are on at night.",
+          "zh": "夜晚霓虹灯亮起时，这座城市呈现出一种浪漫的独特气质。"
+        }
+      ]
+    },
+    {
+      "phrase": "restore ... to ...",
+      "usage": "表示“使…恢复到…状态”，restore为及物动词，后接要恢复的对象，to后接目标状态",
+      "examples": [
+        {
+          "en": "Gravity is the force that drives them in a continual attempt to restore the ocean surface to a flat plain.",
+          "zh": "重力是驱动它们不断尝试将海面恢复为平坦平面的力量。"
+        },
+        {
+          "en": "The volunteers helped to restore the old building to its original appearance.",
+          "zh": "志愿者们帮忙将这栋老建筑恢复到了它最初的样貌。"
+        }
+      ]
+    },
+    {
+      "phrase": "transmit ... on through",
+      "usage": "表示“通过…传递下去”，transmit意为“传输、传递”，on强调传递的延续性",
+      "examples": [
+        {
+          "en": "The sea transmits it on through waves--an ancient, exquisite powerful message.",
+          "zh": "海洋通过波浪将这个信息传递下去——这是一个古老、优美而充满力量的信息。"
+        },
+        {
+          "en": "The culture is transmitted on through generations of folk artists.",
+          "zh": "这种文化通过一代又一代的民间艺人传承了下来。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "虚拟语气（与现在事实相反的情况）",
+      "definition": "用来描述与当前实际情况不相符的假设，表达假想、愿望等含义",
+      "structure": "If + 主语 + 动词过去式（be动词用were）, 主语 + would/could/might + 动词原形",
+      "usage": "当假设的条件不可能在现在发生，或者与现在的事实相反时，使用该结构",
+      "examples": [
+        {
+          "en": "If the water was moving with the wave, the ocean and everything on it would be racing in to the shore with obviously catastrophic results.",
+          "zh": "如果水和浪一起移动的话，那么大海和海里所有的东西都会向岸边疾冲过来，显然会带来灾难性的后果。"
+        },
+        {
+          "en": "If I were you, I would choose to study abroad after graduation.",
+          "zh": "如果我是你，我会选择毕业后出国留学。"
+        }
+      ]
+    },
+    {
+      "title": "现在分词作伴随状语",
+      "definition": "现在分词在句中表示与主句动作同时发生的伴随性动作，其逻辑主语与主句主语一致",
+      "structure": "主句 + , 现在分词短语",
+      "usage": "用来补充说明主句动作发生时的伴随情况，使句子更加简洁紧凑",
+      "examples": [
+        {
+          "en": "Rays from the sun excite and energize the atmosphere of the earth, awakening it to flow, to movement, to rhythm, to life.",
+          "zh": "太阳的光线激发并赋予地球大气能量，唤醒它流动、运动、产生律动、获得生命。"
+        },
+        {
+          "en": "The little girl sat under the tree, reading a picture book carefully.",
+          "zh": "小女孩坐在树下，认真地读着一本绘本。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "A are the children of the struggle between B and C, the ongoing signatures of D.",
+      "original": {
+        "en": "Waves are the children of the struggle between ocean and atmosphere, the ongoing signatures of infinity.",
+        "zh": "海浪是海洋和大气相互作用的产物，是永恒无限的持续标志。"
+      },
+      "imitations": [
+        {
+          "en": "Dunes are the children of the struggle between desert and wind, the ongoing signatures of time.",
+          "zh": "沙丘是沙漠和风相互作用的产物，是时间流逝的持续标志。"
+        },
+        {
+          "en": "Fossils are the children of the struggle between organisms and geology, the ongoing signatures of evolution.",
+          "zh": "化石是生物和地质作用相互影响的产物，是生物进化的持续标志。"
+        }
+      ]
+    },
+    {
+      "pattern": "Although A gives the impression of B, in actuality C.",
+      "original": {
+        "en": "Although an ocean wave gives the impression of a wall of water moving in your direction, in actuality waves move through the water leaving the water about where it was.",
+        "zh": "尽管海浪给人的印象是一堵水墙朝你移动，但实际上波浪穿过水体，而水本身几乎留在原位。"
+      },
+      "imitations": [
+        {
+          "en": "Although the cartoon gives the impression of being only for children, in actuality it contains many deep thoughts for adults.",
+          "zh": "尽管这部动画片给人的印象是只适合儿童观看，但实际上它包含了很多适合成年人思考的深刻内容。"
+        },
+        {
+          "en": "Although this method gives the impression of being inefficient, in actuality it can save a lot of time in the long run.",
+          "zh": "尽管这个方法给人的印象效率很低，但实际上从长远来看它能节省很多时间。"
+        }
+      ]
+    },
+    {
+      "pattern": "A are generated by three natural causes: B, C, and D.",
+      "original": {
+        "en": "The undulating waves of the open sea are generated by three natural causes: wind, earth movements or tremors, and the gravitational pull of the moon and the sun.",
+        "zh": "公海上起伏的波浪是由三个自然因素产生的：风、地壳运动或地震，以及月球和太阳的引力。"
+      },
+      "imitations": [
+        {
+          "en": "The rich soil of the plain is generated by three natural causes: alluvial deposits of rivers, weathering of rocks, and decomposition of plants and animals.",
+          "zh": "平原肥沃的土壤是由三个自然因素形成的：河流的冲积、岩石的风化，以及动植物的腐解。"
+        },
+        {
+          "en": "The amazing aurora near the poles is generated by three natural causes: solar wind, earth's magnetic field, and gas particles in the atmosphere.",
+          "zh": "极地附近的绚丽极光由三个自然因素产生：太阳风、地球磁场，以及大气中的气体粒子。"
+        }
+      ]
+    }
+  ]
+}

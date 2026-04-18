@@ -1,0 +1,394 @@
+{
+  "book": "NCE2",
+  "lesson": "65",
+  "title": "Why did the police have to push Jumbo off the main street?",
+  "vocabulary": [
+    {
+      "word": "circus",
+      "phonetic": "/ˈsɜːkəs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "马戏团",
+          "usage": "指进行马戏表演的团体或场所"
+        }
+      ]
+    },
+    {
+      "word": "present",
+      "phonetic": "/ˈprezənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "礼物",
+          "usage": "名词，表示赠送给他人的东西"
+        }
+      ]
+    },
+    {
+      "word": "hospital",
+      "phonetic": "/ˈhɒspɪtl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "医院",
+          "usage": "医疗机构，用于治疗和护理病人"
+        }
+      ]
+    },
+    {
+      "word": "accompany",
+      "phonetic": "/əˈkʌmpəni/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "陪伴，陪同",
+          "usage": "表示与某人一起做某事"
+        }
+      ]
+    },
+    {
+      "word": "approach",
+      "phonetic": "/əˈprəʊtʃ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "接近，靠近",
+          "usage": "表示向某人或某物走去"
+        }
+      ]
+    },
+    {
+      "word": "refuse",
+      "phonetic": "/rɪˈfjuːz/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "拒绝，不肯",
+          "usage": "表示不愿意做某事或接受某事"
+        }
+      ]
+    },
+    {
+      "word": "traffic",
+      "phonetic": "/ˈtræfɪk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "交通",
+          "usage": "指道路上的车辆和行人流动"
+        }
+      ]
+    },
+    {
+      "word": "fortunate",
+      "phonetic": "/ˈfɔːtʃənət/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "幸运的",
+          "usage": "表示有好运气或有利的情况"
+        }
+      ]
+    },
+    {
+      "word": "arrest",
+      "phonetic": "/əˈrest/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "逮捕，拘留",
+          "usage": "法律术语，指依法拘捕嫌疑人"
+        }
+      ]
+    },
+    {
+      "word": "weigh",
+      "phonetic": "/weɪ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "重量为...，称重量",
+          "usage": "表示某物的重量或测量重量"
+        }
+      ]
+    },
+    {
+      "word": "ought to",
+      "phonetic": "/ɔːt tuː/",
+      "meanings": [
+        {
+          "pos": "modal verb",
+          "meaning": "应该，应当",
+          "usage": "表示责任或义务，也可表示建议"
+        }
+      ]
+    },
+    {
+      "word": "push",
+      "phonetic": "/pʊʃ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "推，推动",
+          "usage": "表示用力量使物体移动"
+        }
+      ]
+    },
+    {
+      "word": "guard",
+      "phonetic": "/ɡɑːd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "卫兵，警卫",
+          "usage": "表示保护或看守的人员"
+        }
+      ]
+    },
+    {
+      "word": "record",
+      "phonetic": "/ˈrekɔːd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "记录，档案",
+          "usage": "表示过去的经历或表现的记载"
+        }
+      ]
+    },
+    {
+      "word": "permit",
+      "phonetic": "/pəˈmɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "允许，许可",
+          "usage": "表示给予许可或允许做某事"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "dress up as",
+      "usage": "打扮成，装扮成",
+      "examples": [
+        {
+          "en": "The children dressed up as pirates for Halloween.",
+          "zh": "孩子们在万圣节装扮成海盗。"
+        }
+      ]
+    },
+    {
+      "phrase": "set off",
+      "usage": "出发，启程",
+      "examples": [
+        {
+          "en": "They set off for the mountains early in the morning.",
+          "zh": "他们一大早就出发去山区了。"
+        }
+      ]
+    },
+    {
+      "phrase": "hold up",
+      "usage": "阻挡，阻塞，耽搁",
+      "examples": [
+        {
+          "en": "The accident held up traffic for two hours.",
+          "zh": "事故使交通堵塞了两个小时。"
+        }
+      ]
+    },
+    {
+      "phrase": "ought to have done",
+      "usage": "过去应该做但实际未做（虚拟语气）",
+      "examples": [
+        {
+          "en": "You ought to have told me the truth.",
+          "zh": "你早该告诉我真相的。"
+        }
+      ]
+    },
+    {
+      "phrase": "let someone off",
+      "usage": "放过某人，不追究某人的责任",
+      "examples": [
+        {
+          "en": "The police let him off with a warning.",
+          "zh": "警察只是警告了一下就放过了他。"
+        }
+      ]
+    },
+    {
+      "phrase": "have a good record",
+      "usage": "有良好的记录/表现",
+      "examples": [
+        {
+          "en": "He has a good record at school.",
+          "zh": "他在学校表现良好。"
+        }
+      ]
+    },
+    {
+      "phrase": "a few tons",
+      "usage": "几吨",
+      "examples": [
+        {
+          "en": "This elephant weighs a few tons.",
+          "zh": "这头大象有几吨重。"
+        }
+      ]
+    },
+    {
+      "phrase": "at once",
+      "usage": "立刻，马上",
+      "examples": [
+        {
+          "en": "Come here at once!",
+          "zh": "立刻到这里来！"
+        }
+      ]
+    },
+    {
+      "phrase": "go along",
+      "usage": "沿着...走",
+      "examples": [
+        {
+          "en": "Go along this road and turn left at the second corner.",
+          "zh": "沿着这条路走，在第二个拐角左转。"
+        }
+      ]
+    },
+    {
+      "phrase": "must + 动词原形",
+      "usage": "表示推测（肯定句中）",
+      "examples": [
+        {
+          "en": "He must be very tired after working all day.",
+          "zh": "他工作了一整天肯定很累了。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "情态动词 ought to 的用法",
+      "definition": "ought to 表示责任、义务或建议，其过去式 ought to have done 表示过去应该做而实际未做，带有责备或遗憾的意味",
+      "structure": "ought to + 动词原形 / ought to have + 过去分词",
+      "usage": "用于表达应该做的事情，以及对过去未完成事情的遗憾",
+      "examples": [
+        {
+          "en": "You ought to be more careful.",
+          "zh": "你应该更小心一些。"
+        },
+        {
+          "en": "He ought to have known that the police would never allow this.",
+          "zh": "他早该知道警察是绝不会允许这种事的。"
+        }
+      ]
+    },
+    {
+      "title": "must 表示推测",
+      "definition": "must 用于肯定句中表示对现在情况的推测，意为'一定、肯定'",
+      "structure": "must + 动词原形",
+      "usage": "用于对所见所闻进行有把握的推断",
+      "examples": [
+        {
+          "en": "Jumbo must weigh a few tons.",
+          "zh": "Jumbo 肯定有好几吨重。"
+        },
+        {
+          "en": "She must be at home now.",
+          "zh": "她现在肯定在家。"
+        }
+      ]
+    },
+    {
+      "title": "let someone off",
+      "definition": "让某人免受惩罚，放过某人",
+      "structure": "let + 人 + off",
+      "usage": "常用于警察或 authorities 对违法者网开一面的情况",
+      "examples": [
+        {
+          "en": "As he has a good record, we shall let him off this time.",
+          "zh": "因为他有良好的记录，我们这次就放过他。"
+        },
+        {
+          "en": "The teacher let the student off with a warning.",
+          "zh": "老师警告了一下就放过了那个学生。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "ought to have + 过去分词",
+      "original": {
+        "en": "He should have known that the police would never allow this sort of thing.",
+        "zh": "他早该知道警察是绝不会允许这种事的。"
+      },
+      "imitations": [
+        {
+          "en": "You ought to have arrived earlier.",
+          "zh": "你早该早点到的。"
+        },
+        {
+          "en": "She ought to have finished her homework.",
+          "zh": "她早该完成作业的。"
+        }
+      ]
+    },
+    {
+      "pattern": "must + 动词原形（表示推测）",
+      "original": {
+        "en": "Jumbo must weigh a few tons.",
+        "zh": "Jumbo 肯定有好几吨重。"
+      },
+      "imitations": [
+        {
+          "en": "He must be very hungry.",
+          "zh": "他肯定很饿。"
+        },
+        {
+          "en": "This must cost a lot of money.",
+          "zh": "这肯定花了很多钱。"
+        }
+      ]
+    },
+    {
+      "pattern": "let someone off",
+      "original": {
+        "en": "We shall let him off this time.",
+        "zh": "我们这次就放过他。"
+      },
+      "imitations": [
+        {
+          "en": "The judge let her off with a fine.",
+          "zh": "法官只罚了点款就放过了她。"
+        },
+        {
+          "en": "They let us off the hook.",
+          "zh": "他们放过了我们。"
+        }
+      ]
+    },
+    {
+      "pattern": "...be doing...when...",
+      "original": {
+        "en": "He was riding a baby elephant called Jumbo when a policeman approached.",
+        "zh": "正当他骑着一头叫Jumbo的小象时，一个警察走了过来。"
+      },
+      "imitations": [
+        {
+          "en": "She was reading a book when the phone rang.",
+          "zh": "她正在看书时电话响了。"
+        },
+        {
+          "en": "I was walking home when it started to rain.",
+          "zh": "我正走回家时开始下雨了。"
+        }
+      ]
+    }
+  ]
+}

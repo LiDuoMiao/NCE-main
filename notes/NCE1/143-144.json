@@ -1,0 +1,393 @@
+{
+  "book": "NCE1",
+  "lesson": "143-144",
+  "title": "Lesson 143",
+  "vocabulary": [
+    {
+      "word": "surround",
+      "phonetic": "/səˈraʊnd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "环绕；包围",
+          "usage": "指某物被周围的东西包围或环绕"
+        }
+      ]
+    },
+    {
+      "word": "beauty spot",
+      "phonetic": "/ˈbjuːti spɒt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "风景点；名胜",
+          "usage": "指风景优美的旅游地点"
+        }
+      ]
+    },
+    {
+      "word": "litter",
+      "phonetic": "/ˈlɪtə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "垃圾；废弃物",
+          "usage": "指散落在公共场所的垃圾"
+        },
+        {
+          "pos": "verb",
+          "meaning": "乱扔垃圾",
+          "usage": "指在不该扔的地方扔垃圾"
+        }
+      ]
+    },
+    {
+      "word": "rubbish",
+      "phonetic": "/ˈrʌbɪʃ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "垃圾；废物",
+          "usage": "英式英语中常用，指废弃物"
+        }
+      ]
+    },
+    {
+      "word": "prosecute",
+      "phonetic": "/ˈprɒsɪkjuːt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "起诉；控告",
+          "usage": "法律用语，指对违法行为提起诉讼"
+        }
+      ]
+    },
+    {
+      "word": "refrigerator",
+      "phonetic": "/rɪˈfrɪdʒəreɪtə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "冰箱；冷藏室",
+          "usage": "家用电器，用于保存食物"
+        }
+      ]
+    },
+    {
+      "word": "rusty",
+      "phonetic": "/ˈrʌsti/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "生锈的",
+          "usage": "形容金属因氧化而变色的状态"
+        }
+      ]
+    },
+    {
+      "word": "tin",
+      "phonetic": "/tɪn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "罐头；铁罐",
+          "usage": "指金属容器，也指锡这种金属"
+        }
+      ]
+    },
+    {
+      "word": "among",
+      "phonetic": "/əˈmʌŋ/",
+      "meanings": [
+        {
+          "pos": "preposition",
+          "meaning": "在...之中（三者以上）",
+          "usage": "表示在多个事物之间"
+        }
+      ]
+    },
+    {
+      "word": "tidy",
+      "phonetic": "/ˈtaɪdi/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "整洁的；整齐的",
+          "usage": "形容物品或场所整齐干净"
+        },
+        {
+          "pos": "verb",
+          "meaning": "整理；收拾",
+          "usage": "使某物变得整洁有序"
+        }
+      ]
+    },
+    {
+      "word": "cover",
+      "phonetic": "/ˈkʌvə(r)/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "覆盖；遮盖",
+          "usage": "指用某物遮住另一物表面"
+        },
+        {
+          "pos": "noun",
+          "meaning": "盖子；覆盖物",
+          "usage": "指覆盖用的东西"
+        }
+      ]
+    },
+    {
+      "word": "empty",
+      "phonetic": "/ˈempti/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "空的",
+          "usage": "指容器或场所内没有东西"
+        }
+      ]
+    },
+    {
+      "word": "basket",
+      "phonetic": "/ˈbɑːskɪt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "篮子；筐",
+          "usage": "指用竹子、柳条等编成的容器"
+        }
+      ]
+    },
+    {
+      "word": "cigarette",
+      "phonetic": "/ˌsɪɡəˈret/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "香烟；纸烟",
+          "usage": "指卷裹的烟草制品"
+        }
+      ]
+    },
+    {
+      "word": "count",
+      "phonetic": "/kaʊnt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "数；计算",
+          "usage": "指数数目或清点数量"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "keep ... clean and tidy",
+      "usage": "保持...干净整洁",
+      "examples": [
+        {
+          "en": "Visitors have been asked to keep the woods clean and tidy.",
+          "zh": "游客们被要求保持树林干净整洁。"
+        }
+      ]
+    },
+    {
+      "phrase": "throw ... everywhere",
+      "usage": "把...扔得到处都是",
+      "examples": [
+        {
+          "en": "People still throw their rubbish everywhere.",
+          "zh": "人们仍然到处乱扔垃圾。"
+        }
+      ]
+    },
+    {
+      "phrase": "go for a walk",
+      "usage": "去散步",
+      "examples": [
+        {
+          "en": "Last Wednesday, I went for a walk in the woods.",
+          "zh": "上周三，我去树林里散步了。"
+        }
+      ]
+    },
+    {
+      "phrase": "be covered with",
+      "usage": "被...覆盖",
+      "examples": [
+        {
+          "en": "The ground was covered with pieces of paper.",
+          "zh": "地面上覆盖着纸屑。"
+        }
+      ]
+    },
+    {
+      "phrase": "leave litter",
+      "usage": "乱扔垃圾",
+      "examples": [
+        {
+          "en": "Anyone who leaves litter in these woods will be prosecuted.",
+          "zh": "任何在这些树林里乱扔垃圾的人将被起诉。"
+        }
+      ]
+    },
+    {
+      "phrase": "hundreds of people",
+      "usage": "数百人",
+      "examples": [
+        {
+          "en": "Hundreds of people come from the city every Sunday.",
+          "zh": "每周日都有数百人从城市来这里。"
+        }
+      ]
+    },
+    {
+      "phrase": "walk through",
+      "usage": "穿过；走过",
+      "examples": [
+        {
+          "en": "They like to walk through the woods.",
+          "zh": "他们喜欢穿过树林。"
+        }
+      ]
+    },
+    {
+      "phrase": "make sb. sad",
+      "usage": "使某人伤心",
+      "examples": [
+        {
+          "en": "What I saw made me very sad.",
+          "zh": "我所看到的一切让我非常伤心。"
+        }
+      ]
+    },
+    {
+      "phrase": "be surrounded by",
+      "usage": "被...环绕/包围",
+      "examples": [
+        {
+          "en": "My town is surrounded by beautiful woods.",
+          "zh": "我的城镇被美丽的树林环绕着。"
+        }
+      ]
+    },
+    {
+      "phrase": "place ... under",
+      "usage": "把...放在...下面",
+      "examples": [
+        {
+          "en": "Litter baskets have been placed under the trees.",
+          "zh": "垃圾桶被放在树下。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "现在完成时的被动语态 (Present Perfect Passive Voice)",
+      "definition": "表示过去发生的动作对现在造成影响，或动作持续到现在，使用have/has been + 过去分词结构，且主语是动作的承受者。",
+      "structure": "主语 + have/has + been + 过去分词",
+      "usage": "用于强调动作的接受者，或不知道/不必提及动作的执行者。本课中表达visitor被要求保持清洁，baskets被放置在树下，强调的是动作承受者的状态。",
+      "examples": [
+        {
+          "en": "Visitors have been asked to keep the woods clean and tidy.",
+          "zh": "游客们被要求保持树林干净整洁。"
+        },
+        {
+          "en": "Litter baskets have been placed under the trees.",
+          "zh": "垃圾桶被放在树下。"
+        }
+      ]
+    },
+    {
+      "title": "What引导的主语从句 (What Clause as Subject)",
+      "definition": "What引导的名词性从句可以在句中作主语，表示...的东西/事情。",
+      "structure": "What + 主语 + 谓语 + 其他成分",
+      "usage": "What在从句中作saw的宾语，整个从句作主句的主语。用于引出观察到的情况或事实。",
+      "examples": [
+        {
+          "en": "What I saw made me very sad.",
+          "zh": "我所看到的一切让我非常伤心。"
+        },
+        {
+          "en": "What he said is true.",
+          "zh": "他所说的是真的。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "It is a famous + 名词",
+      "original": {
+        "en": "It is a famous beauty spot.",
+        "zh": "这是一个著名的风景胜地。"
+      },
+      "imitations": [
+        {
+          "en": "It is a famous museum.",
+          "zh": "这是一个著名的博物馆。"
+        },
+        {
+          "en": "It is a famous historical site.",
+          "zh": "这是一个著名的历史遗迹。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + have/has been + 过去分词",
+      "original": {
+        "en": "Visitors have been asked to keep the woods clean and tidy.",
+        "zh": "游客们被要求保持树林干净整洁。"
+      },
+      "imitations": [
+        {
+          "en": "The road has been closed.",
+          "zh": "这条路已经被封闭了。"
+        },
+        {
+          "en": "The letter has been sent.",
+          "zh": "信已经被寄出了。"
+        }
+      ]
+    },
+    {
+      "pattern": "What + 主语 + 谓语 + made + 宾语 + 形容词",
+      "original": {
+        "en": "What I saw made me very sad.",
+        "zh": "我所看到的一切让我非常伤心。"
+      },
+      "imitations": [
+        {
+          "en": "What he did made her happy.",
+          "zh": "他所做的让她很开心。"
+        },
+        {
+          "en": "What happened made everyone surprised.",
+          "zh": "发生的事让每个人都惊讶。"
+        }
+      ]
+    },
+    {
+      "pattern": "Anyone who + 句子",
+      "original": {
+        "en": "Anyone who leaves litter in these woods will be prosecuted.",
+        "zh": "任何在这些树林里乱扔垃圾的人将被起诉。"
+      },
+      "imitations": [
+        {
+          "en": "Anyone who breaks the rules will be punished.",
+          "zh": "任何违反规则的人将受到惩罚。"
+        },
+        {
+          "en": "Anyone who arrives late will miss the train.",
+          "zh": "任何迟到的人都会错过火车。"
+        }
+      ]
+    }
+  ]
+}

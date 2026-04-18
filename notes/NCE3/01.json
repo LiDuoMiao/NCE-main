@@ -1,0 +1,380 @@
+{
+  "book": "NCE3",
+  "lesson": "01",
+  "title": "Lesson 1",
+  "vocabulary": [
+    {
+      "word": "puma",
+      "phonetic": "/ˈpjuːmə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "美洲狮",
+          "usage": "一种原产于美洲的大型猫科动物，可数名词"
+        }
+      ]
+    },
+    {
+      "word": "spot",
+      "phonetic": "/spɒt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "发现；认出",
+          "usage": "尤指偶然看到不易察觉的事物，常用搭配：spot sb/sth doing sth"
+        },
+        {
+          "pos": "noun",
+          "meaning": "地点；斑点",
+          "usage": "表示具体的位置或物体上的点状痕迹"
+        }
+      ]
+    },
+    {
+      "word": "accumulate",
+      "phonetic": "/əˈkjuːmjəleɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "积累；积聚",
+          "usage": "可作及物动词表示“积累某物”，也可作不及物动词表示“逐渐增多”"
+        }
+      ]
+    },
+    {
+      "word": "oblige",
+      "phonetic": "/əˈblaɪdʒ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "迫使；使感到必须做",
+          "usage": "常用被动结构：be/feel obliged to do sth 表示“觉得有义务做某事”"
+        }
+      ]
+    },
+    {
+      "word": "extraordinarily",
+      "phonetic": "/ɪkˈstrɔːdnrəli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "极其；非常地",
+          "usage": "用于修饰形容词或副词，加强程度"
+        }
+      ]
+    },
+    {
+      "word": "hunt",
+      "phonetic": "/hʌnt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "搜寻；捕猎",
+          "usage": "常用搭配：hunt for sb/sth 表示“搜寻某人/某物”"
+        },
+        {
+          "pos": "verb",
+          "meaning": "打猎；搜寻",
+          "usage": "可作及物或不及物动词"
+        }
+      ]
+    },
+    {
+      "word": "confirm",
+      "phonetic": "/kənˈfɜːm/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "证实；确认",
+          "usage": "后可接名词、that从句或wh-从句，表示确认某件事的真实性"
+        }
+      ]
+    },
+    {
+      "word": "corner",
+      "phonetic": "/ˈkɔːnə(r)/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "使走投无路；逼入绝境",
+          "usage": "常用被动语态be cornered表示“被逼入绝境”"
+        },
+        {
+          "pos": "noun",
+          "meaning": "角落；拐角",
+          "usage": "指空间的角落或道路的拐角处"
+        }
+      ]
+    },
+    {
+      "word": "trail",
+      "phonetic": "/treɪl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "痕迹；踪迹",
+          "usage": "指人或动物经过时留下的一系列痕迹，常用搭配：a trail of sth"
+        }
+      ]
+    },
+    {
+      "word": "cling",
+      "phonetic": "/klɪŋ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "紧贴；附着",
+          "usage": "不及物动词，过去式和过去分词为clung，常用搭配：cling to sth"
+        }
+      ]
+    },
+    {
+      "word": "convince",
+      "phonetic": "/kənˈvɪns/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "使确信；使信服",
+          "usage": "常用结构：convince sb of sth / convince sb that 从句，被动结构be convinced that表示“坚信…”"
+        }
+      ]
+    },
+    {
+      "word": "possession",
+      "phonetic": "/pəˈzeʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "拥有；所有物",
+          "usage": "常用搭配：in the possession of sb 表示“为某人所有”，in possession of 表示“某人拥有某物”"
+        }
+      ]
+    },
+    {
+      "word": "disturbing",
+      "phonetic": "/dɪˈstɜːbɪŋ/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "令人不安的；引起恐慌的",
+          "usage": "用于修饰事物，区别于disturbed（感到不安的，修饰人）"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "at large",
+      "usage": "表示（危险的人或动物）在逃、逍遥法外；也可表示“总的来说”",
+      "examples": [
+        {
+          "en": "The escaped prisoner is still at large.",
+          "zh": "逃犯仍然在逃。"
+        },
+        {
+          "en": "People at large are against the new policy.",
+          "zh": "总的来说人们反对这项新政策。"
+        }
+      ]
+    },
+    {
+      "phrase": "take sth seriously",
+      "usage": "认真对待某事，重视某事，否定形式为not take sth seriously",
+      "examples": [
+        {
+          "en": "You should take your parents' advice seriously.",
+          "zh": "你应该认真对待父母的建议。"
+        },
+        {
+          "en": "His threat was not taken seriously at first.",
+          "zh": "一开始没人把他的威胁当回事。"
+        }
+      ]
+    },
+    {
+      "phrase": "feel obliged to do sth",
+      "usage": "觉得有义务做某事，被迫做某事，强调主观上的责任感",
+      "examples": [
+        {
+          "en": "I felt obliged to help him when he was in trouble.",
+          "zh": "他遇到困难时我觉得有义务帮他。"
+        },
+        {
+          "en": "The company felt obliged to apologize for the mistake.",
+          "zh": "公司觉得有必要为这个错误道歉。"
+        }
+      ]
+    },
+    {
+      "phrase": "leave behind",
+      "usage": "留下；遗留，宾语可放在leave和behind之间，也可放在behind之后",
+      "examples": [
+        {
+          "en": "The thief left behind a wallet at the scene of the crime.",
+          "zh": "小偷在犯罪现场留下了一个钱包。"
+        },
+        {
+          "en": "Don't leave your belongings behind when you get off the bus.",
+          "zh": "下车时别落下你的随身物品。"
+        }
+      ]
+    },
+    {
+      "phrase": "complain of",
+      "usage": "抱怨；诉说（病痛、不适等），后接名词或动名词",
+      "examples": [
+        {
+          "en": "Many residents complain of the noise from the construction site.",
+          "zh": "很多居民抱怨工地的噪音。"
+        },
+        {
+          "en": "The patient complained of having a headache for three days.",
+          "zh": "病人诉说自己已经头疼三天了。"
+        }
+      ]
+    },
+    {
+      "phrase": "in the possession of",
+      "usage": "为某人所有，主语是被拥有的事物，注意和in possession of（主语是拥有者）区分",
+      "examples": [
+        {
+          "en": "The rare painting is now in the possession of a private collector.",
+          "zh": "这幅罕见的画作现在为一位私人收藏家所有。"
+        },
+        {
+          "en": "The company is in possession of three advanced production lines.",
+          "zh": "这家公司拥有三条先进的生产线。"
+        }
+      ]
+    },
+    {
+      "phrase": "go on",
+      "usage": "持续；继续，此处表示事件持续发生，后可接一段时间",
+      "examples": [
+        {
+          "en": "The meeting went on for more than three hours.",
+          "zh": "会议持续了三个多小时。"
+        },
+        {
+          "en": "The rain has been going on since this morning.",
+          "zh": "雨从今天早上就一直下个不停。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "情态动词表推测（对过去的肯定推测）",
+      "definition": "用来表示对过去已经发生的事情的确定性推断，说话人对推测的内容有较高的把握",
+      "structure": "must have done / must have been doing",
+      "usage": "仅用于肯定句中，否定推测用can't have done，疑问推测用can have done",
+      "examples": [
+        {
+          "en": "This one must have been in the possession of a private collector and somehow managed to escape.",
+          "zh": "这只美洲狮肯定是某个私人收藏家的，不知怎么逃出来了。"
+        },
+        {
+          "en": "The ground is wet. It must have rained last night.",
+          "zh": "地面是湿的，昨晚肯定下雨了。"
+        },
+        {
+          "en": "He knew everything about the plan. He must have attended the meeting yesterday.",
+          "zh": "他对这个计划了如指掌，他昨天肯定参加了会议。"
+        }
+      ]
+    },
+    {
+      "title": "同位语从句",
+      "definition": "在复合句中用作同位语的从句，用于解释说明前面名词的具体内容",
+      "structure": "抽象名词（news, fact, report, idea, thought等）+ that + 完整陈述语序的从句",
+      "usage": "that在同位语从句中不充当任何成分，仅起连接作用，无实际含义，一般不可省略",
+      "examples": [
+        {
+          "en": "When reports came into London Zoo that a wild puma had been spotted forty-five miles south of London, they were not taken seriously.",
+          "zh": "当伦敦动物园接到报告说，在伦敦以南45英里处发现了一只野生美洲狮时，这些报告并没有受到重视。"
+        },
+        {
+          "en": "The news that our team won the game excited all of us.",
+          "zh": "我们队赢了比赛的消息让我们所有人都很兴奋。"
+        },
+        {
+          "en": "There is no doubt that he is the right person for the job.",
+          "zh": "毫无疑问他是这份工作的合适人选。"
+        }
+      ]
+    },
+    {
+      "title": "让步/原因状语从句的省略",
+      "definition": "当状语从句的主语和主句主语一致，且从句谓语含有be动词时，可以省略从句的主语和be动词",
+      "structure": "连词（when, while, if, though等）+ 现在分词/过去分词/介词短语/形容词",
+      "usage": "现在分词表示和主语是主动关系，过去分词表示和主语是被动关系",
+      "examples": [
+        {
+          "en": "The hunt for the puma began in a small village where a woman picking blackberries saw 'a large cat' only five yards away from her.",
+          "zh": "搜寻美洲狮的工作是从一个小村庄开始的，那里有一位采黑莓的妇女看见“一只大猫”离她只有五码远。（此处picking blackberries是定语从句who was picking blackberries的省略）"
+        },
+        {
+          "en": "When crossing the street, you should look both sides.",
+          "zh": "过马路的时候你应该两边都看看。（省略了you are）"
+        },
+        {
+          "en": "If given more time, I will finish the task better.",
+          "zh": "如果给我更多时间，我会把任务完成得更好。（省略了I am）"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "It is + 形容词 + to think that...",
+      "original": {
+        "en": "It is disturbing to think that a dangerous wild animal is still at large in the quiet countryside.",
+        "zh": "想到在宁静的乡村里有一头危险的野兽仍然在逃，就令人不安。"
+      },
+      "imitations": [
+        {
+          "en": "It is exciting to think that we will go to the beach for vacation next week.",
+          "zh": "想到我们下周要去海边度假，就很令人兴奋。"
+        },
+        {
+          "en": "It is disappointing to think that he failed the exam again after studying so hard.",
+          "zh": "想到他这么努力学习还是考试不及格，就很令人失望。"
+        }
+      ]
+    },
+    {
+      "pattern": "However, as sth began to accumulate, sb felt obliged to do sth, for...",
+      "original": {
+        "en": "However, as the evidence began to accumulate, experts from the Zoo felt obliged to investigate, for the descriptions given by people who claimed to have seen the puma were extraordinarily similar.",
+        "zh": "然而，随着证据越来越多，动物园的专家们感到有必要进行调查，因为凡是声称见到过美洲狮的人们所描述的情况出奇地相似。"
+      },
+      "imitations": [
+        {
+          "en": "However, as the complaints from customers began to accumulate, the company felt obliged to recall the product, for the design flaw had caused several safety accidents.",
+          "zh": "然而，随着消费者的投诉越来越多，公司感到有必要召回产品，因为这个设计缺陷已经造成了多起安全事故。"
+        },
+        {
+          "en": "However, as the waste in the river began to accumulate, the local residents felt obliged to report to the environmental department, for the water had become too dirty to use.",
+          "zh": "然而，随着河里的垃圾越积越多，当地居民觉得有必要向环保部门举报，因为水已经脏得没法用了。"
+        }
+      ]
+    },
+    {
+      "pattern": "The search/problem proved + 形容词, for...",
+      "original": {
+        "en": "The search proved difficult, for the puma was often observed at one place in the morning and at another place twenty miles away in the evening.",
+        "zh": "搜寻工作很困难，因为常常是早晨在甲地发现那只美洲狮，晚上却在20英里外的乙地出现。"
+      },
+      "imitations": [
+        {
+          "en": "The project proved challenging, for we lacked the professional technology and enough funding.",
+          "zh": "这个项目很有挑战性，因为我们缺少专业技术和足够的资金。"
+        },
+        {
+          "en": "The final exam proved easy, for all the questions were from the exercises we had done before.",
+          "zh": "期末考试很简单，因为所有题目都来自我们之前做过的练习。"
+        }
+      ]
+    }
+  ]
+}

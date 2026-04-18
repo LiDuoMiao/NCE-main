@@ -1,0 +1,386 @@
+{
+  "book": "NCE2",
+  "lesson": "93",
+  "title": "Where was the Statue of Liberty made?",
+  "vocabulary": [
+    {
+      "word": "monument",
+      "phonetic": "/ˈmɒnjumənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "纪念碑；纪念物",
+          "usage": "指为纪念重要人物或事件而建造的建筑物"
+        }
+      ]
+    },
+    {
+      "word": "present",
+      "phonetic": "/prɪˈzent/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "赠送；呈递",
+          "usage": "作为礼物送给某人"
+        }
+      ]
+    },
+    {
+      "word": "sculptor",
+      "phonetic": "/ˈskʌlptə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "雕塑家；雕刻家",
+          "usage": "从事雕塑创作的人"
+        }
+      ]
+    },
+    {
+      "word": "copper",
+      "phonetic": "/ˈkɒpə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "铜；铜币",
+          "usage": "一种红棕色的金属材料"
+        }
+      ]
+    },
+    {
+      "word": "framework",
+      "phonetic": "/ˈfreɪmwɜːk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "框架；结构",
+          "usage": "支撑或构成某物的基本结构"
+        }
+      ]
+    },
+    {
+      "word": "pedestal",
+      "phonetic": "/ˈpedɪstl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "底座；基座",
+          "usage": "雕像、柱子等下面的支撑基座"
+        }
+      ]
+    },
+    {
+      "word": "erect",
+      "phonetic": "/ɪˈrekt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "竖立；建造",
+          "usage": "使某物直立或建立起来"
+        }
+      ]
+    },
+    {
+      "word": "officially",
+      "phonetic": "/əˈfɪʃəli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "正式地；官方地",
+          "usage": "以官方或正式的方式"
+        }
+      ]
+    },
+    {
+      "word": "symbol",
+      "phonetic": "/ˈsɪmbl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "象征；标志",
+          "usage": "代表某种意义或思想的符号"
+        }
+      ]
+    },
+    {
+      "word": "liberty",
+      "phonetic": "/ˈlɪbəti/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "自由；解放",
+          "usage": "个人或群体的自由权利"
+        }
+      ]
+    },
+    {
+      "word": "transport",
+      "phonetic": "/trænˈspɔːt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "运输；运送",
+          "usage": "将人或物从一地运送到另一地"
+        }
+      ]
+    },
+    {
+      "word": "island",
+      "phonetic": "/ˈaɪlənd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "岛屿",
+          "usage": "四面环水的陆地"
+        }
+      ]
+    },
+    {
+      "word": "harbour",
+      "phonetic": "/ˈhɑːbə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "港口；海港",
+          "usage": "船只停泊和装卸货物的水域"
+        }
+      ]
+    },
+    {
+      "word": "especially",
+      "phonetic": "/ɪˈspeʃəli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "特别；尤其",
+          "usage": "强调某事物的重要性或特殊性"
+        }
+      ]
+    },
+    {
+      "word": "construct",
+      "phonetic": "/kənˈstrʌkt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "建造；构造",
+          "usage": "按照设计建造或组装"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "take...years to complete",
+      "usage": "表示完成某事花费了多长时间",
+      "examples": [
+        {
+          "en": "The project took ten years to complete.",
+          "zh": "这个项目花了十年才完成。"
+        }
+      ]
+    },
+    {
+      "phrase": "be made of",
+      "usage": "表示由某种材料制成（能看出原材料）",
+      "examples": [
+        {
+          "en": "The statue was made of copper.",
+          "zh": "这座雕像是用铜制成的。"
+        }
+      ]
+    },
+    {
+      "phrase": "be taken to pieces",
+      "usage": "被拆成零件；被拆散",
+      "examples": [
+        {
+          "en": "It was taken to pieces and sent to America.",
+          "zh": "它被拆成零件运往美国。"
+        }
+      ]
+    },
+    {
+      "phrase": "put together",
+      "usage": "组装；装配",
+      "examples": [
+        {
+          "en": "The statue had been put together again.",
+          "zh": "雕像已经被重新组装起来。"
+        }
+      ]
+    },
+    {
+      "phrase": "ever since then",
+      "usage": "从那以后；此后一直",
+      "examples": [
+        {
+          "en": "Ever since then, it has been a symbol of liberty.",
+          "zh": "从那以后，它就一直是自由的象征。"
+        }
+      ]
+    },
+    {
+      "phrase": "present...to",
+      "usage": "向...赠送或呈递...",
+      "examples": [
+        {
+          "en": "It was officially presented to the American people.",
+          "zh": "它被正式赠送给了美国人民。"
+        }
+      ]
+    },
+    {
+      "phrase": "a symbol of",
+      "usage": "...的象征",
+      "examples": [
+        {
+          "en": "The statue is a symbol of liberty.",
+          "zh": "这座雕像是自由的象征。"
+        }
+      ]
+    },
+    {
+      "phrase": "make one's home",
+      "usage": "安家；定居",
+      "examples": [
+        {
+          "en": "People who have made their homes in America.",
+          "zh": "在美国安家的人们。"
+        }
+      ]
+    },
+    {
+      "phrase": "pass through",
+      "usage": "经过；穿过",
+      "examples": [
+        {
+          "en": "People who have passed through New York Harbour.",
+          "zh": "经过纽约港的人们。"
+        }
+      ]
+    },
+    {
+      "phrase": "at the entrance of",
+      "usage": "在...的入口处",
+      "examples": [
+        {
+          "en": "An island at the entrance of New York Harbour.",
+          "zh": "纽约港入口处的一个岛屿。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去完成时 (Past Perfect Tense)",
+      "definition": "表示在过去某一时间之前已经完成的动作，常与by+过去时间或before/after连用",
+      "structure": "had + 过去分词",
+      "usage": "描述两个过去的动作，先发生的动作用过去完成时，后发生的动作用一般过去时",
+      "examples": [
+        {
+          "en": "The framework had been especially constructed by Eiffel.",
+          "zh": "框架是由埃菲尔特别建造的。"
+        },
+        {
+          "en": "By 1884, a statue had been erected in Paris.",
+          "zh": "到1884年，一座雕像已在巴黎竖立。"
+        }
+      ]
+    },
+    {
+      "title": "过去完成进行时 (Past Perfect Continuous)",
+      "definition": "表示过去某一时间之前一直在进行的动作",
+      "structure": "had been + doing",
+      "usage": "强调动作的持续性和未完成性",
+      "examples": [
+        {
+          "en": "It has been a symbol of liberty for millions of people.",
+          "zh": "它一直是数百万人民的自由象征。"
+        }
+      ]
+    },
+    {
+      "title": "非限制性定语从句 (Non-restrictive Relative Clause)",
+      "definition": "用逗号分隔，对先行词进行补充说明，去掉后不影响主句意思",
+      "structure": "名词/代词, which/who + 陈述语序",
+      "usage": "常用于描述人物、建筑等，补充额外信息",
+      "examples": [
+        {
+          "en": "The great statue, which was designed by the sculptor Auguste Bartholdi, took ten years to complete.",
+          "zh": "这座伟大的雕像由雕塑家奥古斯特·巴托尔迪设计，花了十年才完成。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "One of the most + 形容词最高级 + 可数名词复数...",
+      "original": {
+        "en": "One of the most famous monuments in the world, the Statue of Liberty...",
+        "zh": "世界上最著名的纪念碑之一——自由女神像..."
+      },
+      "imitations": [
+        {
+          "en": "One of the most beautiful cities in the world is Paris.",
+          "zh": "世界上最美丽的城市之一是巴黎。"
+        },
+        {
+          "en": "One of the most important inventions of the 20th century is the computer.",
+          "zh": "20世纪最重要的发明之一是电脑。"
+        }
+      ]
+    },
+    {
+      "pattern": "The + 名词, which + 非限制性定语从句...",
+      "original": {
+        "en": "The great statue, which was designed by the sculptor Auguste Bartholdi, took ten years to complete.",
+        "zh": "这座伟大的雕像由雕塑家奥古斯特·巴托尔迪设计，花了十年才完成。"
+      },
+      "imitations": [
+        {
+          "en": "The book, which was written by a famous author, became a bestseller.",
+          "zh": "这本书是由一位著名作家写的，成了畅销书。"
+        },
+        {
+          "en": "The tower, which was built in the 19th century, attracts many tourists.",
+          "zh": "这座塔建于19世纪，吸引了许多游客。"
+        }
+      ]
+    },
+    {
+      "pattern": "By + 过去时间, + 主语 + 过去完成时...",
+      "original": {
+        "en": "By 1884, a statue which was 151 feet tall had been erected in Paris.",
+        "zh": "到1884年，一座151英尺高的雕像已在巴黎竖立。"
+      },
+      "imitations": [
+        {
+          "en": "By 2020, the building had been completed.",
+          "zh": "到2020年，这座建筑已经完工。"
+        },
+        {
+          "en": "By the end of last month, we had finished the project.",
+          "zh": "到上个月底，我们已经完成了这个项目。"
+        }
+      ]
+    },
+    {
+      "pattern": "Ever since then, + 主语 + has/have been + 过去分词...",
+      "original": {
+        "en": "Ever since then, the great monument has been a symbol of liberty.",
+        "zh": "从那以后，这座伟大的纪念碑一直是自由的象征。"
+      },
+      "imitations": [
+        {
+          "en": "Ever since then, she has been a teacher.",
+          "zh": "从那以后，她一直是一名教师。"
+        },
+        {
+          "en": "Ever since then, this place has been my home.",
+          "zh": "从那以后，这个地方一直是我的家。"
+        }
+      ]
+    }
+  ]
+}

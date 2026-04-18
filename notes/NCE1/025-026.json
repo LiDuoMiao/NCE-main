@@ -1,0 +1,378 @@
+{
+  "book": "NCE1",
+  "lesson": "025-026",
+  "title": "Lesson 25",
+  "vocabulary": [
+    {
+      "word": "kitchen",
+      "phonetic": "/ˈkɪtʃɪn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "厨房",
+          "usage": "家庭中做饭的房间"
+        }
+      ]
+    },
+    {
+      "word": "small",
+      "phonetic": "/smɔːl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "小的",
+          "usage": "形容尺寸或规模不大"
+        }
+      ]
+    },
+    {
+      "word": "refrigerator",
+      "phonetic": "/rɪˈfrɪdʒəreɪtə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "冰箱",
+          "usage": "冷藏食物的电器设备，也可用fridge"
+        }
+      ]
+    },
+    {
+      "word": "white",
+      "phonetic": "/waɪt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "白色的",
+          "usage": "描述颜色，也可作名词表示白色"
+        }
+      ]
+    },
+    {
+      "word": "electric",
+      "phonetic": "/ɪˈlektrɪk/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "电动的",
+          "usage": "由电驱动的，与电力有关的"
+        }
+      ]
+    },
+    {
+      "word": "cooker",
+      "phonetic": "/ˈkʊkə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "炉灶",
+          "usage": "烹饪用的炉子或灶具"
+        }
+      ]
+    },
+    {
+      "word": "blue",
+      "phonetic": "/bluː/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "蓝色的",
+          "usage": "描述蓝色，也可作名词表示蓝色"
+        }
+      ]
+    },
+    {
+      "word": "table",
+      "phonetic": "/ˈteɪbl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "桌子",
+          "usage": "有腿和台面的家具，用于放置物品"
+        }
+      ]
+    },
+    {
+      "word": "middle",
+      "phonetic": "/ˈmɪdl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "中间",
+          "usage": "表示中心位置或时间的中点"
+        }
+      ]
+    },
+    {
+      "word": "bottle",
+      "phonetic": "/ˈbɒtl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "瓶子",
+          "usage": "通常指塑料或玻璃容器，用于装液体"
+        }
+      ]
+    },
+    {
+      "word": "empty",
+      "phonetic": "/ˈempti/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "空的",
+          "usage": "里面没有任何东西的"
+        }
+      ]
+    },
+    {
+      "word": "cup",
+      "phonetic": "/kʌp/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "杯子",
+          "usage": "用于喝水的容器，通常有把手"
+        }
+      ]
+    },
+    {
+      "word": "clean",
+      "phonetic": "/kliːn/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "干净的",
+          "usage": "清洁的，没有污垢的"
+        }
+      ]
+    },
+    {
+      "word": "left",
+      "phonetic": "/left/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "左边",
+          "usage": "左侧方位，与right相对"
+        }
+      ]
+    },
+    {
+      "word": "right",
+      "phonetic": "/raɪt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "右边",
+          "usage": "右侧方位，与left相对"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "in the kitchen",
+      "usage": "表示在厨房里，介词in表示在内部",
+      "examples": [
+        {
+          "en": "There is a refrigerator in the kitchen.",
+          "zh": "厨房里有一台冰箱。"
+        }
+      ]
+    },
+    {
+      "phrase": "on the right",
+      "usage": "表示在右边，指右侧的位置",
+      "examples": [
+        {
+          "en": "It is on the right.",
+          "zh": "它在右边。"
+        }
+      ]
+    },
+    {
+      "phrase": "on the left",
+      "usage": "表示在左边，指左侧的位置",
+      "examples": [
+        {
+          "en": "It is on the left.",
+          "zh": "它在左边。"
+        }
+      ]
+    },
+    {
+      "phrase": "in the middle of",
+      "usage": "表示在...的中间，指在某物的中心位置",
+      "examples": [
+        {
+          "en": "There is a table in the middle of the room.",
+          "zh": "房间中间有一张桌子。"
+        }
+      ]
+    },
+    {
+      "phrase": "on the table",
+      "usage": "表示在桌子上，on表示在表面上方",
+      "examples": [
+        {
+          "en": "There is a bottle on the table.",
+          "zh": "桌子上有一个瓶子。"
+        }
+      ]
+    },
+    {
+      "phrase": "electric cooker",
+      "usage": "电动炉灶，指用电的烹饪设备",
+      "examples": [
+        {
+          "en": "There is an electric cooker in the kitchen.",
+          "zh": "厨房里有一个电炉灶。"
+        }
+      ]
+    },
+    {
+      "phrase": "empty bottle",
+      "usage": "空瓶子，描述瓶子没有装东西",
+      "examples": [
+        {
+          "en": "The bottle is empty.",
+          "zh": "瓶子是空的。"
+        }
+      ]
+    },
+    {
+      "phrase": "clean cup",
+      "usage": "干净的杯子，描述杯子很清洁",
+      "examples": [
+        {
+          "en": "The cup is clean.",
+          "zh": "杯子是干净的。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "There be句型（肯定句）",
+      "definition": "表示某处存在某人或某物，be动词的形式取决于后面名词的单复数",
+      "structure": "There is/are + 名词 + 地点",
+      "usage": "用于描述某个地方有什么东西存在",
+      "examples": [
+        {
+          "en": "There is a refrigerator in the kitchen.",
+          "zh": "厨房里有一台冰箱。"
+        },
+        {
+          "en": "There is a bottle on the table.",
+          "zh": "桌子上有一个瓶子。"
+        },
+        {
+          "en": "There is a cup on the table, too.",
+          "zh": "桌子上也有一个杯子。"
+        }
+      ]
+    },
+    {
+      "title": "方位介词的使用",
+      "definition": "介词用来表示位置或方向，in表示在里面，on表示在上面，in the middle of表示在中间",
+      "structure": "on the right / on the left / in the middle of the room",
+      "usage": "用于描述物品的位置和方位",
+      "examples": [
+        {
+          "en": "It is on the right.",
+          "zh": "它在右边。"
+        },
+        {
+          "en": "The table is in the middle of the room.",
+          "zh": "桌子在房间中间。"
+        }
+      ]
+    },
+    {
+      "title": "颜色形容词",
+      "definition": "形容词用来描述事物的特征，颜色形容词直接放在名词前面",
+      "structure": "The + 名词 + is + 颜色",
+      "usage": "用于描述物品的颜色",
+      "examples": [
+        {
+          "en": "The refrigerator is white.",
+          "zh": "冰箱是白色的。"
+        },
+        {
+          "en": "The cooker is blue.",
+          "zh": "炉灶是蓝色的。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "There is/are + 名词 + 地点",
+      "original": {
+        "en": "There is a refrigerator in the kitchen.",
+        "zh": "厨房里有一台冰箱。"
+      },
+      "imitations": [
+        {
+          "en": "There is a book on the desk.",
+          "zh": "桌子上有一本书。"
+        },
+        {
+          "en": "There is a window in the room.",
+          "zh": "房间里有一扇窗户。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + is + 颜色",
+      "original": {
+        "en": "The cooker is blue.",
+        "zh": "炉灶是蓝色的。"
+      },
+      "imitations": [
+        {
+          "en": "The car is red.",
+          "zh": "汽车是红色的。"
+        },
+        {
+          "en": "The house is white.",
+          "zh": "房子是白色的。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + is + 方位介词短语",
+      "original": {
+        "en": "It is on the right.",
+        "zh": "它在右边。"
+      },
+      "imitations": [
+        {
+          "en": "The TV is on the left.",
+          "zh": "电视在左边。"
+        },
+        {
+          "en": "The bed is in the middle of the room.",
+          "zh": "床在房间中间。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + is + 形容词",
+      "original": {
+        "en": "The bottle is empty.",
+        "zh": "瓶子是空的。"
+      },
+      "imitations": [
+        {
+          "en": "The glass is empty.",
+          "zh": "玻璃杯是空的。"
+        },
+        {
+          "en": "The room is small.",
+          "zh": "房间是小的。"
+        }
+      ]
+    }
+  ]
+}

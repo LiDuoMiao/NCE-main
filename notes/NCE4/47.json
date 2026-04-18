@@ -1,0 +1,336 @@
+{
+  "book": "NCE4",
+  "lesson": "47",
+  "title": "Lesson 47",
+  "vocabulary": [
+    {
+      "word": "motive",
+      "phonetic": "/ˈməʊtɪv/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "动机，目的",
+          "usage": "指促使某人做某事的原因，常与for搭配"
+        }
+      ]
+    },
+    {
+      "word": "outlay",
+      "phonetic": "/ˈaʊtleɪ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "（启动项目的）开支，费用",
+          "usage": "尤指一次性的初期支出，常与on/upon搭配"
+        }
+      ]
+    },
+    {
+      "word": "myriad",
+      "phonetic": "/ˈmɪriəd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "无数的，大量的",
+          "usage": "修饰可数名词复数，强调数量极多"
+        }
+      ]
+    },
+    {
+      "word": "sophisticated",
+      "phonetic": "/səˈfɪstɪkeɪtɪd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "复杂精密的；先进的",
+          "usage": "可形容设备、技术等功能复杂先进"
+        }
+      ]
+    },
+    {
+      "word": "paradox",
+      "phonetic": "/ˈpærədɒks/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "矛盾的现象，悖论",
+          "usage": "指看似矛盾但可能有其合理性的情况"
+        }
+      ]
+    },
+    {
+      "word": "shun",
+      "phonetic": "/ʃʌn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "回避，避开",
+          "usage": "强调主动刻意避开某人或某事物，后直接接宾语"
+        }
+      ]
+    },
+    {
+      "word": "affluent",
+      "phonetic": "/ˈæfluənt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "富裕的，富足的",
+          "usage": "形容人或地区经济条件优渥"
+        }
+      ]
+    },
+    {
+      "word": "hierarchy",
+      "phonetic": "/ˈhaɪərɑːki/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "等级制度，统治集团",
+          "usage": "指组织中的层级结构，或处于上层的管理群体"
+        }
+      ]
+    },
+    {
+      "word": "entail",
+      "phonetic": "/ɪnˈteɪl/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "使必要，附带（后果）",
+          "usage": "指某事物必然包含或导致某种结果，后接名词/动名词"
+        }
+      ]
+    },
+    {
+      "word": "exquisite",
+      "phonetic": "/ɪkˈskwɪzɪt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "精致的，绝妙的",
+          "usage": "形容事物质量极高、体验极佳"
+        }
+      ]
+    },
+    {
+      "word": "inclement",
+      "phonetic": "/ɪnˈklemənt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "（天气）恶劣的，凛冽的",
+          "usage": "专门用来形容天气寒冷、下雨等不适宜外出的情况"
+        }
+      ]
+    },
+    {
+      "word": "cosmopolitan",
+      "phonetic": "/ˌkɒzməˈpɒlɪtən/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "国际性的，世界性的",
+          "usage": "形容地方有来自世界各地的人，文化多元"
+        }
+      ]
+    },
+    {
+      "word": "preponderance",
+      "phonetic": "/prɪˈpɒndərəns/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "多数，优势",
+          "usage": "指数量上占绝大多数，常与of搭配"
+        }
+      ]
+    },
+    {
+      "word": "alienate",
+      "phonetic": "/ˈeɪliəneɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "疏远，得罪",
+          "usage": "指行为导致他人不再友好支持，常用搭配alienate sb from sb"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "far from",
+      "usage": "表示“远非，完全不”，用于否定某一说法，后可接形容词、动名词或名词",
+      "examples": [
+        {
+          "en": "It is far from being the only advantage of reading.",
+          "zh": "这完全不是阅读的唯一好处。"
+        }
+      ]
+    },
+    {
+      "phrase": "by no means",
+      "usage": "表示“绝不，一点也不”，用于加强否定语气，可置于句首（需倒装）或句中",
+      "examples": [
+        {
+          "en": "He is by no means an experienced teacher.",
+          "zh": "他绝不是一个有经验的老师。"
+        }
+      ]
+    },
+    {
+      "phrase": "go hand in hand",
+      "usage": "表示“密切相关，相伴而生”，说明两个事物同时存在、互相关联",
+      "examples": [
+        {
+          "en": "Poverty and poor health often go hand in hand.",
+          "zh": "贫穷和健康不佳往往是相伴而生的。"
+        }
+      ]
+    },
+    {
+      "phrase": "cater for",
+      "usage": "表示“满足需要，迎合”，主语通常为服务类机构，后接服务对象",
+      "examples": [
+        {
+          "en": "This restaurant caters for vegetarians.",
+          "zh": "这家餐厅提供素食餐食，满足素食者的需求。"
+        }
+      ]
+    },
+    {
+      "phrase": "be wary of",
+      "usage": "表示“提防，警惕”，指对可能的风险或问题保持谨慎",
+      "examples": [
+        {
+          "en": "You should be wary of strangers who ask for personal information.",
+          "zh": "你要警惕索要你个人信息的陌生人。"
+        }
+      ]
+    },
+    {
+      "phrase": "get away from it all",
+      "usage": "口语常用表达，指“远离尘嚣，彻底放松”，尤指通过度假逃离日常的压力和繁琐",
+      "examples": [
+        {
+          "en": "Many people go to the countryside on weekends to get away from it all.",
+          "zh": "很多人周末去乡下，彻底逃离城市的喧嚣放松自己。"
+        }
+      ]
+    },
+    {
+      "phrase": "within one's command",
+      "usage": "表示“在某人的掌控之中，可由某人自由支配”",
+      "examples": [
+        {
+          "en": "With enough savings, you will have more choices within your command.",
+          "zh": "有足够的存款，你就能有更多可以自主选择的机会。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "形容词/名词前置的倒装结构",
+      "definition": "为了强调表语内容，将作表语的形容词、名词或分词置于句首，形成“表语 + 主语 + be/系动词”的倒装结构，语义等同于正常语序，语气更强烈",
+      "structure": "Adjective/Noun + 主语 + be/系动词",
+      "usage": "多用于书面语中，突出强调表语的属性，同时让句子结构更有节奏感",
+      "examples": [
+        {
+          "en": "Affluent he may be, but he is by no means happy.",
+          "zh": "他或许很富裕，但他一点也不快乐。"
+        },
+        {
+          "en": "Master in his own house he has little idea of how to deal with public occasions.",
+          "zh": "他在自己家里是主人，却完全不知道如何应对公开场合。"
+        }
+      ]
+    },
+    {
+      "title": "主语从句作主语的结构",
+      "definition": "用完整的句子充当主语，说明整件事的性质或影响，通常用it作形式主语置于句首，将真正的主语从句后置，避免头重脚轻",
+      "structure": "It + 系动词 + 名词/形容词 + that引导的主语从句 / That引导的主语从句 + 谓语 + 其他成分",
+      "usage": "用于描述某个事件、情况的属性，that在从句中不充当成分，无实际含义，仅起连接作用",
+      "examples": [
+        {
+          "en": "That the equipment of modern camping becomes yearly more sophisticated is an entertaining paradox.",
+          "zh": "现代露营装备一年比一年精密，这对愤世嫉俗的人来说是个有意思的矛盾现象。"
+        },
+        {
+          "en": "It is obvious that regular exercise benefits people's health a lot.",
+          "zh": "很明显，定期锻炼对人们的健康大有裨益。"
+        }
+      ]
+    },
+    {
+      "title": "granted作引导词的让步状语结构",
+      "definition": "granted（或granted that）作为从属连词，引导让步状语从句，表示“诚然，的确”，先承认某一事实的存在，后面主句引出相反或转折的观点",
+      "structure": "Granted (that) + 让步分句, + 主句（表转折）",
+      "usage": "用于议论文中先肯定对立观点的合理性，再阐述自己的核心观点，让论证更客观严谨",
+      "examples": [
+        {
+          "en": "Granted, a snobbery of camping itself already exists, but it is easy to deal with.",
+          "zh": "诚然，露营本身已经存在基于装备和技术的势利现象，但这种情况很容易应对。"
+        },
+        {
+          "en": "Granted that this plan has some drawbacks, its advantages far outweigh them.",
+          "zh": "诚然这个计划有一些缺点，但它的优点远多于缺点。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "... is one powerful motive for..., since...",
+      "original": {
+        "en": "Economy is one powerful motive for camping, since after the initial outlay upon equipment, or through hiring it, the total expense can be far less than the cost of hotels.",
+        "zh": "省钱是露营的一大主要动机，因为除了最初购置装备的费用，或是可以租用装备，总花费要比住酒店便宜得多。"
+      },
+      "imitations": [
+        {
+          "en": "Flexibility is one powerful motive for choosing remote work, since you can arrange your schedule according to your own needs.",
+          "zh": "灵活性是选择远程工作的一大主要动机，因为你可以根据自己的需求安排日程。"
+        },
+        {
+          "en": "Cultural experience is one powerful motive for studying abroad, since you can get immersed in a totally different social environment.",
+          "zh": "文化体验是出国留学的一大主要动机，因为你可以沉浸在完全不同的社会环境中。"
+        }
+      ]
+    },
+    {
+      "pattern": "..., contrary to a popular assumption, it is far from being the only one, or even the greatest.",
+      "original": {
+        "en": "But, contrary to a popular assumption, it is far from being the only one, or even the greatest.",
+        "zh": "但是，和普遍的设想相反，这远不是唯一的动机，甚至算不上是最主要的动机。"
+      },
+      "imitations": [
+        {
+          "en": "Many people think high marks mean all for students, but contrary to a popular assumption, it is far from being the only indicator of ability, or even the greatest.",
+          "zh": "很多人觉得高分对学生来说意味着一切，但和普遍的设想相反，这远不是能力的唯一指标，甚至算不上是最重要的指标。"
+        },
+        {
+          "en": "People often believe that salary is the most important factor for a job, but contrary to a popular assumption, it is far from being the only thing we care about, or even the greatest.",
+          "zh": "人们通常认为薪资是工作最重要的因素，但和普遍的设想相反，这远不是我们在意的唯一方面，甚至算不上是最主要的。"
+        }
+      ]
+    },
+    {
+      "pattern": "To such motives, yet another must be added.",
+      "original": {
+        "en": "To such motives, yet another must be added.",
+        "zh": "除了这些动机之外，还有另外一个动机。"
+      },
+      "imitations": [
+        {
+          "en": "To such benefits of learning a foreign language, yet another must be added: it helps you understand different ways of thinking.",
+          "zh": "除了学习外语的这些好处之外，还要加上另外一点：它能帮助你理解不同的思维方式。"
+        },
+        {
+          "en": "To such reasons for the popularity of social media, yet another must be added: it makes it easier to keep in touch with old friends.",
+          "zh": "除了社交媒体流行的这些原因之外，还要加上另外一点：它让和老朋友保持联系变得更容易。"
+        }
+      ]
+    }
+  ]
+}

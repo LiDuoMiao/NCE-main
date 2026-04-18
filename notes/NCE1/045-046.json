@@ -1,0 +1,355 @@
+{
+  "book": "NCE1",
+  "lesson": "045-046",
+  "title": "Lesson 45",
+  "vocabulary": [
+    {
+      "word": "boss",
+      "phonetic": "/bɒs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "老板，上司",
+          "usage": "指公司或工作中的最高管理者"
+        }
+      ]
+    },
+    {
+      "word": "letter",
+      "phonetic": "/ˈletə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "信，函件",
+          "usage": "指书写或打印的通信文件"
+        }
+      ]
+    },
+    {
+      "word": "type",
+      "phonetic": "/taɪp/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "打字，用打字机输入",
+          "usage": "指用键盘或打字机输入文字"
+        }
+      ]
+    },
+    {
+      "word": "handwriting",
+      "phonetic": "/ˈhaɪndraɪtɪŋ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "笔迹，书写",
+          "usage": "指手写的文字或字体"
+        }
+      ]
+    },
+    {
+      "word": "terrible",
+      "phonetic": "/ˈterəbl/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "糟糕的，可怕的",
+          "usage": "用于形容质量极差或令人不悦的事物"
+        }
+      ]
+    },
+    {
+      "word": "minute",
+      "phonetic": "/ˈmɪnɪt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "分钟，一会儿",
+          "usage": "表示短时间，用于请人稍等"
+        }
+      ]
+    },
+    {
+      "word": "office",
+      "phonetic": "/ˈɒfɪs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "办公室，事务所",
+          "usage": "指工作或办公的房间"
+        }
+      ]
+    },
+    {
+      "word": "next door",
+      "phonetic": "/nekst dɔː(r)/",
+      "meanings": [
+        {
+          "pos": "phrase",
+          "meaning": "隔壁，邻室",
+          "usage": "表示相邻的房间或位置"
+        }
+      ]
+    },
+    {
+      "word": "matter",
+      "phonetic": "/ˈmætə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "事情，问题",
+          "usage": "用于询问有什么事，通常与what连用"
+        }
+      ]
+    },
+    {
+      "word": "read",
+      "phonetic": "/riːd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "阅读，看懂",
+          "usage": "指阅读文字或理解字迹内容"
+        }
+      ]
+    },
+    {
+      "word": "ask",
+      "phonetic": "/ɑːsk/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "询问，请求",
+          "usage": "用于向他人提出请求或问题"
+        }
+      ]
+    },
+    {
+      "word": "yes",
+      "phonetic": "/jes/",
+      "meanings": [
+        {
+          "pos": "interjection",
+          "meaning": "是的，好",
+          "usage": "肯定回答时的用语"
+        }
+      ]
+    },
+    {
+      "word": "sir",
+      "phonetic": "/sɜː(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "先生，阁下",
+          "usage": "对男性上司或长辈的尊称"
+        }
+      ]
+    },
+    {
+      "word": "of course",
+      "phonetic": "/əv kɔːs/",
+      "meanings": [
+        {
+          "pos": "phrase",
+          "meaning": "当然",
+          "usage": "表示肯定或同意"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Can you come here a minute please?",
+      "usage": "礼貌请求某人过来一下",
+      "examples": [
+        {
+          "en": "Can you come here a minute please, Tom?",
+          "zh": "汤姆，请你过来一下好吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "next door",
+      "usage": "指隔壁的房间或地方",
+      "examples": [
+        {
+          "en": "She works next door.",
+          "zh": "她在隔壁工作。"
+        }
+      ]
+    },
+    {
+      "phrase": "Can she type this letter for me?",
+      "usage": "请求某人做某事",
+      "examples": [
+        {
+          "en": "Can she type this letter for me?",
+          "zh": "她能帮我打这封信吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "Ask her please.",
+      "usage": "让别人去询问第三方",
+      "examples": [
+        {
+          "en": "Ask her please.",
+          "zh": "请你问她。"
+        }
+      ]
+    },
+    {
+      "phrase": "Here you are.",
+      "usage": "递东西给别人时的用语",
+      "examples": [
+        {
+          "en": "Here you are. Take this to the boss.",
+          "zh": "给你，把这个带给老板。"
+        }
+      ]
+    },
+    {
+      "phrase": "What's the matter?",
+      "usage": "询问对方有什么问题或困难",
+      "examples": [
+        {
+          "en": "What's the matter? You look worried.",
+          "zh": "怎么了？你看起来很担心。"
+        }
+      ]
+    },
+    {
+      "phrase": "I can't read it!",
+      "usage": "表示无法阅读或看不懂",
+      "examples": [
+        {
+          "en": "The handwriting is so bad. I can't read it!",
+          "zh": "字迹太差了，我看不懂！"
+        }
+      ]
+    },
+    {
+      "phrase": "Yes, of course I can.",
+      "usage": "肯定回答，表示当然可以",
+      "examples": [
+        {
+          "en": "Can you help me with this? Yes, of course I can.",
+          "zh": "你能帮我这个吗？是的，我当然可以。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "情态动词 can 的用法 (Can 的肯定句和否定句)",
+      "definition": "can是情态动词，表示能力或许可。否定形式是 cannot 或 can't。",
+      "structure": "主语 + can/can not (can't) + 动词原形",
+      "usage": "表达能够做某事或不能做某事",
+      "examples": [
+        {
+          "en": "I can type this letter.",
+          "zh": "我能打这封信。"
+        },
+        {
+          "en": "I can't read it.",
+          "zh": "我看不懂。"
+        },
+        {
+          "en": "Can she type this letter?",
+          "zh": "她能打这封信吗？"
+        }
+      ]
+    },
+    {
+      "title": "Can 引导的一般疑问句",
+      "definition": "将 can 移到句首构成一般疑问句，用于询问是否能够做某事。",
+      "structure": "Can + 主语 + 动词原形?",
+      "usage": "询问某人是否有能力或许可做某事",
+      "examples": [
+        {
+          "en": "Can you come here a minute?",
+          "zh": "你能过来一下吗？"
+        },
+        {
+          "en": "Can she type this letter for me?",
+          "zh": "她能帮我打这封信吗？"
+        },
+        {
+          "en": "Can you type this letter for the boss?",
+          "zh": "你能帮老板打这封信吗？"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Can you + 动词原形 + ...?",
+      "original": {
+        "en": "Can you come here a minute please, Bob?",
+        "zh": "鲍勃，请你过来一下好吗？"
+      },
+      "imitations": [
+        {
+          "en": "Can you help me with this letter?",
+          "zh": "你能帮我看看这封信吗？"
+        },
+        {
+          "en": "Can you type this for me?",
+          "zh": "你能帮我打这个吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "Can she/he + 动词原形 + ...?",
+      "original": {
+        "en": "Can she type this letter for me?",
+        "zh": "她能帮我打这封信吗？"
+      },
+      "imitations": [
+        {
+          "en": "Can she read this handwriting?",
+          "zh": "她能看懂这个笔迹吗？"
+        },
+        {
+          "en": "Can he help us tomorrow?",
+          "zh": "他明天能帮助我们吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "What's the matter?",
+      "original": {
+        "en": "What's the matter?",
+        "zh": "怎么了？"
+      },
+      "imitations": [
+        {
+          "en": "What's the matter? You look upset.",
+          "zh": "怎么了？你看起来不高兴。"
+        },
+        {
+          "en": "What's the matter with this letter?",
+          "zh": "这封信有什么问题？"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + can't + 动词原形",
+      "original": {
+        "en": "I can't read it!",
+        "zh": "我看不懂！"
+      },
+      "imitations": [
+        {
+          "en": "I can't understand this handwriting.",
+          "zh": "我看不懂这种笔迹。"
+        },
+        {
+          "en": "She can't type this letter.",
+          "zh": "她打不了这封信。"
+        }
+      ]
+    }
+  ]
+}

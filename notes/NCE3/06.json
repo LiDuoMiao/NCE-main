@@ -1,0 +1,367 @@
+{
+  "book": "NCE3",
+  "lesson": "06",
+  "title": "Lesson 6",
+  "vocabulary": [
+    {
+      "word": "smash-and-grab",
+      "phonetic": "/ˌsmæʃ ən ˈɡræb/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "砸橱窗抢劫（指砸碎商店橱窗盗窃商品的行为）",
+          "usage": "复合名词，常用来描述针对商铺的快速抢劫行为"
+        }
+      ]
+    },
+    {
+      "word": "arcade",
+      "phonetic": "/ɑːˈkeɪd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "拱廊；（两侧设有商店的）拱廊街道",
+          "usage": "指有拱顶的通道，两侧通常开设商铺"
+        }
+      ]
+    },
+    {
+      "word": "jewellery",
+      "phonetic": "/ˈdʒuːəlri/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "珠宝；首饰",
+          "usage": "不可数名词，统指各类珠宝首饰，美式英语常写作jewelry"
+        }
+      ]
+    },
+    {
+      "word": "admire",
+      "phonetic": "/ədˈmaɪə(r)/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "欣赏；赞赏；仰慕",
+          "usage": "后面可接名词或代词作宾语，常用搭配admire sb./sth."
+        }
+      ]
+    },
+    {
+      "word": "arrange",
+      "phonetic": "/əˈreɪndʒ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "排列；布置；安排",
+          "usage": "可表示整理物品，也可表示安排活动、行程等"
+        }
+      ]
+    },
+    {
+      "word": "velvet",
+      "phonetic": "/ˈvelvɪt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "天鹅绒；丝绒",
+          "usage": "不可数名词，指质地柔软的丝绒面料"
+        }
+      ]
+    },
+    {
+      "word": "gaze",
+      "phonetic": "/ɡeɪz/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "凝视；注视",
+          "usage": "强调长时间目不转睛地看，常用搭配gaze at sth./sb."
+        }
+      ]
+    },
+    {
+      "word": "blare",
+      "phonetic": "/bleə(r)/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "（喇叭、音乐等）发出响亮而刺耳的声音",
+          "usage": "常用来描述噪音大的声响，主语多为horn、speaker等"
+        }
+      ]
+    },
+    {
+      "word": "roar",
+      "phonetic": "/rɔː(r)/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "（车辆）呼啸而行；（猛兽）吼叫",
+          "usage": "可表示车辆高速行驶发出的轰鸣声，也可表示动物的咆哮"
+        }
+      ]
+    },
+    {
+      "word": "smash",
+      "phonetic": "/smæʃ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "打碎；猛烈撞击",
+          "usage": "指用猛力将物体砸碎，常用搭配smash sth. with sth."
+        }
+      ]
+    },
+    {
+      "word": "raid",
+      "phonetic": "/reɪd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "抢劫；突袭；搜查",
+          "usage": "可指劫匪的抢劫行动，也可指警方的突击搜查"
+        }
+      ]
+    },
+    {
+      "word": "scramble",
+      "phonetic": "/ˈskræmbl/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "迅速爬行；仓促行动",
+          "usage": "强调动作匆忙、慌乱，常用搭配scramble into/out of sth."
+        }
+      ]
+    },
+    {
+      "word": "fantastic",
+      "phonetic": "/fænˈtæstɪk/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "极好的；难以置信的；极大的",
+          "usage": "可形容速度、数量等非常惊人，也可表达对事物的夸赞"
+        }
+      ]
+    },
+    {
+      "word": "ashtray",
+      "phonetic": "/ˈæʃtreɪ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "烟灰缸",
+          "usage": "可数名词，由ash（烟灰）和tray（托盘）复合构成"
+        }
+      ]
+    },
+    {
+      "word": "statue",
+      "phonetic": "/ˈstætʃuː/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "雕像；塑像",
+          "usage": "指人物或动物的雕塑作品"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "come to a stop",
+      "usage": "表示车辆、机器等逐渐停下，强调停止的过程，比stop更具画面感",
+      "examples": [
+        {
+          "en": "The bus came to a stop just in time to avoid hitting the child.",
+          "zh": "公交车及时停了下来，避免撞到那个孩子。"
+        },
+        {
+          "en": "The engine sputtered and finally came to a stop.",
+          "zh": "引擎噼啪响了几声，最终停了下来。"
+        }
+      ]
+    },
+    {
+      "phrase": "help oneself to",
+      "usage": "指擅自取用、偷窃，也可礼貌邀请别人随意取用食物、物品等",
+      "examples": [
+        {
+          "en": "The intruder helped himself to all the cash in the safe.",
+          "zh": "闯入者偷走了保险箱里所有的现金。"
+        },
+        {
+          "en": "Please help yourself to some drinks if you are thirsty.",
+          "zh": "如果你渴了请随便喝点饮料。"
+        }
+      ]
+    },
+    {
+      "phrase": "at a fantastic speed",
+      "usage": "形容速度极快，相当于at an extremely high speed",
+      "examples": [
+        {
+          "en": "The sports car drove past at a fantastic speed.",
+          "zh": "跑车以极快的速度开了过去。"
+        },
+        {
+          "en": "The project is progressing at a fantastic speed.",
+          "zh": "这个项目正以惊人的速度推进。"
+        }
+      ]
+    },
+    {
+      "phrase": "get away with",
+      "usage": "表示偷了某物后成功逃脱，也可表示做了坏事却没有受到惩罚",
+      "examples": [
+        {
+          "en": "The burglars got away with jewellery worth over £100,000.",
+          "zh": "窃贼偷走了价值10万多英镑的珠宝，逃之夭夭。"
+        },
+        {
+          "en": "Don't think you can get away with lying to me.",
+          "zh": "别以为你对我撒谎能蒙混过关。"
+        }
+      ]
+    },
+    {
+      "phrase": "with its headlights on",
+      "usage": "with的独立主格结构，用来描述伴随状态，结构为with + 宾语 + 宾补（形容词/副词/介词短语等）",
+      "examples": [
+        {
+          "en": "He stood in the rain, with his clothes completely wet.",
+          "zh": "他站在雨里，衣服全湿了。"
+        },
+        {
+          "en": "She left the office, with the lights still on.",
+          "zh": "她离开了办公室，灯还亮着。"
+        }
+      ]
+    },
+    {
+      "phrase": "worth of",
+      "usage": "表示“价值……的东西”，结构为“金额/时间 + worth of + 名词”",
+      "examples": [
+        {
+          "en": "The storm caused thousands of pounds worth of damage.",
+          "zh": "风暴造成了价值数千英镑的损失。"
+        },
+        {
+          "en": "I bought two weeks' worth of food before the holiday.",
+          "zh": "放假前我买了够吃两周的食物。"
+        }
+      ]
+    },
+    {
+      "phrase": "stay at the wheel",
+      "usage": "表示留在驾驶座上开车，wheel此处指代汽车的方向盘",
+      "examples": [
+        {
+          "en": "You stay at the wheel while I go into the shop to buy some water.",
+          "zh": "我去商店买水的时候你留在车里开车。"
+        },
+        {
+          "en": "He stayed at the wheel for 6 hours before stopping to rest.",
+          "zh": "他连续开了6小时车才停下来休息。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去完成进行时",
+      "definition": "表示过去某个时间之前一直持续进行的动作，强调动作的持续性和连贯性，动作可能刚结束，也可能还在进行",
+      "structure": "had been + 动词现在分词（doing）",
+      "usage": "常和since+时间点、for+时间段等时间状语连用，描述在过去某个动作发生前已经持续了一段时间的动作",
+      "examples": [
+        {
+          "en": "Two of his assistants had been working busily since 8 o'clock and had only just finished.",
+          "zh": "他的两个助手从8点就一直在忙，刚刚才做完。"
+        },
+        {
+          "en": "I had been waiting for the bus for half an hour when it finally arrived.",
+          "zh": "我已经等了半小时公交车，它才终于来。"
+        },
+        {
+          "en": "He had been studying English for three years before he went abroad.",
+          "zh": "他出国前已经学了三年英语。"
+        }
+      ]
+    },
+    {
+      "title": "while引导的时间状语从句（过去进行时搭配）",
+      "definition": "while表示“当……的时候”，引导时间状语从句时，通常强调主从句的动作在过去同一时间段同时发生",
+      "structure": "While + 从句（过去进行时）, 主句（过去进行时/一般过去时）",
+      "usage": "从句的动作通常是延续性的，主从句动作同时发生时，延续性动作用过去进行时，短暂性动作用一般过去时",
+      "examples": [
+        {
+          "en": "While this was going on, Mr. Taylor was upstairs.",
+          "zh": "当这一切发生的时候，泰勒先生在楼上。"
+        },
+        {
+          "en": "While I was cooking dinner, my husband was watching TV.",
+          "zh": "我做晚饭的时候，我丈夫在看电视。"
+        },
+        {
+          "en": "While we were walking in the park, it began to rain.",
+          "zh": "我们在公园散步的时候，开始下雨了。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "The silence was suddenly broken when + 事件",
+      "original": {
+        "en": "The silence was suddenly broken when a large car, with its headlights on and its horn blaring, roared down the arcade.",
+        "zh": "宁静突然被打破，一辆大轿车亮着前灯，响着喇叭，呼啸着冲进了拱廊街。"
+      },
+      "imitations": [
+        {
+          "en": "The silence was suddenly broken when a fire alarm went off in the building.",
+          "zh": "大楼里的火警突然响起，打破了宁静。"
+        },
+        {
+          "en": "The silence was suddenly broken when a child started crying loudly in the library.",
+          "zh": "一个孩子在图书馆里大声哭了起来，宁静突然被打破。"
+        }
+      ]
+    },
+    {
+      "pattern": "Just as + 某事正在发生, 主语 + 动作",
+      "original": {
+        "en": "Just as it was leaving, Mr.Taylor rushed out and ran after it throwing ashtrays and vases.",
+        "zh": "就在轿车离开的时候，泰勒先生冲了出来，跟在后面追赶，一边扔烟灰缸和花瓶。"
+      },
+      "imitations": [
+        {
+          "en": "Just as the train was leaving, she arrived at the station out of breath.",
+          "zh": "就在火车要开的时候，她气喘吁吁地赶到了车站。"
+        },
+        {
+          "en": "Just as I was taking a photo of the sunset, my phone died.",
+          "zh": "就在我要拍日落的时候，我的手机没电了。"
+        }
+      ]
+    },
+    {
+      "pattern": "..., for + 解释原因的句子",
+      "original": {
+        "en": "The raid was all over in three minutes, for the men scrambled back into the car and it moved off at a fantastic speed.",
+        "zh": "抢劫行动总共只用了3分钟，因为那些人争先恐后地爬回车里，然后以极快的速度开走了。"
+      },
+      "imitations": [
+        {
+          "en": "We decided to cancel the picnic, for the weather forecast said it would rain heavily.",
+          "zh": "我们决定取消野餐，因为天气预报说会下大雨。"
+        },
+        {
+          "en": "He didn't attend the meeting, for he had caught a bad cold the day before.",
+          "zh": "他没有参加会议，因为前一天他得了重感冒。"
+        }
+      ]
+    }
+  ]
+}

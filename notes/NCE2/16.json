@@ -1,0 +1,394 @@
+{
+  "book": "NCE2",
+  "lesson": "16",
+  "title": "What was the polite request?",
+  "vocabulary": [
+    {
+      "word": "traffic",
+      "phonetic": "/ˈtræfɪk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "交通；往来车辆",
+          "usage": "指道路上的车辆和行人流动"
+        }
+      ]
+    },
+    {
+      "word": "policeman",
+      "phonetic": "/pəˈliːsmən/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "警察",
+          "usage": "指男性执法人员的统称"
+        }
+      ]
+    },
+    {
+      "word": "ticket",
+      "phonetic": "/ˈtɪkɪt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "罚单；票",
+          "usage": "在交通语境中指违章罚款通知单"
+        }
+      ]
+    },
+    {
+      "word": "parking",
+      "phonetic": "/ˈpɑːkɪŋ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "停车；停车位",
+          "usage": "指车辆停放的行为或地点"
+        }
+      ]
+    },
+    {
+      "word": "polite",
+      "phonetic": "/pəˈlaɪt/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "有礼貌的；客气的",
+          "usage": "形容人的行为或言语友好且得体"
+        }
+      ]
+    },
+    {
+      "word": "welcome",
+      "phonetic": "/ˈwelkəm/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "欢迎",
+          "usage": "表示对来访者的友好接待"
+        }
+      ]
+    },
+    {
+      "word": "attention",
+      "phonetic": "/əˈtenʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "注意；关注",
+          "usage": "常与pay搭配使用"
+        }
+      ]
+    },
+    {
+      "word": "reminder",
+      "phonetic": "/rɪˈmaɪndə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "提醒；提示",
+          "usage": "指帮助记忆或提醒某人注意某事的东西"
+        }
+      ]
+    },
+    {
+      "word": "obey",
+      "phonetic": "/əˈbeɪ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "服从；遵守",
+          "usage": "指遵守规则、法律或命令"
+        }
+      ]
+    },
+    {
+      "word": "lucky",
+      "phonetic": "/ˈlʌki/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "幸运的",
+          "usage": "形容有好运气的情况"
+        }
+      ]
+    },
+    {
+      "word": "area",
+      "phonetic": "/ˈeəriə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "区域；地区",
+          "usage": "指某一特定范围的地方"
+        }
+      ]
+    },
+    {
+      "word": "enjoy",
+      "phonetic": "/ɪnˈdʒɔɪ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "享受；喜爱",
+          "usage": "指从某事物中获得快乐"
+        }
+      ]
+    },
+    {
+      "word": "holiday",
+      "phonetic": "/ˈhɒlədeɪ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "假期；假日",
+          "usage": "指法定节假日或度假时间"
+        }
+      ]
+    },
+    {
+      "word": "fail",
+      "phonetic": "/feɪl/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "未能做到",
+          "usage": "与cannot连用表示不可能不做到"
+        }
+      ]
+    },
+    {
+      "word": "street",
+      "phonetic": "/striːt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "街道",
+          "usage": "指城镇中的道路"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "park your car",
+      "usage": "表示停放车辆",
+      "examples": [
+        {
+          "en": "If you park your car in the wrong place, a traffic policeman will find it.",
+          "zh": "如果你把车停错地方，交通警察会找到它。"
+        }
+      ]
+    },
+    {
+      "phrase": "let you go",
+      "usage": "表示让某人离开，文中指不罚款",
+      "examples": [
+        {
+          "en": "You will be very lucky if he lets you go without a ticket.",
+          "zh": "如果他不给你开罚单就放你走，那你就太幸运了。"
+        }
+      ]
+    },
+    {
+      "phrase": "pay attention to",
+      "usage": "表示注意、关注",
+      "examples": [
+        {
+          "en": "You will enjoy your stay here if you pay attention to our street signs.",
+          "zh": "如果你注意我们的街道标志，你会很享受这里的停留。"
+        }
+      ]
+    },
+    {
+      "phrase": "enjoy your stay",
+      "usage": "表示祝某人停留愉快，常用于服务业",
+      "examples": [
+        {
+          "en": "We hope you will enjoy your stay in our hotel.",
+          "zh": "我们希望您在我们酒店过得愉快。"
+        }
+      ]
+    },
+    {
+      "phrase": "cannot fail to do",
+      "usage": "双重否定表示必定、不得不",
+      "examples": [
+        {
+          "en": "If you receive a request like this, you cannot fail to obey it!",
+          "zh": "如果你收到这样的请求，你一定会遵守！"
+        }
+      ]
+    },
+    {
+      "phrase": "a No Parking area",
+      "usage": "表示禁止停车的区域",
+      "examples": [
+        {
+          "en": "This is a No Parking area.",
+          "zh": "这是禁止停车区域。"
+        }
+      ]
+    },
+    {
+      "phrase": "find a note on",
+      "usage": "表示在某物上发现一张纸条",
+      "examples": [
+        {
+          "en": "I found this note on my car during a holiday in Sweden.",
+          "zh": "在瑞典度假期间，我在我的车上发现了这张纸条。"
+        }
+      ]
+    },
+    {
+      "phrase": "a reminder",
+      "usage": "表示提醒、提示",
+      "examples": [
+        {
+          "en": "This note is only a reminder.",
+          "zh": "这张纸条只是一个提醒。"
+        }
+      ]
+    },
+    {
+      "phrase": "during a holiday",
+      "usage": "表示在度假期间",
+      "examples": [
+        {
+          "en": "During a holiday in Sweden, I found this note.",
+          "zh": "在瑞典度假期间，我发现了这张纸条。"
+        }
+      ]
+    },
+    {
+      "phrase": "welcome someone to",
+      "usage": "表示欢迎某人到某地",
+      "examples": [
+        {
+          "en": "We welcome you to our city.",
+          "zh": "欢迎来到我们的城市。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "真实条件句 (First Conditional)",
+      "definition": "表示可能发生的真实情况，条件从句用一般现在时，主句用will + 动词原形",
+      "structure": "If + 主语 + 动词原形, 主语 + will + 动词原形",
+      "usage": "用于讨论可能发生的真实情况，特别是将来可能发生的事情",
+      "examples": [
+        {
+          "en": "If you park your car in the wrong place, a traffic policeman will soon find it.",
+          "zh": "如果你把车停错地方，交通警察很快就会找到它。"
+        },
+        {
+          "en": "You will be very lucky if he lets you go without a ticket.",
+          "zh": "如果他不给你开罚单就放你走，那你就太幸运了。"
+        },
+        {
+          "en": "You will enjoy your stay here if you pay attention to our street signs.",
+          "zh": "如果你注意我们的街道标志，你会很享受这里的停留。"
+        }
+      ]
+    },
+    {
+      "title": "cannot fail to (双重否定)",
+      "definition": "cannot + fail to + 动词原形表示双重否定，强调必定会做某事",
+      "structure": "主语 + cannot fail to + 动词原形",
+      "usage": "用于强调某事是必然的，不可能不发生，语气强烈",
+      "examples": [
+        {
+          "en": "If you receive a request like this, you cannot fail to obey it!",
+          "zh": "如果你收到这样的请求，你一定会遵守！"
+        }
+      ]
+    },
+    {
+      "title": "must与have to的区别",
+      "definition": "must表示主观认为必须，have to表示客观要求必须；mustn't表示禁止，don't have to表示不必",
+      "structure": "must/have to + 动词原形",
+      "usage": "must多指说话人的主观看法，have to多指外部环境的客观要求",
+      "examples": [
+        {
+          "en": "You must pay attention to the traffic rules.",
+          "zh": "你必须注意交通规则。"
+        },
+        {
+          "en": "You don't have to buy a ticket if you are a student.",
+          "zh": "如果你是学生，你不必买票。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "If + 一般现在时, will + 动词原形",
+      "original": {
+        "en": "If you park your car in the wrong place, a traffic policeman will soon find it.",
+        "zh": "如果你把车停错地方，交通警察很快就会找到它。"
+      },
+      "imitations": [
+        {
+          "en": "If you study hard, you will pass the exam.",
+          "zh": "如果你努力学习，你就会通过考试。"
+        },
+        {
+          "en": "If it rains tomorrow, I will stay at home.",
+          "zh": "如果明天下雨，我就待在家里。"
+        }
+      ]
+    },
+    {
+      "pattern": "You will be + 形容词 + if...",
+      "original": {
+        "en": "You will be very lucky if he lets you go without a ticket.",
+        "zh": "如果他不给你开罚单就放你走，那你就太幸运了。"
+      },
+      "imitations": [
+        {
+          "en": "You will be happy if you get the job.",
+          "zh": "如果你得到那份工作，你就会很开心。"
+        },
+        {
+          "en": "You will be surprised if you see the view.",
+          "zh": "如果你看到那个景色，你会很惊讶。"
+        }
+      ]
+    },
+    {
+      "pattern": "This is a + 名词",
+      "original": {
+        "en": "This is a No Parking area.",
+        "zh": "这是禁止停车区域。"
+      },
+      "imitations": [
+        {
+          "en": "This is a No Smoking area.",
+          "zh": "这是禁烟区域。"
+        },
+        {
+          "en": "This is a waiting area.",
+          "zh": "这是等候区域。"
+        }
+      ]
+    },
+    {
+      "pattern": "cannot fail to + 动词原形",
+      "original": {
+        "en": "You cannot fail to obey it!",
+        "zh": "你一定会遵守它！"
+      },
+      "imitations": [
+        {
+          "en": "You cannot fail to understand it.",
+          "zh": "你一定会理解它的。"
+        },
+        {
+          "en": "You cannot fail to enjoy this movie.",
+          "zh": "你一定会喜欢这部电影。"
+        }
+      ]
+    }
+  ]
+}

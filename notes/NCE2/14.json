@@ -1,0 +1,392 @@
+{
+  "book": "NCE2",
+  "lesson": "14",
+  "title": "Did the young man speak English?",
+  "vocabulary": [
+    {
+      "word": "amusing",
+      "phonetic": "/əˈmjuːzɪŋ/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "有趣的；好笑的",
+          "usage": "形容事物或经历让人感到有趣或好笑"
+        }
+      ]
+    },
+    {
+      "word": "experience",
+      "phonetic": "/ɪkˈspɪəriəns/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "经历；经验",
+          "usage": "指个人亲身经历过的事情"
+        }
+      ]
+    },
+    {
+      "word": "village",
+      "phonetic": "/ˈvɪlɪdʒ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "村庄；乡村",
+          "usage": "指比城镇小的居民点"
+        }
+      ]
+    },
+    {
+      "word": "south",
+      "phonetic": "/saʊθ/",
+      "meanings": [
+        {
+          "pos": "noun/adjective",
+          "meaning": "南方；南部的",
+          "usage": "表示方向或地区"
+        }
+      ]
+    },
+    {
+      "word": "wave",
+      "phonetic": "/weɪv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "挥手；招手",
+          "usage": "指向人挥手示意"
+        }
+      ]
+    },
+    {
+      "word": "lift",
+      "phonetic": "/lɪft/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "搭便车；电梯",
+          "usage": "在英国英语中指出于好心让人免费搭车"
+        }
+      ]
+    },
+    {
+      "word": "apart from",
+      "phonetic": "/əˈpɑːt frɒm/",
+      "meanings": [
+        {
+          "pos": "phrase",
+          "meaning": "除了...之外",
+          "usage": "相当于except for，表示不包括在内"
+        }
+      ]
+    },
+    {
+      "word": "during",
+      "phonetic": "/ˈdjʊərɪŋ/",
+      "meanings": [
+        {
+          "pos": "preposition",
+          "meaning": "在...期间",
+          "usage": "表示在某段时间内发生"
+        }
+      ]
+    },
+    {
+      "word": "journey",
+      "phonetic": "/ˈdʒɜːni/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "旅程；旅途",
+          "usage": "指从一地到另一地的旅行过程"
+        }
+      ]
+    },
+    {
+      "word": "nearly",
+      "phonetic": "/ˈnɪəli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "几乎；差不多",
+          "usage": "表示接近某个程度或时间"
+        }
+      ]
+    },
+    {
+      "word": "suddenly",
+      "phonetic": "/ˈsʌdənli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "突然地；出乎意料地",
+          "usage": "描述事情发生得很快且出乎意料"
+        }
+      ]
+    },
+    {
+      "word": "reply",
+      "phonetic": "/rɪˈplaɪ/",
+      "meanings": [
+        {
+          "pos": "verb/noun",
+          "meaning": "回答；回复",
+          "usage": "指对问题或话语作出回应"
+        }
+      ]
+    },
+    {
+      "word": "myself",
+      "phonetic": "/maɪˈself/",
+      "meanings": [
+        {
+          "pos": "pronoun",
+          "meaning": "我自己",
+          "usage": "反身代词，表示动作作用于说话者自己"
+        }
+      ]
+    },
+    {
+      "word": "himself",
+      "phonetic": "/hɪmˈself/",
+      "meanings": [
+        {
+          "pos": "pronoun",
+          "meaning": "他自己",
+          "usage": "反身代词，指代前述的男性"
+        }
+      ]
+    },
+    {
+      "word": "neither",
+      "phonetic": "/ˈnaɪðə/",
+      "meanings": [
+        {
+          "pos": "pronoun/adverb",
+          "meaning": "两者都不；也不",
+          "usage": "表示两者都不，后接of或单数动词"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "ask for a lift",
+      "usage": "请求搭便车，指请求别人让你免费乘车",
+      "examples": [
+        {
+          "en": "A young man waved to me and asked me for a lift.",
+          "zh": "一个年轻人向我挥手，请求搭便车。"
+        }
+      ]
+    },
+    {
+      "phrase": "as soon as",
+      "usage": "一...就...，表示两件事紧接着发生",
+      "examples": [
+        {
+          "en": "As soon as he had got into the car, I said good morning to him.",
+          "zh": "他一上车，我就用法语向他问好。"
+        }
+      ]
+    },
+    {
+      "phrase": "apart from",
+      "usage": "除了...之外，相当于except for",
+      "examples": [
+        {
+          "en": "Apart from a few words, I do not know any French at all.",
+          "zh": "除了几个词，我根本不会法语。"
+        }
+      ]
+    },
+    {
+      "phrase": "wave to someone",
+      "usage": "向某人挥手，表示招呼或告别",
+      "examples": [
+        {
+          "en": "On the way, a young man waved to me.",
+          "zh": "在路上，一个年轻人向我挥手。"
+        }
+      ]
+    },
+    {
+      "phrase": "drove on to",
+      "usage": "继续驾车前往，后接目的地",
+      "examples": [
+        {
+          "en": "I drove on to the next town.",
+          "zh": "我继续驾车前往下一个城镇。"
+        }
+      ]
+    },
+    {
+      "phrase": "neither of us",
+      "usage": "我们两人都没有，表示两者否定",
+      "examples": [
+        {
+          "en": "Neither of us spoke during the journey.",
+          "zh": "旅途中我们两人都没说话。"
+        }
+      ]
+    },
+    {
+      "phrase": "in the south of",
+      "usage": "在...的南部，表示地理位置",
+      "examples": [
+        {
+          "en": "I left a small village in the south of France.",
+          "zh": "我离开了法国南部的一个小村庄。"
+        }
+      ]
+    },
+    {
+      "phrase": "learnt (learn)",
+      "usage": "得知；学会，指通过经历获得信息或技能",
+      "examples": [
+        {
+          "en": "As I soon learnt, he was English himself!",
+          "zh": "我很快得知，他自己就是英国人！"
+        }
+      ]
+    },
+    {
+      "phrase": "had nearly reached",
+      "usage": "几乎到达，表示接近目的地",
+      "examples": [
+        {
+          "en": "I had nearly reached the town when the young man suddenly spoke.",
+          "zh": "我几乎到达城镇时，年轻人突然开口说话。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去完成时 (Past Perfect Tense)",
+      "definition": "过去完成时表示在过去某个时间点之前已经完成的动作。它由'had + 过去分词'构成，常与after, as soon as, before等连词连用。",
+      "structure": "Subject + had + past participle",
+      "usage": "用于描述过去某事件之前已经发生的动作，强调'过去的过去'。在时间或条件状语从句中，当主句用过去将来时时，从句用过去完成时。",
+      "examples": [
+        {
+          "en": "After I had left a small village, I drove on to the next town.",
+          "zh": "我离开法国南部的一个小村庄后，继续驾车前往下一个城镇。"
+        },
+        {
+          "en": "As soon as he had got into the car, I said good morning to him in French.",
+          "zh": "他一上车，我就用法语向他问好。"
+        },
+        {
+          "en": "I had nearly reached the town when the young man suddenly spoke.",
+          "zh": "我几乎到达城镇时，年轻人突然开口说话。"
+        }
+      ]
+    },
+    {
+      "title": "过去进行时与一般过去时连用 (Past Continuous with Past Simple)",
+      "definition": "过去进行时表示过去正在进行的动作，当它与一般过去时连用时，通常用when或while连接，表示一个动作正在进行时，另一个动作突然发生。",
+      "structure": "主句(过去进行时) + when + 从句(一般过去时) / 主句(一般过去时) + when + 从句(过去进行时)",
+      "usage": "when引导的并列句中，when可以表示'就在那时'，引出出人意料的事件。",
+      "examples": [
+        {
+          "en": "I was walking down the street when it started to rain.",
+          "zh": "我正在街上走，突然开始下雨了。"
+        },
+        {
+          "en": "The young man suddenly said something when I was driving.",
+          "zh": "当我开车时，年轻人突然说了些什么。"
+        }
+      ]
+    },
+    {
+      "title": "neither的用法 (Use of 'Neither')",
+      "definition": "neither表示'两者都不'，后可接of + 复数名词/代词，谓语动词通常用单数形式。neither...nor...表示'既不...也不...'。",
+      "structure": "Neither of + 复数名词/代词 + 动词(单数) / Neither + 单数名词 + nor + 单数名词",
+      "usage": "用于否定两者，表示两个人或事物都不具有某种特性或行为。",
+      "examples": [
+        {
+          "en": "Neither of us spoke during the journey.",
+          "zh": "旅途中我们两人都没说话。"
+        },
+        {
+          "en": "Neither Tom nor Jerry was at home.",
+          "zh": "汤姆和杰瑞都不在家。"
+        },
+        {
+          "en": "I don't know either of them. / Neither of them knows me.",
+          "zh": "他们两个我都不认识。/ 他们两个都不认识我。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "As soon as + 过去完成时, 主语 + 一般过去时",
+      "original": {
+        "en": "As soon as he had got into the car, I said good morning to him.",
+        "zh": "他一上车，我就向他问好。"
+      },
+      "imitations": [
+        {
+          "en": "As soon as I had finished dinner, I went out for a walk.",
+          "zh": "我一吃完晚饭就出去散步了。"
+        },
+        {
+          "en": "As soon as she had read the letter, she burst into tears.",
+          "zh": "她一读完信就哭了起来。"
+        }
+      ]
+    },
+    {
+      "pattern": "After + 过去完成时, 主语 + 一般过去时",
+      "original": {
+        "en": "After I had left a small village, I drove on to the next town.",
+        "zh": "我离开小村庄后，继续驾车前往下一个城镇。"
+      },
+      "imitations": [
+        {
+          "en": "After I had finished my homework, I watched TV.",
+          "zh": "我完成作业后看了电视。"
+        },
+        {
+          "en": "After he had left the office, he went to the airport.",
+          "zh": "他离开办公室后去了机场。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + had + nearly/really + 过去分词 + when + 主语 + 一般过去时",
+      "original": {
+        "en": "I had nearly reached the town when the young man suddenly said something.",
+        "zh": "我几乎到达城镇时，年轻人突然说了些什么。"
+      },
+      "imitations": [
+        {
+          "en": "I had nearly finished my work when the phone rang.",
+          "zh": "我几乎完成工作时，电话响了。"
+        },
+        {
+          "en": "He had just closed his eyes when someone knocked at the door.",
+          "zh": "他刚闭上眼睛，就有人敲门了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Neither of us/you/them + 动词(单数) + 过去时/进行时",
+      "original": {
+        "en": "Neither of us spoke during the journey.",
+        "zh": "旅途中我们两人都没说话。"
+      },
+      "imitations": [
+        {
+          "en": "Neither of them knew the answer.",
+          "zh": "他们两个都不知道答案。"
+        },
+        {
+          "en": "Neither of the children was interested in the movie.",
+          "zh": "两个孩子都对这部电影不感兴趣。"
+        }
+      ]
+    }
+  ]
+}

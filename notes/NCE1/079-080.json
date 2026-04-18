@@ -1,0 +1,378 @@
+{
+  "book": "NCE1",
+  "lesson": "079-080",
+  "title": "Lesson 79",
+  "vocabulary": [
+    {
+      "word": "shopping list",
+      "phonetic": "/ˈʃɒpɪŋ lɪst/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "购物清单",
+          "usage": "指列出需要购买的物品的单子"
+        }
+      ]
+    },
+    {
+      "word": "grocer's",
+      "phonetic": "/ˈɡrəʊsəz/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "杂货店；食品店",
+          "usage": "指卖食品和日常用品的商店，复数形式grocers"
+        }
+      ]
+    },
+    {
+      "word": "greengrocer's",
+      "phonetic": "/ˈɡriːnɡrəʊsəz/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "蔬菜水果店",
+          "usage": "指专门卖新鲜蔬菜和水果的商店"
+        }
+      ]
+    },
+    {
+      "word": "butcher's",
+      "phonetic": "/ˈbʊtʃəz/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "肉店；屠夫店",
+          "usage": "指专门卖肉的商店"
+        }
+      ]
+    },
+    {
+      "word": "sugar",
+      "phonetic": "/ˈʃʊɡə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "糖",
+          "usage": "不可数名词，指食用的糖"
+        }
+      ]
+    },
+    {
+      "word": "jam",
+      "phonetic": "/dʒæm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "果酱",
+          "usage": "不可数名词，指涂抹在面包上的果酱"
+        }
+      ]
+    },
+    {
+      "word": "vegetable",
+      "phonetic": "/ˈvedʒtəbl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "蔬菜",
+          "usage": "可数名词，也可以用作复数vegetables"
+        }
+      ]
+    },
+    {
+      "word": "tomato",
+      "phonetic": "/təˈmɑːtəʊ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "番茄；西红柿",
+          "usage": "复数为tomatoes，是可数名词"
+        }
+      ]
+    },
+    {
+      "word": "potato",
+      "phonetic": "/pəˈteɪtəʊ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "土豆；马铃薯",
+          "usage": "复数为potatoes，是可数名词"
+        }
+      ]
+    },
+    {
+      "word": "meat",
+      "phonetic": "/miːt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "肉",
+          "usage": "不可数名词，指食用的各类肉"
+        }
+      ]
+    },
+    {
+      "word": "beer",
+      "phonetic": "/bɪə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "啤酒",
+          "usage": "不可数名词"
+        }
+      ]
+    },
+    {
+      "word": "wine",
+      "phonetic": "/waɪn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "葡萄酒；酒",
+          "usage": "不可数名词，也可指一般的酒类"
+        }
+      ]
+    },
+    {
+      "word": "money",
+      "phonetic": "/ˈmʌni/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "钱；金钱",
+          "usage": "不可数名词"
+        }
+      ]
+    },
+    {
+      "word": "need",
+      "phonetic": "/niːd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "需要；必须",
+          "usage": "表示必要或缺少某物"
+        }
+      ]
+    },
+    {
+      "word": "a lot of",
+      "phonetic": "/ə lɒt əv/",
+      "meanings": [
+        {
+          "pos": "phrase",
+          "meaning": "许多；大量",
+          "usage": "可修饰可数名词复数和不可数名词"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "go to the grocer's",
+      "usage": "去杂货店买东西",
+      "examples": [
+        {
+          "en": "I must go to the grocer's to buy some tea.",
+          "zh": "我必须去杂货店买些茶叶。"
+        }
+      ]
+    },
+    {
+      "phrase": "make a shopping list",
+      "usage": "列购物清单",
+      "examples": [
+        {
+          "en": "I'm making a shopping list, Tom.",
+          "zh": "我正在列购物清单，汤姆。"
+        }
+      ]
+    },
+    {
+      "phrase": "have got / haven't got",
+      "usage": "相当于have/has，表示拥有（英式英语常用）",
+      "examples": [
+        {
+          "en": "We haven't got much tea or coffee.",
+          "zh": "我们的茶叶和咖啡不多了。"
+        }
+      ]
+    },
+    {
+      "phrase": "What about...?",
+      "usage": "询问关于某事物的意见或情况",
+      "examples": [
+        {
+          "en": "What about vegetables?",
+          "zh": "蔬菜怎么样？"
+        }
+      ]
+    },
+    {
+      "phrase": "not...at all",
+      "usage": "表示完全否定",
+      "examples": [
+        {
+          "en": "We haven't got any meat at all.",
+          "zh": "我们一点肉都没有了。"
+        }
+      ]
+    },
+    {
+      "phrase": "a lot of things",
+      "usage": "很多东西",
+      "examples": [
+        {
+          "en": "We need a lot of things this week.",
+          "zh": "这周我们需要很多东西。"
+        }
+      ]
+    },
+    {
+      "phrase": "How much...?",
+      "usage": "询问数量（用于不可数名词）",
+      "examples": [
+        {
+          "en": "How much money have you got?",
+          "zh": "你有多少钱？"
+        }
+      ]
+    },
+    {
+      "phrase": "I'm not going to get any",
+      "usage": "表示将来不打算做某事",
+      "examples": [
+        {
+          "en": "And I'm not going to get any!",
+          "zh": "而且我不打算买！"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Have got / Has got 表示拥有",
+      "definition": "在英式英语中，have got 相当于 have，用来表示拥有或具备某种状态。否定式在 have 后加 not，疑问式将 have/have got 提前。",
+      "structure": "主语 + have/has + got + 名词\n否定：主语 + haven't/hasn't + got + 名词\n疑问：Have/Has + 主语 + got + 名词？",
+      "usage": "用于描述某人拥有某物或在某处有某物。has got 用于第三人称单数（he/she/it）。",
+      "examples": [
+        {
+          "en": "We haven't got much tea or coffee.",
+          "zh": "我们的茶叶和咖啡不多了。"
+        },
+        {
+          "en": "We haven't got any meat at all.",
+          "zh": "我们一点肉都没有了。"
+        },
+        {
+          "en": "Have we got any beer and wine?",
+          "zh": "我们有啤酒和葡萄酒吗？"
+        }
+      ]
+    },
+    {
+      "title": "Some 和 Any 的用法",
+      "definition": "some 和 any 都表示“一些”，some 用于肯定句，any 用于否定句和疑问句。",
+      "structure": "some + 可数名词复数/不可数名词\nany + 可数名词复数/不可数名词",
+      "usage": "some 通常用于肯定句，any 用于否定句和疑问句。但在表示请求或希望得到肯定回答的疑问句中，也可用 some。",
+      "examples": [
+        {
+          "en": "We need some meat.",
+          "zh": "我们需要一些肉。"
+        },
+        {
+          "en": "We haven't got any sugar or jam.",
+          "zh": "我们没有糖和果酱了。"
+        }
+      ]
+    },
+    {
+      "title": "Much 和 Many 的用法",
+      "definition": "much 用于修饰不可数名词，表示“许多”；many 用于修饰可数名词复数，表示“许多”。",
+      "structure": "much + 不可数名词\nmany + 可数名词复数",
+      "usage": "much 和 many 通常用于否定句和疑问句，在肯定句中更常用 a lot of。",
+      "examples": [
+        {
+          "en": "We haven't got much tea or coffee.",
+          "zh": "我们的茶叶和咖啡不多了。"
+        },
+        {
+          "en": "We haven't got many tomatoes.",
+          "zh": "我们的西红柿不多了。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Have we got any + 名词？",
+      "original": {
+        "en": "Have we got any beer and wine?",
+        "zh": "我们有啤酒和葡萄酒吗？"
+      },
+      "imitations": [
+        {
+          "en": "Have we got any milk?",
+          "zh": "我们有牛奶吗？"
+        },
+        {
+          "en": "Have we got any eggs?",
+          "zh": "我们有鸡蛋吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + haven't/hasn't got any + 名词",
+      "original": {
+        "en": "We haven't got any meat at all.",
+        "zh": "我们一点肉都没有了。"
+      },
+      "imitations": [
+        {
+          "en": "We haven't got any bread.",
+          "zh": "我们没有面包了。"
+        },
+        {
+          "en": "She hasn't got any friends here.",
+          "zh": "她在这里没有朋友。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + need(s) + 宾语",
+      "original": {
+        "en": "We need some meat.",
+        "zh": "我们需要一些肉。"
+      },
+      "imitations": [
+        {
+          "en": "I need a new jacket.",
+          "zh": "我需要一件新夹克。"
+        },
+        {
+          "en": "She needs more time.",
+          "zh": "她需要更多时间。"
+        }
+      ]
+    },
+    {
+      "pattern": "What about + 名词/动名词？",
+      "original": {
+        "en": "What about vegetables?",
+        "zh": "蔬菜怎么样？"
+      },
+      "imitations": [
+        {
+          "en": "What about going to the park?",
+          "zh": "去公园怎么样？"
+        },
+        {
+          "en": "What about some coffee?",
+          "zh": "来点咖啡怎么样？"
+        }
+      ]
+    }
+  ]
+}

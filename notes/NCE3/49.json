@@ -1,0 +1,394 @@
+{
+  "book": "NCE3",
+  "lesson": "49",
+  "title": "Lesson 49",
+  "vocabulary": [
+    {
+      "word": "servant",
+      "phonetic": "/ˈsɜːvənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "仆人，佣人",
+          "usage": "指为他人做家务或服务的人"
+        }
+      ]
+    },
+    {
+      "word": "leisurely",
+      "phonetic": "/ˈleʒəli/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "悠闲的，从容的",
+          "usage": "形容动作或生活节奏缓慢、不紧不慢"
+        }
+      ]
+    },
+    {
+      "word": "rambling",
+      "phonetic": "/ˈræmblɪŋ/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "蔓延的，布局凌乱的",
+          "usage": "形容房屋或建筑结构不规整，延伸很长"
+        }
+      ]
+    },
+    {
+      "word": "immaculate",
+      "phonetic": "/ɪˈmækjʊlət/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "整洁的，一尘不染的",
+          "usage": "形容非常干净，没有污点或灰尘"
+        }
+      ]
+    },
+    {
+      "word": "preside",
+      "phonetic": "/prɪˈzaɪd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "主持，负责",
+          "usage": "常与over连用，表示管理或主持某事"
+        }
+      ]
+    },
+    {
+      "word": "fickleness",
+      "phonetic": "/ˈfɪkəlnəs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "善变，变幻无常",
+          "usage": "指人的性格或行为不稳定、容易改变"
+        }
+      ]
+    },
+    {
+      "word": "industriousness",
+      "phonetic": "/ɪnˈdʌstriəsnəs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "勤奋，勤勉",
+          "usage": "指工作努力、勤奋的程度"
+        }
+      ]
+    },
+    {
+      "word": "efficiency",
+      "phonetic": "/ɪˈfɪʃənsi/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "效率，效能",
+          "usage": "指做事的效率或能力"
+        }
+      ]
+    },
+    {
+      "word": "unexpectedly",
+      "phonetic": "/ˌʌnɪkˈspektɪdli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "意外地，出乎意料地",
+          "usage": "修饰动词，表示事情发生得让人意外"
+        }
+      ]
+    },
+    {
+      "word": "mirth",
+      "phonetic": "/mɜːθ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "欢乐，欢笑",
+          "usage": "正式用语，指欢笑和快乐的情绪"
+        }
+      ]
+    },
+    {
+      "word": "reluctantly",
+      "phonetic": "/rɪˈlʌktəntli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "不情愿地，勉强地",
+          "usage": "表示虽然做某事但内心不愿意"
+        }
+      ]
+    },
+    {
+      "word": "catastrophe",
+      "phonetic": "/kəˈtæstrəfi/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "大灾难，惨败",
+          "usage": "指严重的事件或失败"
+        }
+      ]
+    },
+    {
+      "word": "disillusioned",
+      "phonetic": "/ˌdɪsɪˈluːʒənd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "醒悟的，幻想破灭的",
+          "usage": "指对某人或某事失去幻想"
+        }
+      ]
+    },
+    {
+      "word": "lavishly",
+      "phonetic": "/ˈlævɪʃli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "奢侈地，豪华地",
+          "usage": "形容花费大量金钱或物品"
+        }
+      ]
+    },
+    {
+      "word": "stacked",
+      "phonetic": "/stækt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "堆放，堆积",
+          "usage": "stack的过去式，指整齐地堆起"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "air her views",
+      "usage": "发表意见，阐述观点",
+      "examples": [
+        {
+          "en": "She would not be able to air her views on her favourite topic.",
+          "zh": "她将无法就她最喜欢的话题发表意见。"
+        }
+      ]
+    },
+    {
+      "phrase": "be sentimentally attached to",
+      "usage": "在感情上依恋，眷恋",
+      "examples": [
+        {
+          "en": "She was sentimentally attached to this house.",
+          "zh": "她对这座房子怀有深厚的感情。"
+        }
+      ]
+    },
+    {
+      "phrase": "refer to...as",
+      "usage": "把...称为，把...叫做",
+      "examples": [
+        {
+          "en": "She always referred to them as 'the shifting population'.",
+          "zh": "她总称他们为'流动的人口'。"
+        }
+      ]
+    },
+    {
+      "phrase": "come and went",
+      "usage": "来来去去，出入不定",
+      "examples": [
+        {
+          "en": "They came and went with such frequency.",
+          "zh": "他们来来去去非常频繁。"
+        }
+      ]
+    },
+    {
+      "phrase": "to the end of her days",
+      "usage": "至死，一辈子",
+      "examples": [
+        {
+          "en": "She carried on an unrelenting search to the end of her days.",
+          "zh": "她至死都在不懈地寻找理想的仆人。"
+        }
+      ]
+    },
+    {
+      "phrase": "put in charge of",
+      "usage": "让...负责管理",
+      "examples": [
+        {
+          "en": "She was put in charge of the domestic staff.",
+          "zh": "她被安排负责管理家务人员。"
+        }
+      ]
+    },
+    {
+      "phrase": "not only...but (also)",
+      "usage": "不仅...而且...",
+      "examples": [
+        {
+          "en": "Not only was the meal well below the usual standard, but Bessie seemed unable to walk steadily.",
+          "zh": "不仅饭菜远不如平时，而且贝齐看起来连路都走不稳。"
+        }
+      ]
+    },
+    {
+      "phrase": "narrowly miss",
+      "usage": "险些击中，差点碰到",
+      "examples": [
+        {
+          "en": "The pudding narrowly missed my aunt.",
+          "zh": "布丁险些砸到我的姑妈。"
+        }
+      ]
+    },
+    {
+      "phrase": "come to the conclusion",
+      "usage": "得出结论",
+      "examples": [
+        {
+          "en": "Aunt Harriet was reluctantly came to the conclusion that Bessie was drunk.",
+          "zh": "姑妈哈丽雅特不得不得出结论：贝齐喝醉了。"
+        }
+      ]
+    },
+    {
+      "phrase": "had a difficult time doing",
+      "usage": "做...很费劲/困难",
+      "examples": [
+        {
+          "en": "The guests had a difficult time trying to conceal their amusement.",
+          "zh": "客人们费了好大劲才忍住没笑出来。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "虚拟语气 (Subjunctive Mood) - 与现在事实相反",
+      "definition": "用于表达与事实相反的假设情况，主句用would+动词原形，从句用一般过去式",
+      "structure": "If + 主语 + 过去式(be用were), 主语 + would + 动词原形",
+      "usage": "用来表达与现实相反的假设，常用于表达遗憾或不可能实现的愿望",
+      "examples": [
+        {
+          "en": "If she were alive today she would not be able to air her views.",
+          "zh": "如果她今天还活着，她就不能就她最喜欢的话题发表意见了。"
+        },
+        {
+          "en": "If I were you, I would accept the offer.",
+          "zh": "如果我是你，我会接受这个提议。"
+        }
+      ]
+    },
+    {
+      "title": "Not only...but (also) 引起的倒装句",
+      "definition": "当not only放在句首时，它后面的句子要使用部分倒装语序",
+      "structure": "Not only + 助动词/be动词/情态动词 + 主语 + 谓语...but (also) + 句子",
+      "usage": "强调两个事实或情况，通常用于正式写作和演讲中增强语气",
+      "examples": [
+        {
+          "en": "Not only was the meal well below the usual standard, but Bessie seemed unable to walk steadily.",
+          "zh": "不仅饭菜远不如平时，而且贝齐看起来连路都走不稳。"
+        },
+        {
+          "en": "Not only did he finish his work, but he also helped others.",
+          "zh": "他不仅完成了自己的工作，还帮助了别人。"
+        }
+      ]
+    },
+    {
+      "title": "While 引导的让步状语从句",
+      "definition": "while 在此意为\"虽然；尽管\"，引导让步状语从句",
+      "structure": "While + 主语 + 谓语..., 主句",
+      "usage": "用于引出让步或对比关系，while从句通常放在句首",
+      "examples": [
+        {
+          "en": "While she always criticized the fickleness of human nature, she carried on an unrelenting search.",
+          "zh": "虽然她总是批评人性的善变，但她仍在不懈地寻找。"
+        },
+        {
+          "en": "While I understand your point, I don't agree with you.",
+          "zh": "虽然我理解你的观点，但我不同意。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "It is a good thing + 主语 + 过去式",
+      "original": {
+        "en": "It is a good thing my aunt Harriet died years ago.",
+        "zh": "好在哈丽雅特姑妈很多年前就去世了。"
+      },
+      "imitations": [
+        {
+          "en": "It is a good thing you came early.",
+          "zh": "好在你们来得早。"
+        },
+        {
+          "en": "It is a good thing we brought an umbrella.",
+          "zh": "好在我们带了雨伞。"
+        }
+      ]
+    },
+    {
+      "pattern": "No matter how + 形容词/副词 + 主语 + 谓语",
+      "original": {
+        "en": "No matter how many guests were present, the great house was always immaculate.",
+        "zh": "无论有多少客人来访，这座大宅总是干干净净的。"
+      },
+      "imitations": [
+        {
+          "en": "No matter how hard he tried, he couldn't open the door.",
+          "zh": "无论他怎么努力，都打不开那扇门。"
+        },
+        {
+          "en": "No matter how expensive the dress was, she bought it.",
+          "zh": "无论那件裙子多贵，她都买了。"
+        }
+      ]
+    },
+    {
+      "pattern": "After + 名词/动名词, 主语 + 谓语",
+      "original": {
+        "en": "After her departure, Aunt Harriet discovered that there were piles of empty wine bottles.",
+        "zh": "在她离开后，姑妈哈丽雅特发现有一堆空酒瓶。"
+      },
+      "imitations": [
+        {
+          "en": "After finishing his homework, he went to play football.",
+          "zh": "完成作业后，他去踢足球了。"
+        },
+        {
+          "en": "After the meeting, everyone left the room quietly.",
+          "zh": "会议结束后，大家安静地离开了房间。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + be + so + 形容词/副词 + that + 句子",
+      "original": {
+        "en": "The room was so dark that I couldn't see anything.",
+        "zh": "房间太暗了，我什么也看不见。"
+      },
+      "imitations": [
+        {
+          "en": "She spoke so quickly that I couldn't follow her.",
+          "zh": "她说得太快了，我跟不上。"
+        },
+        {
+          "en": "It was so hot that we decided to stay indoors.",
+          "zh": "天太热了，我们决定待在室内。"
+        }
+      ]
+    }
+  ]
+}

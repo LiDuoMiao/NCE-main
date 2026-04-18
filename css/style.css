@@ -1812,15 +1812,17 @@ body::-webkit-scrollbar-thumb:hover,
 }
 
 .tab-btn {
-    padding: 6px 16px;
+    flex: 1;
+    padding: 8px 16px;
     border-radius: var(--radius-sm);
     border: 1px solid var(--border);
     background: var(--paper-2);
     color: var(--ink-2);
-    font-size: 13px;
+    font-size: 14px;
     font-weight: 600;
     cursor: pointer;
     transition: all 0.2s ease;
+    text-align: center;
 }
 
 .tab-btn:hover {
@@ -1841,7 +1843,10 @@ body::-webkit-scrollbar-thumb:hover,
 
 /* 笔记容器 */
 .notes-container {
+    flex: 1;
     padding: 16px;
+    overflow-y: auto;
+    background: var(--paper-1);
 }
 
 .notes-placeholder {
@@ -1865,9 +1870,15 @@ body::-webkit-scrollbar-thumb:hover,
     border-bottom: 2px solid var(--accent-3);
 }
 
+/* 词汇网格布局 */
+.vocab-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+}
+
 /* 词汇项 */
 .vocab-item {
-    margin-bottom: 16px;
     padding: 12px;
     background: var(--paper-2);
     border-radius: var(--radius-sm);
@@ -1910,6 +1921,26 @@ body::-webkit-scrollbar-thumb:hover,
 .vocab-meaning-text {
     font-size: 14px;
     color: var(--ink-1);
+}
+
+.vocab-translation {
+    font-size: 14px;
+    color: var(--ink-2);
+    margin-left: 8px;
+}
+
+.vocab-example {
+    font-size: 13px;
+    color: var(--ink-3);
+    margin-top: 6px;
+    padding-top: 6px;
+    border-top: 1px dashed var(--border);
+}
+
+.phrase-translation {
+    font-size: 14px;
+    color: var(--ink-2);
+    margin-top: 4px;
 }
 
 .vocab-usage {

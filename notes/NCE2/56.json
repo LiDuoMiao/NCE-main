@@ -1,0 +1,394 @@
+{
+  "book": "NCE2",
+  "lesson": "56",
+  "title": "How fast did the winning car go?",
+  "vocabulary": [
+    {
+      "word": "race",
+      "phonetic": "/reɪs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "比赛；竞赛",
+          "usage": "指速度竞赛，如汽车比赛、赛马等"
+        }
+      ]
+    },
+    {
+      "word": "excitement",
+      "phonetic": "/ɪkˈsaɪtmənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "兴奋；激动",
+          "usage": "指对某事的兴奋或激动情绪"
+        }
+      ]
+    },
+    {
+      "word": "handsome",
+      "phonetic": "/ˈhænsəm/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "漂亮的；美观的",
+          "usage": "形容物品外观时指美观大方，也可形容人英俊"
+        }
+      ]
+    },
+    {
+      "word": "unusual",
+      "phonetic": "/ʌnˈjuːʒuəl/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "不寻常的；独特的",
+          "usage": "指与众不同的、罕见的"
+        }
+      ]
+    },
+    {
+      "word": "wheel",
+      "phonetic": "/wiːl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "轮子；方向盘",
+          "usage": "车辆的轮子或操纵方向的轮子"
+        }
+      ]
+    },
+    {
+      "word": "explosion",
+      "phonetic": "/ɪkˈspləʊʒn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "爆炸；爆炸声",
+          "usage": "指猛然爆发的声响或物理现象"
+        }
+      ]
+    },
+    {
+      "word": "downhill",
+      "phonetic": "/ˌdaʊnˈhɪl/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "往下；向下地",
+          "usage": "指向山下或地势低的方向移动"
+        }
+      ]
+    },
+    {
+      "word": "speed",
+      "phonetic": "/spiːd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "速度",
+          "usage": "指物体移动的快慢程度"
+        }
+      ]
+    },
+    {
+      "word": "rival",
+      "phonetic": "/ˈraɪvl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "竞争对手；对手",
+          "usage": "指在比赛或竞争中的对手"
+        }
+      ]
+    },
+    {
+      "word": "complete",
+      "phonetic": "/kəmˈpliːt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "完成；结束",
+          "usage": "指完成某项任务或过程"
+        }
+      ]
+    },
+    {
+      "word": "driver",
+      "phonetic": "/ˈdraɪvə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "司机；驾驶员",
+          "usage": "指驾驶车辆的人"
+        }
+      ]
+    },
+    {
+      "word": "enter",
+      "phonetic": "/ˈentə/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "参加；进入",
+          "usage": "指报名参加比赛或进入某处"
+        }
+      ]
+    },
+    {
+      "word": "take part",
+      "phonetic": "/teɪk pɑːt/",
+      "meanings": [
+        {
+          "pos": "phrase",
+          "meaning": "参加；参与",
+          "usage": "指参与某项活动"
+        }
+      ]
+    },
+    {
+      "word": "break down",
+      "phonetic": "/breɪk daʊn/",
+      "meanings": [
+        {
+          "pos": "phrase",
+          "meaning": "抛锚；出故障",
+          "usage": "指机器或车辆出现故障"
+        }
+      ]
+    },
+    {
+      "word": "reach",
+      "phonetic": "/riːtʃ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "达到；抵达",
+          "usage": "指到达某个程度或地点"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "a great deal of",
+      "usage": "大量的（后接不可数名词）",
+      "examples": [
+        {
+          "en": "There was a great deal of excitement just before the race began.",
+          "zh": "比赛开始前有大量的兴奋情绪。"
+        }
+      ]
+    },
+    {
+      "phrase": "take part in",
+      "usage": "参加；参与（活动或比赛）",
+      "examples": [
+        {
+          "en": "It was the oldest car taking part in the race.",
+          "zh": "这是参加比赛的最老的汽车。"
+        }
+      ]
+    },
+    {
+      "phrase": "break down",
+      "usage": "（机器或车辆）出故障；抛锚",
+      "examples": [
+        {
+          "en": "Many of the cars broke down on the course.",
+          "zh": "许多汽车在赛道上抛锚了。"
+        }
+      ]
+    },
+    {
+      "phrase": "have trouble doing something",
+      "usage": "做某事有困难",
+      "examples": [
+        {
+          "en": "The driver had a lot of trouble trying to stop it.",
+          "zh": "司机费了很大劲才把它停下来。"
+        }
+      ]
+    },
+    {
+      "phrase": "at the end of",
+      "usage": "在...结束时；在...末尾",
+      "examples": [
+        {
+          "en": "It sped downhill at the end of the race.",
+          "zh": "它在比赛结束时加速下坡。"
+        }
+      ]
+    },
+    {
+      "phrase": "give someone pleasure",
+      "usage": "给某人带来快乐",
+      "examples": [
+        {
+          "en": "The race gave everyone a great deal of pleasure.",
+          "zh": "比赛给每个人都带来了很大的乐趣。"
+        }
+      ]
+    },
+    {
+      "phrase": "be different from",
+      "usage": "与...不同",
+      "examples": [
+        {
+          "en": "It was very different from modern car races.",
+          "zh": "它与现代汽车比赛非常不同。"
+        }
+      ]
+    },
+    {
+      "phrase": "once a year",
+      "usage": "每年一次",
+      "examples": [
+        {
+          "en": "Once a year, a race is held for old cars.",
+          "zh": "每年举行一次老式汽车比赛。"
+        }
+      ]
+    },
+    {
+      "phrase": "spend time doing something",
+      "usage": "花时间做某事",
+      "examples": [
+        {
+          "en": "Some drivers spent more time under their cars than in them!",
+          "zh": "一些司机花在车底下的时间比在车里的时间还多！"
+        }
+      ]
+    },
+    {
+      "phrase": "no less exciting",
+      "usage": "同样精彩（双重否定表示肯定）",
+      "examples": [
+        {
+          "en": "It was very different but no less exciting.",
+          "zh": "它非常不同，但同样精彩。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "一般过去时 (Past Simple Tense)",
+      "definition": "描述过去发生的动作或存在的状态",
+      "structure": "主语 + 动词过去式",
+      "usage": "叙述过去的事件，故事背景等",
+      "examples": [
+        {
+          "en": "A lot of cars entered for this race last year.",
+          "zh": "去年很多汽车报名参加了比赛。"
+        },
+        {
+          "en": "The race began after a great many loud explosions.",
+          "zh": "在一阵巨大的爆炸声后，比赛开始了。"
+        },
+        {
+          "en": "The winning car reached a speed of forty miles an hour.",
+          "zh": "获胜的车辆达到了每小时四十英里的速度。"
+        }
+      ]
+    },
+    {
+      "title": "形容词最高级 (Superlative Adjective)",
+      "definition": "表示三者或以上中最...",
+      "structure": "the + 最高级 + (in/of短语)",
+      "usage": "用于比较多个事物时，指出最...的一个",
+      "examples": [
+        {
+          "en": "One of the most handsome cars was a Rolls-Royce Silver Ghost.",
+          "zh": "最漂亮的汽车之一是一辆劳斯莱斯银魅。"
+        },
+        {
+          "en": "It was the oldest car taking part.",
+          "zh": "这是参加比赛的最老的汽车。"
+        }
+      ]
+    },
+    {
+      "title": "过去进行时 (Past Continuous Tense)",
+      "definition": "描述过去正在进行的动作",
+      "structure": "主语 + was/were + 动词-ing",
+      "usage": "描述过去某个时刻正在发生的动作",
+      "examples": [
+        {
+          "en": "There was a great deal of excitement just before it began.",
+          "zh": "比赛开始前有大量的兴奋情绪。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Once a year, ...",
+      "original": {
+        "en": "Once a year, a race is held for old cars.",
+        "zh": "每年举行一次老式汽车比赛。"
+      },
+      "imitations": [
+        {
+          "en": "Once a year, we have a reunion with old friends.",
+          "zh": "每年我们都会和老朋友聚会一次。"
+        },
+        {
+          "en": "Once a year, the town holds a flower festival.",
+          "zh": "这个城镇每年举办一次花展。"
+        }
+      ]
+    },
+    {
+      "pattern": "There was/were + 名词 + 形容词/介词短语",
+      "original": {
+        "en": "There was a great deal of excitement just before it began.",
+        "zh": "比赛开始前有大量的兴奋情绪。"
+      },
+      "imitations": [
+        {
+          "en": "There was a great deal of traffic on the road.",
+          "zh": "路上交通非常拥挤。"
+        },
+        {
+          "en": "There were many people waiting at the station.",
+          "zh": "站有许多人在等待。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + had (a lot of) trouble doing something",
+      "original": {
+        "en": "The driver had a lot of trouble trying to stop it.",
+        "zh": "司机费了很大劲才把它停下来。"
+      },
+      "imitations": [
+        {
+          "en": "I had a lot of trouble finding your house.",
+          "zh": "我费了很大劲才找到你家。"
+        },
+        {
+          "en": "She had trouble understanding the lecture.",
+          "zh": "她很难理解这个讲座。"
+        }
+      ]
+    },
+    {
+      "pattern": "It was + the + 最高级 + 名词 + doing/定语从句",
+      "original": {
+        "en": "Built in 1885, it was the oldest car taking part.",
+        "zh": "它制造于1885年，是参加比赛的最老的汽车。"
+      },
+      "imitations": [
+        {
+          "en": "Written in 1990, it was the most popular book that year.",
+          "zh": "写于1990年，它是那一年最受欢迎的书。"
+        },
+        {
+          "en": "Located in the center, it was the most convenient hotel to stay.",
+          "zh": "位于中心地带，它是最便利的住宿酒店。"
+        }
+      ]
+    }
+  ]
+}

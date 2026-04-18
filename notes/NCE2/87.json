@@ -1,0 +1,399 @@
+{
+  "book": "NCE2",
+  "lesson": "87",
+  "title": "What was wrong with the man's story?",
+  "vocabulary": [
+    {
+      "word": "murder",
+      "phonetic": "/ˈmɜːdə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "谋杀；凶杀",
+          "usage": "指非法故意杀害他人的行为"
+        },
+        {
+          "pos": "verb",
+          "meaning": "谋杀；凶杀",
+          "usage": "指实施谋杀行为"
+        }
+      ]
+    },
+    {
+      "word": "commit",
+      "phonetic": "/kəˈmɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "犯（罪）；做（错事）",
+          "usage": "常与crime, murder, suicide等词搭配使用"
+        }
+      ]
+    },
+    {
+      "word": "inspector",
+      "phonetic": "/ɪnˈspektə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "警督；检查员",
+          "usage": "指负责调查或检查的警官"
+        }
+      ]
+    },
+    {
+      "word": "confirm",
+      "phonetic": "/kənˈfɜːm/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "确认；证实",
+          "usage": "指证明某事属实或正确"
+        }
+      ]
+    },
+    {
+      "word": "employer",
+      "phonetic": "/ɪmˈplɔɪə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "雇主；老板",
+          "usage": "指雇用他人工作的人"
+        }
+      ]
+    },
+    {
+      "word": "arrive",
+      "phonetic": "/əˈraɪv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "到达；抵达",
+          "usage": "arrive at + 小地点（车站）；arrive in + 大地点（城市）"
+        }
+      ]
+    },
+    {
+      "word": "unusual",
+      "phonetic": "/ʌnˈjuːʒuəl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "不寻常的；异常的",
+          "usage": "un-是否定前缀，usual表示通常的"
+        }
+      ]
+    },
+    {
+      "word": "suggest",
+      "phonetic": "/səˈdʒest/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "暗示；建议",
+          "usage": "suggest that... 表示暗示某事，或建议做某事"
+        }
+      ]
+    },
+    {
+      "word": "truth",
+      "phonetic": "/truːθ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "真相；事实",
+          "usage": "tell the truth表示说实话"
+        }
+      ]
+    },
+    {
+      "word": "break down",
+      "phonetic": "/breɪk daʊn/",
+      "meanings": [
+        {
+          "pos": "verb phrase",
+          "meaning": "（机器）出故障；（汽车）抛锚",
+          "usage": "指机械设备不能正常运转"
+        }
+      ]
+    },
+    {
+      "word": "catch",
+      "phonetic": "/kætʃ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "赶上（火车/汽车）；抓住",
+          "usage": "catch a train/bus表示赶上火车/公交车"
+        }
+      ]
+    },
+    {
+      "word": "on time",
+      "phonetic": "/ɒn taɪm/",
+      "meanings": [
+        {
+          "pos": "phrase",
+          "meaning": "准时；按时",
+          "usage": "指按时到达，不迟到"
+        }
+      ]
+    },
+    {
+      "word": "notice",
+      "phonetic": "/ˈnəʊtɪs/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "注意到；察觉",
+          "usage": "指通过视觉或听觉察觉某事"
+        }
+      ]
+    },
+    {
+      "word": "suppose",
+      "phonetic": "/səˈpəʊz/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "认为；猜想",
+          "usage": "表示推测或假设"
+        }
+      ]
+    },
+    {
+      "word": "of course",
+      "phonetic": "/ɒv kɔːs/",
+      "meanings": [
+        {
+          "pos": "phrase",
+          "meaning": "当然；自然",
+          "usage": "用于表示肯定或强调"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "at the time",
+      "usage": "表示在某事发生的时候",
+      "examples": [
+        {
+          "en": "At the time the murder was committed, I was travelling.",
+          "zh": "谋杀发生时，我正在旅行。"
+        }
+      ]
+    },
+    {
+      "phrase": "be travelling on",
+      "usage": "表示正在乘坐（某种交通工具）",
+      "examples": [
+        {
+          "en": "I was travelling on the 8 o'clock train.",
+          "zh": "我正在乘坐8点的火车。"
+        }
+      ]
+    },
+    {
+      "phrase": "catch a train",
+      "usage": "表示赶上火车",
+      "examples": [
+        {
+          "en": "I must catch the early train to work.",
+          "zh": "我必须赶上早班火车去上班。"
+        }
+      ]
+    },
+    {
+      "phrase": "be at work",
+      "usage": "表示在上班；在工作",
+      "examples": [
+        {
+          "en": "I must be at work at 10 o'clock.",
+          "zh": "我必须在10点上班。"
+        }
+      ]
+    },
+    {
+      "phrase": "wait for",
+      "usage": "表示等待",
+      "examples": [
+        {
+          "en": "I bought a paper and waited for the train.",
+          "zh": "我买了份报纸等火车。"
+        }
+      ]
+    },
+    {
+      "phrase": "notice anything unusual",
+      "usage": "表示注意到任何不寻常的事",
+      "examples": [
+        {
+          "en": "Did you notice anything unusual at the station?",
+          "zh": "你在车站注意到什么不寻常的事了吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "tell the truth",
+      "usage": "表示说实话",
+      "examples": [
+        {
+          "en": "You are not telling the truth.",
+          "zh": "你没有说实话。"
+        }
+      ]
+    },
+    {
+      "phrase": "take off the line",
+      "usage": "表示停止运营；取消（线路）",
+      "examples": [
+        {
+          "en": "The train was taken off the line.",
+          "zh": "火车停止运营了。"
+        }
+      ]
+    },
+    {
+      "phrase": "I suggest that...",
+      "usage": "表示我暗示/我认为...",
+      "examples": [
+        {
+          "en": "I suggest that you are not telling the truth.",
+          "zh": "我暗示你没有说实话。"
+        }
+      ]
+    },
+    {
+      "phrase": "get sb. to + 地点",
+      "usage": "表示送某人到达某地",
+      "examples": [
+        {
+          "en": "Would a later train get you to work on time?",
+          "zh": "晚一点的火车能让你准时到公司吗？"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去进行时 (Past Continuous Tense)",
+      "definition": "表示在过去某一时刻或某一段时间正在进行的动作",
+      "structure": "主语 + was/were + 动词-ing + 时间状语",
+      "usage": "用于描述过去正在发生的行为，常与at the time, when等连用",
+      "examples": [
+        {
+          "en": "At the time the murder was committed, I was travelling on the 8 o'clock train.",
+          "zh": "谋杀发生时，我正乘坐8点的火车。"
+        },
+        {
+          "en": "What were you doing at 8 o'clock yesterday?",
+          "zh": "昨天8点你在做什么？"
+        }
+      ]
+    },
+    {
+      "title": "一般过去时 vs 过去进行时",
+      "definition": "一般过去时表示过去完成的动作；过去进行时表示过去正在进行的动作",
+      "structure": "一般过去时：主语 + 动词过去式\n过去进行时：主语 + was/were + 动词-ing",
+      "usage": "当一个过去进行的动作被另一个过去的动作（一般过去时）打断时，常用过去进行时描述较长的背景动作",
+      "examples": [
+        {
+          "en": "I was waiting for the train when it arrived.",
+          "zh": "火车来的时候我正在等它。"
+        },
+        {
+          "en": "While I was travelling, the murder happened.",
+          "zh": "当我旅行时，谋杀发生了。"
+        }
+      ]
+    },
+    {
+      "title": "宾语从句 (Object Clause) - I suggest that...",
+      "definition": "that引导的宾语从句，用于表达观点、建议或暗示",
+      "structure": "主语 + suggest/believe/think + that + 主语 + 动词...",
+      "usage": "suggest后面接that从句，表示暗示或建议某事为真",
+      "examples": [
+        {
+          "en": "I suggest that you are not telling the truth.",
+          "zh": "我暗示你没有说实话。"
+        },
+        {
+          "en": "I suggest that he caught the 8.25 train.",
+          "zh": "我暗示他赶上了8:25的火车。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "At the time..., 主语 + was/were + doing...",
+      "original": {
+        "en": "At the time the murder was committed, I was travelling on the 8 o'clock train.",
+        "zh": "谋杀发生时，我正乘坐8点的火车。"
+      },
+      "imitations": [
+        {
+          "en": "At the time the accident happened, I was sleeping.",
+          "zh": "事故发生时，我正在睡觉。"
+        },
+        {
+          "en": "At the time I called you, he was having dinner.",
+          "zh": "我给你打电话时，他正在吃晚饭。"
+        }
+      ]
+    },
+    {
+      "pattern": "Do you always + 动词原形...?",
+      "original": {
+        "en": "Do you always catch such an early train?",
+        "zh": "你总是赶这么早的火车吗？"
+      },
+      "imitations": [
+        {
+          "en": "Do you always get up so early?",
+          "zh": "你总是这么早起床吗？"
+        },
+        {
+          "en": "Do you always have breakfast at home?",
+          "zh": "你总是在家吃早餐吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "Would + 主语 + 动词原形 + get you to + 地点...?",
+      "original": {
+        "en": "Would a later train get you to work on time?",
+        "zh": "晚一点的火车能让你准时到公司吗？"
+      },
+      "imitations": [
+        {
+          "en": "Would a taxi get you to the airport on time?",
+          "zh": "出租车能让你准时到机场吗？"
+        },
+        {
+          "en": "Would walking get you home before dark?",
+          "zh": "走路能让你在天黑前到家吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "I suggest that + 主语 + 动词...",
+      "original": {
+        "en": "I suggest that you are not telling the truth.",
+        "zh": "我暗示你没有说实话。"
+      },
+      "imitations": [
+        {
+          "en": "I suggest that he was at the scene of the crime.",
+          "zh": "我暗示他在犯罪现场。"
+        },
+        {
+          "en": "I suggest that she knows more than she says.",
+          "zh": "我暗示她知道的比她说的多。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "book": "NCE4",
+  "lesson": "09",
+  "title": "Lesson 9",
+  "vocabulary": [
+    {
+      "word": "espionage",
+      "phonetic": "/ˈespiənɑːʒ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "间谍活动；谍报活动",
+          "usage": "不可数名词，正式用语，指获取敌方情报的秘密活动"
+        }
+      ]
+    },
+    {
+      "word": "penetrate",
+      "phonetic": "/ˈpenətreɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "渗入；潜入；穿透",
+          "usage": "可作及物/不及物动词，指进入某地或被允许进入某个组织/团体"
+        }
+      ]
+    },
+    {
+      "word": "disguise",
+      "phonetic": "/dɪsˈɡaɪz/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "假扮；伪装；掩饰",
+          "usage": "常用搭配：disguise sb as sth 把某人伪装成某物"
+        }
+      ]
+    },
+    {
+      "word": "minstrel",
+      "phonetic": "/ˈmɪnstrəl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "(中世纪的)游吟歌手",
+          "usage": "指中世纪四处游历，通过演唱、表演为生的艺人"
+        }
+      ]
+    },
+    {
+      "word": "ballad",
+      "phonetic": "/ˈbæləd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "民歌；民谣；叙事歌谣",
+          "usage": "通常指讲述故事的慢节奏歌曲或诗歌"
+        }
+      ]
+    },
+    {
+      "word": "acrobatic",
+      "phonetic": "/ˌækrəˈbætɪk/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "杂技的；杂技演员的",
+          "usage": "用于描述和杂技相关的动作、技能或表演"
+        }
+      ]
+    },
+    {
+      "word": "conjuring",
+      "phonetic": "/ˈkʌndʒərɪŋ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "魔术；变戏法",
+          "usage": "不可数名词，指通过技巧表演幻象、魔术的行为"
+        }
+      ]
+    },
+    {
+      "word": "slack",
+      "phonetic": "/slæk/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "松懈的；懈怠的；松弛的",
+          "usage": "可形容纪律、管理松散，也可形容绳子等物品不紧"
+        }
+      ]
+    },
+    {
+      "word": "proceeds",
+      "phonetic": "/ˈprəʊsiːdz/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "(活动或售卖的)收入，收益",
+          "usage": "复数名词，通常指某一事件、交易获得的全部收入"
+        }
+      ]
+    },
+    {
+      "word": "raid",
+      "phonetic": "/reɪd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "突袭；抢劫；搜查",
+          "usage": "可指军事突袭，也可指警方的突击搜查或盗贼的抢劫"
+        }
+      ]
+    },
+    {
+      "word": "assemble",
+      "phonetic": "/əˈsembl/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "集合；聚集；组装",
+          "usage": "可指人集合，也可指组装物品，及物不及物均可"
+        }
+      ]
+    },
+    {
+      "word": "trivial",
+      "phonetic": "/ˈtrɪviəl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "微不足道的；不重要的",
+          "usage": "用于形容事物价值、规模小到不值得重视"
+        }
+      ]
+    },
+    {
+      "word": "horde",
+      "phonetic": "/hɔːd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "(人)群；游牧部落",
+          "usage": "通常指数量庞大、移动中的人群，可带有贬义"
+        }
+      ]
+    },
+    {
+      "word": "harry",
+      "phonetic": "/ˈhæri/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "不断袭击；骚扰；烦扰",
+          "usage": "指反复攻击、打扰某人或某物，使其不得安宁"
+        }
+      ]
+    },
+    {
+      "word": "skirmish",
+      "phonetic": "/ˈskɜːmɪʃ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "小规模战斗；小冲突",
+          "usage": "指战争中双方小规模的、非正式的交锋"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "disguised as",
+      "usage": "表示“伪装成”，常用作伴随状语，说明主语的状态",
+      "examples": [
+        {
+          "en": "He disguised himself as a delivery man to get into the building.",
+          "zh": "他伪装成快递员进入了那栋大楼。"
+        }
+      ]
+    },
+    {
+      "phrase": "settle down",
+      "usage": "此处表示“定居；安顿下来”，也可指“平静下来；安定下来过稳定生活”",
+      "examples": [
+        {
+          "en": "After travelling for years, he decided to settle down in the countryside.",
+          "zh": "游历多年后，他决定在乡村定居下来。"
+        }
+      ]
+    },
+    {
+      "phrase": "security precautions",
+      "usage": "名词短语，意为“安全防范措施”，可搭配take/adopt等动词使用",
+      "examples": [
+        {
+          "en": "The airport has strengthened security precautions ahead of the holiday.",
+          "zh": "假期来临前，机场加强了安全防范措施。"
+        }
+      ]
+    },
+    {
+      "phrase": "compared with",
+      "usage": "介词短语，意为“与……相比”，常用于句首或句中作比较状语",
+      "examples": [
+        {
+          "en": "Compared with last year, our sales have increased by 30% this year.",
+          "zh": "和去年相比，我们今年的销售额增长了30%。"
+        }
+      ]
+    },
+    {
+      "phrase": "be fit for",
+      "usage": "表示“适合；能胜任”，后接名词或动名词，说明主语的适用性",
+      "examples": [
+        {
+          "en": "This key is not fit for the front door, you must have taken the wrong one.",
+          "zh": "这把钥匙不适合前门，你肯定拿错了。"
+        }
+      ]
+    },
+    {
+      "phrase": "depend on",
+      "usage": "动词短语，意为“依赖；依靠；取决于”，后接名词、代词或从句",
+      "examples": [
+        {
+          "en": "Whether we will go hiking tomorrow depends on the weather.",
+          "zh": "我们明天是否去远足取决于天气。"
+        }
+      ]
+    },
+    {
+      "phrase": "be faced with",
+      "usage": "表示“面对；面临”，主语通常是人或组织，后接困难、问题等对象",
+      "examples": [
+        {
+          "en": "When faced with difficulties, we should try to find solutions instead of complaining.",
+          "zh": "面对困难时，我们应该努力寻找解决方法，而不是抱怨。"
+        }
+      ]
+    },
+    {
+      "phrase": "on the move",
+      "usage": "固定表达，意为“在行进中；在移动中；忙个不停”",
+      "examples": [
+        {
+          "en": "As a sales manager, she is always on the move, visiting different cities every week.",
+          "zh": "作为销售经理，她总是忙个不停，每周都要去不同的城市。"
+        }
+      ]
+    },
+    {
+      "phrase": "a series of",
+      "usage": "表示“一系列；一连串”，后接可数名词复数，整体作主语时谓语动词用单数",
+      "examples": [
+        {
+          "en": "The school has launched a series of activities to promote traditional culture.",
+          "zh": "学校推出了一系列活动来推广传统文化。"
+        }
+      ]
+    },
+    {
+      "phrase": "serve as",
+      "usage": "动词短语，意为“充当；担任；起……作用”，说明事物的功能或角色",
+      "examples": [
+        {
+          "en": "The old sofa in the study can serve as a temporary bed for guests.",
+          "zh": "书房里的旧沙发可以充当临时床供客人使用。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去分词作伴随状语",
+      "definition": "过去分词和句子主语构成被动关系，用来补充说明主语的状态，可放在句首或句中，用逗号和主句隔开",
+      "structure": "主语 + 谓语 + ... , + 过去分词短语 / 过去分词短语 , + 主语 + 谓语 + ...",
+      "usage": "用于简化从句，使句子更简洁，同时说明主语的伴随状态、背景信息等",
+      "examples": [
+        {
+          "en": "Alfred the Great acted as his own spy, visiting Danish camps disguised as a minstrel.",
+          "zh": "阿尔弗雷德大帝亲自充当间谍，扮作游吟歌手探访丹麦人的营地。"
+        },
+        {
+          "en": "Seen from the top of the mountain, the village looks very small.",
+          "zh": "从山顶上看，这个村庄显得非常小。"
+        }
+      ]
+    },
+    {
+      "title": "宾语从句（deduce后接并列宾语从句）",
+      "definition": "在及物动词后作宾语的从句，当动词后有两个及以上的并列宾语从句时，第二个及之后的that通常不能省略",
+      "structure": "主语 + 及物动词 + that + 从句1 + and + that + 从句2",
+      "usage": "用于表达通过推理、判断等得出的多个结论，使逻辑更清晰",
+      "examples": [
+        {
+          "en": "But Alfred had deduced that the Danes were no longer fit for prolonged battle: and that their commissariat had no organization, but depended on irregular raids.",
+          "zh": "但是阿尔弗雷德推断，丹麦人已经不再适合持久战：而且他们的后勤没有组织，全靠不定期的劫掠维持。"
+        },
+        {
+          "en": "The survey shows that most citizens are satisfied with the public transport, and that they hope more bike lanes will be built.",
+          "zh": "调查显示，大多数市民对公共交通感到满意，并且他们希望能修建更多的自行车道。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "While + 从句（进行/延续性动作）, 主句",
+      "original": {
+        "en": "While Alfred's little army slowly began to gather at Athelney, the king himself set out to penetrate the camp of Guthrum, the commander of the Danish invaders.",
+        "zh": "当阿尔弗雷德的小部队在阿特尔尼慢慢集结的时候，国王本人则出发潜入了丹麦入侵者指挥官古瑟伦的营地。"
+      },
+      "imitations": [
+        {
+          "en": "While the students are busy preparing for the final exam, the teachers are working hard to arrange the examination room.",
+          "zh": "当学生们忙着准备期末考试的时候，老师们也在努力布置考场。"
+        },
+        {
+          "en": "While my mother was cooking in the kitchen, my father was tidying up the living room.",
+          "zh": "当我妈妈在厨房做饭的时候，我爸爸正在整理客厅。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + noticed at once that + 宾语从句",
+      "original": {
+        "en": "He noticed at once that discipline was slack: the Danes had the self-confidence of conquerors, and their security precautions were casual.",
+        "zh": "他立刻注意到那里纪律松懈：丹麦人有着征服者的自信，他们的安全防范非常随意。"
+      },
+      "imitations": [
+        {
+          "en": "When she entered the office, she noticed at once that the atmosphere was very tense.",
+          "zh": "她走进办公室的时候，立刻注意到气氛非常紧张。"
+        },
+        {
+          "en": "I noticed at once that he was upset, so I went over to ask what had happened.",
+          "zh": "我立刻注意到他心情不好，于是走过去问发生了什么事。"
+        }
+      ]
+    },
+    {
+      "pattern": "So, faced with + 名词, 主语 + did not do sth but did sth",
+      "original": {
+        "en": "So, faced with the Danish advance, Alfred did not risk open battle but harried the enemy.",
+        "zh": "因此，面对丹麦人的进攻，阿尔弗雷德没有冒险打正面战，而是不断骚扰敌军。"
+      },
+      "imitations": [
+        {
+          "en": "So, faced with the challenge of the new project, we did not give up easily but tried our best to find a solution.",
+          "zh": "因此，面对新项目的挑战，我们没有轻易放弃，而是尽全力寻找解决方案。"
+        },
+        {
+          "en": "Faced with his misunderstanding, she did not argue with him but explained the whole thing calmly.",
+          "zh": "面对他的误解，她没有和他争吵，而是冷静地解释了整件事。"
+        }
+      ]
+    }
+  ]
+}

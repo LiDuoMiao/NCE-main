@@ -1,0 +1,383 @@
+{
+  "book": "NCE3",
+  "lesson": "31",
+  "title": "Lesson 31",
+  "vocabulary": [
+    {
+      "word": "eccentric",
+      "phonetic": "/ɪkˈsentrɪk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "古怪的人；行为怪异的人",
+          "usage": "指行为偏离常规、特点鲜明的人，文中带有褒义，指可爱的怪人"
+        },
+        {
+          "pos": "adjective",
+          "meaning": "古怪的；异乎寻常的",
+          "usage": "用来描述行为、性格等不符合常规的"
+        }
+      ]
+    },
+    {
+      "word": "deliberately",
+      "phonetic": "/dɪˈlɪbərətli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "故意地；蓄意地",
+          "usage": "强调行为是有目的、刻意做出的"
+        }
+      ]
+    },
+    {
+      "word": "disregard",
+      "phonetic": "/ˌdɪsrɪˈɡɑːd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "不顾；漠视；不理会",
+          "usage": "后常接规则、习俗、他人意见等名词，指故意不遵守或不重视"
+        }
+      ]
+    },
+    {
+      "word": "convention",
+      "phonetic": "/kənˈvenʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "习俗；常规；惯例",
+          "usage": "指社会普遍接受的行为准则或传统做法"
+        }
+      ]
+    },
+    {
+      "word": "invariably",
+      "phonetic": "/ɪnˈveəriəbli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "始终如一地；一贯地；总是",
+          "usage": "强调情况几乎没有例外，总是发生"
+        }
+      ]
+    },
+    {
+      "word": "notable",
+      "phonetic": "/ˈnəʊtəbl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "显要的；显著的；值得注意的",
+          "usage": "用来形容人或事物因特点突出而被大众知晓"
+        }
+      ]
+    },
+    {
+      "word": "shrewd",
+      "phonetic": "/ʃruːd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "精明的；敏锐的；有判断力的",
+          "usage": "常用来形容人在商业、判断局势等方面头脑精明"
+        }
+      ]
+    },
+    {
+      "word": "legendary",
+      "phonetic": "/ˈledʒəndri/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "传奇的；大名鼎鼎的",
+          "usage": "形容人或事因极具特点而被广泛谈论，像传说一样有名"
+        }
+      ]
+    },
+    {
+      "word": "snob",
+      "phonetic": "/snɒb/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "势利小人；谄上欺下的人",
+          "usage": "指以地位、财富取人，看不起普通人的人"
+        }
+      ]
+    },
+    {
+      "word": "intensely",
+      "phonetic": "/ɪnˈtensli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "强烈地；极度地",
+          "usage": "用来加强情绪、感受的程度"
+        }
+      ]
+    },
+    {
+      "word": "bedraggled",
+      "phonetic": "/bɪˈdræɡld/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "湿脏的；凌乱的",
+          "usage": "常形容人被雨淋湿后衣服脏乱、外表邋遢的状态"
+        }
+      ]
+    },
+    {
+      "word": "reprimand",
+      "phonetic": "/ˈreprɪmɑːnd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "训斥；斥责",
+          "usage": "指上级对下属、长辈对晚辈的正式严厉批评"
+        }
+      ]
+    },
+    {
+      "word": "critic",
+      "phonetic": "/ˈkrɪtɪk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "批评家；评论家",
+          "usage": "特指对艺术、文学、音乐等进行专业评论的人"
+        }
+      ]
+    },
+    {
+      "word": "elaborate",
+      "phonetic": "/ɪˈlæbərət/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "精心制作的；详尽的",
+          "usage": "形容计划、事件等经过了周密的安排和设计"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "set out to do sth",
+      "usage": "表示“打算、着手做某事”，强调有明确的目的去做某件事",
+      "examples": [
+        {
+          "en": "True eccentrics never deliberately set out to draw attention to themselves.",
+          "zh": "真正的怪人从不刻意去吸引他人的注意。"
+        },
+        {
+          "en": "She set out to break the world record in the long jump.",
+          "zh": "她立志要打破跳远的世界纪录。"
+        }
+      ]
+    },
+    {
+      "phrase": "draw attention to sb/sth",
+      "usage": "表示“吸引对……的注意”，主语可以是人或事物",
+      "examples": [
+        {
+          "en": "The poster is designed to draw attention to the problem of global warming.",
+          "zh": "这张海报旨在吸引人们关注全球变暖的问题。"
+        },
+        {
+          "en": "He tried not to draw attention to his mistake in the report.",
+          "zh": "他尽量不让别人注意到他报告里的错误。"
+        }
+      ]
+    },
+    {
+      "phrase": "add colour to",
+      "usage": "表示“给……增添趣味/色彩”，用比喻义表示让原本平淡的事物变得生动",
+      "examples": [
+        {
+          "en": "They add colour to the dull routine of everyday life.",
+          "zh": "他们给平淡的日常生活增添了趣味。"
+        },
+        {
+          "en": "Her lively stories added colour to the boring meeting.",
+          "zh": "她生动的故事给无聊的会议增添了乐趣。"
+        }
+      ]
+    },
+    {
+      "phrase": "be caught in",
+      "usage": "表示“遭遇、陷入（坏天气、困境等）”，通常用于被动结构",
+      "examples": [
+        {
+          "en": "He walked into an expensive shop after having been caught in a particularly heavy shower.",
+          "zh": "他遇上了一场特别大的阵雨，之后走进了一家高档商店。"
+        },
+        {
+          "en": "We were caught in a traffic jam on the way to the airport.",
+          "zh": "我们在去机场的路上遇上了交通堵塞。"
+        }
+      ]
+    },
+    {
+      "phrase": "pay no attention to",
+      "usage": "表示“不理会、不注意……”，后面接人或事物",
+      "examples": [
+        {
+          "en": "The assistant asked him to leave, but Dickie paid no attention to him and requested to see the manager.",
+          "zh": "店员让他离开，但迪基理都不理他，要求见经理。"
+        },
+        {
+          "en": "Pay no attention to what others say about your choice.",
+          "zh": "别理会别人对你的选择的议论。"
+        }
+      ]
+    },
+    {
+      "phrase": "insist on",
+      "usage": "表示“坚持要求、坚决主张”，后接名词或动词的-ing形式",
+      "examples": [
+        {
+          "en": "He insisted on the assistant's counting the money before he left.",
+          "zh": "他坚持要店员数清楚钱再离开。"
+        },
+        {
+          "en": "My mother insists on walking for an hour after dinner every day.",
+          "zh": "我妈妈坚持每天饭后散步一小时。"
+        }
+      ]
+    },
+    {
+      "phrase": "a great deal of",
+      "usage": "表示“大量的，许多的”，后接不可数名词",
+      "examples": [
+        {
+          "en": "This exhibition received a great deal of attention in the press.",
+          "zh": "这次展览受到了媒体的大量关注。"
+        },
+        {
+          "en": "The project requires a great deal of time and effort to complete.",
+          "zh": "这个项目需要投入大量的时间和精力才能完成。"
+        }
+      ]
+    },
+    {
+      "phrase": "be supposed to",
+      "usage": "表示“被认为；应该”，可以指人们普遍的看法，也可以指义务、规定",
+      "examples": [
+        {
+          "en": "Though the pictures were supposed to be the work of famous artists, they had in fact been painted by Dickie.",
+          "zh": "虽然这些画被认为是著名艺术家的作品，但实际上都是迪基画的。"
+        },
+        {
+          "en": "You are supposed to arrive at the office before 9 o'clock every morning.",
+          "zh": "你应该每天早上九点之前到办公室。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "现在分词的完成被动式",
+      "definition": "表示动作发生在主句动作之前，且与逻辑主语之间是被动关系，强调动作的完成和被动属性",
+      "structure": "having been + 过去分词，常在句中作时间、原因等状语",
+      "usage": "当从句的主语和主句主语一致，且从句动作先于主句动作发生、主语是动作的承受者时使用，可以替换相应的被动语态的状语从句",
+      "examples": [
+        {
+          "en": "He walked into an expensive shop after having been caught in a particularly heavy shower.",
+          "zh": "他遇上了一场特别大的阵雨，之后走进了一家高档商店。"
+        },
+        {
+          "en": "Having been told many times, he still couldn't understand the rule.",
+          "zh": "已经被告知了很多次，他还是不懂这个规则。"
+        }
+      ]
+    },
+    {
+      "title": "for引导的原因状语从句",
+      "definition": "属于并列连词引导的状语从句，用来补充说明前一句话的原因或提供推断的理由，语气比because弱",
+      "structure": "主句 + for + 原因从句",
+      "usage": "通常不放在句首，而是放在主句之后，用逗号与主句隔开，是对前面内容的补充解释，而非直接的因果关系",
+      "examples": [
+        {
+          "en": "This invariably wins them the love and respect of others, for they add colour to the dull routine of everyday life.",
+          "zh": "这总是能为他们赢得别人的喜爱和尊重，因为他们给平淡的日常生活增添了趣味。"
+        },
+        {
+          "en": "The days are short, for it is now December.",
+          "zh": "白天很短，因为现在是十二月了。"
+        }
+      ]
+    },
+    {
+      "title": "though引导的让步状语从句",
+      "definition": "用来表示“虽然、尽管”，引导的从句与主句的内容存在转折关系，突出主句内容的合理性",
+      "structure": "Though + 从句，主句 / 主句 + though + 从句",
+      "usage": "可以放在句首或句中，不能和but同时出现在同一个句子里，但可以和yet、still等词搭配",
+      "examples": [
+        {
+          "en": "Though he owned a large car, he hardly ever used it, preferring always to go on foot.",
+          "zh": "虽然他有一辆大轿车，但他几乎从来不用，总喜欢步行。"
+        },
+        {
+          "en": "Though the task was very difficult, they managed to finish it on time.",
+          "zh": "尽管任务非常困难，他们还是设法按时完成了。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "... had become legendary long before ...",
+      "original": {
+        "en": "He was known to us all as Dickie and his eccentricity had become legendary long before he died.",
+        "zh": "我们都叫他迪基，早在他去世之前，他的怪癖就已经传为美谈了。"
+      },
+      "imitations": [
+        {
+          "en": "His songs had become popular long before he released his first album.",
+          "zh": "早在他发行第一张专辑之前，他的歌就已经很受欢迎了。"
+        },
+        {
+          "en": "The small town's beautiful scenery had become famous long before it was developed as a tourist spot.",
+          "zh": "早在这个小镇被开发成旅游景点之前，它的美景就已经很有名了。"
+        }
+      ]
+    },
+    {
+      "pattern": "He was in such a ... condition that ...",
+      "original": {
+        "en": "He wanted to buy a ￡300 watch for his wife, but he was in such a bedraggled condition that an assistant refused to serve him.",
+        "zh": "他想给妻子买一块价值300英镑的手表，但他当时浑身湿脏邋遢，店员拒绝为他服务。"
+      },
+      "imitations": [
+        {
+          "en": "He was in such a tired condition that he fell asleep as soon as he got home.",
+          "zh": "他太累了，一到家就睡着了。"
+        },
+        {
+          "en": "The old house was in such a dilapidated condition that no one wanted to rent it.",
+          "zh": "这栋老房子破败不堪，没人愿意租。"
+        }
+      ]
+    },
+    {
+      "pattern": "It took sb + 时间 + to do sth simply to prove that ...",
+      "original": {
+        "en": "It took him four years to stage this elaborate joke simply to prove that critics do not always know what they are talking about.",
+        "zh": "他花了四年时间策划这个精心的玩笑，只是为了证明评论家并不总是知道自己在说什么。"
+      },
+      "imitations": [
+        {
+          "en": "It took her three months to prepare for the speech contest simply to prove that she could speak English as well as others.",
+          "zh": "她花了三个月准备演讲比赛，只是为了证明她的英语能说得和别人一样好。"
+        },
+        {
+          "en": "It took the team half a year to complete the experiment simply to prove that their theory was correct.",
+          "zh": "这个团队花了半年时间完成实验，只是为了证明他们的理论是正确的。"
+        }
+      ]
+    }
+  ]
+}

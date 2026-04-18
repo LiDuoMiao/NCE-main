@@ -1,0 +1,357 @@
+{
+  "book": "NCE4",
+  "lesson": "14",
+  "title": "Lesson 14",
+  "vocabulary": [
+    {
+      "word": "speculative",
+      "phonetic": "/ˈspekjələtɪv/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "推测的，猜测的",
+          "usage": "形容基于猜测而非确切事实的事物"
+        }
+      ]
+    },
+    {
+      "word": "worthless",
+      "phonetic": "/ˈwɜːθləs/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "无价值的，没用的",
+          "usage": "用来描述没有实用价值或意义的事物"
+        }
+      ]
+    },
+    {
+      "word": "deteriorate",
+      "phonetic": "/dɪˈtɪəriəreɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "恶化，变差",
+          "usage": "表示情况、质量等逐渐变得更差"
+        }
+      ]
+    },
+    {
+      "word": "uncertainty",
+      "phonetic": "/ʌnˈsɜːtnti/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "不确定性，不确定因素",
+          "usage": "指无法确定的情况或事物"
+        }
+      ]
+    },
+    {
+      "word": "multiply",
+      "phonetic": "/ˈmʌltɪplaɪ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "成倍增加，大量增多",
+          "usage": "表示数量在短时间内快速增长"
+        }
+      ]
+    },
+    {
+      "word": "cascade",
+      "phonetic": "/kæˈskeɪd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "连锁反应，逐级传递",
+          "usage": "描述事物像瀑布一样层层传递、影响后续环节"
+        }
+      ]
+    },
+    {
+      "word": "turbulent",
+      "phonetic": "/ˈtɜːbjələnt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "湍流的，动荡的",
+          "usage": "可形容气流、水流不稳定，也可形容局势动荡"
+        }
+      ]
+    },
+    {
+      "word": "squall",
+      "phonetic": "/skwɔːl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "飑，短时强风",
+          "usage": "气象学词汇，指突发的短时间强风"
+        }
+      ]
+    },
+    {
+      "word": "eddy",
+      "phonetic": "/ˈedi/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "涡流，漩涡",
+          "usage": "指气流、水流的漩涡状运动"
+        }
+      ]
+    },
+    {
+      "word": "grid",
+      "phonetic": "/ɡrɪd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "网格，坐标网",
+          "usage": "可指地理测量、计算模型中的网格系统"
+        }
+      ]
+    },
+    {
+      "word": "sensor",
+      "phonetic": "/ˈsensə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "传感器，探测设备",
+          "usage": "指用于检测、测量特定物理量的设备"
+        }
+      ]
+    },
+    {
+      "word": "humidity",
+      "phonetic": "/hjuːˈmɪdəti/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "湿度，湿气",
+          "usage": "气象学常用词汇，指空气中水汽的含量"
+        }
+      ]
+    },
+    {
+      "word": "meteorologist",
+      "phonetic": "/ˌmiːtiəˈrɒlədʒɪst/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "气象学家",
+          "usage": "指研究气象学、从事天气预报相关工作的专业人员"
+        }
+      ]
+    },
+    {
+      "word": "fluctuation",
+      "phonetic": "/ˌflʌktʃuˈeɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "波动，起伏",
+          "usage": "可指数值、状态等的不规则小幅变化"
+        }
+      ]
+    },
+    {
+      "word": "deviation",
+      "phonetic": "/ˌdiːviˈeɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "偏差，偏离",
+          "usage": "指和标准、平均值之间的差异"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "butterfly effect",
+      "usage": "指混沌理论中初始微小变化会导致后续系统巨大连锁反应的效应，可用于描述各领域的连锁影响现象",
+      "examples": [
+        {
+          "en": "The butterfly effect explains why a small decision today can completely change your life path years later.",
+          "zh": "蝴蝶效应解释了为什么今天的一个小决定可能会完全改变你多年后的人生轨迹。"
+        }
+      ]
+    },
+    {
+      "phrase": "a high degree of accuracy",
+      "usage": "用来形容极高的精准度，常和predict、measure、calculate等动词搭配",
+      "examples": [
+        {
+          "en": "This new instrument can measure the thickness of the material with a high degree of accuracy.",
+          "zh": "这台新仪器可以极高精准度地测量材料的厚度。"
+        }
+      ]
+    },
+    {
+      "phrase": "weather forecast",
+      "usage": "表示天气预报，是日常和气象领域的常用搭配",
+      "examples": [
+        {
+          "en": "According to the weather forecast, there will be a heavy snowstorm this weekend.",
+          "zh": "根据天气预报，本周末会有一场强暴风雪。"
+        }
+      ]
+    },
+    {
+      "phrase": "of the order of",
+      "usage": "表示“大约，差不多”，用来描述数量的大致范围，相当于approximately",
+      "examples": [
+        {
+          "en": "The cost of the project is of the order of one million dollars.",
+          "zh": "这个项目的成本大约是100万美元。"
+        }
+      ]
+    },
+    {
+      "phrase": "spaced apart",
+      "usage": "表示“间隔排列”，常和表示距离的词汇搭配，说明物体之间的间距",
+      "examples": [
+        {
+          "en": "The chairs in the waiting room are spaced two meters apart to keep social distance.",
+          "zh": "等候室的椅子间隔两米摆放，以保持社交距离。"
+        }
+      ]
+    },
+    {
+      "phrase": "all the way to",
+      "usage": "表示“一直到”，强调路径或范围的连续性，直到某个终点",
+      "examples": [
+        {
+          "en": "We walked all the way to the top of the mountain to see the sunrise.",
+          "zh": "我们一路走到山顶去看日出。"
+        }
+      ]
+    },
+    {
+      "phrase": "deviation from the average",
+      "usage": "表示“与平均值的偏差”，常用于统计、测量等场景，描述和均值的差异",
+      "examples": [
+        {
+          "en": "The researcher recorded the deviation from the average temperature for each month last year.",
+          "zh": "研究人员记录了去年每个月的气温与平均值的偏差。"
+        }
+      ]
+    },
+    {
+      "phrase": "and so on",
+      "usage": "表示“等等，诸如此类”，用于列举未尽的同类事物",
+      "examples": [
+        {
+          "en": "You can find all kinds of fruits in the market: apples, bananas, oranges, and so on.",
+          "zh": "你在市场里能找到各种水果：苹果、香蕉、橙子等等。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "让步状语从句：even so",
+      "definition": "用来表示转折关系，意思是“即便如此，尽管这样”，引出和前文情况相反的结果",
+      "structure": "陈述事实的句子 + , and even so, + 转折后的内容",
+      "usage": "用于在承认前文事实的基础上，引出仍然存在的相反情况",
+      "examples": [
+        {
+          "en": "He practiced very hard for the match, and even so, he didn't win the first prize.",
+          "zh": "他为了比赛非常努力地练习，即便如此，他也没有拿到一等奖。"
+        },
+        {
+          "en": "The travel agency has prepared everything for the trip, and even so, unexpected problems may still occur.",
+          "zh": "旅行社已经为旅行准备好了一切，尽管这样，还是可能会出现意外问题。"
+        }
+      ]
+    },
+    {
+      "title": "suppose引导的假设条件句",
+      "definition": "suppose表示“假设，假定”，用来引出非真实的假设条件，后面常接虚拟语气或陈述语气的假设场景",
+      "structure": "Suppose + 假设的条件句, + 假设下的结果",
+      "usage": "用于设想一个现实中不存在或尚未发生的情况，讨论其后续结果",
+      "examples": [
+        {
+          "en": "Suppose you had one million dollars, what would you do first?",
+          "zh": "假设你有一百万美元，你首先会做什么？"
+        },
+        {
+          "en": "Suppose there is no electricity for a whole day, how will you arrange your time?",
+          "zh": "假如一整天都没有电，你会怎么安排你的时间？"
+        }
+      ]
+    },
+    {
+      "title": "插入语的用法",
+      "definition": "插入语是句子中补充说明的成分，不影响句子的主干结构，通常用破折号或逗号隔开，用来补充额外信息",
+      "structure": "句子主干 + -- 插入语 -- + 剩余主干内容",
+      "usage": "用于对句中某个内容进行补充解释，让读者更好地理解相关概念",
+      "examples": [
+        {
+          "en": "The cost of the activity--and by activity I mean the autumn outing--is 200 yuan per person.",
+          "zh": "这个活动的费用——我说的活动是指秋游——是每人200元。"
+        },
+        {
+          "en": "The girl in red--she is my deskmate--won the first prize in the speech contest.",
+          "zh": "那个穿红衣服的女孩——她是我的同桌——在演讲比赛中拿了一等奖。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Why do ... make it impossible to do ...?",
+      "original": {
+        "en": "Why do small errors make it impossible to predict the weather system with a high degree of accuracy?",
+        "zh": "为什么小误差使得高精度预测天气系统变得不可能？"
+      },
+      "imitations": [
+        {
+          "en": "Why do frequent interruptions make it impossible to finish the report on time?",
+          "zh": "为什么频繁的干扰使得按时完成报告变得不可能？"
+        },
+        {
+          "en": "Why do lack of exercises make it impossible to keep a healthy body?",
+          "zh": "为什么缺乏锻炼使得保持健康的身体变得不可能？"
+        }
+      ]
+    },
+    {
+      "pattern": "Beyond ..., ... are speculative, and beyond ... they are worthless.",
+      "original": {
+        "en": "Beyond two or three days, the world's best weather forecasts are speculative, and beyond six or seven they are worthless.",
+        "zh": "超过两三天，世界上最好的天气预报也具有推测性，超过六七天的预报就毫无价值了。"
+      },
+      "imitations": [
+        {
+          "en": "Beyond three days, the stored fresh vegetables are not crisp enough, and beyond a week they are worthless.",
+          "zh": "超过三天，储存的新鲜蔬菜就不够脆了，超过一周就完全不能吃了。"
+        },
+        {
+          "en": "Beyond two hours, the battery of the old phone lasts for, and beyond four hours it will shut down automatically.",
+          "zh": "这部旧手机的电池续航不超过两小时，超过四小时就会自动关机。"
+        }
+      ]
+    },
+    {
+      "pattern": "... will still be unable to do ...",
+      "original": {
+        "en": "The computer will still be unable to predict whether Princeton, New Jersey, will have sun or rain on a day one month away.",
+        "zh": "这台计算机仍然无法预测一个月后新泽西州的普林斯顿是晴天还是雨天。"
+      },
+      "imitations": [
+        {
+          "en": "Even with enough money, we will still be unable to buy back the time we have wasted.",
+          "zh": "即便有足够的钱，我们仍然无法买回已经浪费的时间。"
+        },
+        {
+          "en": "Even if you apologize now, you will still be unable to change the fact that you have hurt her feelings.",
+          "zh": "即便你现在道歉，你仍然无法改变你已经伤害了她感情的事实。"
+        }
+      ]
+    }
+  ]
+}

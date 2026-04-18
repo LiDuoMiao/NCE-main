@@ -1,0 +1,398 @@
+{
+  "book": "NCE2",
+  "lesson": "79",
+  "title": "Why did the plane turn back?",
+  "vocabulary": [
+    {
+      "word": "flight",
+      "phonetic": "/flaɪt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "航班；飞行",
+          "usage": "指飞机从起飞到降落的旅程"
+        }
+      ]
+    },
+    {
+      "word": "frightened",
+      "phonetic": "/ˈfraɪtnd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "害怕的；受惊的",
+          "usage": "描述人感到恐惧的状态"
+        }
+      ]
+    },
+    {
+      "word": "attendant",
+      "phonetic": "/əˈtendənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "乘务员；服务员",
+          "usage": "在飞机、火车等交通工具上服务的人员"
+        }
+      ]
+    },
+    {
+      "word": "curious",
+      "phonetic": "/ˈkjʊəriəs/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "好奇的",
+          "usage": "对某事有兴趣想要知道更多"
+        }
+      ]
+    },
+    {
+      "word": "plant",
+      "phonetic": "/plɑːnt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "安置；埋放",
+          "usage": "指放置炸弹等物品"
+        }
+      ]
+    },
+    {
+      "word": "thoroughly",
+      "phonetic": "/ˈθʌrəli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "彻底地；完全地",
+          "usage": "表示做事非常仔细、完整"
+        }
+      ]
+    },
+    {
+      "word": "airport",
+      "phonetic": "/ˈeəpɔːt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "机场",
+          "usage": "飞机起飞和降落的场所"
+        }
+      ]
+    },
+    {
+      "word": "police",
+      "phonetic": "/pəˈliːs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "警察部门；警察",
+          "usage": "执法机关或警察人员"
+        }
+      ]
+    },
+    {
+      "word": "unpleasant",
+      "phonetic": "/ʌnˈpleznt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "不愉快的；讨厌的",
+          "usage": "描述令人不舒服的体验"
+        }
+      ]
+    },
+    {
+      "word": "experience",
+      "phonetic": "/ɪkˈspɪəriəns/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "经历；经验",
+          "usage": "个人经历过的事情"
+        }
+      ]
+    },
+    {
+      "word": "height",
+      "phonetic": "/haɪt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "高度；身高",
+          "usage": "物体或人从底部到顶部的距离"
+        }
+      ]
+    },
+    {
+      "word": "calm",
+      "phonetic": "/kɑːm/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "冷静的；平静的",
+          "usage": "描述人镇定、不慌张的状态"
+        }
+      ]
+    },
+    {
+      "word": "board",
+      "phonetic": "/bɔːd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "登机；船上",
+          "usage": "on board表示在船上或飞机上"
+        }
+      ]
+    },
+    {
+      "word": "occasional",
+      "phonetic": "/əˈkeɪʒənl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "偶尔的；临时的",
+          "usage": "不经常发生的"
+        }
+      ]
+    },
+    {
+      "word": "fortunately",
+      "phonetic": "/ˈfɔːtʃənətli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "幸运地",
+          "usage": "表示有好运气或好的结果"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "used to",
+      "usage": "表示过去习惯性的动作或状态，现在已不再如此",
+      "examples": [
+        {
+          "en": "I used to travel by air a great deal when I was a boy.",
+          "zh": "我小时候经常乘飞机旅行。"
+        },
+        {
+          "en": "My parents used to live in South America.",
+          "zh": "我父母过去住在南美洲。"
+        }
+      ]
+    },
+    {
+      "phrase": "take charge of",
+      "usage": "负责管理；接管",
+      "examples": [
+        {
+          "en": "A flight attendant would take charge of me.",
+          "zh": "一位乘务员会照顾我。"
+        }
+      ]
+    },
+    {
+      "phrase": "be used to",
+      "usage": "习惯于做某事",
+      "examples": [
+        {
+          "en": "I am used to travelling by air.",
+          "zh": "我习惯乘飞机旅行。"
+        }
+      ]
+    },
+    {
+      "phrase": "on one occasion",
+      "usage": "在某一次；有一次",
+      "examples": [
+        {
+          "en": "Only on one occasion have I ever felt frightened.",
+          "zh": "我只曾在一次感到害怕。"
+        }
+      ]
+    },
+    {
+      "phrase": "gain height",
+      "usage": "上升；爬升",
+      "examples": [
+        {
+          "en": "The plane was slowly gaining height.",
+          "zh": "飞机正在缓慢爬升。"
+        }
+      ]
+    },
+    {
+      "phrase": "turn round",
+      "usage": "掉头；转向",
+      "examples": [
+        {
+          "en": "The plane suddenly turned round and flew back to the airport.",
+          "zh": "飞机突然掉头飞回机场。"
+        }
+      ]
+    },
+    {
+      "phrase": "keep calm",
+      "usage": "保持冷静",
+      "examples": [
+        {
+          "en": "A flight attendant told us to keep calm.",
+          "zh": "乘务员告诉我们保持冷静。"
+        }
+      ]
+    },
+    {
+      "phrase": "get off",
+      "usage": "下车/下飞机",
+      "examples": [
+        {
+          "en": "Get off the plane quietly as soon as it had touched down.",
+          "zh": "飞机一着陆就安静地下飞机。"
+        }
+      ]
+    },
+    {
+      "phrase": "on board",
+      "usage": "在船上/飞机上",
+      "examples": [
+        {
+          "en": "Everybody on board was worried.",
+          "zh": "飞机上的每个人都很担心。"
+        }
+      ]
+    },
+    {
+      "phrase": "curious to find out",
+      "usage": "好奇想知道",
+      "examples": [
+        {
+          "en": "We were curious to find out what had happened.",
+          "zh": "我们好奇想知道发生了什么事。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "used to 的用法",
+      "definition": "used to表示过去经常发生的动作或存在的状态，而现在不再如此",
+      "structure": "主语 + used to + 动词原形",
+      "usage": "用于描述过去的习惯、状态，与现在形成对比",
+      "examples": [
+        {
+          "en": "I used to travel by air a great deal.",
+          "zh": "我过去经常乘飞机旅行。"
+        },
+        {
+          "en": "My parents used to live in South America.",
+          "zh": "我父母过去住在南美洲。"
+        }
+      ]
+    },
+    {
+      "title": "过去进行时 + when + 一般过去时",
+      "definition": "表示在过去某一时刻正在进行的动作被另一突然发生的动作打断",
+      "structure": "过去进行时 + when + 一般过去时",
+      "usage": "when引导的短句通常表示突发情况，when可理解为'就在这时'",
+      "examples": [
+        {
+          "en": "We were flying low over the city when the plane suddenly turned round.",
+          "zh": "我们正在城市上空低飞，这时飞机突然掉头。"
+        },
+        {
+          "en": "I was reading a book when the phone rang.",
+          "zh": "我正在看书，突然电话响了。"
+        }
+      ]
+    },
+    {
+      "title": "过去完成时",
+      "definition": "表示在过去某一时刻之前已经完成的动作",
+      "structure": "Had + 过去分词",
+      "usage": "用于描述过去的过去，常与after、before、when等连用，或用于宾语从句中",
+      "examples": [
+        {
+          "en": "The police had been told that a bomb had been planted.",
+          "zh": "警察已被告知飞机上被安置了一颗炸弹。"
+        },
+        {
+          "en": "After we had landed, the plane was searched.",
+          "zh": "我们降落之后，飞机被彻底搜查。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "主语 + used to + 动词原形",
+      "original": {
+        "en": "I used to travel by air a great deal.",
+        "zh": "我过去经常乘飞机旅行。"
+      },
+      "imitations": [
+        {
+          "en": "She used to live in Paris.",
+          "zh": "她过去住在巴黎。"
+        },
+        {
+          "en": "He used to smoke, but now he doesn't.",
+          "zh": "他过去抽烟，但现在不抽了。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + be used to + doing sth",
+      "original": {
+        "en": "I am used to travelling by air.",
+        "zh": "我习惯乘飞机旅行。"
+      },
+      "imitations": [
+        {
+          "en": "She is used to getting up early.",
+          "zh": "她习惯早起。"
+        },
+        {
+          "en": "They are used to living in a big city.",
+          "zh": "他们习惯住在大城市。"
+        }
+      ]
+    },
+    {
+      "pattern": "过去进行时 + when + 一般过去时",
+      "original": {
+        "en": "We were flying low over the city and slowly gaining height, when the plane suddenly turned round.",
+        "zh": "我们正在城市上空低飞并缓慢爬升，突然飞机掉头了。"
+      },
+      "imitations": [
+        {
+          "en": "I was walking home when it started to rain.",
+          "zh": "我正走回家，突然开始下雨了。"
+        },
+        {
+          "en": "She was cooking dinner when the doorbell rang.",
+          "zh": "她正在做晚饭，突然门铃响了。"
+        }
+      ]
+    },
+    {
+      "pattern": "after + 过去完成时",
+      "original": {
+        "en": "After we had landed, the plane was searched thoroughly.",
+        "zh": "我们降落之后，飞机被彻底搜查。"
+      },
+      "imitations": [
+        {
+          "en": "After I had finished my homework, I watched TV.",
+          "zh": "我完成作业之后看了电视。"
+        },
+        {
+          "en": "After he had left, we started to clean the room.",
+          "zh": "他离开之后，我们开始打扫房间。"
+        }
+      ]
+    }
+  ]
+}

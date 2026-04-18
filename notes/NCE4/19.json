@@ -1,0 +1,350 @@
+{
+  "book": "NCE4",
+  "lesson": "19",
+  "title": "Lesson 19",
+  "vocabulary": [
+    {
+      "word": "speculation",
+      "phonetic": "/ˌspekjuˈleɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "推测，猜测",
+          "usage": "指没有足够证据的思考、推断，常搭配介词about/on引出推测的对象"
+        }
+      ]
+    },
+    {
+      "word": "literally",
+      "phonetic": "/ˈlɪtərəli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "确实地，真正地；字面上地",
+          "usage": "用于强调所说内容属实，也可指按字面意思理解"
+        }
+      ]
+    },
+    {
+      "word": "odd",
+      "phonetic": "/ɒd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "奇怪的，怪异的；奇数的",
+          "usage": "形容事物不合常理、难以解释，也可表示数字为奇数"
+        }
+      ]
+    },
+    {
+      "word": "tissue",
+      "phonetic": "/ˈtɪʃuː/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "（生物）组织；纸巾",
+          "usage": "生物学语境下指动植物的组织，日常语境可表示纸巾"
+        }
+      ]
+    },
+    {
+      "word": "plausible",
+      "phonetic": "/ˈplɔːzəbl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "貌似可信的，看似合理的",
+          "usage": "形容说法、解释等表面上看起来有道理，但不一定正确"
+        }
+      ]
+    },
+    {
+      "word": "hypothesis",
+      "phonetic": "/haɪˈpɒθəsɪs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "假说，假设",
+          "usage": "科学研究中未经证实的设想，复数形式为hypotheses"
+        }
+      ]
+    },
+    {
+      "word": "electroencephalograph",
+      "phonetic": "/ɪˌlektrəʊenˈsefələɡrɑːf/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "脑电图仪",
+          "usage": "医学术语，指记录大脑电活动的设备，常缩写为EEG"
+        }
+      ]
+    },
+    {
+      "word": "electrode",
+      "phonetic": "/ɪˈlektrəʊd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "电极",
+          "usage": "用于传导电流的装置，常见于医疗或电子设备语境"
+        }
+      ]
+    },
+    {
+      "word": "scalp",
+      "phonetic": "/skælp/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "头皮",
+          "usage": "指覆盖头骨的皮肤和毛发层"
+        }
+      ]
+    },
+    {
+      "word": "psychiatrist",
+      "phonetic": "/saɪˈkaɪətrɪst/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "精神病学家，精神科医生",
+          "usage": "指专门研究、治疗精神疾病的医生"
+        }
+      ]
+    },
+    {
+      "word": "punctuate",
+      "phonetic": "/ˈpʌŋktʃueɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "不时打断；给……加标点",
+          "usage": "常见搭配be punctuated with/by，表示某过程中不时出现某事物"
+        }
+      ]
+    },
+    {
+      "word": "jerky",
+      "phonetic": "/ˈdʒɜːki/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "忽动忽停的，不平稳的",
+          "usage": "形容动作不连贯、突然且急促"
+        }
+      ]
+    },
+    {
+      "word": "exhibit",
+      "phonetic": "/ɪɡˈzɪbɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "表现出，显示；展览",
+          "usage": "正式用语，指表现出某种行为、特质或症状，也可表示展示物品"
+        }
+      ]
+    },
+    {
+      "word": "implication",
+      "phonetic": "/ˌɪmplɪˈkeɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "含义，暗示；可能的影响",
+          "usage": "指某事隐含的意义，或某事件可能带来的结果、影响"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "in terms of",
+      "usage": "用于从某个角度、某个方面谈论事物，引出讨论的维度",
+      "examples": [
+        {
+          "en": "Rest, in terms of muscle relaxation and so on, can be achieved by a brief period lying, or even sitting down.",
+          "zh": "就肌肉放松等方面而言，短暂的躺卧甚至坐着就能得到休息。"
+        },
+        {
+          "en": "In terms of customer satisfaction, the new policy is a great success.",
+          "zh": "从客户满意度来看，新政策非常成功。"
+        }
+      ]
+    },
+    {
+      "phrase": "to a degree",
+      "usage": "表示“在某种程度上”，用于说明某事物的适用范围不是绝对的",
+      "examples": [
+        {
+          "en": "The body's tissues are self-repairing and self-restoring to a degree, and function best when more or less continuously active.",
+          "zh": "人体组织在一定程度上有自我修复和自我恢复的能力，在或多或少持续活动时运作得最好。"
+        },
+        {
+          "en": "I agree with his argument to a degree, but there are still points I doubt.",
+          "zh": "我在一定程度上同意他的论点，但仍有一些地方我持怀疑态度。"
+        }
+      ]
+    },
+    {
+      "phrase": "be concerned with",
+      "usage": "表示“与……有关；涉及”，说明事物的关联对象",
+      "examples": [
+        {
+          "en": "In fact a basic amount of movement occurs during sleep which is specifically concerned with preventing muscle inactivity.",
+          "zh": "事实上，睡眠期间会有少量活动，这些活动正是为了防止肌肉不活动。"
+        },
+        {
+          "en": "This research is concerned with the effects of air pollution on human health.",
+          "zh": "这项研究涉及空气污染对人类健康的影响。"
+        }
+      ]
+    },
+    {
+      "phrase": "were it not for",
+      "usage": "虚拟语气结构，意为“要不是，如果没有”，表示与事实相反的假设",
+      "examples": [
+        {
+          "en": "This might be a plausible hypothesis were it not for two factors.",
+          "zh": "要不是有两个因素，这个假说似乎是合理的。"
+        },
+        {
+          "en": "Were it not for your help, I would never have finished the project on time.",
+          "zh": "要不是你的帮助，我绝不可能按时完成这个项目。"
+        }
+      ]
+    },
+    {
+      "phrase": "on end",
+      "usage": "放在表示时间的名词后，意为“连续地，不断地”",
+      "examples": [
+        {
+          "en": "If one group of people were disturbed from their eye-movement sleep for several nights on end, and another group were disturbed for an equal period of time but when they were not exhibiting eye-movements.",
+          "zh": "如果一组人连续几晚在眼动睡眠阶段被叫醒，另一组人在同样长的时间里被叫醒，但叫醒时间是在他们没有出现眼动的阶段。"
+        },
+        {
+          "en": "He worked for 12 hours on end to meet the deadline.",
+          "zh": "为了赶截止日期，他连续工作了12个小时。"
+        }
+      ]
+    },
+    {
+      "phrase": "more or less",
+      "usage": "意为“几乎，差不多；大概”，表示数量、程度接近某个情况",
+      "examples": [
+        {
+          "en": "the first group began to show some personality disorders while the others seemed more or less unaffected.",
+          "zh": "第一组人开始出现一些性格紊乱的症状，而另一组人几乎没有受到影响。"
+        },
+        {
+          "en": "The work is more or less finished, we just need to check the details.",
+          "zh": "工作差不多完成了，我们只需要检查一下细节。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "虚拟条件句的倒装结构",
+      "definition": "在虚拟语气的条件从句中，如果含有were, should, had等助动词，可以省略if，将这些助动词移到句首构成倒装，语义与正常语序的虚拟条件句一致",
+      "structure": "Were/Should/Had + 主语 + 其他成分，主句",
+      "usage": "用于正式书面语中，表示与事实相反的假设，或对未来的虚拟设想",
+      "examples": [
+        {
+          "en": "This might be a plausible hypothesis were it not for two factors.",
+          "zh": "要不是有两个因素，这个假说似乎是合理的。"
+        },
+        {
+          "en": "Had I known about the meeting earlier, I would have attended it.",
+          "zh": "要是我早知道有这个会议，我就会参加了。"
+        }
+      ]
+    },
+    {
+      "title": "分隔式定语从句",
+      "definition": "指定语从句与它所修饰的先行词被其他成分隔开的情况，通常是为了保持句子平衡，避免头重脚轻",
+      "structure": "先行词 + 其他成分 + 关系代词/关系副词 + 定语从句",
+      "usage": "当先行词后面的修饰成分较短，而定语从句较长时，常使用分隔式定语从句，需要结合语境判断定语从句修饰的对象",
+      "examples": [
+        {
+          "en": "In fact a basic amount of movement occurs during sleep which is specifically concerned with preventing muscle inactivity.",
+          "zh": "事实上，睡眠期间会有少量活动，这些活动正是为了防止肌肉不活动。"
+        },
+        {
+          "en": "A new teacher will come tomorrow who will teach you English.",
+          "zh": "明天会来一位新老师，教你们英语。"
+        }
+      ]
+    },
+    {
+      "title": "not...but... 并列结构",
+      "definition": "用于连接两个并列的成分，表示“不是……而是……”，否定前者，肯定后者，前后连接的成分语法结构需保持一致",
+      "structure": "not + 被否定的成分 + but + 被肯定的成分",
+      "usage": "用于强调后者的重要性，可连接名词、动词、介词短语等多种成分",
+      "examples": [
+        {
+          "en": "The implications of all this were that it was not the disturbance of sleep that mattered, but the disturbance of dreaming.",
+          "zh": "这一切表明，重要的不是睡眠受到干扰，而是做梦受到了干扰。"
+        },
+        {
+          "en": "What caused the accident was not the driver's carelessness, but the bad road condition.",
+          "zh": "造成事故的不是司机的粗心，而是糟糕的路况。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "It is fairly clear that + 主语从句",
+      "original": {
+        "en": "It is fairly clear that the sleeping period must have some function, and because there is so much of it the function would seem to be important.",
+        "zh": "很明显，睡眠期必然有某种作用，而且因为睡眠时间很长，这种作用似乎还很重要。"
+      },
+      "imitations": [
+        {
+          "en": "It is fairly clear that regular exercise plays a key role in maintaining physical and mental health.",
+          "zh": "很明显，规律锻炼对保持身心健康起着关键作用。"
+        },
+        {
+          "en": "It is fairly clear that the rapid development of digital technology has greatly changed people's way of life.",
+          "zh": "很明显，数字技术的快速发展极大地改变了人们的生活方式。"
+        }
+      ]
+    },
+    {
+      "pattern": "One odd finding that makes the problem puzzling is that + 表语从句",
+      "original": {
+        "en": "one odd finding that makes the problem puzzling is that it looks very much as if sleeping is not simply a matter of giving the body a rest.",
+        "zh": "一个让这个问题变得费解的奇怪发现是，看起来睡眠似乎不仅仅是让身体得到休息。"
+      },
+      "imitations": [
+        {
+          "en": "One odd finding that makes the research confusing is that the experimental results are completely opposite to what we expected.",
+          "zh": "一个让这项研究变得令人困惑的奇怪发现是，实验结果和我们预期的完全相反。"
+        },
+        {
+          "en": "One odd finding that makes the phenomenon confusing is that the species can survive in extremely cold environments that were thought to be unsuitable for life.",
+          "zh": "一个让这个现象变得费解的奇怪发现是，这个物种能在之前被认为不适合生命生存的极寒环境中存活。"
+        }
+      ]
+    },
+    {
+      "pattern": "If + 一般过去时的被动语态 + and + 一般过去时的被动语态 + 主句",
+      "original": {
+        "en": "If one group of people were disturbed from their eye-movement sleep for several nights on end, and another group were disturbed for an equal period of time but when they were not exhibiting eye-movements, the first group began to show some personality disorders while the others seemed more or less unaffected.",
+        "zh": "如果一组人连续几晚在眼动睡眠阶段被叫醒，另一组人在同样长的时间里被叫醒，但叫醒时间是在他们没有出现眼动的阶段，第一组人开始出现一些性格紊乱的症状，而另一组人几乎没有受到影响。"
+      },
+      "imitations": [
+        {
+          "en": "If one group of students were given 30 minutes of reading time every day, and another group were given the same amount of time to do math exercises, the first group would show significant improvement in writing skills after three months.",
+          "zh": "如果一组学生每天有30分钟的阅读时间，另一组学生有同样长的时间做数学练习，三个月后第一组学生的写作能力会有显著提升。"
+        },
+        {
+          "en": "If one batch of seeds were planted in acidic soil, and another batch of the same seeds were planted in alkaline soil with the same water and sunlight, the former would grow much slower than the latter.",
+          "zh": "如果一批种子被种在酸性土壤里，另一批同样的种子被种在碱性土壤里，给予同样的水分和光照，前者会比后者生长得慢得多。"
+        }
+      ]
+    }
+  ]
+}

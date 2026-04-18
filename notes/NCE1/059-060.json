@@ -1,0 +1,329 @@
+{
+  "book": "NCE1",
+  "lesson": "059-060",
+  "title": "Lesson 59",
+  "vocabulary": [
+    {
+      "word": "envelope",
+      "phonetic": "/ˈenvələʊp/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "信封",
+          "usage": "用于装信件或文件的纸袋"
+        }
+      ]
+    },
+    {
+      "word": "size",
+      "phonetic": "/saɪz/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "尺寸，大小",
+          "usage": "用于描述物体的大小规格"
+        }
+      ]
+    },
+    {
+      "word": "large",
+      "phonetic": "/lɑːdʒ/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "大的，大的尺码",
+          "usage": "与small相对，表示尺寸大"
+        }
+      ]
+    },
+    {
+      "word": "small",
+      "phonetic": "/smɔːl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "小的，小的尺码",
+          "usage": "与large相对，表示尺寸小"
+        }
+      ]
+    },
+    {
+      "word": "writing paper",
+      "phonetic": "/ˈraɪtɪŋ ˈpeɪpə/",
+      "meanings": [
+        {
+          "pos": "noun phrase",
+          "meaning": "书写纸，信纸",
+          "usage": "用于书写的纸张"
+        }
+      ]
+    },
+    {
+      "word": "pad",
+      "phonetic": "/pæd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "拍纸簿，便笺本",
+          "usage": "多页纸订在一起的本子"
+        }
+      ]
+    },
+    {
+      "word": "glue",
+      "phonetic": "/ɡluː/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "胶水",
+          "usage": "用于粘合物品的液体"
+        }
+      ]
+    },
+    {
+      "word": "bottle",
+      "phonetic": "/ˈbɒtl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "瓶子",
+          "usage": "盛放液体或物品的容器"
+        }
+      ]
+    },
+    {
+      "word": "chalk",
+      "phonetic": "/tʃɔːk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "粉笔",
+          "usage": "教师在黑板上写字用的白色或彩色笔"
+        }
+      ]
+    },
+    {
+      "word": "box",
+      "phonetic": "/bɒks/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "盒子，箱子",
+          "usage": "盛放物品的容器"
+        }
+      ]
+    },
+    {
+      "word": "change",
+      "phonetic": "/tʃeɪndʒ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "零钱，找的零钱",
+          "usage": "购物时找回的多余金额"
+        }
+      ]
+    },
+    {
+      "word": "else",
+      "phonetic": "/els/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "其他的，别的",
+          "usage": "用于询问除此之外还想要什么"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Is that all?",
+      "usage": "购物结束时常用语，询问是否还需要其他东西",
+      "examples": [
+        {
+          "en": "Is that all? That's all, thank you.",
+          "zh": "就这些吗？是的，就这些，谢谢。"
+        }
+      ]
+    },
+    {
+      "phrase": "What else do you want?",
+      "usage": "询问对方还想要什么其他东西",
+      "examples": [
+        {
+          "en": "What else do you want? I want my change.",
+          "zh": "你还想要什么？我要找我零钱。"
+        }
+      ]
+    },
+    {
+      "phrase": "Do you have any...?",
+      "usage": "用于询问是否有某物",
+      "examples": [
+        {
+          "en": "Do you have any writing paper?",
+          "zh": "你有信纸吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "I don't have any...",
+      "usage": "表示没有某物，用于否定句",
+      "examples": [
+        {
+          "en": "I don't have any small pads.",
+          "zh": "我没有小号的便笺本。"
+        }
+      ]
+    },
+    {
+      "phrase": "I only have...",
+      "usage": "表示只有某种东西，用于肯定句",
+      "examples": [
+        {
+          "en": "I only have large ones.",
+          "zh": "我只有大号的。"
+        }
+      ]
+    },
+    {
+      "phrase": "large size or small size",
+      "usage": "用于询问或选择尺码大小",
+      "examples": [
+        {
+          "en": "Do you want the large size or the small size?",
+          "zh": "你要大号的还是小号的？"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "一般疑问句 (Yes/No Question) - 使用 Do/Does",
+      "definition": "用Do或Does引导的疑问句，用来询问某人是否做某事或某物是否存在",
+      "structure": "Do/Does + 主语 + 动词原形 + ...?",
+      "usage": "当主语是第一人称(I, we)、第二人称(you)或复数主语时用Do；当主语是第三人称单数(he, she, it)时用Does",
+      "examples": [
+        {
+          "en": "Do you have any writing paper?",
+          "zh": "你有信纸吗？"
+        },
+        {
+          "en": "Do you want a pad?",
+          "zh": "你想要一个便笺本吗？"
+        },
+        {
+          "en": "Does she have any brothers?",
+          "zh": "她有兄弟吗？"
+        }
+      ]
+    },
+    {
+      "title": "some和any的用法",
+      "definition": "some和any都表示“一些”，some用于肯定句，any用于否定句和疑问句",
+      "structure": "some + 可数名词复数/不可数名词; any + 可数名词复数/不可数名词",
+      "usage": "在否定句和疑问句中用any，在肯定句中用some（表示请求或建议时也可用some）",
+      "examples": [
+        {
+          "en": "I want some envelopes.",
+          "zh": "我想要一些信封。"
+        },
+        {
+          "en": "I don't have any small pads.",
+          "zh": "我没有小号的便笺本。"
+        },
+        {
+          "en": "Do you have any writing paper?",
+          "zh": "你有信纸吗？"
+        }
+      ]
+    },
+    {
+      "title": "选择疑问句 (Choice Question)",
+      "definition": "用or连接两个选项，询问对方选择哪一个",
+      "structure": "Do you want A or B?",
+      "usage": "用于给出两个或多个选项让对方选择，回答时不用yes或no",
+      "examples": [
+        {
+          "en": "Do you want the large size or the small size?",
+          "zh": "你要大号的还是小号的？"
+        },
+        {
+          "en": "Do you want tea or coffee?",
+          "zh": "你想要茶还是咖啡？"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Do you want the large size or the small size?",
+      "original": {
+        "en": "Do you want the large size or the small size?",
+        "zh": "你要大号的还是小号的？"
+      },
+      "imitations": [
+        {
+          "en": "Do you want the red one or the blue one?",
+          "zh": "你要红色的还是蓝色的？"
+        },
+        {
+          "en": "Do you want tea or coffee?",
+          "zh": "你要茶还是咖啡？"
+        }
+      ]
+    },
+    {
+      "pattern": "Do you have any + 名词?",
+      "original": {
+        "en": "Do you have any writing paper?",
+        "zh": "你有信纸吗？"
+      },
+      "imitations": [
+        {
+          "en": "Do you have any envelopes?",
+          "zh": "你有信封吗？"
+        },
+        {
+          "en": "Do you have any glue?",
+          "zh": "你有胶水吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "I want some + 名词.",
+      "original": {
+        "en": "I want some envelopes, please.",
+        "zh": "我想要一些信封。"
+      },
+      "imitations": [
+        {
+          "en": "I want some stamps, please.",
+          "zh": "我想要一些邮票。"
+        },
+        {
+          "en": "I want some milk, please.",
+          "zh": "我想要一些牛奶。"
+        }
+      ]
+    },
+    {
+      "pattern": "I only have + 名词.",
+      "original": {
+        "en": "I only have large ones.",
+        "zh": "我只有大号的。"
+      },
+      "imitations": [
+        {
+          "en": "I only have small boxes.",
+          "zh": "我只有小盒子。"
+        },
+        {
+          "en": "I only have blue pens.",
+          "zh": "我只有蓝色的钢笔。"
+        }
+      ]
+    }
+  ]
+}

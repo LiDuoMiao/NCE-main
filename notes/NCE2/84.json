@@ -1,0 +1,428 @@
+{
+  "book": "NCE2",
+  "lesson": "84",
+  "title": "Who will be driving the buses next week?",
+  "vocabulary": [
+    {
+      "word": "strike",
+      "phonetic": "/straɪk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "罢工",
+          "usage": "指工人集体停止工作以要求改善条件"
+        },
+        {
+          "pos": "verb",
+          "meaning": "打击，敲击",
+          "usage": "表示敲打或攻击的动作"
+        }
+      ]
+    },
+    {
+      "word": "busmen",
+      "phonetic": "/ˈbʌsmən/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "公共汽车司机",
+          "usage": "busman的复数形式，指公共汽车司机"
+        }
+      ]
+    },
+    {
+      "word": "volunteer",
+      "phonetic": "/ˌvɒlənˈtɪə/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "自愿做某事",
+          "usage": "表示主动、无偿地提供服务"
+        },
+        {
+          "pos": "noun",
+          "meaning": "志愿者",
+          "usage": "指自愿提供服务的人"
+        }
+      ]
+    },
+    {
+      "word": "expert",
+      "phonetic": "/ˈekspɜːt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "专家",
+          "usage": "指在某一领域有专业技能的人"
+        },
+        {
+          "pos": "adj",
+          "meaning": "熟练的，内行的",
+          "usage": "形容在某方面很有经验"
+        }
+      ]
+    },
+    {
+      "word": "relief",
+      "phonetic": "/rɪˈliːf/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "减轻，解除",
+          "usage": "指痛苦、压力或困难的缓解"
+        },
+        {
+          "pos": "noun",
+          "meaning": "轻松，解脱",
+          "usage": "表示焦虑或担忧消除后的感觉"
+        }
+      ]
+    },
+    {
+      "word": "gratitude",
+      "phonetic": "/ˈɡrætɪtjuːd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "感激，感谢",
+          "usage": "对他人帮助或善意的感激之情"
+        }
+      ]
+    },
+    {
+      "word": "condition",
+      "phonetic": "/kənˈdɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "条件，状况",
+          "usage": "指事物的状态或前提要求"
+        }
+      ]
+    },
+    {
+      "word": "pressure",
+      "phonetic": "/ˈpreʃə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "压力，压迫",
+          "usage": "指物理压力或心理压力"
+        }
+      ]
+    },
+    {
+      "word": "object",
+      "phonetic": "/əbˈdʒekt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "反对，不赞成",
+          "usage": "表示不同意或抗议"
+        },
+        {
+          "pos": "noun",
+          "meaning": "物体，目标",
+          "usage": "指具体的东西或目的"
+        }
+      ]
+    },
+    {
+      "word": "extent",
+      "phonetic": "/ɪkˈstent/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "程度，范围",
+          "usage": "指某事涉及的范围或大小"
+        }
+      ]
+    },
+    {
+      "word": "general",
+      "phonetic": "/ˈdʒenrəl/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "总的，普遍的",
+          "usage": "指涉及大多数人或事物的"
+        }
+      ]
+    },
+    {
+      "word": "agreement",
+      "phonetic": "/əˈɡriːmənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "协议，同意",
+          "usage": "指双方达成的共识或合约"
+        }
+      ]
+    },
+    {
+      "word": "offer",
+      "phonetic": "/ˈɒfə/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "提供，给予",
+          "usage": "指向他人提供帮助或物品"
+        }
+      ]
+    },
+    {
+      "word": "ride",
+      "phonetic": "/raɪd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "乘车，搭便车",
+          "usage": "指乘坐交通工具的旅程"
+        },
+        {
+          "pos": "verb",
+          "meaning": "骑，乘",
+          "usage": "表示骑马、骑车或乘车"
+        }
+      ]
+    },
+    {
+      "word": "pass",
+      "phonetic": "/pɑːs/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "通过，经过",
+          "usage": "表示通过考试、地点或时间"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "go on strike",
+      "usage": "举行罢工，开始罢工",
+      "examples": [
+        {
+          "en": "The workers have decided to go on strike next week.",
+          "zh": "工人们决定下周举行罢工。"
+        }
+      ]
+    },
+    {
+      "phrase": "due to begin",
+      "usage": "预定开始，预定举行",
+      "examples": [
+        {
+          "en": "The meeting is due to begin at 9 o'clock.",
+          "zh": "会议预定九点开始。"
+        }
+      ]
+    },
+    {
+      "phrase": "to some extent",
+      "usage": "在某种程度上",
+      "examples": [
+        {
+          "en": "To some extent, I agree with you.",
+          "zh": "在某种程度上，我同意你的看法。"
+        }
+      ]
+    },
+    {
+      "phrase": "in two days' time",
+      "usage": "两天后，两天之后",
+      "examples": [
+        {
+          "en": "The exam will be held in two days' time.",
+          "zh": "考试将在两天后举行。"
+        }
+      ]
+    },
+    {
+      "phrase": "even so",
+      "usage": "即使如此，尽管这样",
+      "examples": [
+        {
+          "en": "It was cold; even so, we went swimming.",
+          "zh": "天气很冷，尽管如此我们还是去游泳了。"
+        }
+      ]
+    },
+    {
+      "phrase": "so far",
+      "usage": "到目前为止，迄今",
+      "examples": [
+        {
+          "en": "So far, everything has been smooth.",
+          "zh": "到目前为止，一切都很顺利。"
+        }
+      ]
+    },
+    {
+      "phrase": "have stated that",
+      "usage": "已经声明/表明",
+      "examples": [
+        {
+          "en": "The government has stated that the policy will not change.",
+          "zh": "政府已经声明政策不会改变。"
+        }
+      ]
+    },
+    {
+      "phrase": "express gratitude",
+      "usage": "表达感激之情",
+      "examples": [
+        {
+          "en": "I want to express my gratitude to all my teachers.",
+          "zh": "我想对所有老师表达我的感激之情。"
+        }
+      ]
+    },
+    {
+      "phrase": "drive too fast",
+      "usage": "开车太快",
+      "examples": [
+        {
+          "en": "Many people object that young drivers drive too fast.",
+          "zh": "许多人反对年轻人开车太快。"
+        }
+      ]
+    },
+    {
+      "phrase": "free rides",
+      "usage": "免费乘车",
+      "examples": [
+        {
+          "en": "The company offered free rides to all passengers during the strike.",
+          "zh": "罢工期间公司向所有乘客提供免费乘车服务。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "将来进行时 (Future Continuous Tense)",
+      "definition": "表示将来某一时刻或时间段正在进行的动作",
+      "structure": "主语 + will be + 动词-ing",
+      "usage": "用于描述在将来某个具体时间正在发生的动作，或询问他人的计划，语气比 will + 动词原形 更委婉",
+      "examples": [
+        {
+          "en": "Who will be driving the buses next week?",
+          "zh": "下周谁将驾驶公共汽车？"
+        },
+        {
+          "en": "I will be waiting for you at the station at 8 o'clock tomorrow.",
+          "zh": "明天八点我会在车站等你。"
+        },
+        {
+          "en": "Will you be working late tonight?",
+          "zh": "今晚你会工作到很晚吗？"
+        }
+      ]
+    },
+    {
+      "title": "现在完成时 (Present Perfect Tense)",
+      "definition": "表示过去发生的动作对现在造成的影响或结果",
+      "structure": "主语 + have/has + 过去分词",
+      "usage": "用于描述过去发生但与现在有联系的事件，常与already, yet, just, so far等连用",
+      "examples": [
+        {
+          "en": "Busmen have decided to go on strike next week.",
+          "zh": "公交车司机已决定下周举行罢工。"
+        },
+        {
+          "en": "The students are going to take the test in two days' time. They have not taken it yet.",
+          "zh": "学生们将在两天后参加考试，他们还没参加。"
+        }
+      ]
+    },
+    {
+      "title": "be going to 表示将来",
+      "definition": "表示已经计划或决定要做的事，或根据现有迹象判断将要发生的事",
+      "structure": "主语 + am/is/are + going to + 动词原形",
+      "usage": "表示人的主观意图、计划或打算，或根据当前情况预测将要发生的事",
+      "examples": [
+        {
+          "en": "Many owners of private cars are going to offer 'free rides' to people.",
+          "zh": "许多私家车主打算向人们提供免费乘车服务。"
+        },
+        {
+          "en": "The students are going to take the test in two days' time.",
+          "zh": "学生们将在两天后参加考试。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "主语 + have/has decided to + 动词原形",
+      "original": {
+        "en": "Busmen have decided to go on strike next week.",
+        "zh": "公交车司机决定下周举行罢工。"
+      },
+      "imitations": [
+        {
+          "en": "We have decided to travel abroad this summer.",
+          "zh": "我们决定今年夏天去国外旅行。"
+        },
+        {
+          "en": "She has decided to quit her job.",
+          "zh": "她决定辞职。"
+        }
+      ]
+    },
+    {
+      "pattern": "Who will be + 动词-ing + ...?",
+      "original": {
+        "en": "Who will be driving the buses next week?",
+        "zh": "下周谁将驾驶公共汽车？"
+      },
+      "imitations": [
+        {
+          "en": "Who will be teaching us English next semester?",
+          "zh": "下学期谁教我们英语？"
+        },
+        {
+          "en": "Who will be waiting for us at the airport?",
+          "zh": "谁会在机场等我们？"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + is/are going to + 动词原形",
+      "original": {
+        "en": "The students are going to take the test in two days' time.",
+        "zh": "学生们将在两天后参加考试。"
+      },
+      "imitations": [
+        {
+          "en": "I am going to visit my grandparents this weekend.",
+          "zh": "我这个周末要去看望祖父母。"
+        },
+        {
+          "en": "They are going to open a new restaurant next month.",
+          "zh": "他们下个月要开一家新餐厅。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + have/has stated that + 从句",
+      "original": {
+        "en": "The busmen have stated that the strike will continue.",
+        "zh": "公交车司机已声明罢工将继续进行。"
+      },
+      "imitations": [
+        {
+          "en": "The manager has stated that the company will not lay off any employees.",
+          "zh": "经理已声明公司不会裁员。"
+        },
+        {
+          "en": "The doctor has stated that the patient needs more rest.",
+          "zh": "医生已声明病人需要更多休息。"
+        }
+      ]
+    }
+  ]
+}

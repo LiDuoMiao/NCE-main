@@ -1,0 +1,359 @@
+{
+  "book": "NCE3",
+  "lesson": "45",
+  "title": "Lesson 45",
+  "vocabulary": [
+    {
+      "word": "restrict",
+      "phonetic": "/rɪˈstrɪkt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "限制，约束",
+          "usage": "及物动词，常接名词作宾语，常见搭配为restrict sb/sth to sth，表示“把某人/某物限制在某范围内”"
+        }
+      ]
+    },
+    {
+      "word": "condemn",
+      "phonetic": "/kənˈdem/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "谴责，指责",
+          "usage": "及物动词，常用于正式语境中表示强烈反对某行为，常见搭配为condemn sb for (doing) sth"
+        }
+      ]
+    },
+    {
+      "word": "abuse",
+      "phonetic": "/əˈbjuːz/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "滥用；虐待",
+          "usage": "作“滥用”解时，宾语多为权力、权利等抽象名词；作“虐待”解时，宾语多为人或动物"
+        }
+      ]
+    },
+    {
+      "word": "contention",
+      "phonetic": "/kənˈtenʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "观点，主张；争论",
+          "usage": "表示“观点”时为可数名词，常用于正式辩论或论述语境；表示“争论”时为不可数名词"
+        }
+      ]
+    },
+    {
+      "word": "untold",
+      "phonetic": "/ˌʌnˈtəʊld/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "难以形容的，数不清的",
+          "usage": "通常用于修饰抽象名词，强调程度或数量极大、难以衡量"
+        }
+      ]
+    },
+    {
+      "word": "exert",
+      "phonetic": "/ɪɡˈzɜːt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "施加（影响、压力等）；运用",
+          "usage": "及物动词，常见搭配为exert influence/pressure on sb/sth，表示“对某人/某物施加影响/压力”"
+        }
+      ]
+    },
+    {
+      "word": "overthrow",
+      "phonetic": "/ˌəʊvəˈθrəʊ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "推翻，打倒",
+          "usage": "及物动词，宾语通常为政府、政权、统治者等，过去式和过去分词为overthrew、overthrown"
+        }
+      ]
+    },
+    {
+      "word": "prosperity",
+      "phonetic": "/prɒˈsperəti/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "兴旺，繁荣，成功",
+          "usage": "不可数名词，可指经济、事业等各方面的富足和成功"
+        }
+      ]
+    },
+    {
+      "word": "perpetual",
+      "phonetic": "/pəˈpetʃuəl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "永久的，不断的，无休止的",
+          "usage": "强调动作或状态持续发生、没有间断，常修饰抽象名词，带有一定负面色彩时表示“烦人的，没完没了的”"
+        }
+      ]
+    },
+    {
+      "word": "quintuplets",
+      "phonetic": "/ˈkwɪntjʊpləts/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "五胞胎",
+          "用法": "复数名词，指同一胎出生的五个孩子，单数形式为quintuplet"
+        }
+      ]
+    },
+    {
+      "word": "radically",
+      "phonetic": "/ˈrædɪkli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "根本地，彻底地",
+          "usage": "用于修饰动词或形容词，强调变化的程度非常大，完全改变原有状态"
+        }
+      ]
+    },
+    {
+      "word": "exclusive",
+      "phonetic": "/ɪkˈskluːsɪv/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "独有的，独家的",
+          "usage": "常用于表示权利、内容等仅供某一方使用，常见搭配为exclusive rights（独家权利）"
+        }
+      ]
+    },
+    {
+      "word": "obscurity",
+      "phonetic": "/əbˈskjʊərəti/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "无名，默默无闻；晦涩",
+          "usage": "作“无名”解时为不可数名词，常见搭配为live in obscurity（过着默默无闻的生活）"
+        }
+      ]
+    },
+    {
+      "word": "commercialization",
+      "phonetic": "/kəˌmɜːʃəlaɪˈzeɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "商业化",
+          "usage": "不可数名词，指将事物转化为以盈利为目的的商品的过程"
+        }
+      ]
+    },
+    {
+      "word": "commodity",
+      "phonetic": "/kəˈmɒdəti/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "商品，货物",
+          "usage": "可数名词，多指用于贸易的工农业产品，也可引申指被当作商品看待的人或事物"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "act on",
+      "usage": "表示“根据……行事，按照……采取行动”，后接建议、观点、信息等名词作宾语",
+      "examples": [
+        {
+          "en": "Acting on the contention that facts are sacred, reporters can cause untold suffering to individuals.",
+          "zh": "记者们遵从“事实至上”的观点，却可能给个人带来难以估量的痛苦。"
+        },
+        {
+          "en": "You should act on your teacher's advice if you want to improve your grades quickly.",
+          "zh": "如果你想快速提高成绩，就应该按照老师的建议去做。"
+        }
+      ]
+    },
+    {
+      "phrase": "bring about",
+      "usage": "表示“导致，引起，使发生”，为及物短语动词，宾语通常为变化、问题、后果等名词",
+      "examples": [
+        {
+          "en": "Newspapers can not only bring about major changes to the lives of ordinary people but can even overthrow a government.",
+          "zh": "报纸不仅能给普通人的生活带来重大改变，甚至能推翻一个政府。"
+        },
+        {
+          "en": "Technological advances have brought about great changes to the way we communicate.",
+          "zh": "技术进步给我们的沟通方式带来了巨大的变化。"
+        }
+      ]
+    },
+    {
+      "phrase": "be faced with",
+      "usage": "表示“面临，面对”，主语通常为人或组织，后接困难、问题、挑战等名词作宾语",
+      "examples": [
+        {
+          "en": "They were expecting their sixth child and were faced with even more pressing economic problems.",
+          "zh": "他们正等着第六个孩子出生，面临着更为严峻的经济问题。"
+        },
+        {
+          "en": "When you are faced with a difficult choice, try to stay calm and weigh all the options.",
+          "zh": "当你面临艰难抉择时，尽量保持冷静，权衡所有选择。"
+        }
+      ]
+    },
+    {
+      "phrase": "press for",
+      "usage": "表示“强烈要求，敦促”，后接要求得到的事物或行动作宾语，也可接press sb for sth表示“向某人索要某物/敦促某人做某事”",
+      "examples": [
+        {
+          "en": "Reporters kept pressing for interviews so lawyers had to be employed to act as spokesmen.",
+          "zh": "记者们不断要求采访，所以这家人不得不聘请律师在新闻发布会上充当发言人。"
+        },
+        {
+          "en": "Environmental groups are pressing for stricter laws to reduce plastic waste.",
+          "zh": "环保组织正在敦促出台更严格的法律来减少塑料垃圾。"
+        }
+      ]
+    },
+    {
+      "phrase": "pay the price for",
+      "usage": "表示“为……付出代价”，后接行为、事件等名词，强调因某件事而承受不好的后果",
+      "examples": [
+        {
+          "en": "While the five babies were still sleeping in oxygen tents, their parents were paying the price for fame.",
+          "zh": "当五个婴儿还在医院育婴室的氧气帐里安睡时，他们的父母已经在为出名付出代价了。"
+        },
+        {
+          "en": "Many young people pay the price for staying up late frequently when they get older.",
+          "zh": "很多年轻人年纪大了之后，会为经常熬夜付出代价。"
+        }
+      ]
+    },
+    {
+      "phrase": "pour in",
+      "usage": "表示“大量涌入，蜂拥而至”，主语通常为信件、礼物、信息等名词，强调数量多、速度快",
+      "examples": [
+        {
+          "en": "Gifts poured in not only from unknown people, but from baby food manufacturers as well.",
+          "zh": "大量礼物涌来，不仅来自素不相识的人，还有婴儿食品制造商。"
+        },
+        {
+          "en": "After the star shared her donation story, messages of support poured in from all over the country.",
+          "zh": "这位明星分享了她的捐赠故事后，支持的信息从全国各地蜂拥而至。"
+        }
+      ]
+    },
+    {
+      "phrase": "struggle against",
+      "usage": "表示“与……作斗争，努力克服”，后接困难、逆境、疾病等名词，强调对抗的过程很艰难",
+      "examples": [
+        {
+          "en": "They would have continued to struggle against economic odds and would have lived in obscurity.",
+          "zh": "他们本会继续和经济困难作斗争，过着默默无闻的生活。"
+        },
+        {
+          "en": "The local people have been struggling against the flood for three days to protect their homes.",
+          "zh": "当地民众已经和洪水抗争了三天，以保护他们的家园。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "与过去事实相反的虚拟语气",
+      "definition": "用于描述与过去实际发生的情况相反的假设，表达遗憾、假设等含义，主从句都针对过去的时间",
+      "structure": "If + 主语 + had + 过去分词, 主语 + would/could/might + have + 过去分词",
+      "usage": "从句描述假设的过去情况，主句描述该假设下会产生的过去结果，if可省略，此时将had提前至句首形成倒装",
+      "examples": [
+        {
+          "en": "If they had only had one more child, the fact would have passed unnoticed.",
+          "zh": "如果他们只是多生了一个孩子，这件事本来根本不会有人注意。"
+        },
+        {
+          "en": "If I had studied harder last semester, I would have got a better score in the final exam.",
+          "zh": "如果我上学期更努力学习，我期末考试就会考得更好。"
+        }
+      ]
+    },
+    {
+      "title": "such...that... 结果状语从句",
+      "definition": "用于表示“如此……以至于……”，引导结果状语从句，强调名词的程度或性质导致了某结果",
+      "structure": "such + (a/an) + 形容词 + 可数名词单数/不可数名词/可数名词复数 + that + 结果从句",
+      "usage": "such修饰其后的名词，当名词前有many/much/few/little修饰时，需用so代替such",
+      "examples": [
+        {
+          "en": "Newspapers exert such tremendous influence that they can not only bring about major changes to the lives of ordinary people but can even overthrow a government.",
+          "zh": "报纸的影响力如此巨大，以至于它们不仅能给普通人的生活带来重大改变，甚至能推翻一个政府。"
+        },
+        {
+          "en": "It was such a boring speech that most of the audience fell asleep halfway through.",
+          "zh": "这场演讲太无聊了，以至于大部分听众中途都睡着了。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "It is extremely doubtful whether...",
+      "original": {
+        "en": "Though we may enjoy reading about the lives of others, it is extremely doubtful whether we would equally enjoy reading about ourselves.",
+        "zh": "尽管我们可能喜欢读别人的生活故事，但我们是否同样喜欢读自己的故事，这一点非常值得怀疑。"
+      },
+      "imitations": [
+        {
+          "en": "Though many people dream of being famous, it is extremely doubtful whether they can bear the pressure that comes with it.",
+          "zh": "尽管很多人梦想出名，但他们是否能承受出名带来的压力非常值得怀疑。"
+        },
+        {
+          "en": "Though the plan sounds perfect in theory, it is extremely doubtful whether it can be carried out in practice.",
+          "zh": "尽管这个计划理论上听起来很完美，但它在实践中是否能执行非常值得怀疑。"
+        }
+      ]
+    },
+    {
+      "pattern": "The story of... dramatically illustrates the power of...",
+      "original": {
+        "en": "The story of a poor family that acquired fame and fortune overnight, dramatically illustrates the power of the press.",
+        "zh": "一个贫苦家庭一夜之间名利双收的故事，生动地说明了新闻界的力量。"
+      },
+      "imitations": [
+        {
+          "en": "The story of the small business that grew into a global company in ten years dramatically illustrates the power of innovation.",
+          "zh": "这个小企业十年内成长为跨国公司的故事，生动地说明了创新的力量。"
+        },
+        {
+          "en": "The story of the disabled athlete who won the gold medal dramatically illustrates the power of persistence.",
+          "zh": "这位残疾运动员赢得金牌的故事，生动地说明了坚持的力量。"
+        }
+      ]
+    },
+    {
+      "pattern": "Instead of being..., ... had immediately become...",
+      "original": {
+        "en": "Instead of being five new family members, these children had immediately become a commodity.",
+        "zh": "这些孩子非但没有成为五名新的家庭成员，反而立刻变成了一种商品。"
+      },
+      "imitations": [
+        {
+          "en": "Instead of being a tool to improve learning efficiency, the mobile phone has immediately become a distraction for many students.",
+          "zh": "手机非但没有成为提升学习效率的工具，反而立刻变成了很多学生分心的事物。"
+        },
+        {
+          "en": "Instead of being a place for relaxation, the crowded scenic spot had immediately become a source of stress for the tourists.",
+          "zh": "这个拥挤的景区非但没有成为放松的地方，反而立刻变成了游客压力的来源。"
+        }
+      ]
+    }
+  ]
+}

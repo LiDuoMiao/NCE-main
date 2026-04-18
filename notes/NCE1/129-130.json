@@ -1,0 +1,395 @@
+{
+  "book": "NCE1",
+  "lesson": "129-130",
+  "title": "Lesson 129",
+  "vocabulary": [
+    {
+      "word": "wave",
+      "phonetic": "/weɪv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "挥手；招手",
+          "usage": "指向某人挥手示意"
+        }
+      ]
+    },
+    {
+      "word": "policeman",
+      "phonetic": "/pəˈliːsmən/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "警察",
+          "usage": "指男性执法者"
+        }
+      ]
+    },
+    {
+      "word": "race track",
+      "phonetic": "/reɪs træk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "赛车跑道；赛道",
+          "usage": "用于赛车的专用道路"
+        }
+      ]
+    },
+    {
+      "word": "speed",
+      "phonetic": "/spiːd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "速度",
+          "usage": "指物体移动的快慢程度"
+        },
+        {
+          "pos": "verb",
+          "meaning": "超速行驶",
+          "usage": "常与up连用"
+        }
+      ]
+    },
+    {
+      "word": "limit",
+      "phonetic": "/ˈlɪmɪt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "限制；限度",
+          "usage": "指规定的最高或最低界限"
+        }
+      ]
+    },
+    {
+      "word": "dream",
+      "phonetic": "/driːm/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "做梦；梦想",
+          "usage": "指在睡眠中做梦或想象"
+        }
+      ]
+    },
+    {
+      "word": "driving licence",
+      "phonetic": "/ˈdraɪvɪŋ ˈlaɪsns/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "驾驶执照",
+          "usage": "允许驾驶车辆的官方证件"
+        }
+      ]
+    },
+    {
+      "word": "charge",
+      "phonetic": "/tʃɑːdʒ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "收费；指控",
+          "usage": "指收取费用或正式指控某人"
+        }
+      ]
+    },
+    {
+      "word": "overtake",
+      "phonetic": "/ˌəʊvəˈteɪk/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "超过；超越",
+          "usage": "指从后面赶上并超过"
+        }
+      ]
+    },
+    {
+      "word": "certainly",
+      "phonetic": "/ˈsɜːtənli/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "当然；确定地",
+          "usage": "表示肯定或确定"
+        }
+      ]
+    },
+    {
+      "word": "advice",
+      "phonetic": "/ədˈvaɪs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "建议；劝告",
+          "usage": "指向他人提供的意见或建议"
+        }
+      ]
+    },
+    {
+      "word": "sign",
+      "phonetic": "/saɪn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "标志；标识牌",
+          "usage": "指路上或场所的指示牌"
+        }
+      ]
+    },
+    {
+      "word": "officer",
+      "phonetic": "/ˈɒfɪsə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "官员；警官",
+          "usage": "对警察或公务员的称呼"
+        }
+      ]
+    },
+    {
+      "word": "darling",
+      "phonetic": "/ˈdɑːlɪŋ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "亲爱的；宝贝",
+          "usage": "对亲密之人的称呼"
+        }
+      ]
+    },
+    {
+      "word": "overtook",
+      "phonetic": "/ˌəʊvəˈtʊk/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "超过（overtake的过去式）",
+          "usage": "过去式形式"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "wave to someone",
+      "usage": "指向某人挥手示意",
+      "examples": [
+        {
+          "en": "The policeman is waving to you.",
+          "zh": "那个警察正在向你招手。"
+        }
+      ]
+    },
+    {
+      "phrase": "seventy miles an hour",
+      "usage": "每小时七十英里，指车速",
+      "examples": [
+        {
+          "en": "You must have been driving at seventy miles an hour.",
+          "zh": "你一定是以每小时七十英里的速度在开车。"
+        }
+      ]
+    },
+    {
+      "phrase": "speed limit",
+      "usage": "限速，指法律规定的最高车速",
+      "examples": [
+        {
+          "en": "Didn't you see the speed limit?",
+          "zh": "你没看到限速标志吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "had better",
+      "usage": "最好...，用于提出建议",
+      "examples": [
+        {
+          "en": "You'd better not do it again!",
+          "zh": "你最好不要再这样做了！"
+        }
+      ]
+    },
+    {
+      "phrase": "take one's advice",
+      "usage": "听从某人的建议",
+      "examples": [
+        {
+          "en": "Next time you'd better take my advice!",
+          "zh": "下次你最好听我的建议！"
+        }
+      ]
+    },
+    {
+      "phrase": "be more careful",
+      "usage": "更小心；更仔细",
+      "examples": [
+        {
+          "en": "I'll certainly be more careful.",
+          "zh": "我一定会更小心的。"
+        }
+      ]
+    },
+    {
+      "phrase": "charge someone",
+      "usage": "对某人收费或正式指控",
+      "examples": [
+        {
+          "en": "I won't charge you this time.",
+          "zh": "这次我不罚你了。"
+        }
+      ]
+    },
+    {
+      "phrase": "tell someone to do something",
+      "usage": "告诉某人做某事",
+      "examples": [
+        {
+          "en": "I was telling him to drive slowly.",
+          "zh": "我一直在告诉他开慢点。"
+        }
+      ]
+    },
+    {
+      "phrase": "next time",
+      "usage": "下次",
+      "examples": [
+        {
+          "en": "Well, next time you'd better take my advice!",
+          "zh": "好吧，下次你最好听我的建议！"
+        }
+      ]
+    },
+    {
+      "phrase": "must have been doing",
+      "usage": "表示对过去正在发生事情的推测",
+      "examples": [
+        {
+          "en": "You must have been driving at seventy miles an hour.",
+          "zh": "你一定是一直以每小时七十英里的速度在开车。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Must have + 过去分词（表示对过去的肯定推测）",
+      "definition": "must have done 表示对过去发生的事情的肯定推测，意思是'一定做过...'",
+      "structure": "主语 + must have + 过去分词 + 其他",
+      "usage": "用于根据证据或理由对过去的事情进行肯定推测",
+      "examples": [
+        {
+          "en": "You must have been driving at seventy miles an hour.",
+          "zh": "你一定是一直以每小时七十英里的速度在开车。"
+        },
+        {
+          "en": "I must have been dreaming.",
+          "zh": "我一定是在做梦。"
+        }
+      ]
+    },
+    {
+      "title": "Can't have + 过去分词（表示对过去事情的否定推测）",
+      "definition": "can't have done 表示对过去发生的事情的否定推测，意思是'不可能...'",
+      "structure": "主语 + can't have + 过去分词 + 其他",
+      "usage": "用于表示对过去事情的强烈否定推测",
+      "examples": [
+        {
+          "en": "I can't have been going that fast.",
+          "zh": "我不可能开那么快。"
+        }
+      ]
+    },
+    {
+      "title": "Had better (not) + 动词原形（表示建议）",
+      "definition": "had better表示'最好.../应该...'，带有轻微的警告或命令语气，not表示否定建议",
+      "structure": "主语 + had better (not) + 动词原形",
+      "usage": "用于提出建议或警告，语气比should更强",
+      "examples": [
+        {
+          "en": "You'd better not do it again!",
+          "zh": "你最好不要再这样做了！"
+        },
+        {
+          "en": "You'd better take my advice.",
+          "zh": "你最好听我的建议。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "You must have been + doing",
+      "original": {
+        "en": "You must have been driving at seventy miles an hour.",
+        "zh": "你一定是一直以每小时七十英里的速度在开车。"
+      },
+      "imitations": [
+        {
+          "en": "You must have been sleeping.",
+          "zh": "你一定一直在睡觉。"
+        },
+        {
+          "en": "She must have been working late.",
+          "zh": "她一定一直工作到很晚。"
+        }
+      ]
+    },
+    {
+      "pattern": "I can't have been + doing",
+      "original": {
+        "en": "I can't have been.",
+        "zh": "我不可能会...（那样）。"
+      },
+      "imitations": [
+        {
+          "en": "I can't have been wrong.",
+          "zh": "我不可能错了。"
+        },
+        {
+          "en": "He can't have been serious.",
+          "zh": "他不可能是认真的。"
+        }
+      ]
+    },
+    {
+      "pattern": "You'd better (not) + 动词原形",
+      "original": {
+        "en": "You'd better not do it again!",
+        "zh": "你最好不要再这样做了！"
+      },
+      "imitations": [
+        {
+          "en": "You'd better hurry up.",
+          "zh": "你最好快点。"
+        },
+        {
+          "en": "You'd better not be late.",
+          "zh": "你最好别迟到。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + won't + 动词原形 + this time",
+      "original": {
+        "en": "I won't charge you this time.",
+        "zh": "这次我不罚你了。"
+      },
+      "imitations": [
+        {
+          "en": "I won't tell anyone this time.",
+          "zh": "这次我不会告诉任何人。"
+        },
+        {
+          "en": "She won't punish you this time.",
+          "zh": "她这次不会惩罚你。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "book": "NCE1",
+  "lesson": "029-030",
+  "title": "Lesson 29",
+  "vocabulary": [
+    {
+      "word": "bedroom",
+      "phonetic": "/ˈbedruːm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "卧室",
+          "usage": "指供人睡觉的房间"
+        }
+      ]
+    },
+    {
+      "word": "untidy",
+      "phonetic": "/ʌnˈtaɪdi/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "不整洁的，凌乱的",
+          "usage": "形容房间或物品没有整理干净"
+        }
+      ]
+    },
+    {
+      "word": "wardrobe",
+      "phonetic": "/ˈwɔːdrəʊb/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "衣柜，衣橱",
+          "usage": "用于存放衣服的家具"
+        }
+      ]
+    },
+    {
+      "word": "clothes",
+      "phonetic": "/kləʊðz/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "衣服，服装",
+          "usage": "复数名词，指各种衣物"
+        }
+      ]
+    },
+    {
+      "word": "must",
+      "phonetic": "/mʌst/",
+      "meanings": [
+        {
+          "pos": "modal verb",
+          "meaning": "必须，应当",
+          "usage": "表示义务或命令，用于给指令"
+        }
+      ]
+    },
+    {
+      "word": "air",
+      "phonetic": "/eə/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "通风，晾干",
+          "usage": "打开窗户让空气流通"
+        }
+      ]
+    },
+    {
+      "word": "dust",
+      "phonetic": "/dʌst/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "拂去灰尘",
+          "usage": "用布擦拭去除灰尘"
+        }
+      ]
+    },
+    {
+      "word": "sweep",
+      "phonetic": "/swiːp/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "扫地，扫除",
+          "usage": "用扫帚清理地面"
+        }
+      ]
+    },
+    {
+      "word": "dressing table",
+      "phonetic": "/ˈdresɪŋ ˈteɪbl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "梳妆台",
+          "usage": "卧室里用于梳妆的桌子"
+        }
+      ]
+    },
+    {
+      "word": "floor",
+      "phonetic": "/flɔː/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "地板，地面",
+          "usage": "房间的地面部分"
+        }
+      ]
+    },
+    {
+      "word": "window",
+      "phonetic": "/ˈwɪndəʊ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "窗户",
+          "usage": "建筑物墙壁上的开口，用于采光通风"
+        }
+      ]
+    },
+    {
+      "word": "door",
+      "phonetic": "/dɔː/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "门",
+          "usage": "用于进出房间的开口"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Come in",
+      "usage": "用于邀请别人进入房间",
+      "examples": [
+        {
+          "en": "Come in, Amy.",
+          "zh": "进来吧，艾米。"
+        }
+      ]
+    },
+    {
+      "phrase": "Shut the door",
+      "usage": "请求或命令他人关上门",
+      "examples": [
+        {
+          "en": "Shut the door, please.",
+          "zh": "请把门关上。"
+        }
+      ]
+    },
+    {
+      "phrase": "open the window",
+      "usage": "打开窗户以通风换气",
+      "examples": [
+        {
+          "en": "Open the window and air the room.",
+          "zh": "打开窗户，让房间通风。"
+        }
+      ]
+    },
+    {
+      "phrase": "put these clothes in the wardrobe",
+      "usage": "把衣服放到衣柜里",
+      "examples": [
+        {
+          "en": "Put these clothes in the wardrobe.",
+          "zh": "把这些衣服放进衣柜里。"
+        }
+      ]
+    },
+    {
+      "phrase": "make the bed",
+      "usage": "整理床铺，铺床",
+      "examples": [
+        {
+          "en": "Then make the bed.",
+          "zh": "然后整理床铺。"
+        }
+      ]
+    },
+    {
+      "phrase": "dust the dressing table",
+      "usage": "拂去梳妆台上的灰尘",
+      "examples": [
+        {
+          "en": "Dust the dressing table.",
+          "zh": "拂去梳妆台上的灰尘。"
+        }
+      ]
+    },
+    {
+      "phrase": "sweep the floor",
+      "usage": "用扫帚清扫地面",
+      "examples": [
+        {
+          "en": "Then sweep the floor.",
+          "zh": "然后扫地。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Must 用于表达义务和指令",
+      "definition": "must是情态动词，表示'必须'，用于表达权威人士给别人的命令或指示",
+      "structure": "Must + 动词原形",
+      "usage": "当老师、家长或上司给指示时使用must，强调必要性",
+      "examples": [
+        {
+          "en": "What must I do, Mrs. Jones?",
+          "zh": "我必须做什么，琼斯夫人？"
+        }
+      ]
+    },
+    {
+      "title": "祈使句 (Imperative)",
+      "definition": "用于表达命令、请求或建议的句子，通常省略主语you",
+      "structure": "动词原形 + 其他成分",
+      "usage": "用于给指令、提要求或提出建议，主语you通常省略",
+      "examples": [
+        {
+          "en": "Open the window.",
+          "zh": "打开窗户。"
+        },
+        {
+          "en": "Shut the door, please.",
+          "zh": "请关门。"
+        },
+        {
+          "en": "Make the bed.",
+          "zh": "整理床铺。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "What must I do?",
+      "original": {
+        "en": "What must I do, Mrs. Jones?",
+        "zh": "我必须做什么，琼斯夫人？"
+      },
+      "imitations": [
+        {
+          "en": "What must I do, Mum?",
+          "zh": "我必须做什么，妈妈？"
+        },
+        {
+          "en": "What must I do now?",
+          "zh": "我现在必须做什么？"
+        }
+      ]
+    },
+    {
+      "pattern": "动词原形 + the + 名词",
+      "original": {
+        "en": "Open the window.",
+        "zh": "打开窗户。"
+      },
+      "imitations": [
+        {
+          "en": "Close the door.",
+          "zh": "关门。"
+        },
+        {
+          "en": "Clean the bedroom.",
+          "zh": "打扫卧室。"
+        },
+        {
+          "en": "Wash the dishes.",
+          "zh": "洗碗。"
+        }
+      ]
+    },
+    {
+      "pattern": "Then + 动词原形 + 其他",
+      "original": {
+        "en": "Then put these clothes in the wardrobe.",
+        "zh": "然后把这些衣服放进衣柜里。"
+      },
+      "imitations": [
+        {
+          "en": "Then make the bed.",
+          "zh": "然后整理床铺。"
+        },
+        {
+          "en": "Then clean the floor.",
+          "zh": "然后打扫地板。"
+        }
+      ]
+    }
+  ]
+}

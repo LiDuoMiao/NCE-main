@@ -1,0 +1,357 @@
+{
+  "book": "NCE2",
+  "lesson": "26",
+  "title": "Who is the student's best critic?",
+  "vocabulary": [
+    {
+      "word": "art",
+      "phonetic": "/ɑːt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "艺术；美术",
+          "usage": "指绘画、雕塑等视觉艺术形式"
+        }
+      ]
+    },
+    {
+      "word": "paint",
+      "phonetic": "/peɪnt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "画；绘画",
+          "usage": "用颜料创作图画"
+        },
+        {
+          "pos": "noun",
+          "meaning": "油漆；颜料",
+          "usage": "作名词时指绘画材料"
+        }
+      ]
+    },
+    {
+      "word": "pretend",
+      "phonetic": "/prɪˈtend/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "假装；装作",
+          "usage": "to act as if something is true when it is not"
+        }
+      ]
+    },
+    {
+      "word": "modern",
+      "phonetic": "/ˈmɒdən/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "现代的；当代的",
+          "usage": "指当前时代或近期的艺术风格"
+        }
+      ]
+    },
+    {
+      "word": "appreciate",
+      "phonetic": "/əˈpriːʃieɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "欣赏；赏识",
+          "usage": "理解和欣赏事物价值"
+        }
+      ]
+    },
+    {
+      "word": "notice",
+      "phonetic": "/ˈnəʊtɪs/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "注意到；察觉",
+          "usage": "观察到或意识到某事"
+        },
+        {
+          "pos": "noun",
+          "meaning": "通知；公告",
+          "usage": "正式的通知或警告"
+        }
+      ]
+    },
+    {
+      "word": "critical",
+      "phonetic": "/ˈkrɪtɪkl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "批判的；挑剔的",
+          "usage": "表示以挑剔的眼光看待事物"
+        }
+      ]
+    },
+    {
+      "word": "hang",
+      "phonetic": "/hæŋ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "悬挂；吊",
+          "usage": "将某物固定在较高位置"
+        }
+      ]
+    },
+    {
+      "word": "upside down",
+      "phonetic": "/ˌʌpsaɪd ˈdaʊn/",
+      "meanings": [
+        {
+          "pos": "phrase",
+          "meaning": "上下颠倒；倒置",
+          "usage": "方向或位置颠倒"
+        }
+      ]
+    },
+    {
+      "word": "pattern",
+      "phonetic": "/ˈpætən/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "图案；花样",
+          "usage": "重复的设计或装饰样式"
+        }
+      ]
+    },
+    {
+      "word": "whether",
+      "phonetic": "/ˈweðə/",
+      "meanings": [
+        {
+          "pos": "conjunction",
+          "meaning": "是否",
+          "usage": "用于引出间接疑问或选择"
+        }
+      ]
+    },
+    {
+      "word": "pretty",
+      "phonetic": "/ˈprɪti/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "漂亮的；好看的",
+          "usage": "形容外观好看"
+        },
+        {
+          "pos": "adverb",
+          "meaning": "相当；颇",
+          "usage": "相当地，用于修饰形容词或副词"
+        }
+      ]
+    },
+    {
+      "word": "material",
+      "phonetic": "/məˈtɪəriəl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "材料；布料",
+          "usage": "制作物品的原料"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "in the same way",
+      "usage": "以同样的方式；如同",
+      "examples": [
+        {
+          "en": "We like them in the same way that we like pretty curtain material.",
+          "zh": "我们喜欢它们就像喜欢漂亮的窗帘布料一样。"
+        }
+      ]
+    },
+    {
+      "phrase": "come into",
+      "usage": "进入；走进",
+      "examples": [
+        {
+          "en": "She came into my room yesterday.",
+          "zh": "她昨天走进我的房间。"
+        }
+      ]
+    },
+    {
+      "phrase": "look at something critically",
+      "usage": "批判性地看待某事物",
+      "examples": [
+        {
+          "en": "She looked at it critically for a moment.",
+          "zh": "她批判性地看了一会儿。"
+        }
+      ]
+    },
+    {
+      "phrase": "hang something on the wall",
+      "usage": "把某物挂在墙上",
+      "examples": [
+        {
+          "en": "I'm hanging this picture on the wall.",
+          "zh": "我正把这幅画挂在墙上。"
+        }
+      ]
+    },
+    {
+      "phrase": "tell someone whether...or not",
+      "usage": "告诉某人是否...",
+      "examples": [
+        {
+          "en": "She always tells me whether my pictures are good or not.",
+          "zh": "她总是告诉我我的画好不好。"
+        }
+      ]
+    },
+    {
+      "phrase": "be about something",
+      "usage": "关于某事物；是关于...的",
+      "examples": [
+        {
+          "en": "Many pictures are not 'about' anything.",
+          "zh": "许多画并不'关于'任何东西。"
+        }
+      ]
+    },
+    {
+      "phrase": "a lot of",
+      "usage": "许多；大量",
+      "examples": [
+        {
+          "en": "I paint a lot of pictures.",
+          "zh": "我画很多画。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "现在进行时 (Present Continuous Tense)",
+      "definition": "表示正在进行的动作或发生的事件，常与now, at the moment等时间状语连用",
+      "structure": "主语 + am/is/are + 动词-ing",
+      "usage": "描述说话时正在进行的动作",
+      "examples": [
+        {
+          "en": "I'm hanging this picture on the wall.",
+          "zh": "我正把这幅画挂在墙上。"
+        },
+        {
+          "en": "What are you doing?",
+          "zh": "你在做什么？"
+        }
+      ]
+    },
+    {
+      "title": "一般过去时 (Simple Past Tense)",
+      "definition": "表示过去某一时间发生的动作或存在的状态",
+      "structure": "主语 + 动词过去式",
+      "usage": "描述过去已完成的动作",
+      "examples": [
+        {
+          "en": "She came into my room yesterday.",
+          "zh": "她昨天走进我的房间。"
+        },
+        {
+          "en": "I looked at it again.",
+          "zh": "我又看了一遍。"
+        }
+      ]
+    },
+    {
+      "title": "whether引导的宾语从句",
+      "definition": "whether可引导宾语从句，表示'是否'，常用于间接疑问句",
+      "structure": "whether + 主语 + 动词...",
+      "usage": "在tell, ask, know等动词后使用，表示不确定性或选择",
+      "examples": [
+        {
+          "en": "She always tells me whether my pictures are good or not.",
+          "zh": "她总是告诉我我的画好不好。"
+        },
+        {
+          "en": "I don't know whether she likes it.",
+          "zh": "我不知道她是否喜欢它。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "What are you doing?",
+      "original": {
+        "en": "What are you doing?",
+        "zh": "你在做什么？"
+      },
+      "imitations": [
+        {
+          "en": "What are you reading?",
+          "zh": "你在读什么？"
+        },
+        {
+          "en": "What are you cooking?",
+          "zh": "你在做什么饭？"
+        }
+      ]
+    },
+    {
+      "pattern": "Do you like it?",
+      "original": {
+        "en": "It's a new one. Do you like it?",
+        "zh": "这是一幅新画。你喜欢吗？"
+      },
+      "imitations": [
+        {
+          "en": "It's a new book. Do you like it?",
+          "zh": "这是一本新书。你喜欢吗？"
+        },
+        {
+          "en": "I made this cake. Do you like it?",
+          "zh": "我做了这个蛋糕。你喜欢吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "tell me whether...or not",
+      "original": {
+        "en": "She always tells me whether my pictures are good or not.",
+        "zh": "她总是告诉我我的画好不好。"
+      },
+      "imitations": [
+        {
+          "en": "Tell me whether you can come or not.",
+          "zh": "告诉我你能不能来。"
+        },
+        {
+          "en": "Please tell me whether it's right or not.",
+          "zh": "请告诉我这是不是对的。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + 动词 + for + 时间段",
+      "original": {
+        "en": "She looked at it critically for a moment.",
+        "zh": "她批判性地看了一会儿。"
+      },
+      "imitations": [
+        {
+          "en": "He waited for an hour.",
+          "zh": "他等了一个小时。"
+        },
+        {
+          "en": "We stayed there for two days.",
+          "zh": "我们在那里待了两天。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,398 @@
+{
+  "book": "NCE1",
+  "lesson": "089-090",
+  "title": "Lesson 89",
+  "vocabulary": [
+    {
+      "word": "sale",
+      "phonetic": "/seɪl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "出售；卖",
+          "usage": "常与介词for连用，表示'待售'"
+        }
+      ]
+    },
+    {
+      "word": "retire",
+      "phonetic": "/rɪˈtaɪə/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "退休；退职",
+          "usage": "表示结束职业生涯"
+        }
+      ]
+    },
+    {
+      "word": "worth",
+      "phonetic": "/wɜːθ/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "值...的；值得的",
+          "usage": "用于表示物品的价值，后面接金钱"
+        }
+      ]
+    },
+    {
+      "word": "penny",
+      "phonetic": "/ˈpeni/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "便士（英国货币单位）",
+          "usage": "英国最小货币单位，100 penny = 1 pound"
+        }
+      ]
+    },
+    {
+      "word": "decide",
+      "phonetic": "/dɪˈsaɪd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "决定；下决心",
+          "usage": "可用于can't decide表示无法决定"
+        }
+      ]
+    },
+    {
+      "word": "wife",
+      "phonetic": "/waɪf/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "妻子",
+          "usage": "复数形式为wives"
+        }
+      ]
+    },
+    {
+      "word": "women",
+      "phonetic": "/ˈwɪmɪn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "女人（复数）",
+          "usage": "woman的复数形式"
+        }
+      ]
+    },
+    {
+      "word": "country",
+      "phonetic": "/ˈkʌntri/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "乡下；农村",
+          "usage": "特指与城市相对的乡村地区"
+        }
+      ]
+    },
+    {
+      "word": "cost",
+      "phonetic": "/kɒst/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "花费（金钱）；价值为",
+          "usage": "主语为物，表示某物值多少钱"
+        }
+      ]
+    },
+    {
+      "word": "look",
+      "phonetic": "/lʊk/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "看；瞧",
+          "usage": "常与at连用，have a look at表示看一看"
+        }
+      ]
+    },
+    {
+      "word": "money",
+      "phonetic": "/ˈmʌni/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "钱；金钱",
+          "usage": "不可数名词，表示货币"
+        }
+      ]
+    },
+    {
+      "word": "every",
+      "phonetic": "/ˈevri/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "每一的；每个的",
+          "usage": "修饰单数名词，强调每个个体"
+        }
+      ]
+    },
+    {
+      "word": "must",
+      "phonetic": "/mʌst/",
+      "meanings": [
+        {
+          "pos": "modal verb",
+          "meaning": "必须；一定",
+          "usage": "表示必要性或推测"
+        }
+      ]
+    },
+    {
+      "word": "yet",
+      "phonetic": "/jet/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "还；仍然",
+          "usage": "用于否定句或疑问句中"
+        }
+      ]
+    },
+    {
+      "word": "word",
+      "phonetic": "/wɜːd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "话；言语",
+          "usage": "have the last word表示最后说了算"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "for sale",
+      "usage": "表示某物正在出售，待售",
+      "examples": [
+        {
+          "en": "This house is for sale.",
+          "zh": "这所房子待售。"
+        }
+      ]
+    },
+    {
+      "phrase": "have a look at",
+      "usage": "看一看，检查一下",
+      "examples": [
+        {
+          "en": "May I have a look at it, please?",
+          "zh": "我可以看一看吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "since 1976",
+      "usage": "自从1976年起，表示时间的起点",
+      "examples": [
+        {
+          "en": "I've been here since 1976.",
+          "zh": "我从1976年就在这里了。"
+        }
+      ]
+    },
+    {
+      "phrase": "a lot of money",
+      "usage": "很多钱，表示大量金钱",
+      "examples": [
+        {
+          "en": "That's a lot of money!",
+          "zh": "那是一大笔钱！"
+        }
+      ]
+    },
+    {
+      "phrase": "can't decide yet",
+      "usage": "还不能决定",
+      "examples": [
+        {
+          "en": "I can't decide yet.",
+          "zh": "我还不能决定。"
+        }
+      ]
+    },
+    {
+      "phrase": "have the last word",
+      "usage": "最后说了算，有最终决定权",
+      "examples": [
+        {
+          "en": "Women always have the last word.",
+          "zh": "女人总是最后说了算。"
+        }
+      ]
+    },
+    {
+      "phrase": "every penny of it",
+      "usage": "每一分钱，意思是物有所值",
+      "examples": [
+        {
+          "en": "It's worth every penny of it.",
+          "zh": "它绝对值这个价。"
+        }
+      ]
+    },
+    {
+      "phrase": "Come in",
+      "usage": "进来，用于邀请他人进入室内",
+      "examples": [
+        {
+          "en": "Come in.",
+          "zh": "进来。"
+        }
+      ]
+    },
+    {
+      "phrase": "want to buy",
+      "usage": "想要买，表达购买意图",
+      "examples": [
+        {
+          "en": "I want to buy a small house in the country.",
+          "zh": "我想在乡下买一所小房子。"
+        }
+      ]
+    },
+    {
+      "phrase": "How long have you lived here?",
+      "usage": "你住在这里多久了？询问持续时间",
+      "examples": [
+        {
+          "en": "How long have you lived here?",
+          "zh": "你住在这里多久了？"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "现在完成时（Present Perfect）与since/for连用",
+      "definition": "现在完成时表示从过去开始一直持续到现在的动作或状态，与since（自从）和for（持续）连用。",
+      "structure": "主语 + have/has + 过去分词 + for + 时间段 / since + 时间点",
+      "usage": "用于询问或描述持续了多长时间的动作或状态，since后接具体时间点，for后接时间段。",
+      "examples": [
+        {
+          "en": "I've lived here for twenty years.",
+          "zh": "我在这里住了二十年。"
+        },
+        {
+          "en": "I've been here since 1976.",
+          "zh": "我从1976年就在这里了。"
+        },
+        {
+          "en": "I've just retired.",
+          "zh": "我刚退休。"
+        }
+      ]
+    },
+    {
+      "title": "must表示必要性",
+      "definition": "must是情态动词，表示必须、一定，用于表达主观上的必要性。",
+      "structure": "主语 + must + 动词原形",
+      "usage": "must see it first表示'必须先看一看'，强调必要性。",
+      "examples": [
+        {
+          "en": "My wife must see it first.",
+          "zh": "我妻子必须先看一看。"
+        },
+        {
+          "en": "I must go now.",
+          "zh": "我必须走了。"
+        }
+      ]
+    },
+    {
+      "title": "cost的用法",
+      "definition": "cost表示'花费'，主语通常是事物，而不是人。",
+      "structure": "某物 + cost + 金钱",
+      "usage": "询问价格时用How much does/did + 主语 + cost?",
+      "examples": [
+        {
+          "en": "How much does this house cost?",
+          "zh": "这所房子多少钱？"
+        },
+        {
+          "en": "This book costs 20 pounds.",
+          "zh": "这本书20英镑。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "How long have you + 过去分词 + here?",
+      "original": {
+        "en": "How long have you lived here?",
+        "zh": "你住在这里多久了？"
+      },
+      "imitations": [
+        {
+          "en": "How long have you worked here?",
+          "zh": "你在这里工作多久了？"
+        },
+        {
+          "en": "How long have you studied English?",
+          "zh": "你学英语多久了？"
+        }
+      ]
+    },
+    {
+      "pattern": "How much does/did + 主语 + cost?",
+      "original": {
+        "en": "How much does this house cost?",
+        "zh": "这所房子多少钱？"
+      },
+      "imitations": [
+        {
+          "en": "How much does this car cost?",
+          "zh": "这辆车多少钱？"
+        },
+        {
+          "en": "How much did your watch cost?",
+          "zh": "你的手表多少钱？"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + have/has + 过去分词 + for + 时间段",
+      "original": {
+        "en": "I've lived here for twenty years.",
+        "zh": "我在这里住了二十年。"
+      },
+      "imitations": [
+        {
+          "en": "I've known her for five years.",
+          "zh": "我认识她五年了。"
+        },
+        {
+          "en": "He's worked here for three months.",
+          "zh": "他在这里工作了三个月。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + have/has + 过去分词 + since + 时间点",
+      "original": {
+        "en": "I've been here since 1976.",
+        "zh": "我从1976年就在这里了。"
+      },
+      "imitations": [
+        {
+          "en": "She's lived in London since 2010.",
+          "zh": "她从2010年就住在伦敦了。"
+        },
+        {
+          "en": "We've been friends since school.",
+          "zh": "我们从上学时就是朋友了。"
+        }
+      ]
+    }
+  ]
+}

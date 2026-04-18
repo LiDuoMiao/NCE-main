@@ -1,0 +1,382 @@
+{
+  "book": "NCE3",
+  "lesson": "52",
+  "title": "Lesson 52",
+  "vocabulary": [
+    {
+      "word": "curiously",
+      "phonetic": "/ˈkjʊəriəsli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "奇怪地；稀奇古怪地",
+          "usage": "修饰形容词或分词，表示程度"
+        }
+      ]
+    },
+    {
+      "word": "tint",
+      "phonetic": "/tɪnt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "给...着色；给...染色",
+          "usage": "常用于被动语态，表示颜色深浅"
+        }
+      ]
+    },
+    {
+      "word": "delicate",
+      "phonetic": "/ˈdelɪkət/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "精致的；淡的；柔和的",
+          "usage": "形容颜色、气味、质地等"
+        }
+      ]
+    },
+    {
+      "word": "observant",
+      "phonetic": "/əbˈzɜːvənt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "观察力敏锐的；善于观察的",
+          "usage": "描述人具有敏锐的观察能力"
+        }
+      ]
+    },
+    {
+      "word": "perfume",
+      "phonetic": "/ˈpɜːfjuːm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "香水；香味",
+          "usage": "指有香味的产品或气味"
+        }
+      ]
+    },
+    {
+      "word": "outlandish",
+      "phonetic": "/aʊtˈlændɪʃ/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "稀奇古怪的；古怪的",
+          "usage": "描述非常奇特、不寻常的事物"
+        }
+      ]
+    },
+    {
+      "word": "outrageous",
+      "phonetic": "/aʊtˈreɪdʒəs/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "离谱的；过分的；惊人的",
+          "usage": "形容行为或要求过于极端"
+        }
+      ]
+    },
+    {
+      "word": "fanciful",
+      "phonetic": "/ˈfænsɪfl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "富于幻想的；想象中的",
+          "usage": "描述虚构的、不真实的东西"
+        }
+      ]
+    },
+    {
+      "word": "bewilderment",
+      "phonetic": "/bɪˈwɪldəmənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "困惑；迷惑；迷惘",
+          "usage": "表示完全迷惑的状态"
+        }
+      ]
+    },
+    {
+      "word": "freckle",
+      "phonetic": "/ˈfrekl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "雀斑；斑点",
+          "usage": "皮肤上的小褐斑"
+        }
+      ]
+    },
+    {
+      "word": "concoction",
+      "phonetic": "/kənˈkɒkʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "调制品；混合物；调合物",
+          "usage": "指混合多种东西制成的物品"
+        }
+      ]
+    },
+    {
+      "word": "intoxicate",
+      "phonetic": "/ɪnˈtɒksɪkeɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "使陶醉；使兴奋；使喝醉",
+          "usage": "比喻极度兴奋或得意"
+        }
+      ]
+    },
+    {
+      "word": "discreetly",
+      "phonetic": "/dɪˈskriːtli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "谨慎地；慎重地；审慎地",
+          "usage": "小心谨慎地做事"
+        }
+      ]
+    },
+    {
+      "word": "retreat",
+      "phonetic": "/rɪˈtriːt/",
+      "meanings": [
+        {
+          "pos": "noun/verb",
+          "meaning": "撤退；退后",
+          "usage": "指快速离开某地"
+        }
+      ]
+    },
+    {
+      "word": "merely",
+      "phonetic": "/ˈmɪəli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "仅仅；只；只不过",
+          "usage": "强调数量或程度之小"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "keep...on display",
+      "usage": "把...陈列出来展示",
+      "examples": [
+        {
+          "en": "He keeps a large bottle on permanent display in his study.",
+          "zh": "他在书房里永久陈列着一个大瓶子。"
+        }
+      ]
+    },
+    {
+      "phrase": "despite the fact that",
+      "usage": "尽管（事实）...",
+      "examples": [
+        {
+          "en": "Despite the fact that the bottle is tinted green, an observant visitor would notice it's filled with greyish substance.",
+          "zh": "尽管瓶子被染成绿色，敏锐的来访者会注意到里面装的是灰色物质。"
+        }
+      ]
+    },
+    {
+      "phrase": "put on an act",
+      "usage": "装腔作势；演戏",
+      "examples": [
+        {
+          "en": "When Harry put on his act of being mildly annoyed, the assistant promised to order some for him.",
+          "zh": "当哈利装出有点烦恼的样子时，店员答应为他订购一些。"
+        }
+      ]
+    },
+    {
+      "phrase": "light up",
+      "usage": "（眼睛）亮起来；变得兴奋",
+      "examples": [
+        {
+          "en": "The woman's eyes immediately lit up and she fetched several bottles.",
+          "zh": "那女人的眼睛立刻亮了起来，拿出了好几个瓶子。"
+        }
+      ]
+    },
+    {
+      "phrase": "beat a retreat",
+      "usage": "匆忙撤退；赶紧离开",
+      "examples": [
+        {
+          "en": "He beat a hasty retreat, clutching the precious bottle under his arm.",
+          "zh": "他匆忙撤退，腋下夹着那个珍贵的瓶子。"
+        }
+      ]
+    },
+    {
+      "phrase": "get away with",
+      "usage": "成功做（某事）；侥幸逃脱",
+      "examples": [
+        {
+          "en": "He was glad to get away with a mere twenty pounds.",
+          "zh": "他很高兴只花了二十英镑就买到了。"
+        }
+      ]
+    },
+    {
+      "phrase": "be fond of doing",
+      "usage": "喜欢做某事",
+      "examples": [
+        {
+          "en": "He is fond of relating this interesting story.",
+          "zh": "他喜欢讲述这个有趣的故事。"
+        }
+      ]
+    },
+    {
+      "phrase": "on the spot",
+      "usage": "当场；立即",
+      "examples": [
+        {
+          "en": "He would invent fanciful names on the spot.",
+          "zh": "他会当场编造一些稀奇古怪的名字。"
+        }
+      ]
+    },
+    {
+      "phrase": "meet with requirements",
+      "usage": "满足要求",
+      "examples": [
+        {
+          "en": "None of them met with Harry's requirements.",
+          "zh": "没有一个能满足哈利的要求。"
+        }
+      ]
+    },
+    {
+      "phrase": "come into the possession of",
+      "usage": "获得；占有",
+      "examples": [
+        {
+          "en": "How Harry came into the possession of this outlandish stuff makes an interesting story.",
+          "zh": "哈利是如何得到这种稀奇古怪的东西的，这本身就是一个有趣的故事。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去完成进行时 (Past Perfect Continuous Tense)",
+      "definition": "表示在过去某一时刻之前一直在进行的动作，强调动作的持续性和未完成性",
+      "structure": "had been + 动词-ing",
+      "usage": "用于描述持续到过去某一点的习惯性动作",
+      "examples": [
+        {
+          "en": "He had been developing a bad habit for years.",
+          "zh": "他多年来一直养成一个坏习惯。"
+        }
+      ]
+    },
+    {
+      "title": "if虚拟条件句（与现在事实相反）",
+      "definition": "表示与现在事实相反或不太可能发生的情况",
+      "structure": "If + 主语 + were to + 动词原形...",
+      "usage": "用于假设不太可能发生的事情",
+      "examples": [
+        {
+          "en": "If you were to ask Harry what was in the bottle, he would tell you that it contained perfumed mud.",
+          "zh": "如果你问哈利瓶子里是什么，他会告诉你里面装的是香水泥。"
+        }
+      ]
+    },
+    {
+      "title": "间接引语（陈述句的转换）",
+      "definition": "将直接引语转换为间接引语时，人称、时态、时间状语等需要相应变化",
+      "structure": "主语 + said (that) + ...",
+      "usage": "叙述他人说过的话时使用，that可省略",
+      "examples": [
+        {
+          "en": "He said (that) the bottle contained perfumed mud.",
+          "zh": "他说瓶子里装的是香水泥。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "If you were to do..., would/could/might + 动词原形...",
+      "original": {
+        "en": "If you were to ask Harry what was in the bottle, he would tell you that it contained perfumed mud.",
+        "zh": "如果你问哈利瓶子里是什么，他会告诉你里面装的是香水泥。"
+      },
+      "imitations": [
+        {
+          "en": "If you were to visit China, you would learn a lot about its culture.",
+          "zh": "如果你要去中国旅游，你会学到很多关于中国文化的知识。"
+        },
+        {
+          "en": "If you were to practice speaking English every day, you could improve quickly.",
+          "zh": "如果你每天练习说英语，你就能快速进步。"
+        }
+      ]
+    },
+    {
+      "pattern": "Despite the fact that + 从句...",
+      "original": {
+        "en": "Despite the fact that the bottle is tinted a delicate shade of green, an observant visitor would soon notice that it is filled with what looks like a thick, greyish substance.",
+        "zh": "尽管瓶子被染成淡绿色，敏锐的来访者很快就会注意到里面装的是看起来像浓稠的灰色物质。"
+      },
+      "imitations": [
+        {
+          "en": "Despite the fact that he is very young, he speaks English fluently.",
+          "zh": "尽管他很年轻，他的英语说得很流利。"
+        },
+        {
+          "en": "Despite the fact that it was raining heavily, we went hiking.",
+          "zh": "尽管雨下得很大，我们还是去徒步了。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + love/like + to be told that...",
+      "original": {
+        "en": "He loved to be told that one of his imaginary products was temporarily out of stock.",
+        "zh": "他喜欢听别人说他想象中的产品暂时缺货。"
+      },
+      "imitations": [
+        {
+          "en": "She loves to be told that her cooking is delicious.",
+          "zh": "她喜欢听别人夸她的厨艺好。"
+        },
+        {
+          "en": "Children love to be told that they are clever.",
+          "zh": "孩子们喜欢听别人夸他们聪明。"
+        }
+      ]
+    },
+    {
+      "pattern": "...is quite beyond me",
+      "original": {
+        "en": "How Harry managed to keep a straight face during these performances is quite beyond me.",
+        "zh": "哈利在这些表演中是怎样忍住不笑的，我实在想不通。"
+      },
+      "imitations": [
+        {
+          "en": "Why she married him is quite beyond me.",
+          "zh": "她为什么嫁给他，我实在想不通。"
+        },
+        {
+          "en": "How he passed the exam is quite beyond me.",
+          "zh": "他是怎么通过考试的，我实在想不通。"
+        }
+      ]
+    }
+  ]
+}

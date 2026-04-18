@@ -1,0 +1,315 @@
+{
+  "book": "NCE1",
+  "lesson": "077-078",
+  "title": "Lesson 77",
+  "vocabulary": [
+    {
+      "word": "terrible",
+      "phonetic": "/ˈterəbl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "可怕的；严重的",
+          "usage": "形容疼痛或情况非常严重"
+        }
+      ]
+    },
+    {
+      "word": "toothache",
+      "phonetic": "/ˈtuːθeɪk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "牙痛",
+          "usage": "通常与have连用，如have a toothache"
+        }
+      ]
+    },
+    {
+      "word": "dentist",
+      "phonetic": "/ˈdentɪst/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "牙医",
+          "usage": "指治疗牙齿问题的医生"
+        }
+      ]
+    },
+    {
+      "word": "appointment",
+      "phonetic": "/əˈpɔɪntmənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "预约；约定",
+          "usage": "通常用have an appointment表示预约"
+        }
+      ]
+    },
+    {
+      "word": "urgent",
+      "phonetic": "/ˈɜːrdʒənt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "紧急的；急迫的",
+          "usage": "形容需要立即处理的事情"
+        }
+      ]
+    },
+    {
+      "word": "awful",
+      "phonetic": "/ˈɔːfl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "糟糕的；难受的",
+          "usage": "形容身体或感觉非常不舒服"
+        }
+      ]
+    },
+    {
+      "word": "busy",
+      "phonetic": "/ˈbɪzi/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "忙碌的",
+          "usage": "形容人或时间被占用"
+        }
+      ]
+    },
+    {
+      "word": "moment",
+      "phonetic": "/ˈməʊmənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "时刻；瞬间",
+          "usage": "at the moment表示此刻"
+        }
+      ]
+    },
+    {
+      "word": "patient",
+      "phonetic": "/ˈpeɪʃnt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "耐心的",
+          "usage": "形容能够等待的态度"
+        }
+      ]
+    },
+    {
+      "word": "afternoon",
+      "phonetic": "/ˌɑːftəˈnuːn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "下午",
+          "usage": "指中午到傍晚之间的时间"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "have a terrible toothache",
+      "usage": "表示患有严重的牙痛",
+      "examples": [
+        {
+          "en": "I have a terrible toothache.",
+          "zh": "我牙疼得厉害。"
+        }
+      ]
+    },
+    {
+      "phrase": "want to see the dentist",
+      "usage": "表示想看牙医",
+      "examples": [
+        {
+          "en": "I want to see the dentist, please.",
+          "zh": "我想看牙医。"
+        }
+      ]
+    },
+    {
+      "phrase": "have an appointment",
+      "usage": "表示有预约",
+      "examples": [
+        {
+          "en": "Do you have an appointment?",
+          "zh": "您有预约吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "come at + 时间",
+      "usage": "表示在某个时间来",
+      "examples": [
+        {
+          "en": "Can you come at 10 a.m. on Monday?",
+          "zh": "您能星期一上午10点来吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "I'm afraid that...",
+      "usage": "表示恐怕...（礼貌地表达不好的消息）",
+      "examples": [
+        {
+          "en": "I'm afraid that he can't.",
+          "zh": "恐怕他不能。"
+        }
+      ]
+    },
+    {
+      "phrase": "wait till/until",
+      "usage": "表示等到...时候",
+      "examples": [
+        {
+          "en": "Can't you wait till this afternoon?",
+          "zh": "您不能等到下午吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "at the moment",
+      "usage": "表示此刻；目前",
+      "examples": [
+        {
+          "en": "The dentist is very busy at the moment.",
+          "zh": "牙医此刻非常忙。"
+        }
+      ]
+    },
+    {
+      "phrase": "feel awful",
+      "usage": "表示感觉很难受",
+      "examples": [
+        {
+          "en": "I feel awful.",
+          "zh": "我感觉很难受。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "情态动词 can 和 can't 的用法",
+      "definition": "can表示能力或可能性，can't表示不能或不允许",
+      "structure": "主语 + can/can't + 动词原形",
+      "usage": "用于询问或陈述能力、请求许可、表达可能性。疑问句将can提前。",
+      "examples": [
+        {
+          "en": "Can you come at 10 a.m. on Monday?",
+          "zh": "您能星期一上午10点来吗？"
+        },
+        {
+          "en": "Can't you wait till this afternoon?",
+          "zh": "您不能等到下午吗？"
+        },
+        {
+          "en": "The dentist can't see me now.",
+          "zh": "牙医现在不能给我看。"
+        }
+      ]
+    },
+    {
+      "title": "一般现在时与现在进行时",
+      "definition": "一般现在时描述习惯性动作，现在进行时描述正在发生的动作",
+      "structure": "主语 + 动词原形/动词+s / 主语 + am/is/are + 动词-ing",
+      "usage": "一般现在时用于经常性的动作，现在进行时用于正在进行的动作",
+      "examples": [
+        {
+          "en": "Do you have an appointment?",
+          "zh": "您有预约吗？"
+        },
+        {
+          "en": "The dentist is very busy at the moment.",
+          "zh": "牙医此刻非常忙。"
+        }
+      ]
+    },
+    {
+      "title": "一般过去时",
+      "definition": "描述过去发生的动作或存在的状态",
+      "structure": "主语 + 动词过去式",
+      "usage": "用于叙述过去发生的事情",
+      "examples": [
+        {
+          "en": "Good morning, Mr. Croft.",
+          "zh": "早上好，Croft先生。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Can you come at + 时间?",
+      "original": {
+        "en": "Can you come at 10 a.m. on Monday, April 24th?",
+        "zh": "您能4月24日星期一上午10点来吗？"
+      },
+      "imitations": [
+        {
+          "en": "Can you come at 3 p.m. tomorrow?",
+          "zh": "您明天中午3点能来吗？"
+        },
+        {
+          "en": "Can you come at 9 o'clock?",
+          "zh": "您9点能来吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "I want to see the + 职业, please.",
+      "original": {
+        "en": "I want to see the dentist, please.",
+        "zh": "我想看牙医。"
+      },
+      "imitations": [
+        {
+          "en": "I want to see the doctor, please.",
+          "zh": "我想看医生。"
+        },
+        {
+          "en": "I want to see the manager, please.",
+          "zh": "我想见经理。"
+        }
+      ]
+    },
+    {
+      "pattern": "I'm afraid that + 从句",
+      "original": {
+        "en": "I'm afraid that he can't, Mr. Croft.",
+        "zh": "恐怕他不能，Croft先生。"
+      },
+      "imitations": [
+        {
+          "en": "I'm afraid that she isn't here.",
+          "zh": "恐怕她不在这里。"
+        },
+        {
+          "en": "I'm afraid that the shop is closed.",
+          "zh": "恐怕商店关门了。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + can't wait, but + 主语 + can't (either).",
+      "original": {
+        "en": "I can wait, but my toothache can't!",
+        "zh": "我能等，但我的牙疼不能等！"
+      },
+      "imitations": [
+        {
+          "en": "I can work, but my computer can't!",
+          "zh": "我能工作，但我的电脑不能！"
+        }
+      ]
+    }
+  ]
+}

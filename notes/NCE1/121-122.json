@@ -1,0 +1,321 @@
+{
+  "book": "NCE1",
+  "lesson": "121-122",
+  "title": "Lesson 121",
+  "vocabulary": [
+    {
+      "word": "expensive",
+      "phonetic": "/ɪkˈspensɪv/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "meaning": "昂贵的",
+          "usage": "形容词，用来描述价格高的物品"
+        }
+      ]
+    },
+    {
+      "word": "dictionary",
+      "phonetic": "/ˈdɪkʃəneri/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "词典，字典",
+          "usage": "可数名词，复数形式为dictionaries"
+        }
+      ]
+    },
+    {
+      "word": "counter",
+      "phonetic": "/ˈkaʊntər/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "柜台",
+          "usage": "商店、餐厅等的服务台"
+        }
+      ]
+    },
+    {
+      "word": "serve",
+      "phonetic": "/sɜːrv/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "meaning": "服务，接待",
+          "usage": "指店员接待顾客，过去式为served"
+        }
+      ]
+    },
+    {
+      "word": "recognize",
+      "phonetic": "/ˈrekəɡnaɪz/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "meaning": "认出，辨认",
+          "usage": "指认出某人或某物"
+        }
+      ]
+    },
+    {
+      "word": "customer",
+      "phonetic": "/ˈkʌstəmər/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "顾客，客户",
+          "usage": "指商店的买东西的人"
+        }
+      ]
+    },
+    {
+      "word": "bought",
+      "phonetic": "/bɔːt/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "meaning": "买（buy的过去式）",
+          "usage": "表示过去发生的购买行为"
+        }
+      ]
+    },
+    {
+      "word": "forgot",
+      "phonetic": "/fərˈɡɑːt/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "meaning": "忘记（forget的过去式）",
+          "usage": "表示过去忘记做某事"
+        }
+      ]
+    },
+    {
+      "word": "wear",
+      "phonetic": "/wer/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "meaning": "穿，戴",
+          "usage": "指穿戴衣物或配饰，过去式为wore"
+        }
+      ]
+    },
+    {
+      "word": "hat",
+      "phonetic": "/hæt/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "帽子",
+          "usage": "可数名词，指戴在头上的服饰"
+        }
+      ]
+    },
+    {
+      "word": "gentleman",
+      "phonetic": "/ˈdʒentlmən/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "绅士，先生",
+          "usage": "对男士的礼貌称呼，复数为gentlemen"
+        }
+      ]
+    },
+    {
+      "word": "standing",
+      "phonetic": "/ˈstændɪŋ/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "meaning": "站着的",
+          "usage": "stand的现在分词，用作形容词"
+        }
+      ]
+    },
+    {
+      "word": "behind",
+      "phonetic": "/bɪˈhaɪnd/",
+      "meanings": [
+        {
+          "pos": "prep.",
+          "meaning": "在...后面",
+          "usage": "表示位置关系"
+        }
+      ]
+    },
+    {
+      "word": "straight",
+      "phonetic": "/streɪt/",
+      "meanings": [
+        {
+          "pos": "adv.",
+          "meaning": "直接地，立刻",
+          "usage": "straight away = 立即，马上"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "straight away",
+      "usage": "立即，马上，表示立即做某事",
+      "examples": [
+        {
+          "en": "Why didn't you tell me straight away?",
+          "zh": "你为什么不立刻告诉我？"
+        }
+      ]
+    },
+    {
+      "phrase": "put on",
+      "usage": "穿上，戴上，表示穿上衣服或戴上帽子等",
+      "examples": [
+        {
+          "en": "Would you put it on, please?",
+          "zh": "请你把它戴上好吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "I can't remember",
+      "usage": "我不记得了，表示遗忘或记不起某事",
+      "examples": [
+        {
+          "en": "I can't remember his name.",
+          "zh": "我不记得他的名字了。"
+        }
+      ]
+    },
+    {
+      "phrase": "Who served you?",
+      "usage": "谁接待了您？用于询问服务人员",
+      "examples": [
+        {
+          "en": "Who served you, sir?",
+          "zh": "先生，谁接待了您？"
+        }
+      ]
+    },
+    {
+      "phrase": "I recognize him now",
+      "usage": "我现在认出他了，表示辨认出某人",
+      "examples": [
+        {
+          "en": "I didn't recognize you at first.",
+          "zh": "我一开始没认出你。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "定语从句（Relative Clauses）- 关系代词who/which/that",
+      "definition": "定语从句用于修饰名词或代词，由关系代词who（指人）、which（指物）或that引导",
+      "structure": "名词 + who/which/that + 句子",
+      "usage": "用于限制性定语从句中，修饰先行词，明确指出是哪个人或物",
+      "examples": [
+        {
+          "en": "The man who bought these books came back.",
+          "zh": "买这些书的那个人回来了。"
+        },
+        {
+          "en": "The books which are on the counter are expensive.",
+          "zh": "柜台上的那些书很贵。"
+        },
+        {
+          "en": "The lady who is standing behind the counter served me.",
+          "zh": "站在柜台后面的那位女士接待了我。"
+        }
+      ]
+    },
+    {
+      "title": "过去进行时（Past Continuous Tense）",
+      "definition": "过去进行时表示过去某一时刻正在进行的动作",
+      "structure": "was/were + 动词-ing",
+      "usage": "用于描述过去正在发生的事件，或与另一个过去动作进行对比",
+      "examples": [
+        {
+          "en": "The man I served was wearing a hat.",
+          "zh": "我接待的那个人当时戴着一顶帽子。"
+        },
+        {
+          "en": "She was standing behind the counter when I came in.",
+          "zh": "我进来时她正站在柜台后面。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Who + 动词 + 主语?",
+      "original": {
+        "en": "Who served you, sir?",
+        "zh": "先生，谁接待了您？"
+      },
+      "imitations": [
+        {
+          "en": "Who served you yesterday?",
+          "zh": "昨天谁接待了您？"
+        },
+        {
+          "en": "Who called you this morning?",
+          "zh": "今天早上谁给你打电话了？"
+        }
+      ]
+    },
+    {
+      "pattern": "Did + 主语 + 动词原形 + ...?",
+      "original": {
+        "en": "Did you serve this gentleman half an hour ago?",
+        "zh": "半小时前你接待了这位先生吗？"
+      },
+      "imitations": [
+        {
+          "en": "Did you see the movie last night?",
+          "zh": "你昨晚看了那部电影吗？"
+        },
+        {
+          "en": "Did she buy these books?",
+          "zh": "她买了这些书吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "The + 名词 + who/which + 句子",
+      "original": {
+        "en": "The man who I served was wearing a hat.",
+        "zh": "我接待的那个人当时戴着一顶帽子。"
+      },
+      "imitations": [
+        {
+          "en": "The book which I bought is very interesting.",
+          "zh": "我买的那本书很有趣。"
+        },
+        {
+          "en": "The student who studies hard got good grades.",
+          "zh": "努力学习的学生取得了好成绩。"
+        }
+      ]
+    },
+    {
+      "pattern": "Would you + 动词...?",
+      "original": {
+        "en": "Would you put it on, please?",
+        "zh": "请你把它戴上好吗？"
+      },
+      "imitations": [
+        {
+          "en": "Would you open the door, please?",
+          "zh": "请你打开门好吗？"
+        },
+        {
+          "en": "Would you come here, please?",
+          "zh": "请你过来好吗？"
+        }
+      ]
+    }
+  ]
+}

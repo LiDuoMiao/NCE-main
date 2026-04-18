@@ -1,0 +1,398 @@
+{
+  "book": "NCE1",
+  "lesson": "017-018",
+  "title": "Lesson 17",
+  "vocabulary": [
+    {
+      "word": "employee",
+      "phonetic": "/ɪmˈplɔɪiː/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "雇员，员工",
+          "usage": "指在一家公司或组织工作的人"
+        }
+      ]
+    },
+    {
+      "word": "hard-working",
+      "phonetic": "/hɑːd ˈwɜːkɪŋ/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "勤勉的，工作努力的",
+          "usage": "形容人工作勤奋认真"
+        }
+      ]
+    },
+    {
+      "word": "keyboard",
+      "phonetic": "/ˈkiːbɔːd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "键盘",
+          "usage": "电脑或打字机的键盘"
+        }
+      ]
+    },
+    {
+      "word": "operator",
+      "phonetic": "/ˈɒpəreɪtə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "操作员",
+          "usage": "操作机器或设备的人员"
+        }
+      ]
+    },
+    {
+      "word": "sales",
+      "phonetic": "/seɪlz/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "销售",
+          "usage": "指卖东西的工作或部门"
+        }
+      ]
+    },
+    {
+      "word": "representative",
+      "phonetic": "/ˌreprɪˈzentətɪv/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "代表",
+          "usage": "sales rep 是推销员的缩写形式"
+        }
+      ]
+    },
+    {
+      "word": "lazy",
+      "phonetic": "/ˈleɪzi/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "懒惰的",
+          "usage": "形容人不愿工作或努力"
+        }
+      ]
+    },
+    {
+      "word": "young",
+      "phonetic": "/jʌŋ/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "年轻的",
+          "usage": "指年龄小"
+        }
+      ]
+    },
+    {
+      "word": "assistant",
+      "phonetic": "/əˈsɪstənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "助手，助理",
+          "usage": "帮助别人工作的人"
+        }
+      ]
+    },
+    {
+      "word": "office",
+      "phonetic": "/ˈɒfɪs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "办公室",
+          "usage": "工作的地方"
+        }
+      ]
+    },
+    {
+      "word": "meet",
+      "phonetic": "/miːt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "遇见，见到",
+          "usage": "指第一次见面或相遇"
+        }
+      ]
+    },
+    {
+      "word": "busy",
+      "phonetic": "/ˈbɪzi/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "忙碌的",
+          "usage": "有很多事情要做的"
+        }
+      ]
+    },
+    {
+      "word": "woman",
+      "phonetic": "/ˈwʊmən/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "女人",
+          "usage": "成年女性的称呼，复数是women"
+        }
+      ]
+    },
+    {
+      "word": "man",
+      "phonetic": "/mæn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "男人",
+          "usage": "成年男性的称呼，复数是men"
+        }
+      ]
+    },
+    {
+      "word": "very",
+      "phonetic": "/ˈveri/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "非常，很",
+          "usage": "用于修饰形容词或副词"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "How do you do?",
+      "usage": "用于正式场合第一次见面时的问候语",
+      "examples": [
+        {
+          "en": "How do you do? Nice to meet you.",
+          "zh": "你好，很高兴见到你。"
+        }
+      ]
+    },
+    {
+      "phrase": "Come and meet",
+      "usage": "邀请他人去见某人",
+      "examples": [
+        {
+          "en": "Come and meet our new teacher.",
+          "zh": "来见见我们的新老师。"
+        }
+      ]
+    },
+    {
+      "phrase": "What are their jobs?",
+      "usage": "询问多个人的工作",
+      "examples": [
+        {
+          "en": "What are their jobs? They are doctors.",
+          "zh": "他们的工作是什么？他们都是医生。"
+        }
+      ]
+    },
+    {
+      "phrase": "This is...",
+      "usage": "介绍某人时使用的句型",
+      "examples": [
+        {
+          "en": "This is Tom and this is Jerry.",
+          "zh": "这是汤姆，这是杰瑞。"
+        }
+      ]
+    },
+    {
+      "phrase": "Who is this...",
+      "usage": "询问某人是谁",
+      "examples": [
+        {
+          "en": "Who is this young man?",
+          "zh": "这个年轻人是谁？"
+        }
+      ]
+    },
+    {
+      "phrase": "very hard-working",
+      "usage": "非常勤奋的，形容人工作努力",
+      "examples": [
+        {
+          "en": "My mother is very hard-working.",
+          "zh": "我妈妈工作非常努力。"
+        }
+      ]
+    },
+    {
+      "phrase": "office assistant",
+      "usage": "办公室助理",
+      "examples": [
+        {
+          "en": "He is our office assistant.",
+          "zh": "他是我们的办公室助理。"
+        }
+      ]
+    },
+    {
+      "phrase": "keyboard operators",
+      "usage": "电脑操作员，指操作电脑工作的人",
+      "examples": [
+        {
+          "en": "They are keyboard operators.",
+          "zh": "他们是电脑操作员。"
+        }
+      ]
+    },
+    {
+      "phrase": "sales reps",
+      "usage": "销售代表，推销员的简称",
+      "examples": [
+        {
+          "en": "The sales reps are very busy.",
+          "zh": "销售代表们非常忙。"
+        }
+      ]
+    },
+    {
+      "phrase": "Thank you",
+      "usage": "表示感谢的礼貌用语",
+      "examples": [
+        {
+          "en": "Thank you, Mr. Jackson.",
+          "zh": "谢谢您，杰克逊先生。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "特殊疑问句 - What 引导的询问工作",
+      "definition": "用What询问某人的职业或工作",
+      "structure": "What + are/is + 主语 + jobs?",
+      "usage": "用于询问一个人或多人的职业",
+      "examples": [
+        {
+          "en": "What are their jobs?",
+          "zh": "他们的工作是什么？"
+        },
+        {
+          "en": "What is her job?",
+          "zh": "她的工作是什么？"
+        },
+        {
+          "en": "What are your jobs?",
+          "zh": "你们的工作是什么？"
+        }
+      ]
+    },
+    {
+      "title": "特殊疑问句 - Who 引导的询问身份",
+      "definition": "用Who询问某人是谁",
+      "structure": "Who is this + (形容词) + (名词)?",
+      "usage": "用于询问某人的身份或名字",
+      "examples": [
+        {
+          "en": "Who is this young man?",
+          "zh": "这个年轻人是谁？"
+        },
+        {
+          "en": "Who is that woman?",
+          "zh": "那个女人是谁？"
+        }
+      ]
+    },
+    {
+      "title": "特殊疑问句 - How 引导的问候",
+      "definition": "How do you do? 是正式场合的问候语",
+      "structure": "How do you do?",
+      "usage": "第一次见面时的正式问候，回答也是 How do you do?",
+      "examples": [
+        {
+          "en": "How do you do?",
+          "zh": "你好（幸会）。"
+        },
+        {
+          "en": "How do you do? Nice to meet you.",
+          "zh": "你好，幸会。很高兴认识你。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "What are their jobs?",
+      "original": {
+        "en": "What are their jobs?",
+        "zh": "他们的工作是什么？"
+      },
+      "imitations": [
+        {
+          "en": "What are your jobs?",
+          "zh": "你们的工作是什么？"
+        },
+        {
+          "en": "What are the men's jobs?",
+          "zh": "这些男士的工作是什么？"
+        }
+      ]
+    },
+    {
+      "pattern": "This is + 人名",
+      "original": {
+        "en": "This is Michael Baker.",
+        "zh": "这是迈克尔·贝克。"
+      },
+      "imitations": [
+        {
+          "en": "This is Tom.",
+          "zh": "这是汤姆。"
+        },
+        {
+          "en": "This is our teacher, Miss Wang.",
+          "zh": "这是我们的老师，王老师。"
+        }
+      ]
+    },
+    {
+      "pattern": "Who is this + (形容词) + (名词)?",
+      "original": {
+        "en": "Who is this young man?",
+        "zh": "这个年轻人是谁？"
+      },
+      "imitations": [
+        {
+          "en": "Who is this tall woman?",
+          "zh": "这个高个子的女人是谁？"
+        },
+        {
+          "en": "Who is that old man?",
+          "zh": "那个老人是谁？"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + be + 形容词.",
+      "original": {
+        "en": "They are very lazy.",
+        "zh": "他们非常懒惰。"
+      },
+      "imitations": [
+        {
+          "en": "She is very hard-working.",
+          "zh": "她工作非常努力。"
+        },
+        {
+          "en": "We are very busy.",
+          "zh": "我们非常忙。"
+        }
+      ]
+    }
+  ]
+}

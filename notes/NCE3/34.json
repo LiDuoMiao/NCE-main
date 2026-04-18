@@ -1,0 +1,366 @@
+{
+  "book": "NCE3",
+  "lesson": "34",
+  "title": "Lesson 34",
+  "vocabulary": [
+    {
+      "word": "antique",
+      "phonetic": "/ænˈtiːk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "古董，古玩",
+          "usage": "指具有历史价值的古老物件"
+        },
+        {
+          "pos": "adjective",
+          "meaning": "古老的，古董的",
+          "usage": "修饰和古董相关的事物"
+        }
+      ]
+    },
+    {
+      "word": "peculiar",
+      "phonetic": "/pɪˈkjuːliə(r)/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "特殊的，独特的；奇怪的",
+          "usage": "可形容事物独有的特性，也可指反常的、怪异的"
+        }
+      ]
+    },
+    {
+      "word": "fascination",
+      "phonetic": "/ˌfæsɪˈneɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "魅力，吸引力；入迷",
+          "usage": "常和介词for/over搭配，表示对…的吸引力"
+        }
+      ]
+    },
+    {
+      "word": "rare",
+      "phonetic": "/reə(r)/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "稀有的，罕见的",
+          "usage": "形容少见、珍贵的事物，也可形容稀薄的空气"
+        }
+      ]
+    },
+    {
+      "word": "forbidding",
+      "phonetic": "/fəˈbɪdɪŋ/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "令人生畏的，望而却步的",
+          "usage": "常用来形容地方、外表或者氛围给人严肃、不易接近的感觉"
+        }
+      ]
+    },
+    {
+      "word": "muster",
+      "phonetic": "/ˈmʌstə(r)/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "鼓起（勇气），集合",
+          "usage": "常见搭配muster up courage表示鼓起勇气"
+        }
+      ]
+    },
+    {
+      "word": "pretentious",
+      "phonetic": "/prɪˈtenʃəs/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "炫耀的，虚饰的，做作的",
+          "usage": "形容人或事物刻意显得贵重、重要，实际名不副实"
+        }
+      ]
+    },
+    {
+      "word": "labyrinth",
+      "phonetic": "/ˈlæbərɪnθ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "迷宫，错综复杂的事物",
+          "usage": "可指实际的迷宫类建筑，也可比喻复杂难懂的结构"
+        }
+      ]
+    },
+    {
+      "word": "musty",
+      "phonetic": "/ˈmʌsti/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "发霉的，有霉味的",
+          "usage": "形容长期不通风、潮湿的地方或物品散发的味道"
+        }
+      ]
+    },
+    {
+      "word": "rarity",
+      "phonetic": "/ˈreərəti/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "珍品，罕见的事物",
+          "usage": "指稀有的、有价值的物品，也可指稀有性"
+        }
+      ]
+    },
+    {
+      "word": "assorted",
+      "phonetic": "/əˈsɔːtɪd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "各种各样的，混杂的",
+          "usage": "形容不同种类的物品混合在一起"
+        }
+      ]
+    },
+    {
+      "word": "dedicated",
+      "phonetic": "/ˈdedɪkeɪtɪd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "专注的，有奉献精神的",
+          "usage": "形容人对某件事投入大量精力、非常专注"
+        }
+      ]
+    },
+    {
+      "word": "amply",
+      "phonetic": "/ˈæmpli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "足够地，丰厚地",
+          "usage": "修饰回报、证明等词，表示程度充足"
+        }
+      ]
+    },
+    {
+      "word": "reluctantly",
+      "phonetic": "/rɪˈlʌktəntli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "不情愿地，勉强地",
+          "usage": "描述做某事时不情愿的状态"
+        }
+      ]
+    },
+    {
+      "word": "miniature",
+      "phonetic": "/ˈmɪnətʃə(r)/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "微型的，小型的",
+          "usage": "形容比正常尺寸小很多的事物"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "exert a fascination on",
+      "usage": "表示对…产生吸引力，主语通常是具有魅力的事物",
+      "examples": [
+        {
+          "en": "Ancient cities exert a peculiar fascination on tourists from all over the world.",
+          "zh": "古城对来自世界各地的游客有着独特的吸引力。"
+        }
+      ]
+    },
+    {
+      "phrase": "keep sth free from",
+      "usage": "表示使某物远离…、免受…的影响",
+      "examples": [
+        {
+          "en": "We should keep the laboratory free from dust and noise.",
+          "zh": "我们应该让实验室远离灰尘和噪音。"
+        }
+      ]
+    },
+    {
+      "phrase": "muster up courage",
+      "usage": "固定搭配，意为鼓起勇气做某事，后面常接to do不定式",
+      "examples": [
+        {
+          "en": "She mustered up courage to give a speech in front of hundreds of people.",
+          "zh": "她鼓起勇气在数百人面前发表演讲。"
+        }
+      ]
+    },
+    {
+      "phrase": "by chance",
+      "usage": "表示偶然、意外地，相当于accidentally，在句中作状语",
+      "examples": [
+        {
+          "en": "I met my former classmate by chance in the supermarket yesterday.",
+          "zh": "我昨天在超市偶然碰到了我以前的同学。"
+        }
+      ]
+    },
+    {
+      "phrase": "above all",
+      "usage": "插入语，意为最重要的是，用于强调后续内容的重要性",
+      "examples": [
+        {
+          "en": "To be a good nurse, you need to be careful, patient and above all, kind to patients.",
+          "zh": "要成为一名好护士，你需要细心、有耐心，最重要的是要对病人友善。"
+        }
+      ]
+    },
+    {
+      "phrase": "be bent on",
+      "usage": "表示一心想要、决心要，后面接名词或动名词，常指下定决心做某事",
+      "examples": [
+        {
+          "en": "He is bent on winning the first prize in the national English competition.",
+          "zh": "他一心想要在全国英语竞赛中获得一等奖。"
+        }
+      ]
+    },
+    {
+      "phrase": "pick up",
+      "usage": "此处表示轻易买到、便宜买到，还可表示捡起、学会（语言）、接人等含义",
+      "examples": [
+        {
+          "en": "She picked up a beautiful vintage dress at the second-hand market for only 100 yuan.",
+          "zh": "她在二手市场只花了100元就买到了一件漂亮的复古连衣裙。"
+        }
+      ]
+    },
+    {
+      "phrase": "be about to do sth when",
+      "usage": "表示正要做某事，这时突然发生另一件事，强调动作的突发性",
+      "examples": [
+        {
+          "en": "I was about to go out when the telephone rang.",
+          "zh": "我正要出门，这时电话铃响了。"
+        }
+      ]
+    },
+    {
+      "phrase": "cannot be bothered to do sth",
+      "usage": "表示懒得做某事，不想费心做某事，是口语中常用的表达",
+      "examples": [
+        {
+          "en": "After a long day at work, I can't be bothered to cook dinner.",
+          "zh": "工作了一整天之后，我懒得做晚饭了。"
+        }
+      ]
+    },
+    {
+      "phrase": "apart from",
+      "usage": "表示除了…之外，相当于except for或者besides，根据语境可表示排除或者包含关系",
+      "examples": [
+        {
+          "en": "Apart from a few spelling mistakes, your composition is very good.",
+          "zh": "除了几个拼写错误之外，你的作文写得非常好。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "The + 比较级结构作定语",
+      "definition": "用\"the + 形容词比较级\"修饰名词，表示两类事物中程度更高的那一类，隐含和另一类的对比关系",
+      "structure": "The + 形容词比较级 + 名词 + 定语从句/其他修饰成分",
+      "usage": "用于对同一范畴的两个事物进行对比，突出其中程度更高的那个的属性",
+      "examples": [
+        {
+          "en": "The more expensive kind of antique shop where rare objects are beautifully displayed in glass cases to keep them free from dust is usually a forbidding place.",
+          "zh": "高档一点的古玩店为了防尘，把文物漂亮地陈列在玻璃柜子里，那里往往令人望而却步。"
+        },
+        {
+          "en": "The more convenient way to get to the airport is to take the high-speed rail.",
+          "zh": "去机场更便捷的方式是坐高铁。"
+        }
+      ]
+    },
+    {
+      "title": "There is hope that 同位语从句",
+      "definition": "that引导的从句作名词hope的同位语，用来解释说明hope的具体内容",
+      "structure": "There is hope that + 完整的陈述句式从句",
+      "usage": "用于表达某种可能性是存在的，人们抱有相关的期望",
+      "examples": [
+        {
+          "en": "There is always hope that in its labyrinth of musty, dark, disordered rooms a real rarity will be found amongst the piles of assorted junk that litter the floors.",
+          "zh": "人们还常常有希望在发霉、阴暗、杂乱无章、迷宫般的店堂里，从杂乱地摆放在地面上的、一堆堆各式各样的破烂货里找到一件稀世珍品。"
+        },
+        {
+          "en": "There is hope that the team will win the championship this season.",
+          "zh": "这支队伍有望在本赛季赢得冠军。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "A truly dedicated + 名词 + must have..., and above all, the ability to...",
+      "original": {
+        "en": "A truly dedicated bargain hunter must have patience, and above all, the ability to recognize the worth of something when he sees it.",
+        "zh": "一个一心一意找便宜货的人必须有耐心，最重要的是，要有眼力，看到东西就能认出它的价值。"
+      },
+      "imitations": [
+        {
+          "en": "A truly dedicated writer must have rich life experience, and above all, the ability to observe small details in daily life.",
+          "zh": "一个真正专注的作家必须有丰富的人生阅历，最重要的是，要有观察生活中微小细节的能力。"
+        },
+        {
+          "en": "A truly dedicated researcher must have rigorous academic attitude, and above all, the ability to think independently.",
+          "zh": "一个真正专注的研究者必须有严谨的学术态度，最重要的是，要有独立思考的能力。"
+        }
+      ]
+    },
+    {
+      "pattern": "Sb could hardly conceal his/her + 情绪名词, for he/she knew that...",
+      "original": {
+        "en": "Frank could hardly conceal his excitement, for he knew that he had made a real discovery.",
+        "zh": "弗兰克几乎无法掩饰自己兴奋的心情，因为他知道自己有了一个真正的发现。"
+      },
+      "imitations": [
+        {
+          "en": "She could hardly conceal her disappointment, for she knew that she had failed the interview she had prepared for months.",
+          "zh": "她几乎无法掩饰自己的失望，因为她知道自己准备了数月的面试没有通过。"
+        },
+        {
+          "en": "The little boy could hardly conceal his joy, for he knew that his parents would take him to the Disneyland this weekend.",
+          "zh": "小男孩几乎无法掩饰自己的喜悦，因为他知道父母这周末要带他去迪士尼乐园。"
+        }
+      ]
+    },
+    {
+      "pattern": "As + 原因状语从句, sb decided to do sth",
+      "original": {
+        "en": "As its composition and line reminded him of an Italian painting he knew well, he decided to buy it.",
+        "zh": "由于它的构图和线条让他想起了一幅他熟悉的意大利画作，他决定买下它。"
+      },
+      "imitations": [
+        {
+          "en": "As the weather forecast said it would rain heavily in the afternoon, we decided to cancel the outdoor picnic.",
+          "zh": "由于天气预报说下午会下大雨，我们决定取消户外野餐。"
+        },
+        {
+          "en": "As the course he wanted to take was very popular, he decided to sign up for it as soon as possible.",
+          "zh": "由于他想选的那门课非常热门，他决定尽快报名。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "book": "NCE3",
+  "lesson": "55",
+  "title": "Lesson 55",
+  "vocabulary": [
+    {
+      "word": "astronomy",
+      "phonetic": "/əˈstrɒnəmi/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "天文学",
+          "usage": "指研究恒星、星系等天体的科学"
+        }
+      ]
+    },
+    {
+      "word": "detect",
+      "phonetic": "/dɪˈtekt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "发现；探测",
+          "usage": "表示通过仪器或方法发现或感知某物的存在"
+        }
+      ]
+    },
+    {
+      "word": "galaxy",
+      "phonetic": "/ˈɡæləksi/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "星系；银河",
+          "usage": "指由众多恒星、气体和尘埃组成的巨大天体系统"
+        }
+      ]
+    },
+    {
+      "word": "emit",
+      "phonetic": "/ɪˈmɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "发出；散发；发射",
+          "usage": "指发出光、热、声音等"
+        }
+      ]
+    },
+    {
+      "word": "evolve",
+      "phonetic": "/ɪˈvɒlv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "进化；逐步发展",
+          "usage": "指生物或事物经过漫长时间逐渐发展变化"
+        }
+      ]
+    },
+    {
+      "word": "capable",
+      "phonetic": "/ˈkeɪpəbl/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "有能力的；能够...的",
+          "usage": "常与of连用，表示有能力做某事"
+        }
+      ]
+    },
+    {
+      "word": "orbit",
+      "phonetic": "/ˈɔːbɪt/",
+      "meanings": [
+        {
+          "pos": "noun/verb",
+          "meaning": "轨道；环绕运行",
+          "usage": "指天体运行的路径，或绕某天体运行的动作"
+        }
+      ]
+    },
+    {
+      "word": "atmosphere",
+      "phonetic": "/ˈætməsfɪə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "大气层；气氛",
+          "usage": "指包围地球的气体层，或某地的一般氛围"
+        }
+      ]
+    },
+    {
+      "word": "bacteria",
+      "phonetic": "/bækˈtɪəriə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "细菌",
+          "usage": "bacterium的复数形式，指微生物"
+        }
+      ]
+    },
+    {
+      "word": "generate",
+      "phonetic": "/ˈdʒenəreɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "产生；生成",
+          "usage": "指产生某种物质、能量或结果"
+        }
+      ]
+    },
+    {
+      "word": "realm",
+      "phonetic": "/relm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "领域；范围",
+          "usage": "指思想、活动或知识的领域或范围"
+        }
+      ]
+    },
+    {
+      "word": "blot",
+      "phonetic": "/blɒt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "遮住；弄脏",
+          "usage": "blot out表示遮住、挡住光线"
+        }
+      ]
+    },
+    {
+      "word": "dust",
+      "phonetic": "/dʌst/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "灰尘；尘埃",
+          "usage": "指细小的粉末状物质"
+        }
+      ]
+    },
+    {
+      "word": "alternative",
+      "phonetic": "/ɔːlˈtɜːnətɪv/",
+      "meanings": [
+        {
+          "pos": "noun/adj",
+          "meaning": "替代选择；可供选择的",
+          "usage": "指另一种选择或方法"
+        }
+      ]
+    },
+    {
+      "word": "endeavour",
+      "phonetic": "/ɪnˈdevə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "努力；尝试；事业",
+          "usage": "正式用语，指尝试做某事或努力做的事"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "in relative terms",
+      "usage": "相对而言；相对地",
+      "examples": [
+        {
+          "en": "In relative terms, planets are very small and do not emit light.",
+          "zh": "相对而言，行星非常小且不发光。"
+        }
+      ]
+    },
+    {
+      "phrase": "be capable of",
+      "usage": "能够；有能力的",
+      "examples": [
+        {
+          "en": "A planet would have to be a very long way from it to be capable of supporting life.",
+          "zh": "行星必须离它很远才能维持生命。"
+        }
+      ]
+    },
+    {
+      "phrase": "rather than",
+      "usage": "而不是；与其...不如",
+      "examples": [
+        {
+          "en": "In the first instance, we would be looking for plant life, rather than 'little green men'.",
+          "zh": "首先，我们会寻找植物生命，而不是小绿人。"
+        }
+      ]
+    },
+    {
+      "phrase": "in the realms of",
+      "usage": "在...领域/范围内",
+      "examples": [
+        {
+          "en": "But this hope is always in the realms of science fiction.",
+          "zh": "但这种希望总是在科幻小说的领域里。"
+        }
+      ]
+    },
+    {
+      "phrase": "blot out",
+      "usage": "遮住；遮蔽",
+      "examples": [
+        {
+          "en": "We would have to find a way of blotting out the light from its star.",
+          "zh": "我们必须找到一种方法遮住它恒星的光。"
+        }
+      ]
+    },
+    {
+      "phrase": "in the first instance",
+      "usage": "首先；最初；第一阶段",
+      "examples": [
+        {
+          "en": "In the first instance, we would be looking for plant life.",
+          "zh": "首先，我们会寻找植物生命。"
+        }
+      ]
+    },
+    {
+      "phrase": "far too",
+      "usage": "太...；过于...",
+      "examples": [
+        {
+          "en": "Venus is far too hot and Mars is far too cold to support life.",
+          "zh": "金星太热而火星太冷，都无法维持生命。"
+        }
+      ]
+    },
+    {
+      "phrase": "take + 时间 + for + 事物 + to do",
+      "usage": "花费...时间做某事",
+      "examples": [
+        {
+          "en": "It has taken more than four billion years for plant and animal life to evolve.",
+          "zh": "动植物生命进化花了四十多亿年。"
+        }
+      ]
+    },
+    {
+      "phrase": "look for",
+      "usage": "寻找；寻求",
+      "examples": [
+        {
+          "en": "It is impossible to look for life on another planet using earth-based telescopes.",
+          "zh": "用地面望远镜寻找另一颗行星上的生命是不可能的。"
+        }
+      ]
+    },
+    {
+      "phrase": "generate oxygen",
+      "usage": "产生氧气",
+      "examples": [
+        {
+          "en": "It is bacteria that have generated the oxygen we breathe on earth.",
+          "zh": "正是细菌产生了我们呼吸的氧气。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "虚拟语气 (Subjunctive Mood) - 与现在事实相反",
+      "definition": "虚拟语气用于表达与事实相反的假设情况。使用were来表示与现在事实相反的假设",
+      "structure": "If + 主语 + were + 其他, 主语 + would/could/might + 动词原形",
+      "usage": "用于表达不太可能实现的假设或与事实相反的情况",
+      "examples": [
+        {
+          "en": "If we were able to discover lowly forms of life like bacteria on another planet, it would completely change our view of ourselves.",
+          "zh": "如果我們能夠在另一颗行星上发现像细菌这样的低等生命，那将完全改变我们对自己的看法。"
+        }
+      ]
+    },
+    {
+      "title": "定语从句 (Relative Clause) - 关系副词where引导",
+      "definition": "用where引导的定语从句修饰表示地点的名词，说明事件发生的场所",
+      "structure": "名词 + where + 完整句子",
+      "usage": "where在从句中作地点状语，修饰其前的名词",
+      "examples": [
+        {
+          "en": "A telescope would have to be as far away as the planet Jupiter to look for life in outer space, where the dust becomes thinner.",
+          "zh": "望远镜必须远到像木星那样的距离才能在外太空寻找生命，那里的尘埃更稀薄。"
+        }
+      ]
+    },
+    {
+      "title": "强调句型 (Emphatic Structure) - It is/was + 被强调部分 + that/who + 其他",
+      "definition": "使用It is/was...that/who...结构强调句子的某个成分",
+      "structure": "It is/was + 强调部分 + that/who + 句子其他部分",
+      "usage": "可用于强调主语、宾语或状语，增强表达效果",
+      "examples": [
+        {
+          "en": "It is bacteria that have generated the oxygen we breathe on earth.",
+          "zh": "正是细菌产生了我们呼吸的氧气。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Whether...depends on...",
+      "original": {
+        "en": "Whether a planet can support life depends on the size and brightness of its star.",
+        "zh": "行星是否能维持生命取决于其恒星的大小和亮度。"
+      },
+      "imitations": [
+        {
+          "en": "Whether we can find water on Mars depends on its geological conditions.",
+          "zh": "我们能否在火星上找到水取决于它的地质条件。"
+        },
+        {
+          "en": "Whether the plan will succeed depends on everyone's cooperation.",
+          "zh": "这个计划是否成功取决于每个人的配合。"
+        }
+      ]
+    },
+    {
+      "pattern": "The first question to answer is whether...",
+      "original": {
+        "en": "The first question to answer is whether a planet can actually support life.",
+        "zh": "首先要回答的问题是行星是否真的能维持生命。"
+      },
+      "imitations": [
+        {
+          "en": "The first problem to solve is whether we have enough funding.",
+          "zh": "首先要解决的问题是我们是否有足够的资金。"
+        },
+        {
+          "en": "The first step to take is whether we should accept their offer.",
+          "zh": "首先要采取的步骤是我们是否应该接受他们的提议。"
+        }
+      ]
+    },
+    {
+      "pattern": "It is + adj + to do something",
+      "original": {
+        "en": "It is impossible to look for life on another planet using earth-based telescopes.",
+        "zh": "用地面望远镜寻找另一颗行星上的生命是不可能的。"
+      },
+      "imitations": [
+        {
+          "en": "It is difficult to detect planets in distant galaxies.",
+          "zh": "探测遥远星系中的行星是困难的。"
+        },
+        {
+          "en": "It is necessary to understand the basic principles of astronomy.",
+          "zh": "理解天文学的基本原理是必要的。"
+        }
+      ]
+    },
+    {
+      "pattern": "A planet would have to be...to be capable of...",
+      "original": {
+        "en": "A planet would have to be a very long way from it to be capable of supporting life.",
+        "zh": "行星必须离它很远才能维持生命。"
+      },
+      "imitations": [
+        {
+          "en": "An organism would have to adapt to extreme conditions to be capable of surviving.",
+          "zh": "有机体必须适应极端条件才能存活。"
+        },
+        {
+          "en": "A telescope would have to be placed in space to be capable of detecting small objects.",
+          "zh": "望远镜必须放置在太空中才能探测到小物体。"
+        }
+      ]
+    }
+  ]
+}

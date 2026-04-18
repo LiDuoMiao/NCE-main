@@ -1,0 +1,339 @@
+{
+  "book": "NCE4",
+  "lesson": "20",
+  "title": "Lesson 20",
+  "vocabulary": [
+    {
+      "word": "poison",
+      "phonetic": "/ˈpɔɪzn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "毒药，毒物",
+          "usage": "指能使生物中毒的有害物质"
+        },
+        {
+          "pos": "verb",
+          "meaning": "下毒，毒害",
+          "usage": "表示投放毒物使中毒的动作"
+        }
+      ]
+    },
+    {
+      "word": "saliva",
+      "phonetic": "/səˈlaɪvə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "唾液，口水",
+          "usage": "不可数名词，指口腔分泌的消化液"
+        }
+      ]
+    },
+    {
+      "word": "digestive",
+      "phonetic": "/daɪˈdʒestɪv/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "消化的，助消化的",
+          "usage": "常用于修饰与消化功能相关的器官、液体等"
+        }
+      ]
+    },
+    {
+      "word": "defy",
+      "phonetic": "/dɪˈfaɪ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "使不可能，违抗",
+          "usage": "后接名词，表示某事物难以被完成/理解，或公然违抗规则、权威"
+        }
+      ]
+    },
+    {
+      "word": "prey",
+      "phonetic": "/preɪ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "猎物，捕获物",
+          "usage": "不可数名词，指被其他动物捕食的生物"
+        }
+      ]
+    },
+    {
+      "word": "luxury",
+      "phonetic": "/ˈlʌkʃəri/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "奢侈品，享受",
+          "usage": "可作可数或不可数名词，指非必需的、能带来便利或享受的事物"
+        }
+      ]
+    },
+    {
+      "word": "carnivore",
+      "phonetic": "/ˈkɑːnɪvɔː(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "食肉动物",
+          "usage": "指以肉类为主要食物的动物，反义词为herbivore（食草动物）"
+        }
+      ]
+    },
+    {
+      "word": "vertebrate",
+      "phonetic": "/ˈvɜːtɪbrət/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "脊椎动物",
+          "usage": "指有脊椎骨的动物，反义词为invertebrate（无脊椎动物）"
+        }
+      ]
+    },
+    {
+      "word": "concoct",
+      "phonetic": "/kənˈkɒkt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "调制，编造",
+          "usage": "可指调配物质，也可指编造故事、借口等"
+        }
+      ]
+    },
+    {
+      "word": "potency",
+      "phonetic": "/ˈpəʊtnsi/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "效力， potency",
+          "usage": "不可数名词，指药物、毒物等的作用强度"
+        }
+      ]
+    },
+    {
+      "word": "conversion",
+      "phonetic": "/kənˈvɜːʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "转化，转换",
+          "usage": "常与介词of/into搭配，表示从一种形式变为另一种形式的过程"
+        }
+      ]
+    },
+    {
+      "word": "venom",
+      "phonetic": "/ˈvenəm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "（蛇、昆虫等的）毒液",
+          "usage": "特指生物分泌的有毒液体，区别于普通的poison"
+        }
+      ]
+    },
+    {
+      "word": "primitive",
+      "phonetic": "/ˈprɪmətɪv/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "原始的，早期的",
+          "usage": "用于描述事物发展的初期阶段，相对不够先进"
+        }
+      ]
+    },
+    {
+      "word": "formula",
+      "phonetic": "/ˈfɔːmjələ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "配方，公式",
+          "usage": "可指化学配方、数学公式，也可指方案、方法"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "live on",
+      "usage": "表示以某物为食、靠某物生存",
+      "examples": [
+        {
+          "en": "They could have caught and lived on prey without using poison.",
+          "zh": "它们本可以不用毒液，就捕获猎物并以此为生。"
+        },
+        {
+          "en": "Most pandas live on bamboo in the wild.",
+          "zh": "野外的大多数大熊猫以竹子为食。"
+        }
+      ]
+    },
+    {
+      "phrase": "two-edged weapon",
+      "usage": "比喻具有利弊两面性的事物，即双刃剑",
+      "examples": [
+        {
+          "en": "It would be an assistance to all carnivores though it would be a two-edged weapon when they fought each other.",
+          "zh": "这对所有食肉动物都有帮助，不过当它们互相打斗时，这就会是一把双刃剑。"
+        },
+        {
+          "en": "Social media is a two-edged weapon: it connects people but also spreads misinformation easily.",
+          "zh": "社交媒体是一把双刃剑：它能连接人们，但也很容易传播不实信息。"
+        }
+      ]
+    },
+    {
+      "phrase": "by far",
+      "usage": "用于形容词或副词比较级、最高级前，强调程度，意为“……得多，显然”",
+      "examples": [
+        {
+          "en": "Both poisons are unpleasant, but by far the more unpleasant is the blood poison.",
+          "zh": "两种毒液都很可怕，但血溶性毒液显然要更伤人。"
+        },
+        {
+          "en": "This is by far the best movie I have watched this year.",
+          "zh": "这显然是我今年看过的最好的电影。"
+        }
+      ]
+    },
+    {
+      "phrase": "so to speak",
+      "usage": "插入语，用于表达比喻、不太严谨的说法，意为“可以说，打个比方”",
+      "examples": [
+        {
+          "en": "The blood poison is, so to speak, a newer product from an improved formula.",
+          "zh": "可以说，血溶性毒液是配方改良后的新产品。"
+        },
+        {
+          "en": "In many ways, the Internet is, so to speak, a new global public space.",
+          "zh": "从很多方面来说，互联网可以说是一个全新的全球公共空间。"
+        }
+      ]
+    },
+    {
+      "phrase": "be that as it may",
+      "usage": "让步表达，意为“尽管如此，话虽如此”，用于承认前文观点后转折引出新内容",
+      "examples": [
+        {
+          "en": "Be that as it may, the nerve poison does its business with man far more quickly than the blood poison.",
+          "zh": "尽管如此，神经性毒液作用于人体的速度还是比血溶性毒液快得多。"
+        },
+        {
+          "en": "Be that as it may, we still need to consider the potential risks of the plan.",
+          "zh": "话虽如此，我们还是需要考虑这个计划的潜在风险。"
+        }
+      ]
+    },
+    {
+      "phrase": "do its business",
+      "usage": "非正式表达，意为“发挥作用，奏效”",
+      "examples": [
+        {
+          "en": "The nerve poison does its business with man far more quickly than the blood poison.",
+          "zh": "神经性毒液对人体产生作用的速度比血溶性毒液快得多。"
+        },
+        {
+          "en": "The medicine will do its business in half an hour and you will feel less pain.",
+          "zh": "这个药半小时后就会起效，你就不会那么疼了。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "虚拟语气：could have done",
+      "definition": "表示对过去本可以发生但实际没有发生的事情的假设，译为“本可以做某事（却没做）”",
+      "structure": "主语 + could have + 动词过去分词",
+      "usage": "用于评论过去的行为，表达遗憾、推测或者假设的可能性",
+      "examples": [
+        {
+          "en": "They could have caught and lived on prey without using poison, just as the thousands of non-poisonous snakes still do.",
+          "zh": "它们本可以不用毒液，就捕获猎物并以此为生，就像数千种无毒蛇现在仍然做的那样。"
+        },
+        {
+          "en": "You could have passed the exam if you had studied harder last week.",
+          "zh": "如果你上周更努力学习的话，你本可以通过考试的。"
+        }
+      ]
+    },
+    {
+      "title": "定语从句的省略形式",
+      "definition": "当定语从句的主语与先行词一致，且从句谓语包含be动词时，可以省略关系代词和be动词，保留其余成分",
+      "structure": "先行词 + （关系代词 + be动词） + 分词/形容词/介词短语",
+      "usage": "用于简化句子结构，使表达更简洁，常见于书面语",
+      "examples": [
+        {
+          "en": "Over the periods their saliva, a mild, digestive juice like our own, was converted into a poison that defies analysis even today.",
+          "zh": "经过很长的时间，它们的唾液——一种和我们的唾液一样的温和消化液——转变成了一种甚至至今都无法分析清楚的毒液。"
+        },
+        {
+          "en": "The book written by my favorite author has sold over 1 million copies.",
+          "zh": "我最喜欢的作家写的那本书已经卖出了超过100万册。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "How it came about that... is a mystery.",
+      "original": {
+        "en": "How it came about that snakes manufactured poison is a mystery.",
+        "zh": "蛇是如何产生毒液的，这是个谜。"
+      },
+      "imitations": [
+        {
+          "en": "How it came about that this ancient building survived the war is a mystery.",
+          "zh": "这座古建筑是如何在战争中幸存下来的，这是个谜。"
+        },
+        {
+          "en": "How it came about that he mastered three foreign languages in two years is a mystery to all of us.",
+          "zh": "他是如何在两年内掌握三门外语的，对我们所有人来说都是个谜。"
+        }
+      ]
+    },
+    {
+      "pattern": "It is said that..., that...",
+      "original": {
+        "en": "It is said that the nerve poison is the more primitive of the two, that the blood poison is, so to speak, a newer product from an improved formula.",
+        "zh": "据说在这两种毒液中，神经性毒液是更原始的一种，可以说，血溶性毒液是配方改良后的新产品。"
+      },
+      "imitations": [
+        {
+          "en": "It is said that this place used to be a royal garden, that many emperors spent their summers here.",
+          "zh": "据说这个地方曾经是皇家园林，很多皇帝都在这里避暑。"
+        },
+        {
+          "en": "It is said that drinking warm water in the morning is good for your stomach, that it helps speed up your metabolism.",
+          "zh": "据说早上喝温水对胃有好处，还能帮助加快新陈代谢。"
+        }
+      ]
+    },
+    {
+      "pattern": "...did not acquire... for use against... but for use against...",
+      "original": {
+        "en": "Snakes did not acquire their poison for use against man but for use against prey such as rats and mice.",
+        "zh": "蛇获得毒液不是为了用来对抗人类，而是为了用来对付老鼠之类的猎物。"
+      },
+      "imitations": [
+        {
+          "en": "He did not take the course for use against exams but for use against practical problems in his work.",
+          "zh": "他学这门课不是为了应付考试，而是为了解决工作中的实际问题。"
+        },
+        {
+          "en": "This law was not made for use against ordinary citizens but for use against people who break public order.",
+          "zh": "这项法律的制定不是为了约束普通公民，而是为了惩治破坏公共秩序的人。"
+        }
+      ]
+    }
+  ]
+}

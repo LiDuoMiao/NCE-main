@@ -1,0 +1,462 @@
+{
+  "book": "NCE1",
+  "lesson": "065-066",
+  "title": "Lesson 65",
+  "vocabulary": [
+    {
+      "word": "quarter",
+      "phonetic": "/ˈkwɔːtə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "一刻钟；四分之一",
+          "usage": "用于表示时间，等于15分钟"
+        }
+      ]
+    },
+    {
+      "word": "enjoy",
+      "phonetic": "/ɪnˈdʒɔɪ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "享受...的乐趣；愉快地做",
+          "usage": "enjoy oneself表示过得愉快"
+        }
+      ]
+    },
+    {
+      "word": "meet",
+      "phonetic": "/miːt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "遇见；碰面",
+          "usage": "表示与朋友见面或约会"
+        }
+      ]
+    },
+    {
+      "word": "friend",
+      "phonetic": "/frend/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "朋友",
+          "usage": "复数形式为friends"
+        }
+      ]
+    },
+    {
+      "word": "late",
+      "phonetic": "/leɪt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "晚的；迟到的",
+          "usage": "表示时间晚或迟到"
+        }
+      ]
+    },
+    {
+      "word": "key",
+      "phonetic": "/kiː/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "钥匙",
+          "usage": "key to表示...的钥匙"
+        }
+      ]
+    },
+    {
+      "word": "front",
+      "phonetic": "/frʌnt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "前面；正面",
+          "usage": "front door前门"
+        }
+      ]
+    },
+    {
+      "word": "door",
+      "phonetic": "/dɔː/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "门",
+          "usage": "用于建筑物或房间的入口"
+        }
+      ]
+    },
+    {
+      "word": "baby",
+      "phonetic": "/ˈbeɪbi/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "婴儿；小孩",
+          "usage": "用于指年幼的孩子"
+        }
+      ]
+    },
+    {
+      "word": "always",
+      "phonetic": "/ˈɔːlweɪz/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "总是；一直",
+          "usage": "表示频率很高的副词"
+        }
+      ]
+    },
+    {
+      "word": "half",
+      "phonetic": "/hɑːf/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "半；一半",
+          "usage": "half past表示...点半"
+        }
+      ]
+    },
+    {
+      "word": "quarter",
+      "phonetic": "/ˈkwɔːtə/",
+      "meanings": [
+        {
+          "pos": "time",
+          "meaning": "一刻钟（15分钟）",
+          "usage": "a quarter past eleven表示11点一刻"
+        }
+      ]
+    },
+    {
+      "word": "year",
+      "phonetic": "/jɪə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "年；岁",
+          "usage": "years old表示年龄"
+        }
+      ]
+    },
+    {
+      "word": "must",
+      "phonetic": "/mʌst/",
+      "meanings": [
+        {
+          "pos": "modal verb",
+          "meaning": "必须；应当",
+          "usage": "表示必要性，否定形式mustn't表示禁止"
+        }
+      ]
+    },
+    {
+      "word": "hear",
+      "phonetic": "/hɪə/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "听见；听到",
+          "usage": "表示用耳朵听到声音"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "What are you going to do?",
+      "usage": "用于询问某人打算做什么",
+      "examples": [
+        {
+          "en": "What are you going to do this evening?",
+          "zh": "今晚你打算做什么？"
+        },
+        {
+          "en": "What are you going to do tomorrow?",
+          "zh": "你明天打算做什么？"
+        }
+      ]
+    },
+    {
+      "phrase": "Can I have...?",
+      "usage": "用于礼貌地请求某物",
+      "examples": [
+        {
+          "en": "Can I have the key to the front door, please?",
+          "zh": "请问我能拿前门的钥匙吗？"
+        },
+        {
+          "en": "Can I have some water?",
+          "zh": "我能喝点水吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "Here you are",
+      "usage": "用于把东西递给对方时",
+      "examples": [
+        {
+          "en": "Here you are. Take it.",
+          "zh": "给你。拿去吧。"
+        },
+        {
+          "en": "Here you are. Enjoy your meal.",
+          "zh": "请慢用。"
+        }
+      ]
+    },
+    {
+      "phrase": "Enjoy yourself",
+      "usage": "用于祝别人玩得开心",
+      "examples": [
+        {
+          "en": "Enjoy yourself at the party!",
+          "zh": "派对玩得开心！"
+        },
+        {
+          "en": "We always enjoy ourselves, Mum.",
+          "zh": "我们总是玩得很开心，妈妈。"
+        }
+      ]
+    },
+    {
+      "phrase": "That's all right",
+      "usage": "用于回应别人的感谢，表示不客气",
+      "examples": [
+        {
+          "en": "Thanks, Mum. That's all right.",
+          "zh": "谢谢妈妈。不客气。"
+        },
+        {
+          "en": "Thank you very much! That's all right.",
+          "zh": "非常感谢！不客气。"
+        }
+      ]
+    },
+    {
+      "phrase": "You mustn't...",
+      "usage": "用于表示禁止或不允许",
+      "examples": [
+        {
+          "en": "You mustn't come home late.",
+          "zh": "你不许回家太晚。"
+        },
+        {
+          "en": "You mustn't be late for school.",
+          "zh": "你不许上学迟到。"
+        }
+      ]
+    },
+    {
+      "phrase": "come home",
+      "usage": "表示回家的动作",
+      "examples": [
+        {
+          "en": "She always comes home early.",
+          "zh": "她总是早早回家。"
+        },
+        {
+          "en": "What time do you come home?",
+          "zh": "你几点回家？"
+        }
+      ]
+    },
+    {
+      "phrase": "be home",
+      "usage": "表示在家或回到家",
+      "examples": [
+        {
+          "en": "You must be home at half past ten.",
+          "zh": "你必须在十点半之前到家。"
+        },
+        {
+          "en": "I will be home at six.",
+          "zh": "我六点会在家。"
+        }
+      ]
+    },
+    {
+      "phrase": "half past ten",
+      "usage": "表示十点半",
+      "examples": [
+        {
+          "en": "You must be home at half past ten.",
+          "zh": "你必须在十点半之前到家。"
+        },
+        {
+          "en": "The meeting starts at half past ten.",
+          "zh": "会议十点半开始。"
+        }
+      ]
+    },
+    {
+      "phrase": "a quarter past eleven",
+      "usage": "表示十一点一刻",
+      "examples": [
+        {
+          "en": "You mustn't come home after a quarter past eleven.",
+          "zh": "你不能在十一点一刻之后回家。"
+        },
+        {
+          "en": "The train leaves at a quarter past eleven.",
+          "zh": "火车十一点一刻出发。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "must和mustn't的用法",
+      "definition": "must表示必须、应当；mustn't表示禁止、不允许",
+      "structure": "主语 + must/mustn't + 动词原形",
+      "usage": "must用于表达义务或必要性；mustn't用于表达禁止或不允许做的事情",
+      "examples": [
+        {
+          "en": "You must be home at half past ten.",
+          "zh": "你必须在十点半之前到家。"
+        },
+        {
+          "en": "You mustn't come home late.",
+          "zh": "你不许回家太晚。"
+        },
+        {
+          "en": "You mustn't come home after a quarter past eleven.",
+          "zh": "你不能在十一点一刻之后回家。"
+        }
+      ]
+    },
+    {
+      "title": "Can I have...? 表示请求",
+      "definition": "用can引导的一般疑问句来礼貌地请求某物",
+      "structure": "Can I have + 物品?",
+      "usage": "用于向他人请求某物的礼貌表达方式",
+      "examples": [
+        {
+          "en": "Can I have the key to the front door, please?",
+          "zh": "请问我能拿前门的钥匙吗？"
+        },
+        {
+          "en": "Can I have a cup of tea?",
+          "zh": "我能喝杯茶吗？"
+        },
+        {
+          "en": "Can I have your name?",
+          "zh": "我能知道你的名字吗？"
+        }
+      ]
+    },
+    {
+      "title": "What are you going to do? 将来时",
+      "definition": "be going to表示计划或打算要做的事",
+      "structure": "What + are + 主语 + going to + do?",
+      "usage": "用于询问某人打算或计划做什么",
+      "examples": [
+        {
+          "en": "What are you going to do this evening, Jill?",
+          "zh": "Jill，今晚你打算做什么？"
+        },
+        {
+          "en": "What are you going to do this weekend?",
+          "zh": "这个周末你打算做什么？"
+        },
+        {
+          "en": "I'm going to meet some friends.",
+          "zh": "我打算去见一些朋友。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "What are you going to do + 时间/地点?",
+      "original": {
+        "en": "What are you going to do this evening, Jill?",
+        "zh": "Jill，今晚你打算做什么？"
+      },
+      "imitations": [
+        {
+          "en": "What are you going to do tomorrow?",
+          "zh": "你明天打算做什么？"
+        },
+        {
+          "en": "What are you going to do this weekend?",
+          "zh": "这个周末你打算做什么？"
+        },
+        {
+          "en": "What are you going to do after school?",
+          "zh": "放学后你打算做什么？"
+        }
+      ]
+    },
+    {
+      "pattern": "Can I have the + 名词 + to + 地点?",
+      "original": {
+        "en": "Can I have the key to the front door, please?",
+        "zh": "请问我能拿前门的钥匙吗？"
+      },
+      "imitations": [
+        {
+          "en": "Can I have the key to the back door?",
+          "zh": "请问我能拿后门的钥匙吗？"
+        },
+        {
+          "en": "Can I have the key to your room?",
+          "zh": "请问我能拿你房间的钥匙吗？"
+        },
+        {
+          "en": "Can I have the book on the table?",
+          "zh": "我能拿桌上的那本书吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "You must (not) + 动词原形",
+      "original": {
+        "en": "You must be home at half past ten.",
+        "zh": "你必须在十点半之前到家。"
+      },
+      "imitations": [
+        {
+          "en": "You must finish your homework first.",
+          "zh": "你必须先完成作业。"
+        },
+        {
+          "en": "You mustn't open the door.",
+          "zh": "你不许开门。"
+        },
+        {
+          "en": "You mustn't be late for school.",
+          "zh": "你不许上学迟到。"
+        }
+      ]
+    },
+    {
+      "pattern": "Here you are",
+      "original": {
+        "en": "Here you are.",
+        "zh": "给你。"
+      },
+      "imitations": [
+        {
+          "en": "Here you are. Take this book.",
+          "zh": "给你。拿这本书吧。"
+        },
+        {
+          "en": "Here you are. The key you wanted.",
+          "zh": "给你。你要的钥匙。"
+        },
+        {
+          "en": "Here you are. Enjoy your meal.",
+          "zh": "请慢用。"
+        }
+      ]
+    }
+  ]
+}

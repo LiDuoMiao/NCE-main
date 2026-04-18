@@ -1,0 +1,394 @@
+{
+  "book": "NCE4",
+  "lesson": "38",
+  "title": "Lesson 38",
+  "vocabulary": [
+    {
+      "word": "contamination",
+      "phonetic": "/kənˌtæmɪˈneɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "污染；弄脏",
+          "usage": "不可数名词，常指水、空气、食物等被有害物质污染"
+        }
+      ]
+    },
+    {
+      "word": "sanitation",
+      "phonetic": "/ˌsænɪˈteɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "卫生设施；环境卫生",
+          "usage": "不可数名词，指公共卫生系统、卫生条件相关的统称"
+        }
+      ]
+    },
+    {
+      "word": "sewage",
+      "phonetic": "/ˈsuːɪdʒ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "污水；污物",
+          "usage": "不可数名词，特指生活或工业排放的废水、废弃物"
+        }
+      ]
+    },
+    {
+      "word": "leakage",
+      "phonetic": "/ˈliːkɪdʒ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "渗漏；泄漏",
+          "usage": "既可指渗漏的动作，也可指渗漏出的液体/气体"
+        }
+      ]
+    },
+    {
+      "word": "distribution",
+      "phonetic": "/ˌdɪstrɪˈbjuːʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "输送；分配；分布",
+          "usage": "常表示资源、物资的分发、输送过程"
+        }
+      ]
+    },
+    {
+      "word": "intermittent",
+      "phonetic": "/ˌɪntəˈmɪtənt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "间歇的；断断续续的",
+          "usage": "用于描述不连续、时断时续的事物"
+        }
+      ]
+    },
+    {
+      "word": "suspect",
+      "phonetic": "/ˈsʌspekt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "不可靠的；可疑的",
+          "usage": "作形容词时置于系动词后或修饰名词，表事物有问题、不值得信任"
+        }
+      ]
+    },
+    {
+      "word": "untreated",
+      "phonetic": "/ˌʌnˈtriːtɪd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "未经处理的",
+          "usage": "常用于修饰水、材料等未经过加工、净化等流程的事物"
+        }
+      ]
+    },
+    {
+      "word": "carbonated",
+      "phonetic": "/ˈkɑːbəneɪtɪd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "含二氧化碳的；碳酸的",
+          "usage": "常修饰饮料，指充入了二氧化碳的饮品"
+        }
+      ]
+    },
+    {
+      "word": "acidic",
+      "phonetic": "/əˈsɪdɪk/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "酸的；酸性的",
+          "usage": "用于描述物质的酸性属性"
+        }
+      ]
+    },
+    {
+      "word": "rim",
+      "phonetic": "/rɪm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "（容器的）边；边缘",
+          "usage": "常指杯子、瓶子等容器的口沿部分"
+        }
+      ]
+    },
+    {
+      "word": "portable",
+      "phonetic": "/ˈpɔːtəbl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "便携式的；手提的",
+          "usage": "修饰设备、家具等，说明便于携带、移动"
+        }
+      ]
+    },
+    {
+      "word": "voltage",
+      "phonetic": "/ˈvəʊltɪdʒ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "电压；伏特数",
+          "usage": "物理术语，指电力系统的电压参数"
+        }
+      ]
+    },
+    {
+      "word": "disinfectant",
+      "phonetic": "/ˌdɪsɪnˈfektənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "消毒剂",
+          "usage": "指用于杀菌、消毒的化学制剂"
+        }
+      ]
+    },
+    {
+      "word": "sterilize",
+      "phonetic": "/ˈsterəlaɪz/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "消毒；杀菌",
+          "usage": "指通过高温、化学试剂等方式杀灭微生物"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "due to",
+      "usage": "介词短语，用于引出某事发生的原因，后面接名词或名词性短语",
+      "examples": [
+        {
+          "en": "The flight delay was due to bad weather.",
+          "zh": "航班延误是恶劣天气导致的。"
+        }
+      ]
+    },
+    {
+      "phrase": "disposal into",
+      "usage": "表示“排入；倒入”，特指将废弃物排放到某个地点",
+      "examples": [
+        {
+          "en": "The local government has banned the disposal of industrial waste into rivers.",
+          "zh": "当地政府已经禁止将工业废料排入河流。"
+        }
+      ]
+    },
+    {
+      "phrase": "regard as",
+      "usage": "动词短语，意为“把……视为；认为……是”，可用于被动语态",
+      "examples": [
+        {
+          "en": "The project is regarded as one of the most successful initiatives this year.",
+          "zh": "这个项目被认为是今年最成功的举措之一。"
+        }
+      ]
+    },
+    {
+      "phrase": "keep to",
+      "usage": "动词短语，此处表示“只使用；坚持食用/饮用”，也可表示遵守规则、不偏离路线",
+      "examples": [
+        {
+          "en": "When you have a stomachache, it's better to keep to light food.",
+          "zh": "你胃痛的时候最好只吃清淡的食物。"
+        }
+      ]
+    },
+    {
+      "phrase": "well-known brand names",
+      "usage": "名词短语，指“知名品牌”，多用于消费场景描述",
+      "examples": [
+        {
+          "en": "When buying electronics, many people prefer products of well-known brand names.",
+          "zh": "购买电子产品时，很多人偏好知名品牌的产品。"
+        }
+      ]
+    },
+    {
+      "phrase": "in one's presence",
+      "usage": "介词短语，意为“当着某人的面；在某人在场的情况下”",
+      "examples": [
+        {
+          "en": "The contract should be signed in the presence of a witness.",
+          "zh": "这份合同应该在证人在场的情况下签署。"
+        }
+      ]
+    },
+    {
+      "phrase": "on request",
+      "usage": "介词短语，表示“一经要求；根据请求”，说明服务可按需提供",
+      "examples": [
+        {
+          "en": "The hotel provides extra blankets on request.",
+          "zh": "酒店可以根据客人要求提供额外的毛毯。"
+        }
+      ]
+    },
+    {
+      "phrase": "rely upon",
+      "usage": "动词短语，意为“依赖；依靠”，等同于rely on，后面可接名词或动名词",
+      "examples": [
+        {
+          "en": "You can rely upon her to finish the task on time.",
+          "zh": "你可以放心让她按时完成这项任务。"
+        }
+      ]
+    },
+    {
+      "phrase": "beware of",
+      "usage": "动词短语，意为“当心；提防”，用于提醒他人注意危险或有害事物",
+      "examples": [
+        {
+          "en": "Beware of pickpockets when you take the subway during rush hour.",
+          "zh": "高峰时段乘坐地铁时要当心扒手。"
+        }
+      ]
+    },
+    {
+      "phrase": "rather than",
+      "usage": "连词短语，表示“而不是”，用于连接两个并列成分，否定后者",
+      "examples": [
+        {
+          "en": "I prefer to go for a walk rather than stay at home on weekends.",
+          "zh": "周末我宁愿去散步也不愿待在家里。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "被动语态 (Passive Voice)",
+      "definition": "表示主语是动作的承受者，而非动作的执行者，常用于强调动作的承受对象，或不需要说明动作执行者的场景",
+      "structure": "be + 动词过去分词（可搭配不同时态、情态动词）",
+      "usage": "多用于正式文本、说明类文本中，体现内容的客观性",
+      "examples": [
+        {
+          "en": "Intermittent tap-water supplies should be regarded as particularly suspect.",
+          "zh": "时断时续的自来水供应应该被视为格外不可靠。"
+        },
+        {
+          "en": "Ice should not be put in drinks unless it is known to be safe.",
+          "zh": "冰不应该被加入饮品中，除非人们确认它是安全的。"
+        }
+      ]
+    },
+    {
+      "title": "条件状语从句 (Adverbial Clause of Condition)",
+      "definition": "用于表示某件事发生的前提条件，常由if, unless等连词引导",
+      "structure": "主句 + if/unless + 从句，从句通常用一般现在时表客观事实或普遍情况",
+      "usage": "用于给出建议、说明规则或者描述条件与结果的关系",
+      "examples": [
+        {
+          "en": "Even if a piped water supply is safe at its source, it is not always safe by the time it reaches the tap.",
+          "zh": "即使管道供水的水源是安全的，等到水到达水龙头时也不一定安全了。"
+        },
+        {
+          "en": "If no other safe water supply can be obtained, tap water that is too hot to touch can be left to cool and is generally safe to drink.",
+          "zh": "如果找不到其他安全的水源，烫到无法触碰的自来水可以放凉后饮用，通常是安全的。"
+        }
+      ]
+    },
+    {
+      "title": "定语从句 (Attributive Clause)",
+      "definition": "修饰名词或代词的从句，用于对先行词进行补充说明，常由关系代词that, which, who等引导",
+      "structure": "先行词 + 关系代词 + 从句",
+      "usage": "可以对事物的属性、适用场景等进行更详细的描述，让句子信息更丰富",
+      "examples": [
+        {
+          "en": "Portable boiling elements that can boil small quantities of water are useful when the right voltage of electricity is available.",
+          "zh": "可以烧少量水的便携式烧水器在电压合适的情况下非常实用。"
+        },
+        {
+          "en": "Those planning a trip to remote areas, or intending to live in countries where drinking water is not readily available, should know about the various possible methods for making water safe.",
+          "zh": "那些计划去偏远地区旅行，或是打算在饮用水不易获得的国家居住的人，应该了解各种可行的净水方法。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "... is usually due to ..., ..., ... or ...",
+      "original": {
+        "en": "Contamination of water supplies is usually due to poor sanitation close to water sources, sewage disposal into the sources themselves, leakage of sewage into distribution systems or contamination with industrial or farm waste.",
+        "zh": "供水污染通常是由水源附近卫生条件差、污水直接排入水源、污水渗漏进供水系统，或是工业与农业废料污染导致的。"
+      },
+      "imitations": [
+        {
+          "en": "Poor health in teenagers is usually due to lack of exercise, irregular eating habits, insufficient sleep or excessive use of electronic devices.",
+          "zh": "青少年健康不佳通常是因为缺乏锻炼、饮食习惯不规律、睡眠不足或是过度使用电子设备。"
+        },
+        {
+          "en": "The decline in sales is usually due to fierce market competition, outdated product design, poor marketing strategies or rising product prices.",
+          "zh": "销量下滑通常是因为市场竞争激烈、产品设计过时、营销策略不佳或是产品价格上涨。"
+        }
+      ]
+    },
+    {
+      "pattern": "Even if ..., it is not always ... by the time ...",
+      "original": {
+        "en": "Even if a piped water supply is safe at its source, it is not always safe by the time it reaches the tap.",
+        "zh": "即使管道供水的水源是安全的，等到水到达水龙头时也不一定安全了。"
+      },
+      "imitations": [
+        {
+          "en": "Even if the vegetables are fresh when they are harvested, they are not always fresh by the time they reach the supermarket shelves.",
+          "zh": "即使蔬菜在收获的时候是新鲜的，等到摆上超市货架的时候也不一定新鲜了。"
+        },
+        {
+          "en": "Even if the news is true when it is first released, it is not always accurate by the time it spreads on social media.",
+          "zh": "即使新闻刚发布的时候是真实的，等到在社交媒体上传播开的时候也不一定准确了。"
+        }
+      ]
+    },
+    {
+      "pattern": "... may be ..., but should not be relied upon to ...",
+      "original": {
+        "en": "Alcohol may be a medical disinfectant, but should not be relied upon to sterilize water.",
+        "zh": "酒精或许是医用消毒剂，但不能依靠它来给饮用水消毒。"
+      },
+      "imitations": [
+        {
+          "en": "Multivitamins may be nutritional supplements, but should not be relied upon to replace a balanced diet.",
+          "zh": "复合维生素或许是营养补充剂，但不能依靠它来替代均衡饮食。"
+        },
+        {
+          "en": "Translation software may be a helpful tool, but should not be relied upon to handle all professional translation work.",
+          "zh": "翻译软件或许是实用的工具，但不能依靠它来完成所有专业翻译工作。"
+        }
+      ]
+    },
+    {
+      "pattern": "Those ... should know about ...",
+      "original": {
+        "en": "Those planning a trip to remote areas, or intending to live in countries where drinking water is not readily available, should know about the various possible methods for making water safe.",
+        "zh": "那些计划去偏远地区旅行，或是打算在饮用水不易获得的国家居住的人，应该了解各种可行的净水方法。"
+      },
+      "imitations": [
+        {
+          "en": "Those wanting to improve their spoken English, or preparing for international exams, should know about the effective ways to practice listening and speaking daily.",
+          "zh": "那些想要提高英语口语，或是准备国际考试的人，应该了解日常练习听说的有效方法。"
+        },
+        {
+          "en": "Those interested in starting a small business, or looking for extra income, should know about the basic rules of the local market and relevant policies.",
+          "zh": "那些对创办小生意感兴趣，或是想要获得额外收入的人，应该了解本地市场的基本规则和相关政策。"
+        }
+      ]
+    }
+  ]
+}

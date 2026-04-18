@@ -1,0 +1,466 @@
+{
+  "book": "NCE1",
+  "lesson": "041-042",
+  "title": "Lesson 41",
+  "vocabulary": [
+    {
+      "word": "bag",
+      "phonetic": "/bæɡ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "包，袋子",
+          "usage": "指装东西的容器，可用于各种材质和大小"
+        }
+      ]
+    },
+    {
+      "word": "heavy",
+      "phonetic": "/ˈhevi/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "重的，沉的",
+          "usage": "形容物体重量大，反义词为light"
+        }
+      ]
+    },
+    {
+      "word": "cheese",
+      "phonetic": "/tʃiːz/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "奶酪，芝士",
+          "usage": "一种乳制品，常用a piece of来修饰"
+        }
+      ]
+    },
+    {
+      "word": "loaf",
+      "phonetic": "/ləʊf/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "一条（面包）",
+          "usage": "常与a loaf of bread连用"
+        }
+      ]
+    },
+    {
+      "word": "soap",
+      "phonetic": "/səʊp/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "肥皂",
+          "usage": "用于清洁的固体物品，常用a bar of来修饰"
+        }
+      ]
+    },
+    {
+      "word": "chocolate",
+      "phonetic": "/ˈtʃɒklət/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "巧克力",
+          "usage": "可用作不可数名词，表示巧克力这种食物"
+        }
+      ]
+    },
+    {
+      "word": "bottle",
+      "phonetic": "/ˈbɒtl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "瓶子",
+          "usage": "容器名词，常用a bottle of来修饰液体"
+        }
+      ]
+    },
+    {
+      "word": "pound",
+      "phonetic": "/paʊnd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "磅（重量单位）",
+          "usage": "英制重量单位，约等于0.454千克"
+        }
+      ]
+    },
+    {
+      "word": "sugar",
+      "phonetic": "/ˈʃʊɡə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "糖",
+          "usage": "不可数名词，表示食用的糖"
+        }
+      ]
+    },
+    {
+      "word": "coffee",
+      "phonetic": "/ˈkɒfi/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "咖啡",
+          "usage": "不可数名词，表示咖啡饮料或咖啡粉"
+        }
+      ]
+    },
+    {
+      "word": "quarter",
+      "phonetic": "/ˈkwɔːtə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "四分之一",
+          "usage": "表示四分之一，常与a quarter of连用"
+        }
+      ]
+    },
+    {
+      "word": "tin",
+      "phonetic": "/tɪn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "罐头，锡罐",
+          "usage": "指金属容器，也可拼写为can"
+        }
+      ]
+    },
+    {
+      "word": "tobacco",
+      "phonetic": "/təˈbækəʊ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "烟草，烟丝",
+          "usage": "不可数名词，指用于卷制香烟的烟丝"
+        }
+      ]
+    },
+    {
+      "word": "certainly",
+      "phonetic": "/ˈsɜːtənli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "当然，肯定",
+          "usage": "用于强调确认，带有强烈的肯定意味"
+        }
+      ]
+    },
+    {
+      "word": "piece",
+      "phonetic": "/piːs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "片，块，段",
+          "usage": "量词，用于修饰可数或不可数名词"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Put it on this chair",
+      "usage": "用于指示将某物放在某个位置，put是动词，on表示在...上面",
+      "examples": [
+        {
+          "en": "Put it on this chair.",
+          "zh": "把它放在这把椅子上。"
+        },
+        {
+          "en": "Put the book on the desk.",
+          "zh": "把书放在桌子上。"
+        }
+      ]
+    },
+    {
+      "phrase": "What's in it?",
+      "usage": "用于询问某容器或空间里面有什么东西",
+      "examples": [
+        {
+          "en": "What's in it?",
+          "zh": "里面有什么？"
+        },
+        {
+          "en": "What's in the box?",
+          "zh": "盒子里有什么？"
+        }
+      ]
+    },
+    {
+      "phrase": "Not very",
+      "usage": "用于回答一般疑问句，表示程度不高，not very + 形容词",
+      "examples": [
+        {
+          "en": "Is it heavy? Not very.",
+          "zh": "重吗？不很重。"
+        },
+        {
+          "en": "Is it cold? Not very.",
+          "zh": "冷吗？不很冷。"
+        }
+      ]
+    },
+    {
+      "phrase": "a piece of",
+      "usage": "量词短语，用于修饰不可数名词，表示一片/一块",
+      "examples": [
+        {
+          "en": "a piece of cheese",
+          "zh": "一块奶酪"
+        },
+        {
+          "en": "a piece of bread",
+          "zh": "一片面包"
+        }
+      ]
+    },
+    {
+      "phrase": "a loaf of",
+      "usage": "量词短语，专门用于修饰整条面包",
+      "examples": [
+        {
+          "en": "a loaf of bread",
+          "zh": "一条面包"
+        },
+        {
+          "en": "I bought a loaf of bread.",
+          "zh": "我买了一条面包。"
+        }
+      ]
+    },
+    {
+      "phrase": "a bar of",
+      "usage": "量词短语，用于修饰条状或块状物品，如肥皂、巧克力",
+      "examples": [
+        {
+          "en": "a bar of soap",
+          "zh": "一块肥皂"
+        },
+        {
+          "en": "a bar of chocolate",
+          "zh": "一块巧克力"
+        }
+      ]
+    },
+    {
+      "phrase": "a bottle of",
+      "usage": "量词短语，用于修饰瓶装物品",
+      "examples": [
+        {
+          "en": "a bottle of milk",
+          "zh": "一瓶牛奶"
+        },
+        {
+          "en": "a bottle of water",
+          "zh": "一瓶水"
+        }
+      ]
+    },
+    {
+      "phrase": "a pound of",
+      "usage": "量词短语，用于表示一磅的量",
+      "examples": [
+        {
+          "en": "a pound of sugar",
+          "zh": "一磅糖"
+        },
+        {
+          "en": "I need a pound of tomatoes.",
+          "zh": "我需要一磅西红柿。"
+        }
+      ]
+    },
+    {
+      "phrase": "half a pound of",
+      "usage": "量词短语，用于表示半磅的量，half表示二分之一",
+      "examples": [
+        {
+          "en": "half a pound of coffee",
+          "zh": "半磅咖啡"
+        },
+        {
+          "en": "Give me half a pound of butter.",
+          "zh": "给我半磅黄油。"
+        }
+      ]
+    },
+    {
+      "phrase": "a quarter of a pound of",
+      "usage": "量词短语，用于表示四分之一磅的量",
+      "examples": [
+        {
+          "en": "a quarter of a pound of tea",
+          "zh": "四分之一磅茶叶"
+        },
+        {
+          "en": "I need a quarter of a pound of butter.",
+          "zh": "我需要四分之一磅黄油。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "一般疑问句：Is that...for me?",
+      "definition": "使用Is引导的一般疑问句，用来询问某物是否是为某人准备的或给某人的",
+      "structure": "Is that + 名词 + for + 人称代词/名词?",
+      "usage": "这种句型用于确认某物的归属或用途，回答通常用Yes或No",
+      "examples": [
+        {
+          "en": "Is that tin of tobacco for me?",
+          "zh": "那罐烟草是给我的吗？"
+        },
+        {
+          "en": "Is this book for you?",
+          "zh": "这本书是你的吗？"
+        },
+        {
+          "en": "Is that coffee for Penny?",
+          "zh": "那杯咖啡是给彭妮的吗？"
+        }
+      ]
+    },
+    {
+      "title": "数量词组（量词）与名词的搭配",
+      "definition": "英语中常用量词来修饰不可数名词，表示具体的数量",
+      "structure": "a/an/数词 + 量词 + of + 不可数名词",
+      "usage": "不同的物品使用不同的量词，如a piece of cheese（一块奶酪）、a loaf of bread（一条面包）、a bar of soap（一块肥皂）等",
+      "examples": [
+        {
+          "en": "a piece of cheese",
+          "zh": "一块奶酪"
+        },
+        {
+          "en": "a loaf of bread",
+          "zh": "一条面包"
+        },
+        {
+          "en": "a bar of soap",
+          "zh": "一块肥皂"
+        },
+        {
+          "en": "a bottle of milk",
+          "zh": "一瓶牛奶"
+        }
+      ]
+    },
+    {
+      "title": "否定陈述句：It's certainly not for me",
+      "definition": "使用certainly加强否定语气，表示强烈的否定含义",
+      "structure": "It's certainly not + for + ...",
+      "usage": "certainly放在not之前用来加强否定语气，表示非常确定某物不是为某人准备的",
+      "examples": [
+        {
+          "en": "It's certainly not for me!",
+          "zh": "肯定不是给我的！"
+        },
+        {
+          "en": "It's certainly not for her.",
+          "zh": "肯定不是给她的。"
+        },
+        {
+          "en": "This is certainly not a problem.",
+          "zh": "这肯定不是问题。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Is that + 名词 + for + 人称?",
+      "original": {
+        "en": "Is that tin of tobacco for me?",
+        "zh": "那罐烟草是给我的吗？"
+      },
+      "imitations": [
+        {
+          "en": "Is that book for you?",
+          "zh": "那本书是你的吗？"
+        },
+        {
+          "en": "Is this bag for Penny?",
+          "zh": "这个包是给彭妮的吗？"
+        },
+        {
+          "en": "Is that chocolate for the children?",
+          "zh": "那块巧克力是给孩子们的吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "What's in + it/that?",
+      "original": {
+        "en": "What's in it?",
+        "zh": "里面有什么？"
+      },
+      "imitations": [
+        {
+          "en": "What's in that box?",
+          "zh": "那个盒子里有什么？"
+        },
+        {
+          "en": "What's in your bag?",
+          "zh": "你的包里有什么？"
+        },
+        {
+          "en": "What's in the refrigerator?",
+          "zh": "冰箱里有什么？"
+        }
+      ]
+    },
+    {
+      "pattern": "Put + it/this + on + 地点",
+      "original": {
+        "en": "Put it on this chair.",
+        "zh": "把它放在这把椅子上。"
+      },
+      "imitations": [
+        {
+          "en": "Put the book on the desk.",
+          "zh": "把书放在桌子上。"
+        },
+        {
+          "en": "Put it on the table.",
+          "zh": "把它放在桌子上。"
+        },
+        {
+          "en": "Put the bag on the floor.",
+          "zh": "把包放在地上。"
+        }
+      ]
+    },
+    {
+      "pattern": "It's certainly not for + 人称",
+      "original": {
+        "en": "Well, it's certainly not for me!",
+        "zh": "嗯，肯定不是给我的！"
+      },
+      "imitations": [
+        {
+          "en": "It's certainly not for her.",
+          "zh": "肯定不是给她的。"
+        },
+        {
+          "en": "It's certainly not for us.",
+          "zh": "肯定不是给我们的。"
+        },
+        {
+          "en": "This is certainly not for the children.",
+          "zh": "这肯定不是给孩子的。"
+        }
+      ]
+    }
+  ]
+}

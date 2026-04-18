@@ -1,0 +1,446 @@
+{
+  "book": "NCE2",
+  "lesson": "48",
+  "title": "Why did the writer become very worried?",
+  "vocabulary": [
+    {
+      "word": "dentist",
+      "phonetic": "/ˈdentɪst/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "牙医",
+          "usage": "指治疗牙齿疾病的专业医生"
+        }
+      ]
+    },
+    {
+      "word": "pull out",
+      "phonetic": "/pʊl aʊt/",
+      "meanings": [
+        {
+          "pos": "verb phrase",
+          "meaning": "拔出；拔掉",
+          "usage": "指用力将某物从某处拔出，如拔牙、拔刺等"
+        }
+      ]
+    },
+    {
+      "word": "cotton wool",
+      "phonetic": "/ˈkɒtn wʊl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "棉球；药棉",
+          "usage": "指用于止血或擦拭的棉花，在牙科中用于塞在拔牙处止血"
+        }
+      ]
+    },
+    {
+      "word": "collect",
+      "phonetic": "/kəˈlekt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "收集；收藏",
+          "usage": "指系统地收集某物作为爱好，如收集邮票、硬币、火柴盒等"
+        }
+      ]
+    },
+    {
+      "word": "match box",
+      "phonetic": "/mætʃ bɒks/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "火柴盒",
+          "usage": "装火柴的小盒子，也是收藏家喜欢收藏的物品"
+        }
+      ]
+    },
+    {
+      "word": "meanwhile",
+      "phonetic": "/ˈmiːnwaɪl/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "与此同时；在此期间",
+          "usage": "用于描述两件事同时发生"
+        }
+      ]
+    },
+    {
+      "word": "tongue",
+      "phonetic": "/tʌŋ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "舌头",
+          "usage": "人体口腔中的器官，用于品尝和说话"
+        }
+      ]
+    },
+    {
+      "word": "search",
+      "phonetic": "/sɜːtʃ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "搜索；寻找",
+          "usage": "指仔细查找某物或某人"
+        }
+      ]
+    },
+    {
+      "word": "worry",
+      "phonetic": "/ˈwʌri/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "担心；担忧",
+          "usage": "指对某事感到不安或焦虑"
+        }
+      ]
+    },
+    {
+      "word": "remove",
+      "phonetic": "/rɪˈmuːv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "移除；取走",
+          "usage": "指将某物从原位置移走或取下"
+        }
+      ]
+    },
+    {
+      "word": "nod",
+      "phonetic": "/nɒd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "点头",
+          "usage": "用头部上下运动表示同意、问候或确认"
+        }
+      ]
+    },
+    {
+      "word": "strange",
+      "phonetic": "/streɪndʒ/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "奇怪的；陌生的",
+          "usage": "描述不寻常的或让人感到奇怪的事物"
+        }
+      ]
+    },
+    {
+      "word": "noise",
+      "phonetic": "/nɔɪz/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "声音；噪音",
+          "usage": "指任何可听到的声音"
+        }
+      ]
+    },
+    {
+      "word": "hole",
+      "phonetic": "/həʊl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "洞；孔",
+          "usage": "指物体上的凹陷或开口处"
+        }
+      ]
+    },
+    {
+      "word": "rest",
+      "phonetic": "/rest/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "休息；静止",
+          "usage": "指停止工作或活动以恢复体力"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "pull out",
+      "usage": "拔掉（牙齿、塞子等）",
+      "examples": [
+        {
+          "en": "The dentist pulled out one of my teeth.",
+          "zh": "牙医拔掉了我的一颗牙。"
+        },
+        {
+          "en": "He pulled out a pen from his pocket.",
+          "zh": "他从口袋里掏出一支笔。"
+        }
+      ]
+    },
+    {
+      "phrase": "in answer to",
+      "usage": "作为对...的回答/回应",
+      "examples": [
+        {
+          "en": "In answer to these questions I either nodded or made strange noises.",
+          "zh": "作为对这些问题的回答，我要么点头，要么发出奇怪的声音。"
+        },
+        {
+          "en": "She smiled in answer to his question.",
+          "zh": "她微笑着回答他的问题。"
+        }
+      ]
+    },
+    {
+      "phrase": "search out",
+      "usage": "仔细找出；搜索到",
+      "examples": [
+        {
+          "en": "My tongue was busy searching out the hole where the tooth had been.",
+          "zh": "我的舌头正忙着找出拔掉牙齿的那个洞。"
+        },
+        {
+          "en": "He searched out the information he needed.",
+          "zh": "他找到了他需要的信息。"
+        }
+      ]
+    },
+    {
+      "phrase": "at last",
+      "usage": "终于；最后",
+      "examples": [
+        {
+          "en": "When the dentist at last removed the cotton wool from my mouth...",
+          "zh": "当牙医终于从我嘴里取出棉球时..."
+        },
+        {
+          "en": "At last, the bus arrived.",
+          "zh": "公交车终于来了。"
+        }
+      ]
+    },
+    {
+      "phrase": "be able to",
+      "usage": "能够；有能力做某事",
+      "examples": [
+        {
+          "en": "I was able to tell him that he had pulled out the wrong tooth.",
+          "zh": "我终于能告诉他他拔错了牙。"
+        },
+        {
+          "en": "She was able to speak three languages.",
+          "zh": "她能说三种语言。"
+        }
+      ]
+    },
+    {
+      "phrase": "make strange noises",
+      "usage": "发出奇怪的声音",
+      "examples": [
+        {
+          "en": "I either nodded or made strange noises.",
+          "zh": "我要么点头，要么发出奇怪的声音。"
+        },
+        {
+          "en": "The machine made strange noises.",
+          "zh": "这台机器发出奇怪的声音。"
+        }
+      ]
+    },
+    {
+      "phrase": "busy doing something",
+      "usage": "忙于做某事",
+      "examples": [
+        {
+          "en": "My tongue was busy searching out the hole.",
+          "zh": "我的舌头正忙着找出那个洞。"
+        },
+        {
+          "en": "She is busy writing her report.",
+          "zh": "她正忙着写报告。"
+        }
+      ]
+    },
+    {
+      "phrase": "have something done",
+      "usage": "让别人做某事（使役结构）",
+      "examples": [
+        {
+          "en": "The dentist had just pulled out one of my teeth.",
+          "zh": "牙医刚刚拔掉了我的一颗牙。"
+        },
+        {
+          "en": "I had my hair cut yesterday.",
+          "zh": "我昨天理发了。"
+        }
+      ]
+    },
+    {
+      "phrase": "tell someone that",
+      "usage": "告诉某人某事",
+      "examples": [
+        {
+          "en": "I was able to tell him that he had pulled out the wrong tooth.",
+          "zh": "我能够告诉他他拔错了牙。"
+        },
+        {
+          "en": "She told me that she was coming.",
+          "zh": "她告诉我她要来了。"
+        }
+      ]
+    },
+    {
+      "phrase": "could not (couldn't)",
+      "usage": "不能；无法",
+      "examples": [
+        {
+          "en": "I suddenly felt very worried, but could not say anything.",
+          "zh": "我突然感到非常担心，但说不出话来。"
+        },
+        {
+          "en": "I couldn't understand what he meant.",
+          "zh": "我不明白他的意思。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去进行时 (Past Continuous Tense)",
+      "definition": "表示在过去某一时刻或时间段正在进行的动作",
+      "structure": "主语 + was/were + 动词-ing",
+      "usage": "用于描述过去正在发生的动作，常与 when, while 等连用",
+      "examples": [
+        {
+          "en": "My tongue was busy searching out the hole where the tooth had been.",
+          "zh": "我的舌头正忙着找出拔掉牙齿的那个洞。"
+        },
+        {
+          "en": "It was raining when we left home.",
+          "zh": "我们离家时天正在下雨。"
+        },
+        {
+          "en": "While I was sleeping, someone stole my car.",
+          "zh": "当我睡觉的时候，有人偷了我的车。"
+        }
+      ]
+    },
+    {
+      "title": "过去完成时 (Past Perfect Tense)",
+      "definition": "表示在过去某一时间之前已经完成的动作，即'过去的过去'",
+      "structure": "主语 + had + 过去分词",
+      "usage": "用于描述在叙述过去事件时，更早发生的动作",
+      "examples": [
+        {
+          "en": "The dentist had just pulled out one of my teeth.",
+          "zh": "牙医刚刚拔掉了我的一颗牙。"
+        },
+        {
+          "en": "I realized I had left my keys at home.",
+          "zh": "我意识到我把钥匙落在家里了。"
+        },
+        {
+          "en": "She told me she had finished her homework.",
+          "zh": "她告诉我她已经完成了作业。"
+        }
+      ]
+    },
+    {
+      "title": "have something done (使役结构)",
+      "definition": "让别人做某事或遭遇某种情况",
+      "structure": "主语 + have + 宾语 + 过去分词",
+      "usage": "表示主语承受某种动作或经历，常用于医疗、服务等场合",
+      "examples": [
+        {
+          "en": "The dentist had just pulled out one of my teeth.",
+          "zh": "牙医刚刚给我拔了一颗牙。"
+        },
+        {
+          "en": "I had my hair cut yesterday.",
+          "zh": "我昨天理发了。"
+        },
+        {
+          "en": "She had her bag stolen on the bus.",
+          "zh": "她在公交车上被人偷了包。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "主语 + have/has + something + 过去分词",
+      "original": {
+        "en": "The dentist had just pulled out one of my teeth.",
+        "zh": "牙医刚刚拔掉了我的一颗牙。"
+      },
+      "imitations": [
+        {
+          "en": "I had my car repaired yesterday.",
+          "zh": "我昨天修好了车。"
+        },
+        {
+          "en": "She had her photo taken at the studio.",
+          "zh": "她在照相馆拍了照片。"
+        }
+      ]
+    },
+    {
+      "pattern": "When/While + 主语 + was/were + doing..., 主语 + did...",
+      "original": {
+        "en": "When the dentist at last removed the cotton wool from my mouth, I was able to tell him...",
+        "zh": "当牙医终于从我嘴里取出棉球时，我能够告诉他..."
+      },
+      "imitations": [
+        {
+          "en": "When I arrived home, it was raining.",
+          "zh": "当我到家时，天正在下雨。"
+        },
+        {
+          "en": "While she was cooking, the phone rang.",
+          "zh": "她做饭的时候，电话响了。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + could/couldn't + 动词原形",
+      "original": {
+        "en": "I suddenly felt very worried, but could not say anything.",
+        "zh": "我突然感到非常担心，但说不出话来。"
+      },
+      "imitations": [
+        {
+          "en": "I couldn't answer the question because it was too difficult.",
+          "zh": "我回答不了这个问题，因为它太难了。"
+        },
+        {
+          "en": "She could speak three languages when she was ten.",
+          "zh": "她十岁时就能说三种语言。"
+        }
+      ]
+    },
+    {
+      "pattern": "In answer to + 名词/问题, 主语 + 动词...",
+      "original": {
+        "en": "In answer to these questions I either nodded or made strange noises.",
+        "zh": "作为对这些问题的回答，我要么点头，要么发出奇怪的声音。"
+      },
+      "imitations": [
+        {
+          "en": "In answer to your letter, I would like to say thank you.",
+          "zh": "作为对你来信的回复，我想说声谢谢。"
+        },
+        {
+          "en": "In answer to his question, she shook her head.",
+          "zh": "作为对他问题的回答，她摇了摇头。"
+        }
+      ]
+    }
+  ]
+}

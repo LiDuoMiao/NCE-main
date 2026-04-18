@@ -1,0 +1,398 @@
+{
+  "book": "NCE2",
+  "lesson": "51",
+  "title": "Why did Hugh's diet not work?",
+  "vocabulary": [
+    {
+      "word": "diet",
+      "phonetic": "/ˈdaɪət/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "饮食；节食",
+          "usage": "指规定吃的食物，常用go on a diet表示节食"
+        }
+      ]
+    },
+    {
+      "word": "fat",
+      "phonetic": "/fæt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "肥胖的",
+          "usage": "形容人体型肥胖，带有主观色彩"
+        }
+      ]
+    },
+    {
+      "word": "recently",
+      "phonetic": "/ˈriːsəntli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "最近",
+          "usage": "用于描述过去不久发生的事情，常与过去时连用"
+        }
+      ]
+    },
+    {
+      "word": "forbidden",
+      "phonetic": "/fəˈbɪdn/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "被禁止的",
+          "usage": "forbid的过去分词作形容词，修饰名词"
+        }
+      ]
+    },
+    {
+      "word": "visit",
+      "phonetic": "/ˈvɪzɪt/",
+      "meanings": [
+        {
+          "pos": "noun/verb",
+          "meaning": "拜访；访问",
+          "usage": "pay someone a visit表示正式拜访某人"
+        }
+      ]
+    },
+    {
+      "word": "obviously",
+      "phonetic": "/ˈɒbviəsli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "明显地",
+          "usage": "修饰形容词或动词，表示显而易见"
+        }
+      ]
+    },
+    {
+      "word": "embarrassed",
+      "phonetic": "/ɪmˈbærəst/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "尴尬的",
+          "usage": "描述人感到不好意思、难堪的情绪"
+        }
+      ]
+    },
+    {
+      "word": "guiltily",
+      "phonetic": "/ˈɡɪltɪli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "内疚地；心虚地",
+          "usage": "由形容词guilty+ly构成，修饰动作"
+        }
+      ]
+    },
+    {
+      "word": "occasionally",
+      "phonetic": "/əˈkeɪʒənəli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "偶尔；有时",
+          "usage": "表示不经常发生，频率较低"
+        }
+      ]
+    },
+    {
+      "word": "strict",
+      "phonetic": "/strɪkt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "严格的",
+          "usage": "be strict with someone表示对某人严格"
+        }
+      ]
+    },
+    {
+      "word": "reward",
+      "phonetic": "/rɪˈwɔːd/",
+      "meanings": [
+        {
+          "pos": "verb/noun",
+          "meaning": "奖励",
+          "usage": "作动词时常与反身代词连用，如reward oneself"
+        }
+      ]
+    },
+    {
+      "word": "parcel",
+      "phonetic": "/ˈpɑːsl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "包裹",
+          "usage": "指包装好的物品，常用send a parcel表示寄包裹"
+        }
+      ]
+    },
+    {
+      "word": "hide",
+      "phonetic": "/haɪd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "藏；隐藏",
+          "usage": "过去式为hid，过去分词为hidden"
+        }
+      ]
+    },
+    {
+      "word": "contain",
+      "phonetic": "/kənˈteɪn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "包含；装有",
+          "usage": "强调某物内部装有某些东西，不用于进行时"
+        }
+      ]
+    },
+    {
+      "word": "lead",
+      "phonetic": "/liːd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "带领",
+          "usage": "lead someone into表示带某人进入某处"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "go on a diet",
+      "usage": "表示开始节食，控制饮食",
+      "examples": [
+        {
+          "en": "She decided to go on a diet after gaining weight.",
+          "zh": "她在体重增加后决定节食。"
+        }
+      ]
+    },
+    {
+      "phrase": "pay someone a visit",
+      "usage": "正式拜访某人",
+      "examples": [
+        {
+          "en": "I paid him a visit yesterday.",
+          "zh": "我昨天去拜访了他。"
+        }
+      ]
+    },
+    {
+      "phrase": "as fat as ever",
+      "usage": "和以前一样胖",
+      "examples": [
+        {
+          "en": "He is as fat as ever.",
+          "zh": "他和以前一样胖。"
+        }
+      ]
+    },
+    {
+      "phrase": "first of all",
+      "usage": "首先，第一",
+      "examples": [
+        {
+          "en": "First of all, I want to introduce myself.",
+          "zh": "首先，我想介绍一下自己。"
+        }
+      ]
+    },
+    {
+      "phrase": "write out",
+      "usage": "写出，列出",
+      "examples": [
+        {
+          "en": "He wrote out a long list of forbidden foods.",
+          "zh": "他列出了一长串禁止吃的食物。"
+        }
+      ]
+    },
+    {
+      "phrase": "lead someone into",
+      "usage": "把某人带进某处",
+      "examples": [
+        {
+          "en": "He led me into his room.",
+          "zh": "他把我带进了他的房间。"
+        }
+      ]
+    },
+    {
+      "phrase": "be obvious that",
+      "usage": "很明显...",
+      "examples": [
+        {
+          "en": "It was obvious that he was embarrassed.",
+          "zh": "很明显他很尴尬。"
+        }
+      ]
+    },
+    {
+      "phrase": "show someone something",
+      "usage": "给某人看某物",
+      "examples": [
+        {
+          "en": "He showed me the contents of the parcel.",
+          "zh": "他给我看了包裹里的东西。"
+        }
+      ]
+    },
+    {
+      "phrase": "ring the bell",
+      "usage": "按门铃",
+      "examples": [
+        {
+          "en": "I rang the bell and waited at the door.",
+          "zh": "我按了门铃，在门口等着。"
+        }
+      ]
+    },
+    {
+      "phrase": "so...that...",
+      "usage": "如此...以至于...",
+      "examples": [
+        {
+          "en": "His diet was so strict that he had to reward himself occasionally.",
+          "zh": "他的节食计划如此严格，以至于他不得不偶尔奖励自己。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "一般过去时 (Past Simple Tense)",
+      "definition": "表示过去发生的动作或存在的状态，常与表示过去的时间状语连用",
+      "structure": "主语 + 动词过去式",
+      "usage": "描述过去发生的具体事件，如故事、经历等",
+      "examples": [
+        {
+          "en": "He began his diet a week ago.",
+          "zh": "他一周前开始节食。"
+        },
+        {
+          "en": "Yesterday I paid him a visit.",
+          "zh": "昨天我去拜访了他。"
+        },
+        {
+          "en": "I rang the bell.",
+          "zh": "我按了门铃。"
+        }
+      ]
+    },
+    {
+      "title": "so...that... 结果状语从句",
+      "definition": "so后面接形容词或副词，that后面接表示结果的从句，意思是\"如此...以至于...\"",
+      "structure": "so + 形容词/副词 + that + 从句",
+      "usage": "用来表示程度或结果，强调某种状态或行为导致的结果",
+      "examples": [
+        {
+          "en": "Things got so bad recently that he decided to go on a diet.",
+          "zh": "情况变得如此糟糕，以至于他决定节食。"
+        },
+        {
+          "en": "He was so embarrassed that he couldn't speak.",
+          "zh": "他太尴尬了，以至于说不出话来。"
+        }
+      ]
+    },
+    {
+      "title": "一般过去时的否定句和疑问句",
+      "definition": "否定句在动词前加did not (didn't)，疑问句将Did提到句首",
+      "structure": "否定：主语 + did not + 动词原形；疑问：Did + 主语 + 动词原形？",
+      "usage": "用于对过去发生的事情进行否定或提问",
+      "examples": [
+        {
+          "en": "He didn't follow his diet.",
+          "zh": "他没有遵守节食计划。"
+        },
+        {
+          "en": "Did you pay him a visit?",
+          "zh": "你去拜访他了吗？"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "主语 + has/have always been + 形容词",
+      "original": {
+        "en": "My friend, Hugh, has always been fat.",
+        "zh": "我的朋友休一直很胖。"
+      },
+      "imitations": [
+        {
+          "en": "She has always been kind.",
+          "zh": "她一直很善良。"
+        },
+        {
+          "en": "He has always been lazy.",
+          "zh": "他一直很懒。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + be + as + 形容词 + as ever",
+      "original": {
+        "en": "Hugh was still as fat as ever.",
+        "zh": "休仍然和以前一样胖。"
+      },
+      "imitations": [
+        {
+          "en": "She is as beautiful as ever.",
+          "zh": "她和以前一样漂亮。"
+        },
+        {
+          "en": "The city is as crowded as ever.",
+          "zh": "这座城市和以前一样拥挤。"
+        }
+      ]
+    },
+    {
+      "pattern": "It is obvious that + 主语 + 动词",
+      "original": {
+        "en": "It was obvious that he was very embarrassed.",
+        "zh": "很明显他非常尴尬。"
+      },
+      "imitations": [
+        {
+          "en": "It was obvious that she was telling a lie.",
+          "zh": "很明显她在撒谎。"
+        },
+        {
+          "en": "It is obvious that he loves her.",
+          "zh": "很明显他爱她。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + explained that + 句子",
+      "original": {
+        "en": "He explained that his diet was so strict that he had to reward himself occasionally.",
+        "zh": "他解释说他的节食计划太严格了，以至于他不得不偶尔奖励自己。"
+      },
+      "imitations": [
+        {
+          "en": "She explained that she was tired.",
+          "zh": "她解释说她是累了。"
+        },
+        {
+          "en": "He explained that the plan didn't work.",
+          "zh": "他解释说计划没有奏效。"
+        }
+      ]
+    }
+  ]
+}

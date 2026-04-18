@@ -1,0 +1,364 @@
+{
+  "book": "NCE2",
+  "lesson": "31",
+  "title": "What was Frank's first job?",
+  "vocabulary": [
+    {
+      "word": "experience",
+      "phonetic": "/ɪkˈspɪəriəns/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "经历；经验",
+          "usage": "指个人亲身经历过的事情，或从实践中获得的知识和技能"
+        }
+      ]
+    },
+    {
+      "word": "retire",
+      "phonetic": "/rɪˈtaɪə/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "退休",
+          "usage": "指停止工作，结束职业生涯"
+        }
+      ]
+    },
+    {
+      "word": "company",
+      "phonetic": "/ˈkʌmpəni/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "公司",
+          "usage": "指商业企业或商业组织"
+        }
+      ]
+    },
+    {
+      "word": "repair",
+      "phonetic": "/rɪˈpeə/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "修理；修补",
+          "usage": "指把损坏的东西修好"
+        }
+      ]
+    },
+    {
+      "word": "bicycle",
+      "phonetic": "/ˈbaɪsɪkl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "自行车",
+          "usage": "指两轮脚踏车"
+        }
+      ]
+    },
+    {
+      "word": "workshop",
+      "phonetic": "/ˈwɜːkʃɒp/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "车间；工场",
+          "usage": "指进行制造或修理工作的地方"
+        }
+      ]
+    },
+    {
+      "word": "spare",
+      "phonetic": "/speə/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "备用的；多余的",
+          "usage": "指多余的或用于替换的"
+        }
+      ]
+    },
+    {
+      "word": "helper",
+      "phonetic": "/ˈhelpə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "帮手；助手",
+          "usage": "指帮助别人做事的人"
+        }
+      ]
+    },
+    {
+      "word": "employ",
+      "phonetic": "/ɪmˈplɔɪ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "雇佣",
+          "usage": "指付钱让人工作"
+        }
+      ]
+    },
+    {
+      "word": "remember",
+      "phonetic": "/rɪˈmembə/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "记得；想起",
+          "usage": "指在记忆中想起过去的事情"
+        }
+      ]
+    },
+    {
+      "word": "success",
+      "phonetic": "/səkˈses/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "成功",
+          "usage": "指达到预期的目标或目的"
+        }
+      ]
+    },
+    {
+      "word": "smile",
+      "phonetic": "/smaɪl/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "微笑",
+          "usage": "指嘴角上扬表示愉快"
+        }
+      ]
+    },
+    {
+      "word": "grandson",
+      "phonetic": "/ˈɡrænsʌn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "孙子；外孙",
+          "usage": "指儿子的儿子"
+        }
+      ]
+    },
+    {
+      "word": "save",
+      "phonetic": "/seɪv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "储蓄；储存",
+          "usage": "指把钱存起来以备将来使用"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "used to",
+      "usage": "表示过去的习惯性动作或状态，现在已不再继续",
+      "examples": [
+        {
+          "en": "He used to work in a small shop.",
+          "zh": "他过去在一家小商店工作。"
+        },
+        {
+          "en": "Frank used to make spare parts for aeroplanes.",
+          "zh": "Frank过去制造飞机配件。"
+        }
+      ]
+    },
+    {
+      "phrase": "tell someone about something",
+      "usage": "告诉某人关于某事",
+      "examples": [
+        {
+          "en": "Frank was telling me about his experiences.",
+          "zh": "Frank正在给我讲他的经历。"
+        }
+      ]
+    },
+    {
+      "phrase": "save money",
+      "usage": "存钱；储蓄",
+      "examples": [
+        {
+          "en": "He saved money for years.",
+          "zh": "他存了好几年的钱。"
+        }
+      ]
+    },
+    {
+      "phrase": "buy something of one's own",
+      "usage": "买下属于自己的某物",
+      "examples": [
+        {
+          "en": "In 1958 he bought a small workshop of his own.",
+          "zh": "1958年他买下了自己的一个小车间。"
+        }
+      ]
+    },
+    {
+      "phrase": "in one's twenties",
+      "usage": "在某人二十多岁时",
+      "examples": [
+        {
+          "en": "In his twenties Frank used to make spare parts for aeroplanes.",
+          "zh": "Frank在二十多岁时制造飞机配件。"
+        }
+      ]
+    },
+    {
+      "phrase": "in a few years",
+      "usage": "在几年之后",
+      "examples": [
+        {
+          "en": "In a few years the small workshop had become a large factory.",
+          "zh": "几年之后这个小车间变成了一个大工厂。"
+        }
+      ]
+    },
+    {
+      "phrase": "the long road to success",
+      "usage": "通往成功的漫漫长路",
+      "examples": [
+        {
+          "en": "He remembered his hard early years and the long road to success.",
+          "zh": "他想起了早年艰难的岁月和通往成功的漫漫长路。"
+        }
+      ]
+    },
+    {
+      "phrase": "want someone to do something",
+      "usage": "想要某人做某事",
+      "examples": [
+        {
+          "en": "She wanted him to repair their grandson's bicycle!",
+          "zh": "她想让他修理他们孙子的自行车！"
+        }
+      ]
+    },
+    {
+      "phrase": "at that time",
+      "usage": "在那时",
+      "examples": [
+        {
+          "en": "At that time he used to work fourteen hours a day.",
+          "zh": "在那时他每天工作十四个小时。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "used to 的用法",
+      "definition": "used to 表示过去经常性的动作或存在的状态，而现在已经不再发生或存在了",
+      "structure": "主语 + used to + 动词原形",
+      "usage": "用于描述过去的习惯、状态或行为，与现在形成对比",
+      "examples": [
+        {
+          "en": "He used to work in a small shop.",
+          "zh": "他过去在一家小商店工作（现在不在了）。"
+        },
+        {
+          "en": "Frank used to make spare parts for aeroplanes.",
+          "zh": "Frank过去制造飞机配件。"
+        },
+        {
+          "en": "She used to be a teacher.",
+          "zh": "她过去是一名老师。"
+        }
+      ]
+    },
+    {
+      "title": "一般过去时",
+      "definition": "表示在过去某一时间发生的动作或存在的状态",
+      "structure": "主语 + 动词过去式",
+      "usage": "用于叙述过去发生的事情，常与 yesterday, last week, in 1958 等时间状语连用",
+      "examples": [
+        {
+          "en": "In 1958 he bought a small workshop of his own.",
+          "zh": "1958年他买下了自己的一个小车间。"
+        },
+        {
+          "en": "Frank smiled when he remembered his hard early years.",
+          "zh": "Frank想起早年艰难的岁月时笑了。"
+        }
+      ]
+    },
+    {
+      "title": "when引导的时间状语从句",
+      "definition": "when引导的时间状语从句表示主句的动作发生在从句动作的过程中",
+      "structure": "主句 + when + 从句（过去时）",
+      "usage": "when 从句常用一般过去时，主句可用过去进行时或一般过去时",
+      "examples": [
+        {
+          "en": "Frank smiled when he remembered his hard early years.",
+          "zh": "Frank想起早年艰难的岁月时笑了。"
+        },
+        {
+          "en": "He was still smiling when the door opened.",
+          "zh": "门打开时他还在微笑。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "主语 + used to + 动词原形",
+      "original": {
+        "en": "He used to work in a small shop.",
+        "zh": "他过去在一家小商店工作。"
+      },
+      "imitations": [
+        {
+          "en": "She used to live in Beijing.",
+          "zh": "她过去住在北京。"
+        },
+        {
+          "en": "I used to play tennis when I was young.",
+          "zh": "我年轻时经常打网球。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + was/were + 动词-ing + when + 主语 + 动词过去式",
+      "original": {
+        "en": "He was still smiling when the door opened.",
+        "zh": "门打开时他还在微笑。"
+      },
+      "imitations": [
+        {
+          "en": "She was reading when I came in.",
+          "zh": "我进来时她在看书。"
+        },
+        {
+          "en": "They were having dinner when the phone rang.",
+          "zh": "电话响的时候他们正在吃晚饭。"
+        }
+      ]
+    },
+    {
+      "pattern": "In + 年份/时间, 主语 + 动词过去式",
+      "original": {
+        "en": "In 1958 he bought a small workshop of his own.",
+        "zh": "1958年他买下了自己的一个小车间。"
+      },
+      "imitations": [
+        {
+          "en": "In 2020, she started her own business.",
+          "zh": "2020年她开始了自己的生意。"
+        },
+        {
+          "en": "In his thirties, he became a manager.",
+          "zh": "在他三十多岁时，他成为了一名经理。"
+        }
+      ]
+    }
+  ]
+}

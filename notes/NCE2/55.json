@@ -1,0 +1,386 @@
+{
+  "book": "NCE2",
+  "lesson": "55",
+  "title": "What did the team find?",
+  "vocabulary": [
+    {
+      "word": "treasure",
+      "phonetic": "/ˈtreʒər/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "宝藏，财富",
+          "usage": "指有价值的物品或财富，常与lost、buried连用"
+        }
+      ]
+    },
+    {
+      "word": "revealer",
+      "phonetic": "/rɪˈviːlər/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "探测器，揭示物",
+          "usage": "指用来揭示或探测某物的机器或装置"
+        }
+      ]
+    },
+    {
+      "word": "detect",
+      "phonetic": "/dɪˈtekt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "探测，发现",
+          "usage": "表示用仪器或感官发现或查明某事物"
+        }
+      ]
+    },
+    {
+      "word": "bury",
+      "phonetic": "/ˈberi/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "埋藏，埋葬",
+          "usage": "指将东西藏在地下或其他物体下面"
+        }
+      ]
+    },
+    {
+      "word": "pirate",
+      "phonetic": "/ˈpaɪrət/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "海盗",
+          "usage": "指在海上抢劫的人"
+        }
+      ]
+    },
+    {
+      "word": "search party",
+      "phonetic": "/sɜːtʃ ˈpɑːrti/",
+      "meanings": [
+        {
+          "pos": "noun phrase",
+          "meaning": "搜索队，搜寻队",
+          "usage": "指为了寻找某人或某物而组织起来的一群人"
+        }
+      ]
+    },
+    {
+      "word": "examine",
+      "phonetic": "/ɪɡˈzæmɪn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "检查，审查",
+          "usage": "指仔细查看或调查某事物"
+        }
+      ]
+    },
+    {
+      "word": "soil",
+      "phonetic": "/sɔɪl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "土壤，土地",
+          "usage": "指地球表面的泥土或表层土"
+        }
+      ]
+    },
+    {
+      "word": "entrance",
+      "phonetic": "/ˈentrəns/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "入口，门口",
+          "usage": "指进入某地方的开口或通道"
+        }
+      ]
+    },
+    {
+      "word": "worthless",
+      "phonetic": "/ˈwɜːrθləs/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "无价值的，不值钱的",
+          "usage": "指没有价值或用途的"
+        }
+      ]
+    },
+    {
+      "word": "thoroughly",
+      "phonetic": "/ˈθʌrəli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "彻底地，完全地",
+          "usage": "指非常彻底地、完全地做某事"
+        }
+      ]
+    },
+    {
+      "word": "trunk",
+      "phonetic": "/trʌŋk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "大箱子，衣箱",
+          "usage": "指用于存放衣物或物品的大型箱子"
+        }
+      ]
+    },
+    {
+      "word": "confident",
+      "phonetic": "/ˈkɑːnfɪdənt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "自信的，有信心的",
+          "usage": "指对某事有把握、相信会成功"
+        }
+      ]
+    },
+    {
+      "word": "reveal",
+      "phonetic": "/rɪˈviːl/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "揭示，显示",
+          "usage": "指使某物显露出来或让人知道"
+        }
+      ]
+    },
+    {
+      "word": "fairly",
+      "phonetic": "/ˈferli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "相当地，颇",
+          "usage": "表示程度适中，不过分"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "come true",
+      "usage": "表示梦想、希望等成为现实",
+      "examples": [
+        {
+          "en": "Dreams of finding lost treasure almost came true recently.",
+          "zh": "最近找到丢失宝藏的梦想几乎变成了现实。"
+        }
+      ]
+    },
+    {
+      "phrase": "in spite of",
+      "usage": "表示尽管、虽然，后接名词或动名词",
+      "examples": [
+        {
+          "en": "In spite of this, many people are confident that 'The Revealer' may reveal something of value.",
+          "zh": "尽管如此，许多人仍然相信'探测仪'可能会发现有价值的东西。"
+        }
+      ]
+    },
+    {
+      "phrase": "dig a hole",
+      "usage": "指挖掘一个洞",
+      "examples": [
+        {
+          "en": "Very excited, the party dug a hole two feet deep.",
+          "zh": "非常兴奋的搜寻队挖了一个两英尺深的洞。"
+        }
+      ]
+    },
+    {
+      "phrase": "be confident that",
+      "usage": "表示确信、相信某事会发生",
+      "examples": [
+        {
+          "en": "Many people are confident that 'The Revealer' may reveal something of value.",
+          "zh": "许多人相信'探测仪'可能会发现有价值的东西。"
+        }
+      ]
+    },
+    {
+      "phrase": "be used to do sth",
+      "usage": "表示被用来做某事，被用于",
+      "examples": [
+        {
+          "en": "The machine was used to detect gold which has been buried in the ground.",
+          "zh": "这台机器被用来探测埋在地下黄金。"
+        }
+      ]
+    },
+    {
+      "phrase": "search the whole cave",
+      "usage": "指搜索整个洞穴",
+      "examples": [
+        {
+          "en": "The party then searched the whole cave thoroughly but did not find anything.",
+          "zh": "搜寻队随后彻底搜索了整个洞穴，但没有发现任何东西。"
+        }
+      ]
+    },
+    {
+      "phrase": "almost worthless",
+      "usage": "表示几乎毫无价值",
+      "examples": [
+        {
+          "en": "They finally found a small gold coin which was almost worthless.",
+          "zh": "他们最终发现了一枚几乎毫无价值的小金币。"
+        }
+      ]
+    },
+    {
+      "phrase": "hope to do sth",
+      "usage": "表示希望做某事",
+      "examples": [
+        {
+          "en": "A search party went into the cave hoping to find buried treasure.",
+          "zh": "一支搜寻队进入洞穴，希望能找到埋藏的宝藏。"
+        }
+      ]
+    },
+    {
+      "phrase": "near the seashore",
+      "usage": "表示在海边附近",
+      "examples": [
+        {
+          "en": "The machine was used in a cave near the seashore.",
+          "zh": "这台机器被用于海边附近的一个洞穴。"
+        }
+      ]
+    },
+    {
+      "phrase": "two feet deep",
+      "usage": "表示两英尺深",
+      "examples": [
+        {
+          "en": "They dug a hole two feet deep.",
+          "zh": "他们挖了一个两英尺深的洞。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去进行时 (Past Continuous Tense)",
+      "definition": "过去进行时表示在过去某一时刻或某一段时间正在进行的动作",
+      "structure": "主语 + was/were + 动词-ing",
+      "usage": "用于描述过去正在进行的动作，常与when、while等连用",
+      "examples": [
+        {
+          "en": "The leader was examining the soil near the entrance to the cave when the machine showed that there was gold.",
+          "zh": "队长正在检查洞口附近的土壤时，机器显示地下有黄金。"
+        }
+      ]
+    },
+    {
+      "title": "过去完成时 (Past Perfect Tense)",
+      "definition": "过去完成时表示在过去某一时间之前已经完成的动作",
+      "structure": "主语 + had + 过去分词",
+      "usage": "用于描述两个过去的动作中较早发生的动作，或某事在过去的某个时间点之前已经完成",
+      "examples": [
+        {
+          "en": "The pirates would often bury gold in the cave and then fail to collect it.",
+          "zh": "海盗们经常把金子埋在洞穴里，然后却忘记取走。"
+        }
+      ]
+    },
+    {
+      "title": "被动语态 (Passive Voice)",
+      "definition": "被动语态表示主语是动作的承受者",
+      "structure": "主语 + be动词 + 过去分词",
+      "usage": "当强调动作的承受者或不知道动作的执行者时使用",
+      "examples": [
+        {
+          "en": "A new machine called 'The Revealer' has been invented.",
+          "zh": "一种名为'探测仪'的新机器被发明了。"
+        },
+        {
+          "en": "The machine was used in a cave near the seashore.",
+          "zh": "这台机器被用于海边附近的一个洞穴。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "S + has/have been + 过去分词",
+      "original": {
+        "en": "A new machine called 'The Revealer' has been invented.",
+        "zh": "一种名为'探测仪'的新机器被发明了。"
+      },
+      "imitations": [
+        {
+          "en": "A new museum has been built in our city.",
+          "zh": "一座新博物馆在我们的城市建成了。"
+        },
+        {
+          "en": "The ancient temple has been discovered by archaeologists.",
+          "zh": "这座古庙被考古学家发现了。"
+        }
+      ]
+    },
+    {
+      "pattern": "S + was/were + 动词-ing + when + 主语 + 动词过去式",
+      "original": {
+        "en": "The leader was examining the soil when the machine showed that there was gold.",
+        "zh": "队长正在检查土壤时，机器显示有金子。"
+      },
+      "imitations": [
+        {
+          "en": "I was reading a book when the phone rang.",
+          "zh": "我正在看书时电话响了。"
+        },
+        {
+          "en": "She was cooking dinner when the lights went out.",
+          "zh": "她正在做晚饭时灯灭了。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + 动词过去式 + 数量/尺寸 + deep/wide/tall",
+      "original": {
+        "en": "They dug a hole two feet deep.",
+        "zh": "他们挖了一个两英尺深的洞。"
+      },
+      "imitations": [
+        {
+          "en": "The river is about ten meters deep.",
+          "zh": "这条河大约十米深。"
+        },
+        {
+          "en": "The tower is fifty meters tall.",
+          "zh": "这座塔五十米高。"
+        }
+      ]
+    },
+    {
+      "pattern": "In spite of + 名词/动名词, S + 动词",
+      "original": {
+        "en": "In spite of this, many people are confident that the machine may reveal something of value.",
+        "zh": "尽管如此，许多人仍然相信这台机器可能会发现有价值的东西。"
+      },
+      "imitations": [
+        {
+          "en": "In spite of the rain, we went out for a walk.",
+          "zh": "尽管下雨，我们还是出去散步了。"
+        },
+        {
+          "en": "In spite of his age, he still works very hard.",
+          "zh": "尽管年纪大了，他仍然工作很努力。"
+        }
+      ]
+    }
+  ]
+}

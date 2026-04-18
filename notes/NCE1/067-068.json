@@ -1,0 +1,462 @@
+{
+  "book": "NCE1",
+  "lesson": "067-068",
+  "title": "Lesson 67",
+  "vocabulary": [
+    {
+      "word": "butcher",
+      "phonetic": "/ˈbʊtʃə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "肉店；屠夫",
+          "usage": "常与所有格连用：at the butcher's 表示在肉店"
+        }
+      ]
+    },
+    {
+      "word": "greengrocer",
+      "phonetic": "/ˈɡriːnɡrəʊsə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "蔬菜水果商；蔬果店",
+          "usage": "常与所有格连用：at the greengrocer's 表示在蔬果店"
+        }
+      ]
+    },
+    {
+      "word": "weekend",
+      "phonetic": "/ˌwiːkˈend/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "周末",
+          "usage": "指周六和周日，常与介词 at 或 for 连用"
+        }
+      ]
+    },
+    {
+      "word": "absent",
+      "phonetic": "/ˈæbsənt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "缺席的；不在的",
+          "usage": "常与介词 from 连用，表示缺席某地或某事"
+        }
+      ]
+    },
+    {
+      "word": "spend",
+      "phonetic": "/spend/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "度过（时间）；花费",
+          "usage": "表示度过一段时间，主观意愿地花费时间或金钱"
+        }
+      ]
+    },
+    {
+      "word": "country",
+      "phonetic": "/ˈkʌntri/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "乡村；农村",
+          "usage": "指相对于城市的乡村地区，前面常加定冠词 the"
+        }
+      ]
+    },
+    {
+      "word": "stay",
+      "phonetic": "/steɪ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "停留；暂住",
+          "usage": "表示在某个地方暂时居住或停留"
+        }
+      ]
+    },
+    {
+      "word": "lucky",
+      "phonetic": "/ˈlʌki/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "幸运的",
+          "usage": "表示有好运气，含有羡慕的语气"
+        }
+      ]
+    },
+    {
+      "word": "keeping",
+      "phonetic": "/ˈkiːpɪŋ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "状况；保持",
+          "usage": "用于短语 How are you keeping? 表示询问身体状况"
+        }
+      ]
+    },
+    {
+      "word": "mother",
+      "phonetic": "/ˈmʌðə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "母亲",
+          "usage": "表示自己的母亲时通常不加冠词或所有格"
+        }
+      ]
+    },
+    {
+      "word": "Friday",
+      "phonetic": "/ˈfraɪdeɪ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "星期五",
+          "usage": "表示一周中的星期五"
+        }
+      ]
+    },
+    {
+      "word": "Saturday",
+      "phonetic": "/ˈsætədeɪ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "星期六",
+          "usage": "表示一周中的星期六"
+        }
+      ]
+    },
+    {
+      "word": "Sunday",
+      "phonetic": "/ˈsʌndeɪ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "星期日",
+          "usage": "表示一周中的星期日"
+        }
+      ]
+    },
+    {
+      "word": "yesterday",
+      "phonetic": "/ˈjestədeɪ/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "昨天",
+          "usage": "表示过去的某一天"
+        }
+      ]
+    },
+    {
+      "word": "three",
+      "phonetic": "/θriː/",
+      "meanings": [
+        {
+          "pos": "number",
+          "meaning": "三",
+          "usage": "基数词，表示数量"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "at the butcher's",
+      "usage": "在肉店，表示在肉店这个地点",
+      "examples": [
+        {
+          "en": "Were you at the butcher's?",
+          "zh": "你在肉店吗？"
+        },
+        {
+          "en": "I was at the butcher's yesterday.",
+          "zh": "我昨天在肉店。"
+        }
+      ]
+    },
+    {
+      "phrase": "at the greengrocer's",
+      "usage": "在蔬菜水果店，表示在蔬果店这个地点",
+      "examples": [
+        {
+          "en": "I was at the greengrocer's.",
+          "zh": "我在蔬菜水果店。"
+        },
+        {
+          "en": "She buys vegetables at the greengrocer's.",
+          "zh": "她在蔬菜水果店买蔬菜。"
+        }
+      ]
+    },
+    {
+      "phrase": "How are you keeping?",
+      "usage": "你身体怎么样？用于询问健康状况",
+      "examples": [
+        {
+          "en": "How are you keeping?",
+          "zh": "你身体怎么样？"
+        },
+        {
+          "en": "Very well, thank you. How are you keeping?",
+          "zh": "很好，谢谢。你身体怎么样？"
+        }
+      ]
+    },
+    {
+      "phrase": "be absent from",
+      "usage": "缺席；不在，常与学校、工作地点等连用",
+      "examples": [
+        {
+          "en": "Was he absent from school last week?",
+          "zh": "他上周没上学吗？"
+        },
+        {
+          "en": "She was absent from work yesterday.",
+          "zh": "她昨天没来上班。"
+        }
+      ]
+    },
+    {
+      "phrase": "spend the weekend",
+      "usage": "过周末，指在周末进行某种活动",
+      "examples": [
+        {
+          "en": "We're going to spend three days in the country.",
+          "zh": "我们将在乡下度过三天。"
+        },
+        {
+          "en": "They spent the weekend at the beach.",
+          "zh": "他们在海边度过了周末。"
+        }
+      ]
+    },
+    {
+      "phrase": "stay at my mother's",
+      "usage": "住在我妈妈家，表示暂住在亲属家中",
+      "examples": [
+        {
+          "en": "We're going to stay at my mother's for the weekend.",
+          "zh": "我们将在妈妈家过周末。"
+        },
+        {
+          "en": "She stayed at her aunt's last night.",
+          "zh": "她昨晚住在她阿姨家。"
+        }
+      ]
+    },
+    {
+      "phrase": "in the country",
+      "usage": "在乡下/农村，指离开城市到乡村地区",
+      "examples": [
+        {
+          "en": "Friday, Saturday and Sunday in the country!",
+          "zh": "周五、周六和周日都在乡下！"
+        },
+        {
+          "en": "They live in the country.",
+          "zh": "他们住在乡下。"
+        }
+      ]
+    },
+    {
+      "phrase": "Aren't you lucky!",
+      "usage": "你们真幸运！表示羡慕或感叹的语气",
+      "examples": [
+        {
+          "en": "Aren't you lucky!",
+          "zh": "你们真幸运！"
+        },
+        {
+          "en": "Aren't we lucky to have such good weather!",
+          "zh": "天气这么好，我们真幸运！"
+        }
+      ]
+    },
+    {
+      "phrase": "very well",
+      "usage": "很好，表示状况良好，常用于回答 How are you?",
+      "examples": [
+        {
+          "en": "He's very well, thank you.",
+          "zh": "他很好，谢谢。"
+        },
+        {
+          "en": "I'm very well, thanks.",
+          "zh": "我很好，谢谢。"
+        }
+      ]
+    },
+    {
+      "phrase": "be going to",
+      "usage": "表示将来计划或打算做的事情",
+      "examples": [
+        {
+          "en": "We're going to spend three days in the country.",
+          "zh": "我们将在乡下度过三天。"
+        },
+        {
+          "en": "What are you going to do tomorrow?",
+          "zh": "你明天打算做什么？"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "be动词的过去式一般疑问句",
+      "definition": "用was/were构成的一般疑问句，用来询问过去的情况",
+      "structure": "Was/Were + 主语 + ...?",
+      "usage": "询问某人或某物在过去某个时间的状况或位置，回答用Yes, ... was/were. 或 No, ... wasn't/weren't.",
+      "examples": [
+        {
+          "en": "Were you at the butcher's?",
+          "zh": "你在肉店吗？"
+        },
+        {
+          "en": "Was he absent from school last week?",
+          "zh": "他上周没上学吗？"
+        },
+        {
+          "en": "Were they in the country?",
+          "zh": "他们在乡下吗？"
+        }
+      ]
+    },
+    {
+      "title": "be动词过去式的否定句",
+      "definition": "在was/were后加not构成否定句",
+      "structure": "主语 + was/were + not + ... ",
+      "usage": "表示某人或某物过去不在某种状态或位置，was not可缩写为wasn't，were not可缩写为weren't",
+      "examples": [
+        {
+          "en": "No, I wasn't.",
+          "zh": "不，我不在。"
+        },
+        {
+          "en": "He wasn't at home yesterday.",
+          "zh": "他昨天不在家。"
+        },
+        {
+          "en": "They weren't at school on Monday.",
+          "zh": "他们周一没上学。"
+        }
+      ]
+    },
+    {
+      "title": "be going to 表示将来计划",
+      "definition": "用be going to结构表示将来打算或计划要做的事",
+      "structure": "主语 + am/is/are going to + 动词原形 + ... ",
+      "usage": "表示已经决定或计划好的将来行为，比一般现在时表示的将来更强调主观计划",
+      "examples": [
+        {
+          "en": "We're going to spend three days in the country.",
+          "zh": "我们将在乡下度过三天。"
+        },
+        {
+          "en": "She's going to stay at her grandmother's.",
+          "zh": "她将住在她奶奶家。"
+        },
+        {
+          "en": "What are you going to do at the weekend?",
+          "zh": "你周末打算做什么？"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Were you at the + 地点?",
+      "original": {
+        "en": "Were you at the butcher's?",
+        "zh": "你在肉店吗？"
+      },
+      "imitations": [
+        {
+          "en": "Were you at the baker's?",
+          "zh": "你在面包店吗？"
+        },
+        {
+          "en": "Were you at the library?",
+          "zh": "你在图书馆吗？"
+        },
+        {
+          "en": "Were you at the post office?",
+          "zh": "你在邮局吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "Was he absent from + 地点/活动?",
+      "original": {
+        "en": "Was he absent from school last week?",
+        "zh": "他上周没上学吗？"
+      },
+      "imitations": [
+        {
+          "en": "Was she absent from work yesterday?",
+          "zh": "她昨天没上班吗？"
+        },
+        {
+          "en": "Was Tom absent from class today?",
+          "zh": "汤姆今天没上课吗？"
+        },
+        {
+          "en": "Were they absent from the meeting?",
+          "zh": "他们缺席会议了吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "How are you keeping?",
+      "original": {
+        "en": "How are you keeping?",
+        "zh": "你身体怎么样？"
+      },
+      "imitations": [
+        {
+          "en": "How is your mother keeping?",
+          "zh": "你妈妈身体怎么样？"
+        },
+        {
+          "en": "How are the children keeping?",
+          "zh": "孩子们身体怎么样？"
+        },
+        {
+          "en": "How is your father keeping?",
+          "zh": "你爸爸身体怎么样？"
+        }
+      ]
+    },
+    {
+      "pattern": "We're going to + 动词原形",
+      "original": {
+        "en": "We're going to stay at my mother's for the weekend.",
+        "zh": "我们将在妈妈家过周末。"
+      },
+      "imitations": [
+        {
+          "en": "We're going to spend the holiday in the mountains.",
+          "zh": "我们将在山里度假。"
+        },
+        {
+          "en": "They're going to visit their uncle next week.",
+          "zh": "他们下周将去看望叔叔。"
+        },
+        {
+          "en": "I'm going to travel around Europe this summer.",
+          "zh": "今年夏天我打算环游欧洲。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,405 @@
+{
+  "book": "NCE2",
+  "lesson": "74",
+  "title": "Why was their disguise 'too perfect' ?",
+  "vocabulary": [
+    {
+      "word": "disguise",
+      "phonetic": "/dɪsˈɡaɪz/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "伪装；伪装物",
+          "usage": "指为了不让人认出而做的装扮"
+        },
+        {
+          "pos": "verb",
+          "meaning": "伪装；掩饰",
+          "usage": "指装扮成别人以隐藏身份"
+        }
+      ]
+    },
+    {
+      "word": "ancient",
+      "phonetic": "/ˈeɪnʃənt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "古老的；古代的",
+          "usage": "形容非常老旧的事物"
+        }
+      ]
+    },
+    {
+      "word": "precaution",
+      "phonetic": "/prɪˈkɔːʃən/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "预防措施；防备",
+          "usage": "为防止危险或问题发生而采取的措施"
+        }
+      ]
+    },
+    {
+      "word": "recognize",
+      "phonetic": "/ˈrekəɡnaɪz/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "认出；识别",
+          "usage": "指认出一个之前见过的人或事物"
+        }
+      ]
+    },
+    {
+      "word": "picnic",
+      "phonetic": "/ˈpɪknɪk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "野餐",
+          "usage": "在户外吃的便餐"
+        }
+      ]
+    },
+    {
+      "word": "shady",
+      "phonetic": "/ˈʃeɪdi/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "成荫的；阴凉的",
+          "usage": "有树荫遮挡阳光的地方"
+        }
+      ]
+    },
+    {
+      "word": "stranger",
+      "phonetic": "/ˈstreɪndʒə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "陌生人",
+          "usage": "不认识的人；外来者"
+        }
+      ]
+    },
+    {
+      "word": "sheriff",
+      "phonetic": "/ˈʃerɪf/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "治安官；县治安官",
+          "usage": "美国地方执法的官员"
+        }
+      ]
+    },
+    {
+      "word": "notice",
+      "phonetic": "/ˈnəʊtɪs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "告示；布告",
+          "usage": "张贴的通知或警告"
+        },
+        {
+          "pos": "verb",
+          "meaning": "注意到",
+          "usage": "指注意到某事物"
+        }
+      ]
+    },
+    {
+      "word": "camping",
+      "phonetic": "/ˈkæmpɪŋ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "露营；野营",
+          "usage": "在户外搭帐篷住宿的活动"
+        }
+      ]
+    },
+    {
+      "word": "sneer",
+      "phonetic": "/snɪə/",
+      "meanings": [
+        {
+          "pos": "noun/verb",
+          "meaning": "冷笑；嘲笑",
+          "usage": "表示轻蔑或嘲讽的表情或声音"
+        }
+      ]
+    },
+    {
+      "word": "actress",
+      "phonetic": "/ˈæktrəs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "女演员",
+          "usage": "女性演员"
+        }
+      ]
+    },
+    {
+      "word": "basket",
+      "phonetic": "/ˈbɑːskɪt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "篮子",
+          "usage": "用于装东西的容器"
+        }
+      ]
+    },
+    {
+      "word": "comfortable",
+      "phonetic": "/ˈkʌmftəbl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "舒适的；舒服的",
+          "usage": "感觉轻松自在的"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "get off",
+      "usage": "下车；从...下来",
+      "examples": [
+        {
+          "en": "The bus stopped and the actors got off.",
+          "zh": "公交车停下，演员们下了车。"
+        },
+        {
+          "en": "She got off the train at the next station.",
+          "zh": "她在下一站下了火车。"
+        }
+      ]
+    },
+    {
+      "phrase": "in case",
+      "usage": "以防万一；以免",
+      "examples": [
+        {
+          "en": "Take an umbrella in case it rains.",
+          "zh": "带把伞以防下雨。"
+        },
+        {
+          "en": "It says 'No Camping' in case you can't read!",
+          "zh": "上面写着'禁止露营'——以防你不会读！"
+        }
+      ]
+    },
+    {
+      "phrase": "get out of here",
+      "usage": "离开这里；滚出去",
+      "examples": [
+        {
+          "en": "Now you get out of here, all of you!",
+          "zh": "现在你们都给我滚出去！"
+        },
+        {
+          "en": "Get out of here! I don't want to see you.",
+          "zh": "滚出去！我不想见到你。"
+        }
+      ]
+    },
+    {
+      "phrase": "be hard on someone",
+      "usage": "对某人苛刻；对某人严厉",
+      "examples": [
+        {
+          "en": "Don't be too hard on us, sheriff.",
+          "zh": " sheriff，别对我们太苛刻了。"
+        },
+        {
+          "en": "The teacher is too hard on the new students.",
+          "zh": "老师对新学生太苛刻了。"
+        }
+      ]
+    },
+    {
+      "phrase": "make oneself comfortable",
+      "usage": "使某人自己感到舒适",
+      "examples": [
+        {
+          "en": "When they had all made themselves comfortable, a stranger appeared.",
+          "zh": "当他们都安顿好之后，一个陌生人出现了。"
+        },
+        {
+          "en": "Please make yourselves comfortable.",
+          "zh": "请随便坐，不要拘束。"
+        }
+      ]
+    },
+    {
+      "phrase": "take precautions",
+      "usage": "采取预防措施",
+      "examples": [
+        {
+          "en": "They had taken special precautions so that no one should recognize them.",
+          "zh": "他们采取了特别的预防措施以免被人认出来。"
+        },
+        {
+          "en": "We should take precautions against fire.",
+          "zh": "我们应该采取防火措施。"
+        }
+      ]
+    },
+    {
+      "phrase": "dressed in",
+      "usage": "穿着；打扮成",
+      "examples": [
+        {
+          "en": "Dressed in dark glasses and old clothes, they tried to hide.",
+          "zh": "他们戴着墨镜，穿着旧衣服，试图隐藏自己。"
+        },
+        {
+          "en": "The children were dressed in red.",
+          "zh": "孩子们穿着红色的衣服。"
+        }
+      ]
+    },
+    {
+      "phrase": "couldn't be better",
+      "usage": "再好不过了；完美",
+      "examples": [
+        {
+          "en": "It couldn't be better, Gloria.",
+          "zh": "再好不过了，Gloria。"
+        },
+        {
+          "en": "The weather couldn't be better for a picnic.",
+          "zh": "这个天气野餐再合适不过了。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去进行时 (Past Continuous Tense)",
+      "definition": "表示在过去某一时刻或某一段时间正在进行的动作",
+      "structure": "was/were + 动词-ing",
+      "usage": "用于描述过去正在进行的动作，常与when/while等连词连用",
+      "examples": [
+        {
+          "en": "An ancient bus stopped by a dry river bed.",
+          "zh": "一辆古旧的公交车停在干涸的河床边。"
+        },
+        {
+          "en": "Two other actors had carried two large food baskets to a shady spot.",
+          "zh": "另外两位演员把两个大食物篮子搬到了树荫下。"
+        }
+      ]
+    },
+    {
+      "title": "过去完成时 (Past Perfect Tense)",
+      "definition": "表示在过去某一时刻之前已经完成的动作",
+      "structure": "had + 过去分词",
+      "usage": "用于描述两个过去的动作，先发生的动作用过去完成时，后发生的动作用一般过去时",
+      "examples": [
+        {
+          "en": "When they had all made themselves comfortable, a stranger appeared.",
+          "zh": "当他们都安顿好之后，一个陌生人出现了。"
+        },
+        {
+          "en": "He had finished his work before he left.",
+          "zh": "他离开之前已经完成了工作。"
+        }
+      ]
+    },
+    {
+      "title": "直接引语 (Direct Speech)",
+      "definition": "直接引用别人的话，使用引号",
+      "structure": "主语 + said/said + '...' + ",
+      "usage": "在叙述对话时直接引用人物的原话",
+      "examples": [
+        {
+          "en": "'This is a wonderful place for a picnic,' said Gloria Gleam.",
+          "zh": "'这是野餐的好地方，'Gloria Gleam说。"
+        },
+        {
+          "en": "'Now you get out of here!' he shouted.",
+          "zh": "'现在你们给我滚出去！'他喊道。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "This is a wonderful place for...",
+      "original": {
+        "en": "This is a wonderful place for a picnic.",
+        "zh": "这是野餐的好地方。"
+      },
+      "imitations": [
+        {
+          "en": "This is a wonderful place for a holiday.",
+          "zh": "这是度假的好地方。"
+        },
+        {
+          "en": "This is a wonderful place for a party.",
+          "zh": "这是开派对的好地方。"
+        }
+      ]
+    },
+    {
+      "pattern": "It couldn't be better.",
+      "original": {
+        "en": "It couldn't be better, Gloria.",
+        "zh": "再好不过了，Gloria。"
+      },
+      "imitations": [
+        {
+          "en": "The weather couldn't be better today.",
+          "zh": "今天天气好得不能再好了。"
+        },
+        {
+          "en": "Your idea couldn't be better.",
+          "zh": "你的主意高明极了。"
+        }
+      ]
+    },
+    {
+      "pattern": "...is my other name...",
+      "original": {
+        "en": "I'm Brinksley Meers, and my other name is Gloria Gleam.",
+        "zh": "我是Brinksley Meers，我的另一个名字是Gloria Gleam。"
+      },
+      "imitations": [
+        {
+          "en": "I'm Tom, and my other name is Thomas.",
+          "zh": "我叫Tom，我的另一个名字是Thomas。"
+        },
+        {
+          "en": "She's Lucy, and her other name is Lucia.",
+          "zh": "她叫Lucy，她的另一个名字是Lucia。"
+        }
+      ]
+    },
+    {
+      "pattern": "Don't be too hard on...",
+      "original": {
+        "en": "Don't be too hard on us.",
+        "zh": "别对我们太苛刻了。"
+      },
+      "imitations": [
+        {
+          "en": "Don't be too hard on him. He's just a child.",
+          "zh": "别对他太苛刻了，他只是个孩子。"
+        },
+        {
+          "en": "Don't be too hard on yourself. You did your best.",
+          "zh": "别对自己太苛刻了，你已经尽力了。"
+        }
+      ]
+    }
+  ]
+}

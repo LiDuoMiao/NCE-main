@@ -1,0 +1,402 @@
+{
+  "book": "NCE1",
+  "lesson": "063-064",
+  "title": "Lesson 63",
+  "vocabulary": [
+    {
+      "word": "doctor",
+      "phonetic": "/ˈdɒktə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "医生",
+          "usage": "称呼医生时可直接说Doctor"
+        }
+      ]
+    },
+    {
+      "word": "better",
+      "phonetic": "/ˈbetə/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "更好的；好转的",
+          "usage": "good的比较级，表示健康状况改善"
+        }
+      ]
+    },
+    {
+      "word": "certainly",
+      "phonetic": "/ˈsɜːtənli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "当然；肯定",
+          "usage": "表示肯定的回答，相当于of course"
+        }
+      ]
+    },
+    {
+      "word": "upstairs",
+      "phonetic": "/ˌʌpˈsteəz/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "在楼上；往楼上",
+          "usage": "表示向楼上的位置或动作"
+        }
+      ]
+    },
+    {
+      "word": "remain",
+      "phonetic": "/rɪˈmeɪn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "停留；保持",
+          "usage": "表示继续停留在某地或保持某种状态"
+        }
+      ]
+    },
+    {
+      "word": "temperature",
+      "phonetic": "/ˈtemprətʃə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "体温；温度",
+          "usage": "have a temperature表示发烧"
+        }
+      ]
+    },
+    {
+      "word": "rich",
+      "phonetic": "/rɪtʃ/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "油腻的；丰富的",
+          "usage": "rich food指油腻的食物"
+        }
+      ]
+    },
+    {
+      "word": "cold",
+      "phonetic": "/kəʊld/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "感冒；寒冷",
+          "usage": "have a cold表示患感冒"
+        }
+      ]
+    },
+    {
+      "word": "warm",
+      "phonetic": "/wɔːm/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "温暖的；暖和的",
+          "usage": "keep the room warm表示保持房间温暖"
+        }
+      ]
+    },
+    {
+      "word": "evening",
+      "phonetic": "/ˈiːvnɪŋ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "傍晚；晚上",
+          "usage": "指下午6点到睡觉前的时间"
+        }
+      ]
+    },
+    {
+      "word": "school",
+      "phonetic": "/skuːl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "学校",
+          "usage": "go to school表示去上学"
+        }
+      ]
+    },
+    {
+      "word": "keep",
+      "phonetic": "/kiːp/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "保持；保留",
+          "usage": "keep + 宾语 + 形容词表示使...保持某种状态"
+        }
+      ]
+    },
+    {
+      "word": "bed",
+      "phonetic": "/bed/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "床",
+          "usage": "in bed表示在床上/卧床"
+        }
+      ]
+    },
+    {
+      "word": "well",
+      "phonetic": "/wel/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "健康的；良好的",
+          "usage": "表示身体状况好，看起来健康"
+        }
+      ]
+    },
+    {
+      "word": "mustn't",
+      "phonetic": "/ˈmʌsənt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "不可以；禁止",
+          "usage": "must not的缩写，表示禁止或不允许"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Thank you, doctor",
+      "usage": "向医生表达感谢的常用语",
+      "examples": [
+        {
+          "en": "Thank you, doctor. I feel much better now.",
+          "zh": "谢谢你，医生。我现在感觉好多了。"
+        }
+      ]
+    },
+    {
+      "phrase": "How's Jimmy today?",
+      "usage": "询问他人今天身体状况的常用表达",
+      "examples": [
+        {
+          "en": "How's your son today?",
+          "zh": "你儿子今天怎么样？"
+        }
+      ]
+    },
+    {
+      "phrase": "Come upstairs",
+      "usage": "让某人上楼的说法",
+      "examples": [
+        {
+          "en": "Come upstairs and see the new bedroom.",
+          "zh": "上楼来看看新卧室。"
+        }
+      ]
+    },
+    {
+      "phrase": "stay in bed",
+      "usage": "卧床休息，待在床上",
+      "examples": [
+        {
+          "en": "You must stay in bed for another two days.",
+          "zh": "你必须再卧床两天。"
+        }
+      ]
+    },
+    {
+      "phrase": "get up",
+      "usage": "起床；起身",
+      "examples": [
+        {
+          "en": "He can get up for about two hours each day.",
+          "zh": "他每天可以起床两小时左右。"
+        }
+      ]
+    },
+    {
+      "phrase": "have a temperature",
+      "usage": "发烧",
+      "examples": [
+        {
+          "en": "Does he have a temperature, doctor?",
+          "zh": "医生，他发烧吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "have a cold",
+      "usage": "患感冒",
+      "examples": [
+        {
+          "en": "He has a bad cold, too!",
+          "zh": "他也得了重感冒！"
+        }
+      ]
+    },
+    {
+      "phrase": "eat rich food",
+      "usage": "吃油腻的食物",
+      "examples": [
+        {
+          "en": "He mustn't eat rich food.",
+          "zh": "他不可以吃油腻的食物。"
+        }
+      ]
+    },
+    {
+      "phrase": "keep the room warm",
+      "usage": "保持房间温暖",
+      "examples": [
+        {
+          "en": "You must keep the room warm.",
+          "zh": "你必须保持房间温暖。"
+        }
+      ]
+    },
+    {
+      "phrase": "for another two days",
+      "usage": "再两天",
+      "examples": [
+        {
+          "en": "You must stay in bed for another two days.",
+          "zh": "你必须再卧床两天。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Must的用法",
+      "definition": "must表示必须、义务，表示主观认为必要的事情。否定形式mustn't表示禁止、不允许。",
+      "structure": "主语 + must/mustn't + 动词原形",
+      "usage": "must用于肯定句表示必须做某事，mustn't表示禁止做某事。用于医生嘱咐时表达医嘱。",
+      "examples": [
+        {
+          "en": "You must stay in bed for another two days.",
+          "zh": "你必须再卧床两天。"
+        },
+        {
+          "en": "He mustn't go to school yet.",
+          "zh": "他还不能去上学。"
+        },
+        {
+          "en": "He mustn't eat rich food.",
+          "zh": "他不可以吃油腻的食物。"
+        }
+      ]
+    },
+    {
+      "title": "Must引导的一般疑问句",
+      "definition": "must开头的一般疑问句用于询问是否必须做某事，回答用Yes, ... must.或No, ... needn't.",
+      "structure": "Must + 主语 + 动词原形?",
+      "usage": "用于询问某事是否必须做。must疑问句的回答：如果必须，用Yes, ... must；如果不必须，用No, ... needn't（注意不是mustn't）。",
+      "examples": [
+        {
+          "en": "Must he stay in bed?",
+          "zh": "他必须卧床吗？"
+        },
+        {
+          "en": "Yes, he must.",
+          "zh": "是的，他必须卧床。"
+        },
+        {
+          "en": "Can I see him please?",
+          "zh": "我可以看看他吗？"
+        }
+      ]
+    },
+    {
+      "title": "Can表示允许或能力",
+      "definition": "can可以表示能力（能够）或允许（可以）",
+      "structure": "主语 + can + 动词原形",
+      "usage": "在医患对话中，can表示允许病人做某事，如起床活动",
+      "examples": [
+        {
+          "en": "He can get up for about two hours each day.",
+          "zh": "他每天可以起床两小时左右。"
+        },
+        {
+          "en": "Can I see him please, Mrs. Williams?",
+          "zh": "威廉斯太太，我可以看看他吗？"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "How's + 人 + today?",
+      "original": {
+        "en": "How's Jimmy today?",
+        "zh": "今天Jimmy怎么样？"
+      },
+      "imitations": [
+        {
+          "en": "How's your mother today?",
+          "zh": "你妈妈今天怎么样？"
+        },
+        {
+          "en": "How's your brother today?",
+          "zh": "你哥哥今天怎么样？"
+        }
+      ]
+    },
+    {
+      "pattern": "Must + 主语 + 动词原形?",
+      "original": {
+        "en": "Must he stay in bed?",
+        "zh": "他必须卧床吗？"
+      },
+      "imitations": [
+        {
+          "en": "Must she take this medicine?",
+          "zh": "她必须吃这个药吗？"
+        },
+        {
+          "en": "Must I come back tomorrow?",
+          "zh": "我必须明天回来吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + must + 动词原形 + for another + 时间",
+      "original": {
+        "en": "You must stay in bed for another two days.",
+        "zh": "你必须再卧床两天。"
+      },
+      "imitations": [
+        {
+          "en": "You must rest for another three days.",
+          "zh": "你必须再休息三天。"
+        },
+        {
+          "en": "She must take medicine for another one week.",
+          "zh": "她必须再服药一周。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + can + 动词原形 + for about + 时间",
+      "original": {
+        "en": "He can get up for about two hours each day.",
+        "zh": "他每天可以起床两小时左右。"
+      },
+      "imitations": [
+        {
+          "en": "She can walk for about one hour each day.",
+          "zh": "她每天可以走一个小时左右。"
+        },
+        {
+          "en": "You can watch TV for about one hour.",
+          "zh": "你可以看一个小时的电视。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "book": "NCE3",
+  "lesson": "15",
+  "title": "Lesson 15",
+  "vocabulary": [
+    {
+      "word": "appreciate",
+      "phonetic": "/əˈpriːʃieɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "感激，欣赏；喜欢",
+          "usage": "此处表示对小礼物的喜爱和重视，后面可直接接名词作宾语"
+        }
+      ]
+    },
+    {
+      "word": "pence",
+      "phonetic": "/pens/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "便士（英国货币单位，penny的复数形式）",
+          "usage": "是英国辅币单位，100便士等于1英镑"
+        }
+      ]
+    },
+    {
+      "word": "thrifty",
+      "phonetic": "/ˈθrɪfti/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "节俭的，节约的",
+          "usage": "用于形容人在花钱上很节省，褒义词"
+        }
+      ]
+    },
+    {
+      "word": "bounce",
+      "phonetic": "/baʊns/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "弹跳，反弹",
+          "usage": "指物体碰到硬面后弹回，也可指人蹦跳着走"
+        }
+      ]
+    },
+    {
+      "word": "pavement",
+      "phonetic": "/ˈpeɪvmənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "人行道",
+          "usage": "英式英语用词，对应美式英语的sidewalk"
+        }
+      ]
+    },
+    {
+      "word": "drain",
+      "phonetic": "/dreɪn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "下水道，排水管",
+          "usage": "此处指路边的排水设施，作动词时意为“排空，流干”"
+        }
+      ]
+    },
+    {
+      "word": "sleeve",
+      "phonetic": "/sliːv/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "袖子",
+          "usage": "指衣服的袖子部分，常见搭配roll up sleeves意为“卷起袖子，准备大干”"
+        }
+      ]
+    },
+    {
+      "word": "grease",
+      "phonetic": "/ɡriːs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "油脂，润滑剂",
+          "usage": "指用作润滑的油脂，也可指烹饪产生的油脂"
+        }
+      ]
+    },
+    {
+      "word": "reward",
+      "phonetic": "/rɪˈwɔːd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "奖励，奖赏",
+          "usage": "常用搭配reward sb with sth，意为“用某物奖励某人”"
+        }
+      ]
+    },
+    {
+      "word": "rattle",
+      "phonetic": "/ˈrætl/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "发出咯咯声，咔嗒作响",
+          "usage": "此处指硬币在存钱罐里碰撞发出声响"
+        }
+      ]
+    },
+    {
+      "word": "extra",
+      "phonetic": "/ˈekstrə/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "额外的，附加的",
+          "usage": "用于修饰名词，表示超出常规的部分"
+        }
+      ]
+    },
+    {
+      "word": "sum",
+      "phonetic": "/sʌm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "金额，款项；总和",
+          "usage": "表示一笔钱时，常用small/large sum来描述金额大小"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "worth of",
+      "usage": "表示“价值……的东西”，前面加金额，后面接名词，说明价值对应的物品",
+      "examples": [
+        {
+          "en": "I bought ten dollars' worth of snacks for the picnic.",
+          "zh": "我买了价值十美元的零食用于野餐。"
+        },
+        {
+          "en": "He gave me two yuan worth of stamps.",
+          "zh": "他给了我价值两元的邮票。"
+        }
+      ]
+    },
+    {
+      "phrase": "go a long way",
+      "usage": "表示（钱、物品等）可以用很长时间，很经花；也可表示“大有帮助”",
+      "examples": [
+        {
+          "en": "A little kindness will go a long way when you meet people in trouble.",
+          "zh": "当你遇到有困难的人时，一点善意会帮上大忙。"
+        },
+        {
+          "en": "If you are careful, this bottle of milk will go a long way.",
+          "zh": "如果你省着点用，这瓶牛奶可以喝很久。"
+        }
+      ]
+    },
+    {
+      "phrase": "exchange for",
+      "usage": "表示“把……兑换成/换成……”，用于物品或货币的交换",
+      "examples": [
+        {
+          "en": "You can exchange your leftover foreign currency for local money at the airport.",
+          "zh": "你可以在机场把剩下的外币兑换成当地货币。"
+        },
+        {
+          "en": "He exchanged his old phone for a new one by paying extra money.",
+          "zh": "他补了差价，把旧手机换成了新的。"
+        }
+      ]
+    },
+    {
+      "phrase": "find one's way to/into",
+      "usage": "表示“偶然到达，最终进入”，主语常是物，暗含“不经意间去到某个地方”的含义",
+      "examples": [
+        {
+          "en": "Many of the books I bought never found their way to the bookshelf; they just stayed on my desk.",
+          "zh": "我买的很多书从来没被放到书架上，就一直摆在我的书桌上。"
+        },
+        {
+          "en": "The lost key finally found its way into my jacket pocket.",
+          "zh": "那把丢失的钥匙最后居然在我夹克口袋里找到了。"
+        }
+      ]
+    },
+    {
+      "phrase": "roll up sleeves",
+      "usage": "字面意思是卷起袖子，常引申为“准备动手干活，准备大干一场”",
+      "examples": [
+        {
+          "en": "After finishing the plan, we rolled up our sleeves and started the project.",
+          "zh": "完成计划后，我们撸起袖子开始做这个项目。"
+        },
+        {
+          "en": "Roll up your sleeves; we have a lot of dishes to wash today.",
+          "zh": "准备干活吧，我们今天有好多盘子要洗。"
+        }
+      ]
+    },
+    {
+      "phrase": "what is more",
+      "usage": "插入语，意为“而且，更重要的是”，用于补充说明更严重或更重要的情况",
+      "examples": [
+        {
+          "en": "It's difficult to finish this task in one day, and what is more, we don't have enough tools.",
+          "zh": "一天内完成这个任务很难，而且我们还没有足够的工具。"
+        },
+        {
+          "en": "The hotel is not comfortable, and what is more, it's far from the city center.",
+          "zh": "这家酒店住起来不舒服，而且离市中心还很远。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "一般现在时表客观事实和普遍规律",
+      "definition": "用于描述不受时间限制的客观真理、普遍存在的事实或者经常性的习惯动作",
+      "structure": "主语 + 动词原形/动词第三人称单数形式 + 其他",
+      "usage": "当描述大众普遍认可的规律、常态情况时，不管上下文其他时态，都用一般现在时",
+      "examples": [
+        {
+          "en": "Children always appreciate small gifts of money.",
+          "zh": "孩子们总是喜欢得到一些小额零花钱作为礼物。"
+        },
+        {
+          "en": "The earth moves around the sun.",
+          "zh": "地球绕着太阳转。"
+        }
+      ]
+    },
+    {
+      "title": "because引导的原因状语从句",
+      "definition": "用来解释主句动作发生的原因，是最常用的原因状语从句引导词",
+      "structure": "主句 + because + 从句，或者Because + 从句, + 主句",
+      "usage": "可以用来回答why提出的问题，从句说明直接、明确的原因",
+      "examples": [
+        {
+          "en": "George was not too upset by his experience because the lady who owns the sweet shop heard about his troubles and rewarded him with a large box of chocolates.",
+          "zh": "乔治对这次经历并没有太难过，因为糖果店的女老板听说了他遇到的麻烦，奖励了他一大盒巧克力。"
+        },
+        {
+          "en": "I stayed at home yesterday because it was raining heavily.",
+          "zh": "我昨天待在家里，因为当时雨下得很大。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "A is a small price to pay for B.",
+      "original": {
+        "en": "For most of them, fifty pence is a small price to pay for a nice big bar of chocolate.",
+        "zh": "对他们中的大多数人来说，花50便士买一大块好吃的巧克力是很值的。"
+      },
+      "imitations": [
+        {
+          "en": "For many students, two hours' study every day is a small price to pay for a good score in the exam.",
+          "zh": "对很多学生来说，每天学习两小时，用来换取考试的好成绩是很划算的。"
+        },
+        {
+          "en": "I think getting up early is a small price to pay for the beautiful sunrise on the mountain.",
+          "zh": "我觉得为了看山上美丽的日出，早起一点是完全值得的。"
+        }
+      ]
+    },
+    {
+      "pattern": "Instead, sb did sth.",
+      "original": {
+        "en": "I gave him fifty pence yesterday and advised him to save it. Instead, he bought himself fifty pence worth of trouble.",
+        "zh": "我昨天给了他50便士，劝他存起来。可他却用这50便士给自己买了麻烦。"
+      },
+      "imitations": [
+        {
+          "en": "My mom told me to finish my homework first. Instead, I played computer games for three hours.",
+          "zh": "我妈妈让我先写完作业。我反而玩了三个小时的电脑游戏。"
+        },
+        {
+          "en": "The doctor advised him to stop drinking alcohol. Instead, he drank even more than before.",
+          "zh": "医生建议他戒酒。他反而喝得比以前更多了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Sb did sth, and what is more, sb could not do sth.",
+      "original": {
+        "en": "He could not find his 50 pence piece anywhere, and what is more, he could not get his arm out.",
+        "zh": "他到处都找不到那50便士，而且他的胳膊还拔不出来了。"
+      },
+      "imitations": [
+        {
+          "en": "He missed the last bus home, and what is more, he forgot to take his house key with him.",
+          "zh": "他错过了回家的末班车，而且他还忘带家门钥匙了。"
+        },
+        {
+          "en": "The team lost the important match, and what is more, their best player got injured during the game.",
+          "zh": "球队输掉了这场重要的比赛，而且他们最好的球员还在比赛中受了伤。"
+        }
+      ]
+    }
+  ]
+}

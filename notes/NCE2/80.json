@@ -1,0 +1,394 @@
+{
+  "book": "NCE2",
+  "lesson": "80",
+  "title": "How many people visited the Great Exhibition of 1851?",
+  "vocabulary": [
+    {
+      "word": "extraordinary",
+      "phonetic": "/ɪkˈstrɔːdənəri/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "非凡的；异常的",
+          "usage": "用于描述不寻常、令人惊叹的事物"
+        }
+      ]
+    },
+    {
+      "word": "exhibition",
+      "phonetic": "/ˌeksɪˈbɪʃən/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "展览；展览会",
+          "usage": "指公开展出物品供人参观的活动"
+        }
+      ]
+    },
+    {
+      "word": "machinery",
+      "phonetic": "/məˈʃiːnəri/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "机器；机械（总称）",
+          "usage": "指机器的总称，不可数"
+        }
+      ]
+    },
+    {
+      "word": "profit",
+      "phonetic": "/ˈprɒfɪt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "利润；收益",
+          "usage": "指经济活动中获得的利益"
+        }
+      ]
+    },
+    {
+      "word": "various",
+      "phonetic": "/ˈveəriəs/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "各种各样的；不同的",
+          "usage": "修饰可数名词，表示多样性"
+        }
+      ]
+    },
+    {
+      "word": "display",
+      "phonetic": "/dɪˈspleɪ/",
+      "meanings": [
+        {
+          "pos": "noun/verb",
+          "meaning": "展览；显示",
+          "usage": "作名词时指展示；作动词时指展示或显示"
+        }
+      ]
+    },
+    {
+      "word": "carry",
+      "phonetic": "/ˈkæri/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "携带；运送",
+          "usage": "指用交通工具运输人或物"
+        }
+      ]
+    },
+    {
+      "word": "across",
+      "phonetic": "/əˈkrɒs/",
+      "meanings": [
+        {
+          "pos": "prep/adv",
+          "meaning": "穿过；横跨",
+          "usage": "表示从一边到另一边的动作"
+        }
+      ]
+    },
+    {
+      "word": "move",
+      "phonetic": "/muːv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "移动；搬迁",
+          "usage": "指将某物从一地移到另一地"
+        }
+      ]
+    },
+    {
+      "word": "remain",
+      "phonetic": "/rɪˈmeɪn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "保持；仍然是",
+          "usage": "指持续保持某种状态"
+        }
+      ]
+    },
+    {
+      "word": "burnt",
+      "phonetic": "/bɜːnt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "燃烧（burn的过去式/过去分词）",
+          "usage": "burnt down表示被烧毁"
+        }
+      ]
+    },
+    {
+      "word": "college",
+      "phonetic": "/ˈkɒlɪdʒ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "学院；专科学校",
+          "usage": "指高等教育机构"
+        }
+      ]
+    },
+    {
+      "word": "wonderful",
+      "phonetic": "/ˈwʌndəfəl/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "精彩的；奇妙的",
+          "usage": "用于形容令人愉悦或惊叹的事物"
+        }
+      ]
+    },
+    {
+      "word": "steam",
+      "phonetic": "/stiːm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "蒸汽",
+          "usage": "指水沸腾产生的蒸气"
+        }
+      ]
+    },
+    {
+      "word": "channel",
+      "phonetic": "/ˈtʃænəl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "海峡；频道",
+          "usage": "Channel指英吉利海峡"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "made of",
+      "usage": "由...制成（看得出原材料）",
+      "examples": [
+        {
+          "en": "The Crystal Palace was made of iron and glass.",
+          "zh": "水晶宫由铁和玻璃建成。"
+        }
+      ]
+    },
+    {
+      "phrase": "a great many",
+      "usage": "许多；大量（修饰可数名词）",
+      "examples": [
+        {
+          "en": "A great many goods were sent to the exhibition.",
+          "zh": "大量商品被送往展览会展出。"
+        }
+      ]
+    },
+    {
+      "phrase": "in all",
+      "usage": "总共；合计",
+      "examples": [
+        {
+          "en": "There were six million visitors in all.",
+          "zh": "总共有六百万参观者。"
+        }
+      ]
+    },
+    {
+      "phrase": "carry...across",
+      "usage": "把...运送穿过...",
+      "examples": [
+        {
+          "en": "Steam boats carried thousands of visitors across the Channel.",
+          "zh": "汽船把成千上万的游客运送过英吉利海峡。"
+        }
+      ]
+    },
+    {
+      "phrase": "on arriving",
+      "usage": "一到达...就...（时间状语）",
+      "examples": [
+        {
+          "en": "On arriving in England, they were taken to the Crystal Palace.",
+          "zh": "一到英国，他们就被带到水晶宫。"
+        }
+      ]
+    },
+    {
+      "phrase": "used to",
+      "usage": "被用来做...（表示用途）",
+      "examples": [
+        {
+          "en": "The profits were used to build museums and colleges.",
+          "zh": "展览的利润用来建造博物馆和学院。"
+        }
+      ]
+    },
+    {
+      "phrase": "burnt down",
+      "usage": "烧毁；被烧成废墟",
+      "examples": [
+        {
+          "en": "It was burnt down in 1936.",
+          "zh": "它在1936年被烧毁。"
+        }
+      ]
+    },
+    {
+      "phrase": "different from",
+      "usage": "与...不同",
+      "examples": [
+        {
+          "en": "The Crystal Palace was different from all other buildings.",
+          "zh": "水晶宫不同于所有其他建筑。"
+        }
+      ]
+    },
+    {
+      "phrase": "a great deal of",
+      "usage": "大量；许多（修饰不可数名词）",
+      "examples": [
+        {
+          "en": "There was also a great deal of machinery on display.",
+          "zh": "还有大量机器展出。"
+        }
+      ]
+    },
+    {
+      "phrase": "as...as",
+      "usage": "和...一样（用于比较）",
+      "examples": [
+        {
+          "en": "travelling was not as easy as it is today",
+          "zh": "旅行不像今天这样方便"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "被动语态（一般过去时）",
+      "definition": "表示主语是动作的承受者，谓语用be+过去分词形式",
+      "structure": "主语 + was/were + 过去分词 + (by + 施动者)",
+      "usage": "当强调动作承受者或不知道动作执行者时使用被动语态",
+      "examples": [
+        {
+          "en": "The Crystal Palace was built in Hyde Park.",
+          "zh": "水晶宫建在海德公园。"
+        },
+        {
+          "en": "A great many goods were sent to the exhibition.",
+          "zh": "大量商品被送往展览会。"
+        },
+        {
+          "en": "They were taken to the Crystal Palace by train.",
+          "zh": "他们乘火车被带到水晶宫。"
+        }
+      ]
+    },
+    {
+      "title": "让步状语从句",
+      "definition": "表示虽然/尽管某种相反的情况存在",
+      "structure": "Though/Although + 主语 + 动词，主句",
+      "usage": "用来引出让步或对比的情况",
+      "examples": [
+        {
+          "en": "Though in those days travelling was not as easy as it is today, steam boats carried thousands of visitors.",
+          "zh": "虽然那时候旅行不像今天这样方便，汽船还是运送了成千上万的游客。"
+        }
+      ]
+    },
+    {
+      "title": "There be 句型的过去时",
+      "definition": "表示过去某地存在某人或某物",
+      "structure": "There was/were + 主语 + 地点/时间",
+      "usage": "描述过去存在的状态",
+      "examples": [
+        {
+          "en": "There was also a great deal of machinery on display.",
+          "zh": "还有大量机器展出。"
+        },
+        {
+          "en": "There were six million visitors in all.",
+          "zh": "总共有六百万参观者。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "主语 + was/were + 过去分词 + 地点/时间",
+      "original": {
+        "en": "The Crystal Palace was built in Hyde Park for the Great Exhibition of 1851.",
+        "zh": "水晶宫建在海德公园，用于1851年的世博会。"
+      },
+      "imitations": [
+        {
+          "en": "The museum was built in 1990.",
+          "zh": "这座博物馆建于1990年。"
+        },
+        {
+          "en": "Many schools were built in this area.",
+          "zh": "这个地区建了很多学校。"
+        }
+      ]
+    },
+    {
+      "pattern": "There were/was + 数量 + 主语 + in all",
+      "original": {
+        "en": "There were six million visitors in all.",
+        "zh": "总共有六百万参观者。"
+      },
+      "imitations": [
+        {
+          "en": "There were 500 students in this school in all.",
+          "zh": "这所学校总共有500名学生。"
+        },
+        {
+          "en": "There was a lot of food in the restaurant.",
+          "zh": "餐厅里有很多食物。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + was/were + used to + 动词原形",
+      "original": {
+        "en": "The profits were used to build museums and colleges.",
+        "zh": "展览的利润用来建造博物馆和学院。"
+      },
+      "imitations": [
+        {
+          "en": "The money was used to help the poor.",
+          "zh": "这笔钱用来帮助穷人。"
+        },
+        {
+          "en": "This room is used to hold meetings.",
+          "zh": "这个房间用来开会。"
+        }
+      ]
+    },
+    {
+      "pattern": "Though + 主语 + 动词, 主语 + 动词",
+      "original": {
+        "en": "Though in those days travelling was not as easy as it is today, steam boats carried thousands of visitors across the Channel.",
+        "zh": "虽然那时候旅行不像今天这样方便，汽船还是运送了成千上万的游客穿过英吉利海峡。"
+      },
+      "imitations": [
+        {
+          "en": "Though it was raining, we still went out.",
+          "zh": "虽然下雨了，我们还是出去了。"
+        },
+        {
+          "en": "Though she was tired, she continued working.",
+          "zh": "虽然她累了，她继续工作。"
+        }
+      ]
+    }
+  ]
+}

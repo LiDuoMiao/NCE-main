@@ -1,0 +1,402 @@
+{
+  "book": "NCE1",
+  "lesson": "043-044",
+  "title": "Lesson 43",
+  "vocabulary": [
+    {
+      "word": "hurry",
+      "phonetic": "/ˈhʌri/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "匆忙，赶紧",
+          "usage": "常与up连用，表示催促某人快点"
+        }
+      ]
+    },
+    {
+      "word": "kettle",
+      "phonetic": "/ˈketl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "水壶，锅炉",
+          "usage": "烧水用的容器，常用于泡茶"
+        }
+      ]
+    },
+    {
+      "word": "teapot",
+      "phonetic": "/ˈtiːpɒt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "茶壶",
+          "usage": "盛放茶叶并泡茶的容器"
+        }
+      ]
+    },
+    {
+      "word": "cupboard",
+      "phonetic": "/ˈkʌbəd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "碗柜，橱柜",
+          "usage": "存放餐具和食物的家具"
+        }
+      ]
+    },
+    {
+      "word": "behind",
+      "phonetic": "/bɪˈhaɪnd/",
+      "meanings": [
+        {
+          "pos": "preposition",
+          "meaning": "在...后面",
+          "usage": "表示位置，在某物的背面"
+        }
+      ]
+    },
+    {
+      "word": "in front of",
+      "phonetic": "/ɪn frʌnt əv/",
+      "meanings": [
+        {
+          "pos": "preposition phrase",
+          "meaning": "在...前面",
+          "usage": "表示位置，在某物的前方"
+        }
+      ]
+    },
+    {
+      "word": "boil",
+      "phonetic": "/bɔɪl/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "沸腾，烧开",
+          "usage": "水加热到100度的过程，用于泡茶"
+        }
+      ]
+    },
+    {
+      "word": "find",
+      "phonetic": "/faɪnd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "找到，发现",
+          "usage": "寻找并发现某物"
+        }
+      ]
+    },
+    {
+      "word": "over there",
+      "phonetic": "/ˈəʊvə ðeə/",
+      "meanings": [
+        {
+          "pos": "adverb phrase",
+          "meaning": "在那边",
+          "usage": "指示远处某物的位置"
+        }
+      ]
+    },
+    {
+      "word": "some",
+      "phonetic": "/sʌm/",
+      "meanings": [
+        {
+          "pos": "determiner",
+          "meaning": "一些",
+          "usage": "用于肯定句中修饰可数或不可数名词"
+        }
+      ]
+    },
+    {
+      "word": "any",
+      "phonetic": "/ˈeni/",
+      "meanings": [
+        {
+          "pos": "determiner",
+          "meaning": "一些，任何",
+          "usage": "用于疑问句和否定句中"
+        }
+      ]
+    },
+    {
+      "word": "there",
+      "phonetic": "/ðeə/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "在那里，那边",
+          "usage": "表示位置，与be动词连用表示存在"
+        }
+      ]
+    },
+    {
+      "word": "make",
+      "phonetic": "/meɪk/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "制作，做",
+          "usage": "make tea 泡茶"
+        }
+      ]
+    },
+    {
+      "word": "of course",
+      "phonetic": "/əv kɔːs/",
+      "meanings": [
+        {
+          "pos": "adverb phrase",
+          "meaning": "当然",
+          "usage": "表示肯定的回答"
+        }
+      ]
+    },
+    {
+      "word": "water",
+      "phonetic": "/ˈwɔːtə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "水",
+          "usage": "make tea需要用水烧开"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Hurry up!",
+      "usage": "催促某人快点行动",
+      "examples": [
+        {
+          "en": "Hurry up, Sam! The kettle's boiling!",
+          "zh": "快点，萨姆！水开了！"
+        }
+      ]
+    },
+    {
+      "phrase": "Can you...?",
+      "usage": "询问某人是否能够做某事",
+      "examples": [
+        {
+          "en": "Can you make the tea, Sam?",
+          "zh": "你会泡茶吗，萨姆？"
+        }
+      ]
+    },
+    {
+      "phrase": "Is there any...?",
+      "usage": "询问某处是否有某物",
+      "examples": [
+        {
+          "en": "Is there any water in this kettle?",
+          "zh": "这个水壶里有水吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "Where's the...?",
+      "usage": "询问某物的位置",
+      "examples": [
+        {
+          "en": "Where's the tea?",
+          "zh": "茶叶在哪里？"
+        }
+      ]
+    },
+    {
+      "phrase": "There it is!",
+      "usage": "发现某物时的表达",
+      "examples": [
+        {
+          "en": "There it is! It's in front of you!",
+          "zh": "在那儿！就在你前面！"
+        }
+      ]
+    },
+    {
+      "phrase": "It's over there",
+      "usage": "指出远处某物的位置",
+      "examples": [
+        {
+          "en": "It's over there, behind the teapot.",
+          "zh": "在那边，茶壶后面。"
+        }
+      ]
+    },
+    {
+      "phrase": "Yes, of course",
+      "usage": "肯定地回答，表示当然可以",
+      "examples": [
+        {
+          "en": "Yes, of course I can, Penny.",
+          "zh": "当然可以，彭妮。"
+        }
+      ]
+    },
+    {
+      "phrase": "Can you see it?",
+      "usage": "询问对方是否能看见某物",
+      "examples": [
+        {
+          "en": "Can you see it?",
+          "zh": "你能看见吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "There are some in the cupboard",
+      "usage": "表示某处有一些东西",
+      "examples": [
+        {
+          "en": "There are some in the cupboard.",
+          "zh": "橱柜里有一些。"
+        }
+      ]
+    },
+    {
+      "phrase": "behind the teapot",
+      "usage": "表示在茶壶后面",
+      "examples": [
+        {
+          "en": "It's behind the teapot.",
+          "zh": "它在茶壶后面。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Can表示能力 (Can for Ability)",
+      "definition": "can用于表达某人做某事的能力或可能性",
+      "structure": "Can + 主语 + 动词原形?",
+      "usage": "用于询问或陈述某人是否会做某事，否定形式为cannot或can't",
+      "examples": [
+        {
+          "en": "Can you make the tea, Sam?",
+          "zh": "你会泡茶吗，萨姆？"
+        },
+        {
+          "en": "Yes, of course I can.",
+          "zh": "当然会。"
+        },
+        {
+          "en": "I can see the teapot, but I can't see the tea.",
+          "zh": "我能看见茶壶，但看不见茶叶。"
+        }
+      ]
+    },
+    {
+      "title": "There is/There are 表示存在",
+      "definition": "用there is/there are来表示某处存在某物",
+      "structure": "There is + 单数名词/不可数名词 + 地点; There are + 复数名词 + 地点",
+      "usage": "用于描述某处有什么东西，some用于肯定句，any用于疑问句和否定句",
+      "examples": [
+        {
+          "en": "Is there any water in this kettle?",
+          "zh": "这个水壶里有水吗？"
+        },
+        {
+          "en": "Yes, there is.",
+          "zh": "有的。"
+        },
+        {
+          "en": "There are some in the cupboard.",
+          "zh": "橱柜里有一些。"
+        }
+      ]
+    },
+    {
+      "title": "方位介词 (Prepositions of Place)",
+      "definition": "表示位置关系的介词或介词短语",
+      "structure": "behind/in front of/over there + 名词",
+      "usage": "behind表示在后面，in front of表示在前面，over there表示在那边",
+      "examples": [
+        {
+          "en": "It's over there, behind the teapot.",
+          "zh": "在那边，茶壶后面。"
+        },
+        {
+          "en": "It's in front of you!",
+          "zh": "就在你前面！"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Can you...?",
+      "original": {
+        "en": "Can you make the tea, Sam?",
+        "zh": "你会泡茶吗，萨姆？"
+      },
+      "imitations": [
+        {
+          "en": "Can you find them?",
+          "zh": "你能找到它们吗？"
+        },
+        {
+          "en": "Can you see it?",
+          "zh": "你能看见吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "Is there any + 不可数名词/可数名词复数?",
+      "original": {
+        "en": "Is there any water in this kettle?",
+        "zh": "这个水壶里有水吗？"
+      },
+      "imitations": [
+        {
+          "en": "Is there any tea in the pot?",
+          "zh": "茶壶里有茶吗？"
+        },
+        {
+          "en": "Is there any milk in the fridge?",
+          "zh": "冰箱里有牛奶吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "Where is/are + 主语?",
+      "original": {
+        "en": "Where's the tea?",
+        "zh": "茶叶在哪里？"
+      },
+      "imitations": [
+        {
+          "en": "Where are the cups?",
+          "zh": "杯子在哪里？"
+        },
+        {
+          "en": "Where is my book?",
+          "zh": "我的书在哪里？"
+        }
+      ]
+    },
+    {
+      "pattern": "There is/are + 主语 + 地点",
+      "original": {
+        "en": "There are some in the cupboard.",
+        "zh": "橱柜里有一些。"
+      },
+      "imitations": [
+        {
+          "en": "There is a cup on the table.",
+          "zh": "桌上有一个杯子。"
+        },
+        {
+          "en": "There are some books on the shelf.",
+          "zh": "书架上有很多书。"
+        }
+      ]
+    }
+  ]
+}

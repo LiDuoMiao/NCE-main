@@ -1,0 +1,422 @@
+{
+  "book": "NCE4",
+  "lesson": "29",
+  "title": "Lesson 29",
+  "vocabulary": [
+    {
+      "word": "hovercraft",
+      "phonetic": "/ˈhɒvəkrɑːft/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "气垫船",
+          "usage": "可数名词，单复数同形，指依靠气垫支撑航行的交通工具"
+        }
+      ]
+    },
+    {
+      "word": "transport",
+      "phonetic": "/ˈtrænspɔːt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "交通工具；运输系统",
+          "usage": "表示“交通工具/运输方式”时为不可数名词"
+        },
+        {
+          "pos": "verb",
+          "meaning": "运输，运送",
+          "usage": "指通过交通工具运送人或货物"
+        }
+      ]
+    },
+    {
+      "word": "former",
+      "phonetic": "/ˈfɔːmə(r)/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "从前的，前任的",
+          "usage": "仅用于名词前，修饰名词表示该身份已经不存在"
+        }
+      ]
+    },
+    {
+      "word": "electronics",
+      "phonetic": "/ɪˌlekˈtrɒnɪks/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "电子学；电子器件",
+          "usage": "作为学科时为不可数名词，作“电子器件”时常用复数形式"
+        }
+      ]
+    },
+    {
+      "word": "industrial",
+      "phonetic": "/ɪnˈdʌstriəl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "工业的，产业的",
+          "usage": "多用于修饰和工业生产、行业相关的名词，如industrial circles工业界"
+        }
+      ]
+    },
+    {
+      "word": "cushion",
+      "phonetic": "/ˈkʊʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "垫子；气垫",
+          "usage": "文中指支撑气垫船的空气垫，也可指日常的坐垫、靠垫"
+        }
+      ]
+    },
+    {
+      "word": "vehicle",
+      "phonetic": "/ˈviːəkl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "交通工具，车辆",
+          "usage": "泛指各类陆上、水上、空中的运载工具，为可数名词"
+        }
+      ]
+    },
+    {
+      "word": "resistance",
+      "phonetic": "/rɪˈzɪstəns/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "阻力；抵抗",
+          "usage": "表示物理意义上的阻力时为不可数名词，wave resistance即波浪阻力"
+        }
+      ]
+    },
+    {
+      "word": "vessel",
+      "phonetic": "/ˈvesl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "船，舰；容器",
+          "usage": "正式用语，指代各类水上船只，也可指盛放物品的容器"
+        }
+      ]
+    },
+    {
+      "word": "jet",
+      "phonetic": "/dʒet/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "喷嘴；喷气式飞机",
+          "usage": "文中air jet指喷气口，也可指代喷气式飞行器"
+        }
+      ]
+    },
+    {
+      "word": "sensation",
+      "phonetic": "/senˈseɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "轰动；感觉",
+          "usage": "cause a sensation为固定搭配，指引起轰动"
+        }
+      ]
+    },
+    {
+      "word": "mount",
+      "phonetic": "/maʊnt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "登上，爬上；安装",
+          "usage": "文中指气垫船驶上海滩，也可表示安装设备、登上山峰等含义"
+        }
+      ]
+    },
+    {
+      "word": "dune",
+      "phonetic": "/djuːn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "沙丘",
+          "usage": "可数名词，常指海边或沙漠里由沙子堆积形成的丘状地貌"
+        }
+      ]
+    },
+    {
+      "word": "plantation",
+      "phonetic": "/plɑːnˈteɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "种植园，大农场",
+          "usage": "多指热带地区大规模种植经济作物的农场，如香蕉种植园、橡胶种植园"
+        }
+      ]
+    },
+    {
+      "word": "liner",
+      "phonetic": "/ˈlaɪnə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "大型客轮，邮轮；衬里",
+          "usage": "文中hovercraft liner指气垫客轮，也可指衣物等的内衬"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "turn to",
+      "usage": "表示“转向，开始从事（新的工作、行业）”，后接名词或动名词",
+      "examples": [
+        {
+          "en": "He had turned to boat-building on the Norfolk Broads.",
+          "zh": "他转而在诺福克湖区从事造船工作。"
+        },
+        {
+          "en": "After graduating from art school, she turned to fashion design.",
+          "zh": "从艺术学校毕业后，她转而从事服装设计工作。"
+        }
+      ]
+    },
+    {
+      "phrase": "have difficulty in doing sth",
+      "usage": "表示“做某事有困难”，介词in可以省略",
+      "examples": [
+        {
+          "en": "Ever since, people have had difficulty in deciding whether the craft should be ranged among ships, planes, or land vehicles.",
+          "zh": "从那以后，人们一直难以决定这种交通工具到底应该归为船舶、飞机还是陆上车辆。"
+        },
+        {
+          "en": "Many beginners have difficulty in pronouncing English words correctly.",
+          "zh": "很多初学者在正确发英语单词的音方面有困难。"
+        }
+      ]
+    },
+    {
+      "phrase": "range among",
+      "usage": "表示“把……归入、划分到某一类中”，常用于被动语态",
+      "examples": [
+        {
+          "en": "People can not decide whether the craft should be ranged among ships, planes, or land vehicles.",
+          "zh": "人们无法决定这种载具是否应该被归为船舶、飞机或者陆上车辆。"
+        },
+        {
+          "en": "This new type of mobile device is usually ranged among portable computers.",
+          "zh": "这种新型移动设备通常被归为便携式电脑一类。"
+        }
+      ]
+    },
+    {
+      "phrase": "in between",
+      "usage": "表示“介于……之间”，可作介词短语或表语，说明两种事物的中间状态",
+      "examples": [
+        {
+          "en": "For it is something in between a boat and an aircraft.",
+          "zh": "因为它是介于船和飞机之间的一种东西。"
+        },
+        {
+          "en": "The answer is neither yes nor no, it's somewhere in between.",
+          "zh": "答案既不是肯定也不是否定，而是介于两者之间。"
+        }
+      ]
+    },
+    {
+      "phrase": "a good deal of",
+      "usage": "表示“大量的，许多的”，仅用于修饰不可数名词",
+      "examples": [
+        {
+          "en": "Wave resistance wastes a good deal of a surface ship's power and limits its speed.",
+          "zh": "波浪阻力会浪费水面船舶大量的动力，还会限制它的速度。"
+        },
+        {
+          "en": "The project took a good deal of time and effort before it was completed.",
+          "zh": "这个项目花费了大量时间和精力才完成。"
+        }
+      ]
+    },
+    {
+      "phrase": "no more than",
+      "usage": "表示“仅仅，不超过”，强调数量少或程度低",
+      "examples": [
+        {
+          "en": "His answer was to lift the vessel out of the water by making it ride on a cushion of air, no more than one or two feet thick.",
+          "zh": "他的解决方案是让船只浮在不超过一两英尺厚的气垫上，从而脱离水面。"
+        },
+        {
+          "en": "The whole process takes no more than 10 minutes for an experienced worker.",
+          "zh": "对于有经验的工人来说，整个过程只需要不超过10分钟。"
+        }
+      ]
+    },
+    {
+      "phrase": "depend on",
+      "usage": "表示“取决于，依靠”，后接名词或名词性结构，说明事物的决定因素",
+      "examples": [
+        {
+          "en": "Its action depends on the surface, water or ground, over which it rides.",
+          "zh": "它的运行取决于它所行驶的表面，无论是水面还是地面。"
+        },
+        {
+          "en": "The success of the activity depends on the weather and the number of participants.",
+          "zh": "这次活动的成功取决于天气和参与人数。"
+        }
+      ]
+    },
+    {
+      "phrase": "cause a sensation",
+      "usage": "表示“引起轰动，造成轰动效应”，主语通常是新奇的事物或事件",
+      "examples": [
+        {
+          "en": "The first tests on the Solent in 1959 caused a sensation.",
+          "zh": "1959年在索伦特海峡进行的首次测试引起了轰动。"
+        },
+        {
+          "en": "The young artist's first exhibition in the city caused a sensation.",
+          "zh": "这位年轻艺术家在这座城市的首次展览引起了轰动。"
+        }
+      ]
+    },
+    {
+      "phrase": "take up",
+      "usage": "表示“开始从事，承担（某项工作、服务）”，文中指开始提供常规服务",
+      "examples": [
+        {
+          "en": "Since that time, various types of hovercraft have appeared and taken up regular service.",
+          "zh": "从那时起，各种类型的气垫船出现了，并开始提供常规服务。"
+        },
+        {
+          "en": "The new bus route will take up official operation next month.",
+          "zh": "这条新的公交路线将于下月开始正式运营。"
+        }
+      ]
+    },
+    {
+      "phrase": "may well be",
+      "usage": "表示“很可能是，完全可以是”，表达带有肯定倾向的推测",
+      "examples": [
+        {
+          "en": "The railway of the future may well be the 'hovertrain'.",
+          "zh": "未来的铁路很可能就是“气垫火车”。"
+        },
+        {
+          "en": "This discovery may well be the most important breakthrough in the field this year.",
+          "zh": "这一发现很可能是该领域今年最重要的突破。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "独立主格结构",
+      "definition": "由名词/代词 + 非谓语动词/形容词/副词/介词短语构成的结构，在句中作状语，其逻辑主语和主句主语不一致，因此有独立的逻辑主语，多用于书面语",
+      "structure": "名词/代词 + 现在分词/过去分词/不定式/形容词/副词/介词短语",
+      "usage": "常用于补充说明主句的背景、条件、原因等信息，使句子结构更紧凑，避免重复使用从句",
+      "examples": [
+        {
+          "en": "Many strange new means of transport have been developed in our century, the strangest of them being perhaps the hovercraft.",
+          "zh": "本世纪已研制出许多新奇的交通工具，其中最奇怪的可能要数气垫船了。"
+        },
+        {
+          "en": "The test finished, we began to analyze the collected data.",
+          "zh": "测试结束后，我们开始分析收集到的数据。"
+        }
+      ]
+    },
+    {
+      "title": "定语从句的分隔现象",
+      "definition": "定语从句通常直接跟在先行词之后，但有时为了平衡句子结构，会把定语从句和先行词用其他成分（如状语、谓语等）隔开，这种情况就是定语从句的分隔现象",
+      "structure": "先行词 + 其他插入成分 + 关系代词/关系副词引导的定语从句",
+      "usage": "当先行词后面的定语从句过长，而主句谓语部分较短时，常使用分隔结构避免句子头重脚轻，理解时需要先找准先行词",
+      "examples": [
+        {
+          "en": "In 1953, a former electronics engineer in his fifties, Christopher Cockerell, who had turned to boat-building on the Norfolk Broads, suggested an idea on which he had been working for many years to the British Government and industrial circles.",
+          "zh": "1953年，一位年逾五十、曾从事电子行业的工程师，克里斯托弗·科克雷尔，转而在诺福克湖区从事造船工作，他向英国政府和工业界提出了一项他研究了多年的想法。"
+        },
+        {
+          "en": "A new teacher will come tomorrow who will teach us English literature.",
+          "zh": "明天会来一位新老师，教我们英国文学。"
+        }
+      ]
+    },
+    {
+      "title": "现在分词作伴随状语",
+      "definition": "现在分词和主句主语为主动关系，所表示的动作和主句动作同时发生，补充说明主句动作发生时的伴随情况",
+      "structure": "主句 + 逗号 + 现在分词短语",
+      "usage": "用于简化复合句，使表达更简洁，现在分词的逻辑主语必须和主句主语一致",
+      "examples": [
+        {
+          "en": "It can become a 'flying fruit-bowl', carrying bananas from the plantations to the ports.",
+          "zh": "它可以成为一个“飞行果盘”，把香蕉从种植园运到港口。"
+        },
+        {
+          "en": "The children ran out of the classroom, laughing and talking happily.",
+          "zh": "孩子们跑出教室，开心地说着笑着。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Many + 复数名词 + have been developed in + 某段时间, the + 形容词最高级 + of them being perhaps + 具体事物.",
+      "original": {
+        "en": "Many strange new means of transport have been developed in our century, the strangest of them being perhaps the hovercraft.",
+        "zh": "本世纪已研制出许多新奇的交通工具，其中最奇怪的可能要数气垫船了。"
+      },
+      "imitations": [
+        {
+          "en": "Many new types of digital products have been developed in the past decade, the most popular of them being perhaps the smart watch.",
+          "zh": "过去十年里研发出了许多新型数码产品，其中最受欢迎的可能要数智能手表了。"
+        },
+        {
+          "en": "Many new treatment methods have been developed in the medical field in recent years, the most effective of them being perhaps the new targeted therapy.",
+          "zh": "近年来医学领域研发出了许多新的治疗方法，其中最有效的可能要数新型靶向疗法了。"
+        }
+      ]
+    },
+    {
+      "pattern": "sb was trying to find a solution to the problem of + 问题内容 which + 问题带来的影响.",
+      "original": {
+        "en": "As a shipbuilder, Cockerell was trying to find a solution to the problem of the wave resistance which wastes a good deal of a surface ship's power and limits its speed.",
+        "zh": "作为一名造船师，科克雷尔当时正试图找到解决波浪阻力问题的方案，这种阻力会浪费水面船舶大量的动力，还会限制它的速度。"
+      },
+      "imitations": [
+        {
+          "en": "As an environmental scientist, she is trying to find a solution to the problem of plastic pollution which threatens marine life and pollutes the soil.",
+          "zh": "作为一名环境科学家，她正试图找到解决塑料污染问题的方案，这种污染威胁着海洋生物，还会污染土壤。"
+        },
+        {
+          "en": "As a software engineer, the team leader is trying to find a solution to the problem of system lag which affects user experience and reduces work efficiency.",
+          "zh": "作为一名软件工程师，团队负责人正试图找到解决系统卡顿问题的方案，这种卡顿会影响用户体验，还会降低工作效率。"
+        }
+      ]
+    },
+    {
+      "pattern": "sth is particularly useful in + 适用场景 such as + 举例; it can + 用途1; + 用途2; and + 用途3 -- the possibilities appear unlimited.",
+      "original": {
+        "en": "The hovercraft is particularly useful in large areas with poor communications such as Africa or Australia; it can become a 'flying fruit-bowl', carrying bananas from the plantations to the ports; giant hovercraft liners could span the Atlantic; and the railway of the future may well be the 'hovertrain', riding on its air cushion over a single rail, which it never touches, at speeds, up to 300 m.p.h.--the possibilities appear unlimited.",
+        "zh": "气垫船在非洲、澳大利亚等交通不发达的大地区特别有用；它可以成为“飞行果盘”，把香蕉从种植园运到港口；大型气垫客轮可以横渡大西洋；未来的铁路很可能是“气垫火车”，依靠气垫在单轨上行驶，不会接触轨道，时速可达300英里——其可能性似乎是无限的。"
+      },
+      "imitations": [
+        {
+          "en": "The portable solar charger is particularly useful in outdoor areas without power supply such as mountainous regions or deserts; it can charge mobile phones and cameras for travellers; it can provide electricity for camping lamps at night; and it can even power small medical equipment in emergency rescue -- the possibilities appear unlimited.",
+          "zh": "便携式太阳能充电器在山区、沙漠等没有供电的户外地区特别有用；它可以为旅行者的手机和相机充电；夜间可以为露营灯供电；在应急救援中甚至可以为小型医疗设备供电——其可能性似乎是无限的。"
+        },
+        {
+          "en": "Artificial intelligence translation tools are particularly useful in cross-cultural communication scenarios such as international conferences or foreign trade negotiations; they can help people who speak different languages communicate smoothly; they can quickly translate a large number of foreign language documents; and they can provide real-time translation services for tourists travelling abroad -- the possibilities appear unlimited.",
+          "zh": "人工智能翻译工具在国际会议、外贸谈判等跨文化交流场景中特别有用；它可以帮助说不同语言的人顺畅沟通；可以快速翻译大量外文文件；还可以为出国旅游的游客提供实时翻译服务——其可能性似乎是无限的。"
+        }
+      ]
+    }
+  ]
+}

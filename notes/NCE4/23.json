@@ -1,0 +1,346 @@
+{
+  "book": "NCE4",
+  "lesson": "23",
+  "title": "Lesson 23",
+  "vocabulary": [
+    {
+      "word": "infinite",
+      "phonetic": "/ˈɪnfɪnət/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "无限的，无穷尽的",
+          "usage": "用来形容数量、种类或范围极大，没有边界或限制"
+        }
+      ]
+    },
+    {
+      "word": "albatross",
+      "phonetic": "/ˈælbətrɒs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "信天翁",
+          "usage": "指一种大型海鸟，翅膀宽大，擅长滑翔飞行"
+        }
+      ]
+    },
+    {
+      "word": "vessel",
+      "phonetic": "/ˈvesl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "船，舰；容器",
+          "usage": "正式用语，可指代大型船只，也可表示盛装液体的容器"
+        }
+      ]
+    },
+    {
+      "word": "immense",
+      "phonetic": "/ɪˈmens/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "巨大的，极大的",
+          "usage": "用来强调尺寸、规模、程度等超乎寻常的大"
+        }
+      ]
+    },
+    {
+      "word": "sustenance",
+      "phonetic": "/ˈsʌstənəns/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "维持；食物，营养",
+          "usage": "可以指维持生命、活动所需的能量或支撑，也可直接指代食物"
+        }
+      ]
+    },
+    {
+      "word": "glider",
+      "phonetic": "/ˈɡlaɪdə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "滑翔机；滑翔动物",
+          "usage": "指依靠气流飞行、自身无需提供动力的飞行器或生物"
+        }
+      ]
+    },
+    {
+      "word": "harness",
+      "phonetic": "/ˈhɑːnɪs/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "控制并利用（自然力）",
+          "usage": "指将自然资源、能量等为己所用，发挥其作用"
+        },
+        {
+          "pos": "noun",
+          "meaning": "马具，挽具",
+          "usage": "指套在牲畜身上用来拉车或农具的装备"
+        }
+      ]
+    },
+    {
+      "word": "yield",
+      "phonetic": "/jiːld/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "屈服，让步；产生，产出",
+          "usage": "作不及物动词时表示屈服于外力；作及物动词时表示产出作物、收益等"
+        }
+      ]
+    },
+    {
+      "word": "supreme",
+      "phonetic": "/suːˈpriːm/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "最高的，至高的；最好的",
+          "usage": "用来形容等级、地位、能力等处于最高水平"
+        }
+      ]
+    },
+    {
+      "word": "endow",
+      "phonetic": "/ɪnˈdaʊ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "赋予（天生的能力或品质）",
+          "usage": "常用被动结构be endowed with，表示天生具有某种特质、能力"
+        }
+      ]
+    },
+    {
+      "word": "ply",
+      "phonetic": "/plaɪ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "不断使用，反复摆动",
+          "usage": "指反复、持续地使用某物或做某个动作"
+        }
+      ]
+    },
+    {
+      "word": "irresistible",
+      "phonetic": "/ˌɪrɪˈzɪstəbl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "不可抗拒的，无法抵挡的",
+          "usage": "形容力量、魅力等强大到让人无法抵抗"
+        }
+      ]
+    },
+    {
+      "word": "gale",
+      "phonetic": "/ɡeɪl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "大风，狂风",
+          "usage": "气象学中特指风力较强的大风，也可引申为突发的喧闹声"
+        }
+      ]
+    },
+    {
+      "word": "propulsion",
+      "phonetic": "/prəˈpʌlʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "推进力，动力",
+          "usage": "指推动物体向前运动的力量"
+        }
+      ]
+    },
+    {
+      "word": "adverse",
+      "phonetic": "/ˈædvɜːs/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "不利的，有害的；相反的",
+          "usage": "用来形容条件、情况对某人或某事有负面影响"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "keep company with",
+      "usage": "表示与某人/某物结伴、陪伴，强调同行的状态",
+      "examples": [
+        {
+          "en": "The dog kept company with the old man every day.",
+          "zh": "这只狗每天都陪着这位老人。"
+        }
+      ]
+    },
+    {
+      "phrase": "yield to",
+      "usage": "表示屈服、让步于某种力量、要求或诱惑，后接宾语",
+      "examples": [
+        {
+          "en": "We should never yield to difficulties no matter how hard they are.",
+          "zh": "无论困难多大，我们都不该向它们屈服。"
+        }
+      ]
+    },
+    {
+      "phrase": "be endowed with",
+      "usage": "被动结构，指天生具有某种优秀的能力、品质或特征",
+      "examples": [
+        {
+          "en": "She is endowed with a beautiful singing voice.",
+          "zh": "她天生有一副好歌喉。"
+        }
+      ]
+    },
+    {
+      "phrase": "in highest measure",
+      "usage": "正式表达，意思是“在最大程度上”，用来强调程度极高",
+      "examples": [
+        {
+          "en": "This new policy has benefited the local people in highest measure.",
+          "zh": "这项新政策最大程度地惠及了当地民众。"
+        }
+      ]
+    },
+    {
+      "phrase": "to and from",
+      "usage": "表示往返于两地之间，用来描述来回的动作",
+      "examples": [
+        {
+          "en": "He commutes to and from the company by subway every day.",
+          "zh": "他每天乘地铁往返于公司和家之间。"
+        }
+      ]
+    },
+    {
+      "phrase": "take omens from",
+      "usage": "表示从某事/某物中获取预兆、征兆，多用于和迷信相关的语境",
+      "examples": [
+        {
+          "en": "In ancient times, people took omens from the movement of stars.",
+          "zh": "古代人们会根据星辰的运行来判断预兆。"
+        }
+      ]
+    },
+    {
+      "phrase": "for long distances",
+      "usage": "表示长距离地，用来修饰表示移动、行进的动词",
+      "examples": [
+        {
+          "en": "Camels can travel for long distances in the desert without drinking water.",
+          "zh": "骆驼可以在沙漠中不喝水行进很长距离。"
+        }
+      ]
+    },
+    {
+      "phrase": "in utter exhaustion",
+      "usage": "表示完全筋疲力尽的状态，用来描述人或动物耗尽体力的样子",
+      "examples": [
+        {
+          "en": "After running the full marathon, he collapsed in utter exhaustion.",
+          "zh": "跑完整个马拉松之后，他筋疲力尽地倒下了。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "非限制性定语从句",
+      "definition": "用来对主句中的某个名词或整个主句进行补充说明，去掉之后不影响主句核心意思的完整，通常和主句之间用逗号隔开",
+      "structure": "主句 + , + which/who/whom/whose + 从句",
+      "usage": "用于补充说明先行词的额外信息，不对先行词起限定、区分的作用",
+      "examples": [
+        {
+          "en": "Any ship that crosses the Pacific is accompanied for many days by the smaller albatross, which may keep company with the vessel for an hour without visible or more than occasional movement of wing.",
+          "zh": "任何横渡太平洋的船只都会一连好多天有小信天翁相伴，这种鸟可以跟着船只飞行一小时，翅膀几乎看不见动，只是偶尔扇动一下。"
+        },
+        {
+          "en": "The book, which I bought last week, is very interesting.",
+          "zh": "这本书我上周买的，非常有意思。"
+        }
+      ]
+    },
+    {
+      "title": "倒装语序",
+      "definition": "将句子的谓语部分或全部谓语提到主语之前的语序，常用于否定词开头的句子中，起到强调的作用",
+      "structure": "否定副词/短语 + 助动词/系动词/情态动词 + 主语 + 谓语剩余部分",
+      "usage": "当never、nor、not only等含有否定意义的词放在句首时，句子需要使用部分倒装结构",
+      "examples": [
+        {
+          "en": "It tires not, nor does it boast of its power.",
+          "zh": "它既不疲惫，也不炫耀自己的力量。"
+        },
+        {
+          "en": "Never have I seen such a beautiful sunset.",
+          "zh": "我从来没见过这么美的日落。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "..., though we no longer...",
+      "original": {
+        "en": "Such birds do us good, though we no longer take omens from their flight on this side and that.",
+        "zh": "这类鸟对我们是有益的，尽管我们不再从它们向不同方向的飞行中占卜预兆了。"
+      },
+      "imitations": [
+        {
+          "en": "Old folk tales are still valuable, though we no longer believe all the stories in them.",
+          "zh": "古老的民间故事仍然有价值，尽管我们不再相信其中所有的内容了。"
+        },
+        {
+          "en": "Handwritten letters are warm, though we no longer send them as often as before.",
+          "zh": "手写信很温暖，尽管我们不再像以前那样频繁寄信了。"
+        }
+      ]
+    },
+    {
+      "pattern": "X is the king of..., the class of... which...",
+      "original": {
+        "en": "The albatross is the king of the gliders, the class of fliers which harness the air to their purpose, but must yield to its opposition.",
+        "zh": "信天翁是滑翔鸟类之王，这类飞禽能够利用气流达到飞行的目的，但也必须顺从气流的阻力。"
+      },
+      "imitations": [
+        {
+          "en": "The tiger is the king of the forest, the group of predators which hunt most large animals in their habitat, but avoid conflicts with adult elephants.",
+          "zh": "老虎是森林之王，这类捕食者能够捕猎栖息地内的大多数大型动物，但会避免和成年大象发生冲突。"
+        },
+        {
+          "en": "Beethoven is the king of classical composers, the group of musicians who created timeless works, but suffered from hearing loss in his later years.",
+          "zh": "贝多芬是古典作曲家中的王者，这类音乐家创作了永恒的作品，但他晚年饱受听力丧失的折磨。"
+        }
+      ]
+    },
+    {
+      "pattern": "X shares the virtues of both A and B in highest measure.",
+      "original": {
+        "en": "The swallow shares the virtues of both schools in highest measure.",
+        "zh": "燕子最大程度地兼具了这两类鸟类的优点。"
+      },
+      "imitations": [
+        {
+          "en": "This new type of electric car shares the virtues of both high speed and low energy consumption in highest measure.",
+          "zh": "这款新型电动汽车最大程度地兼具了高速度和低能耗的优点。"
+        },
+        {
+          "en": "The new manager shares the virtues of both strong leadership and good communication skills in highest measure.",
+          "zh": "这位新经理最大程度地兼具了出色的领导力和优秀的沟通能力这两种优点。"
+        }
+      ]
+    }
+  ]
+}

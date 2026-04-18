@@ -1,0 +1,313 @@
+{
+  "book": "NCE1",
+  "lesson": "023-024",
+  "title": "Lesson 23",
+  "vocabulary": [
+    {
+      "word": "glasses",
+      "phonetic": "/ˈɡlɑːsɪz/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "玻璃杯；杯子",
+          "usage": "复数形式，指杯子而不是眼镜"
+        }
+      ]
+    },
+    {
+      "word": "shelf",
+      "phonetic": "/ʃelf/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "架子；搁板",
+          "usage": "复数形式为shelves"
+        }
+      ]
+    },
+    {
+      "word": "give",
+      "phonetic": "/ɡɪv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "给；给予",
+          "usage": "过去式gave，过去分词given"
+        }
+      ]
+    },
+    {
+      "word": "these",
+      "phonetic": "/ðiːz/",
+      "meanings": [
+        {
+          "pos": "pronoun",
+          "meaning": "这些",
+          "usage": "用于指代离说话人较近的复数事物"
+        }
+      ]
+    },
+    {
+      "word": "those",
+      "phonetic": "/ðəʊz/",
+      "meanings": [
+        {
+          "pos": "pronoun",
+          "meaning": "那些",
+          "usage": "用于指代离说话人较远的复数事物"
+        }
+      ]
+    },
+    {
+      "word": "please",
+      "phonetic": "/pliːz/",
+      "meanings": [
+        {
+          "pos": "interjection",
+          "meaning": "请",
+          "usage": "用于礼貌地提出请求"
+        }
+      ]
+    },
+    {
+      "word": "thanks",
+      "phonetic": "/θæŋks/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "谢谢；感谢",
+          "usage": "表示感谢的礼貌用语"
+        }
+      ]
+    },
+    {
+      "word": "here",
+      "phonetic": "/hɪə/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "这里；在这里",
+          "usage": "表示地点或方向"
+        }
+      ]
+    },
+    {
+      "word": "ones",
+      "phonetic": "/wʌnz/",
+      "meanings": [
+        {
+          "pos": "pronoun",
+          "meaning": "（代指前文提到的复数名词）",
+          "usage": "用于避免重复已说过的名词"
+        }
+      ]
+    },
+    {
+      "word": "which",
+      "phonetic": "/wɪtʃ/",
+      "meanings": [
+        {
+          "pos": "determiner",
+          "meaning": "哪个；哪些",
+          "usage": "用于疑问句中询问特定的人或物"
+        }
+      ]
+    },
+    {
+      "word": "man",
+      "phonetic": "/mæn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "男人；人",
+          "usage": "复数形式为men"
+        }
+      ]
+    },
+    {
+      "word": "want",
+      "phonetic": "/wɒnt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "想要；需要",
+          "usage": "表示愿望或需求"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Give me some glasses please",
+      "usage": "用于礼貌地请求对方递给你一些玻璃杯",
+      "examples": [
+        {
+          "en": "Give me some glasses please, Jane.",
+          "zh": "请给我一些玻璃杯，简。"
+        }
+      ]
+    },
+    {
+      "phrase": "Which glasses?",
+      "usage": "用于询问对方指的是哪一种/哪些玻璃杯",
+      "examples": [
+        {
+          "en": "Which glasses do you want?",
+          "zh": "你想要哪个/哪些玻璃杯？"
+        }
+      ]
+    },
+    {
+      "phrase": "No, not those.",
+      "usage": "用于否定，指不是那些东西",
+      "examples": [
+        {
+          "en": "No, not those. I want the ones on the shelf.",
+          "zh": "不，不是那些。我想要架子上的那些。"
+        }
+      ]
+    },
+    {
+      "phrase": "Here you are.",
+      "usage": "递东西给别人时的常用表达",
+      "examples": [
+        {
+          "en": "Here you are. Thank you.",
+          "zh": "给你。谢谢。"
+        }
+      ]
+    },
+    {
+      "phrase": "The ones on the shelf",
+      "usage": "用于明确指出具体是哪些东西",
+      "examples": [
+        {
+          "en": "I want the ones on the shelf.",
+          "zh": "我想要架子上的那些。"
+        }
+      ]
+    },
+    {
+      "phrase": "Yes, please.",
+      "usage": "接受对方好意时的礼貌回答",
+      "examples": [
+        {
+          "en": "These? Yes, please.",
+          "zh": "这些吗？好的，谢谢。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "指示代词 these 和 those",
+      "definition": "this/these指代离说话人较近的事物，that/those指代离说话人较远的事物",
+      "structure": "These (these glasses) / Those (those glasses)",
+      "usage": "用于区分和指代不同位置的复数事物，在对话中明确所指的是哪些东西",
+      "examples": [
+        {
+          "en": "These glasses? No, not those. The ones on the shelf.",
+          "zh": "这些玻璃杯吗？不，不是那些。是架子上的那些。"
+        }
+      ]
+    },
+    {
+      "title": "代词 one/ones 的用法",
+      "definition": "one用来替代上文出现的单数名词，ones用来替代复数名词，避免重复",
+      "structure": "the + ones + 介词短语/定语从句",
+      "usage": "当需要明确指出是哪些东西时，用the ones加上修饰语来限定",
+      "examples": [
+        {
+          "en": "I want the ones on the shelf.",
+          "zh": "我想要架子上的那些。"
+        }
+      ]
+    },
+    {
+      "title": "Which 引导的特殊疑问句",
+      "definition": "Which用于提问，在一定范围内选择，询问具体是哪一个或哪些",
+      "structure": "Which + 名词 + ...?",
+      "usage": "用于在多个事物中进行选择和确认时使用",
+      "examples": [
+        {
+          "en": "Which glasses does the man want?",
+          "zh": "这个男人想要哪个玻璃杯？"
+        },
+        {
+          "en": "Which books are yours?",
+          "zh": "哪些书是你的？"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Give me some + 复数名词 + please.",
+      "original": {
+        "en": "Give me some glasses please, Jane.",
+        "zh": "请给我一些玻璃杯，简。"
+      },
+      "imitations": [
+        {
+          "en": "Give me some books please.",
+          "zh": "请给我一些书。"
+        },
+        {
+          "en": "Give me some pens please.",
+          "zh": "请给我一些钢笔。"
+        }
+      ]
+    },
+    {
+      "pattern": "Which + 复数名词?",
+      "original": {
+        "en": "Which glasses?",
+        "zh": "哪些玻璃杯？"
+      },
+      "imitations": [
+        {
+          "en": "Which books?",
+          "zh": "哪些书？"
+        },
+        {
+          "en": "Which pictures?",
+          "zh": "哪些图片？"
+        }
+      ]
+    },
+    {
+      "pattern": "The ones + 介词短语/地点",
+      "original": {
+        "en": "The ones on the shelf.",
+        "zh": "架子上的那些。"
+      },
+      "imitations": [
+        {
+          "en": "The ones on the table.",
+          "zh": "桌子上的那些。"
+        },
+        {
+          "en": "The ones in the box.",
+          "zh": "盒子里的那些。"
+        }
+      ]
+    },
+    {
+      "pattern": "Here you are.",
+      "original": {
+        "en": "Here you are.",
+        "zh": "给你。"
+      },
+      "imitations": [
+        {
+          "en": "Here you are. Thanks.",
+          "zh": "给你。谢谢。"
+        },
+        {
+          "en": "Here you are. Much appreciated.",
+          "zh": "给你。非常感谢。"
+        }
+      ]
+    }
+  ]
+}

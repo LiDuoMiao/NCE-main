@@ -1,0 +1,341 @@
+{
+  "book": "NCE3",
+  "lesson": "24",
+  "title": "Lesson 24",
+  "vocabulary": [
+    {
+      "word": "skeleton",
+      "phonetic": "/ˈskelɪtn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "骨骼；骷髅",
+          "usage": "指人或动物的骨骼框架，也可引申为不可告人的秘密"
+        }
+      ]
+    },
+    {
+      "word": "respectable",
+      "phonetic": "/rɪˈspektəbl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "值得尊敬的；体面的",
+          "usage": "用来描述人或家庭品行端正、符合社会道德标准"
+        }
+      ]
+    },
+    {
+      "word": "conceal",
+      "phonetic": "/kənˈsiːl/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "隐藏；隐瞒",
+          "usage": "及物动词，宾语可以是具体物品或抽象的信息、情绪等"
+        }
+      ]
+    },
+    {
+      "word": "vivid",
+      "phonetic": "/ˈvɪvɪd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "生动的；逼真的",
+          "usage": "常用来修饰描述、表达、记忆等，强调形象清晰鲜明"
+        }
+      ]
+    },
+    {
+      "word": "dramatic",
+      "phonetic": "/drəˈmætɪk/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "戏剧性的；激动人心的",
+          "usage": "多用于描述事件、场景充满戏剧张力，有突然或惊人的效果"
+        }
+      ]
+    },
+    {
+      "word": "reputation",
+      "phonetic": "/ˌrepjuˈteɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "名声；声誉",
+          "usage": "指公众对某人/机构的评价，常见搭配ruin/damage one's reputation"
+        }
+      ]
+    },
+    {
+      "word": "heroine",
+      "phonetic": "/ˈherəʊɪn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "女主人公；女英雄",
+          "usage": "对应阳性形式hero，指故事、小说中的女主角或杰出女性"
+        }
+      ]
+    },
+    {
+      "word": "poison",
+      "phonetic": "/ˈpɔɪzn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "下毒；毒死",
+          "usage": "作及物动词时直接接被毒害的对象；也可作名词表示“毒药”"
+        }
+      ]
+    },
+    {
+      "word": "fiction",
+      "phonetic": "/ˈfɪkʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "小说；虚构的事",
+          "usage": "区别于非虚构作品（non-fiction），也可指不真实的事情"
+        }
+      ]
+    },
+    {
+      "word": "stack",
+      "phonetic": "/stæk/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "堆放；摞起",
+          "usage": "指将物品整齐堆叠，也可作名词表示“一堆（物品）”"
+        }
+      ]
+    },
+    {
+      "word": "petrified",
+      "phonetic": "/ˈpetrɪfaɪd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "惊呆的；吓僵的",
+          "usage": "形容人因极度恐惧而无法动弹的状态"
+        }
+      ]
+    },
+    {
+      "word": "dangle",
+      "phonetic": "/ˈdæŋɡl/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "悬挂；晃荡",
+          "usage": "指物体悬垂着来回摆动"
+        }
+      ]
+    },
+    {
+      "word": "sway",
+      "phonetic": "/sweɪ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "摇晃；摆动",
+          "usage": "可指物体缓慢摇摆，也可引申为“影响、说服某人”"
+        }
+      ]
+    },
+    {
+      "word": "leap",
+      "phonetic": "/liːp/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "跳；跃",
+          "usage": "强调动作幅度大且突然，常见搭配leap out at sb"
+        }
+      ]
+    },
+    {
+      "word": "unsympathetic",
+      "phonetic": "/ˌʌnˌsɪmpəˈθetɪk/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "无同情心的；冷漠的",
+          "usage": "sympathetic的反义词，指对他人的遭遇没有共情"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "a skeleton in the cupboard",
+      "usage": "固定习语，指家庭或个人不愿公开的丑事、家丑",
+      "examples": [
+        {
+          "en": "After the politician resigned, the public found he had many skeletons in the cupboard.",
+          "zh": "这位政客辞职后，公众发现他有很多不可告人的丑事。"
+        }
+      ]
+    },
+    {
+      "phrase": "to varying degrees",
+      "usage": "表示“在不同程度上”，用于说明事物的程度差异",
+      "examples": [
+        {
+          "en": "Students in this class are to varying degrees interested in art.",
+          "zh": "这个班的学生对艺术的兴趣程度各不相同。"
+        }
+      ]
+    },
+    {
+      "phrase": "be proud of",
+      "usage": "表示“为……感到骄傲/得意”，后接名词、代词或动名词",
+      "examples": [
+        {
+          "en": "She is very proud of her daughter's performance in the competition.",
+          "zh": "她为女儿在比赛中的表现感到非常骄傲。"
+        }
+      ]
+    },
+    {
+      "phrase": "once upon a time",
+      "usage": "常用于故事开头，表示“从前；曾经”，也可口语中提及过去的经历",
+      "examples": [
+        {
+          "en": "Once upon a time, there lived an old fisherman by the sea.",
+          "zh": "从前，海边住着一位老渔夫。"
+        }
+      ]
+    },
+    {
+      "phrase": "show sb to",
+      "usage": "表示“带领某人到（某地）”，常用于接待客人的场景",
+      "examples": [
+        {
+          "en": "The waiter showed us to our table near the window.",
+          "zh": "服务员把我们领到了靠窗的桌子旁。"
+        }
+      ]
+    },
+    {
+      "phrase": "stand on end",
+      "usage": "(毛发) 竖立，通常用来形容人非常恐惧、震惊",
+      "examples": [
+        {
+          "en": "The horror movie was so scary that it made my hair stand on end.",
+          "zh": "这部恐怖电影太吓人了，吓得我汗毛都竖起来了。"
+        }
+      ]
+    },
+    {
+      "phrase": "be about to do",
+      "usage": "表示“即将做某事；正要做某事”，强调动作马上就要发生",
+      "examples": [
+        {
+          "en": "I was about to go out when the phone rang.",
+          "zh": "我正要出门，电话响了。"
+        }
+      ]
+    },
+    {
+      "phrase": "dash to",
+      "usage": "表示“冲向；猛奔到某地”，强调动作的急促",
+      "examples": [
+        {
+          "en": "When the bell rang, he dashed to the classroom.",
+          "zh": "铃声一响，他就冲向了教室。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "定语从句",
+      "definition": "在复合句中修饰名词或代词的从句，被修饰的词叫先行词，从句由关系代词或关系副词引导",
+      "structure": "先行词 + 关系代词/副词 + 从句其余部分",
+      "usage": "用来对先行词进行补充说明，若从句是限定性的则无需逗号分隔，非限定性的需用逗号和主句隔开",
+      "examples": [
+        {
+          "en": "The only person I know who has a skeleton in the cupboard is George Carlton.",
+          "zh": "我认识的人中唯一有“家丑”的是乔治·卡尔顿。"
+        },
+        {
+          "en": "The old lady who had always been so kind to everybody poisoned her husbands.",
+          "zh": "那位一直对所有人都很和善的老妇人毒死了她的丈夫们。"
+        }
+      ]
+    },
+    {
+      "title": "as if 引导的方式状语从句",
+      "definition": "用来引导表示“好像、似乎”的从句，描述动作的方式，可接真实情况或虚拟情况",
+      "structure": "主句 + as if + 从句",
+      "usage": "当描述的内容是非真实的、与事实相反的情况时，从句要用虚拟语气；若表示可能真实的情况则用陈述语气",
+      "examples": [
+        {
+          "en": "He said with a smile as if he were talking about an old friend.",
+          "zh": "他笑着说，好像在谈论一位老朋友似的。"
+        },
+        {
+          "en": "It looks as if it is going to rain soon.",
+          "zh": "看起来好像马上就要下雨了。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "It is all very well for sth to occur...",
+      "original": {
+        "en": "It is all very well for such things to occur in fiction.",
+        "zh": "这种事发生在小说里是无可厚非的。"
+      },
+      "imitations": [
+        {
+          "en": "It is all very well for jokes to appear in comedy shows.",
+          "zh": "这种笑话出现在喜剧节目里是无可厚非的。"
+        },
+        {
+          "en": "It is all very well for kids to make small mistakes.",
+          "zh": "小孩子犯点小错是很正常的。"
+        }
+      ]
+    },
+    {
+      "pattern": "The only person I know who... is...",
+      "original": {
+        "en": "The only person I know who has a skeleton in the cupboard is George Carlton.",
+        "zh": "我认识的人中唯一有“家丑”的是乔治·卡尔顿。"
+      },
+      "imitations": [
+        {
+          "en": "The only person I know who can play the violin well is my deskmate.",
+          "zh": "我认识的人里唯一小提琴拉得好的是我的同桌。"
+        },
+        {
+          "en": "The only restaurant I know which serves authentic Sichuan food is near the station.",
+          "zh": "我知道的唯一一家做正宗川菜的餐馆在车站附近。"
+        }
+      ]
+    },
+    {
+      "pattern": "It gave me the impression that...",
+      "original": {
+        "en": "It gave me the impression that it was about to leap out at me.",
+        "zh": "它给我的感觉是好像就要扑到我身上来了。"
+      },
+      "imitations": [
+        {
+          "en": "His polite words gave me the impression that he was a very well-educated person.",
+          "zh": "他礼貌的话语给我的印象是他是个很有教养的人。"
+        },
+        {
+          "en": "The quiet town gave me the impression that time had slowed down here.",
+          "zh": "这个安静的小镇给我的感觉是时间在这里都变慢了。"
+        }
+      ]
+    }
+  ]
+}

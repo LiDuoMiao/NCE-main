@@ -1,0 +1,446 @@
+{
+  "book": "NCE3",
+  "lesson": "33",
+  "title": "Lesson 33",
+  "vocabulary": [
+    {
+      "word": "invariably",
+      "phonetic": "/ɪnˈveəriəbli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "始终如一地；一贯地；总是",
+          "usage": "用来描述几乎每次都会发生的情况，语气比always更正式"
+        }
+      ]
+    },
+    {
+      "word": "precisely",
+      "phonetic": "/prɪˈsaɪsli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "精确地；恰好；准确地",
+          "usage": "强调时间、数量等的准确性，可用于加强语气"
+        }
+      ]
+    },
+    {
+      "word": "prelude",
+      "phonetic": "/ˈpreljuːd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "前奏；序幕；前兆",
+          "usage": "常与介词to搭配，指某个重大事件的开端或预兆"
+        }
+      ]
+    },
+    {
+      "word": "unforeseen",
+      "phonetic": "/ˌʌnfɔːˈsiːn/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "未预见的；意外的",
+          "usage": "用来描述事先没有预料到的情况，通常修饰事件、问题等名词"
+        }
+      ]
+    },
+    {
+      "word": "catastrophe",
+      "phonetic": "/kəˈtæstrəfi/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "灾难；灾祸；不幸事件",
+          "usage": "可指重大的灾难，也可用于幽默地指代麻烦的小事"
+        }
+      ]
+    },
+    {
+      "word": "smash",
+      "phonetic": "/smæʃ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "打碎；粉碎；猛烈撞击",
+          "usage": "既可以作及物动词也可以作不及物动词，强调破碎的剧烈程度"
+        }
+      ]
+    },
+    {
+      "word": "crockery",
+      "phonetic": "/ˈkrɒkəri/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "陶器；瓦器；餐具（杯、盘等的统称）",
+          "usage": "不可数名词，通常指陶瓷材质的餐具"
+        }
+      ]
+    },
+    {
+      "word": "collide",
+      "phonetic": "/kəˈlaɪd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "碰撞；相撞；冲突",
+          "usage": "常与介词with搭配，指交通工具、人或物体相互碰撞"
+        }
+      ]
+    },
+    {
+      "word": "panic",
+      "phonetic": "/ˈpænɪk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "恐慌；惊慌",
+          "usage": "不可数名词，常用搭配get into a panic表示陷入恐慌"
+        }
+      ]
+    },
+    {
+      "word": "brake",
+      "phonetic": "/breɪk/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "刹车；用闸减速",
+          "usage": "既可以作动词表示刹车的动作，也可作名词指刹车装置"
+        }
+      ]
+    },
+    {
+      "word": "windscreen",
+      "phonetic": "/ˈwɪndskriːn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "（汽车的）挡风玻璃",
+          "usage": "英式英语表达，美式英语常用windshield"
+        }
+      ]
+    },
+    {
+      "word": "greedily",
+      "phonetic": "/ˈɡriːdɪli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "贪婪地；贪心地",
+          "usage": "用来修饰表示吃、拿等动作的动词，强调急切、过量的状态"
+        }
+      ]
+    },
+    {
+      "word": "devour",
+      "phonetic": "/dɪˈvaʊə(r)/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "狼吞虎咽地吃；吞没；毁灭",
+          "usage": "强调吃东西的速度快、量大，也可引申指吞并、耗尽"
+        }
+      ]
+    },
+    {
+      "word": "stray",
+      "phonetic": "/streɪ/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "走失的；流浪的；零星的",
+          "usage": "常修饰动物，也可指零散的物品或人"
+        }
+      ]
+    },
+    {
+      "word": "confusion",
+      "phonetic": "/kənˈfjuːʒn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "混乱；困惑；混淆",
+          "usage": "不可数名词，可指场景的混乱，也可指人思想上的困惑"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "get out of control",
+      "usage": "表示事态、情绪等失去控制，无法被管理或约束",
+      "examples": [
+        {
+          "en": "The protest got out of control and turned into a riot.",
+          "zh": "抗议活动失去了控制，演变成了骚乱。"
+        },
+        {
+          "en": "If you don't set rules for the kids, they'll soon get out of control.",
+          "zh": "如果你不给孩子们定规矩，他们很快就会无法无天。"
+        }
+      ]
+    },
+    {
+      "phrase": "set up a chain of reactions",
+      "usage": "指一个事件引发一连串连锁反应，常用来描述因果递进的事件序列",
+      "examples": [
+        {
+          "en": "The announcement of the price rise set up a chain of reactions in the market.",
+          "zh": "涨价的公告在市场上引发了一连串连锁反应。"
+        },
+        {
+          "en": "A small mistake in the experiment set up a chain of reactions that ruined the whole project.",
+          "zh": "实验中的一个小错误引发了连锁反应，毁了整个项目。"
+        }
+      ]
+    },
+    {
+      "phrase": "keep an eye on",
+      "usage": "口语常用表达，意思是照看、留意、密切关注",
+      "examples": [
+        {
+          "en": "Could you keep an eye on my suitcase while I go to the restroom?",
+          "zh": "我去洗手间的时候你能帮我照看一下行李箱吗？"
+        },
+        {
+          "en": "We need to keep an eye on the weather forecast in case it rains during the picnic.",
+          "zh": "我们得留意天气预报，以防野餐的时候下雨。"
+        }
+      ]
+    },
+    {
+      "phrase": "reduce sb to tears",
+      "usage": "表示使某人难过/委屈到哭，强调事件对人情绪的强烈影响",
+      "examples": [
+        {
+          "en": "The cruel comments on her speech reduced her to tears.",
+          "zh": "对她演讲的刻薄评论把她弄哭了。"
+        },
+        {
+          "en": "The pressure of being a new nurse reduced her to tears several times in the first month.",
+          "zh": "作为新护士的压力让她第一个月好几次都哭了。"
+        }
+      ]
+    },
+    {
+      "phrase": "rush hour",
+      "usage": "指城市早晚的交通高峰时段，不可数名词短语",
+      "examples": [
+        {
+          "en": "It's better to leave before 7 a.m. to avoid the rush hour traffic.",
+          "zh": "最好早上7点前出发，避开高峰时段的车流。"
+        },
+        {
+          "en": "The subway is always crowded during rush hour.",
+          "zh": "地铁在高峰时段总是很拥挤。"
+        }
+      ]
+    },
+    {
+      "phrase": "get into a panic",
+      "usage": "表示陷入恐慌状态，强调突然产生的慌乱情绪",
+      "examples": [
+        {
+          "en": "She got into a panic when she found her passport was missing.",
+          "zh": "她发现护照不见了的时候陷入了恐慌。"
+        },
+        {
+          "en": "Don't get into a panic when you meet difficulties, take a deep breath and think of solutions.",
+          "zh": "遇到困难时别慌，深呼吸想想解决办法。"
+        }
+      ]
+    },
+    {
+      "phrase": "draw up alongside",
+      "usage": "指车辆等驶到旁边、并排停靠",
+      "examples": [
+        {
+          "en": "A police car drew up alongside us and signaled us to pull over.",
+          "zh": "一辆警车开到我们旁边，示意我们靠边停车。"
+        },
+        {
+          "en": "The taxi drew up alongside the curb to pick up the passenger.",
+          "zh": "出租车开到路边停靠，接乘客上车。"
+        }
+      ]
+    },
+    {
+      "phrase": "pull up",
+      "usage": "指车辆或司机停车、放慢车速停下",
+      "examples": [
+        {
+          "en": "He pulled up in front of the gate and got out of the car quickly.",
+          "zh": "他在大门前停下车，快速从车里出来。"
+        },
+        {
+          "en": "The bus pulled up just as I was running to the stop.",
+          "zh": "我正跑向公交站的时候，公交车刚好停下了。"
+        }
+      ]
+    },
+    {
+      "phrase": "pile up",
+      "usage": "表示堆积、积压，可指具体物品的堆叠，也可指事务、问题的累积",
+      "examples": [
+        {
+          "en": "Work always piles up at the end of the year.",
+          "zh": "年底的时候工作总是堆成山。"
+        },
+        {
+          "en": "Snow piled up against the windows during the blizzard.",
+          "zh": "暴风雪期间，雪靠着窗户堆了起来。"
+        }
+      ]
+    },
+    {
+      "phrase": "get sth on the move",
+      "usage": "表示使某事重新运转、恢复正常运行",
+      "examples": [
+        {
+          "en": "The new manager tried his best to get the delayed project on the move.",
+          "zh": "新经理尽全力让延误的项目重新运转起来。"
+        },
+        {
+          "en": "We need extra workers to get the production line on the move after the breakdown.",
+          "zh": "故障之后我们需要额外的工人让生产线重新运转。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "as if引导的虚拟语气",
+      "definition": "as if/though引导的从句如果表示与事实相反的情况，需要使用虚拟语气，用来描述假设、想象或者不真实的场景",
+      "structure": "主句 + as if + 从句（从句动词用过去式表示与现在事实相反，用过去完成式表示与过去事实相反）",
+      "usage": "当说话人认为从句所述内容不真实或者可能性很低时使用虚拟语气，如果所述内容是真实的则用陈述语气",
+      "examples": [
+        {
+          "en": "It is as if a single unimportant event set up a chain of reactions.",
+          "zh": "就好像一件无关紧要的小事引发了一连串的连锁反应。"
+        },
+        {
+          "en": "He talks as if he knew everything about the plan, but actually he knows nothing.",
+          "zh": "他说得好像他对这个计划了如指掌，但实际上他什么都不知道。"
+        },
+        {
+          "en": "She looked as if she had heard some terrible news.",
+          "zh": "她看起来好像听到了什么可怕的消息。"
+        }
+      ]
+    },
+    {
+      "title": "现在分词作伴随/结果状语",
+      "definition": "现在分词（doing形式）可以放在句子末尾，用作状语，表示主句动作发生时伴随的状态，或者主句动作带来的自然结果",
+      "structure": "主句 + , + 现在分词短语",
+      "usage": "现在分词的逻辑主语必须和主句的主语一致，当表示结果时，通常是主句动作自然而然引发的后果",
+      "examples": [
+        {
+          "en": "The baby pulls the tablecloth off the table, smashing half your best crockery and cutting himself in the process.",
+          "zh": "婴儿把桌布从桌子上扯了下来，打碎了你一半的上好餐具，还在这个过程中割伤了自己。"
+        },
+        {
+          "en": "He sat by the window, reading a novel attentively.",
+          "zh": "他坐在窗边，专心致志地读着一本小说。"
+        },
+        {
+          "en": "The heavy rain lasted for three days, causing serious floods in the area.",
+          "zh": "大雨持续了三天，在这个地区造成了严重的洪灾。"
+        }
+      ]
+    },
+    {
+      "title": "what引导的名词性从句作主语",
+      "definition": "what可以引导主语从句，在从句中充当主语、宾语等成分，整个从句在主句中作主语，通常表示“...的事情/情况”",
+      "structure": "What + 从句 + 主句谓语 + 其他成分",
+      "usage": "相当于the thing that的含义，用来指代具体的某件事或某种情况，让句子结构更紧凑",
+      "examples": [
+        {
+          "en": "What invariably happens is that a great number of things choose to go wrong at precisely the same moment.",
+          "zh": "经常发生的情况是，好多事情偏偏都凑在同一时间出问题。"
+        },
+        {
+          "en": "What you need to do right now is to calm down and explain the situation clearly.",
+          "zh": "你现在需要做的就是冷静下来，把情况解释清楚。"
+        },
+        {
+          "en": "What he said at the meeting surprised all the participants.",
+          "zh": "他在会上说的话让所有参会者都很惊讶。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "We have all experienced days when everything goes wrong.",
+      "original": {
+        "en": "We have all experienced days when everything goes wrong.",
+        "zh": "我们都有过事事不顺心的日子。"
+      },
+      "imitations": [
+        {
+          "en": "We have all experienced moments when we want to give up but choose to hold on in the end.",
+          "zh": "我们都有过想要放弃但最终选择坚持的时刻。"
+        },
+        {
+          "en": "Many people have experienced periods when they feel lost and don't know what to do next.",
+          "zh": "很多人都有过感到迷茫、不知道下一步该做什么的阶段。"
+        }
+      ]
+    },
+    {
+      "pattern": "It is as if + 从句（虚拟语气）",
+      "original": {
+        "en": "It is as if a single unimportant event set up a chain of reactions.",
+        "zh": "就好像一件无关紧要的小事引发了一连串的连锁反应。"
+      },
+      "imitations": [
+        {
+          "en": "It is as if the whole world had forgotten about this small village hidden in the mountains.",
+          "zh": "就好像整个世界都忘记了这个藏在山里的小村庄。"
+        },
+        {
+          "en": "He acted as if nothing had happened, even though he knew he made a big mistake.",
+          "zh": "他表现得就好像什么都没发生一样，尽管他知道自己犯了大错。"
+        }
+      ]
+    },
+    {
+      "pattern": "As if this were not enough to + 动词短语, + 另一糟糕情况",
+      "original": {
+        "en": "As if this were not enough to reduce you to tears, your husband arrives, unexpectedly bringing three guests to dinner.",
+        "zh": "好像这一切还不足以让你急哭，你丈夫回来了，出乎意料地带了三位客人来家里吃饭。"
+      },
+      "imitations": [
+        {
+          "en": "As if this were not enough to make him anxious, his boss called to say he needed to work extra hours this weekend.",
+          "zh": "好像这还不足以让他焦虑，他的老板又打电话来说他这周末需要加班。"
+        },
+        {
+          "en": "As if this were not enough to ruin the trip, it started pouring with rain when we just arrived at the foot of the mountain.",
+          "zh": "好像这还不足以毁掉这次旅行，我们刚到山脚下的时候就开始下倾盆大雨了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Only + 名词 + benefited from + 负面事件, for + 原因从句",
+      "original": {
+        "en": "Only two stray dogs benefited from all this confusion, for they greedily devoured what was left of the cake.",
+        "zh": "只有两只流浪狗从这一片混乱中得了好处，因为它们贪婪地吃掉了剩下的蛋糕。"
+      },
+      "imitations": [
+        {
+          "en": "Only the second-hand bookstore benefited from the closure of the local library, for a lot of readers came to buy books there.",
+          "zh": "只有二手书店从当地图书馆的关闭中得了好处，因为很多读者都去那里买书。"
+        },
+        {
+          "en": "Only the delivery platforms benefited from the sudden lockdown, for people could only order food and daily goods online.",
+          "zh": "只有外卖平台从突如其来的封控中得了好处，因为人们只能在网上订购食物和日用品。"
+        }
+      ]
+    }
+  ]
+}

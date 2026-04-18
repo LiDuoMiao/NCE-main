@@ -1,0 +1,402 @@
+{
+  "book": "NCE2",
+  "lesson": "10",
+  "title": "What happened to the clavichord?",
+  "vocabulary": [
+    {
+      "word": "clavichord",
+      "phonetic": "/ˈklævɪkɔːd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "击弦古钢琴，一种古老的键盘乐器",
+          "usage": "可数名词，指一种18世纪前的键盘乐器"
+        }
+      ]
+    },
+    {
+      "word": "instrument",
+      "phonetic": "/ˈɪnstrəmənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "仪器；工具；乐器",
+          "usage": "可数名词，可指音乐乐器或科学仪器"
+        }
+      ]
+    },
+    {
+      "word": "damage",
+      "phonetic": "/ˈdæmɪdʒ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "损害；毁坏",
+          "usage": "及物动词，表示使某物受损"
+        }
+      ]
+    },
+    {
+      "word": "visitor",
+      "phonetic": "/ˈvɪzɪtə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "访问者；游客；参观者",
+          "usage": "可数名词，指来访的人"
+        }
+      ]
+    },
+    {
+      "word": "jazz",
+      "phonetic": "/dʒæz/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "爵士乐",
+          "usage": "名词，指一种音乐风格"
+        }
+      ]
+    },
+    {
+      "word": "shock",
+      "phonetic": "/ʃɒk/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "使震惊；使惊讶",
+          "usage": "及物动词，表示让人感到震惊"
+        }
+      ]
+    },
+    {
+      "word": "repair",
+      "phonetic": "/rɪˈpeə(r)/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "修理；修复",
+          "usage": "及物动词，表示修补损坏的东西"
+        }
+      ]
+    },
+    {
+      "word": "string",
+      "phonetic": "/strɪŋ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "弦；细绳",
+          "usage": "可数名词，乐器上的弦为复数形式strings"
+        }
+      ]
+    },
+    {
+      "word": "belong",
+      "phonetic": "/bɪˈlɒŋ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "属于",
+          "usage": "不及物动词，常用结构：belong to"
+        }
+      ]
+    },
+    {
+      "word": "allow",
+      "phonetic": "/əˈlaʊ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "允许；准许",
+          "usage": "及物动词，常用结构：be allowed to do"
+        }
+      ]
+    },
+    {
+      "word": "strike",
+      "phonetic": "/straɪk/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "敲；击；撞",
+          "usage": "及物动词，表示用力敲击"
+        }
+      ]
+    },
+    {
+      "word": "hard",
+      "phonetic": "/hɑːd/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "用力地；猛烈地",
+          "usage": "副词，修饰动词，表示力度大"
+        }
+      ]
+    },
+    {
+      "word": "keep",
+      "phonetic": "/kiːp/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "保存；保留",
+          "usage": "及物动词，表示将某物保存在某处"
+        }
+      ]
+    },
+    {
+      "word": "recently",
+      "phonetic": "/ˈriːsntli/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "最近；近来",
+          "usage": "副词，通常与过去时连用"
+        }
+      ]
+    },
+    {
+      "word": "grandfather",
+      "phonetic": "/ˈɡrænfɑːðə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "祖父；外祖父",
+          "usage": "可数名词，指爸爸或妈妈的爸爸"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "belong to",
+      "usage": "属于，表示所有权或归属关系",
+      "examples": [
+        {
+          "en": "This house belongs to our family.",
+          "zh": "这房子属于我们家族。"
+        }
+      ]
+    },
+    {
+      "phrase": "try to do something",
+      "usage": "尝试做某事，努力去做但不一定成功",
+      "examples": [
+        {
+          "en": "She tried to play jazz on it.",
+          "zh": "她试着在上面弹爵士乐。"
+        }
+      ]
+    },
+    {
+      "phrase": "be shocked",
+      "usage": "感到震惊，表示对某事感到惊讶",
+      "examples": [
+        {
+          "en": "My father was shocked when he heard the news.",
+          "zh": "我父亲听到这个消息时很震惊。"
+        }
+      ]
+    },
+    {
+      "phrase": "be allowed to do something",
+      "usage": "被允许做某事",
+      "examples": [
+        {
+          "en": "Now we are not allowed to touch it.",
+          "zh": "现在我们不被允许碰它。"
+        }
+      ]
+    },
+    {
+      "phrase": "too + adj/adv",
+      "usage": "太...，表示程度过分",
+      "examples": [
+        {
+          "en": "She struck the keys too hard.",
+          "zh": "她敲击琴键太用力了。"
+        }
+      ]
+    },
+    {
+      "phrase": "be made in",
+      "usage": "在...制造，表示产地",
+      "examples": [
+        {
+          "en": "It was made in Germany in 1681.",
+          "zh": "它于1681年在德国制造。"
+        }
+      ]
+    },
+    {
+      "phrase": "many years ago",
+      "usage": "很多年前，表示过去的时间",
+      "examples": [
+        {
+          "en": "The instrument was bought many years ago.",
+          "zh": "这件乐器是多年前买的。"
+        }
+      ]
+    },
+    {
+      "phrase": "be being done",
+      "usage": "正在被...，现在进行时的被动语态",
+      "examples": [
+        {
+          "en": "It is being repaired by a friend of my father's.",
+          "zh": "它正在被我父亲的一个朋友修理。"
+        }
+      ]
+    },
+    {
+      "phrase": "a friend of my father's",
+      "usage": "我父亲的...朋友，双重所有格用法",
+      "examples": [
+        {
+          "en": "It is being repaired by a friend of my father's.",
+          "zh": "它正在被我父亲的一个朋友修理。"
+        }
+      ]
+    },
+    {
+      "phrase": "recently",
+      "usage": "最近，用于谈论近期发生的事情",
+      "examples": [
+        {
+          "en": "Recently it was damaged by a visitor.",
+          "zh": "最近它被一个访客损坏了。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "一般过去时的被动语态",
+      "definition": "当主语是动作的承受者时，使用被动语态。过去时的被动语态表示过去某个动作施加于主语",
+      "structure": "主语 + was/were + 过去分词 (+ by + 动作执行者)",
+      "usage": "用于描述过去发生的动作，主语是动作的承受者",
+      "examples": [
+        {
+          "en": "It was made in Germany in 1681.",
+          "zh": "它于1681年在德国制造。"
+        },
+        {
+          "en": "The instrument was bought by my grandfather many years ago.",
+          "zh": "这件乐器是多年前被我祖父买的。"
+        },
+        {
+          "en": "It was damaged by a visitor recently.",
+          "zh": "它最近被一个访客损坏了。"
+        }
+      ]
+    },
+    {
+      "title": "现在进行时的被动语态",
+      "definition": "表示说话时正在进行的被动动作，即某事正在被做",
+      "structure": "主语 + am/is/are + being + 过去分词",
+      "usage": "强调某个动作正在进行中，且主语是动作的承受者",
+      "examples": [
+        {
+          "en": "It is being repaired by a friend of my father's.",
+          "zh": "它正在被我父亲的一个朋友修理。"
+        },
+        {
+          "en": "The house is being painted now.",
+          "zh": "房子正在被粉刷。"
+        },
+        {
+          "en": "The work is being done by the students.",
+          "zh": "工作正在被学生们做。"
+        }
+      ]
+    },
+    {
+      "title": "时间表达：ago与recently",
+      "definition": "ago表示从现在算起的过去时间点，recently表示离现在不远的时间",
+      "structure": "时间段 + ago / recently",
+      "usage": "ago用于过去时，recently可用于过去时或现在完成时",
+      "examples": [
+        {
+          "en": "She bought it many years ago.",
+          "zh": "她很多年前买的。"
+        },
+        {
+          "en": "Recently it was damaged by a visitor.",
+          "zh": "最近它被一个访客损坏了。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "It is called...",
+      "original": {
+        "en": "It is called a clavichord.",
+        "zh": "它被叫做击弦古钢琴。"
+      },
+      "imitations": [
+        {
+          "en": "It is called a piano.",
+          "zh": "它被叫做钢琴。"
+        },
+        {
+          "en": "This flower is called rose.",
+          "zh": "这种花被叫做玫瑰。"
+        }
+      ]
+    },
+    {
+      "pattern": "It was made in + 地点 + 时间",
+      "original": {
+        "en": "It was made in Germany in 1681.",
+        "zh": "它于1681年在德国制造。"
+      },
+      "imitations": [
+        {
+          "en": "It was made in China in 2020.",
+          "zh": "它于2020年在中国制造。"
+        },
+        {
+          "en": "This watch was made in Switzerland.",
+          "zh": "这块手表是瑞士制造的。"
+        }
+      ]
+    },
+    {
+      "pattern": "It has belonged to... for + 时间段",
+      "original": {
+        "en": "It has belonged to our family for a long time.",
+        "zh": "它已经属于我们家族很长时间了。"
+      },
+      "imitations": [
+        {
+          "en": "This house has belonged to us for ten years.",
+          "zh": "这房子已经属于我们十年了。"
+        },
+        {
+          "en": "The car has belonged to my father for five years.",
+          "zh": "这辆车已经属于我父亲五年了。"
+        }
+      ]
+    },
+    {
+      "pattern": "It is being + 过去分词 + by...",
+      "original": {
+        "en": "It is being repaired by a friend of my father's.",
+        "zh": "它正在被我父亲的一个朋友修理。"
+      },
+      "imitations": [
+        {
+          "en": "The car is being washed by Tom.",
+          "zh": "车正在被汤姆洗。"
+        },
+        {
+          "en": "The room is being cleaned by my mother.",
+          "zh": "房间正在被我妈妈打扫。"
+        }
+      ]
+    }
+  ]
+}

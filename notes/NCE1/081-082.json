@@ -1,0 +1,348 @@
+{
+  "book": "NCE1",
+  "lesson": "081-082",
+  "title": "Lesson 81",
+  "vocabulary": [
+    {
+      "word": "roast",
+      "phonetic": "/rəʊst/",
+      "meanings": [
+        {
+          "pos": "verb/adjective",
+          "meaning": "烤，烘；烤制的",
+          "usage": "指用火或热源烹饪食物，特别是肉类"
+        }
+      ]
+    },
+    {
+      "word": "beef",
+      "phonetic": "/biːf/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "牛肉",
+          "usage": "指牛的肉，作为食物"
+        }
+      ]
+    },
+    {
+      "word": "potato",
+      "phonetic": "/pəˈteɪtəʊ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "土豆，马铃薯",
+          "usage": "常见的蔬菜或主食，可烤、煮、炸等"
+        }
+      ]
+    },
+    {
+      "word": "upstairs",
+      "phonetic": "/ˌʌpˈsteəz/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "在楼上；往楼上",
+          "usage": "表示位置或方向，指建筑物的上层"
+        }
+      ]
+    },
+    {
+      "word": "bath",
+      "phonetic": "/bɑːθ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "洗澡；浴缸",
+          "usage": "指沐浴的动作或用于洗澡的容器"
+        }
+      ]
+    },
+    {
+      "word": "nearly",
+      "phonetic": "/ˈnɪəli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "几乎，差不多",
+          "usage": "表示非常接近但不是完全的状态"
+        }
+      ]
+    },
+    {
+      "word": "dinner",
+      "phonetic": "/ˈdɪnə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "正餐，晚餐",
+          "usage": "一天中的主要餐食，通常在晚上"
+        }
+      ]
+    },
+    {
+      "word": "cigarette",
+      "phonetic": "/ˌsɪɡəˈret/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "香烟，纸烟",
+          "usage": "指卷制的烟草制品"
+        }
+      ]
+    },
+    {
+      "word": "whisky",
+      "phonetic": "/ˈwɪski/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "威士忌酒",
+          "usage": "一种烈性酒，产于苏格兰或爱尔兰"
+        }
+      ]
+    },
+    {
+      "word": "matter",
+      "phonetic": "/ˈmætə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "事情，问题",
+          "usage": "常用于What's the matter?询问出了什么问题"
+        }
+      ]
+    },
+    {
+      "word": "restaurant",
+      "phonetic": "/ˈrestrɒnt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "餐馆，饭店",
+          "usage": "提供食物和饮料的营业场所"
+        }
+      ]
+    },
+    {
+      "word": "ready",
+      "phonetic": "/ˈredi/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "准备好的",
+          "usage": "表示某人或某物已准备好做某事"
+        }
+      ]
+    },
+    {
+      "word": "together",
+      "phonetic": "/təˈɡeðə/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "一起，共同",
+          "usage": "表示两个或多个事物一起做某事"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Have a cigarette",
+      "usage": "用于邀请别人抽烟",
+      "examples": [
+        {
+          "en": "Have a cigarette.",
+          "zh": "抽根烟吧。"
+        }
+      ]
+    },
+    {
+      "phrase": "Have a glass of whisky",
+      "usage": "用于邀请别人喝一杯威士忌",
+      "examples": [
+        {
+          "en": "Have a glass of whisky then.",
+          "zh": "那就喝杯威士忌吧。"
+        }
+      ]
+    },
+    {
+      "phrase": "What's the matter?",
+      "usage": "用于询问对方有什么问题或困扰",
+      "examples": [
+        {
+          "en": "What's the matter, Carol?",
+          "zh": "怎么了，卡罗尔？"
+        }
+      ]
+    },
+    {
+      "phrase": "have dinner",
+      "usage": "表示吃晚餐/正餐",
+      "examples": [
+        {
+          "en": "We can have dinner at seven o'clock.",
+          "zh": "我们可以七点吃晚饭。"
+        }
+      ]
+    },
+    {
+      "phrase": "have lunch",
+      "usage": "表示吃午餐",
+      "examples": [
+        {
+          "en": "Sam and I had lunch together today.",
+          "zh": "今天我和萨姆一起吃了午饭。"
+        }
+      ]
+    },
+    {
+      "phrase": "be nearly ready",
+      "usage": "表示差不多准备好了",
+      "examples": [
+        {
+          "en": "I'm nearly ready.",
+          "zh": "我差不多好了。"
+        }
+      ]
+    },
+    {
+      "phrase": "have...again",
+      "usage": "表示再次吃/喝某物",
+      "examples": [
+        {
+          "en": "You're going to have roast beef and potatoes again tonight!",
+          "zh": "今晚你们又要吃烤牛肉和土豆了！"
+        }
+      ]
+    },
+    {
+      "phrase": "go to a restaurant",
+      "usage": "表示去餐馆吃饭",
+      "examples": [
+        {
+          "en": "We went to a restaurant.",
+          "zh": "我们去了一家餐馆。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "一般过去时 (Past Simple Tense)",
+      "definition": "表示过去发生的动作或存在的状态",
+      "structure": "主语 + 动词过去式 + 其他",
+      "usage": "描述过去发生的事情，句中常有时间状语如yesterday, last week, today等",
+      "examples": [
+        {
+          "en": "We had roast beef and potatoes.",
+          "zh": "我们吃了烤牛肉和土豆。"
+        },
+        {
+          "en": "Sam and I had lunch together today.",
+          "zh": "今天我和萨姆一起吃了午饭。"
+        }
+      ]
+    },
+    {
+      "title": "一般过去时的否定句和疑问句",
+      "definition": "在一般过去时中，否定句用did not (didn't)，疑问句用Did引导",
+      "structure": "Did + 主语 + 动词原形 + 其他？",
+      "usage": "询问过去发生的事情",
+      "examples": [
+        {
+          "en": "What did you have?",
+          "zh": "你们吃了什么？"
+        },
+        {
+          "en": "Did you enjoy your meal?",
+          "zh": "你喜欢那顿饭吗？"
+        }
+      ]
+    },
+    {
+      "title": "be going to 表示将来计划",
+      "definition": "表示已经计划好或决定好的将来动作",
+      "structure": "主语 + be going to + 动词原形",
+      "usage": "表示根据计划或决定即将发生的事情",
+      "examples": [
+        {
+          "en": "You're going to have roast beef and potatoes again tonight!",
+          "zh": "今晚你们又要吃烤牛肉和土豆了！"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "What did + 主语 + have?",
+      "original": {
+        "en": "What did you have?",
+        "zh": "你们吃了什么？"
+      },
+      "imitations": [
+        {
+          "en": "What did they have for lunch?",
+          "zh": "他们午饭吃了什么？"
+        },
+        {
+          "en": "What did Tom have?",
+          "zh": "汤姆吃了什么？"
+        }
+      ]
+    },
+    {
+      "pattern": "Have a + 名词",
+      "original": {
+        "en": "Have a cigarette.",
+        "zh": "抽根烟吧。"
+      },
+      "imitations": [
+        {
+          "en": "Have a cup of tea.",
+          "zh": "喝杯茶吧。"
+        },
+        {
+          "en": "Have a piece of cake.",
+          "zh": "吃块蛋糕吧。"
+        }
+      ]
+    },
+    {
+      "pattern": "Is + 主语 + ready?",
+      "original": {
+        "en": "Is dinner ready, Carol?",
+        "zh": "晚餐准备好了吗，卡罗尔？"
+      },
+      "imitations": [
+        {
+          "en": "Is your homework ready?",
+          "zh": "你的作业完成了吗？"
+        },
+        {
+          "en": "Is the car ready?",
+          "zh": "车准备好了吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "What's the matter?",
+      "original": {
+        "en": "What's the matter, Carol?",
+        "zh": "怎么了，卡罗尔？"
+      },
+      "imitations": [
+        {
+          "en": "What's the matter with you?",
+          "zh": "你怎么了？"
+        },
+        {
+          "en": "What's the matter? You look sad.",
+          "zh": "怎么了？你看起来很伤心。"
+        }
+      ]
+    }
+  ]
+}

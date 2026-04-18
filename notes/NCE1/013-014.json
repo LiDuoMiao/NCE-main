@@ -1,0 +1,338 @@
+{
+  "book": "NCE1",
+  "lesson": "013-014",
+  "title": "Lesson 13",
+  "vocabulary": [
+    {
+      "word": "dress",
+      "phonetic": "/dres/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "连衣裙；裙子",
+          "usage": "通常指女式连衣裙，也可指正装"
+        }
+      ]
+    },
+    {
+      "word": "colour",
+      "phonetic": "/ˈkʌlə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "颜色",
+          "usage": "英式拼写，美式为color"
+        }
+      ]
+    },
+    {
+      "word": "green",
+      "phonetic": "/ɡriːn/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "绿色的",
+          "usage": "描述颜色"
+        },
+        {
+          "pos": "noun",
+          "meaning": "绿色",
+          "usage": "作为颜色名词使用"
+        }
+      ]
+    },
+    {
+      "word": "upstairs",
+      "phonetic": "/ˌʌpˈsteəz/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "往楼上；在楼上",
+          "usage": "表示向楼上或位于楼上的位置"
+        }
+      ]
+    },
+    {
+      "word": "nice",
+      "phonetic": "/naɪs/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "好的；漂亮的；令人愉快的",
+          "usage": "用于赞美或表示认可"
+        }
+      ]
+    },
+    {
+      "word": "smart",
+      "phonetic": "/smɑːt/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "漂亮的；时髦的；聪明的",
+          "usage": "用于形容衣着漂亮或外表整洁"
+        }
+      ]
+    },
+    {
+      "word": "hat",
+      "phonetic": "/hæt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "帽子（有檐的）",
+          "usage": "区别于cap（无檐帽）"
+        }
+      ]
+    },
+    {
+      "word": "same",
+      "phonetic": "/seɪm/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "相同的；一样的",
+          "usage": "常与the连用：the same"
+        }
+      ]
+    },
+    {
+      "word": "lovely",
+      "phonetic": "/ˈlʌvli/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "可爱的；美丽的",
+          "usage": "用于表达对某人或某物的喜爱"
+        }
+      ]
+    },
+    {
+      "word": "look",
+      "phonetic": "/lʊk/",
+      "meanings": [
+        {
+          "pos": "interj",
+          "meaning": "看；瞧",
+          "usage": "用于引起注意"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Come upstairs and see it",
+      "usage": "邀请某人上楼来看某物",
+      "examples": [
+        {
+          "en": "Come upstairs and see my new room.",
+          "zh": "上楼来看看我的新房间。"
+        }
+      ]
+    },
+    {
+      "phrase": "What colour is it?",
+      "usage": "询问某物的颜色",
+      "examples": [
+        {
+          "en": "What colour is your car?",
+          "zh": "你的车是什么颜色的？"
+        }
+      ]
+    },
+    {
+      "phrase": "It's the same colour",
+      "usage": "表达两者颜色相同",
+      "examples": [
+        {
+          "en": "Her bag is the same colour as mine.",
+          "zh": "她的包和我的颜色一样。"
+        }
+      ]
+    },
+    {
+      "phrase": "That's a nice dress",
+      "usage": "用于称赞某人的衣服",
+      "examples": [
+        {
+          "en": "That's a nice coat.",
+          "zh": "那件外套真好看。"
+        }
+      ]
+    },
+    {
+      "phrase": "It's very smart",
+      "usage": "用于称赞某人看起来很精神/漂亮",
+      "examples": [
+        {
+          "en": "You look very smart in that suit.",
+          "zh": "你穿那套西装看起来很精神。"
+        }
+      ]
+    },
+    {
+      "phrase": "That is a lovely hat",
+      "usage": "用于称赞某人的帽子",
+      "examples": [
+        {
+          "en": "That is a lovely dress!",
+          "zh": "那条连衣裙真漂亮！"
+        }
+      ]
+    },
+    {
+      "phrase": "Here it is",
+      "usage": "用于指示某物所在位置或递出某物",
+      "examples": [
+        {
+          "en": "Here it is! Your book.",
+          "zh": "在这里！你的书。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "What colour is/are...? 询问颜色",
+      "definition": "用What colour引导的特殊疑问句，用于询问某物的颜色",
+      "structure": "What colour + is/are + 主语?",
+      "usage": "当主语是单数名词时用is，复数名词时用are，this/that/it等单数代词用is，these/those/they等复数代词用are",
+      "examples": [
+        {
+          "en": "What colour is your new dress?",
+          "zh": "你的新连衣裙是什么颜色的？"
+        },
+        {
+          "en": "What colour is it?",
+          "zh": "它是什么颜色的？"
+        },
+        {
+          "en": "What colour are your shoes?",
+          "zh": "你的鞋子是什么颜色的？"
+        }
+      ]
+    },
+    {
+      "title": "颜色表达：It's + 颜色",
+      "definition": "描述某物颜色的基本句型",
+      "structure": "主语 + is + 颜色形容词。",
+      "usage": "颜色形容词作表语，说明主语的特征。颜色词前不加a/an",
+      "examples": [
+        {
+          "en": "It's green.",
+          "zh": "它是绿色的。"
+        },
+        {
+          "en": "My car is red.",
+          "zh": "我的车是红色的。"
+        },
+        {
+          "en": "The sky is blue.",
+          "zh": "天空是蓝色的。"
+        }
+      ]
+    },
+    {
+      "title": "相同颜色表达：the same colour / too",
+      "definition": "表达两件事物颜色相同或在已有颜色上再加同样的颜色",
+      "structure": "1. It's the same colour (as...). 2. 主语 + is + 颜色 + too.",
+      "usage": "the same colour表示两者完全相同，too表示also/also相同的意思",
+      "examples": [
+        {
+          "en": "It's the same colour. (as my dress)",
+          "zh": "它和我的裙子是一样的颜色。"
+        },
+        {
+          "en": "It's green too.",
+          "zh": "它也是绿色的。"
+        },
+        {
+          "en": "My hat is red too.",
+          "zh": "我的帽子也是红色的。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "What colour is + 单数名词/代词?",
+      "original": {
+        "en": "What colour is your new dress?",
+        "zh": "你的新连衣裙是什么颜色的？"
+      },
+      "imitations": [
+        {
+          "en": "What colour is your hat?",
+          "zh": "你的帽子是什么颜色的？"
+        },
+        {
+          "en": "What colour is it?",
+          "zh": "它是什么颜色的？"
+        },
+        {
+          "en": "What colour is this car?",
+          "zh": "这辆车是什么颜色的？"
+        }
+      ]
+    },
+    {
+      "pattern": "It's + 颜色",
+      "original": {
+        "en": "It's green.",
+        "zh": "它是绿色的。"
+      },
+      "imitations": [
+        {
+          "en": "It's blue.",
+          "zh": "它是蓝色的。"
+        },
+        {
+          "en": "It's white.",
+          "zh": "它是白色的。"
+        },
+        {
+          "en": "It's black.",
+          "zh": "它是黑色的。"
+        }
+      ]
+    },
+    {
+      "pattern": "It's the same colour",
+      "original": {
+        "en": "It's the same colour.",
+        "zh": "它是一样的颜色。"
+      },
+      "imitations": [
+        {
+          "en": "It's the same colour as yours.",
+          "zh": "它和你的颜色一样。"
+        },
+        {
+          "en": "My car is the same colour as hers.",
+          "zh": "我的车和她的颜色一样。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + is + 颜色 + too",
+      "original": {
+        "en": "It's green too.",
+        "zh": "它也是绿色的。"
+      },
+      "imitations": [
+        {
+          "en": "My hat is red too.",
+          "zh": "我的帽子也是红色的。"
+        },
+        {
+          "en": "Her bag is black too.",
+          "zh": "她的包也是黑色的。"
+        },
+        {
+          "en": "I'm tired too.",
+          "zh": "我也累了。"
+        }
+      ]
+    }
+  ]
+}

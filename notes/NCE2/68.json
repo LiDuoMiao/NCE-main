@@ -1,0 +1,410 @@
+{
+  "book": "NCE2",
+  "lesson": "68",
+  "title": "Why did Elizabeth tell Nigel that she was going to the dentist?",
+  "vocabulary": [
+    {
+      "word": "avoid",
+      "phonetic": "/əˈvɔɪd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "避开，避免",
+          "usage": "常接动词-ing形式，表示避开做某事或避开某人"
+        }
+      ]
+    },
+    {
+      "word": "pretend",
+      "phonetic": "/prɪˈtend/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "假装，装作",
+          "usage": "常接that从句或to be结构"
+        }
+      ]
+    },
+    {
+      "word": "insist",
+      "phonetic": "/ɪnˈsɪst/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "坚持，坚决要求",
+          "usage": "insist on doing something坚持做某事"
+        }
+      ]
+    },
+    {
+      "word": "prevent",
+      "phonetic": "/prɪˈvent/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "阻止，阻挡",
+          "usage": "prevent sb. from doing sth.阻止某人做某事"
+        }
+      ]
+    },
+    {
+      "word": "fancy",
+      "phonetic": "/ˈfænsi/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "想不到，竟然",
+          "usage": "Fancy meeting you here!想不到在这儿遇见你！"
+        }
+      ]
+    },
+    {
+      "word": "wonder",
+      "phonetic": "/ˈwʌndə(r)/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "想知道，琢磨",
+          "usage": "wonder how/why/whether想知道如何/为什么/是否"
+        }
+      ]
+    },
+    {
+      "word": "dentist",
+      "phonetic": "/ˈdentɪst/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "牙医",
+          "usage": "go to the dentist's去看牙医"
+        }
+      ]
+    },
+    {
+      "word": "plenty",
+      "phonetic": "/ˈplenti/",
+      "meanings": [
+        {
+          "pos": "pronoun",
+          "meaning": "大量，充足",
+          "usage": "plenty of + 名词，意为“大量的”"
+        }
+      ]
+    },
+    {
+      "word": "wait",
+      "phonetic": "/weɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "等待，等候",
+          "usage": "wait for sb./sth.等待某人/某物"
+        }
+      ]
+    },
+    {
+      "word": "lie",
+      "phonetic": "/laɪ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "说谎，撒谎",
+          "usage": "lie to sb.对某人说谎，过去式为lied"
+        }
+      ]
+    },
+    {
+      "word": "follow",
+      "phonetic": "/ˈfɒləʊ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "跟随，跟着",
+          "usage": "follow sb. around跟着某人"
+        }
+      ]
+    },
+    {
+      "word": "busy",
+      "phonetic": "/ˈbɪzi/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "忙碌的，繁忙的",
+          "usage": "be busy doing sth.忙于做某事"
+        }
+      ]
+    },
+    {
+      "word": "finish",
+      "phonetic": "/ˈfɪnɪʃ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "完成，结束",
+          "usage": "finish doing sth.完成做某事"
+        }
+      ]
+    },
+    {
+      "word": "wave",
+      "phonetic": "/weɪv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "挥手，招手",
+          "usage": "wave to sb.向某人挥手"
+        }
+      ]
+    },
+    {
+      "word": "cross",
+      "phonetic": "/krɒs/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "穿过，越过",
+          "usage": "cross the street穿过街道"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "avoid doing something",
+      "usage": "避免做某事",
+      "examples": [
+        {
+          "en": "I crossed the street to avoid meeting him.",
+          "zh": "我穿过街道以避免遇见他。"
+        },
+        {
+          "en": "You should avoid making the same mistake.",
+          "zh": "你应该避免犯同样的错误。"
+        }
+      ]
+    },
+    {
+      "phrase": "come running towards",
+      "usage": "跑向，朝...跑来",
+      "examples": [
+        {
+          "en": "He saw me and came running towards me.",
+          "zh": "他看见了我然后朝我跑过来。"
+        }
+      ]
+    },
+    {
+      "phrase": "no matter how",
+      "usage": "无论怎样，不管如何",
+      "examples": [
+        {
+          "en": "No matter how busy you are, he always insists on coming with you.",
+          "zh": "无论你有多忙，他总是坚持要陪着你。"
+        },
+        {
+          "en": "No matter how hard I tried, I couldn't open the door.",
+          "zh": "无论我多努力，我都打不开门。"
+        }
+      ]
+    },
+    {
+      "phrase": "think of a way of doing something",
+      "usage": "想个办法做某事",
+      "examples": [
+        {
+          "en": "I had to think of a way of preventing him from following me.",
+          "zh": "我得想个办法阻止他跟着我。"
+        }
+      ]
+    },
+    {
+      "phrase": "prevent someone from doing something",
+      "usage": "阻止某人做某事",
+      "examples": [
+        {
+          "en": "I tried to prevent him from following me around.",
+          "zh": "我试图阻止他一直跟着我。"
+        }
+      ]
+    },
+    {
+      "phrase": "Fancy meeting you here!",
+      "usage": "想不到在这儿遇见你！（表示惊讶）",
+      "examples": [
+        {
+          "en": "Fancy meeting you here! I thought you were in London.",
+          "zh": "想不到在这儿遇见你！我以为你在伦敦呢。"
+        }
+      ]
+    },
+    {
+      "phrase": "Would you mind my coming with you?",
+      "usage": "你介意我和你一起去吗？（表示委婉请求）",
+      "examples": [
+        {
+          "en": "Would you mind my coming with you to the shops?",
+          "zh": "你介意我和你一起去商店吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "There's plenty to read",
+      "usage": "有很多可读的（有很多阅读材料）",
+      "examples": [
+        {
+          "en": "There's always plenty to read in the waiting room.",
+          "zh": "候诊室里总有很多东西可读。"
+        },
+        {
+          "en": "There's plenty to see in this city.",
+          "zh": "这座城市有很多可看的东西。"
+        }
+      ]
+    },
+    {
+      "phrase": "have anything to do",
+      "usage": "有什么事要做",
+      "examples": [
+        {
+          "en": "He never has anything to do.",
+          "zh": "他从来都没什么事可做。"
+        }
+      ]
+    },
+    {
+      "phrase": "before I had finished speaking",
+      "usage": "在我说完之前",
+      "examples": [
+        {
+          "en": "He asked, before I had finished speaking.",
+          "zh": "他在我说完之前就问道。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "动名词（-ing形式）作宾语",
+      "definition": "某些动词后面需要接动名词（verb + -ing）作宾语，表示习惯性或一般性的动作",
+      "structure": "动词 + doing",
+      "usage": "常与enjoy, avoid, finish, insist on, prevent...from, mind等动词连用",
+      "examples": [
+        {
+          "en": "I never enjoy meeting Nigel Dykes.",
+          "zh": "我从来不喜欢遇到奈杰尔·戴克斯。"
+        },
+        {
+          "en": "He always insists on coming with you.",
+          "zh": "他总是坚持要陪着你。"
+        },
+        {
+          "en": "prevent him from following me around",
+          "zh": "阻止他一直跟着我"
+        }
+      ]
+    },
+    {
+      "title": "Would you mind + 物主代词/名词所有格 + doing?",
+      "definition": "用来委婉地询问或请求许可，询问对方是否介意自己做某事",
+      "structure": "Would you mind my/nickname's + 动词-ing?",
+      "usage": "回答时常用Not at all（不介意）或I'm sorry, but...（介意）",
+      "examples": [
+        {
+          "en": "Would you mind my coming with you?",
+          "zh": "你介意我和你一起去吗？"
+        },
+        {
+          "en": "Would you mind my opening the window?",
+          "zh": "你介意我打开窗户吗？"
+        }
+      ]
+    },
+    {
+      "title": "No matter how + 形容词/副词 + 主语 + 谓语",
+      "definition": "无论多么...，不管怎样...，用来引导让步状语从句",
+      "structure": "No matter how + adj./adv. + 主语 + 谓语",
+      "usage": "相当于However，用于强调无论条件如何变化，结果或情况不变",
+      "examples": [
+        {
+          "en": "No matter how busy you are, he always insists on coming with you.",
+          "zh": "无论你有多忙，他总是坚持要陪着你。"
+        },
+        {
+          "en": "No matter how hard I tried, I couldn't convince him.",
+          "zh": "无论我多努力，我都说服不了他。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "I had to think of a way of + 动名词",
+      "original": {
+        "en": "I had to think of a way of preventing him from following me around all morning.",
+        "zh": "我得想个办法阻止他一整个上午都跟着我。"
+      },
+      "imitations": [
+        {
+          "en": "I had to think of a way of getting rid of him.",
+          "zh": "我得想个办法摆脱他。"
+        },
+        {
+          "en": "She had to think of a way of explaining her absence.",
+          "zh": "她得想个办法解释她的缺席。"
+        }
+      ]
+    },
+    {
+      "pattern": "No matter how + 形容词/副词 + 主语 + be动词/情态动词",
+      "original": {
+        "en": "No matter how busy you are, he always insists on coming with you.",
+        "zh": "无论你有多忙，他总是坚持要陪着你。"
+      },
+      "imitations": [
+        {
+          "en": "No matter how tired I am, I must finish my work.",
+          "zh": "无论我有多累，我必须完成工作。"
+        },
+        {
+          "en": "No matter how cold it is, she goes running every morning.",
+          "zh": "无论天气多冷，她每天早上都去跑步。"
+        }
+      ]
+    },
+    {
+      "pattern": "Would you mind my + 动名词?",
+      "original": {
+        "en": "Would you mind my coming with you?",
+        "zh": "你介意我和你一起去吗？"
+      },
+      "imitations": [
+        {
+          "en": "Would you mind my sitting here?",
+          "zh": "你介意我坐这儿吗？"
+        },
+        {
+          "en": "Would you mind my using your phone?",
+          "zh": "你介意我用一下你的电话吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "There's plenty to + 动词原形",
+      "original": {
+        "en": "There's always plenty to read in the waiting room!",
+        "zh": "候诊室里总有很多东西可读！"
+      },
+      "imitations": [
+        {
+          "en": "There's plenty to see in this museum.",
+          "zh": "这个博物馆有很多可看的。"
+        },
+        {
+          "en": "There's plenty to do in London during the holiday.",
+          "zh": "假期里伦敦有很多可做的活动。"
+        }
+      ]
+    }
+  ]
+}

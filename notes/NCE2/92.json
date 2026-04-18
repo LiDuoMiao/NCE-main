@@ -1,0 +1,446 @@
+{
+  "book": "NCE2",
+  "lesson": "92",
+  "title": "Why did the policeman ask the writer to come to the police station?",
+  "vocabulary": [
+    {
+      "word": "ladder",
+      "phonetic": "/ˈlædər/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "梯子",
+          "usage": "用于攀爬高处，如爬墙或修缮房屋"
+        }
+      ]
+    },
+    {
+      "word": "shed",
+      "phonetic": "/ʃed/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "棚屋，小屋",
+          "usage": "指花园中存放工具的小房子"
+        }
+      ]
+    },
+    {
+      "word": "sarcastic",
+      "phonetic": "/sɑːrˈkæstɪk/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "讽刺的，嘲笑的",
+          "usage": "形容用讽刺的语气说话，常带有贬义"
+        }
+      ]
+    },
+    {
+      "word": "interrupt",
+      "phonetic": "/ˌɪntəˈrʌpt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "打断，中断",
+          "usage": "指打断某人说话或正在做的事"
+        }
+      ]
+    },
+    {
+      "word": "regret",
+      "phonetic": "/rɪˈɡret/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "后悔，遗憾",
+          "usage": "表示对已做的事感到后悔"
+        }
+      ]
+    },
+    {
+      "word": "fortunately",
+      "phonetic": "/ˈfɔːrtʃənətli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "幸运地",
+          "usage": "用于引出好的结果或运气好的情况"
+        }
+      ]
+    },
+    {
+      "word": "doorbell",
+      "phonetic": "/ˈdɔːrbel/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "门铃",
+          "usage": "按门时发出的铃声，用来通知屋内的人"
+        }
+      ]
+    },
+    {
+      "word": "tone",
+      "phonetic": "/toʊn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "语气，语调",
+          "usage": "指说话时的态度或语气"
+        }
+      ]
+    },
+    {
+      "word": "climb",
+      "phonetic": "/klaɪm/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "爬，攀爬",
+          "usage": "用于向上攀爬的动作"
+        }
+      ]
+    },
+    {
+      "word": "police station",
+      "phonetic": "/pəˈliːs ˈsteɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun phrase",
+          "meaning": "警察局",
+          "usage": "警察办公的地方"
+        }
+      ]
+    },
+    {
+      "word": "almost",
+      "phonetic": "/ˈɔːlmoʊst/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "几乎，差不多",
+          "usage": "表示非常接近但未完全达到"
+        }
+      ]
+    },
+    {
+      "word": "busy",
+      "phonetic": "/ˈbɪzi/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "忙碌的",
+          "usage": "形容人正在忙着做某事"
+        }
+      ]
+    },
+    {
+      "word": "prefer",
+      "phonetic": "/prɪˈfɜːr/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "更喜欢",
+          "usage": "用于表达在两个选项中更喜欢哪一个"
+        }
+      ]
+    },
+    {
+      "word": "shout",
+      "phonetic": "/ʃaʊt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "大声喊，叫",
+          "usage": "指出于某种原因大声说话"
+        }
+      ]
+    },
+    {
+      "word": "answer",
+      "phonetic": "/ˈænsər/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "回答，回应",
+          "usage": "用于对问题或陈述作出回应"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "wake up",
+      "usage": "叫醒/醒来",
+      "examples": [
+        {
+          "en": "I tried to wake up my wife by ringing the doorbell.",
+          "zh": "我按门铃试图叫醒我的妻子。"
+        },
+        {
+          "en": "The alarm clock woke me up at six.",
+          "zh": "闹钟六点把我叫醒了。"
+        }
+      ]
+    },
+    {
+      "phrase": "put against",
+      "usage": "靠在...上",
+      "examples": [
+        {
+          "en": "I got a ladder and put it against the wall.",
+          "zh": "我拿了梯子把它靠在墙上。"
+        },
+        {
+          "en": "He put the ladder against the tree.",
+          "zh": "他把梯子靠在树上。"
+        }
+      ]
+    },
+    {
+      "phrase": "look down",
+      "usage": "向下看",
+      "examples": [
+        {
+          "en": "I looked down and nearly fell off the ladder.",
+          "zh": "我向下看，差点从梯子上摔下来。"
+        },
+        {
+          "en": "She looked down at her feet.",
+          "zh": "她低头看着自己的脚。"
+        }
+      ]
+    },
+    {
+      "phrase": "fall off",
+      "usage": "从...跌落",
+      "examples": [
+        {
+          "en": "I nearly fell off the ladder when I saw a policeman.",
+          "zh": "我看到警察时差点从梯子上摔下来。"
+        },
+        {
+          "en": "The book fell off the table.",
+          "zh": "书从桌子上掉了下来。"
+        }
+      ]
+    },
+    {
+      "phrase": "would you mind",
+      "usage": "用于礼貌请求，后跟动名词",
+      "examples": [
+        {
+          "en": "Would you mind coming with me to the station?",
+          "zh": "你介意跟我去一趟警察局吗？"
+        },
+        {
+          "en": "Would you mind opening the window?",
+          "zh": "你介意打开窗户吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "prefer to",
+      "usage": "更倾向于...",
+      "examples": [
+        {
+          "en": "I'd prefer to stay here.",
+          "zh": "我更想留在这里。"
+        },
+        {
+          "en": "I prefer to read books at home.",
+          "zh": "我更喜欢在家里读书。"
+        }
+      ]
+    },
+    {
+      "phrase": "start to",
+      "usage": "开始做...",
+      "examples": [
+        {
+          "en": "The policeman had started to climb towards me.",
+          "zh": "警察已经开始向我爬过来。"
+        },
+        {
+          "en": "She started to cry when she heard the news.",
+          "zh": "听到这个消息她开始哭了起来。"
+        }
+      ]
+    },
+    {
+      "phrase": "be fast asleep",
+      "usage": "睡得很熟",
+      "examples": [
+        {
+          "en": "She was fast asleep.",
+          "zh": "她睡得很熟。"
+        },
+        {
+          "en": "The children are fast asleep.",
+          "zh": "孩子们都睡得很熟。"
+        }
+      ]
+    },
+    {
+      "phrase": "in the same tone",
+      "usage": "用同样的语气",
+      "examples": [
+        {
+          "en": "The policeman answered in the same tone.",
+          "zh": "警察用同样的语气回答。"
+        },
+        {
+          "en": "He said in the same tone.",
+          "zh": "他用同样的语气说道。"
+        }
+      ]
+    },
+    {
+      "phrase": "open the window",
+      "usage": "打开窗户",
+      "examples": [
+        {
+          "en": "My wife opened the window.",
+          "zh": "我的妻子打开了窗户。"
+        },
+        {
+          "en": "It's hot here. Can you open the window?",
+          "zh": "这里很热。你能打开窗户吗？"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去进行时 (Past Continuous Tense)",
+      "definition": "表示在过去某一时刻或某一段时间正在进行的动作",
+      "structure": "主语 + was/were + 动词-ing",
+      "usage": "用于描述故事发生的背景，或表示过去的某个时刻正在进行的动作",
+      "examples": [
+        {
+          "en": "I was climbing towards the bedroom window.",
+          "zh": "我正在向卧室窗户攀爬。"
+        },
+        {
+          "en": "She was sleeping when I came home.",
+          "zh": "我回家时她正在睡觉。"
+        },
+        {
+          "en": "The policeman was standing below the ladder.",
+          "zh": "警察正站在梯子下面。"
+        }
+      ]
+    },
+    {
+      "title": "when引导的并列句 (when-Compound Sentence)",
+      "definition": "when引导的并列句表示一个动作突然发生，常用过去时",
+      "structure": "过去进行时 + when + 一般过去时",
+      "usage": "when在并列句中表示'就在这时'，when前的分句用过去进行时，when后的分句用一般过去时",
+      "examples": [
+        {
+          "en": "I was almost there when a voice said.",
+          "zh": "我快要到的时候，一个声音响起。"
+        },
+        {
+          "en": "I was reading when the phone rang.",
+          "zh": "我正在看书时电话响了。"
+        },
+        {
+          "en": "She was cooking when the doorbell rang.",
+          "zh": "她正在做饭时门铃响了。"
+        }
+      ]
+    },
+    {
+      "title": "would you mind + 动名词 (Polite Requests)",
+      "definition": "用于礼貌地提出请求，询问对方是否介意做某事",
+      "structure": "Would you mind + 动名词?",
+      "usage": "是一种非常礼貌的请求方式，回答时通常表示不介意或委婉拒绝",
+      "examples": [
+        {
+          "en": "Would you mind coming with me to the station?",
+          "zh": "你介意跟我去一趟警察局吗？"
+        },
+        {
+          "en": "Would you mind opening the door?",
+          "zh": "你介意开门吗？"
+        },
+        {
+          "en": "Would you mind waiting here for a moment?",
+          "zh": "你介意在这里等一会儿吗？"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "I was + 动词-ing when + 主语 + 动词过去式",
+      "original": {
+        "en": "I was almost there when a sarcastic voice below said.",
+        "zh": "我快要到的时候，下面一个讽刺的声音响起。"
+      },
+      "imitations": [
+        {
+          "en": "I was walking home when it started to rain.",
+          "zh": "我正在走路回家时开始下雨了。"
+        },
+        {
+          "en": "He was cooking dinner when the light went out.",
+          "zh": "他正在做晚饭时灯灭了。"
+        }
+      ]
+    },
+    {
+      "pattern": "would you mind + 动名词?",
+      "original": {
+        "en": "Would you mind coming with me to the station?",
+        "zh": "你介意跟我去一趟警察局吗？"
+      },
+      "imitations": [
+        {
+          "en": "Would you mind passing me the salt?",
+          "zh": "你介意把盐递给我吗？"
+        },
+        {
+          "en": "Would you mind closing the window?",
+          "zh": "你介意关上窗户吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "I prefer to + 动词原形",
+      "original": {
+        "en": "I'd prefer to stay here.",
+        "zh": "我更想留在这里。"
+      },
+      "imitations": [
+        {
+          "en": "I prefer to drink coffee in the morning.",
+          "zh": "我更喜欢早上喝咖啡。"
+        },
+        {
+          "en": "She prefers to travel alone.",
+          "zh": "她更喜欢独自旅行。"
+        }
+      ]
+    },
+    {
+      "pattern": "try to + 动词原形",
+      "original": {
+        "en": "I tried to wake up my wife by ringing the doorbell.",
+        "zh": "我按门铃试图叫醒我的妻子。"
+      },
+      "imitations": [
+        {
+          "en": "He tried to open the door with his key.",
+          "zh": "他试图用钥匙开门。"
+        },
+        {
+          "en": "They tried to finish the work before dark.",
+          "zh": "他们试图在天黑前完成工作。"
+        }
+      ]
+    }
+  ]
+}

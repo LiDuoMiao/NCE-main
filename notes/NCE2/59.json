@@ -1,0 +1,404 @@
+{
+  "vocabulary": [
+    {
+      "word": "bark",
+      "phonetic": "/bɑːrk/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "狗叫；吠",
+          "usage": "用作动词时表示动物（尤其是狗）发出叫声；也可作名词指这种叫声。"
+        },
+        {
+          "pos": "noun",
+          "meaning": "叫声；吠声",
+          "usage": "指动物发出的叫声，如狗的吠声。"
+        }
+      ]
+    },
+    {
+      "word": "gate",
+      "phonetic": "/ɡeɪt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "大门；栅栏门",
+          "usage": "指围栏、围墙或入口处的可开启的门。"
+        }
+      ]
+    },
+    {
+      "word": "garden",
+      "phonetic": "/ˈɡɑːrdən/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "花园；庭院",
+          "usage": "指房屋周围种植花草或蔬菜的区域，也可作后院。"
+        }
+      ]
+    },
+    {
+      "word": "neighbour",
+      "phonetic": "/ˈneɪbər/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "邻居",
+          "usage": "指居住在附近的人。"
+        }
+      ]
+    },
+    {
+      "word": "complain",
+      "phonetic": "/kəmˈpleɪn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "抱怨；投诉",
+          "usage": "表示对不满意的事情表达不满或提出意见。"
+        }
+      ]
+    },
+    {
+      "word": "train",
+      "phonetic": "/treɪn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "训练；培训",
+          "usage": "通过反复练习使动物或人学会某种技能或行为。"
+        }
+      ]
+    },
+    {
+      "word": "press",
+      "phonetic": "/prɛs/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "按；压",
+          "usage": "用手或身体某部位施加力量，使某物移动或触发某装置。"
+        }
+      ]
+    },
+    {
+      "word": "paw",
+      "phonetic": "/pɔː/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "爪子",
+          "usage": "指动物（尤其是哺乳动物）的脚掌，带有爪子。"
+        }
+      ]
+    },
+    {
+      "word": "latch",
+      "phonetic": "/lætʃ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "门闩；锁扣",
+          "usage": "用于关闭门、箱子等的金属或塑料装置。"
+        }
+      ]
+    },
+    {
+      "word": "expert",
+      "phonetic": "/ˈɛkspɜːrt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "专家",
+          "usage": "在某一领域拥有丰富经验和知识的人。"
+        },
+        {
+          "pos": "adj",
+          "meaning": "熟练的；精通的",
+          "usage": "形容在某方面技术高超。"
+        }
+      ]
+    },
+    {
+      "word": "habit",
+      "phonetic": "/ˈhæbɪt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "习惯",
+          "usage": "指经常重复的行为或思维模式。"
+        }
+      ]
+    },
+    {
+      "word": "immediately",
+      "phonetic": "/ɪˈmiːdiətli/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "立刻；立即",
+          "usage": "表示没有延迟，马上进行。"
+        }
+      ]
+    },
+    {
+      "word": "remove",
+      "phonetic": "/rɪˈmuːv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "移除；去掉",
+          "usage": "指把某物从原位置拿走或取消。"
+        }
+      ]
+    },
+    {
+      "word": "annoyed",
+      "phonetic": "/əˈnɔɪd/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "烦恼的；生气的",
+          "usage": "形容对某事感到不满或烦躁。"
+        }
+      ]
+    },
+    {
+      "word": "notice",
+      "phonetic": "/ˈnoʊtɪs/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "注意到；察觉",
+          "usage": "指意识到或看到某件事。"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "every time",
+      "usage": "作时间连词，意为“每次”。用于描述每一次发生的行为或事件。",
+      "examples": [
+        {
+          "en": "Every time he wanted to come into the garden he would bark until someone opened the gate.",
+          "zh": "每次他想进花园时，他都会叫到有人打开门为止。"
+        }
+      ]
+    },
+    {
+      "phrase": "as soon as",
+      "usage": "作时间连词，意为“一……就……”。强调两件事几乎立即发生。",
+      "examples": [
+        {
+          "en": "As soon as he opens the gate from the outside, he comes into the garden and waits until the gate shuts.",
+          "zh": "他一从外面打开门，就走进花园，等门关上。"
+        }
+      ]
+    },
+    {
+      "phrase": "used to",
+      "usage": "用于表示过去经常做但现在不再做的动作或状态。结构：主语 + used to + 动词原形。",
+      "examples": [
+        {
+          "en": "Our dog, Rex, used to sit outside our front gate and bark.",
+          "zh": "我们的狗Rex过去常常坐在前门外叫。"
+        }
+      ]
+    },
+    {
+      "phrase": "to spend weeks doing something",
+      "usage": "表示花费数周时间做某事。结构：spend + 时间 + doing。",
+      "examples": [
+        {
+          "en": "My husband spent weeks training him to press his paw on the latch to let himself in.",
+          "zh": "我丈夫花了数周训练他用爪子按门闩，让自己进来。"
+        }
+      ]
+    },
+    {
+      "phrase": "to develop a bad habit",
+      "usage": "指养成坏习惯。常用结构：develop + a + (bad) habit。",
+      "examples": [
+        {
+          "en": "Since then, he has developed another bad habit.",
+          "zh": "从那以后，他又养成了另一个坏习惯。"
+        }
+      ]
+    },
+    {
+      "phrase": "to let someone in/out",
+      "usage": "表示让某人进来或出去。",
+      "examples": [
+        {
+          "en": "He sits and barks until someone lets him out.",
+          "zh": "他坐在那里叫，直到有人让他出去。"
+        }
+      ]
+    },
+    {
+      "phrase": "to be annoyed",
+      "usage": "表示感到烦恼或生气。常用结构：be + annoyed (at/with)。",
+      "examples": [
+        {
+          "en": "Rex got so annoyed we have not seen him since.",
+          "zh": "Rex非常生气，以至于我们一直没有再见到他。"
+        }
+      ]
+    },
+    {
+      "phrase": "to remove the gate",
+      "usage": "指把门拆掉或移走。",
+      "examples": [
+        {
+          "en": "Yesterday my husband removed the gate and Rex got so annoyed we have not seen him since.",
+          "zh": "昨天我丈夫把门拆了，Rex非常生气，以至于我们一直没再见到他。"
+        }
+      ]
+    },
+    {
+      "phrase": "so that",
+      "usage": "作目的连词，意为“为了……”。用于说明行为的目的。",
+      "examples": [
+        {
+          "en": "This time he was barking so that someone would let him out!",
+          "zh": "这次他叫是为了让有人让他出去。"
+        }
+      ]
+    },
+    {
+      "phrase": "to press his paw on the latch",
+      "usage": "指把爪子按在门闩上，用于开门或触发装置。",
+      "examples": [
+        {
+          "en": "my husband spent weeks training him to press his paw on the latch to let himself in.",
+          "zh": "我丈夫花了数周训练他用爪子按门闩，让自己进来。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "used to 表示过去的习惯",
+      "definition": "used to 表示过去经常做但现在已经不再发生的动作或状态。",
+      "structure": "主语 + used to + 动词原形",
+      "usage": "用于描述过去的习惯性行为，强调过去的常态与现在的对比。",
+      "examples": [
+        {
+          "en": "Our dog, Rex, used to sit outside our front gate and bark.",
+          "zh": "我们的狗Rex过去常常坐在前门外叫。"
+        },
+        {
+          "en": "I used to smoke, but now I don't.",
+          "zh": "我以前吸烟，但现在不吸了。"
+        }
+      ]
+    },
+    {
+      "title": "as soon as 引导的时间状语从句",
+      "definition": "as soon as 引导的从句表示主句动作在从句动作之后立即发生。",
+      "structure": "as soon as + 主语 + 过去式 / 现在时, 主句",
+      "usage": "用于强调两件事几乎同时或紧接着发生。",
+      "examples": [
+        {
+          "en": "As soon as he opens the gate from the outside, he comes into the garden and waits until the gate shuts.",
+          "zh": "他一从外面打开门，就走进花园，等门关上。"
+        },
+        {
+          "en": "As soon as I arrived, the meeting started.",
+          "zh": "我一到达，会议就开始了。"
+        }
+      ]
+    },
+    {
+      "title": "every time 引导的时间状语从句",
+      "definition": "every time 引导的从句表示每一次某事发生时都会导致另一件事。",
+      "structure": "Every time + 主语 + 过去式, 主句",
+      "usage": "用于描述每次重复发生的事情。",
+      "examples": [
+        {
+          "en": "Every time he wanted to come into the garden he would bark until someone opened the gate.",
+          "zh": "每次他想进花园时，他都会叫到有人打开门为止。"
+        },
+        {
+          "en": "Every time it rains, the street gets flooded.",
+          "zh": "每次下雨，街道都会被淹。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Every time + subject + past simple + ...",
+      "original": {
+        "en": "Every time he wanted to come into the garden he would bark until someone opened the gate.",
+        "zh": "每次他想进花园时，他都会叫到有人打开门为止。"
+      },
+      "imitations": [
+        {
+          "en": "Every time I feel tired, I take a short nap.",
+          "zh": "每次我觉得累的时候，我会小睡一会儿。"
+        },
+        {
+          "en": "Every time it snows, the children go outside to play.",
+          "zh": "每次下雪，孩子们都会出去玩。"
+        }
+      ]
+    },
+    {
+      "pattern": "As soon as + subject + present simple + ...",
+      "original": {
+        "en": "As soon as he opens the gate from the outside, he comes into the garden and waits until the gate shuts.",
+        "zh": "他一从外面打开门，就走进花园，等门关上。"
+      },
+      "imitations": [
+        {
+          "en": "As soon as she finishes her homework, she watches TV.",
+          "zh": "她一完成作业，就看电视。"
+        },
+        {
+          "en": "As soon as the alarm rings, everyone rushes to the exit.",
+          "zh": "警报一响，大家就冲向出口。"
+        }
+      ]
+    },
+    {
+      "pattern": "Subject + used to + verb",
+      "original": {
+        "en": "Our dog, Rex, used to sit outside our front gate and bark.",
+        "zh": "我们的狗Rex过去常常坐在前门外叫。"
+      },
+      "imitations": [
+        {
+          "en": "I used to live in a small town.",
+          "zh": "我过去住在一个小城镇。"
+        },
+        {
+          "en": "He used to play football every weekend.",
+          "zh": "他过去常常每个周末踢足球。"
+        }
+      ]
+    },
+    {
+      "pattern": "so + adjective + that + clause",
+      "original": {
+        "en": "He was so annoyed we have not seen him since.",
+        "zh": "他非常生气，以至于我们一直没有见到他。"
+      },
+      "imitations": [
+        {
+          "en": "She was so tired that she fell asleep immediately.",
+          "zh": "她太累了，以至于立刻就睡着了。"
+        },
+        {
+          "en": "The movie was so exciting that I couldn't stop watching.",
+          "zh": "电影太精彩了，以至于我停不下来。"
+        }
+      ]
+    }
+  ],
+  "book": "NCE2",
+  "lesson": "59",
+  "title": "Why did Rex run away?"
+}

@@ -1,0 +1,463 @@
+{
+  "book": "NCE2",
+  "lesson": "88",
+  "title": "Why is the rescue taking so long?",
+  "vocabulary": [
+    {
+      "word": "trap",
+      "phonetic": "/træp/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "使困住，使陷入困境",
+          "usage": "常用被动语态 be trapped in"
+        },
+        {
+          "pos": "noun",
+          "meaning": "陷阱，困境",
+          "usage": "可指物理陷阱或比喻意义上的困境"
+        }
+      ]
+    },
+    {
+      "word": "rescue",
+      "phonetic": "/ˈreskjuː/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "营救，救援",
+          "usage": "常用 rescue sb from sth"
+        },
+        {
+          "pos": "noun",
+          "meaning": "营救，救援",
+          "usage": "可作主语或宾语"
+        }
+      ]
+    },
+    {
+      "word": "surface",
+      "phonetic": "/ˈsɜːfɪs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "表面，地面",
+          "usage": "bring to the surface 带到地面"
+        },
+        {
+          "pos": "verb",
+          "meaning": "浮出水面，露面",
+          "usage": "不及物动词"
+        }
+      ]
+    },
+    {
+      "word": "operation",
+      "phonetic": "/ˌɒpəˈreɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "操作，行动，手术",
+          "usage": "rescue operations 救援行动"
+        },
+        {
+          "pos": "noun",
+          "meaning": "运算",
+          "usage": "数学用语"
+        }
+      ]
+    },
+    {
+      "word": "explosive",
+      "phonetic": "/ɪkˈspləʊsɪv/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "炸药，爆炸物",
+          "usage": "常用复数形式 explosives"
+        },
+        {
+          "pos": "adj",
+          "meaning": "爆炸的，易爆的",
+          "usage": "作定语修饰名词"
+        }
+      ]
+    },
+    {
+      "word": "vibration",
+      "phonetic": "/vaɪˈbreɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "震动，颤动",
+          "usage": "常用复数 vibrations"
+        },
+        {
+          "pos": "noun",
+          "meaning": "共鸣，感受",
+          "usage": "非正式用语，意为'直觉感受'"
+        }
+      ]
+    },
+    {
+      "word": "collapse",
+      "phonetic": "/kəˈlæps/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "倒塌，坍塌",
+          "usage": "不及物动词，不能带宾语"
+        },
+        {
+          "pos": "noun",
+          "meaning": "倒塌，崩溃",
+          "usage": "可用作主语或宾语"
+        }
+      ]
+    },
+    {
+      "word": "drill",
+      "phonetic": "/drɪl/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "钻孔，训练",
+          "usage": "drill a hole 钻一个洞"
+        },
+        {
+          "pos": "noun",
+          "meaning": "钻头，训练",
+          "usage": "作名词时指工具或训练"
+        }
+      ]
+    },
+    {
+      "word": "capsule",
+      "phonetic": "/ˈkæpsjuːl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "太空舱，胶囊",
+          "usage": "特指救援用的特殊吊舱"
+        },
+        {
+          "pos": "noun",
+          "meaning": "密封舱",
+          "usage": "航天或潜水用语"
+        }
+      ]
+    },
+    {
+      "word": "beneath",
+      "phonetic": "/bɪˈniːθ/",
+      "meanings": [
+        {
+          "pos": "prep",
+          "meaning": "在...下面",
+          "usage": "比 under 更正式，多用于书面语"
+        }
+      ]
+    },
+    {
+      "word": "enable",
+      "phonetic": "/ɪˈneɪbl/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "使能够，使成为可能",
+          "usage": "enable sb to do sth 使某人能够做某事"
+        }
+      ]
+    },
+    {
+      "word": "cheerful",
+      "phonetic": "/ˈtʃɪəfl/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "快乐的，高兴的",
+          "usage": "描述人的情绪状态"
+        },
+        {
+          "pos": "adj",
+          "meaning": "令人愉快的",
+          "usage": "描述事物或环境"
+        }
+      ]
+    },
+    {
+      "word": "confident",
+      "phonetic": "/ˈkɒnfɪdənt/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "自信的，有信心的",
+          "usage": "confident that + 从句 表示'确信...'"
+        },
+        {
+          "pos": "adj",
+          "meaning": "肯定的，确定的",
+          "usage": "confident of/about doing sth"
+        }
+      ]
+    },
+    {
+      "word": "smoothly",
+      "phonetic": "/ˈsmuːðli/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "顺利地，光滑地",
+          "usage": "progress smoothly 进展顺利"
+        },
+        {
+          "pos": "adv",
+          "meaning": "流畅地",
+          "usage": "描述动作或过程"
+        }
+      ]
+    },
+    {
+      "word": "lose heart",
+      "phonetic": "/luːz hɑːt/",
+      "meanings": [
+        {
+          "pos": "verb phrase",
+          "meaning": "失去信心，灰心",
+          "usage": "lose heart 是固定搭配，heart 不加 s"
+        },
+        {
+          "pos": "verb phrase",
+          "meaning": "泄气",
+          "usage": "与 lose heart 相反的是 take heart 或 pluck up courage"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "bring to the surface",
+      "usage": "把...带到地面，救出地面",
+      "examples": [
+        {
+          "en": "If they are not brought to the surface soon, they may lose their lives.",
+          "zh": "如果不尽快把他们救到地面，他们可能会失去生命。"
+        }
+      ]
+    },
+    {
+      "phrase": "run out of",
+      "usage": "用完，耗尽（主动含义，主语消耗完某物）",
+      "examples": [
+        {
+          "en": "Though they are running out of food and drink, the men are cheerful.",
+          "zh": "虽然他们的食物和饮料快用完了，但这些人仍然很乐观。"
+        }
+      ]
+    },
+    {
+      "phrase": "keep in touch with",
+      "usage": "与...保持联系",
+      "examples": [
+        {
+          "en": "The microphone has enabled the men to keep in touch with their closest relatives.",
+          "zh": "麦克风使这些人能够与他们的至亲保持联系。"
+        }
+      ]
+    },
+    {
+      "phrase": "lose heart",
+      "usage": "失去信心，灰心丧气",
+      "examples": [
+        {
+          "en": "If they knew how difficult it was to drill through the hard rock, they would lose heart.",
+          "zh": "如果他们知道在硬岩石上钻孔有多难，他们会失去信心的。"
+        }
+      ]
+    },
+    {
+      "phrase": "prove difficult",
+      "usage": "证明是困难的，结果很困难",
+      "examples": [
+        {
+          "en": "However, rescue operations are proving difficult.",
+          "zh": "然而，救援行动证明是困难的。"
+        }
+      ]
+    },
+    {
+      "phrase": "in a few hours",
+      "usage": "在几小时内",
+      "examples": [
+        {
+          "en": "They would have completed the job in a few hours.",
+          "zh": "他们本可以在几小时内完成这项工作的。"
+        }
+      ]
+    },
+    {
+      "phrase": "as it is",
+      "usage": "事实上，实际上（表示与预期相反的情况）",
+      "examples": [
+        {
+          "en": "As it is, they have been drilling for 16 hours and they still have a long way to go.",
+          "zh": "事实上，他们已经钻了16个小时了，但仍有很长的路要走。"
+        }
+      ]
+    },
+    {
+      "phrase": "have a long way to go",
+      "usage": "还有很长的路要走，还有很多工作要做",
+      "examples": [
+        {
+          "en": "They still have a long way to go.",
+          "zh": "他们仍然有很长的路要走。"
+        }
+      ]
+    },
+    {
+      "phrase": "be confident that",
+      "usage": "确信，相信（后接从句）",
+      "examples": [
+        {
+          "en": "The men are confident that they will get out soon.",
+          "zh": "这些人确信他们很快就能出去。"
+        }
+      ]
+    },
+    {
+      "phrase": "progress smoothly",
+      "usage": "进展顺利",
+      "examples": [
+        {
+          "en": "They have been told that rescue operations are progressing smoothly.",
+          "zh": "他们被告知救援行动正在顺利进行。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "第三条件句（Third Conditional）",
+      "definition": "表示与过去事实完全相反的假设，结构为'如果过去做了某事（但实际没做），结果会不同'",
+      "structure": "If + 主语 + had + 过去分词，主语 + would have + 过去分词",
+      "usage": "用于讨论与过去事实相反的假设情况，表达遗憾或想象的结果",
+      "examples": [
+        {
+          "en": "If there had not been a hard layer of rock beneath the soil, they would have completed the job in a few hours.",
+          "zh": "如果土壤下面没有那层硬岩石，他们本可以在几个小时内完成这项工作的。"
+        },
+        {
+          "en": "If they had known the truth, they would have prepared better.",
+          "zh": "如果他们早知道真相，他们就会准备得更好。"
+        }
+      ]
+    },
+    {
+      "title": "现在完成进行时（Present Perfect Continuous）",
+      "definition": "表示从过去开始一直持续到现在的动作，可能还在继续，并强调动作的持续性",
+      "structure": "主语 + have/has + been + 动词-ing",
+      "usage": "强调动作的持续性，通常与 for、since、all day 等时间状语连用",
+      "examples": [
+        {
+          "en": "They have been drilling for 16 hours.",
+          "zh": "他们已经钻了16个小时了。"
+        },
+        {
+          "en": "Six men have been trapped in the mine for seventeen hours.",
+          "zh": "六个人已经在矿井里被困了17个小时。"
+        }
+      ]
+    },
+    {
+      "title": "被动语态（Passive Voice）在不同时间中的应用",
+      "definition": "当主语是动作的承受者时，使用被动语态。不同时态的被动形式体现了动作发生的时间",
+      "structure": "be + 过去分词（不同时态的 be 形式）",
+      "usage": "本课展示了多种被动语态：现在进行时被动（are being brought）、现在完成时被动（has been lowered）、一般过去时被动（was lowered）",
+      "examples": [
+        {
+          "en": "If they are not brought to the surface soon... (现在时被动)",
+          "zh": "如果他们不尽快被带到地面..."
+        },
+        {
+          "en": "A microphone, which was lowered into the mine two hours ago... (过去时被动)",
+          "zh": "两个小时前被放到矿井里的麦克风..."
+        },
+        {
+          "en": "They intend to bring the men up in a special capsule. (主动语态)",
+          "zh": "他们打算用特殊的吊舱把这些人救上来。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "If + there had not been + 名词，主语 + would have + 过去分词",
+      "original": {
+        "en": "If there had not been a hard layer of rock beneath the soil, they would have completed the job in a few hours.",
+        "zh": "如果土壤下面没有那层硬岩石，他们本可以在几个小时内完成这项工作的。"
+      },
+      "imitations": [
+        {
+          "en": "If there had not been the heavy rain, we would have arrived on time.",
+          "zh": "如果没有那场大雨，我们本可以准时到达的。"
+        },
+        {
+          "en": "If there had not been your help, I would have failed the exam.",
+          "zh": "如果没有你的帮助，我考试就会不及格了。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + have/has been + 动词-ing + for + 时间段",
+      "original": {
+        "en": "They have been drilling for 16 hours.",
+        "zh": "他们已经钻了16个小时了。"
+      },
+      "imitations": [
+        {
+          "en": "I have been studying English for two hours.",
+          "zh": "我已经学了两个小时的英语了。"
+        },
+        {
+          "en": "She has been waiting for you since morning.",
+          "zh": "她从早上起就一直在等你。"
+        }
+      ]
+    },
+    {
+      "pattern": "If + 主语 + are/is not + 过去分词，主语 + may + 动词原形",
+      "original": {
+        "en": "If they are not brought to the surface soon they may lose their lives.",
+        "zh": "如果不尽快把他们救到地面，他们可能会失去生命。"
+      },
+      "imitations": [
+        {
+          "en": "If the medicine is not taken in time, the patient may die.",
+          "zh": "如果不及时服药，病人可能会死。"
+        },
+        {
+          "en": "If the problem is not solved today, we may face greater difficulties.",
+          "zh": "如果今天不解决这个问题，我们可能会面临更大的困难。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + be + 形容词 + that + 从句",
+      "original": {
+        "en": "The men are cheerful and confident that they will get out soon.",
+        "zh": "这些人很乐观，并确信他们很快就能出去。"
+      },
+      "imitations": [
+        {
+          "en": "I am sure that he will succeed.",
+          "zh": "我确信他会成功。"
+        },
+        {
+          "en": "She is worried that she might miss the train.",
+          "zh": "她担心她可能会错过火车。"
+        }
+      ]
+    }
+  ]
+}

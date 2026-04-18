@@ -1,0 +1,382 @@
+{
+  "book": "NCE3",
+  "lesson": "19",
+  "title": "Lesson 19",
+  "vocabulary": [
+    {
+      "word": "kidnapper",
+      "phonetic": "/ˈkɪdnæpə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "绑架者，绑匪",
+          "usage": "指参与绑架他人的人，通常为了索要赎金"
+        }
+      ]
+    },
+    {
+      "word": "considerable",
+      "phonetic": "/kənˈsɪdərəbl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "相当大的；相当多的",
+          "usage": "强调数量或程度之大，常用于正式语境"
+        }
+      ]
+    },
+    {
+      "word": "wealthy",
+      "phonetic": "/ˈwelθi/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "富有的；富裕的",
+          "usage": "形容拥有大量财富的人，是rich的正式表达"
+        }
+      ]
+    },
+    {
+      "word": "orderly",
+      "phonetic": "/ˈɔːrdərli/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "有秩序的；有规律的",
+          "usage": "形容事物有条理、有规则，也可指人守秩序"
+        }
+      ]
+    },
+    {
+      "word": "disappearance",
+      "phonetic": "/ˌdɪsəˈpɪərəns/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "失踪；消失",
+          "usage": "disappear的名词形式，指某人或某物不见的情况"
+        }
+      ]
+    },
+    {
+      "word": "anonymous",
+      "phonetic": "/əˈnɒnɪməs/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "匿名的；不具名的",
+          "usage": "指不透露身份或姓名的，常用于信件、捐款等"
+        }
+      ]
+    },
+    {
+      "word": "ransom",
+      "phonetic": "/ˈrænsəm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "赎金",
+          "usage": "绑架案中要求支付的金钱，作为释放人质的条件"
+        }
+      ]
+    },
+    {
+      "word": "instruct",
+      "phonetic": "/ɪnˈstrʌkt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "指示；命令；嘱咐",
+          "usage": "正式用语，指给出明确的指示或命令"
+        }
+      ]
+    },
+    {
+      "word": "withdraw",
+      "phonetic": "/wɪðˈdrɔː/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "取（钱）；提取",
+          "usage": "指从银行账户中取出资金，也可用作收回承诺等"
+        }
+      ]
+    },
+    {
+      "word": "punctually",
+      "phonetic": "/ˈpʌŋktʃuəli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "准时地；按时地",
+          "usage": "准时地，强调时间的精确性，是punctual的副词形式"
+        }
+      ]
+    },
+    {
+      "word": "astound",
+      "phonetic": "/əˈstaʊnd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "使震惊；使大吃一惊",
+          "usage": "语气比surprise更强，表示极度惊讶"
+        }
+      ]
+    },
+    {
+      "word": "cardboard",
+      "phonetic": "/ˈkɑːdbɔːrd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "硬纸板；卡纸",
+          "usage": "指用于制作盒子等的厚纸材料"
+        }
+      ]
+    },
+    {
+      "word": "flat",
+      "phonetic": "/flæt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "公寓；一套房间",
+          "usage": "英式英语，指同一层楼的公寓套房"
+        }
+      ]
+    },
+    {
+      "word": "dear",
+      "phonetic": "/dɪə/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "亲爱的；昂贵的",
+          "usage": "双重含义：1.表示亲爱的、珍贵的 2.表示价格高的；本课利用这双关"
+        }
+      ]
+    },
+    {
+      "word": "share",
+      "phonetic": "/ʃeə/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "共用；分享；共享",
+          "usage": "指与他人共同使用或拥有某物"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "take interest in",
+      "usage": "对...感兴趣；关注...",
+      "examples": [
+        {
+          "en": "They recently took considerable interest in Mrs. Ramsay's cat.",
+          "zh": "他们最近对拉姆齐夫人的猫非常感兴趣。"
+        }
+      ]
+    },
+    {
+      "phrase": "in safe hands",
+      "usage": "安全；处于可信赖的人手中",
+      "examples": [
+        {
+          "en": "The writer stated that Rastus was in safe hands.",
+          "zh": "写信人称拉斯塔斯很安全。"
+        }
+      ]
+    },
+    {
+      "phrase": "change one's mind",
+      "usage": "改变主意",
+      "examples": [
+        {
+          "en": "She changed her mind and decided to pay the ransom.",
+          "zh": "她改变了主意，决定支付赎金。"
+        }
+      ]
+    },
+    {
+      "phrase": "keep one's word",
+      "usage": "遵守诺言；言而有信",
+      "examples": [
+        {
+          "en": "Mrs. Ramsay was sure that the kidnapper would keep his word.",
+          "zh": "拉姆齐夫人确信绑匪会遵守诺言。"
+        }
+      ]
+    },
+    {
+      "phrase": "look everywhere for",
+      "usage": "到处寻找",
+      "examples": [
+        {
+          "en": "She looked everywhere for him but could not find him.",
+          "zh": "她到处找他，但找不到。"
+        }
+      ]
+    },
+    {
+      "phrase": "follow one's instructions",
+      "usage": "按照某人的指示行事",
+      "examples": [
+        {
+          "en": "She withdrew money and followed the kidnapper's instructions.",
+          "zh": "她取了钱并按照绑匪的指示行事。"
+        }
+      ]
+    },
+    {
+      "phrase": "lead an orderly life",
+      "usage": "过着有规律的生活",
+      "examples": [
+        {
+          "en": "Rastus leads an orderly life.",
+          "zh": "拉斯塔斯过着有规律的生活。"
+        }
+      ]
+    },
+    {
+      "phrase": "in more ways than one",
+      "usage": "不止一种方式；多方面地",
+      "examples": [
+        {
+          "en": "Considering the amount she paid, he was dear in more ways than one!",
+          "zh": "考虑到她付出的金额，拉斯塔斯多方面都很珍贵！"
+        }
+      ]
+    },
+    {
+      "phrase": "be dear to someone",
+      "usage": "对某人来说很珍贵/亲爱的",
+      "examples": [
+        {
+          "en": "Rastus was very dear to her.",
+          "zh": "拉斯塔斯对她来说非常珍贵。"
+        }
+      ]
+    },
+    {
+      "phrase": "make something clear",
+      "usage": "把...讲清楚；使...明确",
+      "examples": [
+        {
+          "en": "The letter had made that quite clear.",
+          "zh": "信里已经把这一点说得清清楚楚。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去进行时 (Past Continuous Tense)",
+      "definition": "表示在过去某一时刻或某一段时间正在进行的动作，常与when、while等连用",
+      "structure": "主语 + was/were + 动词-ing",
+      "usage": "用于描述过去正在发生的动作背景，或与一般过去时连用表示过去某事发生时有另一动作在进行",
+      "examples": [
+        {
+          "en": "One evening, however, he failed to arrive.",
+          "zh": "然而，有一天晚上，他没有按时回家。"
+        }
+      ]
+    },
+    {
+      "title": "条件状语从句 (Conditional Clause)",
+      "definition": "由if引导的条件句，表达假设的情况及其可能的结果",
+      "structure": "If + 主语 + 过去式, 主语 + would/could + 动词原形",
+      "usage": "用于谈论不太可能发生的假设情况，或与过去事实相反的虚拟语气",
+      "examples": [
+        {
+          "en": "She decided to go to the police, but fearing that she would never see Rastus again, she changed her mind.",
+          "zh": "她本想去报警，但又担心再也见不到拉斯塔斯了，于是改变了主意。"
+        }
+      ]
+    },
+    {
+      "title": "双关语 (Pun)",
+      "definition": "利用词语的多义性或同音异义词创造幽默效果的修辞手法",
+      "structure": "同一个词在不同语境下有不同含义",
+      "usage": "用于创造幽默效果，本课中'dear'既表示'亲爱的'又表示'昂贵的'，形成文字游戏",
+      "examples": [
+        {
+          "en": "Rastus was very dear to her. Considering the amount she paid, he was dear in more ways than one!",
+          "zh": "拉斯塔斯对她来说非常珍贵。考虑到她付出的金额，他多方面都很值钱！"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "主语 + has shared + 名词 + with + 某人 + for + 时间段",
+      "original": {
+        "en": "Mrs. Eleanor Ramsay has shared a flat with her cat for a great many years.",
+        "zh": "埃莱娜·拉姆齐夫人和她的猫拉斯塔斯已经共同居住在一套公寓里很多年了。"
+      },
+      "imitations": [
+        {
+          "en": "He has shared an office with his brother for five years.",
+          "zh": "他和哥哥已经共用一间办公室五年了。"
+        },
+        {
+          "en": "Mary has shared a room with her sister since childhood.",
+          "zh": "玛丽从小就和妹妹同住一个房间。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + was + 形容词, though + 主语 + 动词",
+      "original": {
+        "en": "He looked very well, though he was rather thirsty.",
+        "zh": "他看起来很健康，虽然相当口渴。"
+      },
+      "imitations": [
+        {
+          "en": "She seemed happy, though she was actually quite tired.",
+          "zh": "她看起来很开心，虽然实际上很累。"
+        },
+        {
+          "en": "The book was interesting, though it was a bit long.",
+          "zh": "这本书很有趣，虽然有点长。"
+        }
+      ]
+    },
+    {
+      "pattern": "It is + 时间 + when...",
+      "original": {
+        "en": "Sure enough, Rastus arrived punctually at seven o'clock that evening.",
+        "zh": "果然，拉斯塔斯那天晚上准时七点回来了。"
+      },
+      "imitations": [
+        {
+          "en": "The train arrived exactly at nine o'clock as expected.",
+          "zh": "火车正如预期的那样准时九点到达。"
+        },
+        {
+          "en": "He came right on time for the meeting.",
+          "zh": "他正好准时来开会。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + explained that + 从句",
+      "original": {
+        "en": "She explained that Rastus was very dear to her.",
+        "zh": "她解释说拉斯塔斯对她来说非常珍贵。"
+      },
+      "imitations": [
+        {
+          "en": "He explained that the project would take another month.",
+          "zh": "他解释这个项目还需要一个月。"
+        },
+        {
+          "en": "The teacher explained that the exam would be next Friday.",
+          "zh": "老师解释说考试将在下周五进行。"
+        }
+      ]
+    }
+  ]
+}

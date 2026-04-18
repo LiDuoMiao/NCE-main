@@ -1,0 +1,413 @@
+{
+  "book": "NCE2",
+  "lesson": "75",
+  "title": "How did the woman get help?",
+  "vocabulary": [
+    {
+      "word": "passenger",
+      "phonetic": "/ˈpæsɪndʒə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "乘客，旅客",
+          "usage": "指乘坐交通工具的人"
+        }
+      ]
+    },
+    {
+      "word": "crash",
+      "phonetic": "/kræʃ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "坠毁，撞毁",
+          "usage": "指飞机、汽车等猛烈撞击而损坏"
+        },
+        {
+          "pos": "noun",
+          "meaning": "坠毁，撞击",
+          "usage": "指事故中交通工具的损坏"
+        }
+      ]
+    },
+    {
+      "word": "pilot",
+      "phonetic": "/ˈpaɪlət/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "飞行员",
+          "usage": "指驾驶飞机的人"
+        }
+      ]
+    },
+    {
+      "word": "unhurt",
+      "phonetic": "/ʌnˈhɜːt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "未受伤的",
+          "usage": "表示没有受到任何伤害"
+        }
+      ]
+    },
+    {
+      "word": "thick",
+      "phonetic": "/θɪk/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "厚的，浓的",
+          "usage": "形容物体粗大或密集"
+        }
+      ]
+    },
+    {
+      "word": "suitcase",
+      "phonetic": "/ˈsuːtkeɪs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "手提箱，衣箱",
+          "usage": "指旅行用的大箱子"
+        }
+      ]
+    },
+    {
+      "word": "terribly",
+      "phonetic": "/ˈterəbli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "非常，极度地",
+          "usage": "用于强调形容词或副词"
+        }
+      ]
+    },
+    {
+      "word": "signal",
+      "phonetic": "/ˈsɪɡnəl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "信号，暗号",
+          "usage": "用于传递信息的方式"
+        },
+        {
+          "pos": "verb",
+          "meaning": "发信号",
+          "usage": "指出于传递信息而做动作"
+        }
+      ]
+    },
+    {
+      "word": "stamp",
+      "phonetic": "/stæmp/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "踩，踏，用力跺",
+          "usage": "指用脚重重地踩踏地面"
+        }
+      ]
+    },
+    {
+      "word": "helicopter",
+      "phonetic": "/ˈhelɪkɒptə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "直升机",
+          "usage": "指带旋转螺旋桨的航空器"
+        }
+      ]
+    },
+    {
+      "word": "rescue",
+      "phonetic": "/ˈreskjuː/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "营救，救援",
+          "usage": "指从危险中救出"
+        },
+        {
+          "pos": "noun",
+          "meaning": "营救，救援",
+          "usage": "指营救的行动"
+        }
+      ]
+    },
+    {
+      "word": "survivor",
+      "phonetic": "/səˈvaɪvə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "幸存者",
+          "usage": "指在灾难或事故中存活下来的人"
+        }
+      ]
+    },
+    {
+      "word": "overhead",
+      "phonetic": "/ˌəʊvəˈhed/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "在头顶上方",
+          "usage": "指在空中或高处"
+        }
+      ]
+    },
+    {
+      "word": "scene",
+      "phonetic": "/siːn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "现场，场景",
+          "usage": "指事件发生的地点"
+        }
+      ]
+    },
+    {
+      "word": "cover",
+      "phonetic": "/ˈkʌvə/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "覆盖，遮盖",
+          "usage": "指用东西盖住"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "fly off course",
+      "usage": "表示偏离航线",
+      "examples": [
+        {
+          "en": "The plane flew off course due to the bad weather.",
+          "zh": "由于恶劣天气，飞机偏离了航线。"
+        }
+      ]
+    },
+    {
+      "phrase": "in the middle of winter",
+      "usage": "表示在隆冬时节",
+      "examples": [
+        {
+          "en": "It happened in the middle of winter when it was very cold.",
+          "zh": "事情发生在非常寒冷的隆冬时节。"
+        }
+      ]
+    },
+    {
+      "phrase": "turn into",
+      "usage": "表示把...变成...",
+      "examples": [
+        {
+          "en": "She turned a suitcase into a bed for the children.",
+          "zh": "她把手提箱变成了孩子们的床。"
+        }
+      ]
+    },
+    {
+      "phrase": "keep as near as possible to",
+      "usage": "表示尽可能靠近...",
+      "examples": [
+        {
+          "en": "The woman kept as near as possible to her children.",
+          "zh": "那位妇女尽可能靠近她的孩子们。"
+        }
+      ]
+    },
+    {
+      "phrase": "early next morning",
+      "usage": "表示第二天一大早",
+      "examples": [
+        {
+          "en": "Early next morning, she heard planes passing overhead.",
+          "zh": "第二天一大早，她听到飞机从头顶飞过。"
+        }
+      ]
+    },
+    {
+      "phrase": "pass overhead",
+      "usage": "表示从头顶飞过",
+      "examples": [
+        {
+          "en": "Planes passed overhead but no one saw her.",
+          "zh": "飞机从头顶飞过，但没有人看到她。"
+        }
+      ]
+    },
+    {
+      "phrase": "send a message",
+      "usage": "表示发送消息",
+      "examples": [
+        {
+          "en": "The pilot sent a message by radio to the nearest town.",
+          "zh": "飞行员通过无线电向最近的城镇发送了消息。"
+        }
+      ]
+    },
+    {
+      "phrase": "not long before",
+      "usage": "表示不久之后",
+      "examples": [
+        {
+          "en": "It was not long before a helicopter arrived.",
+          "zh": "不久之后，一架直升机赶到了。"
+        }
+      ]
+    },
+    {
+      "phrase": "have an idea",
+      "usage": "表示想出一个主意",
+      "examples": [
+        {
+          "en": "Then she had an idea to stamp out letters in the snow.",
+          "zh": "然后她想出了一个主意：在雪地上踩出字母。"
+        }
+      ]
+    },
+    {
+      "phrase": "rescue the survivors",
+      "usage": "表示营救幸存者",
+      "examples": [
+        {
+          "en": "The helicopter came to rescue the survivors of the crash.",
+          "zh": "直升机赶来营救坠机事故中的幸存者。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "一般过去时 (Past Simple Tense)",
+      "definition": "表示在过去某个特定时间发生的动作或存在的状态",
+      "structure": "主语 + 动词过去式",
+      "usage": "用于叙述过去发生的事情，描述一系列按时间顺序发生的动作",
+      "examples": [
+        {
+          "en": "The plane crashed in the mountains.",
+          "zh": "飞机在山区坠毁。"
+        },
+        {
+          "en": "She turned a suitcase into a bed.",
+          "zh": "她把手提箱变成了床。"
+        },
+        {
+          "en": "The pilot saw the signal.",
+          "zh": "飞行员看到了信号。"
+        }
+      ]
+    },
+    {
+      "title": "过去进行时 (Past Continuous Tense)",
+      "definition": "表示在过去某一时刻正在进行的动作",
+      "structure": "主语 + was/were + 动词-ing",
+      "usage": "用于描述过去正在发生的动作，常与过去进行时连用或用于设置故事背景",
+      "examples": [
+        {
+          "en": "She was turning a suitcase into a bed when it grew dark.",
+          "zh": "天黑时她正在把手提箱变成床。"
+        },
+        {
+          "en": "The children were sleeping in the case.",
+          "zh": "孩子们正睡在箱子里。"
+        }
+      ]
+    },
+    {
+      "title": "过去完成时 (Past Perfect Tense)",
+      "definition": "表示在过去某一时刻之前已经完成的动作",
+      "structure": "主语 + had + 过去分词",
+      "usage": "用于叙述过去事件时，表示两个过去的动作中较早发生的那个",
+      "examples": [
+        {
+          "en": "When the pilot saw the signal, a message had already been sent.",
+          "zh": "当飞行员看到信号时，消息已经被发出了。"
+        },
+        {
+          "en": "She had covered the children with clothes before it got cold.",
+          "zh": "在天变冷之前她已经给孩子们盖上了衣服。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "When + 过去时态, 主语 + 过去时态",
+      "original": {
+        "en": "When it grew dark, she turned a suitcase into a bed.",
+        "zh": "当夜幕降临时，她把手提箱变成了床。"
+      },
+      "imitations": [
+        {
+          "en": "When it started to rain, we went inside.",
+          "zh": "当开始下雨时，我们走进了室内。"
+        },
+        {
+          "en": "When he arrived home, his wife was cooking dinner.",
+          "zh": "当他到家时，他的妻子正在做晚饭。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + had + 过去分词 + before + 主语 + 过去时态",
+      "original": {
+        "en": "She had covered them with all the clothes she could find before it got cold.",
+        "zh": "在天变冷之前，她用尽所有能找到的衣服给孩子们盖上。"
+      },
+      "imitations": [
+        {
+          "en": "He had finished his homework before his father came back.",
+          "zh": "在他父亲回来之前，他已经完成了作业。"
+        },
+        {
+          "en": "The pilot had sent a message before the helicopter arrived.",
+          "zh": "在直升机到达之前，飞行员已经发送了消息。"
+        }
+      ]
+    },
+    {
+      "pattern": "It is/was not long before + 主语 + 过去时态",
+      "original": {
+        "en": "It was not long before a helicopter arrived on the scene.",
+        "zh": "不久之后，一架直升机到达了现场。"
+      },
+      "imitations": [
+        {
+          "en": "It was not long before the doctor arrived.",
+          "zh": "不久之后医生就到了。"
+        },
+        {
+          "en": "It was not long before the train left the station.",
+          "zh": "不久之后火车就离开了车站。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + 动词 + the letters + '...' + in + 地点",
+      "original": {
+        "en": "She stamped out the letters 'SOS' in the snow.",
+        "zh": "她在雪地上踩出了'SOS'字母。"
+      },
+      "imitations": [
+        {
+          "en": "The children drew the word 'HELP' in the sand.",
+          "zh": "孩子们在沙地上画了'HELP'这个词。"
+        },
+        {
+          "en": "He wrote the word 'SAVE' on the ground with a stick.",
+          "zh": "他用树枝在地上写了'SAVE'这个词。"
+        }
+      ]
+    }
+  ]
+}

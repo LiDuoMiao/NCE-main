@@ -1,0 +1,398 @@
+{
+  "book": "NCE2",
+  "lesson": "04",
+  "title": "Why is Tim finding this trip exciting?",
+  "vocabulary": [
+    {
+      "word": "receive",
+      "phonetic": "/rɪˈsiːv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "收到，接到",
+          "usage": "及物动词，指收到某物"
+        }
+      ]
+    },
+    {
+      "word": "letter",
+      "phonetic": "/ˈletə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "信，函件",
+          "usage": "指书面通信"
+        }
+      ]
+    },
+    {
+      "word": "brother",
+      "phonetic": "/ˈbrʌðə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "兄弟",
+          "usage": "指同父母或同父异母/同母异父的男性"
+        }
+      ]
+    },
+    {
+      "word": "Australia",
+      "phonetic": "/ɒˈstreɪliə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "澳大利亚",
+          "usage": "国家名称"
+        }
+      ]
+    },
+    {
+      "word": "engineer",
+      "phonetic": "/ˌendʒɪˈnɪə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "工程师",
+          "usage": "指从事工程设计的人"
+        }
+      ]
+    },
+    {
+      "word": "firm",
+      "phonetic": "/fɜːm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "公司，商行",
+          "usage": "指商业机构或企业"
+        }
+      ]
+    },
+    {
+      "word": "different",
+      "phonetic": "/ˈdɪfrənt/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "不同的，各种的",
+          "usage": "形容词，表示彼此不同"
+        }
+      ]
+    },
+    {
+      "word": "abroad",
+      "phonetic": "/əˈbrɔːd/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "到国外，在国外",
+          "usage": "副词，指在国外"
+        }
+      ]
+    },
+    {
+      "word": "centre",
+      "phonetic": "/ˈsentə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "中心，中央",
+          "usage": "指某物的中心位置"
+        }
+      ]
+    },
+    {
+      "word": "exciting",
+      "phonetic": "/ɪkˈsaɪtɪŋ/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "令人兴奋的",
+          "usage": "形容词，描述事物让人兴奋"
+        }
+      ]
+    },
+    {
+      "word": "number",
+      "phonetic": "/ˈnʌmbə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "数量，号码",
+          "usage": "指数目或数字"
+        }
+      ]
+    },
+    {
+      "word": "buy",
+      "phonetic": "/baɪ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "买",
+          "usage": "指用钱换取物品"
+        }
+      ]
+    },
+    {
+      "word": "fly",
+      "phonetic": "/flaɪ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "飞，飞行",
+          "usage": "指乘坐飞机旅行"
+        }
+      ]
+    },
+    {
+      "word": "visit",
+      "phonetic": "/ˈvɪzɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "访问，参观，拜访",
+          "usage": "指去某地或见某人"
+        }
+      ]
+    },
+    {
+      "word": "trip",
+      "phonetic": "/trɪp/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "旅行，远足",
+          "usage": "指短途旅行或出行"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "receive a letter",
+      "usage": "收到一封信",
+      "examples": [
+        {
+          "en": "I have just received a letter from my brother.",
+          "zh": "我刚收到哥哥的一封信。"
+        }
+      ]
+    },
+    {
+      "phrase": "be in Australia",
+      "usage": "在澳大利亚",
+      "examples": [
+        {
+          "en": "He is in Australia now.",
+          "zh": "他现在在澳大利亚。"
+        }
+      ]
+    },
+    {
+      "phrase": "be working for",
+      "usage": "在...工作，为...效力",
+      "examples": [
+        {
+          "en": "He is working for a big firm.",
+          "zh": "他在一家大公司工作。"
+        }
+      ]
+    },
+    {
+      "phrase": "a great number of",
+      "usage": "许多，大量",
+      "examples": [
+        {
+          "en": "He has visited a great number of different places.",
+          "zh": "他参观了许多不同的地方。"
+        }
+      ]
+    },
+    {
+      "phrase": "buy an Australian car",
+      "usage": "买了一辆澳大利亚汽车",
+      "examples": [
+        {
+          "en": "He has just bought an Australian car.",
+          "zh": "他刚买了一辆澳大利亚汽车。"
+        }
+      ]
+    },
+    {
+      "phrase": "in the centre of",
+      "usage": "在...中心",
+      "examples": [
+        {
+          "en": "Alice Springs is a small town in the centre of Australia.",
+          "zh": "爱丽丝泉是澳大利亚中部的一个小镇。"
+        }
+      ]
+    },
+    {
+      "phrase": "fly to",
+      "usage": "飞往，乘飞机去",
+      "examples": [
+        {
+          "en": "He will fly to Perth from there.",
+          "zh": "他从那里飞往珀斯。"
+        }
+      ]
+    },
+    {
+      "phrase": "be abroad",
+      "usage": "在国外",
+      "examples": [
+        {
+          "en": "My brother has never been abroad before.",
+          "zh": "我哥哥以前从未出过国。"
+        }
+      ]
+    },
+    {
+      "phrase": "find something exciting",
+      "usage": "发现某事令人兴奋",
+      "examples": [
+        {
+          "en": "He is finding this trip very exciting.",
+          "zh": "他觉得这次旅行非常令人兴奋。"
+        }
+      ]
+    },
+    {
+      "phrase": "for six months",
+      "usage": "六个月了",
+      "examples": [
+        {
+          "en": "He has been there for six months.",
+          "zh": "他在那里已经六个月了。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "现在完成时 (Present Perfect Tense) - 持续性",
+      "definition": "现在完成时表示过去发生的动作或状态持续到现在，常与for和since连用。结构为：主语 + have/has + been + 介词短语/过去分词短语",
+      "structure": "主语 + have/has + been + 地点/介词短语 + for/since + 时间段",
+      "usage": "用于描述过去开始并持续到现在的情况，常与表示一段时间的时间状语连用",
+      "examples": [
+        {
+          "en": "He has been there for six months.",
+          "zh": "他在那里已经六个月了。"
+        },
+        {
+          "en": "She has been a teacher for ten years.",
+          "zh": "她当老师已经十年了。"
+        }
+      ]
+    },
+    {
+      "title": "现在完成时 (Present Perfect Tense) - 经历",
+      "definition": "现在完成时表示过去的经历，常与ever, never, already, just等副词连用。结构为：主语 + have/has + 过去分词",
+      "structure": "主语 + have/has + 过去分词 + (时间/地点状语)",
+      "usage": "用于描述过去的经历对现在的影响，或表示某动作已完成",
+      "examples": [
+        {
+          "en": "He has already visited many places.",
+          "zh": "他已经参观了很多地方。"
+        },
+        {
+          "en": "He has never been abroad before.",
+          "zh": "他以前从未出过国。"
+        },
+        {
+          "en": "He has just bought a car.",
+          "zh": "他刚买了一辆车。"
+        }
+      ]
+    },
+    {
+      "title": "一般将来时 (will + 动词原形)",
+      "definition": "表示将来要发生的动作或状态，常与soon, tomorrow, next week等表示将来的时间状语连用",
+      "structure": "主语 + will + 动词原形 + 其他",
+      "usage": "用于描述将来的计划、决定或预测",
+      "examples": [
+        {
+          "en": "He will soon visit Darwin.",
+          "zh": "他很快就要访问达尔文了。"
+        },
+        {
+          "en": "She will fly to London tomorrow.",
+          "zh": "她明天将飞往伦敦。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "I have just + 过去分词",
+      "original": {
+        "en": "I have just received a letter from my brother.",
+        "zh": "我刚收到哥哥的一封信。"
+      },
+      "imitations": [
+        {
+          "en": "I have just finished my homework.",
+          "zh": "我刚完成作业。"
+        },
+        {
+          "en": "She has just arrived at the station.",
+          "zh": "她刚到达车站。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + has/have been + 地点 + for + 时间段",
+      "original": {
+        "en": "He has been there for six months.",
+        "zh": "他在那里已经六个月了。"
+      },
+      "imitations": [
+        {
+          "en": "She has been in Shanghai for three years.",
+          "zh": "她在上海已经三年了。"
+        },
+        {
+          "en": "They have been at this school for five months.",
+          "zh": "他们在这所学校已经五个月了。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + has/have already + 过去分词",
+      "original": {
+        "en": "He has already visited many places.",
+        "zh": "他已经参观了很多地方。"
+      },
+      "imitations": [
+        {
+          "en": "I have already read this book.",
+          "zh": "我已经读过这本书了。"
+        },
+        {
+          "en": "They have already left for Beijing.",
+          "zh": "他们已经出发去北京了。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + has/have never + 过去分词 + before",
+      "original": {
+        "en": "He has never been abroad before.",
+        "zh": "他以前从未出过国。"
+      },
+      "imitations": [
+        {
+          "en": "I have never been to Japan before.",
+          "zh": "我以前从未去过日本。"
+        },
+        {
+          "en": "She has never tried Chinese food before.",
+          "zh": "她以前从未尝过中餐。"
+        }
+      ]
+    }
+  ]
+}

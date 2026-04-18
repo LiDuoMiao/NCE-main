@@ -1,0 +1,373 @@
+{
+  "book": "NCE2",
+  "lesson": "19",
+  "title": "When will the writer see the play?",
+  "vocabulary": [
+    {
+      "word": "play",
+      "phonetic": "/pleɪ/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "戏剧；话剧",
+          "usage": "指在剧院上演的戏剧表演"
+        }
+      ]
+    },
+    {
+      "word": "moment",
+      "phonetic": "/ˈməʊmənt/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "时刻；瞬间",
+          "usage": "指某个特定的时间点"
+        }
+      ]
+    },
+    {
+      "word": "ticket",
+      "phonetic": "/ˈtɪkɪt/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "票；入场券",
+          "usage": "用于进入剧院、电影院等的凭证"
+        }
+      ]
+    },
+    {
+      "word": "office",
+      "phonetic": "/ˈɒfɪs/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "办公室；售票处",
+          "usage": "可指办公场所或服务机构"
+        }
+      ]
+    },
+    {
+      "word": "pity",
+      "phonetic": "/ˈpɪti/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "遗憾；可惜",
+          "usage": "常与What a构成感叹句"
+        }
+      ]
+    },
+    {
+      "word": "return",
+      "phonetic": "/rɪˈtɜːn/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "meaning": "归还；退回",
+          "usage": "指把东西还给原主人或退回"
+        }
+      ]
+    },
+    {
+      "word": "certainly",
+      "phonetic": "/ˈsɜːtənli/",
+      "meanings": [
+        {
+          "pos": "adv.",
+          "meaning": "当然；无疑地",
+          "usage": "用于肯定回答，表示同意"
+        }
+      ]
+    },
+    {
+      "word": "performance",
+      "phonetic": "/pəˈfɔːməns/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "表演；演出",
+          "usage": "指戏剧、音乐等的演出活动"
+        }
+      ]
+    },
+    {
+      "word": "hurried",
+      "phonetic": "/ˈhʌrɪd/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "meaning": "匆忙的；仓促的",
+          "usage": "形容动作快速而紧张"
+        }
+      ]
+    },
+    {
+      "word": "sell out",
+      "phonetic": "/sel aʊt/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "meaning": "售完；卖光",
+          "usage": "指票或商品全部卖出"
+        }
+      ]
+    },
+    {
+      "word": "exclaimed",
+      "phonetic": "/ɪkˈskleɪmd/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "meaning": "呼喊；惊叫",
+          "usage": "表示强烈的情感或惊讶"
+        }
+      ]
+    },
+    {
+      "word": "sadly",
+      "phonetic": "/ˈsædli/",
+      "meanings": [
+        {
+          "pos": "adv.",
+          "meaning": "悲伤地；难过地",
+          "usage": "修饰动词，表达情感"
+        }
+      ]
+    },
+    {
+      "word": "next",
+      "phonetic": "/nekst/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "meaning": "下一个的；其次的",
+          "usage": "指紧随其后的时间或顺序"
+        }
+      ]
+    },
+    {
+      "word": "already",
+      "phonetic": "/ɔːlˈrɛdi/",
+      "meanings": [
+        {
+          "pos": "adv.",
+          "meaning": "已经；早已",
+          "usage": "表示动作已经发生"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "May I have...?",
+      "usage": "用于礼貌请求某物的句型",
+      "examples": [
+        {
+          "en": "May I have two tickets please?",
+          "zh": "请问我可以买两张票吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "I'm sorry",
+      "usage": "表示歉意或遗憾的礼貌用语",
+      "examples": [
+        {
+          "en": "I'm sorry, we've sold out.",
+          "zh": "抱歉，票已经卖完了。"
+        }
+      ]
+    },
+    {
+      "phrase": "What a pity!",
+      "usage": "表示遗憾或可惜的感叹句",
+      "examples": [
+        {
+          "en": "What a pity! The tickets are sold out.",
+          "zh": "真遗憾！票已经卖完了。"
+        }
+      ]
+    },
+    {
+      "phrase": "Can I return...?",
+      "usage": "询问是否可以退票的句型",
+      "examples": [
+        {
+          "en": "Can I return these two tickets?",
+          "zh": "我可以退这两张票吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "at once",
+      "usage": "立即；马上",
+      "examples": [
+        {
+          "en": "I went back to the ticket office at once.",
+          "zh": "我立刻回到售票处。"
+        }
+      ]
+    },
+    {
+      "phrase": "Could I have...?",
+      "usage": "比May I更委婉的请求句型",
+      "examples": [
+        {
+          "en": "Could I have those two tickets please?",
+          "zh": "请问我可以要那两张票吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "I might as well",
+      "usage": "不如；不妨（虽然不太理想但还是接受）",
+      "examples": [
+        {
+          "en": "I might as well have them.",
+          "zh": "我不如就买了吧。"
+        }
+      ]
+    },
+    {
+      "phrase": "sold out",
+      "usage": "售完；卖光",
+      "examples": [
+        {
+          "en": "We've sold out.",
+          "zh": "已经卖完了。"
+        }
+      ]
+    },
+    {
+      "phrase": "next Wednesday's performance",
+      "usage": "下周三的演出",
+      "examples": [
+        {
+          "en": "They're for next Wednesday's performance.",
+          "zh": "它们是下周三的演出票。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "情态动词 May/Might 表示可能性",
+      "definition": "may和might用于表示某事可能发生，might比may更不确定",
+      "structure": "主语 + may/might + 动词原形",
+      "usage": "用于谈论当前或将来的可能性",
+      "examples": [
+        {
+          "en": "The play may begin at any moment.",
+          "zh": "戏可能随时开始。"
+        },
+        {
+          "en": "It may have begun already.",
+          "zh": "可能已经开始了。"
+        }
+      ]
+    },
+    {
+      "title": "礼貌请求句型 Can/Could + 主语 + 动词原形",
+      "definition": "使用can或could来提出请求，could比can更委婉客气",
+      "structure": "Can/Could + I/you + 动词原形?",
+      "usage": "用于向他人请求帮助或物品，could显得更有礼貌",
+      "examples": [
+        {
+          "en": "Can I return these two tickets?",
+          "zh": "我可以退这两张票吗？"
+        },
+        {
+          "en": "Could I have those two tickets please?",
+          "zh": "请问我可以要那两张票吗？"
+        }
+      ]
+    },
+    {
+      "title": "情态动词 May 构成的一般疑问句",
+      "definition": "用may引导一般疑问句来礼貌地提出请求",
+      "structure": "May + 主语 + 动词原形?",
+      "usage": "用于正式或礼貌的请求场合",
+      "examples": [
+        {
+          "en": "May I have two tickets please?",
+          "zh": "请问我可以买两张票吗？"
+        },
+        {
+          "en": "May I help you?",
+          "zh": "我可以帮你吗？"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "May I have + 物品 + please?",
+      "original": {
+        "en": "May I have two tickets please?",
+        "zh": "请问我可以买两张票吗？"
+      },
+      "imitations": [
+        {
+          "en": "May I have a glass of water please?",
+          "zh": "请问我可以要一杯水吗？"
+        },
+        {
+          "en": "May I have your name please?",
+          "zh": "请问我可以知道您的名字吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "Could I have + 物品 + please?",
+      "original": {
+        "en": "Could I have those two tickets please?",
+        "zh": "请问我可以要那两张票吗？"
+      },
+      "imitations": [
+        {
+          "en": "Could I have the menu please?",
+          "zh": "请问我可以看一下菜单吗？"
+        },
+        {
+          "en": "Could I have your attention please?",
+          "zh": "请问我可以引起您的注意吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "Can I return + 物品?",
+      "original": {
+        "en": "Can I return these two tickets?",
+        "zh": "我可以退这两张票吗？"
+      },
+      "imitations": [
+        {
+          "en": "Can I return this book?",
+          "zh": "我可以退这本书吗？"
+        },
+        {
+          "en": "Can I return the dress if it doesn't fit?",
+          "zh": "如果不合身我可以退货吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "I might as well + 动词原形",
+      "original": {
+        "en": "I might as well have them.",
+        "zh": "我不如就买了吧。"
+      },
+      "imitations": [
+        {
+          "en": "Since it's raining, I might as well stay home.",
+          "zh": "既然下雨了，我不如就待在家里。"
+        },
+        {
+          "en": "The food is already paid for, so I might as well eat it.",
+          "zh": "食物已经付过钱了，所以我不如就吃掉吧。"
+        }
+      ]
+    }
+  ]
+}

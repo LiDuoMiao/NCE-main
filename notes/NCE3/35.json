@@ -1,0 +1,402 @@
+{
+  "book": "NCE3",
+  "lesson": "35",
+  "title": "Lesson 35",
+  "vocabulary": [
+    {
+      "word": "justice",
+      "phonetic": "/ˈdʒʌstɪs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "正义；公正；司法",
+          "usage": "可指法律上的公正审判，也可指抽象的正义概念"
+        }
+      ]
+    },
+    {
+      "word": "machinery",
+      "phonetic": "/məˈʃiːnəri/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "机械；机构；系统",
+          "usage": "指复杂的组织或机构系统"
+        }
+      ]
+    },
+    {
+      "word": "arduous",
+      "phonetic": "/ˈɑːdjuəs/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "艰巨的；艰苦的；费力的",
+          "usage": "形容需要付出大量努力的困难工作或旅程"
+        }
+      ]
+    },
+    {
+      "word": "abstract",
+      "phonetic": "/ˈæbstrækt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "抽象的；概念上的",
+          "usage": "与具体事物相对的，存在于概念中的"
+        }
+      ]
+    },
+    {
+      "word": "muffled",
+      "phonetic": "/ˈmʌfld/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "沉闷的；压低的；听不清的",
+          "usage": "形容声音被压抑或减弱的"
+        }
+      ]
+    },
+    {
+      "word": "temptation",
+      "phonetic": "/tempˈteɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "诱惑；引诱",
+          "usage": "指吸引人做某事的力量或冲动"
+        }
+      ]
+    },
+    {
+      "word": "locate",
+      "phonetic": "/ləʊˈkeɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "定位；找出位置",
+          "usage": "指确定某物的确切位置"
+        }
+      ]
+    },
+    {
+      "word": "emerge",
+      "phonetic": "/ɪˈmɜːdʒ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "出现；浮现；出来",
+          "usage": "指从某处出来或显露出来"
+        }
+      ]
+    },
+    {
+      "word": "hand over",
+      "phonetic": "/hænd ˈəʊvə/",
+      "meanings": [
+        {
+          "pos": "verb phrase",
+          "meaning": "移交；交出",
+          "usage": "指把某人或某物交给另一个人或权威机构"
+        }
+      ]
+    },
+    {
+      "word": "of one's own accord",
+      "phonetic": "/ɒv wʌnz əʊn əˈkɔːd/",
+      "meanings": [
+        {
+          "pos": "phrase",
+          "meaning": "出于自愿；自动地",
+          "usage": "指在没有外部压力的情况下自己去做某事"
+        }
+      ]
+    },
+    {
+      "word": "undertake",
+      "phonetic": "/ˌʌndəˈteɪk/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "从事；着手做；承担",
+          "usage": "指开始进行一项工作或任务"
+        }
+      ]
+    },
+    {
+      "word": "chip",
+      "phonetic": "/tʃɪp/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "凿；削；凿穿",
+          "usage": "指用工具凿开或削去材料"
+        }
+      ]
+    },
+    {
+      "word": "converted",
+      "phonetic": "/kənˈvɜːtɪd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "改建的；改造的",
+          "usage": "指从一种用途或形式改变为另一种"
+        }
+      ]
+    },
+    {
+      "word": "mete out",
+      "phonetic": "/miːt aʊt/",
+      "meanings": [
+        {
+          "pos": "verb phrase",
+          "meaning": "给予；实施（惩罚等）",
+          "usage": "指分配或给予奖惩"
+        }
+      ]
+    },
+    {
+      "word": "premises",
+      "phonetic": "/ˈpremɪsɪz/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "房屋及土地；营业场所",
+          "usage": "指建筑物及其所在的场地，常用复数形式"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "justice has been done",
+      "usage": "表示正义已经得到伸张或实现",
+      "examples": [
+        {
+          "en": "Justice has been done even before the man was handed over to the police.",
+          "zh": "甚至在这个人移交给警察之前，正义就已经得到了伸张。"
+        }
+      ]
+    },
+    {
+      "phrase": "it serves him right",
+      "usage": "表示某人自食其果、活该倒霉",
+      "examples": [
+        {
+          "en": "The shop assistants must have found it impossible to resist the temptation to say 'it serves him right'.",
+          "zh": "店员们一定会觉得忍不住想说'他活该'。"
+        }
+      ]
+    },
+    {
+      "phrase": "ring up",
+      "usage": "打电话给某人",
+      "examples": [
+        {
+          "en": "The manager promptly rang up the fire brigade.",
+          "zh": "经理立刻给消防队打了电话。"
+        }
+      ]
+    },
+    {
+      "phrase": "break into",
+      "usage": "闯入；非法进入",
+      "examples": [
+        {
+          "en": "He had tried to break into the shop during the night but had got stuck in the chimney.",
+          "zh": "他试图在夜间闯入商店，但卡在了烟囱里。"
+        }
+      ]
+    },
+    {
+      "phrase": "hand over",
+      "usage": "移交（权力、某人等）",
+      "examples": [
+        {
+          "en": "Justice had been done even before the man was handed over to the police.",
+          "zh": "甚至在这个人移交给警察之前，正义就已经得到了伸张。"
+        }
+      ]
+    },
+    {
+      "phrase": "of one's own accord",
+      "usage": "出于自愿；自动地",
+      "examples": [
+        {
+          "en": "We are, in part, admitting that a certain set of circumstances has enabled justice to act of its own accord.",
+          "zh": "我们在某种程度上承认，某些环境因素使得正义能够自行发挥作用。"
+        }
+      ]
+    },
+    {
+      "phrase": "beyond doubt",
+      "usage": "毫无疑问地；确定无疑地",
+      "examples": [
+        {
+          "en": "We might say that justice has been done when a man's innocence or guilt has been proved beyond doubt.",
+          "zh": "当一个人的清白或罪行被毫无疑问地证实后，我们可以说正义得到了伸张。"
+        }
+      ]
+    },
+    {
+      "phrase": "undertake an arduous journey",
+      "usage": "踏上艰难的旅程",
+      "examples": [
+        {
+          "en": "Those who seek it, undertake an arduous journey and can never be sure that they will find it.",
+          "zh": "那些寻求正义的人，踏上了艰难的旅程，而且永远无法确定他们能否找到它。"
+        }
+      ]
+    },
+    {
+      "phrase": "catch on the premises",
+      "usage": "在场所内被抓",
+      "examples": [
+        {
+          "en": "When a thief was caught on the premises of a large jewellery store one morning.",
+          "zh": "一天早上，当一个小偷在一家大型珠宝店的场所内被抓时。"
+        }
+      ]
+    },
+    {
+      "phrase": "free someone by doing something",
+      "usage": "通过做某事使某人获救",
+      "examples": [
+        {
+          "en": "The fire fighters were eventually able to free him by cutting a huge hole in the wall.",
+          "zh": "消防队员最终通过在墙上凿开一个大洞将他救了出来。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "被动语态 (Passive Voice)",
+      "definition": "当句子的主语是动作的承受者时使用被动语态。主动语态中动作的执行者（agent）可以用by引出，但经常被省略。",
+      "structure": "be + 过去分词 (be + past participle)",
+      "usage": "用于强调动作的承受者，或动作执行者不明确、不重要时。",
+      "examples": [
+        {
+          "en": "Justice is done.",
+          "zh": "正义得到伸张。"
+        },
+        {
+          "en": "Justice has been done even before the man was handed over to the police.",
+          "zh": "甚至在这个人移交给警察之前，正义就已经得到了伸张。"
+        },
+        {
+          "en": "The shop was an old converted house.",
+          "zh": "那家商店是一栋改建的老房子。"
+        }
+      ]
+    },
+    {
+      "title": "现在完成时 (Present Perfect Tense)",
+      "definition": "表示过去发生的动作或状态持续到现在，或对现在有影响。常与already, just, yet, for, since等词连用。",
+      "structure": "have/has + 过去分词",
+      "usage": "用于表示过去的动作与现在有关联，或动作已发生但强调其结果。",
+      "examples": [
+        {
+          "en": "The cry was repeated several times.",
+          "zh": "哭喊声重复了好几次。"
+        },
+        {
+          "en": "He had been there for nearly ten hours.",
+          "zh": "他在那里已经呆了将近十个小时。"
+        },
+        {
+          "en": "She ran to tell the manager who promptly rang up the fire brigade.",
+          "zh": "她跑去告诉经理，经理立刻给消防队打了电话。"
+        }
+      ]
+    },
+    {
+      "title": "定语从句 (Relative Clause)",
+      "definition": "用于修饰名词或代词的从句，由关系代词（who, whom, which, that）或关系副词（where, when, why）引导。",
+      "structure": "名词/代词 + 关系词 + 从句",
+      "usage": "用于提供关于某人或某物的额外信息。",
+      "examples": [
+        {
+          "en": "The cry had certainly come from one of the chimneys, but as there were so many of them, the firemen could not be certain which one it was.",
+          "zh": "哭喊声确实是从某个烟囱里传来的，但由于烟囱太多，消防员无法确定是哪一个。"
+        },
+        {
+          "en": "Those who seek it, undertake an arduous journey.",
+          "zh": "那些寻求正义的人，踏上了艰难的旅程。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Justice + be + done",
+      "original": {
+        "en": "Justice was done.",
+        "zh": "正义得到伸张。"
+      },
+      "imitations": [
+        {
+          "en": "Justice has been done.",
+          "zh": "正义已经得到伸张。"
+        },
+        {
+          "en": "Justice will be done eventually.",
+          "zh": "正义最终会得到伸张。"
+        }
+      ]
+    },
+    {
+      "pattern": "It serves someone right",
+      "original": {
+        "en": "It serves him right.",
+        "zh": "他活该。"
+      },
+      "imitations": [
+        {
+          "en": "It serves you right for being late.",
+          "zh": "你迟到，活该。"
+        },
+        {
+          "en": "It serves her right for not studying.",
+          "zh": "她不学习，活该。"
+        }
+      ]
+    },
+    {
+      "pattern": "Someone + be + unable to + 动词原形",
+      "original": {
+        "en": "As it was extremely narrow, the man was unable to move.",
+        "zh": "由于烟囱非常狭窄，这个人无法动弹。"
+      },
+      "imitations": [
+        {
+          "en": "She was unable to attend the meeting.",
+          "zh": "她无法参加会议。"
+        },
+        {
+          "en": "I was unable to solve the problem.",
+          "zh": "我无法解决这个问题。"
+        }
+      ]
+    },
+    {
+      "pattern": "When + 时间状语从句, 主句",
+      "original": {
+        "en": "When a thief was caught on the premises of a large jewellery store one morning, the shop assistants must have found it impossible to resist the temptation to say 'it serves him right'.",
+        "zh": "一天早上，当一个小偷在一家大型珠宝店的场所内被抓时，店员们一定会觉得忍不住想说'他活该'。"
+      },
+      "imitations": [
+        {
+          "en": "When I was young, I used to play in the park.",
+          "zh": "当我年轻的时候，我常在公园里玩。"
+        },
+        {
+          "en": "When he arrived home, it was already dark.",
+          "zh": "当他到家时，天已经黑了。"
+        }
+      ]
+    }
+  ]
+}

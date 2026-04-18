@@ -1,0 +1,394 @@
+{
+  "book": "NCE2",
+  "lesson": "37",
+  "title": "When was the last time this country",
+  "vocabulary": [
+    {
+      "word": "Olympic Games",
+      "phonetic": "/əˈlɪmpɪk ɡeɪmz/",
+      "meanings": [
+        {
+          "pos": "noun phrase",
+          "meaning": "奥运会",
+          "usage": "指国际性的体育赛事，每四年举办一次"
+        }
+      ]
+    },
+    {
+      "word": "host",
+      "phonetic": "/həʊst/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "主办；主持",
+          "usage": "指作为东道主举办活动或比赛"
+        }
+      ]
+    },
+    {
+      "word": "government",
+      "phonetic": "/ˈɡʌvənmənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "政府",
+          "usage": "指国家的行政管理部门"
+        }
+      ]
+    },
+    {
+      "word": "stadium",
+      "phonetic": "/ˈsteɪdiəm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "体育场",
+          "usage": "指供体育比赛用的大型露天场所"
+        }
+      ]
+    },
+    {
+      "word": "capital",
+      "phonetic": "/ˈkæpɪtl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "首都",
+          "usage": "指一个国家的政治中心或中央政府所在地"
+        }
+      ]
+    },
+    {
+      "word": "fantastic",
+      "phonetic": "/fænˈtæstɪk/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "极好的；了不起的",
+          "usage": "用于表达对某事物的赞叹和欣赏"
+        }
+      ]
+    },
+    {
+      "word": "anxious",
+      "phonetic": "/ˈæŋkʃəs/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "焦虑的；焦急的",
+          "usage": "形容人担忧、紧张的情绪状态"
+        }
+      ]
+    },
+    {
+      "word": "excited",
+      "phonetic": "/ɪkˈsaɪtɪd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "兴奋的；激动的",
+          "usage": "形容人对即将发生的事情感到期待和高兴"
+        }
+      ]
+    },
+    {
+      "word": "standard",
+      "phonetic": "/ˈstændəd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "标准；水平",
+          "usage": "指衡量事物质量或规格的尺度"
+        }
+      ]
+    },
+    {
+      "word": "railway",
+      "phonetic": "/ˈreɪlweɪ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "铁路；铁道",
+          "usage": "指供火车行驶的轨道线路"
+        }
+      ]
+    },
+    {
+      "word": "area",
+      "phonetic": "/ˈeəriə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "区域；地区",
+          "usage": "指具有一定特征或用途的空间范围"
+        }
+      ]
+    },
+    {
+      "word": "design",
+      "phonetic": "/dɪˈzaɪn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "设计",
+          "usage": "指规划或构思某物的外观、结构和功能"
+        }
+      ]
+    },
+    {
+      "word": "complete",
+      "phonetic": "/kəmˈpliːt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "完成；结束",
+          "usage": "指结束某项工作或任务"
+        }
+      ]
+    },
+    {
+      "word": "immense",
+      "phonetic": "/ɪˈmens/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "巨大的；庞大的",
+          "usage": "形容体积或规模非常大"
+        }
+      ]
+    },
+    {
+      "word": "especially",
+      "phonetic": "/ɪˈspeʃəli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "特别；尤其",
+          "usage": "用于强调某个特定的人或事物"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "in four years' time",
+      "usage": "表示从现在起的四年后，用于谈论将来的时间点",
+      "examples": [
+        {
+          "en": "The Olympic Games will be held in four years' time.",
+          "zh": "奥运会将在四年后举行。"
+        }
+      ]
+    },
+    {
+      "phrase": "a great many",
+      "usage": "表示大量的、许多的，用于修饰可数名词",
+      "examples": [
+        {
+          "en": "A great many people will be visiting the country.",
+          "zh": "将有许多人来这个国家参观。"
+        }
+      ]
+    },
+    {
+      "phrase": "look forward to",
+      "usage": "表示期待、盼望，后接名词或动名词",
+      "examples": [
+        {
+          "en": "We are looking forward to the Olympic Games.",
+          "zh": "我们期待着奥运会的到来。"
+        }
+      ]
+    },
+    {
+      "phrase": "by the end of",
+      "usage": "表示到...末为止，用于表示完成某事的时间期限",
+      "examples": [
+        {
+          "en": "Workers will have completed the new roads by the end of this year.",
+          "zh": "工人们将在今年年底前完成新道路的建设。"
+        }
+      ]
+    },
+    {
+      "phrase": "go up",
+      "usage": "表示（建筑等）被建造、崛起",
+      "examples": [
+        {
+          "en": "Everybody will be watching as the new buildings go up.",
+          "zh": "大家都会关注新建筑的拔地而起。"
+        }
+      ]
+    },
+    {
+      "phrase": "the whole area",
+      "usage": "表示整个区域、整个地区",
+      "examples": [
+        {
+          "en": "The whole area will be called 'Olympic City'.",
+          "zh": "整个区域将被叫做'奥运城'。"
+        }
+      ]
+    },
+    {
+      "phrase": "Olympic-standard",
+      "usage": "复合形容词，表示符合奥运会标准的",
+      "examples": [
+        {
+          "en": "They will build a new Olympic-standard swimming pool.",
+          "zh": "他们将建造一个符合奥运标准的新游泳池。"
+        }
+      ]
+    },
+    {
+      "phrase": "just outside",
+      "usage": "表示就在...外面，形容距离很近",
+      "examples": [
+        {
+          "en": "The Games will be held just outside the capital.",
+          "zh": "奥运会将在首都的郊外举行。"
+        }
+      ]
+    },
+    {
+      "phrase": "never...before",
+      "usage": "表示从未...过，用于强调这是第一次",
+      "examples": [
+        {
+          "en": "They have never been held before in this country.",
+          "zh": "这个国家从未举办过（奥运会）。"
+        }
+      ]
+    },
+    {
+      "phrase": "be excited",
+      "usage": "表示感到兴奋、激动的状态",
+      "examples": [
+        {
+          "en": "We are all very excited about the Olympic Games.",
+          "zh": "我们对奥运会都感到非常兴奋。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "将来进行时 (Future Continuous Tense)",
+      "definition": "表示在将来某一时刻或某段时间正在进行的动作",
+      "structure": "主语 + will be + 动词-ing",
+      "usage": "用于描述在将来某个具体时间正在发生的动作，或表示某种自然发展的结果",
+      "examples": [
+        {
+          "en": "The government will be building new hotels.",
+          "zh": "政府正在建造新酒店。（表示将来某时正在进行的动作）"
+        },
+        {
+          "en": "Everybody will be watching anxiously as the new buildings go up.",
+          "zh": "当新建筑拔地而起时，大家都会焦急地观看。"
+        }
+      ]
+    },
+    {
+      "title": "将来完成时 (Future Perfect Tense)",
+      "definition": "表示在将来某一时刻之前已经完成的动作",
+      "structure": "主语 + will have + 过去分词",
+      "usage": "用于描述到将来某个时间为止已经完成的事情，常与by引导的时间状语连用",
+      "examples": [
+        {
+          "en": "Workers will have completed the new roads by the end of this year.",
+          "zh": "工人们将在今年年底前完成新道路的建设。"
+        },
+        {
+          "en": "By the end of next year, they will have finished work on the new stadium.",
+          "zh": "到明年年底，他们将完成新体育场的建设工作。"
+        }
+      ]
+    },
+    {
+      "title": "现在完成时 (Present Perfect Tense)",
+      "definition": "表示过去发生的动作或状态持续到现在，或对现在造成的影响",
+      "structure": "主语 + have/has + 过去分词",
+      "usage": "用于描述过去的经历，特别是与现在有关联的情况；常与before, never等词连用",
+      "examples": [
+        {
+          "en": "They have never been held before in this country.",
+          "zh": "这个国家从未举办过（奥运会）。"
+        },
+        {
+          "en": "We have been waiting for this moment.",
+          "zh": "我们一直在等待这个时刻。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "主语 + will be + 动词-ing (将来进行时)",
+      "original": {
+        "en": "The government will be building new hotels.",
+        "zh": "政府正在建造新酒店。"
+      },
+      "imitations": [
+        {
+          "en": "I will be working at the office tomorrow morning.",
+          "zh": "明天上午我将在办公室工作。"
+        },
+        {
+          "en": "They will be holding a meeting at this time tomorrow.",
+          "zh": "明天这个时候他们正在开会。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + will have + 过去分词 + by + 时间 (将来完成时)",
+      "original": {
+        "en": "Workers will have completed the new roads by the end of this year.",
+        "zh": "工人们将在今年年底前完成新道路的建设。"
+      },
+      "imitations": [
+        {
+          "en": "I will have finished my homework by Sunday.",
+          "zh": "到周日我将完成作业。"
+        },
+        {
+          "en": "She will have left for Beijing by tomorrow afternoon.",
+          "zh": "到明天下午她将已经动身去北京了。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + have/has + never + 过去分词 + before (现在完成时否定)",
+      "original": {
+        "en": "They have never been held before in this country.",
+        "zh": "这个国家从未举办过。"
+      },
+      "imitations": [
+        {
+          "en": "I have never been to Paris before.",
+          "zh": "我从未去过巴黎。"
+        },
+        {
+          "en": "She has never tried Chinese food before.",
+          "zh": "她以前从未尝过中餐。"
+        }
+      ]
+    },
+    {
+      "pattern": "be looking forward to + 名词/动名词",
+      "original": {
+        "en": "We are looking forward to the Olympic Games.",
+        "zh": "我们期待着奥运会的到来。"
+      },
+      "imitations": [
+        {
+          "en": "I am looking forward to meeting you.",
+          "zh": "我期待着见到你。"
+        },
+        {
+          "en": "They are looking forward to their vacation.",
+          "zh": "他们期待着假期的到来。"
+        }
+      ]
+    }
+  ]
+}

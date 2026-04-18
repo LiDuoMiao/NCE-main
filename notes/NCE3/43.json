@@ -1,0 +1,394 @@
+{
+  "book": "NCE3",
+  "lesson": "43",
+  "title": "Lesson 43",
+  "vocabulary": [
+    {
+      "word": "insure",
+      "phonetic": "/ɪnˈʃʊə(r)/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "给...保险；投保",
+          "usage": "常用insure sth against...结构，表示为某物投保某种险"
+        }
+      ]
+    },
+    {
+      "word": "premium",
+      "phonetic": "/ˈpriːmiəm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "保险费；额外费用",
+          "usage": "指投保人定期支付给保险公司的费用"
+        }
+      ]
+    },
+    {
+      "word": "claim",
+      "phonetic": "/kleɪm/",
+      "meanings": [
+        {
+          "pos": "noun/verb",
+          "meaning": "索赔；要求（赔偿）",
+          "usage": "作名词时指索赔行为；作动词时常用make a claim结构"
+        }
+      ]
+    },
+    {
+      "word": "salvage",
+      "phonetic": "/ˈsælvɪdʒ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "打捞；抢救",
+          "usage": "指从灾难或水中救出财物"
+        }
+      ]
+    },
+    {
+      "word": "capsize",
+      "phonetic": "/kæpˈsaɪz/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "（使）倾覆；（使）翻船",
+          "usage": "通常指船或类似容器的翻转"
+        }
+      ]
+    },
+    {
+      "word": "haul",
+      "phonetic": "/hɔːl/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "拖拽；用力拉",
+          "usage": "强调用力拖拽重物"
+        }
+      ]
+    },
+    {
+      "word": "winch",
+      "phonetic": "/wɪntʃ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "绞车；起货机",
+          "usage": "一种用电力或人力驱动的起重设备"
+        }
+      ]
+    },
+    {
+      "word": "clamp",
+      "phonetic": "/klæmp/",
+      "meanings": [
+        {
+          "pos": "noun/verb",
+          "meaning": "夹子；夹紧",
+          "usage": "作名词指固定用的工具；作动词指用夹子固定"
+        }
+      ]
+    },
+    {
+      "word": "rebound",
+      "phonetic": "/rɪˈbaʊnd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "弹回；反弹",
+          "usage": "指碰到某物后弹回来"
+        }
+      ]
+    },
+    {
+      "word": "perch",
+      "phonetic": "/pɜːtʃ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "（使）处于；位于",
+          "usage": "指处于不稳定或高高在上的位置"
+        }
+      ]
+    },
+    {
+      "word": "overbalance",
+      "phonetic": "/ˌəʊvəˈbæləns/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "（使）失去平衡",
+          "usage": "指因不平衡而倒下或翻转"
+        }
+      ]
+    },
+    {
+      "word": "vertical",
+      "phonetic": "/ˈvɜːtɪkl/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "垂直的；纵向的",
+          "usage": "与horizontal（水平的）相对"
+        }
+      ]
+    },
+    {
+      "word": "tremendous",
+      "phonetic": "/trɪˈmendəs/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "巨大的；极大的",
+          "usage": "强调规模或程度非常大"
+        }
+      ]
+    },
+    {
+      "word": "sunken",
+      "phonetic": "/ˈsʌŋkən/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "沉没的；凹陷的",
+          "usage": "sink的过去分词作形容词，描述沉入水中的物体"
+        }
+      ]
+    },
+    {
+      "word": "fete",
+      "phonetic": "/feɪt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "露天游乐会；义卖会",
+          "usage": "指户外的庆祝活动，通常有各种游戏和义卖"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "be willing to",
+      "usage": "愿意做某事，表示乐意或准备做某事",
+      "examples": [
+        {
+          "en": "Insurance companies are normally willing to insure anything.",
+          "zh": "保险公司通常愿意为任何东西保险。"
+        }
+      ]
+    },
+    {
+      "phrase": "in the event of",
+      "usage": "如果；万一；倘若，用于引出假设的灾难情况",
+      "examples": [
+        {
+          "en": "It would be possible to insure yourself in the event of bad weather.",
+          "zh": "如果遇到坏天气，你也可以为自己投保。"
+        }
+      ]
+    },
+    {
+      "phrase": "make a claim",
+      "usage": "提出索赔，向保险公司要求赔偿",
+      "examples": [
+        {
+          "en": "A shipping company has made a claim for the cost of salvaging.",
+          "zh": "一家航运公司提出了打捞费用的索赔。"
+        }
+      ]
+    },
+    {
+      "phrase": "recover the cost",
+      "usage": "收回成本，弥补花费",
+      "examples": [
+        {
+          "en": "A local authority to recover the cost of salvaging.",
+          "zh": "地方当局为收回打捞费用。"
+        }
+      ]
+    },
+    {
+      "phrase": "look on",
+      "usage": "旁观，袖手观看",
+      "examples": [
+        {
+          "en": "The teenagers looked on while three men dived into the water.",
+          "zh": "当三个人反复潜水时，青少年们在一旁观看。"
+        }
+      ]
+    },
+    {
+      "phrase": "put into operation",
+      "usage": "启动；使运转；使生效",
+      "examples": [
+        {
+          "en": "A powerful winch was put into operation.",
+          "zh": "一台大功率绞车被启动运转。"
+        }
+      ]
+    },
+    {
+      "phrase": "set up",
+      "usage": "引起；产生；造成",
+      "examples": [
+        {
+          "en": "It set up a huge wave in the canal.",
+          "zh": "它在运河里掀起了一股巨浪。"
+        }
+      ]
+    },
+    {
+      "phrase": "attach to",
+      "usage": "系在...上；附加于",
+      "examples": [
+        {
+          "en": "It was almost impossible to attach hawsers to the rim.",
+          "zh": "几乎不可能把缆绳系在边缘上。"
+        }
+      ]
+    },
+    {
+      "phrase": "at tremendous speed",
+      "usage": "以极快的速度",
+      "examples": [
+        {
+          "en": "By working at tremendous speed, the men got the dish on to dry land.",
+          "zh": "由于以极快的速度工作，这些人把盘子弄到了陆地上。"
+        }
+      ]
+    },
+    {
+      "phrase": "be obliged to",
+      "usage": "不得不；必须",
+      "examples": [
+        {
+          "en": "The men were now obliged to try once more.",
+          "zh": "这些人现在不得不再次尝试。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "被动语态 (Passive Voice)",
+      "definition": "当句子的主语是动作的承受者时，使用被动语态。被动语态由be动词+过去分词构成。",
+      "structure": "主语 + be + 过去分词 (+ by + 动作执行者)",
+      "usage": "当不知道动作执行者、强调动作承受者或上下文中不需要提及执行者时使用被动语态。",
+      "examples": [
+        {
+          "en": "The pie dish was insured for the trip.",
+          "zh": "这个馅饼盘被投保了旅途险。"
+        },
+        {
+          "en": "The dish was raised to the surface and was drawn towards the canal bank.",
+          "zh": "盘子被升到水面并被拖向运河岸边。"
+        }
+      ]
+    },
+    {
+      "title": "It is + not uncommon / not unusual to... (it作形式主语)",
+      "definition": "it作形式主语代替不定式短语或从句，真正的主语是后面的不定式to结构。这种结构用于表达某种情况并不罕见。",
+      "structure": "It is + not uncommon / not unusual + to + 动词原形",
+      "usage": "用来表达某事经常发生或并不稀奇，语气较委婉。",
+      "examples": [
+        {
+          "en": "It is not uncommon to hear that a shipping company has made a claim.",
+          "zh": "听到航运公司提出索赔是很常见的。"
+        },
+        {
+          "en": "It is not unusual to see tourists here in summer.",
+          "zh": "夏天这里有游客并不稀奇。"
+        }
+      ]
+    },
+    {
+      "title": "more than + n./adj. (不仅仅；超出)",
+      "definition": "more than可以修饰名词、形容词或动词，表示程度'超出'或'不仅仅'的含义。",
+      "structure": "主语 + 动词 + more than + 名词/形容词/动词",
+      "usage": "用于强调数量、程度或性质超出预期或某个界限。",
+      "examples": [
+        {
+          "en": "Dancing proved to be more than the dish could bear.",
+          "zh": "跳舞被证明是这只盘子承受不了的。"
+        },
+        {
+          "en": "This is more than I can afford.",
+          "zh": "这超出了我的能力范围。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "主语 + be + 过去分词 + for + 目的",
+      "original": {
+        "en": "The pie committee decided that the best way to transport the dish would be by canal so they insured it for the trip.",
+        "zh": "馅饼委员会决定运输这只盘子的最好方式是通过运河，所以他们为旅途投了保。"
+      },
+      "imitations": [
+        {
+          "en": "The company insured the equipment for the experiment.",
+          "zh": "公司为实验设备投了保。"
+        },
+        {
+          "en": "He insured his car for the journey.",
+          "zh": "他为旅途中的汽车投保了。"
+        }
+      ]
+    },
+    {
+      "pattern": "It is + adj. + to + 动词原形",
+      "original": {
+        "en": "It is not uncommon to hear that a shipping company has made a claim.",
+        "zh": "听到航运公司提出索赔是很常见的。"
+      },
+      "imitations": [
+        {
+          "en": "It is not unusual to see children playing in the park.",
+          "zh": "看到孩子们在公园里玩耍并不稀奇。"
+        },
+        {
+          "en": "It is essential to understand the importance of insurance.",
+          "zh": "理解保险的重要性是必要的。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + have/had little difficulty in + doing sth",
+      "original": {
+        "en": "They had little difficulty in finding it.",
+        "zh": "他们找到它没什么困难。"
+      },
+      "imitations": [
+        {
+          "en": "I had little difficulty in solving this problem.",
+          "zh": "我解决这个难题没费什么力气。"
+        },
+        {
+          "en": "She had little difficulty in passing the exam.",
+          "zh": "她通过考试没费什么力气。"
+        }
+      ]
+    },
+    {
+      "pattern": "be + adj. + enough + to + 动词原形",
+      "original": {
+        "en": "The dish rose to the surface and was gently drawn towards the canal bank.",
+        "zh": "盘子升到水面并被轻轻地拖向运河岸边。"
+      },
+      "imitations": [
+        {
+          "en": "The bridge was strong enough to support the weight.",
+          "zh": "这座桥足够坚固，能承受这个重量。"
+        },
+        {
+          "en": "He was tall enough to reach the shelf.",
+          "zh": "他足够高，能够到那个架子。"
+        }
+      ]
+    }
+  ]
+}

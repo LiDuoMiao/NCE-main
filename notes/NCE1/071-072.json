@@ -1,0 +1,402 @@
+{
+  "book": "NCE1",
+  "lesson": "071-072",
+  "title": "Lesson 71",
+  "vocabulary": [
+    {
+      "word": "awful",
+      "phonetic": "/ˈɔːfl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "可怕的；极坏的",
+          "usage": "形容令人不愉快的人或事物，语气较口语化"
+        }
+      ]
+    },
+    {
+      "word": "telephone",
+      "phonetic": "/ˈtelɪfəʊn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "打电话",
+          "usage": "可用作动词或名词，常见搭配telephone sb."
+        }
+      ]
+    },
+    {
+      "word": "yesterday",
+      "phonetic": "/ˈjestədeɪ/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "昨天",
+          "usage": "表示过去的具体一天"
+        }
+      ]
+    },
+    {
+      "word": "office",
+      "phonetic": "/ˈɒfɪs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "办公室",
+          "usage": "指办公的场所，常见搭配office hours工作时间"
+        }
+      ]
+    },
+    {
+      "word": "boss",
+      "phonetic": "/bɒs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "老板；上司",
+          "usage": "对雇主的非正式称呼"
+        }
+      ]
+    },
+    {
+      "word": "type",
+      "phonetic": "/taɪp/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "打字",
+          "usage": "指用打字机或电脑输入文字"
+        }
+      ]
+    },
+    {
+      "word": "letter",
+      "phonetic": "/ˈletə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "信件；信",
+          "usage": "指邮寄的纸质信件，或字母"
+        }
+      ]
+    },
+    {
+      "word": "arrive",
+      "phonetic": "/əˈraɪv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "到达",
+          "usage": "不及物动词，后接at（接小地点）或in（接大地点）"
+        }
+      ]
+    },
+    {
+      "word": "evening",
+      "phonetic": "/ˈiːvnɪŋ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "傍晚；晚上",
+          "usage": "指下午6点到就寝时间，常用词组in the evening"
+        }
+      ]
+    },
+    {
+      "word": "again",
+      "phonetic": "/əˈɡen/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "再一次；又",
+          "usage": "表示重复发生，位置灵活，可放句首或句尾"
+        }
+      ]
+    },
+    {
+      "word": "mother",
+      "phonetic": "/ˈmʌðə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "母亲；妈妈",
+          "usage": "家庭成员称呼，也可用作形容词形式maternal"
+        }
+      ]
+    },
+    {
+      "word": "daughter",
+      "phonetic": "/ˈdɔːtə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "女儿",
+          "usage": "家庭成员称呼，指女性后代"
+        }
+      ]
+    },
+    {
+      "word": "time",
+      "phonetic": "/taɪm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "次数；时间",
+          "usage": "表示次数时用基数词，如three times三次"
+        }
+      ]
+    },
+    {
+      "word": "answer",
+      "phonetic": "/ˈɑːnsə/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "回答；接（电话）",
+          "usage": "answer the phone指接听电话"
+        }
+      ]
+    },
+    {
+      "word": "say",
+      "phonetic": "/seɪ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "说；讲",
+          "usage": "强调说话的内容，后接说话内容"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "four times",
+      "usage": "表示频率，time的复数形式表示次数",
+      "examples": [
+        {
+          "en": "He called me four times yesterday.",
+          "zh": "他昨天给我打了四次电话。"
+        }
+      ]
+    },
+    {
+      "phrase": "the day before yesterday",
+      "usage": "前天，表示比昨天更早的一天",
+      "examples": [
+        {
+          "en": "He called me three times the day before yesterday.",
+          "zh": "他前天给我打了三次电话。"
+        }
+      ]
+    },
+    {
+      "phrase": "answer the telephone",
+      "usage": "接听电话，answer可用pick up或answer the phone替换",
+      "examples": [
+        {
+          "en": "I didn't answer the phone.",
+          "zh": "我没有接电话。"
+        }
+      ]
+    },
+    {
+      "phrase": "type letters",
+      "usage": "打信，指在办公室处理文书工作",
+      "examples": [
+        {
+          "en": "Pauline is typing letters.",
+          "zh": "波林正在打信。"
+        }
+      ]
+    },
+    {
+      "phrase": "arrived home",
+      "usage": "到家，home作副词时前面不加介词",
+      "examples": [
+        {
+          "en": "I arrived home at six o'clock.",
+          "zh": "我六点钟到家的。"
+        }
+      ]
+    },
+    {
+      "phrase": "last night",
+      "usage": "昨晚，表示过去的一个夜晚",
+      "examples": [
+        {
+          "en": "Did he telephone again last night?",
+          "zh": "他昨晚又打电话了吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "speak to someone",
+      "usage": "和某人说话/交谈",
+      "examples": [
+        {
+          "en": "She can't speak to you now.",
+          "zh": "她现在不能和你说话。"
+        }
+      ]
+    },
+    {
+      "phrase": "telephone again",
+      "usage": "再次打电话，again表示重复",
+      "examples": [
+        {
+          "en": "Please don't telephone my daughter again.",
+          "zh": "请不要再给我女儿打电话了。"
+        }
+      ]
+    },
+    {
+      "phrase": "What's...like?",
+      "usage": "询问某人性格或某物特征",
+      "examples": [
+        {
+          "en": "What's Ron Marston like?",
+          "zh": "朗·马斯顿是个什么样的人？"
+        }
+      ]
+    },
+    {
+      "phrase": "This is...",
+      "usage": "电话用语，自我介绍时使用",
+      "examples": [
+        {
+          "en": "This is Pauline's mother.",
+          "zh": "我是波林的妈妈。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "一般过去时的用法 (Simple Past Tense)",
+      "definition": "表示过去发生的动作或存在的状态，常与明确的时间状语连用",
+      "structure": "主语 + 动词过去式",
+      "usage": "描述过去发生的具体事件，常见时间标志词有yesterday, last night, the day before yesterday等",
+      "examples": [
+        {
+          "en": "He telephoned me four times yesterday.",
+          "zh": "他昨天给我打了四次电话。"
+        },
+        {
+          "en": "I arrived home at six o'clock yesterday evening.",
+          "zh": "我昨天傍晚六点钟到家的。"
+        },
+        {
+          "en": "He telephoned again.",
+          "zh": "他又打电话了。"
+        }
+      ]
+    },
+    {
+      "title": "一般过去时的否定句 (Negative Sentences in Past Tense)",
+      "definition": "在肯定句的动词前加did not (didn't)，动词还原为原形",
+      "structure": "主语 + did not (didn't) + 动词原形",
+      "usage": "用于否定过去发生的动作",
+      "examples": [
+        {
+          "en": "I didn't answer the phone.",
+          "zh": "我没有接电话。"
+        },
+        {
+          "en": "He didn't telephone again.",
+          "zh": "他没有再打电话。"
+        }
+      ]
+    },
+    {
+      "title": "一般过去时的一般疑问句 (Yes/No Questions in Past Tense)",
+      "definition": "将did提到句首，动词还原为原形",
+      "structure": "Did + 主语 + 动词原形?",
+      "usage": "用Yes或No回答的疑问句，询问过去是否发生某事",
+      "examples": [
+        {
+          "en": "Did he telephone again last night?",
+          "zh": "他昨晚又打电话了吗？"
+        },
+        {
+          "en": "Did you say to him?",
+          "zh": "你对他说什么了？"
+        },
+        {
+          "en": "Yes, he did. / No, he didn't.",
+          "zh": "是的，他打了。/ 不，他没有。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "主语 + telephoned + (某人) + 时间/次数",
+      "original": {
+        "en": "He telephoned me four times yesterday.",
+        "zh": "他昨天给我打了四次电话。"
+      },
+      "imitations": [
+        {
+          "en": "She called me twice last night.",
+          "zh": "她昨晚给我打了两次电话。"
+        },
+        {
+          "en": "Tom phoned you three times this morning.",
+          "zh": "汤姆今天早上给你打了三次电话。"
+        }
+      ]
+    },
+    {
+      "pattern": "Did + 主语 + 动词原形 + (其他)?",
+      "original": {
+        "en": "Did he telephone again last night?",
+        "zh": "他昨晚又打电话了吗？"
+      },
+      "imitations": [
+        {
+          "en": "Did she answer your email?",
+          "zh": "她回复你的邮件了吗？"
+        },
+        {
+          "en": "Did your mother call you yesterday?",
+          "zh": "你妈妈昨天给你打电话了吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + didn't + 动词原形",
+      "original": {
+        "en": "I didn't answer the phone.",
+        "zh": "我没有接电话。"
+      },
+      "imitations": [
+        {
+          "en": "He didn't come to the party.",
+          "zh": "他没有来参加派对。"
+        },
+        {
+          "en": "She didn't see the movie.",
+          "zh": "她没有看那部电影。"
+        }
+      ]
+    },
+    {
+      "pattern": "What's + 某人 + like?",
+      "original": {
+        "en": "What's Ron Marston like, Pauline?",
+        "zh": "朗·马斯顿是个什么样的人，波林？"
+      },
+      "imitations": [
+        {
+          "en": "What's your new teacher like?",
+          "zh": "你的新老师是个什么样的人？"
+        },
+        {
+          "en": "What's your boss like?",
+          "zh": "你的老板是个什么样的人？"
+        }
+      ]
+    }
+  ]
+}

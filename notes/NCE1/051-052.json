@@ -1,0 +1,408 @@
+{
+  "book": "NCE1",
+  "lesson": "051-052",
+  "title": "Lesson 51",
+  "vocabulary": [
+    {
+      "word": "climate",
+      "phonetic": "/ˈklaɪmət/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "气候",
+          "usage": "指一个地区长期的气象状况"
+        }
+      ]
+    },
+    {
+      "word": "weather",
+      "phonetic": "/ˈweðə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "天气",
+          "usage": "指某一天的天气状况"
+        }
+      ]
+    },
+    {
+      "word": "pleasant",
+      "phonetic": "/ˈplezənt/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "宜人的；舒适的",
+          "usage": "形容令人感到愉快的事物"
+        }
+      ]
+    },
+    {
+      "word": "spring",
+      "phonetic": "/sprɪŋ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "春天；春季",
+          "usage": "季节名称，三月至五月"
+        }
+      ]
+    },
+    {
+      "word": "summer",
+      "phonetic": "/ˈsʌmə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "夏天；夏季",
+          "usage": "季节名称，六月至八月"
+        }
+      ]
+    },
+    {
+      "word": "autumn",
+      "phonetic": "/ˈɔːtəm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "秋天；秋季",
+          "usage": "季节名称，也可说fall，九月至十一月"
+        }
+      ]
+    },
+    {
+      "word": "winter",
+      "phonetic": "/ˈwɪntə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "冬天；冬季",
+          "usage": "季节名称，十二月至二月"
+        }
+      ]
+    },
+    {
+      "word": "windy",
+      "phonetic": "/ˈwɪndi/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "有风的；多风的",
+          "usage": "描述天气状况"
+        }
+      ]
+    },
+    {
+      "word": "warm",
+      "phonetic": "/wɔːm/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "温暖的；暖和的",
+          "usage": "描述温度不太高也不太低"
+        }
+      ]
+    },
+    {
+      "word": "hot",
+      "phonetic": "/hɒt/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "热的；炎热的",
+          "usage": "描述高温天气"
+        }
+      ]
+    },
+    {
+      "word": "cold",
+      "phonetic": "/kəʊld/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "冷的；寒冷的",
+          "usage": "描述低温天气"
+        }
+      ]
+    },
+    {
+      "word": "rain",
+      "phonetic": "/reɪn/",
+      "meanings": [
+        {
+          "pos": "verb/noun",
+          "meaning": "下雨；雨水",
+          "usage": "作为动词表示下雨，作为名词表示雨水"
+        }
+      ]
+    },
+    {
+      "word": "snow",
+      "phonetic": "/snəʊ/",
+      "meanings": [
+        {
+          "pos": "verb/noun",
+          "meaning": "下雪；雪",
+          "usage": "作为动词表示下雪，作为名词表示雪"
+        }
+      ]
+    },
+    {
+      "word": "shine",
+      "phonetic": "/ʃaɪn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "照耀；发光",
+          "usage": "指太阳等发光、照耀"
+        }
+      ]
+    },
+    {
+      "word": "sometimes",
+      "phonetic": "/ˈsʌmtaɪmz/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "有时；偶尔",
+          "usage": "表示频率，介于often和never之间"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "come from",
+      "usage": "表示来自某个地方，询问籍贯或出生地",
+      "examples": [
+        {
+          "en": "Where do you come from?",
+          "zh": "你来自哪里？"
+        },
+        {
+          "en": "I come from Greece.",
+          "zh": "我来自希腊。"
+        }
+      ]
+    },
+    {
+      "phrase": "What's the climate like?",
+      "usage": "询问某个国家或地区的气候状况",
+      "examples": [
+        {
+          "en": "What's the climate like in your country?",
+          "zh": "你们国家的气候怎么样？"
+        }
+      ]
+    },
+    {
+      "phrase": "What's the weather like?",
+      "usage": "询问某个季节或时间的天气状况",
+      "examples": [
+        {
+          "en": "What's the weather like in spring?",
+          "zh": "春天的天气怎么样？"
+        }
+      ]
+    },
+    {
+      "phrase": "in spring/summer/autumn/winter",
+      "usage": "在某个季节，季节前用介词in",
+      "examples": [
+        {
+          "en": "It's very pleasant in autumn.",
+          "zh": "秋天很舒适。"
+        }
+      ]
+    },
+    {
+      "phrase": "It rains sometimes",
+      "usage": "描述天气状况，it作主语表示天气",
+      "examples": [
+        {
+          "en": "It rains sometimes in April.",
+          "zh": "四月有时下雨。"
+        }
+      ]
+    },
+    {
+      "phrase": "It snows sometimes",
+      "usage": "描述天气状况，表示有时下雪",
+      "examples": [
+        {
+          "en": "It snows sometimes in winter.",
+          "zh": "冬天有时下雪。"
+        }
+      ]
+    },
+    {
+      "phrase": "The sun shines",
+      "usage": "描述天气状况，表示阳光照耀",
+      "examples": [
+        {
+          "en": "The sun shines every day.",
+          "zh": "每天阳光照耀。"
+        }
+      ]
+    },
+    {
+      "phrase": "Is it cold or warm?",
+      "usage": "询问天气是冷还是暖，使用or连接两个选择",
+      "examples": [
+        {
+          "en": "Is it cold or warm in autumn?",
+          "zh": "秋天天气冷还是暖？"
+        }
+      ]
+    },
+    {
+      "phrase": "It's always/often/sometimes + adj.",
+      "usage": "使用频率副词描述天气状况",
+      "examples": [
+        {
+          "en": "It's always warm in April.",
+          "zh": "四月总是很暖和。"
+        },
+        {
+          "en": "It's often cold in November.",
+          "zh": "十一月经常很冷。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "使用 It 表示天气",
+      "definition": "在英语中，常用代词 'it' 来表示天气，而不使用具体的主语。",
+      "structure": "It's + 形容词 (hot, cold, warm, pleasant...) / It + 动词 (rains, snows, shines...)",
+      "usage": "当描述天气状况时，使用 'it' 作为主语，而不是具体的事物如 'the sky' 或 'the weather'。",
+      "examples": [
+        {
+          "en": "It's very pleasant.",
+          "zh": "天气很宜人。"
+        },
+        {
+          "en": "It rains sometimes.",
+          "zh": "有时下雨。"
+        },
+        {
+          "en": "It snows sometimes.",
+          "zh": "有时下雪。"
+        }
+      ]
+    },
+    {
+      "title": "频率副词的使用",
+      "definition": "频率副词表示动作或状态发生的频率程度。",
+      "structure": "频率副词 + 形容词/动词 | 主语 + be + 频率副词 + 形容词",
+      "usage": "always（总是）> often（经常）> sometimes（有时）> never（从不）。频率副词通常放在be动词之后、行为动词之前。",
+      "examples": [
+        {
+          "en": "It's always hot in July.",
+          "zh": "七月总是很热。"
+        },
+        {
+          "en": "It's often windy in March.",
+          "zh": "三月经常有风。"
+        },
+        {
+          "en": "It's sometimes cold in October.",
+          "zh": "十月有时很冷。"
+        }
+      ]
+    },
+    {
+      "title": "一般现在时描述四季气候",
+      "definition": "使用一般现在时描述某个季节通常的气候状况。",
+      "structure": "It's (always/often/sometimes) + 形容词 + in + 月份/季节",
+      "usage": "当描述某个季节或月份的一般气候特征时，使用一般现在时。",
+      "examples": [
+        {
+          "en": "It's always warm in September.",
+          "zh": "九月总是很暖和。"
+        },
+        {
+          "en": "It's often cold in December.",
+          "zh": "十二月经常很冷。"
+        },
+        {
+          "en": "It's hot in summer.",
+          "zh": "夏天很热。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Where do you come from?",
+      "original": {
+        "en": "Where do you come from?",
+        "zh": "你来自哪里？"
+      },
+      "imitations": [
+        {
+          "en": "Where do you come from?",
+          "zh": "你来自哪里？"
+        },
+        {
+          "en": "I come from China.",
+          "zh": "我来自中国。"
+        }
+      ]
+    },
+    {
+      "pattern": "What's the climate/weather like?",
+      "original": {
+        "en": "What's the climate like in your country?",
+        "zh": "你们国家的气候怎么样？"
+      },
+      "imitations": [
+        {
+          "en": "What's the weather like in spring?",
+          "zh": "春天的天气怎么样？"
+        },
+        {
+          "en": "What's the climate like in Australia?",
+          "zh": "澳大利亚的气候怎么样？"
+        }
+      ]
+    },
+    {
+      "pattern": "Is it + adj. or + adj.?",
+      "original": {
+        "en": "Is it cold or warm in autumn?",
+        "zh": "秋天天气冷还是暖？"
+      },
+      "imitations": [
+        {
+          "en": "Is it hot or cold in summer?",
+          "zh": "夏天热还是冷？"
+        },
+        {
+          "en": "Is it windy or calm today?",
+          "zh": "今天有风还是无风？"
+        }
+      ]
+    },
+    {
+      "pattern": "It's + 频率副词 + 形容词 in + 季节/月份",
+      "original": {
+        "en": "It's always warm in April and May.",
+        "zh": "四月和五月总是很暖和。"
+      },
+      "imitations": [
+        {
+          "en": "It's often rainy in June.",
+          "zh": "六月经常下雨。"
+        },
+        {
+          "en": "It's sometimes snowy in January.",
+          "zh": "一月有时下雪。"
+        },
+        {
+          "en": "It's always sunny in August.",
+          "zh": "八月总是阳光明媚。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,389 @@
+{
+  "book": "NCE4",
+  "lesson": "06",
+  "title": "Lesson 6",
+  "vocabulary": [
+    {
+      "word": "goodwill",
+      "phonetic": "/ˌɡʊdˈwɪl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "善意，友好",
+          "usage": "不可数名词，常用来描述国家、组织或个人之间的友好态度"
+        }
+      ]
+    },
+    {
+      "word": "inclination",
+      "phonetic": "/ˌɪnklɪˈneɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "倾向，意愿",
+          "usage": "常用搭配 have no inclination to do sth. 表示“没有做某事的意愿”"
+        }
+      ]
+    },
+    {
+      "word": "concrete",
+      "phonetic": "/ˈkɒŋkriːt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "具体的，确实的",
+          "usage": "常修饰evidence、example、proof等名词，与abstract（抽象的）相对"
+        }
+      ]
+    },
+    {
+      "word": "contest",
+      "phonetic": "/ˈkɒntest/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "比赛，竞赛",
+          "usage": "尤指会决出胜负的竞技类比赛，也可表示“争夺，竞争”"
+        }
+      ]
+    },
+    {
+      "word": "orgy",
+      "phonetic": "/ˈɔːdʒi/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "无节制的行为，放纵的活动",
+          "usage": "常用复数形式orgies，搭配of表示“大量的，肆意的”，文中orgies of hatred指“肆意宣泄的仇恨”"
+        }
+      ]
+    },
+    {
+      "word": "hatred",
+      "phonetic": "/ˈheɪtrɪd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "仇恨，憎恨",
+          "usage": "不可数名词，语气比hate更强，常搭配介词for/of/between"
+        }
+      ]
+    },
+    {
+      "word": "deduce",
+      "phonetic": "/dɪˈdjuːs/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "推断，推论",
+          "usage": "常用搭配deduce sth. from sth. 表示“从……推断出……”"
+        }
+      ]
+    },
+    {
+      "word": "competitive",
+      "phonetic": "/kəmˈpetətɪv/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "竞争的，竞技性的",
+          "usage": "可修饰活动、人或环境，指强调输赢、有竞争性质的"
+        }
+      ]
+    },
+    {
+      "word": "utmost",
+      "phonetic": "/ˈʌtməʊst/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "极限，最大可能",
+          "usage": "常用搭配do one's utmost to do sth. 表示“尽某人最大努力做某事”"
+        }
+      ]
+    },
+    {
+      "word": "patriotism",
+      "phonetic": "/ˈpeɪtriətɪzəm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "爱国主义，爱国心",
+          "usage": "不可数名词，文中local patriotism指“地方集体荣誉感”"
+        }
+      ]
+    },
+    {
+      "word": "prestige",
+      "phonetic": "/preˈstiːʒ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "声望，威望",
+          "usage": "不可数名词，指个人、集体或国家的声誉、脸面"
+        }
+      ]
+    },
+    {
+      "word": "disgraced",
+      "phonetic": "/dɪsˈɡreɪst/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "丢脸的，蒙羞的",
+          "usage": "由动词disgrace派生而来，常用来描述人或集体因失败、犯错而失去名誉的状态"
+        }
+      ]
+    },
+    {
+      "word": "savage",
+      "phonetic": "/ˈsævɪdʒ/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "野蛮的，凶猛的",
+          "usage": "常用来形容行为、情绪或动物带有攻击性、不受控制的特点"
+        }
+      ]
+    },
+    {
+      "word": "mimic",
+      "phonetic": "/ˈmɪmɪk/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "模拟的，模仿的",
+          "usage": "用来描述不是真实的、只是对真实事物的模仿的事物"
+        }
+      ]
+    },
+    {
+      "word": "fury",
+      "phonetic": "/ˈfjʊəri/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "狂怒，暴怒",
+          "usage": "常用复数furies，指极度愤怒的情绪，搭配work oneself into furies表示“勃然大怒”"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "if only",
+      "usage": "用来表示强烈的愿望或非真实的条件，常引导虚拟语气句子，意为“要是……就好了，只要”",
+      "examples": [
+        {
+          "en": "If only we could arrive there before the storm, we would be safe.",
+          "zh": "要是我们能在暴风雨来临前赶到那里，我们就安全了。"
+        },
+        {
+          "en": "If only he had told me the truth earlier, I wouldn't have made such a mistake.",
+          "zh": "要是他早一点告诉我真相，我就不会犯这样的错误了。"
+        }
+      ]
+    },
+    {
+      "phrase": "have no inclination to do sth.",
+      "usage": "表示“没有做某事的意愿，不想做某事”，表达主观上的不情愿",
+      "examples": [
+        {
+          "en": "After a whole day of work, I have no inclination to go to the party tonight.",
+          "zh": "工作了一整天之后，我今晚不想去参加聚会。"
+        },
+        {
+          "en": "He has no inclination to follow others' advice without thinking.",
+          "zh": "他不愿意不假思索就听从别人的建议。"
+        }
+      ]
+    },
+    {
+      "phrase": "lead to",
+      "usage": "动词短语，意为“导致，造成”，主语是原因，宾语是结果，to是介词，后接名词或动名词",
+      "examples": [
+        {
+          "en": "Lack of communication may lead to misunderstanding between friends.",
+          "zh": "缺乏沟通可能会导致朋友之间产生误会。"
+        },
+        {
+          "en": "Hard work and careful planning finally led to the success of the project.",
+          "zh": "努力的工作和周密的计划最终让这个项目取得了成功。"
+        }
+      ]
+    },
+    {
+      "phrase": "do one's utmost to do sth.",
+      "usage": "固定搭配，表示“尽某人最大努力做某事”，和try one's best意思相近，语气更正式",
+      "examples": [
+        {
+          "en": "All the medical staff did their utmost to save the injured people in the accident.",
+          "zh": "所有医护人员都尽了最大努力抢救事故中的伤者。"
+        },
+        {
+          "en": "We will do our utmost to finish the task before the deadline.",
+          "zh": "我们会尽最大努力在截止日期前完成任务。"
+        }
+      ]
+    },
+    {
+      "phrase": "pick up sides",
+      "usage": "指在比赛中临时组队，随意选择队员分成两队，没有刻意的安排",
+      "examples": [
+        {
+          "en": "When we play basketball on weekends, we usually pick up sides randomly.",
+          "zh": "我们周末打篮球的时候，通常都是随机组队的。"
+        },
+        {
+          "en": "The children picked up sides on the playground to have a football match.",
+          "zh": "孩子们在操场上随便组队踢足球比赛。"
+        }
+      ]
+    },
+    {
+      "phrase": "arise",
+      "usage": "不及物动词，意为“出现，产生”，主语通常是problem、question、issue等抽象名词，不用于被动语态",
+      "examples": [
+        {
+          "en": "When difficulties arise, you should stay calm and find solutions.",
+          "zh": "当困难出现的时候，你应该保持冷静，寻找解决办法。"
+        },
+        {
+          "en": "A new problem has arisen in the process of the experiment.",
+          "zh": "实验过程中出现了一个新问题。"
+        }
+      ]
+    },
+    {
+      "phrase": "at any rate",
+      "usage": "固定短语，意为“无论如何，至少”，用来对前面的说法进行补充说明或强调",
+      "examples": [
+        {
+          "en": "I'm not sure whether the plan will work, but at any rate we can have a try.",
+          "zh": "我不确定这个计划是否可行，但无论如何我们可以试一试。"
+        },
+        {
+          "en": "At any rate, you should finish your homework before watching TV.",
+          "zh": "至少你应该先写完作业再看电视。"
+        }
+      ]
+    },
+    {
+      "phrase": "work oneself into furies",
+      "usage": "表示“使自己勃然大怒，陷入愤怒的情绪中”，强调情绪上的失控",
+      "examples": [
+        {
+          "en": "He always works himself into furies over small things that don't matter at all.",
+          "zh": "他总是因为一点无关紧要的小事就大发脾气。"
+        },
+        {
+          "en": "There is no need to work yourself into furies just because of his rude words.",
+          "zh": "你没必要因为他的粗话就气得暴跳如雷。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "让步状语从句：even if/even though引导",
+      "definition": "用来引导让步状语从句，表达“即使，尽管”的含义，从句内容可以是真实的情况，也可以是假设的非真实情况，常使用虚拟语气",
+      "structure": "Even if + 从句, 主句",
+      "usage": "用于强调即使在某种条件下，主句的情况依然会发生，突出主句内容的必然性",
+      "examples": [
+        {
+          "en": "Even if you don't like him, you should still be polite to him.",
+          "zh": "即使你不喜欢他，你也应该对他保持礼貌。"
+        },
+        {
+          "en": "Even if it rains tomorrow, we will still hold the sports meeting as scheduled.",
+          "zh": "即使明天下雨，我们还是会如期举办运动会。"
+        }
+      ]
+    },
+    {
+      "title": "条件状语从句：unless引导",
+      "definition": "unless表示“除非，如果不”，引导条件状语从句，相当于if...not，通常遵循“主将从现”的时态规则，即主句用将来时，从句用一般现在时表将来",
+      "structure": "主句 + unless + 从句",
+      "usage": "用来描述主句情况发生的唯一否定条件，即只有从句的情况不发生时，主句才会成立",
+      "examples": [
+        {
+          "en": "You won't pass the exam unless you study harder.",
+          "zh": "除非你更努力学习，否则你不会通过考试。"
+        },
+        {
+          "en": "Unless we act now, the environmental problem will get worse and worse.",
+          "zh": "除非我们现在就采取行动，否则环境问题会越来越严重。"
+        }
+      ]
+    },
+    {
+      "title": "not...but...并列结构",
+      "definition": "用于连接两个并列的成分，表示“不是……而是……”，否定前者，肯定后者，连接的成分需要保持结构一致",
+      "structure": "not + 名词/短语/从句 + but + 名词/短语/从句",
+      "usage": "用来强调后者的重要性，纠正常见的误解，突出真正重要的内容",
+      "examples": [
+        {
+          "en": "The most important thing in learning a language is not memorizing grammar rules, but using it in real communication.",
+          "zh": "学习语言最重要的不是记忆语法规则，而是在真实交流中使用它。"
+        },
+        {
+          "en": "What impressed me most was not the beautiful scenery there, but the kindness of the local people.",
+          "zh": "给我留下最深印象的不是那里的美景，而是当地人的友善。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "I am always amazed when I hear people saying that..., and that...",
+      "original": {
+        "en": "I am always amazed when I hear people saying that sport creates goodwill between the nations, and that if only the common peoples of the world could meet one another at football or cricket, they would have no inclination to meet on the battlefield.",
+        "zh": "当我听人们说体育可以在国家之间创造善意，要是世界各国的普通民众能在足球场或板球场上相遇，他们就不会愿意在战场上兵戎相见，我总是感到十分惊讶。"
+      },
+      "imitations": [
+        {
+          "en": "I am always amazed when I hear people saying that money can solve all problems, and that as long as one is rich, he can live a completely happy life.",
+          "zh": "当我听人们说钱可以解决所有问题，只要一个人有钱，他就能过得完全幸福，我总是感到十分惊讶。"
+        },
+        {
+          "en": "I am always amazed when I hear people saying that hard work is the only factor leading to success, and that if you work hard enough, you will definitely achieve your goal.",
+          "zh": "当我听人们说努力是通往成功的唯一因素，只要你足够努力，就一定能实现目标，我总是感到十分惊讶。"
+        }
+      ]
+    },
+    {
+      "pattern": "Even if one didn't know from... that..., one could deduce it from...",
+      "original": {
+        "en": "Even if one didn't know from concrete examples (the 1936 Olympic Games, for instance) that international sporting contests lead to orgies of hatred, one could deduce it from general principles.",
+        "zh": "即使人们没有从具体的例子（比如1936年奥运会）中了解到国际体育比赛会导致肆意的仇恨，也可以从一般原理中推断出这一点。"
+      },
+      "imitations": [
+        {
+          "en": "Even if one didn't know from real cases that smoking does great harm to lung health, one could deduce it from scientific research results.",
+          "zh": "即使人们没有从真实案例中了解到吸烟对肺部健康有很大危害，也可以从科学研究结果中推断出这一点。"
+        },
+        {
+          "en": "Even if one didn't know from daily experience that regular exercise can improve physical fitness, one could deduce it from relevant medical studies.",
+          "zh": "即使人们没有从日常经验中了解到规律锻炼可以提升身体素质，也可以从相关的医学研究中推断出这一点。"
+        }
+      ]
+    },
+    {
+      "pattern": "On..., where..., it is possible to...: but as soon as..., as soon as..., the most... instincts are aroused.",
+      "original": {
+        "en": "On the village green, where you pick up sides and no feeling of local patriotism is involved, it is possible to play simply for the fun and exercise: but as soon as the question of prestige arises, as soon as you feel that you and some larger unit will be disgraced if you lose, the most savage combative instincts are aroused.",
+        "zh": "在乡村公共草地上，你可以随意组队，没有地方集体荣誉感的牵扯，可能仅仅为了乐趣和锻炼而玩耍：但一旦涉及声望的问题，一旦你觉得如果你输了，你和你所属的更大集体会蒙羞，最野蛮的好斗本能就会被激发出来。"
+      },
+      "imitations": [
+        {
+          "en": "In a casual family game, where there is no prize or external judgment involved, it is possible to play board games simply for relaxation: but as soon as the sense of competition is stirred, as soon as you feel that you will be looked down upon if you lose, the strongest desire to win is aroused.",
+          "zh": "在随意的家庭游戏中，没有奖品也没有外界评判，你可能仅仅为了放松而玩桌游：但一旦竞争感被激发，一旦你觉得如果你输了就会被人看不起，最强烈的求胜欲就会被唤醒。"
+        },
+        {
+          "en": "In the school art club, where you create works just for your own interest and no ranking is given, it is possible to draw simply for enjoyment: but as soon as there is a competition to take part in, as soon as you feel that your work represents the class, the greatest pressure to do well is aroused.",
+          "zh": "在学校美术社团里，你只是出于兴趣创作，没有排名，可能仅仅为了享受而画画：但一旦要参加比赛，一旦你觉得你的作品代表了班级，最大的想要做好的压力就会产生。"
+        }
+      ]
+    }
+  ]
+}

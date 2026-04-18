@@ -1,0 +1,442 @@
+{
+  "book": "NCE4",
+  "lesson": "18",
+  "title": "Lesson 18",
+  "vocabulary": [
+    {
+      "word": "porpoise",
+      "phonetic": "/ˈpɔːpəs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "鼠海豚（小型齿鲸类）",
+          "usage": "可数名词，复数形式为porpoises，指生活在海洋中的小型鲸类动物，常和dolphin（海豚）区分，但文中二者可通用。"
+        }
+      ]
+    },
+    {
+      "word": "superstition",
+      "phonetic": "/ˌsuːpəˈstɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "迷信；迷信观念",
+          "usage": "既可作可数名词也可作不可数名词，指无科学依据的传统信仰，常见搭配：there is a superstition that...（有一个迷信说法是……）。"
+        }
+      ]
+    },
+    {
+      "word": "mariner",
+      "phonetic": "/ˈmærɪnə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "水手；海员",
+          "usage": "可数名词，正式用语，指以航海为职业的人，同义替换为sailor。"
+        }
+      ]
+    },
+    {
+      "word": "drowning",
+      "phonetic": "/ˈdraʊnɪŋ/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "溺水的；快要淹死的",
+          "usage": "由动词drown（淹死，溺亡）的现在分词转化而来，作定语修饰名词，如drowning man（溺水者）。"
+        }
+      ]
+    },
+    {
+      "word": "defensive",
+      "phonetic": "/dɪˈfensɪv/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "防御的；防守的",
+          "usage": "用于描述保护自身免受攻击的行为或状态，常见搭配：defensive formation（防御阵型），on the defensive（采取防御姿态）。"
+        }
+      ]
+    },
+    {
+      "word": "credit",
+      "phonetic": "/ˈkredɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "把……归功于；认为……有（某种优点或能力）",
+          "usage": "常见搭配：credit sb with sth（认为某人具有某种特质/做了某事）。"
+        },
+        {
+          "pos": "noun",
+          "meaning": "信用；赞扬；学分",
+          "usage": "作名词时为不可数或可数名词，如bank credit（银行信用），get credit for sth（因某事获得赞扬）。"
+        }
+      ]
+    },
+    {
+      "word": "motive",
+      "phonetic": "/ˈməʊtɪv/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "动机；目的",
+          "usage": "可数名词，指促使某人做某事的内在原因，常见搭配：motive for sth/doing sth（做某事的动机）。"
+        }
+      ]
+    },
+    {
+      "word": "unconscious",
+      "phonetic": "/ʌnˈkɒnʃəs/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "无意识的；失去知觉的",
+          "usage": "可描述人失去意识的状态，也可指行为是无意识的，反义词为conscious。"
+        }
+      ]
+    },
+    {
+      "word": "curiosity",
+      "phonetic": "/ˌkjʊəriˈɒsəti/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "好奇心；求知欲",
+          "usage": "不可数名词，常见搭配：out of curiosity（出于好奇），satisfy one's curiosity（满足某人的好奇心）。"
+        }
+      ]
+    },
+    {
+      "word": "waterlogged",
+      "phonetic": "/ˈwɔːtəlɒɡd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "浸满水的；进水的",
+          "usage": "用于描述物体被水浸透、满是积水的状态，如waterlogged wood（浸满水的木头）。"
+        }
+      ]
+    },
+    {
+      "word": "scent",
+      "phonetic": "/sent/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "气味；香味；（动物的）臭迹",
+          "usage": "可数名词，尤指动物能闻到的气味，也可指宜人的香气，同义替换为smell（更通用）、fragrance（更指香味）。"
+        }
+      ]
+    },
+    {
+      "word": "ensue",
+      "phonetic": "/ɪnˈsjuː/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "接着发生；随之而来",
+          "usage": "不及物动词，正式用语，指某件事之后紧接着发生另一件事，常见搭配：ensue from sth（由某事引起）。"
+        }
+      ]
+    },
+    {
+      "word": "intrigue",
+      "phonetic": "/ɪnˈtriːɡ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "激起……的兴趣；迷住",
+          "usage": "及物动词，常用被动语态be intrigued with/by sth（被某物迷住，对某物感兴趣）。"
+        },
+        {
+          "pos": "noun",
+          "meaning": "阴谋；密谋",
+          "usage": "作名词时为不可数或可数名词，指秘密策划的有害计划。"
+        }
+      ]
+    },
+    {
+      "word": "indignity",
+      "phonetic": "/ɪnˈdɪɡnəti/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "侮辱；轻蔑；无礼的行为",
+          "usage": "可数或不可数名词，指伤害他人尊严的行为或处境，常见搭配：submit to indignities（忍受侮辱）。"
+        }
+      ]
+    },
+    {
+      "word": "shove",
+      "phonetic": "/ʃʌv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "猛推；乱挤",
+          "usage": "及物或不及物动词，指用力粗暴地推，比push的力度更大、动作更粗鲁，常见搭配：shove sb/sth across/into sth（把某人/某物推到某处）。"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "out of curiosity",
+      "usage": "介词短语，在句中作状语，说明做某事的动机是出于好奇心。",
+      "examples": [
+        {
+          "en": "I asked the question just out of curiosity, so you don't need to answer it if you don't want to.",
+          "zh": "我问这个问题只是出于好奇，所以你不想回答的话可以不用回答。"
+        },
+        {
+          "en": "Out of curiosity, he opened the old box that had been stored in the attic for years.",
+          "zh": "出于好奇，他打开了那个在阁楼里存放了多年的旧箱子。"
+        }
+      ]
+    },
+    {
+      "phrase": "credit sb with sth",
+      "usage": "动词短语，意为“认为某人有某种特质、能力或做了某事”，也可写作credit sth to sb。",
+      "examples": [
+        {
+          "en": "We should credit the team with the success of the entire project, not just the leader.",
+          "zh": "我们应该把整个项目的成功归功于整个团队，而不仅仅是领导。"
+        },
+        {
+          "en": "The old man is credited with saving more than 20 children from drowning in the past 30 years.",
+          "zh": "这位老人在过去30年里被认为救了20多名溺水的儿童。"
+        }
+      ]
+    },
+    {
+      "phrase": "defensive formation",
+      "usage": "名词短语，指军队、动物群体等为防御攻击而排列的阵型。",
+      "examples": [
+        {
+          "en": "The soldiers formed a defensive formation around the camp to guard against possible attacks at night.",
+          "zh": "士兵们在营地周围排成防御阵型，以防夜间可能的袭击。"
+        },
+        {
+          "en": "When facing the enemy's cavalry, the infantry quickly adjusted to a tight defensive formation.",
+          "zh": "面对敌方骑兵时，步兵迅速调整为严密的防御阵型。"
+        }
+      ]
+    },
+    {
+      "phrase": "bow waves",
+      "usage": "名词短语，指船只在航行时船头激起的浪，也叫艏波。",
+      "examples": [
+        {
+          "en": "Dolphins love to ride the bow waves of speeding ships for fun.",
+          "zh": "海豚喜欢在快速行驶的船只的艏波上冲浪玩耍。"
+        },
+        {
+          "en": "The bow waves of the large cruise ship splashed onto the nearby small fishing boats.",
+          "zh": "大型游轮的艏波溅到了附近的小渔船上。"
+        }
+      ]
+    },
+    {
+      "phrase": "natural enemies",
+      "usage": "名词短语，指生态中天生互为捕食、竞争关系的物种，也可引申指天生敌对的人。",
+      "examples": [
+        {
+          "en": "Cats and mice are natural enemies, so you'll rarely see them living together peacefully.",
+          "zh": "猫和老鼠是天敌，所以你很少能看到它们和平共处。"
+        },
+        {
+          "en": "In the business world, the two companies have been natural enemies for decades, competing for the same market share.",
+          "zh": "在商业领域，这两家公司几十年来一直是死对头，争夺同一块市场份额。"
+        }
+      ]
+    },
+    {
+      "phrase": "submit to",
+      "usage": "动词短语，意为“屈服于；服从；忍受”，后接名词或动名词作宾语。",
+      "examples": [
+        {
+          "en": "He refused to submit to the unfair rules set by the new manager.",
+          "zh": "他拒绝服从新经理制定的不公平规定。"
+        },
+        {
+          "en": "The citizens had to submit to the strict curfew during the emergency period.",
+          "zh": "在紧急时期，市民们不得不遵守严格的宵禁规定。"
+        }
+      ]
+    },
+    {
+      "phrase": "for dear life",
+      "usage": "副词短语，在句中作状语，意为“拼命地；竭尽全力地”，形容人在危险或紧急情况下尽最大努力做某事。",
+      "examples": [
+        {
+          "en": "When the dog chased him, he ran for dear life as fast as he could.",
+          "zh": "狗追他的时候，他拼命地跑，能跑多快就跑多快。"
+        },
+        {
+          "en": "She held onto the rope for dear life, afraid that she would fall off the cliff.",
+          "zh": "她拼命抓住绳子，害怕自己会掉下悬崖。"
+        }
+      ]
+    },
+    {
+      "phrase": "no sooner...than...",
+      "usage": "固定句型，意为“一……就……”，引导时间状语从句，no sooner位于句首时主句要部分倒装。",
+      "examples": [
+        {
+          "en": "No sooner had we sat down at the table than the doorbell rang.",
+          "zh": "我们刚在桌子旁坐下，门铃就响了。"
+        },
+        {
+          "en": "He no sooner finished his speech than the audience burst into warm applause.",
+          "zh": "他刚做完演讲，观众就爆发出热烈的掌声。"
+        }
+      ]
+    },
+    {
+      "phrase": "give up",
+      "usage": "动词短语，意为“放弃；投降”，可作不及物短语，也可接名词/动名词作宾语。",
+      "examples": [
+        {
+          "en": "No matter how difficult the task is, we should never give up easily.",
+          "zh": "不管任务有多难，我们都不应该轻易放弃。"
+        },
+        {
+          "en": "He decided to give up smoking after he had a bad cough last month.",
+          "zh": "上个月他咳嗽得很厉害之后，决定戒烟。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "让步状语从句：however引导的让步结构",
+      "definition": "however可以引导让步状语从句，意为“无论多么，不管怎样”，相当于no matter how，用来表示不管程度如何，主句的内容依然成立。",
+      "structure": "however + 形容词/副词 + 主语 + 谓语, 主句",
+      "usage": "用于强调无论某件事的程度到了什么地步，都不会影响主句的结果，常放在句首或句中。",
+      "examples": [
+        {
+          "en": "However intelligent they may be, it is probably a mistake to credit dolphins with any motive of life-saving.",
+          "zh": "不管海豚有多聪明，认为它们有救人的动机很可能是错误的。"
+        },
+        {
+          "en": "However hard the rain falls, we have to arrive at the destination on time.",
+          "zh": "不管雨下得多大，我们都必须准时到达目的地。"
+        },
+        {
+          "en": "He will never give up pursuing his dream, however many difficulties he may meet.",
+          "zh": "不管可能遇到多少困难，他都不会放弃追求自己的梦想。"
+        }
+      ]
+    },
+    {
+      "title": "be型虚拟语气在让步状语从句中的用法",
+      "definition": "在正式书面语中，让步状语从句可以用动词原形be来表示虚拟，意为“不管是……，无论……”，用来涵盖所有可能的情况，相当于whether...is/are...的正式表达。",
+      "structure": "Whether it be + 名词A + or + 名词B, 主句",
+      "usage": "用于列举不同的可能性，说明不管是哪种情况，主句的陈述都成立，是非常正式的书面用法。",
+      "examples": [
+        {
+          "en": "Whether it be bird, fish or beast, the porpoise is intrigued with anything that is alive.",
+          "zh": "不管是鸟、鱼还是野兽，鼠海豚对任何有生命的东西都感兴趣。"
+        },
+        {
+          "en": "Whether it be summer or winter, the old man keeps swimming in the river every morning.",
+          "zh": "不管是夏天还是冬天，这位老人都坚持每天早上在河里游泳。"
+        },
+        {
+          "en": "All people, whether they be rich or poor, should be treated equally in the eyes of the law.",
+          "zh": "所有人，无论贫富，在法律面前都应该被平等对待。"
+        }
+      ]
+    },
+    {
+      "title": "with的复合结构作伴随状语",
+      "definition": "with + 宾语 + 宾语补足语的结构可以在句中作伴随状语，用来补充说明主句动作发生时的伴随状态或同时发生的情况，宾语补足语可以是现在分词、过去分词、形容词、介词短语等。",
+      "structure": "主句, with + 名词/代词 + 现在分词/过去分词/形容词/介词短语",
+      "usage": "用于丰富句子内容，把两个同时发生的动作或状态用一个句子表达出来，使句子更紧凑。当宾语和补足语是主动关系时用现在分词，是被动关系时用过去分词。",
+      "examples": [
+        {
+          "en": "It is possible that upon such an occasion a battle ensued, with the sharks being driven away or killed.",
+          "zh": "在这种情况下很可能随之发生了一场战斗，鲨鱼被赶走或者被杀死了。"
+        },
+        {
+          "en": "She walked into the classroom, with a big smile on her face.",
+          "zh": "她走进教室，脸上带着大大的笑容。"
+        },
+        {
+          "en": "With all the work finished, we decided to go to the cinema to relax ourselves.",
+          "zh": "所有工作都完成了，我们决定去电影院放松一下。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "There has long been a superstition among sb that...",
+      "original": {
+        "en": "There has long been a superstition among mariners that porpoises will save drowning men by pushing them to the surface, or protect them from sharks by surrounding them in defensive formation.",
+        "zh": "长期以来，海员中有一种迷信，认为鼠海豚会把溺水的人推到水面救他们的命，或者围成防御阵形保护他们免受鲨鱼的伤害。"
+      },
+      "imitations": [
+        {
+          "en": "There has long been a superstition among local villagers that walking under a ladder will bring bad luck.",
+          "zh": "长期以来，当地村民中有一种迷信，认为从梯子下面走过会带来厄运。"
+        },
+        {
+          "en": "There has long been a superstition among elderly people that breaking a mirror means seven years of misfortune.",
+          "zh": "长期以来，老年人中有一种迷信，认为打碎镜子意味着七年的不幸。"
+        }
+      ]
+    },
+    {
+      "pattern": "If, as has been reported, ..., it may have been because...",
+      "original": {
+        "en": "If, as has been reported, they have protected humans from sharks, it may have been because curiosity attracted them and because the scent of a possible meal attracted the sharks.",
+        "zh": "如果像报道所说的那样，它们确实保护人类免受鲨鱼的伤害，那可能是因为好奇心吸引了它们，同时可能成为食物的气味吸引了鲨鱼。"
+      },
+      "imitations": [
+        {
+          "en": "If, as has been reported, the small company has defeated its much larger competitor, it may have been because they had a more creative marketing strategy.",
+          "zh": "如果像报道所说的那样，这家小公司击败了比它大得多的竞争对手，那可能是因为他们有更有创意的营销策略。"
+        },
+        {
+          "en": "If, as has been reported, the old building survived the strong earthquake, it may have been because it was built with particularly solid materials.",
+          "zh": "如果像报道所说的那样，这座老建筑在强地震中幸存了下来，那可能是因为它是用特别坚固的材料建造的。"
+        }
+      ]
+    },
+    {
+      "pattern": "On the occasions when ..., they have much more likely done it out of ...",
+      "original": {
+        "en": "On the occasions when they have pushed to shore an unconscious human being they have much more likely done it out of curiosity or for sport, as in riding the bow waves of a ship.",
+        "zh": "在它们把失去知觉的人推到岸边的情况中，它们这么做更有可能是出于好奇或者玩耍，就像在船只的艏波上冲浪一样。"
+      },
+      "imitations": [
+        {
+          "en": "On the occasions when he has helped strangers in trouble, he has much more likely done it out of kindness, not for any reward.",
+          "zh": "在他帮助有困难的陌生人的情况中，他这么做更有可能是出于善良，而不是为了任何回报。"
+        },
+        {
+          "en": "On the occasions when the team has lost important games, they have much more likely done it out of lack of practice, not lack of ability.",
+          "zh": "在球队输掉重要比赛的情况中，他们输球更有可能是因为缺乏练习，而不是缺乏能力。"
+        }
+      ]
+    },
+    {
+      "pattern": "He no sooner ... than ...",
+      "original": {
+        "en": "He no sooner recovers his equilibrium than the next porpoise comes along and hits him another crack.",
+        "zh": "它刚恢复平衡，另一只鼠海豚就过来又撞了它一下。"
+      },
+      "imitations": [
+        {
+          "en": "I no sooner opened the window than a gust of cold wind blew into the room.",
+          "zh": "我刚打开窗户，一阵冷风就吹进了房间。"
+        },
+        {
+          "en": "The little girl no sooner saw her mother than she ran over and threw herself into her arms.",
+          "zh": "小女孩一看到妈妈，就跑过去扑进了她的怀里。"
+        }
+      ]
+    }
+  ]
+}

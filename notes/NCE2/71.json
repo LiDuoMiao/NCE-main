@@ -1,0 +1,386 @@
+{
+  "book": "NCE2",
+  "lesson": "71",
+  "title": "Has Big Ben ever gone wrong?",
+  "vocabulary": [
+    {
+      "word": "famous",
+      "phonetic": "/ˈfeɪməs/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "著名的",
+          "usage": "用于描述广为人知的人或事物"
+        }
+      ]
+    },
+    {
+      "word": "erect",
+      "phonetic": "/ɪˈrekt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "建造；竖立",
+          "usage": "用于表示建造或竖立建筑、雕像等"
+        }
+      ]
+    },
+    {
+      "word": "responsible",
+      "phonetic": "/rɪˈspɒnsəbl/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "负责任的；作为...的原因",
+          "usage": "be responsible for表示对某事负责"
+        }
+      ]
+    },
+    {
+      "word": "immense",
+      "phonetic": "/ɪˈmens/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "巨大的；极广大的",
+          "usage": "用于形容尺寸或规模非常大"
+        }
+      ]
+    },
+    {
+      "word": "accurate",
+      "phonetic": "/ˈækjərət/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "准确的；精确的",
+          "usage": "用于描述正确无误的测量或信息"
+        }
+      ]
+    },
+    {
+      "word": "official",
+      "phonetic": "/əˈfɪʃl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "官员；公务员",
+          "usage": "用于指政府或机构的工作人员"
+        }
+      ]
+    },
+    {
+      "word": "observatory",
+      "phonetic": "/əbˈzɜːvətri/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "天文台；观象台",
+          "usage": "用于指观察天体或天气的地方"
+        }
+      ]
+    },
+    {
+      "word": "strike",
+      "phonetic": "/streɪk/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "敲击；报时",
+          "usage": "指钟表敲响报时"
+        }
+      ]
+    },
+    {
+      "word": "microphone",
+      "phonetic": "/ˈmaɪkrəfəʊn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "麦克风；话筒",
+          "usage": "用于收录声音的设备"
+        }
+      ]
+    },
+    {
+      "word": "rarely",
+      "phonetic": "/ˈreəli/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "很少；罕见地",
+          "usage": "表示几乎不，几乎没有"
+        }
+      ]
+    },
+    {
+      "word": "paint",
+      "phonetic": "/peɪnt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "油漆；颜料",
+          "usage": "用于覆盖表面的液体材料"
+        }
+      ]
+    },
+    {
+      "word": "pot",
+      "phonetic": "/pɒt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "罐；壶",
+          "usage": "用于指各种容器"
+        }
+      ]
+    },
+    {
+      "word": "hang",
+      "phonetic": "/hæŋ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "悬挂；垂下",
+          "usage": "hang的过去式为hung，表示悬挂某物"
+        }
+      ]
+    },
+    {
+      "word": "slow",
+      "phonetic": "/sləʊ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "放慢；减慢",
+          "usage": "slow down表示使速度降低"
+        }
+      ]
+    },
+    {
+      "word": "burn",
+      "phonetic": "/bɜːn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "燃烧；烧毁",
+          "usage": "burn down表示建筑等被烧毁"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "take its name from",
+      "usage": "得名于；以...命名",
+      "examples": [
+        {
+          "en": "Big Ben takes its name from Sir Benjamin Hall.",
+          "zh": "大本钟以本杰明·霍尔爵士的名字命名。"
+        }
+      ]
+    },
+    {
+      "phrase": "be responsible for",
+      "usage": "对...负责；是...的原因",
+      "examples": [
+        {
+          "en": "He was responsible for the making of the clock.",
+          "zh": "他负责制造这个钟。"
+        }
+      ]
+    },
+    {
+      "phrase": "not only...but (also)",
+      "usage": "不仅...而且...",
+      "examples": [
+        {
+          "en": "It is not only of immense size, but is extremely accurate as well.",
+          "zh": "它不仅体积巨大，而且非常精确。"
+        }
+      ]
+    },
+    {
+      "phrase": "be connected to",
+      "usage": "与...相连",
+      "examples": [
+        {
+          "en": "Microphones are connected to the clock tower.",
+          "zh": "麦克风与钟楼相连。"
+        }
+      ]
+    },
+    {
+      "phrase": "hang on",
+      "usage": "挂在...上",
+      "examples": [
+        {
+          "en": "He hung a pot of paint on one of the hands.",
+          "zh": "他把一罐油漆挂在指针上。"
+        }
+      ]
+    },
+    {
+      "phrase": "slow down",
+      "usage": "减速；放慢",
+      "examples": [
+        {
+          "en": "The painter slowed it down.",
+          "zh": "油漆匠让钟走慢了。"
+        }
+      ]
+    },
+    {
+      "phrase": "burn down",
+      "usage": "烧毁；被烧毁",
+      "examples": [
+        {
+          "en": "The Houses of Parliament had been burned down in 1834.",
+          "zh": "议会大厦在1834年被烧毁了。"
+        }
+      ]
+    },
+    {
+      "phrase": "check on",
+      "usage": "检查；核实",
+      "examples": [
+        {
+          "en": "Officials have the clock checked twice a day.",
+          "zh": "官员们每天两次检查这个钟。"
+        }
+      ]
+    },
+    {
+      "phrase": "be heard",
+      "usage": "被听到；听得见",
+      "examples": [
+        {
+          "en": "The clock can be heard all over the world.",
+          "zh": "这个钟的声音全世界都能听到。"
+        }
+      ]
+    },
+    {
+      "phrase": "fail to do something",
+      "usage": "未能做某事；失败",
+      "examples": [
+        {
+          "en": "It failed to give the correct time.",
+          "zh": "它没能报出正确的时间。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "现在完成时 (Present Perfect Tense)",
+      "definition": "表示过去发生的动作或状态持续到现在，或对现在造成的影响。常与already, yet, ever, never, just等时间状语连用。",
+      "structure": "主语 + have/has + 过去分词",
+      "usage": "用于询问某事是否曾经发生过，强调与现在的联系",
+      "examples": [
+        {
+          "en": "Has Big Ben ever gone wrong?",
+          "zh": "大本钟曾经出过故障吗？"
+        }
+      ]
+    },
+    {
+      "title": "与现在事实相反的虚拟语气 (Conditional 2)",
+      "definition": "表示与现在事实相反或不太可能发生的假设。主句用would + 动词原形，从句用过去式(be用were)",
+      "structure": "If + 主语 + 过去式..., 主语 + would + 动词原形...",
+      "usage": "用于表达与事实相反的假设情况",
+      "examples": [
+        {
+          "en": "If the Houses of Parliament had not been burned down, the great clock would never have been erected.",
+          "zh": "如果议会大厦没有被烧毁，大本钟就永远不会建成。"
+        }
+      ]
+    },
+    {
+      "title": "被动语态 (Passive Voice)",
+      "definition": "强调动作的承受者而非执行者，由be动词 + 过去分词构成",
+      "structure": "主语 + be + 过去分词 (+ by + 动作执行者)",
+      "usage": "当动作的承受者比执行者更重要时使用",
+      "examples": [
+        {
+          "en": "The great clock would never have been erected.",
+          "zh": "大本钟就永远不会建成了。"
+        },
+        {
+          "en": "The clock is checked twice a day.",
+          "zh": "这个钟每天被检查两次。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Has + 主语 + ever + 过去分词?",
+      "original": {
+        "en": "Has Big Ben ever gone wrong?",
+        "zh": "大本钟曾经出过故障吗？"
+      },
+      "imitations": [
+        {
+          "en": "Has she ever been to London?",
+          "zh": "她曾经去过伦敦吗？"
+        },
+        {
+          "en": "Has he ever made a mistake?",
+          "zh": "他曾经犯过错误吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "If + 主语 + had not + 过去分词..., 主语 + would never have + 过去分词",
+      "original": {
+        "en": "If the Houses of Parliament had not been burned down, the great clock would never have been erected.",
+        "zh": "如果议会大厦没有被烧毁，大本钟就永远不会建成。"
+      },
+      "imitations": [
+        {
+          "en": "If I had not studied hard, I would never have passed the exam.",
+          "zh": "如果我没有努力学习，我就不会通过考试。"
+        },
+        {
+          "en": "If it had not rained, we would never have stayed at home.",
+          "zh": "如果不下雨，我们就不会待在家里。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + is not only...but + be动词 + 形容词 as well",
+      "original": {
+        "en": "It is not only of immense size, but is extremely accurate as well.",
+        "zh": "它不仅体积巨大，而且非常精确。"
+      },
+      "imitations": [
+        {
+          "en": "She is not only beautiful but kind as well.",
+          "zh": "她不仅漂亮，而且善良。"
+        },
+        {
+          "en": "This book is not only interesting but useful as well.",
+          "zh": "这本书不仅有趣，而且有用。"
+        }
+      ]
+    },
+    {
+      "pattern": "A + 名词 + who/which/that + 过去分词...",
+      "original": {
+        "en": "A painter who had been working on the tower hung a pot of paint on one of the hands.",
+        "zh": "一个一直在塔上工作的油漆匠把一罐油漆挂在指针上。"
+      },
+      "imitations": [
+        {
+          "en": "A student who was reading in the library lost his book.",
+          "zh": "一个在图书馆读书的学生丢了书。"
+        },
+        {
+          "en": "The man who was waiting for the bus was very cold.",
+          "zh": "那个等公交车的人非常冷。"
+        }
+      ]
+    }
+  ]
+}

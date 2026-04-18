@@ -1,0 +1,397 @@
+{
+  "book": "NCE3",
+  "lesson": "42",
+  "title": "Lesson 42",
+  "vocabulary": [
+    {
+      "word": "solitude",
+      "phonetic": "/ˈsɒlɪtjuːd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "孤独；独居",
+          "usage": "不可数名词，强调独处的状态，可含褒义（享受独处）或贬义（孤单）"
+        }
+      ]
+    },
+    {
+      "word": "lure",
+      "phonetic": "/lʊə(r)/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "吸引；引诱",
+          "usage": "常用搭配lure sb. to/into sth.，指用具有吸引力的事物引导某人做某事"
+        },
+        {
+          "pos": "noun",
+          "meaning": "诱惑力；诱饵",
+          "usage": "指吸引他人的事物或钓鱼等用的诱饵"
+        }
+      ]
+    },
+    {
+      "word": "instinct",
+      "phonetic": "/ˈɪnstɪŋkt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "本能；直觉",
+          "usage": "表示天生的本能时为不可数，表具体的直觉反应时为可数，常用搭配by instinct（出于本能）"
+        }
+      ]
+    },
+    {
+      "word": "rambler",
+      "phonetic": "/ˈræmblə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "漫步者；闲逛者",
+          "usage": "指休闲散步的人，来自动词ramble（漫步、闲逛）"
+        }
+      ]
+    },
+    {
+      "word": "foresight",
+      "phonetic": "/ˈfɔːsaɪt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "远见；先见之明",
+          "usage": "不可数名词，强调对未来的预判和规划能力，反义词为hindsight（事后聪明）"
+        }
+      ]
+    },
+    {
+      "word": "rig",
+      "phonetic": "/rɪɡ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "装配；搭建",
+          "usage": "常用搭配rig up，指快速或临时搭建、装配设备等结构"
+        }
+      ]
+    },
+    {
+      "word": "descent",
+      "phonetic": "/dɪˈsent/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "下降；下倾",
+          "usage": "可指空间上的向下行进，也可指血统、身份的传承，反义词为ascent（上升）"
+        }
+      ]
+    },
+    {
+      "word": "precaution",
+      "phonetic": "/prɪˈkɔːʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "预防措施；防备",
+          "usage": "常用复数形式，搭配take precautions against sth.（采取措施预防某事）"
+        }
+      ]
+    },
+    {
+      "word": "foretell",
+      "phonetic": "/fɔːˈtel/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "预言；预测",
+          "usage": "过去式和过去分词均为foretold，强调提前预告尚未发生的事"
+        }
+      ]
+    },
+    {
+      "word": "chasm",
+      "phonetic": "/ˈkæzəm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "深坑；裂隙；分歧",
+          "usage": "既可指地理上的巨大裂口，也可引申为观点、群体之间的巨大分歧"
+        }
+      ]
+    },
+    {
+      "word": "flaw",
+      "phonetic": "/flɔː/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "瑕疵；缺陷；裂缝",
+          "usage": "可指物品的瑕疵、人的性格缺点或结构上的裂隙，常用搭配flaw in sth."
+        }
+      ]
+    },
+    {
+      "word": "plateau",
+      "phonetic": "/ˈplætəʊ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "高原；稳定期",
+          "usage": "地理上指高原，也可引申为发展、增长停滞的平稳阶段，复数形式为plateaus或plateaux"
+        }
+      ]
+    },
+    {
+      "word": "wade",
+      "phonetic": "/weɪd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "涉水；费力行进",
+          "usage": "常用搭配wade through sth.，既指蹚过水域，也引申为吃力地完成冗长的工作"
+        }
+      ]
+    },
+    {
+      "word": "eerie",
+      "phonetic": "/ˈɪəri/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "怪异的；恐怖的",
+          "usage": "用来形容气氛、场景等让人感到不安、诡异的，侧重超自然的怪异感"
+        }
+      ]
+    },
+    {
+      "word": "glisten",
+      "phonetic": "/ˈɡlɪsn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "闪光；闪亮",
+          "usage": "常指湿润或光滑的表面反射光线，多接介词with表示因某物而闪亮"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "come to be known",
+      "usage": "表示逐渐被熟知、被称为，强调过程性而非突然成名",
+      "examples": [
+        {
+          "en": "Cave exploration, or pot-holing, as it has come to be known, is a relatively new sport.",
+          "zh": "洞穴勘探，也就是人们现在常说的洞穴探险，是一项相对较新的运动。"
+        },
+        {
+          "en": "The small town has come to be known for its well-preserved ancient buildings.",
+          "zh": "这个小镇现在已经因保存完好的古建筑而广为人知。"
+        }
+      ]
+    },
+    {
+      "phrase": "rig up",
+      "usage": "指临时或快速搭建、装配设备、结构等",
+      "examples": [
+        {
+          "en": "It can take as long as eight days to rig up rope ladders and to establish supply bases before a descent can be made into a very deep cave.",
+          "zh": "在进入非常深的洞穴之前，可能需要长达8天的时间来搭建绳梯并建立补给基地。"
+        },
+        {
+          "en": "The hikers rigged up a simple shelter with branches and a plastic sheet when it started to rain.",
+          "zh": "开始下雨时，徒步旅行者们用树枝和塑料布临时搭了一个简易庇护所。"
+        }
+      ]
+    },
+    {
+      "phrase": "edge one's way along",
+      "usage": "指小心翼翼地沿某条路径慢慢移动，强调动作的谨慎",
+      "examples": [
+        {
+          "en": "They had to edge their way along this, sometimes wading across shallow streams, or swimming across deep pools.",
+          "zh": "他们不得不沿着这条狭窄的通道慢慢挪行，时而蹚过浅溪，时而游过深潭。"
+        },
+        {
+          "en": "We had to edge our way along the crowded platform to get to the train door.",
+          "zh": "我们不得不沿着拥挤的站台慢慢挪到列车车门处。"
+        }
+      ]
+    },
+    {
+      "phrase": "plunge into",
+      "usage": "既可指纵身跳入水中，也可引申为突然投入、开始做某事",
+      "examples": [
+        {
+          "en": "They plunged into the lake, and after loading their gear on an inflatable rubber dinghy, let the current carry them to the other side.",
+          "zh": "他们跳入湖中，把装备装上充气橡皮艇后，就让水流带着他们漂向对岸。"
+        },
+        {
+          "en": "After graduation, he plunged into his first job with great enthusiasm.",
+          "zh": "毕业后，他满怀热情地投入了自己的第一份工作。"
+        }
+      ]
+    },
+    {
+      "phrase": "squeeze through",
+      "usage": "指用力挤过狭窄的空间，强调空间的狭小和通过的费力",
+      "examples": [
+        {
+          "en": "Squeezing through a cleft in the rocks, the pot-holers arrived at an enormous cavern, the size of a huge concert hall.",
+          "zh": "探险者们挤过岩石的缝隙，来到了一个足有大型音乐厅那么大的巨大洞穴里。"
+        },
+        {
+          "en": "There was only a small gap in the fence, so we had to squeeze through it.",
+          "zh": "围栏上只有一个小缺口，所以我们不得不挤过去。"
+        }
+      ]
+    },
+    {
+      "phrase": "arouse instincts",
+      "usage": "表示激发、唤起本能，属于常用的动宾搭配",
+      "examples": [
+        {
+          "en": "They arouse instincts which can only be dimly understood.",
+          "zh": "它们激发了人们的本能，而这种本能只能被模糊地理解。"
+        },
+        {
+          "en": "The smell of cooking aroused the dog's hunting instincts immediately.",
+          "zh": "烹饪的气味立刻唤起了这只狗的狩猎本能。"
+        }
+      ]
+    },
+    {
+      "phrase": "wash up",
+      "usage": "通常指水流将某物冲到岸边或某个地方，也可表示餐后清洗餐具",
+      "examples": [
+        {
+          "en": "At the far end of the lake, they came to huge piles of rubble which had been washed up by the water.",
+          "zh": "在湖的尽头，他们看到了被水冲上来的大堆碎石。"
+        },
+        {
+          "en": "After the storm, a lot of driftwood was washed up on the beach.",
+          "zh": "风暴过后，很多浮木被冲到了海滩上。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "It引导的强调句",
+      "definition": "用来突出句子中的某个成分（主语、宾语、状语等），强调该成分是动作发生的核心原因或主体，基本含义为“正是……”。",
+      "structure": "It is/was + 被强调部分 + that/who + 句子剩余部分",
+      "usage": "当被强调部分指人时可以用who，其他情况一律用that；去掉It is/was和that/who后句子结构依然完整。",
+      "examples": [
+        {
+          "en": "Perhaps it is the desire for solitude or the chance of making an unexpected discovery that lures people down to the depths of the earth.",
+          "zh": "也许正是对独处的渴望，或是获得意外发现的机会，吸引着人们深入地下深处。"
+        },
+        {
+          "en": "It was his dedication to the project that helped the team achieve success finally.",
+          "zh": "正是他对这个项目的付出，帮助团队最终取得了成功。"
+        }
+      ]
+    },
+    {
+      "title": "虚拟条件句的倒装",
+      "definition": "当虚拟条件句的谓语含有were, should, had时，可以省略if，将这些词移到句首形成倒装，用于书面语中，表达与事实相反的假设。",
+      "structure": "Were/Should/Had + 主语 + 谓语剩余部分，主句",
+      "usage": "多用于正式文体，否定词not不能提前，需放在主语之后。",
+      "examples": [
+        {
+          "en": "The cave might never have been discovered had not the entrance been spotted by the distinguished French pot-holer, Berger.",
+          "zh": "若不是法国著名洞穴探险家伯杰发现了这个洞口，这个洞穴可能永远不会被人知晓。"
+        },
+        {
+          "en": "Had you followed my advice earlier, you would not have made such a mistake.",
+          "zh": "要是你早点听我的建议，你就不会犯这样的错误了。"
+        }
+      ]
+    },
+    {
+      "title": "定语从句的分隔现象",
+      "definition": "定语从句通常紧跟在先行词之后，但有时为了平衡句子结构，会被其他成分（如状语、谓语等）分隔开，需要根据语义判断先行词。",
+      "structure": "先行词 + 其他成分 + 关系词 + 定语从句",
+      "usage": "需通过语义和逻辑确定定语从句修饰的对象，避免误判先行词。",
+      "examples": [
+        {
+          "en": "In this part of the cave, they could hear an insistent booming sound which they found was caused by a small waterspout shooting down into a pool from the roof of the cave.",
+          "zh": "在洞穴的这一部分，他们能听到持续的轰鸣声，后来他们发现这声音是从洞穴顶部倾泻到水池里的小水柱发出的。"
+        },
+        {
+          "en": "A new teacher will come tomorrow who will teach you history.",
+          "zh": "明天会来一位新老师，他将教你们历史。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "It is + 形容词 + to do sth.",
+      "original": {
+        "en": "It is impossible to give a satisfactory explanation for a pot-holer's motives.",
+        "zh": "要对洞穴探险者的动机给出满意的解释是不可能的。"
+      },
+      "imitations": [
+        {
+          "en": "It is necessary to learn basic safety rules before starting the experiment.",
+          "zh": "在开始实验之前学习基本的安全规则是很有必要的。"
+        },
+        {
+          "en": "It is exciting to travel to a place you have never visited before.",
+          "zh": "去一个你从未去过的地方旅行是很令人兴奋的。"
+        }
+      ]
+    },
+    {
+      "pattern": "sth. have the same + 名词 + which/that sth. else have for sb.",
+      "original": {
+        "en": "For him, caves have the same peculiar fascination which high mountains have for the climber.",
+        "zh": "对他来说，洞穴有着独特的魅力，就像高山对登山者的魅力一样。"
+      },
+      "imitations": [
+        {
+          "en": "For children, fairy tales have the same magic attraction which advanced technology has for engineers.",
+          "zh": "对孩子们来说，童话故事有着神奇的吸引力，就像先进科技对工程师的吸引力一样。"
+        },
+        {
+          "en": "For painters, natural scenery has the same profound inspiration which classic music has for musicians.",
+          "zh": "对画家来说，自然风景有着深厚的启发意义，就像古典音乐对音乐家的启发一样。"
+        }
+      ]
+    },
+    {
+      "pattern": "After doing sth., sb. do sth. until + 从句",
+      "original": {
+        "en": "After entering the narrow gap on the plateau, they climbed down the steep sides of the cave until they came to a narrow corridor.",
+        "zh": "进入高原上的狭窄洞口后，他们沿着洞穴陡峭的岩壁往下爬，直到来到一条狭窄的通道前。"
+      },
+      "imitations": [
+        {
+          "en": "After packing all the camping equipment, we walked along the mountain path until we found a flat clearing.",
+          "zh": "收拾好所有露营装备后，我们沿着山间小路前行，直到找到了一片平坦的空地。"
+        },
+        {
+          "en": "After finishing his daily homework, the boy read storybooks until his mother asked him to sleep.",
+          "zh": "完成日常作业后，这个男孩一直在读故事书，直到妈妈叫他睡觉。"
+        }
+      ]
+    },
+    {
+      "pattern": "the only sound that could be heard was made by + 名词",
+      "original": {
+        "en": "In the eerie silence of the cavern, the only sound that could be heard was made by water which dripped continuously from the high dome above them.",
+        "zh": "在洞穴诡异的寂静中，唯一能听到的声音是从他们头顶高高的穹顶不断滴落的水声。"
+      },
+      "imitations": [
+        {
+          "en": "In the quiet library, the only sound that could be heard was made by pages being turned gently.",
+          "zh": "在安静的图书馆里，唯一能听到的声音是轻轻翻书的声音。"
+        },
+        {
+          "en": "In the empty street at midnight, the only sound that could be heard was made by the cold wind blowing through the trees.",
+          "zh": "午夜空荡荡的街道上，唯一能听到的是寒风吹过树林的声音。"
+        }
+      ]
+    }
+  ]
+}

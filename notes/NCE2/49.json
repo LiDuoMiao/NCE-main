@@ -1,0 +1,386 @@
+{
+  "book": "NCE2",
+  "lesson": "49",
+  "title": "How did the dream end?",
+  "vocabulary": [
+    {
+      "word": "tired",
+      "phonetic": "/ˈtaɪəd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "疲倦的；疲劳的",
+          "usage": "表示人感到累或困倦的状态"
+        }
+      ]
+    },
+    {
+      "word": "save up",
+      "phonetic": "/seɪv ʌp/",
+      "meanings": [
+        {
+          "pos": "verb phrase",
+          "meaning": "积蓄；存钱",
+          "usage": "指为买某物而长期积攒钱财"
+        }
+      ]
+    },
+    {
+      "word": "proud",
+      "phonetic": "/praʊd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "骄傲的；自豪的",
+          "usage": "表示对自己或他人的成就感到满意"
+        }
+      ]
+    },
+    {
+      "word": "owner",
+      "phonetic": "/ˈoʊnər/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "所有者；主人",
+          "usage": "指某物的拥有者"
+        }
+      ]
+    },
+    {
+      "word": "spring",
+      "phonetic": "/sprɪŋ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "弹簧",
+          "usage": "指床等家具中的金属弹簧结构"
+        }
+      ]
+    },
+    {
+      "word": "mattress",
+      "phonetic": "/ˈmætrəs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "床垫",
+          "usage": "指床上柔软的垫子"
+        }
+      ]
+    },
+    {
+      "word": "roof",
+      "phonetic": "/ruːf/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "屋顶；房顶",
+          "usage": "指建筑物的顶部结构"
+        }
+      ]
+    },
+    {
+      "word": "gust",
+      "phonetic": "/ɡʌst/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "一阵强风",
+          "usage": "指突然刮起的强风"
+        }
+      ]
+    },
+    {
+      "word": "sweep",
+      "phonetic": "/swiːp/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "扫；刮走",
+          "usage": "指风等将某物吹走或移动"
+        }
+      ]
+    },
+    {
+      "word": "crash",
+      "phonetic": "/kræʃ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "碰撞；坠毁",
+          "usage": "指物体猛烈撞击或坠落"
+        }
+      ]
+    },
+    {
+      "word": "courtyard",
+      "phonetic": "/ˈkɔːrtjɑːrd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "庭院；院子",
+          "usage": "指建筑物围成的露天场地"
+        }
+      ]
+    },
+    {
+      "word": "smash",
+      "phonetic": "/smæʃ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "粉碎；破碎",
+          "usage": "指将某物打成碎片"
+        }
+      ]
+    },
+    {
+      "word": "miraculously",
+      "phonetic": "/mɪˈrækjələsli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "奇迹般地；不可思议地",
+          "usage": "修饰动词，表示发生的事令人惊奇"
+        }
+      ]
+    },
+    {
+      "word": "glance",
+      "phonetic": "/ɡlæns/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "瞥；扫视",
+          "usage": "指快速地看一眼"
+        }
+      ]
+    },
+    {
+      "word": "promptly",
+      "phonetic": "/ˈprɒmptli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "立即；马上",
+          "usage": "表示紧接着某事之后立刻发生"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "tired of doing something",
+      "usage": "对做某事感到厌倦",
+      "examples": [
+        {
+          "en": "Tired of sleeping on the floor, he decided to buy a bed.",
+          "zh": "由于厌倦了睡在地板上，他决定买一张床。"
+        }
+      ]
+    },
+    {
+      "phrase": "save up for years",
+      "usage": "积蓄多年",
+      "examples": [
+        {
+          "en": "He saved up for years to buy a real bed.",
+          "zh": "他积蓄了多年才买到一张真正的床。"
+        }
+      ]
+    },
+    {
+      "phrase": "for the first time",
+      "usage": "第一次；首次",
+      "examples": [
+        {
+          "en": "For the first time in his life, he became the proud owner of a bed.",
+          "zh": "他生平第一次成为一张床的骄傲主人。"
+        }
+      ]
+    },
+    {
+      "phrase": "blow up",
+      "usage": "突然刮起（风暴）；爆炸",
+      "examples": [
+        {
+          "en": "On the third night, a storm blew up.",
+          "zh": "第三天晚上，刮起了风暴。"
+        }
+      ]
+    },
+    {
+      "phrase": "sweep off",
+      "usage": "把...刮走",
+      "examples": [
+        {
+          "en": "A gust of wind swept the bed off the roof.",
+          "zh": "一阵风把床从屋顶上刮走了。"
+        }
+      ]
+    },
+    {
+      "phrase": "crash into",
+      "usage": "撞上；坠毁在...里",
+      "examples": [
+        {
+          "en": "The bed crashed into the courtyard below.",
+          "zh": "床砰的一声落到了下面的院子里。"
+        }
+      ]
+    },
+    {
+      "phrase": "smash to pieces",
+      "usage": "摔成碎片",
+      "examples": [
+        {
+          "en": "Although the bed was smashed to pieces, the man was unhurt.",
+          "zh": "虽然床摔成了碎片，但人却安然无恙。"
+        }
+      ]
+    },
+    {
+      "phrase": "wake up",
+      "usage": "醒来；起床",
+      "examples": [
+        {
+          "en": "The young man did not wake up until the bed had struck the ground.",
+          "zh": "直到床撞到地面，他才醒来。"
+        }
+      ]
+    },
+    {
+      "phrase": "pick up",
+      "usage": "捡起；拾起",
+      "examples": [
+        {
+          "en": "The man sadly picked up the mattress.",
+          "zh": "那人伤心地捡起床垫。"
+        }
+      ]
+    },
+    {
+      "phrase": "go to sleep",
+      "usage": "入睡；睡着",
+      "examples": [
+        {
+          "en": "He promptly went to sleep again.",
+          "zh": "他立刻又睡着了。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去完成时 (Past Perfect Tense)",
+      "definition": "表示在过去某一时刻之前已经完成的动作，常与'by the time'、'before'、'until'等连用",
+      "structure": "had + 过去分词",
+      "usage": "用于描述两个过去的动作，先发生的动作用过去完成时，后发生的动作用一般过去时",
+      "examples": [
+        {
+          "en": "He did not wake up until the bed had struck the ground.",
+          "zh": "直到床撞到地面，他才醒来。"
+        },
+        {
+          "en": "After he had put it on the floor, he promptly went to sleep again.",
+          "zh": "他把床垫放在地板上之后，立刻又睡着了。"
+        }
+      ]
+    },
+    {
+      "title": "过去进行时 (Past Continuous Tense)",
+      "definition": "表示在过去某一时刻正在进行的动作",
+      "structure": "was/were + 动词-ing",
+      "usage": "用于描述故事发生的背景，或与一般过去时连用表示'正在...时突然...'",
+      "examples": [
+        {
+          "en": "On the third night, a storm blew up.",
+          "zh": "第三天晚上，刮起了风暴。"
+        }
+      ]
+    },
+    {
+      "title": "让步状语从句 (Although/Though Clause)",
+      "definition": "用although或though引导的状语从句，表示'虽然...但是...'",
+      "structure": "Although/Though + 主语 + 谓语, 主句",
+      "usage": "用来引出与主句意思相反或相对比的情况",
+      "examples": [
+        {
+          "en": "Although the bed was smashed to pieces, the man was miraculously unhurt.",
+          "zh": "虽然床摔成了碎片，但那人却奇迹般地没有受伤。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Not until... (倒装/强调结构)",
+      "original": {
+        "en": "The young man did not wake up until the bed had struck the ground.",
+        "zh": "直到床撞到地面，他才醒来。"
+      },
+      "imitations": [
+        {
+          "en": "I did not realize my mistake until the teacher pointed it out.",
+          "zh": "直到老师指出我的错误，我才意识到。"
+        },
+        {
+          "en": "He did not go to bed until he finished his homework.",
+          "zh": "他直到写完作业才上床睡觉。"
+        }
+      ]
+    },
+    {
+      "pattern": "Although... + 结果句",
+      "original": {
+        "en": "Although the bed was smashed to pieces, the man was miraculously unhurt.",
+        "zh": "虽然床摔成了碎片，但那人却奇迹般地没有受伤。"
+      },
+      "imitations": [
+        {
+          "en": "Although it was raining heavily, we still went out.",
+          "zh": "虽然雨下得很大，我们仍然出去了。"
+        },
+        {
+          "en": "Although she was very tired, she kept working.",
+          "zh": "虽然她很累了，但她继续工作。"
+        }
+      ]
+    },
+    {
+      "pattern": "After + 过去完成时 + 主句",
+      "original": {
+        "en": "After he had put it on the floor, he promptly went to sleep again.",
+        "zh": "他把床垫放在地板上之后，立刻又睡着了。"
+      },
+      "imitations": [
+        {
+          "en": "After she had finished dinner, she watched TV.",
+          "zh": "她吃完晚饭后看了会儿电视。"
+        },
+        {
+          "en": "After I had cleaned the room, I took a shower.",
+          "zh": "我打扫完房间后洗了个澡。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + be tired of doing something",
+      "original": {
+        "en": "Tired of sleeping on the floor, a young man saved up for years to buy a real bed.",
+        "zh": "由于厌倦了睡在地板上，一个年轻人积蓄多年买了一张真正的床。"
+      },
+      "imitations": [
+        {
+          "en": "Tired of waiting in line, he decided to leave.",
+          "zh": "厌倦了排队等候，他决定离开。"
+        },
+        {
+          "en": "Tired of the city life, they moved to the countryside.",
+          "zh": "厌倦了城市生活，他们搬到了乡下。"
+        }
+      ]
+    }
+  ]
+}

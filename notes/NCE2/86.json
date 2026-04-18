@@ -1,0 +1,386 @@
+{
+  "book": "NCE2",
+  "lesson": "86",
+  "title": "What was the danger?",
+  "vocabulary": [
+    {
+      "word": "speedboat",
+      "phonetic": "/ˈspiːdbəʊt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "快艇，汽艇",
+          "usage": "指一种高速的小型船只"
+        }
+      ]
+    },
+    {
+      "word": "swing",
+      "phonetic": "/swɪŋ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "（使）旋转，转向",
+          "usage": "指突然改变方向的动作"
+        }
+      ]
+    },
+    {
+      "word": "steering wheel",
+      "phonetic": "/ˈstɪərɪŋ wiːl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "方向盘，舵轮",
+          "usage": "控制车辆或船只方向的装置"
+        }
+      ]
+    },
+    {
+      "word": "desperately",
+      "phonetic": "/ˈdespərətli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "绝望地，拼命地",
+          "usage": "描述极度的焦虑或绝望状态"
+        }
+      ]
+    },
+    {
+      "word": "companion",
+      "phonetic": "/kəmˈpæniən/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "同伴，伙伴",
+          "usage": "指一起做某事的人"
+        }
+      ]
+    },
+    {
+      "word": "water ski",
+      "phonetic": "/ˈwɔːtə skiː/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "滑水",
+          "usage": "指穿着滑雪板在水上滑行"
+        }
+      ]
+    },
+    {
+      "word": "buoy",
+      "phonetic": "/bɔɪ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "浮标，航标",
+          "usage": "标记水域位置或危险的漂浮物体"
+        }
+      ]
+    },
+    {
+      "word": "tremendous",
+      "phonetic": "/trɪˈmendəs/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "极大的，惊人的",
+          "usage": "形容规模、程度或数量非常大"
+        }
+      ]
+    },
+    {
+      "word": "roar",
+      "phonetic": "/rɔː/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "轰鸣，呼啸而过",
+          "usage": "描述引擎或风等发出的响亮声音"
+        }
+      ]
+    },
+    {
+      "word": "dismay",
+      "phonetic": "/dɪsˈmeɪ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "沮丧，灰心",
+          "usage": "指因失望或担忧而产生的情绪"
+        }
+      ]
+    },
+    {
+      "word": "drift",
+      "phonetic": "/drɪft/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "漂流，漂移",
+          "usage": "指随风或水流缓慢移动"
+        }
+      ]
+    },
+    {
+      "word": "petrol",
+      "phonetic": "/ˈpetrəl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "汽油（英式英语）",
+          "usage": "等同于美式英语的gasoline"
+        }
+      ]
+    },
+    {
+      "word": "violently",
+      "phonetic": "/ˈvaɪələntli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "猛烈地，剧烈地",
+          "usage": "描述动作的剧烈程度"
+        }
+      ]
+    },
+    {
+      "word": "circle",
+      "phonetic": "/ˈsɜːkl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "圆圈，环形",
+          "usage": "指呈圆形运动"
+        }
+      ]
+    },
+    {
+      "word": "considerable",
+      "phonetic": "/kənˈsɪdərəbl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "相当大的，相当多的",
+          "usage": "形容数量或程度较大但不是最大"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "swing round",
+      "usage": "急转身，突然改变方向",
+      "examples": [
+        {
+          "en": "The driver swung the car round to avoid the obstacle.",
+          "zh": "司机急转弯避开障碍物。"
+        }
+      ]
+    },
+    {
+      "phrase": "come away",
+      "usage": "脱落，掉下",
+      "examples": [
+        {
+          "en": "The button came away from my coat when I caught it on the door.",
+          "zh": "我衣服上的扣子被门刮掉了。"
+        }
+      ]
+    },
+    {
+      "phrase": "wave desperately",
+      "usage": "拼命挥手求救",
+      "examples": [
+        {
+          "en": "The drowning man waved desperately to the people on the shore.",
+          "zh": "溺水的人拼命向岸上的人挥手。"
+        }
+      ]
+    },
+    {
+      "phrase": "strike a buoy",
+      "usage": "撞上浮标",
+      "examples": [
+        {
+          "en": "The ship struck a buoy in the fog.",
+          "zh": "船在雾中撞上了浮标。"
+        }
+      ]
+    },
+    {
+      "phrase": "move in a circle",
+      "usage": "绕圈移动",
+      "examples": [
+        {
+          "en": "The airplane moved in a circle before landing.",
+          "zh": "飞机在着陆前绕了一圈。"
+        }
+      ]
+    },
+    {
+      "phrase": "come straight towards",
+      "usage": "直冲过来",
+      "examples": [
+        {
+          "en": "A big wave came straight towards us.",
+          "zh": "一个大浪直朝我们冲过来。"
+        }
+      ]
+    },
+    {
+      "phrase": "roar past",
+      "usage": "呼啸而过",
+      "examples": [
+        {
+          "en": "The train roared past the station without stopping.",
+          "zh": "火车轰鸣着驶过车站，没有停。"
+        }
+      ]
+    },
+    {
+      "phrase": "swim out of danger",
+      "usage": "游出危险区",
+      "examples": [
+        {
+          "en": "They managed to swim out of danger before the boat returned.",
+          "zh": "他们在船返回之前设法游出了危险区。"
+        }
+      ]
+    },
+    {
+      "phrase": "slow down",
+      "usage": "减速，放慢",
+      "examples": [
+        {
+          "en": "The car slowed down as it approached the crossroads.",
+          "zh": "汽车接近十字路口时放慢了速度。"
+        }
+      ]
+    },
+    {
+      "phrase": "use up",
+      "usage": "用完，耗尽",
+      "examples": [
+        {
+          "en": "We've used up all the milk.",
+          "zh": "我们把牛奶都用完了。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去完成时 (Past Perfect Tense)",
+      "definition": "表示在过去某一时刻之前已经完成的动作或状态",
+      "structure": "主语 + had + 过去分词",
+      "usage": "用于描述两个过去的动作，先发生的动作用过去完成时，后发生的动作用一般过去时",
+      "examples": [
+        {
+          "en": "Both men had hardly had time to realize what was happening when they were thrown into the sea.",
+          "zh": "两个人还没来得及意识到发生了什么，就被猛地抛入海中。"
+        },
+        {
+          "en": "They had just begun to swim when they noticed the speedboat was moving in a circle.",
+          "zh": "他们刚开始游泳，就注意到快艇正在绕圈移动。"
+        }
+      ]
+    },
+    {
+      "title": "had just enough time to",
+      "definition": "刚刚有足够的时间做某事",
+      "structure": "had just enough time to + 动词原形",
+      "usage": "强调时间勉强足够，含有紧迫感",
+      "examples": [
+        {
+          "en": "They had just had enough time to swim out of danger when the boat again completed a circle.",
+          "zh": "他们刚刚有时间游出危险区，快艇就又绕了一圈。"
+        }
+      ]
+    },
+    {
+      "title": "Before long",
+      "definition": "不久，很快",
+      "structure": "Before long, + 主语 + 动词...",
+      "usage": "用于描述不久之后发生的事情，语气较正式",
+      "examples": [
+        {
+          "en": "Before long, the noise dropped completely and the boat began to drift gently.",
+          "zh": "不久，声音完全消失，小船开始轻轻漂流。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Both + 主语 + had + 过去分词 + when + 过去时态句子",
+      "original": {
+        "en": "Both men had hardly had time to realize what was happening when they were thrown violently into the sea.",
+        "zh": "两个人几乎没时间意识到发生了什么，就被猛地抛入海中。"
+      },
+      "imitations": [
+        {
+          "en": "Both students had finished the exam when the bell rang.",
+          "zh": "铃声响起时，两个学生已经答完试卷了。"
+        },
+        {
+          "en": "Both tourists had lost their way when it started to rain heavily.",
+          "zh": "天开始下大雨时，两个游客已经迷路了。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + had just + 过去分词 + when + 过去时态句子",
+      "original": {
+        "en": "They had just had enough time to swim out of danger when the boat again completed a circle.",
+        "zh": "他们刚刚有时间游出危险区，快艇就又绕了一圈。"
+      },
+      "imitations": [
+        {
+          "en": "She had just closed the door when the telephone rang.",
+          "zh": "她刚关上门，电话就响了。"
+        },
+        {
+          "en": "The children had just sat down when the teacher entered the classroom.",
+          "zh": "孩子们刚坐下，老师就进了教室。"
+        }
+      ]
+    },
+    {
+      "pattern": "Before long, + 主语 + 动词",
+      "original": {
+        "en": "Before long, the noise dropped completely and the boat began to drift gently across the water.",
+        "zh": "不久，声音完全消失，小船开始在水面上轻轻漂流。"
+      },
+      "imitations": [
+        {
+          "en": "Before long, the storm stopped and the sun came out.",
+          "zh": "不久，暴风雨停了，太阳出来了。"
+        },
+        {
+          "en": "Before long, he realized his mistake.",
+          "zh": "不久，他就意识到了自己的错误。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + 动词 + in + 时间段",
+      "original": {
+        "en": "In less than a minute, it roared past them only a few feet away.",
+        "zh": "不到一分钟，它就在几英尺外呼啸而过。"
+      },
+      "imitations": [
+        {
+          "en": "In two hours, we reached the destination.",
+          "zh": "两个小时后，我们到达了目的地。"
+        },
+        {
+          "en": "In a few seconds, the light went out.",
+          "zh": "几秒钟后，灯灭了。"
+        }
+      ]
+    }
+  ]
+}

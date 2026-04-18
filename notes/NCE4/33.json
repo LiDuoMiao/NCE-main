@@ -1,0 +1,381 @@
+{
+  "book": "NCE4",
+  "lesson": "33",
+  "title": "Lesson 33",
+  "vocabulary": [
+    {
+      "word": "democratic",
+      "phonetic": "/ˌdeməˈkrætɪk/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "民主的；平等的",
+          "usage": "描述体现人人平等、权利共享的制度或状态"
+        }
+      ]
+    },
+    {
+      "word": "adverse",
+      "phonetic": "/ˈædvɜːs/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "不利的；有害的",
+          "usage": "通常修饰条件、环境等负面的客观因素"
+        }
+      ]
+    },
+    {
+      "word": "deprive",
+      "phonetic": "/dɪˈpraɪv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "剥夺；使丧失",
+          "usage": "常用搭配deprive sb. of sth.，表示夺走某人本该拥有的事物"
+        }
+      ]
+    },
+    {
+      "word": "invest",
+      "phonetic": "/ɪnˈvest/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "投资；投入（时间、精力等）",
+          "usage": "可指资金投入，也可指抽象资源的投入，常用搭配invest in sth."
+        }
+      ]
+    },
+    {
+      "word": "enlightened",
+      "phonetic": "/ɪnˈlaɪtnd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "开明的；有见识的",
+          "usage": "修饰人或政策，指具备理性认知、思想进步的"
+        }
+      ]
+    },
+    {
+      "word": "punctuate",
+      "phonetic": "/ˈpʌŋktʃueɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "不时打断；给…加标点",
+          "usage": "文中表示“穿插、点缀”，指某事物在过程中反复出现"
+        }
+      ]
+    },
+    {
+      "word": "defendant",
+      "phonetic": "/dɪˈfendənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "被告",
+          "usage": "法律术语，对应原告plaintiff"
+        }
+      ]
+    },
+    {
+      "word": "inherit",
+      "phonetic": "/ɪnˈherɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "继承（财产、传统、特质等）",
+          "usage": "可指继承具体财物，也可指传承文化、特征等抽象事物"
+        }
+      ]
+    },
+    {
+      "word": "binding",
+      "phonetic": "/ˈbaɪndɪŋ/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "有约束力的；必须遵守的",
+          "usage": "常修饰协议、义务等，常用搭配be binding on sb."
+        }
+      ]
+    },
+    {
+      "word": "illiterate",
+      "phonetic": "/ɪˈlɪtərət/",
+      "meanings": [
+        {
+          "pos": "noun/adjective",
+          "meaning": "文盲；不识字的",
+          "usage": "作名词指不识字的人，作形容词表示无读写能力的"
+        }
+      ]
+    },
+    {
+      "word": "compulsory",
+      "phonetic": "/kəmˈpʌlsəri/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "强制的；义务的",
+          "usage": "常修饰教育、课程、规定等，指必须执行的"
+        }
+      ]
+    },
+    {
+      "word": "deem",
+      "phonetic": "/diːm/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "认为；视为",
+          "usage": "正式用语，相当于consider，常用结构deem it + adj. + to do sth."
+        }
+      ]
+    },
+    {
+      "word": "hamper",
+      "phonetic": "/ˈhæmpə(r)/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "妨碍；阻碍",
+          "usage": "指阻碍进程、活动或人的发展，语气比hinder稍强"
+        }
+      ]
+    },
+    {
+      "word": "juvenile",
+      "phonetic": "/ˈdʒuːvənaɪl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "青少年的；未成年的",
+          "usage": "用于修饰和未成年人相关的事物，正式用语"
+        }
+      ]
+    },
+    {
+      "word": "delinquency",
+      "phonetic": "/dɪˈlɪŋkwənsi/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "违法行为；少年犯罪",
+          "usage": "常和juvenile搭配，指未成年人的不良或犯罪行为"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "deprive sb. of sth.",
+      "usage": "表示“剥夺某人的某物，使某人丧失某物”，是被动语境下的常用搭配",
+      "examples": [
+        {
+          "en": "The unfair law deprived many people of their right to vote.",
+          "zh": "这项不公平的法律剥夺了许多人的投票权。"
+        },
+        {
+          "en": "Lack of sleep deprived him of the energy to finish the task.",
+          "zh": "睡眠不足让他丧失了完成任务的精力。"
+        }
+      ]
+    },
+    {
+      "phrase": "invest in",
+      "usage": "既可以指资金上投资某领域，也可以指投入时间、精力等资源到某事物中",
+      "examples": [
+        {
+          "en": "The government plans to invest more in renewable energy.",
+          "zh": "政府计划在可再生能源领域投入更多资金。"
+        },
+        {
+          "en": "It is wise to invest in your own professional skills.",
+          "zh": "为自己的职业技能投入资源是很明智的。"
+        }
+      ]
+    },
+    {
+      "phrase": "lay stress on",
+      "usage": "表示“强调；重视”，等同于put emphasis on，用于说明关注的重点",
+      "examples": [
+        {
+          "en": "Many schools lay too much stress on exam results.",
+          "zh": "很多学校过分强调考试成绩。"
+        },
+        {
+          "en": "The company lays stress on teamwork and innovation.",
+          "zh": "这家公司重视团队合作和创新。"
+        }
+      ]
+    },
+    {
+      "phrase": "be fashioned after",
+      "usage": "表示“仿照…制作；模仿…的模式”，指以某事物为范本设计",
+      "examples": [
+        {
+          "en": "The new library is fashioned after a famous ancient building.",
+          "zh": "这座新图书馆是仿照一座著名古建筑设计的。"
+        },
+        {
+          "en": "Their education system is fashioned after the French model.",
+          "zh": "他们的教育体系是仿照法国模式建立的。"
+        }
+      ]
+    },
+    {
+      "phrase": "be binding to/on",
+      "usage": "表示“对…有约束力”，用于说明规则、义务的强制效力",
+      "examples": [
+        {
+          "en": "The contract is binding on all parties involved.",
+          "zh": "这份合同对所有相关方都有约束力。"
+        },
+        {
+          "en": "This regulation is binding to every employee.",
+          "zh": "这项规定对所有员工都有效力。"
+        }
+      ]
+    },
+    {
+      "phrase": "be entitled to",
+      "usage": "表示“有权享有；有资格获得”，用于说明某人理应拥有某种权利或待遇",
+      "examples": [
+        {
+          "en": "All citizens are entitled to equal protection under the law.",
+          "zh": "所有公民都有权受到法律的平等保护。"
+        },
+        {
+          "en": "You are entitled to a 10-day paid annual leave if you work here for one year.",
+          "zh": "如果你在这里工作满一年，就有权享受10天的带薪年假。"
+        }
+      ]
+    },
+    {
+      "phrase": "be confronted with",
+      "usage": "表示“面临；面对（困难、问题等）”，强调被动遇到棘手的状况",
+      "examples": [
+        {
+          "en": "When he graduated, he was confronted with a very competitive job market.",
+          "zh": "他毕业时面临着竞争非常激烈的就业市场。"
+        },
+        {
+          "en": "Many small businesses are confronted with financial difficulties after the pandemic.",
+          "zh": "疫情过后很多小企业都面临着财务困境。"
+        }
+      ]
+    },
+    {
+      "phrase": "a matter of",
+      "usage": "表示“是…的问题；关乎…的事”，用于说明某事物的本质",
+      "examples": [
+        {
+          "en": "Success in this field is not just a matter of luck.",
+          "zh": "在这个领域取得成功不仅仅是运气的问题。"
+        },
+        {
+          "en": "Protecting the environment is a matter of great importance for future generations.",
+          "zh": "保护环境对后代来说是至关重要的事。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "虚拟语气（与现在事实相反的情况）",
+      "definition": "用来描述和当下真实情况不符的假设，表达想象、愿望、建议等含义",
+      "structure": "If + 主语 + 动词过去式（be动词用were）, 主语 + would/could/might + 动词原形",
+      "usage": "当假设的条件在当前现实中不成立时使用，体现非真实的推测",
+      "examples": [
+        {
+          "en": "If our educational system were fashioned after its bookless past we would have the most democratic form of 'college' imaginable.",
+          "zh": "如果我们的教育制度效仿没有书籍的古代模式，我们就会拥有能想象到的最民主的“大学”形式。"
+        },
+        {
+          "en": "If I had more free time, I would learn to play the piano.",
+          "zh": "如果我有更多空闲时间，我会去学弹钢琴。"
+        },
+        {
+          "en": "If there were no mobile phones, people would communicate more face to face.",
+          "zh": "如果没有手机，人们会更多地面对面交流。"
+        }
+      ]
+    },
+    {
+      "title": "插入语",
+      "definition": "嵌入句子中、不作句子主干成分，用于补充说明说话者的态度、解释背景等，删除后句子语法依然完整",
+      "structure": "常置于句子中间，用逗号和主干隔开，形式可以是短语、从句等",
+      "usage": "用来丰富信息，使表达更自然，体现说话者的补充观点",
+      "examples": [
+        {
+          "en": "A man without an education, many of us believe, is an unfortunate victim of adverse circumstances.",
+          "zh": "我们许多人都认为，没有受过教育的人是不利环境的不幸受害者。"
+        },
+        {
+          "en": "The new policy, I think, will bring great benefits to local residents.",
+          "zh": "我认为这项新政策会给当地居民带来很大好处。"
+        },
+        {
+          "en": "This movie, to be honest, is not as interesting as I expected.",
+          "zh": "说实话，这部电影没有我预期的那么有趣。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Convinced of..., sb./sth. do sth. to...",
+      "original": {
+        "en": "Convinced of the importance of education, modern states 'invest' in institutions of learning to get back 'interest' in the form of a large group of enlightened young men and women who are potential leaders.",
+        "zh": "现代国家深信教育的重要性，便向教育机构“投资”，以获得大批有知识的青年男女作为“利息”，这些人是未来的潜在领导者。"
+      },
+      "imitations": [
+        {
+          "en": "Convinced of the importance of physical health, many young people choose to exercise 3 times a week to keep fit.",
+          "zh": "深信身体健康的重要性，很多年轻人选择每周锻炼三次来保持身材。"
+        },
+        {
+          "en": "Convinced of the value of traditional culture, the local government organizes various cultural activities every year to promote inheritance of folk art.",
+          "zh": "深信传统文化的价值，当地政府每年都会组织各类文化活动来推动民间艺术的传承。"
+        }
+      ]
+    },
+    {
+      "pattern": "This shows how long it was before we deemed it necessary to do sth.",
+      "original": {
+        "en": "This shows how long it was before we deemed it necessary to make sure that all our children could share in the knowledge accumulated by the 'happy few' during the past centuries.",
+        "zh": "这说明我们过了很久才意识到，有必要让所有儿童都能共享过去几个世纪里“少数幸运儿”积累起来的知识。"
+      },
+      "imitations": [
+        {
+          "en": "This shows how long it was before we deemed it necessary to strictly limit plastic use to protect the ocean.",
+          "zh": "这说明我们过了很久才意识到，有必要严格限制塑料使用来保护海洋。"
+        },
+        {
+          "en": "This shows how long it was before we deemed it necessary to provide mental health support for students in primary schools.",
+          "zh": "这说明我们过了很久才意识到，有必要为小学生提供心理健康支持。"
+        }
+      ]
+    },
+    {
+      "pattern": "No necessity of doing sth. results in..., and no sb. is confronted with...",
+      "original": {
+        "en": "No necessity of making a living away from home results in neglect of children, and no father is confronted with his inability to 'buy' an education for his child.",
+        "zh": "人们没有必要外出谋生，所以不会造成对孩子的忽视，也没有父亲会面临无力为孩子“购买”教育的困境。"
+      },
+      "imitations": [
+        {
+          "en": "No necessity of working overtime results in more time for people to spend with their family, and no employee is confronted with the problem of work-life imbalance.",
+          "zh": "人们没有必要加班，所以有更多时间陪伴家人，也没有员工会面临工作与生活失衡的问题。"
+        },
+        {
+          "en": "No necessity of worrying about food shortage results in a stable social environment, and no resident is confronted with the difficulty of affording basic food.",
+          "zh": "人们没有必要担心食物短缺，所以社会环境稳定，也没有居民会面临负担不起基本食物的困境。"
+        }
+      ]
+    }
+  ]
+}

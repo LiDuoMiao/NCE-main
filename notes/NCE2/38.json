@@ -1,0 +1,346 @@
+{
+  "vocabulary": [
+    {
+      "word": "Mediterranean",
+      "phonetic": "/ˌmedɪtəˈreɪniən/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "地中海",
+          "usage": "指位于欧洲、亚洲和非洲之间的海域，也可用作形容词"
+        }
+      ]
+    },
+    {
+      "word": "settle down",
+      "phonetic": "/ˈsetl daʊn/",
+      "meanings": [
+        {
+          "pos": "verb phrase",
+          "meaning": "定居；安顿下来",
+          "usage": "指在某地长期居住或安定下来"
+        }
+      ]
+    },
+    {
+      "word": "continually",
+      "phonetic": "/kənˈtɪnjuəli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "不断地；连续地",
+          "usage": "强调动作或状态的持续性，常带有令人不快的含义"
+        }
+      ]
+    },
+    {
+      "word": "bitterly",
+      "phonetic": "/ˈbɪtəli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "刺骨地；极其",
+          "usage": "用于形容寒冷或情感强度"
+        }
+      ]
+    },
+    {
+      "word": "sunshine",
+      "phonetic": "/ˈsʌnʃaɪn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "阳光；日光",
+          "usage": "指太阳的光和热，也可比喻温暖快乐的情形"
+        }
+      ]
+    },
+    {
+      "word": "shock",
+      "phonetic": "/ʃɒk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "震惊；冲击",
+          "usage": "指因意外或不快的事情而产生的强烈惊讶"
+        }
+      ]
+    },
+    {
+      "word": "bear",
+      "phonetic": "/beə/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "忍受；承受",
+          "usage": "指承受痛苦、困难或不愉快的事情"
+        }
+      ]
+    },
+    {
+      "word": "complain",
+      "phonetic": "/kəmˈpleɪn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "抱怨；投诉",
+          "usage": "指对不满意的事情表示不满或怨言"
+        }
+      ]
+    },
+    {
+      "word": "immediately",
+      "phonetic": "/ɪˈmiːdiətli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "立即；马上",
+          "usage": "表示时间上的即刻或毫无延迟"
+        }
+      ]
+    },
+    {
+      "word": "return",
+      "phonetic": "/rɪˈtɜːn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "返回；回来",
+          "usage": "指回到原来所在的地方或状态"
+        }
+      ]
+    },
+    {
+      "word": "dream",
+      "phonetic": "/driːm/",
+      "meanings": [
+        {
+          "pos": "noun/verb",
+          "meaning": "梦想；做梦",
+          "usage": "作名词指美好的愿望或幻想；作动词指做梦或梦想"
+        }
+      ]
+    },
+    {
+      "word": "end",
+      "phonetic": "/end/",
+      "meanings": [
+        {
+          "pos": "noun/verb",
+          "meaning": "结束；终点",
+          "usage": "指某事的终止或终结"
+        }
+      ]
+    },
+    {
+      "word": "except",
+      "phonetic": "/ɪkˈsept/",
+      "meanings": [
+        {
+          "pos": "preposition",
+          "meaning": "除了；除...之外",
+          "usage": "用于排除某个或某些事物"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "settle down",
+      "usage": "指在某地安顿下来，长期居住",
+      "examples": [
+        {
+          "en": "He planned to settle down in the country.",
+          "zh": "他计划在这个国家安顿下来。"
+        }
+      ]
+    },
+    {
+      "phrase": "no sooner...than...",
+      "usage": "表示一...就...，用于描述两个紧接着发生的动作",
+      "examples": [
+        {
+          "en": "He had no sooner returned than he bought a house.",
+          "zh": "他一回来就买了一栋房子。"
+        }
+      ]
+    },
+    {
+      "phrase": "more than one could bear",
+      "usage": "表示超过某人能忍受的限度",
+      "examples": [
+        {
+          "en": "In the end, it was more than he could bear.",
+          "zh": "最后，他实在无法忍受了。"
+        }
+      ]
+    },
+    {
+      "phrase": "hardly...when...",
+      "usage": "表示刚...就...，hardly后用过去完成时",
+      "examples": [
+        {
+          "en": "He had hardly had time to settle down when he sold the house.",
+          "zh": "他还没来得及安顿下来就把房子卖了。"
+        }
+      ]
+    },
+    {
+      "phrase": "dream of",
+      "usage": "指梦想、渴望做某事",
+      "examples": [
+        {
+          "en": "He had often dreamed of retiring in England.",
+          "zh": "他经常梦想在英国退休。"
+        }
+      ]
+    },
+    {
+      "phrase": "complain about",
+      "usage": "指抱怨、埋怨某事",
+      "examples": [
+        {
+          "en": "Almost immediately he began to complain about the weather.",
+          "zh": "几乎立刻他就开始抱怨天气。"
+        }
+      ]
+    },
+    {
+      "phrase": "as if",
+      "usage": "表示好像、似乎，引导方式状语从句",
+      "examples": [
+        {
+          "en": "He acted as if he had never lived in England before.",
+          "zh": "他的表现就好像他从未在英国住过一样。"
+        }
+      ]
+    },
+    {
+      "phrase": "in the end",
+      "usage": "表示最终、最后，相当于finally",
+      "examples": [
+        {
+          "en": "In the end, it was more than he could bear.",
+          "zh": "最后，他实在无法忍受了。"
+        }
+      ]
+    },
+    {
+      "phrase": "sell one's house",
+      "usage": "指出售某人的房子",
+      "examples": [
+        {
+          "en": "He sold the house and left the country.",
+          "zh": "他把房子卖了，离开了这个国家。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "no sooner...than... 句型",
+      "definition": "表示'一...就...'，用于强调两个紧接着发生的动作",
+      "structure": "主语 + had no sooner + 过去分词 + than + 主语 + 过去式",
+      "usage": "用于描述某个动作刚完成，另一个动作立即发生。than后的从句用一般过去时",
+      "examples": [
+        {
+          "en": "He had no sooner returned than he bought a house.",
+          "zh": "他一回来就买了一栋房子。"
+        },
+        {
+          "en": "She had no sooner arrived than she called me.",
+          "zh": "她一到就给我打电话了。"
+        }
+      ]
+    },
+    {
+      "title": "hardly...when... 句型",
+      "definition": "表示'刚...就...'，用法与no sooner...than...相似",
+      "structure": "主语 + had hardly + 过去分词 + when + 主语 + 过去式",
+      "usage": "hardly位于句首时，主语和助动词要倒装。when引导的从句用一般过去时",
+      "examples": [
+        {
+          "en": "He had hardly had time to settle down when he sold the house.",
+          "zh": "他还没来得及安顿下来就把房子卖了。"
+        },
+        {
+          "en": "Hardly had I sat down when the phone rang.",
+          "zh": "我刚坐下电话就响了。"
+        }
+      ]
+    },
+    {
+      "title": "as if/though 虚拟语气",
+      "definition": "在as if/though引导的状语从句中，若表示与事实相反或不太可能发生的事，用虚拟语气",
+      "structure": "主语 + 动词 + as if/though + 主语 + had + 过去分词...",
+      "usage": "当描述的情况与事实相反时，从句谓语用过去完成时表示对过去的虚拟",
+      "examples": [
+        {
+          "en": "He acted as if he had never lived in England before.",
+          "zh": "他的表现就好像他从未在英国住过一样。"
+        },
+        {
+          "en": "She talks as if she knew everything.",
+          "zh": "她说话的样子就好像她什么都知道似的。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "主语 + had no sooner + 过去分词 + than + 主语 + 过去式",
+      "original": {
+        "en": "He had no sooner returned than he bought a house.",
+        "zh": "他一回来就买了一栋房子。"
+      },
+      "imitations": [
+        {
+          "en": "I had no sooner left home than it started to rain.",
+          "zh": "我刚出门天就下雨了。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + had hardly + 过去分词 + when + 主语 + 过去式",
+      "original": {
+        "en": "He had hardly had time to settle down when he sold the house.",
+        "zh": "他还没来得及安顿下来就把房子卖了。"
+      },
+      "imitations": [
+        {
+          "en": "She had hardly finished eating when the guests arrived.",
+          "zh": "她刚吃完饭客人就来了。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + acted as if/though + 主语 + had + 过去分词...",
+      "original": {
+        "en": "He acted as if he had never lived in England before.",
+        "zh": "他的表现就好像他从未在英国住过一样。"
+      },
+      "imitations": [
+        {
+          "en": "She looked as if she had seen a ghost.",
+          "zh": "她看起来好像见了鬼一样。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + had often dreamed of + 动名词/名词",
+      "original": {
+        "en": "He had often dreamed of retiring in England.",
+        "zh": "他经常梦想在英国退休。"
+      },
+      "imitations": [
+        {
+          "en": "I have dreamed of traveling around the world.",
+          "zh": "我一直梦想着环游世界。"
+        }
+      ]
+    }
+  ],
+  "book": "NCE2",
+  "lesson": "38",
+  "title": "Why did Harrison sell his house so quickly?"
+}

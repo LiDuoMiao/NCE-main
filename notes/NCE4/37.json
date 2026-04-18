@@ -1,0 +1,367 @@
+{
+  "book": "NCE4",
+  "lesson": "37",
+  "title": "Lesson 37",
+  "vocabulary": [
+    {
+      "word": "vigorous",
+      "phonetic": "/ˈvɪɡərəs/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "充满活力的；精力充沛的；强壮的",
+          "usage": "用来描述人、身体或活动充满力量和活力的状态"
+        }
+      ]
+    },
+    {
+      "word": "likelihood",
+      "phonetic": "/ˈlaɪklihʊd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "可能性；可能发生的事",
+          "usage": "不可数名词，常用搭配the likelihood of (doing) sth表示某事发生的可能性"
+        }
+      ]
+    },
+    {
+      "word": "vulnerable",
+      "phonetic": "/ˈvʌlnərəbl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "易受伤害的；脆弱的；易受攻击的",
+          "usage": "常与介词to搭配，表示易受某类事物的伤害"
+        }
+      ]
+    },
+    {
+      "word": "progressive",
+      "phonetic": "/prəˈɡresɪv/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "渐进的；逐步的；稳步发展的",
+          "usage": "用来描述变化是逐步发生、持续推进的"
+        }
+      ]
+    },
+    {
+      "word": "imperceptible",
+      "phonetic": "/ˌɪmpəˈseptəbl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "难以察觉的；细微得几乎感觉不到的",
+          "usage": "用来描述变化、差异等非常小，几乎无法被感知到"
+        }
+      ]
+    },
+    {
+      "word": "steep",
+      "phonetic": "/stiːp/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "陡的；陡峭的；（变化）急剧的",
+          "usage": "除了形容坡度大，还可指数量、程度等突然的大幅变化"
+        }
+      ]
+    },
+    {
+      "word": "ageing",
+      "phonetic": "/ˈeɪdʒɪŋ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "变老；衰老",
+          "usage": "指生物体随着时间推移机能衰退的过程，也可作形容词表示“老化的”"
+        }
+      ]
+    },
+    {
+      "word": "odds",
+      "phonetic": "/ɒdz/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "可能性；几率；概率",
+          "usage": "复数名词，常用搭配odds in favour of表示“……的可能性很大”，odds against表示“……的可能性很小”"
+        }
+      ]
+    },
+    {
+      "word": "virtual",
+      "phonetic": "/ˈvɜːtʃuəl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "实质上的；事实上的；几乎……的",
+          "usage": "用来描述某事物虽然没有名义上的形式，但实际上已经具备对应的性质"
+        }
+      ]
+    },
+    {
+      "word": "robust",
+      "phonetic": "/rəʊˈbʌst/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "强健的；强壮的；结实的",
+          "usage": "常用来形容人的身体强壮健康，也可形容系统、组织等稳固可靠"
+        }
+      ]
+    },
+    {
+      "word": "self-evident",
+      "phonetic": "/ˌself ˈevɪdənt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "不证自明的；显而易见的",
+          "usage": "用来描述事实、道理等不需要证明就很明显的"
+        }
+      ]
+    },
+    {
+      "word": "wear-out",
+      "phonetic": "/ˈweə aʊt/",
+      "meanings": [
+        {
+          "pos": "phrasal verb",
+          "meaning": "磨损；用坏；耗尽",
+          "usage": "指物品因长期使用而损坏，也可指人的精力被耗尽"
+        }
+      ]
+    },
+    {
+      "word": "organism",
+      "phonetic": "/ˈɔːɡənɪzəm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "有机体；生物体；生物",
+          "usage": "指有生命的生物，包括动物、植物、微生物等"
+        }
+      ]
+    },
+    {
+      "word": "thermodynamics",
+      "phonetic": "/ˌθɜːməʊdaɪˈnæmɪks/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "热力学",
+          "usage": "物理学科分支，研究热和其他形式能量之间的转换关系"
+        }
+      ]
+    },
+    {
+      "word": "moot",
+      "phonetic": "/muːt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "无定论的；有争议的；未决议的",
+          "usage": "常用搭配a moot point表示“有争议的问题，尚无定论的问题”"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "undergo a loss of",
+      "usage": "表示“经历某种损失、衰退”，用来描述被动承受某种机能、资源等的减少",
+      "examples": [
+        {
+          "en": "Many old people undergo a gradual loss of hearing as they get older.",
+          "zh": "很多老年人随着年龄增长会逐渐经历听力衰退。"
+        }
+      ]
+    },
+    {
+      "phrase": "in favour of",
+      "usage": "此处表示“有利于；支持”，用在描述概率的语境中说明某种结果发生的可能性更大",
+      "examples": [
+        {
+          "en": "The odds are in favour of the home team winning this match.",
+          "zh": "主队赢得这场比赛的可能性很大。"
+        }
+      ]
+    },
+    {
+      "phrase": "the chances are against it",
+      "usage": "固定表达，表示“某事发生的可能性很小”，其中it指代上文提到的可能性较低的情况",
+      "examples": [
+        {
+          "en": "If you don't prepare for the exam, the chances are against your passing it.",
+          "zh": "如果你不备考，通过考试的可能性很小。"
+        }
+      ]
+    },
+    {
+      "phrase": "in accordance with",
+      "usage": "表示“依照；根据；与……一致”，用来引出遵循的规则、规律、法律等",
+      "examples": [
+        {
+          "en": "All the activities are held in accordance with the school's regulations.",
+          "zh": "所有活动都是依照学校的规定开展的。"
+        }
+      ]
+    },
+    {
+      "phrase": "be analogous to",
+      "usage": "表示“与……类似；与……相似”，用来比较两个事物有相似的特征或性质",
+      "examples": [
+        {
+          "en": "The function of a computer's CPU is analogous to the human brain.",
+          "zh": "计算机中央处理器的功能和人类大脑类似。"
+        }
+      ]
+    },
+    {
+      "phrase": "by contrast",
+      "usage": "表示“相比之下；与此相反”，用于连接两个形成对比的内容，突出二者的差异",
+      "examples": [
+        {
+          "en": "The north of the country is dry, while the south, by contrast, is very rainy.",
+          "zh": "这个国家的北部很干燥，相比之下，南部则多雨。"
+        }
+      ]
+    },
+    {
+      "phrase": "wear away",
+      "usage": "表示“磨损；侵蚀；逐渐消失”，指物体因摩擦、使用等逐步被损耗",
+      "examples": [
+        {
+          "en": "The inscription on the old stone has worn away over hundreds of years.",
+          "zh": "这块古老石头上的铭文经过数百年已经被磨损了。"
+        }
+      ]
+    },
+    {
+      "phrase": "all but",
+      "usage": "表示“除了……之外都；几乎”，两种常见含义，这里指“除了……之外都”",
+      "examples": [
+        {
+          "en": "She finished all but the last question on the test paper.",
+          "zh": "她做完了试卷上除了最后一题之外的所有题目。"
+        }
+      ]
+    },
+    {
+      "phrase": "knock sb out",
+      "usage": "表示“使某人不省人事；使某人疲惫不堪；击败某人”，文中指疾病严重到使人失去生命",
+      "examples": [
+        {
+          "en": "The strong punch knocked the boxer out in the first round.",
+          "zh": "重重的一拳在第一回合就把拳击手打晕了。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "however引导的让步状语从句",
+      "definition": "however用来引导让步状语从句，表示“无论如何；不管多么”，相当于no matter how，用来引出无论在什么情况下主句的内容都成立",
+      "structure": "however + 形容词/副词 + 主语 + 谓语，主句",
+      "usage": "用于强调无论某种情况达到什么程度，都不会影响主句的结果，从句需要用陈述语序",
+      "examples": [
+        {
+          "en": "However well we look after ourselves, we cannot stop the process of ageing.",
+          "zh": "无论我们把自己照顾得多好，都无法阻止衰老的过程。"
+        },
+        {
+          "en": "However hard he tried, he could not solve the complicated math problem.",
+          "zh": "无论他多么努力，都解不出这道复杂的数学题。"
+        }
+      ]
+    },
+    {
+      "title": "It作形式主语的名词性从句",
+      "definition": "当主语是较长的that从句时，为了避免句子头重脚轻，常用it作形式主语放在句首，真正的主语从句放在句末",
+      "structure": "It + be + 名词/形容词 + that引导的主语从句",
+      "usage": "用来表达某个事实是怎样的，常见的结构有It is a fact that..., It is unpleasant that..., It is obvious that...等",
+      "examples": [
+        {
+          "en": "It is one of the most unpleasant discoveries which we all make that we must decline in this way as we age.",
+          "zh": "我们所有人都会有的最令人不快的发现之一，就是我们随着年龄增长必然会这样衰退。"
+        },
+        {
+          "en": "It is a common belief that regular exercise is good for physical and mental health.",
+          "zh": "人们普遍认为规律锻炼对身心健康有益。"
+        }
+      ]
+    },
+    {
+      "title": "so...that...引导的结果状语从句",
+      "definition": "so...that...结构用来引导结果状语从句，表示“如此……以至于……”，说明前面的情况导致的结果",
+      "structure": "主语 + 谓语 + so + 形容词/副词 + that + 结果从句",
+      "usage": "so后面接形容词或副词，that后面接完整的句子表示结果，口语中that有时可以省略",
+      "examples": [
+        {
+          "en": "The loss of vigour will finally become so steep that we can live no longer.",
+          "zh": "精力的衰退最终会变得非常急剧，以至于我们无法再活下去。"
+        },
+        {
+          "en": "The novel was so interesting that I stayed up all night reading it.",
+          "zh": "这本小说太有趣了，以至于我熬了一整夜看完它。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "This + 表示现象的名词 + with the passing of time is called + 术语名词.",
+      "original": {
+        "en": "This decline in vigour with the passing of time is called ageing.",
+        "zh": "这种随着时间流逝发生的精力衰退被称为衰老。"
+      },
+      "imitations": [
+        {
+          "en": "This gradual rise in global temperature with the passing of time is called global warming.",
+          "zh": "这种随着时间推移发生的全球气温逐渐上升被称为全球变暖。"
+        },
+        {
+          "en": "This slow loss of memory with the passing of time is called age-related amnesia.",
+          "zh": "这种随着时间推移发生的记忆缓慢丧失被称为年龄相关性健忘。"
+        }
+      ]
+    },
+    {
+      "pattern": "We are so familiar with the fact that + 客观事实, that people have for years assumed that + 普遍看法.",
+      "original": {
+        "en": "We are so familiar with the fact that man ages, that people have for years assumed that the process of losing vigour with time was something self-evident.",
+        "zh": "我们对人会衰老这一事实如此熟悉，以至于多年来人们一直认为，精力随着时间流逝而衰退的过程是不言自明的。"
+      },
+      "imitations": [
+        {
+          "en": "We are so familiar with the fact that the sun rises in the east, that people have for years assumed that this rule will never change.",
+          "zh": "我们对太阳从东方升起这一事实如此熟悉，以至于多年来人们一直认为这个规律永远不会改变。"
+        },
+        {
+          "en": "We are so familiar with the fact that water flows downhill, that people have for years assumed that gravity is a natural force we can never resist.",
+          "zh": "我们对水往低处流这一事实如此熟悉，以至于多年来人们一直认为重力是我们永远无法抗拒的自然力。"
+        }
+      ]
+    },
+    {
+      "pattern": "If we could stay as + 形容词 + as we are at + 年龄, it would take about + 时间段 + for + 事件发生.",
+      "original": {
+        "en": "If we could stay as vigorous as we are at twelve, it would take about 700 years for half of us to die.",
+        "zh": "如果我们能一直保持12岁时的活力，那么我们中有一半人死亡需要大约700年的时间。"
+      },
+      "imitations": [
+        {
+          "en": "If we could stay as curious as we are at five, it would take a lifetime for us to run out of questions to ask about the world.",
+          "zh": "如果我们能一直保持5岁时的好奇心，那么我们要花一辈子的时间才会问完对世界的所有问题。"
+        },
+        {
+          "en": "If we could stay as fast as we are at twenty, it would take only 10 seconds for us to finish the 100-meter race.",
+          "zh": "如果我们能一直保持20岁时的速度，那么我们只需要10秒就能跑完100米。"
+        }
+      ]
+    }
+  ]
+}

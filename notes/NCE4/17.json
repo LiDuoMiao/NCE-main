@@ -1,0 +1,428 @@
+{
+  "book": "NCE4",
+  "lesson": "17",
+  "title": "Lesson 17",
+  "vocabulary": [
+    {
+      "word": "enterprising",
+      "phonetic": "/ˈentəpraɪzɪŋ/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "有事业心的，有进取心的，有开拓精神的",
+          "usage": "用来形容人有创新能力、愿意尝试新方法来获得成功"
+        }
+      ]
+    },
+    {
+      "word": "promiscuous",
+      "phonetic": "/prəˈmɪskjuəs/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "不加选择的，杂乱的；交配随意的",
+          "usage": "可指行为没有选择性，也可指生物繁殖时没有固定配偶"
+        }
+      ]
+    },
+    {
+      "word": "abandon",
+      "phonetic": "/əˈbændən/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "放任，放纵",
+          "usage": "指毫无约束的随性状态，常用搭配with abandon"
+        },
+        {
+          "pos": "verb",
+          "meaning": "放弃，遗弃",
+          "usage": "指主动丢弃、离开原本的人或事物"
+        }
+      ]
+    },
+    {
+      "word": "overrun",
+      "phonetic": "/ˌəʊvəˈrʌn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "泛滥，横行；肆虐",
+          "usage": "指大量生物迅速蔓延占领某个区域，常用被动语态be overrun with/by"
+        }
+      ]
+    },
+    {
+      "word": "devastation",
+      "phonetic": "/ˌdevəˈsteɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "破坏，毁坏",
+          "usage": "指大面积的严重破坏，程度较强"
+        }
+      ]
+    },
+    {
+      "word": "burrow",
+      "phonetic": "/ˈbʌrəʊ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "挖洞，掘穴",
+          "usage": "指动物在地下挖洞穴居住"
+        },
+        {
+          "pos": "noun",
+          "meaning": "（动物挖掘的）洞穴，地洞",
+          "usage": "特指兔子、狐狸等动物挖的地下洞穴"
+        }
+      ]
+    },
+    {
+      "word": "herbage",
+      "phonetic": "/ˈhɜːbɪdʒ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "草，草本植物（尤指牧草）",
+          "usage": "集合名词，指可作为牲畜饲料的草本植物总称"
+        }
+      ]
+    },
+    {
+      "word": "susceptible",
+      "phonetic": "/səˈseptəbl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "易受影响的，易感染（疾病）的",
+          "usage": "常用搭配be susceptible to sth.，指对某种疾病或影响没有抵抗力"
+        }
+      ]
+    },
+    {
+      "word": "epidemic",
+      "phonetic": "/ˌepɪˈdemɪk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "传染病，流行病；（坏事的）泛滥，盛行",
+          "usage": "指在某一地区大范围传播的疾病，也可指不良现象的普遍蔓延"
+        }
+      ]
+    },
+    {
+      "word": "carrier",
+      "phonetic": "/ˈkæriə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "带菌者，传播媒介；运输工具",
+          "usage": "医学上指携带病原体、会传播疾病的生物或物体"
+        }
+      ]
+    },
+    {
+      "word": "drastically",
+      "phonetic": "/ˈdræstɪkli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "急剧地，大幅度地",
+          "usage": "用来强调变化的程度非常大、速度非常快"
+        }
+      ]
+    },
+    {
+      "word": "exterminate",
+      "phonetic": "/ɪkˈstɜːmɪneɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "消灭，根除，灭绝",
+          "usage": "指彻底杀光某一整个群体的生物，对象通常是害虫、有害动物等"
+        }
+      ]
+    },
+    {
+      "word": "bequeath",
+      "phonetic": "/bɪˈkwiːð/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "把…遗赠给；流传，遗留",
+          "usage": "可以指遗嘱中遗留财产，也可指历史上留下的事物（多为负面）"
+        }
+      ]
+    },
+    {
+      "word": "pestilence",
+      "phonetic": "/ˈpestɪləns/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "瘟疫，疫病（致命的流行性传染病）",
+          "usage": "文学或正式用语，指致死率极高的大范围传染病"
+        }
+      ]
+    },
+    {
+      "word": "domesticated",
+      "phonetic": "/dəˈmestɪkeɪtɪd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "驯化的，家养的",
+          "usage": "形容动物经过人类培育，不再适合野外生存"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "with abandon",
+      "usage": "表示“肆意地，放纵地”，用来描述行为毫无约束、随心所欲的状态",
+      "examples": [
+        {
+          "en": "The tourists cheered with abandon when the parade began.",
+          "zh": "游行开始时，游客们尽情欢呼。"
+        },
+        {
+          "en": "Children were splashing in the water with complete abandon.",
+          "zh": "孩子们毫无顾忌地在水里嬉闹泼水。"
+        }
+      ]
+    },
+    {
+      "phrase": "be susceptible to",
+      "usage": "表示“易受…影响，易感染…（疾病）”，to为介词，后接名词或动名词",
+      "examples": [
+        {
+          "en": "People with weak immune systems are more susceptible to the flu.",
+          "zh": "免疫系统较弱的人更容易感染流感。"
+        },
+        {
+          "en": "Teenagers are often susceptible to peer pressure.",
+          "zh": "青少年往往容易受到同伴压力的影响。"
+        }
+      ]
+    },
+    {
+      "phrase": "get rid of",
+      "usage": "表示“摆脱，除去，处理掉”，后接不需要的人或事物",
+      "examples": [
+        {
+          "en": "We need to get rid of all the old furniture in the apartment.",
+          "zh": "我们需要把公寓里所有的旧家具都处理掉。"
+        },
+        {
+          "en": "It took me a month to get rid of my cough.",
+          "zh": "我花了一个月时间才治好咳嗽。"
+        }
+      ]
+    },
+    {
+      "phrase": "act as",
+      "usage": "表示“充当，担任，起…作用”，后接表示身份、功能的名词",
+      "examples": [
+        {
+          "en": "She agreed to act as our interpreter during the trip.",
+          "zh": "她同意在旅行期间充当我们的翻译。"
+        },
+        {
+          "en": "The lemon juice acts as a natural preservative for the jam.",
+          "zh": "柠檬汁在果酱里起到天然防腐剂的作用。"
+        }
+      ]
+    },
+    {
+      "phrase": "pass sth. on to",
+      "usage": "表示“把…传递给，把…传染给”，强调物品、疾病或信息的传递",
+      "examples": [
+        {
+          "en": "Please pass this message on to all the team members.",
+          "zh": "请把这条消息传达给所有团队成员。"
+        },
+        {
+          "en": "The virus can be passed on to others through close contact.",
+          "zh": "这种病毒可以通过密切接触传染给其他人。"
+        }
+      ]
+    },
+    {
+      "phrase": "within the confines of",
+      "usage": "表示“在…的范围之内，在…的边界内”，confine常用复数形式表示界限、限制",
+      "examples": [
+        {
+          "en": "All the activities will take place within the confines of the campus.",
+          "zh": "所有活动都将在校园范围内进行。"
+        },
+        {
+          "en": "He felt trapped within the confines of his boring daily routine.",
+          "zh": "他觉得自己被困在枯燥的日常琐事的牢笼里。"
+        }
+      ]
+    },
+    {
+      "phrase": "be regarded as",
+      "usage": "表示“被认为是，被看作是”，是被动语态结构，用来表达人们对事物的普遍看法",
+      "examples": [
+        {
+          "en": "This novel is regarded as one of the greatest works of the 20th century.",
+          "zh": "这部小说被认为是20世纪最伟大的作品之一。"
+        },
+        {
+          "en": "In many cultures, the tiger is regarded as a symbol of courage.",
+          "zh": "在很多文化中，老虎被看作是勇气的象征。"
+        }
+      ]
+    },
+    {
+      "phrase": "the basis of",
+      "usage": "表示“…的基础”，常用搭配be the basis of/for sth.",
+      "examples": [
+        {
+          "en": "Mutual trust is the basis of a good relationship.",
+          "zh": "相互信任是良好关系的基础。"
+        },
+        {
+          "en": "The research was done on the basis of hundreds of interviews.",
+          "zh": "这项研究是在数百次采访的基础上完成的。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "so that引导的结果状语从句",
+      "definition": "用来表示主句动作所产生的结果，通常翻译为“因此，所以，结果是”",
+      "structure": "主句 + so that + 结果状语从句",
+      "usage": "说明主句行为带来的直接后果，从句和主句之间存在明确的因果关系，从句前通常有逗号和主句隔开",
+      "examples": [
+        {
+          "en": "This rabbit had no natural enemies in the Antipodes, so that it multiplied with that promiscuous abandon characteristic of rabbits.",
+          "zh": "这种兔子在澳新地区没有天敌，因此就像兔子的特性那样，不加节制地大量繁殖。"
+        },
+        {
+          "en": "I forgot to take my keys, so that I had to wait outside until my mom came back.",
+          "zh": "我忘了带钥匙，所以只好在外面等到我妈妈回来。"
+        },
+        {
+          "en": "He left home very early, so that he caught the first train without any trouble.",
+          "zh": "他很早就出门了，因此毫不费力地赶上了第一班火车。"
+        }
+      ]
+    },
+    {
+      "title": "非限制性定语从句",
+      "definition": "对先行词进行补充说明，去掉之后不影响主句的完整意思，通常和主句之间用逗号隔开",
+      "structure": "主句 + , + which/who/whose/where + 从句",
+      "usage": "可以修饰前面的某个名词，也可以修饰整个主句的内容，不用that引导",
+      "examples": [
+        {
+          "en": "It spread through France, where wild rabbits are not generally regarded as a pest but as a sport and a useful food supply.",
+          "zh": "这种疾病传遍了法国，在那里野兔通常不被看作是有害动物，而是狩猎娱乐的目标和有用的食物来源。"
+        },
+        {
+          "en": "The old house, which was built 100 years ago, is still in good condition.",
+          "zh": "这座老房子建于100年前，现在状况仍然很好。"
+        },
+        {
+          "en": "Our guide, who was born in the nearby village, knew all the best hiking routes.",
+          "zh": "我们的向导出生在附近的村子，知道所有最好的徒步路线。"
+        }
+      ]
+    },
+    {
+      "title": "it作形式主语的主语从句",
+      "definition": "当主语是较长的从句时，为了避免句子头重脚轻，用it作形式主语放在句首，真正的主语从句放在句子后面",
+      "structure": "It + be + 形容词/名词 + that + 真正的主语从句",
+      "usage": "常见的形容词有obvious, apparent, clear, possible, strange等，用来表达“…是很明显/可能的”",
+      "examples": [
+        {
+          "en": "It later became apparent that rabbits were developing a degree of resistance to this disease.",
+          "zh": "后来人们发现，兔子对这种疾病逐渐产生了一定的抵抗力。"
+        },
+        {
+          "en": "It is important that we should finish the task before the deadline.",
+          "zh": "我们要在截止日期前完成任务，这一点很重要。"
+        },
+        {
+          "en": "It is a pity that you missed the wonderful concert last night.",
+          "zh": "你错过了昨晚那场精彩的音乐会，真可惜。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Ironically, + 主句 + which引导的非限制性定语从句, + 谓语 + 结果",
+      "original": {
+        "en": "Ironically, Europe, which had bequeathed the rabbit as a pest to Australia, acquired this man-made disease as a pestilence.",
+        "zh": "讽刺的是，把兔子作为有害动物传给澳大利亚的欧洲，反而染上了这种人造的瘟疫。"
+      },
+      "imitations": [
+        {
+          "en": "Ironically, the library, which was supposed to encourage people to read more, closes on weekends when most people are free.",
+          "zh": "讽刺的是，本应鼓励人们多读书的图书馆，在大多数人有空的周末却闭馆。"
+        },
+        {
+          "en": "Ironically, the invention, which was designed to make people closer, makes many of us communicate less face to face.",
+          "zh": "讽刺的是，这项本为拉近人们距离而设计的发明，反而让我们很多人更少面对面交流了。"
+        }
+      ]
+    },
+    {
+      "pattern": "The question became one of whether + 从句",
+      "original": {
+        "en": "The question became one of whether Man could control the disease he had invented.",
+        "zh": "问题演变成了人类能否控制自己发明的这种疾病。"
+      },
+      "imitations": [
+        {
+          "en": "The problem became one of whether we can raise enough money for the project.",
+          "zh": "问题演变成了我们能否为这个项目筹集到足够的资金。"
+        },
+        {
+          "en": "The discussion became one of whether we should change our original plan at the last minute.",
+          "zh": "讨论演变成了我们是否应该在最后一刻改变原定计划。"
+        }
+      ]
+    },
+    {
+      "pattern": "Sth. did not, however, remain within the confines of + 范围",
+      "original": {
+        "en": "It did not, however, remain within the confines of this estate.",
+        "zh": "然而，这种疾病并没有停留在他的庄园范围内。"
+      },
+      "imitations": [
+        {
+          "en": "The small conflict did not, however, remain within the confines of the two villages.",
+          "zh": "然而，这场小冲突并没有局限在两个村子的范围内。"
+        },
+        {
+          "en": "The good news did not, however, remain within the confines of the small office.",
+          "zh": "然而，这个好消息并没有只在这个小办公室里流传。"
+        }
+      ]
+    },
+    {
+      "pattern": "There were hopes, however, that + 同位语从句",
+      "original": {
+        "en": "There were hopes, however, that the problem of the rabbit would become manageable.",
+        "zh": "不过，人们还是有希望认为兔子的问题会变得可控。"
+      },
+      "imitations": [
+        {
+          "en": "There were hopes, however, that the missing hiker would be found before dark.",
+          "zh": "不过，人们还是有希望在天黑前找到失踪的徒步旅行者。"
+        },
+        {
+          "en": "There were hopes, however, that the local government would take measures to reduce the air pollution.",
+          "zh": "不过，人们还是有希望当地政府会采取措施减少空气污染。"
+        }
+      ]
+    }
+  ]
+}

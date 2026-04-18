@@ -1,0 +1,324 @@
+{
+  "book": "NCE1",
+  "lesson": "027-028",
+  "title": "Lesson 27",
+  "vocabulary": [
+    {
+      "word": "living room",
+      "phonetic": "/ˈlɪvɪŋ ruːm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "客厅，起居室",
+          "usage": "指家庭用于接待客人和休闲的房间"
+        }
+      ]
+    },
+    {
+      "word": "large",
+      "phonetic": "/lɑːdʒ/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "大的，宽敞的",
+          "usage": "描述物品或空间的尺寸大小"
+        }
+      ]
+    },
+    {
+      "word": "television",
+      "phonetic": "/ˈtelɪvɪʒn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "电视，电视机",
+          "usage": "用于观看节目的电器设备，简称TV"
+        }
+      ]
+    },
+    {
+      "word": "near",
+      "phonetic": "/nɪə/",
+      "meanings": [
+        {
+          "pos": "preposition",
+          "meaning": "在...附近，靠近",
+          "usage": "表示位置接近于某个地点或物品"
+        }
+      ]
+    },
+    {
+      "word": "window",
+      "phonetic": "/ˈwɪndəʊ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "窗户",
+          "usage": "建筑物中用于通风和采光的开口"
+        }
+      ]
+    },
+    {
+      "word": "magazine",
+      "phonetic": "/ˌmæɡəˈziːn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "杂志，期刊",
+          "usage": "定期出版的刊物，包含文章和图片"
+        }
+      ]
+    },
+    {
+      "word": "table",
+      "phonetic": "/ˈteɪbl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "桌子",
+          "usage": "有腿和台面的家具，用于放置物品"
+        }
+      ]
+    },
+    {
+      "word": "newspaper",
+      "phonetic": "/ˈnjuːzˌpeɪpə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "报纸",
+          "usage": "每日或定期出版的新闻刊物"
+        }
+      ]
+    },
+    {
+      "word": "armchair",
+      "phonetic": "/ˈɑːmtʃeə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "扶手椅",
+          "usage": "带有两侧扶手的椅子"
+        }
+      ]
+    },
+    {
+      "word": "stereo",
+      "phonetic": "/ˈsteriəʊ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "立体声音响",
+          "usage": "播放音乐和音频的设备"
+        }
+      ]
+    },
+    {
+      "word": "door",
+      "phonetic": "/dɔː/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "门",
+          "usage": "用于进出房间或建筑的开口"
+        }
+      ]
+    },
+    {
+      "word": "book",
+      "phonetic": "/bʊk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "书，书籍",
+          "usage": "装订成册的印刷读物"
+        }
+      ]
+    },
+    {
+      "word": "picture",
+      "phonetic": "/ˈpɪktʃə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "图片，画，照片",
+          "usage": "展示图像的视觉作品"
+        }
+      ]
+    },
+    {
+      "word": "wall",
+      "phonetic": "/wɔːl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "墙，墙壁",
+          "usage": "建筑物的垂直分隔结构"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "There is/are",
+      "usage": "表示存在，用于介绍某处有某物",
+      "examples": [
+        {
+          "en": "There is a table in the room.",
+          "zh": "房间里有一张桌子。"
+        },
+        {
+          "en": "There are some books on the stereo.",
+          "zh": "音响上有一些书。"
+        }
+      ]
+    },
+    {
+      "phrase": "near the window",
+      "usage": "表示在窗户附近的位置",
+      "examples": [
+        {
+          "en": "The television is near the window.",
+          "zh": "电视在窗户附近。"
+        }
+      ]
+    },
+    {
+      "phrase": "on the wall",
+      "usage": "表示在墙上的位置",
+      "examples": [
+        {
+          "en": "The pictures are on the wall.",
+          "zh": "图片在墙上。"
+        }
+      ]
+    },
+    {
+      "phrase": "near the door",
+      "usage": "表示在门附近的位置",
+      "examples": [
+        {
+          "en": "The stereo is near the door.",
+          "zh": "音响在门附近。"
+        }
+      ]
+    },
+    {
+      "phrase": "near the table",
+      "usage": "表示在桌子附近的位置",
+      "examples": [
+        {
+          "en": "The armchairs are near the table.",
+          "zh": "扶手椅在桌子附近。"
+        }
+      ]
+    },
+    {
+      "phrase": "on the television",
+      "usage": "表示在电视上面的位置",
+      "examples": [
+        {
+          "en": "There are some magazines on the television.",
+          "zh": "电视上有一些杂志。"
+        }
+      ]
+    },
+    {
+      "phrase": "on the table",
+      "usage": "表示在桌子上面的位置",
+      "examples": [
+        {
+          "en": "There are some newspapers on the table.",
+          "zh": "桌上有一些报纸。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "There be句型（存在句）",
+      "definition": "用于表示某处存在某人或某物，是英语中描述位置和存在的重要句型",
+      "structure": "There is/are + (a/an/some) + 名词 + 介词短语",
+      "usage": "当名词是单数或不可数名词时用there is；当名词是复数时用there are。some用于肯定句，any用于否定句和疑问句",
+      "examples": [
+        {
+          "en": "There is a television in the room.",
+          "zh": "房间里有一台电视机。"
+        },
+        {
+          "en": "There are some armchairs in the room.",
+          "zh": "房间里有几把扶手椅。"
+        }
+      ]
+    },
+    {
+      "title": "some和any的用法",
+      "definition": "some和any都表示“一些”，但用法有所不同",
+      "structure": "some + 可数名词复数/不可数名词；any + 可数名词复数/不可数名词",
+      "usage": "some用于肯定句，any用于否定句和疑问句。但在表示请求或希望得到肯定回答的疑问句中，也可用some",
+      "examples": [
+        {
+          "en": "There are some magazines on the television.",
+          "zh": "电视上有一些杂志。"
+        },
+        {
+          "en": "Are there any books on the stereo?",
+          "zh": "音响上有书吗？"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "There is + (a/an) + 单数名词 + 介词短语",
+      "original": {
+        "en": "There is a television in the room.",
+        "zh": "房间里有一台电视机。"
+      },
+      "imitations": [
+        {
+          "en": "There is a table in the room.",
+          "zh": "房间里有一张桌子。"
+        },
+        {
+          "en": "There is a stereo in the room.",
+          "zh": "房间里有一个音响。"
+        }
+      ]
+    },
+    {
+      "pattern": "There are + some + 复数名词 + 介词短语",
+      "original": {
+        "en": "There are some armchairs in the room.",
+        "zh": "房间里有几把扶手椅。"
+      },
+      "imitations": [
+        {
+          "en": "There are some pictures in the room.",
+          "zh": "房间里有几幅画。"
+        },
+        {
+          "en": "There are some magazines on the television.",
+          "zh": "电视上有一些杂志。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + is/are + 介词短语",
+      "original": {
+        "en": "The television is near the window.",
+        "zh": "电视在窗户附近。"
+      },
+      "imitations": [
+        {
+          "en": "The stereo is near the door.",
+          "zh": "音响在门附近。"
+        },
+        {
+          "en": "The pictures are on the wall.",
+          "zh": "画在墙上。"
+        }
+      ]
+    }
+  ]
+}

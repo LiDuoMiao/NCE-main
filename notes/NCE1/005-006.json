@@ -1,0 +1,323 @@
+{
+  "book": "NCE1",
+  "lesson": "005-006",
+  "title": "Lesson 5",
+  "vocabulary": [
+    {
+      "word": "student",
+      "phonetic": "/ˈstjuːdənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "学生",
+          "usage": "指正在学习的人，可指任何年龄段的学习者"
+        }
+      ]
+    },
+    {
+      "word": "French",
+      "phonetic": "/frentʃ/",
+      "meanings": [
+        {
+          "pos": "adj/noun",
+          "meaning": "法国的；法国人",
+          "usage": "作形容词表示国籍，作名词指法国人或法语"
+        }
+      ]
+    },
+    {
+      "word": "German",
+      "phonetic": "/ˈdʒɜːmən/",
+      "meanings": [
+        {
+          "pos": "adj/noun",
+          "meaning": "德国的；德国人",
+          "usage": "作形容词表示国籍，作名词指德国人或德语"
+        }
+      ]
+    },
+    {
+      "word": "Japanese",
+      "phonetic": "/ˌdʒæpəˈniːz/",
+      "meanings": [
+        {
+          "pos": "adj/noun",
+          "meaning": "日本的；日本人",
+          "usage": "单复数同形Japanese，指一个人时用a Japanese"
+        }
+      ]
+    },
+    {
+      "word": "Korean",
+      "phonetic": "/kəˈriən/",
+      "meanings": [
+        {
+          "pos": "adj/noun",
+          "meaning": "韩国的；韩国人",
+          "usage": "作形容词表示国籍，作名词指韩国人或韩语"
+        }
+      ]
+    },
+    {
+      "word": "Chinese",
+      "phonetic": "/ˌtʃaɪˈniːz/",
+      "meanings": [
+        {
+          "pos": "adj/noun",
+          "meaning": "中国的；中国人",
+          "usage": "单复数同形Chinese，指一个人时用a Chinese"
+        }
+      ]
+    },
+    {
+      "word": "nice",
+      "phonetic": "/naɪs/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "令人愉快的；友好的",
+          "usage": "形容人、事物或体验令人愉悦"
+        }
+      ]
+    },
+    {
+      "word": "meet",
+      "phonetic": "/miːt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "遇见；结识",
+          "usage": "指第一次见面或认识某人"
+        }
+      ]
+    },
+    {
+      "word": "morning",
+      "phonetic": "/ˈmɔːnɪŋ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "早晨；上午",
+          "usage": "通常指从午夜到中午的时间段"
+        }
+      ]
+    },
+    {
+      "word": "Miss",
+      "phonetic": "/mɪs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "小姐；女士",
+          "usage": "对未婚女性的称呼，用于姓或姓名之前"
+        }
+      ]
+    },
+    {
+      "word": "Mr.",
+      "phonetic": "/ˈmɪstə/",
+      "meanings": [
+        {
+          "pos": "abbr",
+          "meaning": "先生",
+          "usage": "Mister的缩写，用于姓之前"
+        }
+      ]
+    },
+    {
+      "word": "too",
+      "phonetic": "/tuː/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "也；同样",
+          "usage": "用于肯定句句末，表示“同样”之意"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Good morning",
+      "usage": "早晨问候语，用于上午见面时",
+      "examples": [
+        {
+          "en": "Good morning, Mr. Blake.",
+          "zh": "早上好，布莱克先生。"
+        }
+      ]
+    },
+    {
+      "phrase": "Nice to meet you",
+      "usage": "用于第一次见面时表示很高兴认识对方",
+      "examples": [
+        {
+          "en": "Nice to meet you.",
+          "zh": "很高兴认识你。"
+        }
+      ]
+    },
+    {
+      "phrase": "This is...",
+      "usage": "介绍他人时的常用句型",
+      "examples": [
+        {
+          "en": "This is Miss Sophie Dupont.",
+          "zh": "这是苏菲·杜邦小姐。"
+        }
+      ]
+    },
+    {
+      "phrase": "He is / She is",
+      "usage": "用于描述他人的性别和国籍",
+      "examples": [
+        {
+          "en": "She is French.",
+          "zh": "她是法国人。"
+        }
+      ]
+    },
+    {
+      "phrase": "Is he/she + nationality?",
+      "usage": "用于询问他人的国籍",
+      "examples": [
+        {
+          "en": "Is Chang-woo Chinese?",
+          "zh": "昌宇是中国人吗？"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "介绍他人的句型 This is...",
+      "definition": "用This is...句型来介绍他人给对方认识",
+      "structure": "This is + 人名/称谓",
+      "usage": "在正式或非正式场合介绍两人认识时使用",
+      "examples": [
+        {
+          "en": "This is Miss Sophie Dupont.",
+          "zh": "这是苏菲·杜邦小姐。"
+        },
+        {
+          "en": "Sophie, this is Hans.",
+          "zh": "苏菲，这是汉斯。"
+        }
+      ]
+    },
+    {
+      "title": "一般疑问句：Be动词开头",
+      "definition": "将Be动词(am/is/are)移到句首构成一般疑问句，用来询问国籍",
+      "structure": "Is/Are + 主语 + 国籍?",
+      "usage": "用于询问某人的国籍，答语用Yes或No",
+      "examples": [
+        {
+          "en": "Is Chang-woo Chinese?",
+          "zh": "昌宇是中国人吗？"
+        },
+        {
+          "en": "Is she French?",
+          "zh": "她是法国人吗？"
+        }
+      ]
+    },
+    {
+      "title": "国籍形容词",
+      "definition": "描述来自某个国家的人的形容词",
+      "structure": "主语 + is/are + 国籍形容词",
+      "usage": "用于描述他人的国籍，国籍形容词首字母通常小写",
+      "examples": [
+        {
+          "en": "She is French.",
+          "zh": "她是法国人。"
+        },
+        {
+          "en": "He is German.",
+          "zh": "他是德国人。"
+        }
+      ]
+    },
+    {
+      "title": "国藉名词与形容词",
+      "definition": "英语中国籍形容词和国籍名词形式不同",
+      "structure": "形容词: French/German/Chinese  名词: a Frenchman/German/Chinese",
+      "usage": "描述国籍时常用形容词；指某国公民时用名词",
+      "examples": [
+        {
+          "en": "Sophie is French. She is a Frenchwoman.",
+          "zh": "苏菲是法国人。她是一位法国女士。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "This is + 人名/称谓",
+      "original": {
+        "en": "This is Miss Sophie Dupont.",
+        "zh": "这是苏菲·杜邦小姐。"
+      },
+      "imitations": [
+        {
+          "en": "This is Mr. Wang.",
+          "zh": "这是王先生。"
+        },
+        {
+          "en": "This is Tom.",
+          "zh": "这是汤姆。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + is + 国籍形容词",
+      "original": {
+        "en": "She is French.",
+        "zh": "她是法国人。"
+      },
+      "imitations": [
+        {
+          "en": "He is German.",
+          "zh": "他是德国人。"
+        },
+        {
+          "en": "She is Japanese.",
+          "zh": "她是日本人。"
+        }
+      ]
+    },
+    {
+      "pattern": "Is + 主语 + 国籍?",
+      "original": {
+        "en": "Is Chang-woo Chinese?",
+        "zh": "昌宇是中国人吗？"
+      },
+      "imitations": [
+        {
+          "en": "Is she French?",
+          "zh": "她是法国人吗？"
+        },
+        {
+          "en": "Is he Korean?",
+          "zh": "他是韩国人吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "Nice to meet you",
+      "original": {
+        "en": "Nice to meet you.",
+        "zh": "很高兴认识你。"
+      },
+      "imitations": [
+        {
+          "en": "Nice to meet you, Sophie.",
+          "zh": "苏菲，很高兴认识你。"
+        },
+        {
+          "en": "Nice to meet you too.",
+          "zh": "我也很高兴认识你。"
+        }
+      ]
+    }
+  ]
+}

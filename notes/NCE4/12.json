@@ -1,0 +1,324 @@
+{
+  "book": "NCE4",
+  "lesson": "12",
+  "title": "Lesson 12",
+  "vocabulary": [
+    {
+      "word": "current",
+      "phonetic": "/ˈkʌrənt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "当前的；流通的",
+          "usage": "在本文中与account搭配指活期账户，可随时存取款项"
+        },
+        {
+          "pos": "noun",
+          "meaning": "水流；电流；趋势",
+          "usage": "可表示自然流动的事物或社会发展的动向"
+        }
+      ]
+    },
+    {
+      "word": "repayment",
+      "phonetic": "/rɪˈpeɪmənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "偿还；还款；偿还的款项",
+          "usage": "是动词repay的名词形式，后常接of sth表示对某物的偿还"
+        }
+      ]
+    },
+    {
+      "word": "debtor",
+      "phonetic": "/ˈdetə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "债务人；借方",
+          "usage": "与creditor（债权人）相对，指欠别人钱的一方"
+        }
+      ]
+    },
+    {
+      "word": "creditor",
+      "phonetic": "/ˈkredɪtə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "债权人；贷方",
+          "usage": "指有权要求他人偿还欠款的一方"
+        }
+      ]
+    },
+    {
+      "word": "overdraw",
+      "phonetic": "/ˌəʊvəˈdrɔː/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "透支（银行账户）",
+          "usage": "常用被动形式be overdrawn表示账户处于透支状态"
+        }
+      ]
+    },
+    {
+      "word": "obligation",
+      "phonetic": "/ˌɒblɪˈɡeɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "义务；责任；债务",
+          "usage": "常接to sb/sth表示对某人/某事物的义务，owe obligation to sb表示对某人负有义务"
+        }
+      ]
+    },
+    {
+      "word": "complication",
+      "phonetic": "/ˌkɒmplɪˈkeɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "复杂情况；并发症",
+          "usage": "指让原本的问题变得更难处理的额外状况"
+        }
+      ]
+    },
+    {
+      "word": "debit",
+      "phonetic": "/ˈdebɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "记入（账户）的借方；从（账户）中扣除",
+          "usage": "常用结构debit sth against/to sb's account，表示将某笔款项记入账户借方"
+        },
+        {
+          "pos": "noun",
+          "meaning": "借方；借记",
+          "usage": "与credit（贷方）相对，是会计常用术语"
+        }
+      ]
+    },
+    {
+      "word": "specimen",
+      "phonetic": "/ˈspesɪmən/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "样本；标本；签字样",
+          "usage": "可指用于检验、参考的各类样品，本文指签字样本"
+        }
+      ]
+    },
+    {
+      "word": "forge",
+      "phonetic": "/fɔːdʒ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "伪造；假冒；锻造",
+          "usage": "可指伪造文件、签名等，也可指金属锻造工艺"
+        }
+      ]
+    },
+    {
+      "word": "forgery",
+      "phonetic": "/ˈfɔːdʒəri/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "伪造；伪造品；赝品",
+          "usage": "是forge的名词形式，可指伪造的行为或伪造出来的物品"
+        }
+      ]
+    },
+    {
+      "word": "facilitate",
+      "phonetic": "/fəˈsɪlɪteɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "促进；使便利",
+          "usage": "主语通常为事物，强调让某件事更容易进行"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "current account",
+      "usage": "银行术语，指可随时存取款、用于日常支付的活期存款账户，美语中常用checking account表示相同含义",
+      "examples": [
+        {
+          "en": "I need to open a current account to pay my monthly bills.",
+          "zh": "我需要开一个活期账户来支付我的每月账单。"
+        }
+      ]
+    },
+    {
+      "phrase": "in favour of",
+      "usage": "表示“以……为收款人；有利于；支持”，在金融场景中常指支票的收款方",
+      "examples": [
+        {
+          "en": "Please draw a cheque in favour of the charity organization.",
+          "zh": "请开一张以该慈善机构为收款人的支票。"
+        }
+      ]
+    },
+    {
+      "phrase": "in credit",
+      "usage": "银行账户用语，表示账户有余额、处于贷方余额状态，与be overdrawn（透支）相对",
+      "examples": [
+        {
+          "en": "Your account is still in credit, so you don't need to deposit more money right now.",
+          "zh": "你的账户还有余额，所以你现在不需要再存钱。"
+        }
+      ]
+    },
+    {
+      "phrase": "give rise to",
+      "usage": "正式表达，意为“引起；导致；使发生”，后接表示问题、变化等的名词",
+      "examples": [
+        {
+          "en": "Poor communication may give rise to misunderstandings between team members.",
+          "zh": "沟通不畅可能会引起团队成员之间的误解。"
+        }
+      ]
+    },
+    {
+      "phrase": "be loaded against",
+      "usage": "表示“对……不利；偏向于反对……”，常用来描述规则、制度等不公平地偏向某一方",
+      "examples": [
+        {
+          "en": "Many workers complain that the existing labour law is loaded against them.",
+          "zh": "许多工人抱怨现行的劳动法对他们不利。"
+        }
+      ]
+    },
+    {
+      "phrase": "in respect of",
+      "usage": "正式用语，意为“关于；涉及；就……而言”，用于引出相关的对象或范围",
+      "examples": [
+        {
+          "en": "The company will compensate you in respect of the losses caused by the delay.",
+          "zh": "公司将就延误给你造成的损失进行赔偿。"
+        }
+      ]
+    },
+    {
+      "phrase": "make no difference",
+      "usage": "表示“没有影响；无关紧要”，后可接that从句或疑问词引导的从句说明具体内容",
+      "examples": [
+        {
+          "en": "It makes no difference how much experience you have - we will all receive the same training.",
+          "zh": "你有多少经验都无关紧要，我们都会接受同样的培训。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "独立主格结构",
+      "definition": "由名词/代词 + 非谓语动词/形容词/副词/介词短语等构成，在句中作状语，其逻辑主语与句子主句的主语不一致，有独立的逻辑主语",
+      "structure": "名词/代词 + 现在分词/过去分词/形容词/副词/介词短语",
+      "usage": "常用于书面语中，可表示时间、原因、条件、伴随状况等，相当于一个状语从句",
+      "examples": [
+        {
+          "en": "who is which depending on whether the customer's account is in credit or is overdrawn.",
+          "zh": "谁是债务人谁是债权人取决于客户的账户是有余额还是透支。"
+        },
+        {
+          "en": "The weather being fine, we decided to go hiking in the mountains.",
+          "zh": "天气很好，我们决定去山里徒步旅行。"
+        }
+      ]
+    },
+    {
+      "title": "It作形式主语的主语从句",
+      "definition": "当主语是较长的从句时，为了避免句子头重脚轻，通常用it作形式主语放在句首，而把真正的主语从句放到句子后面",
+      "structure": "It + 系动词/不及物动词 + 形容词/名词/短语 + that/wh-引导的主语从句",
+      "usage": "常用于表达事实、观点、可能性等，使句子结构更平衡",
+      "examples": [
+        {
+          "en": "It makes no difference that the forgery may have been a very skillful one.",
+          "zh": "伪造的技术可能非常高超，这也没有用。"
+        },
+        {
+          "en": "It is obvious that regular exercise is beneficial to physical and mental health.",
+          "zh": "很明显，规律锻炼对身心健康有益。"
+        }
+      ]
+    },
+    {
+      "title": "强调句",
+      "definition": "用来突出句子中的某一部分（通常是主语、宾语、状语），强调该部分的重要性",
+      "structure": "It is/was + 被强调部分 + that/who + 句子其他部分",
+      "usage": "当被强调部分指人时可以用who，其他情况一律用that，去掉It is/was和that/who后句子依然完整",
+      "examples": [
+        {
+          "en": "If this facilitates forgery, it is the bank which will lose, not the customer.",
+          "zh": "如果这种做法便利了伪造，那么受损失的会是银行，而不是客户。"
+        },
+        {
+          "en": "It was his hard work rather than luck that helped him achieve success.",
+          "zh": "是他的努力而非运气帮助他取得了成功。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Primarily, A is that of B-- X depending on whether Y or Z.",
+      "original": {
+        "en": "Primarily, the banker-customer relationship is that of debtor and creditor-- who is which depending on whether the customer's account is in credit or is overdrawn.",
+        "zh": "银行与客户的关系主要是债务人和债权人的关系——谁是债务人谁是债权人取决于客户的账户是有余额还是透支。"
+      },
+      "imitations": [
+        {
+          "en": "Primarily, the teacher-student relationship is that of guider and learner-- what role each plays depending on whether the class is theory-based or practice-based.",
+          "zh": "师生关系主要是指导者和学习者的关系——各自扮演什么角色取决于课程是理论型还是实践型。"
+        },
+        {
+          "en": "Primarily, the relationship between sellers and buyers is that of service provider and consumer-- who holds more initiative depending on whether the market is a buyer's market or a seller's market.",
+          "zh": "买卖双方的关系主要是服务提供者和消费者的关系——谁更有主动权取决于市场是买方市场还是卖方市场。"
+        }
+      ]
+    },
+    {
+      "pattern": "There is a very firm rule that A has no right or authority to do B on C.",
+      "original": {
+        "en": "there is a very firm rule that the bank has no right or authority to pay out a customer's money on a cheque on which its customer's signature has been forged.",
+        "zh": "有一条非常严格的规定：银行没有权利或权限凭客户签名被伪造的支票支付客户的存款。"
+      },
+      "imitations": [
+        {
+          "en": "There is a very firm rule in the company that managers have no right or authority to ask employees to work overtime without extra pay.",
+          "zh": "公司有一条非常严格的规定：管理者没有权利或权限要求员工无偿加班。"
+        },
+        {
+          "en": "There is a very firm rule in the school that teachers have no right or authority to punish students physically on any ground.",
+          "zh": "学校有一条非常严格的规定：教师没有权利或权限以任何理由体罚学生。"
+        }
+      ]
+    },
+    {
+      "pattern": "For this reason there is no risk to A in the practice, adopted by B, of doing C.",
+      "original": {
+        "en": "For this reason there is no risk to the customer in the practice, adopted by banks, of printing the customer's name on his cheques.",
+        "zh": "因此，银行采取的把客户姓名印在支票上的做法对客户没有任何风险。"
+      },
+      "imitations": [
+        {
+          "en": "For this reason there is no risk to consumers in the practice, adopted by the platform, of freezing transactions until the goods are confirmed received.",
+          "zh": "因此，平台采取的在确认收货前冻结交易的做法对消费者没有任何风险。"
+        },
+        {
+          "en": "For this reason there is no risk to passengers in the practice, adopted by airlines, of checking the validity of ID documents before boarding.",
+          "zh": "因此，航空公司采取的登机前检查身份证件有效性的做法对乘客没有任何风险。"
+        }
+      ]
+    }
+  ]
+}

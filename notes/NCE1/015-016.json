@@ -1,0 +1,329 @@
+{
+  "book": "NCE1",
+  "lesson": "015-016",
+  "title": "Lesson 15",
+  "vocabulary": [
+    {
+      "word": "passport",
+      "phonetic": "/ˈpɑːspɔːt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "护照",
+          "usage": "出国时证明身份的官方文件"
+        }
+      ]
+    },
+    {
+      "word": "customs",
+      "phonetic": "/ˈkʌstəmz/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "海关",
+          "usage": "政府设在边境检查货物和证件的机构"
+        }
+      ]
+    },
+    {
+      "word": "officer",
+      "phonetic": "/ˈɒfɪsə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "官员；军官",
+          "usage": "在海关或军队中担任职务的人"
+        }
+      ]
+    },
+    {
+      "word": "tourist",
+      "phonetic": "/ˈtʊərɪst/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "游客；旅行者",
+          "usage": "以观光为目的的人"
+        }
+      ]
+    },
+    {
+      "word": "brown",
+      "phonetic": "/braʊn/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "棕色的；褐色的",
+          "usage": "描述颜色"
+        }
+      ]
+    },
+    {
+      "word": "Danish",
+      "phonetic": "/ˈdeɪnɪʃ/",
+      "meanings": [
+        {
+          "pos": "adj/noun",
+          "meaning": "丹麦的；丹麦人/语",
+          "usage": "表示丹麦国籍或语言"
+        }
+      ]
+    },
+    {
+      "word": "Swedish",
+      "phonetic": "/ˈswiːdɪʃ/",
+      "meanings": [
+        {
+          "pos": "adj/noun",
+          "meaning": "瑞典的；瑞典人/语",
+          "usage": "表示瑞典国籍或语言"
+        }
+      ]
+    },
+    {
+      "word": "Norwegian",
+      "phonetic": "/nɔːˈwiːdʒən/",
+      "meanings": [
+        {
+          "pos": "adj/noun",
+          "meaning": "挪威的；挪威人/语",
+          "usage": "表示挪威国籍或语言"
+        }
+      ]
+    },
+    {
+      "word": "friend",
+      "phonetic": "/frend/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "朋友",
+          "usage": "认识并关系好的人"
+        }
+      ]
+    },
+    {
+      "word": "case",
+      "phonetic": "/keɪs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "箱子；盒子",
+          "usage": "装行李的容器，也指具体情况"
+        }
+      ]
+    },
+    {
+      "word": "here",
+      "phonetic": "/hɪə(r)/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "这里；在这里",
+          "usage": "指示地点"
+        }
+      ]
+    },
+    {
+      "word": "our",
+      "phonetic": "/ˈaʊə(r)/",
+      "meanings": [
+        {
+          "pos": "det",
+          "meaning": "我们的",
+          "usage": "we的所有格形式"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Your passports please",
+      "usage": "请出示护照，是海关检查时的常用语",
+      "examples": [
+        {
+          "en": "Your passports please.",
+          "zh": "请出示你们的护照。"
+        }
+      ]
+    },
+    {
+      "phrase": "Here they are",
+      "usage": "递东西时的表达，意思是'给你'",
+      "examples": [
+        {
+          "en": "Here they are.",
+          "zh": "给你。"
+        }
+      ]
+    },
+    {
+      "phrase": "That's fine",
+      "usage": "表示一切正常，可以通行",
+      "examples": [
+        {
+          "en": "That's fine. Thank you very much.",
+          "zh": "没问题。非常感谢。"
+        }
+      ]
+    },
+    {
+      "phrase": "Are you Swedish?",
+      "usage": "询问国籍的句型",
+      "examples": [
+        {
+          "en": "Are you Swedish?",
+          "zh": "你是瑞典人吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "No, they aren't",
+      "usage": "否定回答的缩略形式",
+      "examples": [
+        {
+          "en": "No, they aren't. They are Norwegian.",
+          "zh": "不，他们不是。他们是挪威人。"
+        }
+      ]
+    },
+    {
+      "phrase": "Are these your cases?",
+      "usage": "询问某物是否属于某人",
+      "examples": [
+        {
+          "en": "Are these your cases?",
+          "zh": "这些是你们的箱子吗？"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "含有be动词的一般疑问句",
+      "definition": "用Yes或No回答的疑问句，询问某人的身份、国籍或物品归属",
+      "structure": "Be动词(Am/Is/Are) + 主语 + ...?",
+      "usage": "用于询问国籍、职业、身份或物品归属。肯定回答用Yes+主语+be动词；否定回答用No+主语+be动词+not",
+      "examples": [
+        {
+          "en": "Are you Swedish?",
+          "zh": "你是瑞典人吗？"
+        },
+        {
+          "en": "Is this your passport?",
+          "zh": "这是你的护照吗？"
+        },
+        {
+          "en": "Are they Danish too?",
+          "zh": "他们也是丹麦人吗？"
+        }
+      ]
+    },
+    {
+      "title": "否定句（be动词的否定形式）",
+      "definition": "在be动词后加not构成否定句",
+      "structure": "主语 + be动词 + not + ...",
+      "usage": "表示否定、拒绝或相反的情况。口语中常用缩略形式isn't, aren't, aren't",
+      "examples": [
+        {
+          "en": "We are not Swedish. We are Danish.",
+          "zh": "我们不是瑞典人，我们是丹麦人。"
+        },
+        {
+          "en": "No, they aren't. They are Norwegian.",
+          "zh": "不，他们不是。他们是挪威人。"
+        },
+        {
+          "en": "These aren't our cases. Our cases are brown.",
+          "zh": "这些不是我们的箱子。我们的箱子是棕色的。"
+        }
+      ]
+    },
+    {
+      "title": "名词所有格（our）",
+      "definition": "our是we的所有格形式，表示'我们的'",
+      "structure": "our + 名词",
+      "usage": "表示某物属于'我们'，后面接名词",
+      "examples": [
+        {
+          "en": "Our cases are brown.",
+          "zh": "我们的箱子是棕色的。"
+        },
+        {
+          "en": "Are these our passports?",
+          "zh": "这些是我们的护照吗？"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Are you + 国籍/职业?",
+      "original": {
+        "en": "Are you Swedish?",
+        "zh": "你是瑞典人吗？"
+      },
+      "imitations": [
+        {
+          "en": "Are you a tourist?",
+          "zh": "你是游客吗？"
+        },
+        {
+          "en": "Are you Danish?",
+          "zh": "你是丹麦人吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "Are they + 国籍 + too?",
+      "original": {
+        "en": "Are your friends Danish too?",
+        "zh": "你的朋友们也是丹麦人吗？"
+      },
+      "imitations": [
+        {
+          "en": "Are they Norwegian too?",
+          "zh": "他们也是挪威人吗？"
+        },
+        {
+          "en": "Are your colleagues students too?",
+          "zh": "你的同事们也是学生吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "Are these/those your + 名词?",
+      "original": {
+        "en": "Are these your cases?",
+        "zh": "这些是你们的箱子吗？"
+      },
+      "imitations": [
+        {
+          "en": "Are those your bags?",
+          "zh": "那些是你的包吗？"
+        },
+        {
+          "en": "Are these your passports?",
+          "zh": "这些是你的护照吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "Here + 代词 + are",
+      "original": {
+        "en": "Here they are.",
+        "zh": "给你。/它们在这儿。"
+      },
+      "imitations": [
+        {
+          "en": "Here it is.",
+          "zh": "给你。/它在这儿。"
+        },
+        {
+          "en": "Here we are.",
+          "zh": "我们到了。/给你。"
+        }
+      ]
+    }
+  ]
+}

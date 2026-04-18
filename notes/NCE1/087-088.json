@@ -1,0 +1,402 @@
+{
+  "book": "NCE1",
+  "lesson": "087-088",
+  "title": "Lesson 87",
+  "vocabulary": [
+    {
+      "word": "crash",
+      "phonetic": "/kræʃ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "碰撞；撞车事故",
+          "usage": "指车辆或其他物体之间的猛烈撞击"
+        }
+      ]
+    },
+    {
+      "word": "garage",
+      "phonetic": "/ˈɡærɑːʒ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "车库；修车厂",
+          "usage": "用于停放汽车或进行汽车修理的地方"
+        }
+      ]
+    },
+    {
+      "word": "mechanic",
+      "phonetic": "/məˈkænɪk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "机械师；修理工",
+          "usage": "指专门修理汽车的人，通常用复数mechanics"
+        }
+      ]
+    },
+    {
+      "word": "repair",
+      "phonetic": "/rɪˈpeə/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "修理；修复",
+          "usage": "指使损坏的东西恢复原状或功能"
+        }
+      ]
+    },
+    {
+      "word": "lamp-post",
+      "phonetic": "/ˈlæmp pəʊst/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "灯柱；路灯杆",
+          "usage": "街道上支撑路灯的金属柱"
+        }
+      ]
+    },
+    {
+      "word": "drive",
+      "phonetic": "/draɪv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "驾驶；开车",
+          "usage": "指操控车辆移动，过去式为drove"
+        }
+      ]
+    },
+    {
+      "word": "bring",
+      "phonetic": "/brɪŋ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "带来；拿来",
+          "usage": "指从别处带到说话者所在的地方"
+        }
+      ]
+    },
+    {
+      "word": "remember",
+      "phonetic": "/rɪˈmembə/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "记得；想起",
+          "usage": "指对过去的事情有记忆"
+        }
+      ]
+    },
+    {
+      "word": "finish",
+      "phonetic": "/ˈfɪnɪʃ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "完成；结束",
+          "usage": "指某项工作或活动结束"
+        }
+      ]
+    },
+    {
+      "word": "still",
+      "phonetic": "/stɪl/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "仍然；还",
+          "usage": "表示动作或状态继续存在"
+        }
+      ]
+    },
+    {
+      "word": "ready",
+      "phonetic": "/ˈredi/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "准备好的；完成的",
+          "usage": "指某物已准备就绪可以使用"
+        }
+      ]
+    },
+    {
+      "word": "number",
+      "phonetic": "/ˈnʌmbə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "号码；数字",
+          "usage": "指汽车牌照号码"
+        }
+      ]
+    },
+    {
+      "word": "truth",
+      "phonetic": "/truːθ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "真相；事实",
+          "usage": "指真实的情况"
+        }
+      ]
+    },
+    {
+      "word": "look",
+      "phonetic": "/lʊk/",
+      "meanings": [
+        {
+          "pos": "verb/noun",
+          "meaning": "看；瞧",
+          "usage": "have a look at 表示看一看"
+        }
+      ]
+    },
+    {
+      "word": "into",
+      "phonetic": "/ˈɪntuː/",
+      "meanings": [
+        {
+          "pos": "prep",
+          "meaning": "进入；到...里面",
+          "usage": "表示方向，指撞进某个物体"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Can the mechanics repair...?",
+      "usage": "询问机械师是否能修理某物",
+      "examples": [
+        {
+          "en": "Can the mechanics repair my car?",
+          "zh": "机械师能修好我的车吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "Is my car ready yet?",
+      "usage": "询问东西是否已经准备好/完成，用于询问等待的事情",
+      "examples": [
+        {
+          "en": "Is my car ready yet, sir?",
+          "zh": "先生，我的车修好了吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "What's the number of your car?",
+      "usage": "询问汽车牌照号码",
+      "examples": [
+        {
+          "en": "What's the number of your car?",
+          "zh": "你的车号是多少？"
+        }
+      ]
+    },
+    {
+      "phrase": "Have your mechanics finished yet?",
+      "usage": "询问某项工作是否已经完成，yet用于现在完成时疑问句",
+      "examples": [
+        {
+          "en": "Have your mechanics finished yet?",
+          "zh": "你的机械师完成了吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "They're still working on it.",
+      "usage": "表示某项工作仍在进行中，still表示持续",
+      "examples": [
+        {
+          "en": "No, they're still working on it.",
+          "zh": "没有，他们还在修。"
+        }
+      ]
+    },
+    {
+      "phrase": "Have a look at",
+      "usage": "看一看，检查一下",
+      "examples": [
+        {
+          "en": "Let's go into the garage and have a look at it.",
+          "zh": "我们去车库看看吧。"
+        }
+      ]
+    },
+    {
+      "phrase": "To tell you the truth",
+      "usage": "说实话，坦白说，用于引出真实想法",
+      "examples": [
+        {
+          "en": "To tell you the truth, you need a new car.",
+          "zh": "说实话，你需要一辆新车。"
+        }
+      ]
+    },
+    {
+      "phrase": "I drove it into a lamp-post",
+      "usage": "表示驾车撞上了灯柱",
+      "examples": [
+        {
+          "en": "I drove it into a lamp-post.",
+          "zh": "我把它撞到了路灯柱上。"
+        }
+      ]
+    },
+    {
+      "phrase": "That's right",
+      "usage": "表示同意或确认某事属实",
+      "examples": [
+        {
+          "en": "Didn't you have a crash? That's right.",
+          "zh": "你不是出了车祸吗？是的。"
+        }
+      ]
+    },
+    {
+      "phrase": "Well, it was my car",
+      "usage": "表示语气转折，暗示车已经损坏",
+      "examples": [
+        {
+          "en": "Isn't that your car? Well, it was my car.",
+          "zh": "那不是你的车吗？呃，曾经是我的车。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "一般过去时 (Past Simple Tense)",
+      "definition": "表示过去发生的动作或存在的状态",
+      "structure": "主语 + 动词过去式 + ...",
+      "usage": "用于描述过去发生的行为或事件，如车祸发生在过去",
+      "examples": [
+        {
+          "en": "I brought it here three days ago.",
+          "zh": "我是三天前把它带来的。"
+        },
+        {
+          "en": "I drove it into a lamp-post.",
+          "zh": "我把它撞到了路灯柱上。"
+        },
+        {
+          "en": "Ah yes, I remember now.",
+          "zh": "啊，是的，我现在想起来了。"
+        }
+      ]
+    },
+    {
+      "title": "yet在现在完成时中的用法",
+      "definition": "yet用于现在完成时的疑问句和否定句中，表示'还'或'已经'",
+      "structure": "Have/Has + 主语 + 过去分词 + yet?（疑问句）/ Have/Has + 主语 + not + 过去分词 + yet（否定句）",
+      "usage": "用于询问或陈述某事是否已完成，常与still连用表达未完成",
+      "examples": [
+        {
+          "en": "Have your mechanics finished yet?",
+          "zh": "你的机械师完成了吗？"
+        },
+        {
+          "en": "No, they haven't finished yet.",
+          "zh": "不，他们还没完成。"
+        },
+        {
+          "en": "Is my car ready yet?",
+          "zh": "我的车修好了吗？"
+        }
+      ]
+    },
+    {
+      "title": "一般过去时与现在完成时的对比",
+      "definition": "一般过去时强调过去的具体时间或已完成的动作；现在完成时强调过去动作对现在的影响",
+      "structure": "一般过去时：主语 + 动词过去式 + 具体时间；现在完成时：主语 + have/has + 过去分词",
+      "usage": "当询问是否完成时用现在完成时，描述过去的具体事件用一般过去时",
+      "examples": [
+        {
+          "en": "When did you bring it to us? I brought it here three days ago.",
+          "zh": "你什么时候带来的？我是三天前带来的。"
+        },
+        {
+          "en": "Have your mechanics finished yet? No, they're still working on it.",
+          "zh": "你的机械师完成了吗？不，他们还在修。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Is my + 名词 + ready yet?",
+      "original": {
+        "en": "Is my car ready yet?",
+        "zh": "我的车修好了吗？"
+      },
+      "imitations": [
+        {
+          "en": "Is my watch ready yet?",
+          "zh": "我的手表修好了吗？"
+        },
+        {
+          "en": "Is my computer ready yet?",
+          "zh": "我的电脑修好了吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "Have your mechanics finished yet?",
+      "original": {
+        "en": "Have your mechanics finished yet?",
+        "zh": "你的机械师完成了吗？"
+      },
+      "imitations": [
+        {
+          "en": "Have your workers finished yet?",
+          "zh": "你的工人完成了吗？"
+        },
+        {
+          "en": "Have the doctors finished yet?",
+          "zh": "医生完成了吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "Can someone repair + something?",
+      "original": {
+        "en": "Can your mechanics repair it?",
+        "zh": "你的机械师能修好它吗？"
+      },
+      "imitations": [
+        {
+          "en": "Can the doctor cure him?",
+          "zh": "医生能治好他吗？"
+        },
+        {
+          "en": "Can the tailor fix my coat?",
+          "zh": "裁缝能修补我的外套吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "To tell you the truth, ...",
+      "original": {
+        "en": "To tell you the truth, you need a new car!",
+        "zh": "说实话，你需要一辆新车！"
+      },
+      "imitations": [
+        {
+          "en": "To tell you the truth, I don't like this job.",
+          "zh": "说实话，我不喜欢这份工作。"
+        },
+        {
+          "en": "To tell you the truth, this meal is terrible.",
+          "zh": "说实话，这顿饭很糟糕。"
+        }
+      ]
+    }
+  ]
+}

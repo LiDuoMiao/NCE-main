@@ -1,0 +1,353 @@
+{
+  "book": "NCE1",
+  "lesson": "111-112",
+  "title": "Lesson 111",
+  "vocabulary": [
+    {
+      "word": "expensive",
+      "phonetic": "/ɪkˈspensɪv/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "昂贵的",
+          "usage": "形容物品价格高"
+        }
+      ]
+    },
+    {
+      "word": "model",
+      "phonetic": "/ˈmɒdl/",
+      "meanings": [
+        {
+          "pos": "n",
+          "meaning": "型号；模型",
+          "usage": "指产品的款式或型号"
+        }
+      ]
+    },
+    {
+      "word": "afford",
+      "phonetic": "/əˈfɔːd/",
+      "meanings": [
+        {
+          "pos": "v",
+          "meaning": "负担得起",
+          "usage": "常与can/can't连用，表示是否有足够的钱"
+        }
+      ]
+    },
+    {
+      "word": "instalment",
+      "phonetic": "/ɪnˈstɔːlmənt/",
+      "meanings": [
+        {
+          "pos": "n",
+          "meaning": "分期付款",
+          "usage": "指分多次支付的方式"
+        }
+      ]
+    },
+    {
+      "word": "deposit",
+      "phonetic": "/dɪˈpɒzɪt/",
+      "meanings": [
+        {
+          "pos": "n",
+          "meaning": "订金；首付",
+          "usage": "购物时先支付的一部分钱"
+        }
+      ]
+    },
+    {
+      "word": "pound",
+      "phonetic": "/paʊnd/",
+      "meanings": [
+        {
+          "pos": "n",
+          "meaning": "英镑",
+          "usage": "英国的货币单位"
+        }
+      ]
+    },
+    {
+      "word": "worth",
+      "phonetic": "/wɜːθ/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "值得的",
+          "usage": "表示某物有相应的价值"
+        }
+      ]
+    },
+    {
+      "word": "millionaire",
+      "phonetic": "/ˌmɪljəˈneə/",
+      "meanings": [
+        {
+          "pos": "n",
+          "meaning": "百万富翁",
+          "usage": "指非常富有的人"
+        }
+      ]
+    },
+    {
+      "word": "television",
+      "phonetic": "/ˈtelɪvɪʒn/",
+      "meanings": [
+        {
+          "pos": "n",
+          "meaning": "电视机",
+          "usage": "简称TV，用于观看节目"
+        }
+      ]
+    },
+    {
+      "word": "buy",
+      "phonetic": "/baɪ/",
+      "meanings": [
+        {
+          "pos": "v",
+          "meaning": "购买",
+          "usage": "用钱换取商品"
+        }
+      ]
+    },
+    {
+      "word": "pay",
+      "phonetic": "/peɪ/",
+      "meanings": [
+        {
+          "pos": "v",
+          "meaning": "支付",
+          "usage": "指付款的行为"
+        }
+      ]
+    },
+    {
+      "word": "month",
+      "phonetic": "/mʌnθ/",
+      "meanings": [
+        {
+          "pos": "n",
+          "meaning": "月份",
+          "usage": "表示时间单位"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "on instalments",
+      "usage": "以分期付款的方式",
+      "examples": [
+        {
+          "en": "Can we buy it on instalments?",
+          "zh": "我们可以分期付款购买吗？"
+        },
+        {
+          "en": "He paid for his car on instalments.",
+          "zh": "他以分期付款的方式买了车。"
+        }
+      ]
+    },
+    {
+      "phrase": "pay a deposit of",
+      "usage": "支付...订金",
+      "examples": [
+        {
+          "en": "You can pay a deposit of thirty pounds.",
+          "zh": "你可以支付三十英镑订金。"
+        }
+      ]
+    },
+    {
+      "phrase": "can't afford",
+      "usage": "负担不起",
+      "examples": [
+        {
+          "en": "We can't afford all that money.",
+          "zh": "我们负担不起那么多钱。"
+        },
+        {
+          "en": "I can't afford a new car.",
+          "zh": "我买不起新车。"
+        }
+      ]
+    },
+    {
+      "phrase": "be worth the money",
+      "usage": "物有所值",
+      "examples": [
+        {
+          "en": "It's worth the money.",
+          "zh": "这钱花得值。"
+        }
+      ]
+    },
+    {
+      "phrase": "as good as",
+      "usage": "和...一样好",
+      "examples": [
+        {
+          "en": "It's not as good as the expensive one.",
+          "zh": "它没有贵的那款好。"
+        }
+      ]
+    },
+    {
+      "phrase": "the most expensive",
+      "usage": "最贵的",
+      "examples": [
+        {
+          "en": "It's the most expensive model in the shop.",
+          "zh": "这是店里最贵的型号。"
+        }
+      ]
+    },
+    {
+      "phrase": "less expensive",
+      "usage": "不太贵的",
+      "examples": [
+        {
+          "en": "This model's less expensive than that one.",
+          "zh": "这款比那款便宜。"
+        }
+      ]
+    },
+    {
+      "phrase": "How much does it cost?",
+      "usage": "多少钱？",
+      "examples": [
+        {
+          "en": "How much does it cost?",
+          "zh": "这个多少钱？"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "形容词比较级和最高级",
+      "definition": "形容词有两种比较形式：比较级用于两者之间的比较，最高级用于三者或以上的比较",
+      "structure": "比较级：adj + -er / more + adj；最高级：the + adj + -est / the most + adj",
+      "usage": "用于比较物品的价格、质量等",
+      "examples": [
+        {
+          "en": "This model's less expensive than that one.",
+          "zh": "这款比那款便宜。"
+        },
+        {
+          "en": "It's the most expensive model in the shop.",
+          "zh": "这是店里最贵的型号。"
+        },
+        {
+          "en": "The other model's more expensive.",
+          "zh": "另一款更贵。"
+        }
+      ]
+    },
+    {
+      "title": "as...as 结构",
+      "definition": "表示两者在某方面相同或相等",
+      "structure": "as + adj + as",
+      "usage": "用于否定或肯定比较",
+      "examples": [
+        {
+          "en": "It's not as good as the expensive one.",
+          "zh": "它没有贵的那款好。"
+        },
+        {
+          "en": "He is as tall as his brother.",
+          "zh": "他和他哥哥一样高。"
+        }
+      ]
+    },
+    {
+      "title": "特殊疑问句 How much",
+      "definition": "用于询问物品的价格",
+      "structure": "How much + does/do + 主语 + cost?",
+      "usage": "询问具体金额",
+      "examples": [
+        {
+          "en": "How much does it cost?",
+          "zh": "这个多少钱？"
+        },
+        {
+          "en": "How much does this television cost?",
+          "zh": "这台电视机多少钱？"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "How much does it cost?",
+      "original": {
+        "en": "How much does it cost?",
+        "zh": "这个多少钱？"
+      },
+      "imitations": [
+        {
+          "en": "How much does this watch cost?",
+          "zh": "这块手表多少钱？"
+        },
+        {
+          "en": "How much does the computer cost?",
+          "zh": "那台电脑多少钱？"
+        }
+      ]
+    },
+    {
+      "pattern": "Can we buy it on instalments?",
+      "original": {
+        "en": "Can we buy it on instalments?",
+        "zh": "我们可以分期付款购买吗？"
+      },
+      "imitations": [
+        {
+          "en": "Can we pay for it on instalments?",
+          "zh": "我们可以分期付款吗？"
+        },
+        {
+          "en": "Can I buy the fridge on instalments?",
+          "zh": "我可以分期付款买冰箱吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "It's the most expensive + 名词",
+      "original": {
+        "en": "It's the most expensive model in the shop.",
+        "zh": "这是店里最贵的型号。"
+      },
+      "imitations": [
+        {
+          "en": "It's the most expensive car in the showroom.",
+          "zh": "这是展厅里最贵的车。"
+        },
+        {
+          "en": "This is the most beautiful dress in the store.",
+          "zh": "这是店里最漂亮的裙子。"
+        }
+      ]
+    },
+    {
+      "pattern": "can't afford + 名词/all that money",
+      "original": {
+        "en": "We can't afford all that money.",
+        "zh": "我们负担不起那么多钱。"
+      },
+      "imitations": [
+        {
+          "en": "I can't afford a new house.",
+          "zh": "我买不起新房子。"
+        },
+        {
+          "en": "We can't afford such an expensive vacation.",
+          "zh": "我们负担不起这么昂贵的假期。"
+        }
+      ]
+    }
+  ]
+}

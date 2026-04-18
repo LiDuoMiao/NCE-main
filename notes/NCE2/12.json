@@ -1,0 +1,381 @@
+{
+  "book": "NCE2",
+  "lesson": "12",
+  "title": "Where is Captain Alison going and how?",
+  "vocabulary": [
+    {
+      "word": "captain",
+      "phonetic": "/ˈkæptɪn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "船长；舰长",
+          "usage": "指船或飞机的指挥者，也可用于军衔"
+        }
+      ]
+    },
+    {
+      "word": "sail",
+      "phonetic": "/seɪl/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "航行；起航",
+          "usage": "指乘船航行或开始航行"
+        }
+      ]
+    },
+    {
+      "word": "harbour",
+      "phonetic": "/ˈhɑːbə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "港口；港湾",
+          "usage": "供船只停靠的沿海区域"
+        }
+      ]
+    },
+    {
+      "word": "famous",
+      "phonetic": "/ˈfeɪməs/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "著名的；出名的",
+          "usage": "描述广为人知的人或事物"
+        }
+      ]
+    },
+    {
+      "word": "across",
+      "phonetic": "/əˈkrɒs/",
+      "meanings": [
+        {
+          "pos": "preposition",
+          "meaning": "横跨；穿过",
+          "usage": "表示从一边到另一边的位置或动作"
+        }
+      ]
+    },
+    {
+      "word": "Atlantic",
+      "phonetic": "/ətˈlæntɪk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "大西洋",
+          "usage": "地理专有名词，常与across连用"
+        }
+      ]
+    },
+    {
+      "word": "set out",
+      "phonetic": "/set aʊt/",
+      "meanings": [
+        {
+          "pos": "phrasal verb",
+          "meaning": "出发；启程",
+          "usage": "表示开始一段旅程或出发去做某事"
+        }
+      ]
+    },
+    {
+      "word": "plenty",
+      "phonetic": "/ˈplenti/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "充足；大量",
+          "usage": "常与of连用，表示数量充足"
+        }
+      ]
+    },
+    {
+      "word": "proud",
+      "phonetic": "/praʊd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "骄傲的；自豪的",
+          "usage": "be proud of表示为...感到骄傲"
+        }
+      ]
+    },
+    {
+      "word": "race",
+      "phonetic": "/reɪs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "比赛；竞赛",
+          "usage": "指速度或能力的竞争"
+        }
+      ]
+    },
+    {
+      "word": "neighbour",
+      "phonetic": "/ˈneɪbə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "邻居；邻近的人",
+          "usage": "指住在附近的人或事物"
+        }
+      ]
+    },
+    {
+      "word": "early",
+      "phonetic": "/ˈɜːli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "早；提前",
+          "usage": "表示在通常或指定时间之前"
+        }
+      ]
+    },
+    {
+      "word": "take part",
+      "phonetic": "/teɪk pɑːt/",
+      "meanings": [
+        {
+          "pos": "phrasal verb",
+          "meaning": "参加；参与",
+          "usage": "take part in表示参与某项活动"
+        }
+      ]
+    },
+    {
+      "word": "month",
+      "phonetic": "/mʌnθ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "月份；月",
+          "usage": "表示时间单位，一个月"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "will sail",
+      "usage": "表示将来的计划或决定，通常指即刻决定或预测",
+      "examples": [
+        {
+          "en": "He will sail from Portsmouth tomorrow.",
+          "zh": "他明天将从朴茨茅斯起航。"
+        }
+      ]
+    },
+    {
+      "phrase": "set out",
+      "usage": "表示出发、启程，强调开始旅程",
+      "examples": [
+        {
+          "en": "Captain Alison will set out at eight o'clock.",
+          "zh": "艾莉森船长将在八点钟出发。"
+        }
+      ]
+    },
+    {
+      "phrase": "plenty of time",
+      "usage": "表示时间充足，足够做某事",
+      "examples": [
+        {
+          "en": "We'll have plenty of time.",
+          "zh": "我们将会有充足的时间。"
+        }
+      ]
+    },
+    {
+      "phrase": "be proud of",
+      "usage": "表示为某人或某事感到骄傲和自豪",
+      "examples": [
+        {
+          "en": "We are very proud of him.",
+          "zh": "我们为他感到非常骄傲。"
+        }
+      ]
+    },
+    {
+      "phrase": "take part in",
+      "usage": "表示参加、参与某项活动或比赛",
+      "examples": [
+        {
+          "en": "He will take part in an important race.",
+          "zh": "他将参加一个重要的比赛。"
+        }
+      ]
+    },
+    {
+      "phrase": "sail across",
+      "usage": "表示横跨某水域航行",
+      "examples": [
+        {
+          "en": "It has sailed across the Atlantic many times.",
+          "zh": "它已经多次横渡大西洋。"
+        }
+      ]
+    },
+    {
+      "phrase": "say goodbye to",
+      "usage": "表示向某人告别",
+      "examples": [
+        {
+          "en": "We'll say goodbye to him.",
+          "zh": "我们将向他告别。"
+        }
+      ]
+    },
+    {
+      "phrase": "be away for",
+      "usage": "表示离开某地一段时间",
+      "examples": [
+        {
+          "en": "He will be away for two months.",
+          "zh": "他将离开两个月。"
+        }
+      ]
+    },
+    {
+      "phrase": "meet at the harbour",
+      "usage": "表示在港口见面",
+      "examples": [
+        {
+          "en": "We'll meet him at the harbour early in the morning.",
+          "zh": "我们将在早晨早些时候在港口见他。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "一般将来时 (Simple Future Tense)",
+      "definition": "表示将要发生的动作或存在的状态，通常指说话时已计划好或决定的事情",
+      "structure": "主语 + will + 动词原形",
+      "usage": "用于描述未来的计划、决定、承诺或预测，语气较客观",
+      "examples": [
+        {
+          "en": "He will sail from Portsmouth tomorrow.",
+          "zh": "他明天将从朴茨茅斯起航。"
+        },
+        {
+          "en": "We will meet him at the harbour.",
+          "zh": "我们将在港口见他。"
+        },
+        {
+          "en": "He will be away for two months.",
+          "zh": "他将离开两个月。"
+        }
+      ]
+    },
+    {
+      "title": "将来时的时间状语",
+      "definition": "用于修饰一般将来时的表示时间的词或短语",
+      "structure": "tomorrow / early in the morning / at eight o'clock / in two months",
+      "usage": "常置于句首或句末，用于明确动作发生的时间",
+      "examples": [
+        {
+          "en": "He will sail from Portsmouth tomorrow.",
+          "zh": "他明天将从朴茨茅斯起航。"
+        },
+        {
+          "en": "We'll meet him at the harbour early in the morning.",
+          "zh": "我们将在早晨早些时候在港口见他。"
+        },
+        {
+          "en": "He will set out at eight o'clock.",
+          "zh": "他将在八点钟出发。"
+        }
+      ]
+    },
+    {
+      "title": "there be 句型的一般将来时",
+      "definition": "表示某地将有某人或某物",
+      "structure": "There will be + 名词 (+ 地点/时间)",
+      "usage": "用于描述未来某处存在某人或某物的情况",
+      "examples": [
+        {
+          "en": "There will be a meeting tomorrow.",
+          "zh": "明天将有一个会议。"
+        },
+        {
+          "en": "There will be many people at the harbour.",
+          "zh": "港口将会有很多人。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "主语 + will + 动词原形 + 地点/时间",
+      "original": {
+        "en": "He will sail from Portsmouth tomorrow.",
+        "zh": "他明天将从朴茨茅斯起航。"
+      },
+      "imitations": [
+        {
+          "en": "She will fly to London next week.",
+          "zh": "她下周将飞往伦敦。"
+        },
+        {
+          "en": "They will arrive at the station early.",
+          "zh": "他们将早些时候到达车站。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + will be away for + 时间段",
+      "original": {
+        "en": "He will be away for two months.",
+        "zh": "他将离开两个月。"
+      },
+      "imitations": [
+        {
+          "en": "She will be away for three days.",
+          "zh": "她将离开三天。"
+        },
+        {
+          "en": "I will be away for a week.",
+          "zh": "我将离开一周。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + be proud of + 对象",
+      "original": {
+        "en": "We are very proud of him.",
+        "zh": "我们为他感到非常骄傲。"
+      },
+      "imitations": [
+        {
+          "en": "I am proud of my daughter.",
+          "zh": "我为我的女儿感到骄傲。"
+        },
+        {
+          "en": "They are proud of their team.",
+          "zh": "他们为他们的团队感到骄傲。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + will take part in + 活动",
+      "original": {
+        "en": "He will take part in an important race.",
+        "zh": "他将参加一个重要的比赛。"
+      },
+      "imitations": [
+        {
+          "en": "She will take part in the competition.",
+          "zh": "她将参加比赛。"
+        },
+        {
+          "en": "We will take part in the meeting.",
+          "zh": "我们将参加会议。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "book": "NCE4",
+  "lesson": "30",
+  "title": "Lesson 30",
+  "vocabulary": [
+    {
+      "word": "confined",
+      "phonetic": "/kənˈfaɪnd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "有限的；受限制的",
+          "usage": "常用于描述范围、空间或认知被局限在某个区域内，常与介词to搭配引出限制的范围"
+        }
+      ]
+    },
+    {
+      "word": "hazard",
+      "phonetic": "/ˈhæzəd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "危险；隐患",
+          "usage": "指存在潜在风险的事物，常见搭配有safety hazard（安全隐患）、navigation hazard（航行隐患）"
+        }
+      ]
+    },
+    {
+      "word": "assume",
+      "phonetic": "/əˈsjuːm/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "假定；假设；认为",
+          "usage": "指在没有确凿证据的情况下做出推测，后可接that从句或宾语+宾补结构"
+        }
+      ]
+    },
+    {
+      "word": "sounding",
+      "phonetic": "/ˈsaʊndɪŋ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "水深测量；测深",
+          "usage": "海洋学专业词汇，指测量水体深度的行为或测得的深度数值"
+        }
+      ]
+    },
+    {
+      "word": "fathom",
+      "phonetic": "/ˈfæðəm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "英寻（测量水深单位，1英寻约等于1.8米）",
+          "usage": "海洋测量的传统深度单位，也可作动词表示“透彻理解”"
+        }
+      ]
+    },
+    {
+      "word": "expedition",
+      "phonetic": "/ˌekspəˈdɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "远征；探险队；考察",
+          "usage": "指有组织的长途探险、考察活动，也可指参与考察的队伍"
+        }
+      ]
+    },
+    {
+      "word": "qualified",
+      "phonetic": "/ˈkwɒlɪfaɪd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "有资格的；合格的",
+          "usage": "用于描述人具备完成某项工作所需的技能、知识或资质，常与介词for搭配"
+        }
+      ]
+    },
+    {
+      "word": "submarine",
+      "phonetic": "/ˌsʌbməˈriːn/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "水下的；海底的",
+          "usage": "用于修饰海底的事物，如submarine cable（海底电缆），也可作名词表示“潜艇”"
+        }
+      ]
+    },
+    {
+      "word": "magnitude",
+      "phonetic": "/ˈmæɡnɪtjuːd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "规模；大小；重要性",
+          "usage": "用于描述事物的尺寸、规模或重要程度，常和介词of搭配"
+        }
+      ]
+    },
+    {
+      "word": "topography",
+      "phonetic": "/təˈpɒɡrəfi/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "地形；地貌学",
+          "usage": "地理专业词汇，指某一地区的地形特征，或研究地形的学科"
+        }
+      ]
+    },
+    {
+      "word": "crust",
+      "phonetic": "/krʌst/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "地壳；外壳；面包皮",
+          "usage": "作地理术语时指地球的地壳，也可指物体的坚硬外层"
+        }
+      ]
+    },
+    {
+      "word": "superimposed",
+      "phonetic": "/ˌsuːpərɪmˈpəʊzd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "叠加的；附加的",
+          "usage": "常与介词on/upon搭配，指某物被放置在另一物的上方或添加到另一事物上"
+        }
+      ]
+    },
+    {
+      "word": "rugged",
+      "phonetic": "/ˈrʌɡɪd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "崎岖的；凹凸不平的",
+          "usage": "常用于形容地形高低不平、多岩石，也可形容人健壮结实"
+        }
+      ]
+    },
+    {
+      "word": "sediment",
+      "phonetic": "/ˈsedɪmənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "沉积物；沉淀物",
+          "usage": "指水或液体中沉淀下来的固体物质，常见于地质、水环境相关语境"
+        }
+      ]
+    },
+    {
+      "word": "erode",
+      "phonetic": "/ɪˈrəʊd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "侵蚀；腐蚀",
+          "usage": "指风、水等自然力量逐渐磨损、破坏物体表面，也可引申指逐步削弱抽象事物"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "be confined to",
+      "usage": "表示“被局限于；被限制在”，主语通常是认知、活动、范围等事物，to为介词，后接名词或动名词",
+      "examples": [
+        {
+          "en": "Our knowledge of the oceans a hundred years ago was confined to the two-dimensional shape of the sea surface.",
+          "zh": "100年前，我们对海洋的认识仅局限于海洋表面的二维形状。"
+        },
+        {
+          "en": "Due to the pandemic, our travel was confined to the local area last year.",
+          "zh": "受疫情影响，去年我们的旅行范围被限制在本地。"
+        }
+      ]
+    },
+    {
+      "phrase": "at the disposal of",
+      "usage": "表示“由……支配；供……使用”，主语通常是物品、资源、人员等，of后接支配的主体",
+      "examples": [
+        {
+          "en": "H.M.S. Porcupine was put at the disposal of the Royal Society for several cruises.",
+          "zh": "“刺猬号”军舰被交由英国皇家学会支配，用于多次航行考察。"
+        },
+        {
+          "en": "All the meeting rooms are at the disposal of the organizing committee during the conference.",
+          "zh": "会议期间所有会议室都供组委会支配使用。"
+        }
+      ]
+    },
+    {
+      "phrase": "a burst of",
+      "usage": "表示“一阵；突发的”，用于描述短时间内突然爆发的活动、情绪、声音等，后接不可数名词或可数名词单数",
+      "examples": [
+        {
+          "en": "A burst of activity associated with the laying of submarine cables soon confirmed the Challenger's observation.",
+          "zh": "铺设海底电缆带来的一阵密集活动很快证实了“挑战者号”的观测结果。"
+        },
+        {
+          "en": "There was a burst of applause when the famous scientist walked onto the stage.",
+          "zh": "当那位著名科学家走上舞台时，现场爆发出一阵掌声。"
+        }
+      ]
+    },
+    {
+      "phrase": "be worthy of",
+      "usage": "表示“值得；配得上”，后接名词或动名词，主语通常是事物，说明其具备足够的价值匹配后面的内容",
+      "examples": [
+        {
+          "en": "The study of the sea-floor was established as a subject worthy of the most qualified physicists and geologists.",
+          "zh": "海底研究被确立为一门值得最顶尖的物理学家和地质学家研究的学科。"
+        },
+        {
+          "en": "This innovative research is worthy of further investigation and promotion.",
+          "zh": "这项创新研究值得进一步调研和推广。"
+        }
+      ]
+    },
+    {
+      "phrase": "in the course of",
+      "usage": "表示“在……过程中；在……期间”，用于引出某个过程的时间段，后接名词",
+      "examples": [
+        {
+          "en": "The continental slope in the course of a few hundred miles reaches the true ocean floor at 2,500-3,500 fathoms.",
+          "zh": "大陆坡在延伸几百英里的过程中，会到达2500至3500英寻深的真正洋底。"
+        },
+        {
+          "en": "He collected a lot of precious first-hand data in the course of his field research.",
+          "zh": "他在实地考察的过程中收集了很多珍贵的一手数据。"
+        }
+      ]
+    },
+    {
+      "phrase": "the result of",
+      "usage": "表示“……的结果”，用于说明事物产生的原因，后接名词或动名词短语",
+      "examples": [
+        {
+          "en": "The long tailing-off near the slope's lower reaches is almost certainly the result of material transported out to deep water after being eroded from the continental masses.",
+          "zh": "坡脚附近长长的缓坡几乎毫无疑问是大陆块被侵蚀后搬运到深水区的物质沉积形成的结果。"
+        },
+        {
+          "en": "The rapid development of the local tourism industry is the result of years of environmental protection efforts.",
+          "zh": "当地旅游业的快速发展是多年来环境保护工作的结果。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "not until 强调句",
+      "definition": "用于强调“直到某个时间点某个动作才发生”，突出动作发生的时间很晚，或前提条件的重要性",
+      "structure": "It is/was not until + 时间/条件状语 + that + 主句（陈述语序）",
+      "usage": "当需要强调until引导的时间状语时，将not和until一起提前到强调结构中，主句的否定转移到not until部分，主句用肯定形式",
+      "examples": [
+        {
+          "en": "But it was not until 1869, when H.M.S. Porcupine was put at the disposal of the Royal Society for several cruises that a series of deep soundings was obtained in the Atlantic.",
+          "zh": "但直到1869年，“刺猬号”军舰被交由英国皇家学会支配进行多次航行时，人们才在大西洋获得了一系列深度探测数据。"
+        },
+        {
+          "en": "It was not until the 20th century that humans began to explore outer space systematically.",
+          "zh": "直到20世纪，人类才开始系统地探索外太空。"
+        }
+      ]
+    },
+    {
+      "title": "完全倒装句（状语前置）",
+      "definition": "当表示方位、地点的介词短语或副词放在句首，且句子主语是名词时，句子需要完全倒装，即把谓语动词完全放到主语前面，用于强调地点或方位",
+      "structure": "介词短语/副词状语 + 谓语动词 + 主语（名词）",
+      "usage": "常见于描述地点、方位的语境，使句子更有画面感，避免头重脚轻",
+      "examples": [
+        {
+          "en": "From the shore line, out to a distance which may be anywhere from a few miles to a few hundred miles, runs the gentle slope of the continental shelf.",
+          "zh": "从海岸线向外延伸数英里到数百英里不等的区域，是平缓的大陆架斜坡。"
+        },
+        {
+          "en": "At the foot of the mountain lies a small village with a history of over 300 years.",
+          "zh": "山脚下坐落着一个有着300多年历史的小村庄。"
+        }
+      ]
+    },
+    {
+      "title": "同位语从句",
+      "definition": "用于解释说明前面抽象名词的具体内容，通常由that引导，that在从句中不充当任何成分，只起连接作用",
+      "structure": "抽象名词（observation/fact/news/idea等） + that + 完整的陈述句",
+      "usage": "常见于可以承载具体内容的抽象名词后，对名词的内容进行详细说明",
+      "examples": [
+        {
+          "en": "A burst of activity associated with the laying of submarine cables soon confirmed the Challenger's observation that many parts of the ocean were two to three miles deep.",
+          "zh": "铺设海底电缆带来的密集活动很快证实了“挑战者号”的观测结果，即海洋的很多区域深度可达2到3英里。"
+        },
+        {
+          "en": "The fact that the Arctic ice is melting at an alarming rate has drawn global attention.",
+          "zh": "北极冰层正以惊人速度融化的事实已经引起了全球关注。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "It is quite reasonable to regard sth as ...",
+      "original": {
+        "en": "Since the sea covers the greater part of the earth's surface, it is quite reasonable to regard the sea floor as the basic form of the crust of the earth.",
+        "zh": "由于海洋覆盖了地球表面的大部分区域，因此把海床看作地壳的基本形态是非常合理的。"
+      },
+      "imitations": [
+        {
+          "en": "Since renewable energy has lower carbon emissions, it is quite reasonable to regard it as the core of future energy systems.",
+          "zh": "由于可再生能源碳排放更低，因此将其视作未来能源体系的核心是非常合理的。"
+        },
+        {
+          "en": "Since reading can broaden our horizons and enrich our inner world, it is quite reasonable to regard it as a lifelong habit worth sticking to.",
+          "zh": "由于阅读能够拓宽视野、丰富内心世界，因此将其看作值得坚持的终身习惯是非常合理的。"
+        }
+      ]
+    },
+    {
+      "pattern": "Sb did sth in 年份, but it was not until 另一年份, when 背景事件, that 重要成果 was achieved.",
+      "original": {
+        "en": "Sir James Clark Ross had obtained a sounding of over 2,400 fathoms in 1839, but it was not until 1869, when H.M.S. Porcupine was put at the disposal of the Royal Society for several cruises that a series of deep soundings was obtained in the Atlantic.",
+        "zh": "詹姆斯·克拉克·罗斯爵士早在1839年就测得超过2400英寻的深度，但直到1869年，“刺猬号”军舰被交由英国皇家学会支配进行多次航行时，人们才在大西洋获得了一系列深度探测数据。"
+      },
+      "imitations": [
+        {
+          "en": "Scientists first proposed the concept of gene editing in the 1970s, but it was not until 2012, when the CRISPR technology was invented, that precise and low-cost gene modification became possible.",
+          "zh": "科学家早在20世纪70年代就首次提出了基因编辑的概念，但直到2012年CRISPR技术被发明时，精准且低成本的基因修改才成为可能。"
+        },
+        {
+          "en": "The idea of driverless cars appeared in science fiction as early as the 1920s, but it was not until recent years, when artificial intelligence technology developed rapidly, that autonomous driving began to be tested on public roads.",
+          "zh": "无人驾驶汽车的设想早在20世纪20年代就出现在科幻作品中，但直到近些年人工智能技术快速发展时，自动驾驶才开始在公共道路上进行测试。"
+        }
+      ]
+    },
+    {
+      "pattern": "sth usually starts at ... and in the course of ... reaches ...",
+      "original": {
+        "en": "This continental slope usually starts at a place somewhere near the 100-fathom mark and in the course of a few hundred miles reaches the true ocean floor at 2,500-3,500 fathoms.",
+        "zh": "这种大陆坡通常起于约100英寻深的位置，在延伸几百英里的过程中，到达2500至3500英寻深的真正洋底。"
+      },
+      "imitations": [
+        {
+          "en": "The long-distance hiking trail usually starts at the foot of the mountain and in the course of 30 kilometers reaches the summit at an altitude of over 3,000 meters.",
+          "zh": "这条长途徒步路线通常起于山脚，在延伸30公里的过程中，到达海拔3000多米的顶峰。"
+        },
+        {
+          "en": "The river usually starts at the glacier in the mountains and in the course of thousands of kilometers reaches the estuary where it flows into the sea.",
+          "zh": "这条河流通常发源于山区的冰川，在流经数千公里的过程中，到达汇入海洋的河口。"
+        }
+      ]
+    }
+  ]
+}

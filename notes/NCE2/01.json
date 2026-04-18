@@ -1,0 +1,394 @@
+{
+  "book": "NCE2",
+  "lesson": "01",
+  "title": "Why did the writer complain to the people behind him?",
+  "vocabulary": [
+    {
+      "word": "theatre",
+      "phonetic": "/ˈθɪətə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "剧院；戏院",
+          "usage": "指表演戏剧、电影等的场所"
+        }
+      ]
+    },
+    {
+      "word": "seat",
+      "phonetic": "/siːt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "座位",
+          "usage": "指剧院、电影院等场所的座位"
+        }
+      ]
+    },
+    {
+      "word": "play",
+      "phonetic": "/pleɪ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "戏剧；表演",
+          "usage": "指在剧院上演的戏剧作品"
+        }
+      ]
+    },
+    {
+      "word": "interesting",
+      "phonetic": "/ˈɪntrəstɪŋ/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "有趣的；引起兴趣的",
+          "usage": "描述事物令人感兴趣"
+        }
+      ]
+    },
+    {
+      "word": "behind",
+      "phonetic": "/bɪˈhaɪnd/",
+      "meanings": [
+        {
+          "pos": "preposition",
+          "meaning": "在...后面",
+          "usage": "表示位置关系"
+        }
+      ]
+    },
+    {
+      "word": "loudly",
+      "phonetic": "/ˈlaʊdli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "大声地",
+          "usage": "描述说话或发出声音的音量"
+        }
+      ]
+    },
+    {
+      "word": "angry",
+      "phonetic": "/ˈæŋɡri/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "生气的；愤怒的",
+          "usage": "描述人的情绪状态"
+        }
+      ]
+    },
+    {
+      "word": "attention",
+      "phonetic": "/əˈtenʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "注意；关注",
+          "usage": "常与pay搭配使用"
+        }
+      ]
+    },
+    {
+      "word": "bear",
+      "phonetic": "/beə/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "忍受；承受",
+          "usage": "用于否定句中表示无法容忍"
+        }
+      ]
+    },
+    {
+      "word": "private",
+      "phonetic": "/ˈpraɪvət/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "私人的；私密的",
+          "usage": "描述属于个人而非公开的事物"
+        }
+      ]
+    },
+    {
+      "word": "conversation",
+      "phonetic": "/ˌkɒnvəˈseɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "对话；交谈",
+          "usage": "指两人或多人的谈话"
+        }
+      ]
+    },
+    {
+      "word": "business",
+      "phonetic": "/ˈbɪznəs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "事务；事",
+          "usage": "常用于it's none of your business表示不关你的事"
+        }
+      ]
+    },
+    {
+      "word": "actor",
+      "phonetic": "/ˈæktə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "演员",
+          "usage": "指戏剧或电影中的表演者"
+        }
+      ]
+    },
+    {
+      "word": "none",
+      "phonetic": "/nʌn/",
+      "meanings": [
+        {
+          "pos": "pronoun",
+          "meaning": "一点也不；毫无",
+          "usage": "用于强调否定意义"
+        }
+      ]
+    },
+    {
+      "word": "rude",
+      "phonetic": "/ruːd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "粗鲁的；无礼的",
+          "usage": "描述人的行为或言语不礼貌"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "turn round",
+      "usage": "转身；扭转身体",
+      "examples": [
+        {
+          "en": "I turned round and looked at them.",
+          "zh": "我转过身看着他们。"
+        }
+      ]
+    },
+    {
+      "phrase": "pay attention",
+      "usage": "注意；关注",
+      "examples": [
+        {
+          "en": "They did not pay any attention.",
+          "zh": "他们毫不理会。"
+        }
+      ]
+    },
+    {
+      "phrase": "in the end",
+      "usage": "最后；终于",
+      "examples": [
+        {
+          "en": "In the end, I could not bear it.",
+          "zh": "最后，我实在无法忍受了。"
+        }
+      ]
+    },
+    {
+      "phrase": "could not bear",
+      "usage": "无法忍受",
+      "examples": [
+        {
+          "en": "I could not bear it any longer.",
+          "zh": "我再也受不了了。"
+        }
+      ]
+    },
+    {
+      "phrase": "none of your business",
+      "usage": "不关你的事",
+      "examples": [
+        {
+          "en": "It's none of your business!",
+          "zh": "这不关你的事！"
+        }
+      ]
+    },
+    {
+      "phrase": "private conversation",
+      "usage": "私人对话",
+      "examples": [
+        {
+          "en": "This is a private conversation.",
+          "zh": "这是私人对话。"
+        }
+      ]
+    },
+    {
+      "phrase": "talk loudly",
+      "usage": "大声说话",
+      "examples": [
+        {
+          "en": "They were talking loudly.",
+          "zh": "他们在大声说话。"
+        }
+      ]
+    },
+    {
+      "phrase": "get angry",
+      "usage": "生气",
+      "examples": [
+        {
+          "en": "I got very angry.",
+          "zh": "我非常生气。"
+        }
+      ]
+    },
+    {
+      "phrase": "enjoy the play",
+      "usage": "欣赏戏剧",
+      "examples": [
+        {
+          "en": "I did not enjoy it.",
+          "zh": "我无法欣赏。"
+        }
+      ]
+    },
+    {
+      "phrase": "look at",
+      "usage": "看着；注视",
+      "examples": [
+        {
+          "en": "I looked at the man and the woman angrily.",
+          "zh": "我生气地看着那对男女。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "一般过去时 (Past Simple Tense)",
+      "definition": "表示过去某一时间发生的动作或存在的状态",
+      "structure": "主语 + 动词过去式",
+      "usage": "用于描述过去发生的事件、动作或状态",
+      "examples": [
+        {
+          "en": "Last week I went to the theatre.",
+          "zh": "上周我去了剧院。"
+        },
+        {
+          "en": "The play was very interesting.",
+          "zh": "戏剧非常有趣。"
+        },
+        {
+          "en": "I got very angry.",
+          "zh": "我非常生气。"
+        }
+      ]
+    },
+    {
+      "title": "情态动词 could 的用法",
+      "definition": "could 是 can 的过去式，表示过去的能力或可能性",
+      "structure": "主语 + could/could not + 动词原形",
+      "usage": "表示过去能够或不能做某事，用于否定句时表示无法忍受",
+      "examples": [
+        {
+          "en": "I could not hear the actors.",
+          "zh": "我听不到演员的声音。"
+        },
+        {
+          "en": "In the end, I could not bear it.",
+          "zh": "最后，我无法忍受了。"
+        }
+      ]
+    },
+    {
+      "title": "直接引语 (Direct Speech)",
+      "definition": "直接引用别人的话，用引号括起来",
+      "structure": "主语 + said/said angrily + \"引语\"",
+      "usage": "用于直接转述某人说的话，保持原话的语气和用词",
+      "examples": [
+        {
+          "en": "I can't hear a word!' I said angrily.",
+          "zh": "我一个字也听不见！我生气地说。"
+        },
+        {
+          "en": "'It's none of your business,' the young man said rudely.",
+          "zh": "这不关你的事，年轻人粗鲁地说。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "主语 + 动词过去式 + 时间/地点",
+      "original": {
+        "en": "Last week I went to the theatre.",
+        "zh": "上周我去了剧院。"
+      },
+      "imitations": [
+        {
+          "en": "Yesterday I went to the park.",
+          "zh": "昨天我去了公园。"
+        },
+        {
+          "en": "Last night I watched TV at home.",
+          "zh": "昨晚我在家看电视。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + could/could not + 动词原形",
+      "original": {
+        "en": "I could not hear the actors.",
+        "zh": "我听不见演员的声音。"
+      },
+      "imitations": [
+        {
+          "en": "I could not understand the lesson.",
+          "zh": "我听不懂这节课。"
+        },
+        {
+          "en": "She could not sleep last night.",
+          "zh": "她昨晚睡不着。"
+        }
+      ]
+    },
+    {
+      "pattern": "It's none of your business",
+      "original": {
+        "en": "It's none of your business.",
+        "zh": "这不关你的事。"
+      },
+      "imitations": [
+        {
+          "en": "It's none of your business what I do.",
+          "zh": "我做什么不关你的事。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + got + 形容词",
+      "original": {
+        "en": "I got very angry.",
+        "zh": "我变得非常生气。"
+      },
+      "imitations": [
+        {
+          "en": "She got very tired after work.",
+          "zh": "她下班后变得非常累。"
+        },
+        {
+          "en": "They got excited when they heard the news.",
+          "zh": "他们听到这个消息时变得很兴奋。"
+        }
+      ]
+    }
+  ]
+}

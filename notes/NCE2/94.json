@@ -1,0 +1,416 @@
+{
+  "book": "NCE2",
+  "lesson": "94",
+  "title": "What kind of race do the children compete in?",
+  "vocabulary": [
+    {
+      "word": "experiment",
+      "phonetic": "/ɪkˈsperɪmənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "实验；试验",
+          "usage": "指为验证某理论或发现而进行的操作"
+        },
+        {
+          "pos": "verb",
+          "meaning": "进行实验；尝试",
+          "usage": "进行实验或尝试新方法"
+        }
+      ]
+    },
+    {
+      "word": "instruct",
+      "phonetic": "/ɪnˈstrʌkt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "教导；指导；命令",
+          "usage": "正式用语，指教导或指示某人做某事"
+        }
+      ]
+    },
+    {
+      "word": "expert",
+      "phonetic": "/ˈekspɜːt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "专家；能手",
+          "usage": "在某一领域有丰富知识和技能的人"
+        },
+        {
+          "pos": "adjective",
+          "meaning": "熟练的；内行的",
+          "usage": "形容在某方面很有经验或技巧"
+        }
+      ]
+    },
+    {
+      "word": "breath",
+      "phonetic": "/breθ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "呼吸；气息",
+          "usage": "指呼吸的动作或空气"
+        }
+      ]
+    },
+    {
+      "word": "reluctant",
+      "phonetic": "/rɪˈlʌktənt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "不情愿的；勉强的",
+          "usage": "形容不愿意做某事的态度，常与to连用"
+        }
+      ]
+    },
+    {
+      "word": "accustomed",
+      "phonetic": "/əˈkʌstəmd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "习惯于的；适应的",
+          "usage": "be accustomed to doing sth表示习惯于做某事"
+        }
+      ]
+    },
+    {
+      "word": "compete",
+      "phonetic": "/kəmˈpiːt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "竞争；比赛；对抗",
+          "usage": "compete against/with sb与某人竞争，compete in参加...比赛"
+        }
+      ]
+    },
+    {
+      "word": "pedal",
+      "phonetic": "/ˈpedl/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "踩踏板；骑自行车",
+          "usage": "指用脚踩踏板来驱动自行车或其他装置"
+        }
+      ]
+    },
+    {
+      "word": "champion",
+      "phonetic": "/ˈtʃæmpiən/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "冠军；优胜者",
+          "usage": "指比赛或竞争中的第一名"
+        }
+      ]
+    },
+    {
+      "word": "encourage",
+      "phonetic": "/ɪnˈkʌrɪdʒ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "鼓励；激励；促进",
+          "usage": "encourage sb to do sth鼓励某人做某事"
+        }
+      ]
+    },
+    {
+      "word": "gasping",
+      "phonetic": "/ˈɡæspɪŋ/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "气喘吁吁的；大口喘气的",
+          "usage": "形容因疲劳或缺氧而急促呼吸的样子"
+        }
+      ]
+    },
+    {
+      "word": "underwater",
+      "phonetic": "/ˌʌndəˈwɔːtə(r)/",
+      "meanings": [
+        {
+          "pos": "adjective/adverb",
+          "meaning": "在水下的；在水底",
+          "usage": "指在水下发生或存在的事物"
+        }
+      ]
+    },
+    {
+      "word": "tricycle",
+      "phonetic": "/ˈtraɪsɪkl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "三轮车",
+          "usage": "有三个轮子的车辆"
+        }
+      ]
+    },
+    {
+      "word": "weight",
+      "phonetic": "/weɪt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "重量；重物；砝码",
+          "usage": "指物体的重量或用于锻炼的重物"
+        }
+      ]
+    },
+    {
+      "word": "yard",
+      "phonetic": "/jɑːd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "码（长度单位）；院子",
+          "usage": "长度单位，约等于0.914米"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "hold one's breath",
+      "usage": "屏住呼吸",
+      "examples": [
+        {
+          "en": "The children are expert at holding their breath under water.",
+          "zh": "孩子们很擅长在水下屏住呼吸。"
+        }
+      ]
+    },
+    {
+      "phrase": "be accustomed to doing sth",
+      "usage": "习惯于做某事",
+      "examples": [
+        {
+          "en": "It is not long before they are so accustomed to swimming.",
+          "zh": "没过多久他们就习惯了游泳。"
+        }
+      ]
+    },
+    {
+      "phrase": "pick up",
+      "usage": "捡起；拾起；学会",
+      "examples": [
+        {
+          "en": "They can pick up weights from the floor of the pool.",
+          "zh": "他们能从池底捡起重物。"
+        }
+      ]
+    },
+    {
+      "phrase": "compete against/with sb",
+      "usage": "与某人竞争",
+      "examples": [
+        {
+          "en": "The children compete against each other to reach the other end.",
+          "zh": "孩子们互相竞争看谁先到达池子的另一端。"
+        }
+      ]
+    },
+    {
+      "phrase": "come up for breath",
+      "usage": "浮出水面呼吸",
+      "examples": [
+        {
+          "en": "Some children can cover the whole length without coming up for breath.",
+          "zh": "有些孩子能游完全程而不用浮出水面呼吸。"
+        }
+      ]
+    },
+    {
+      "phrase": "at a very early age",
+      "usage": "在很小的年龄",
+      "examples": [
+        {
+          "en": "Children can be instructed in swimming at a very early age.",
+          "zh": "孩子们在很小的年龄就可以学习游泳。"
+        }
+      ]
+    },
+    {
+      "phrase": "cover the whole length",
+      "usage": "游完全程",
+      "examples": [
+        {
+          "en": "Some children can cover the whole length of the pool.",
+          "zh": "有些孩子能游完整个泳池的长度。"
+        }
+      ]
+    },
+    {
+      "phrase": "become expert at",
+      "usage": "变得熟练；成为...的专家",
+      "examples": [
+        {
+          "en": "Children become expert at holding their breath.",
+          "zh": "孩子们变得擅长屏住呼吸。"
+        }
+      ]
+    },
+    {
+      "phrase": "only time will tell",
+      "usage": "只有时间才能证明",
+      "examples": [
+        {
+          "en": "Whether they will become Olympic champions, only time will tell.",
+          "zh": "他们是否能成为奥运冠军，只有时间才能证明。"
+        }
+      ]
+    },
+    {
+      "phrase": "be reluctant to do sth",
+      "usage": "不情愿做某事",
+      "examples": [
+        {
+          "en": "Babies of two months old do not appear to be reluctant to enter the water.",
+          "zh": "两个月大的婴儿似乎并不抗拒进入水中。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "被动语态（Passive Voice）",
+      "definition": "当句子的主语是动作的承受者时，使用被动语态。主动语态强调动作执行者，被动语态强调动作本身或承受者。",
+      "structure": "主语 + be动词 + 过去分词 + (by + 执行者)",
+      "usage": "当不必指出动作执行者、或动作执行者不明确时使用。也用于强调动作的承受者。",
+      "examples": [
+        {
+          "en": "Children can be instructed in swimming at a very early age.",
+          "zh": "孩子们在很小的年龄就可以接受游泳训练。"
+        },
+        {
+          "en": "Tricycles are lined up on the floor of the pool.",
+          "zh": "三轮车被排列在池底。"
+        },
+        {
+          "en": "Whether they will ever become future Olympic champions remains to be seen.",
+          "zh": "他们是否会成为未来的奥运冠军还有待观察。"
+        }
+      ]
+    },
+    {
+      "title": "so...that 引导的结果状语从句",
+      "definition": "so是副词，修饰形容词或副词，that引导结果状语从句，表示\"如此...以至于...\"",
+      "structure": "so + 形容词/副词 + that + 结果状语从句",
+      "usage": "用于描述程度，强调某种情况导致的结果。",
+      "examples": [
+        {
+          "en": "They are so accustomed to swimming that they can pick up weights.",
+          "zh": "他们如此习惯游泳以至于能捡起池底的重量。"
+        },
+        {
+          "en": "It is so hot that we cannot go outside.",
+          "zh": "天气太热了，我们不能出去。"
+        },
+        {
+          "en": "She is so tall that she can reach the top shelf.",
+          "zh": "她很高以至于能够到最高的架子。"
+        }
+      ]
+    },
+    {
+      "title": "whether 引导的主语从句",
+      "definition": "whether引导的主语从句位于句首，表示\"是否\"，表达不确定性或未知的事情",
+      "structure": "Whether + 主语 + 谓语 + 其他成分",
+      "usage": "用于表达某事是不确定的，需要时间来证明。",
+      "examples": [
+        {
+          "en": "Whether they will ever become future Olympic champions, only time will tell.",
+          "zh": "他们是否会成为未来的奥运冠军，只有时间才能证明。"
+        },
+        {
+          "en": "Whether he will come is not sure.",
+          "zh": "他是否会来还不确定。"
+        },
+        {
+          "en": "Whether she passes the exam depends on her efforts.",
+          "zh": "她是否能通过考试取决于她的努力。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "It is not long before...",
+      "original": {
+        "en": "It is not long before they are so accustomed to swimming.",
+        "zh": "没过多久他们就习惯了游泳。"
+      },
+      "imitations": [
+        {
+          "en": "It is not long before she learned to ride a bike.",
+          "zh": "没过多久她就学会了骑自行车。"
+        },
+        {
+          "en": "It is not long before he became famous.",
+          "zh": "没过多久他就成名了。"
+        }
+      ]
+    },
+    {
+      "pattern": "whether...only time will tell",
+      "original": {
+        "en": "Whether they will ever become future Olympic champions, only time will tell.",
+        "zh": "他们是否会成为未来的奥运冠军，只有时间才能证明。"
+      },
+      "imitations": [
+        {
+          "en": "Whether she will win the competition, only time will tell.",
+          "zh": "她是否会赢得比赛，只有时间才能证明。"
+        },
+        {
+          "en": "Whether this plan will work, only time will tell.",
+          "zh": "这个计划是否有效，只有时间才能证明。"
+        }
+      ]
+    },
+    {
+      "pattern": "Some/Very few...can...without...",
+      "original": {
+        "en": "Some children can cover the whole length of the pool without coming up for breath even once.",
+        "zh": "有些孩子能游完整个泳池而一次都不用浮出水面呼吸。"
+      },
+      "imitations": [
+        {
+          "en": "She can read English books without looking up words.",
+          "zh": "她能阅读英文书而不用查单词。"
+        },
+        {
+          "en": "He can work for hours without taking a break.",
+          "zh": "他能连续工作数小时而不休息。"
+        }
+      ]
+    },
+    {
+      "pattern": "A game that is very popular with...",
+      "original": {
+        "en": "A game that is very popular with these young swimmers is the underwater tricycle race.",
+        "zh": "这些年轻游泳者非常受欢迎的一项游戏是水下三轮车比赛。"
+      },
+      "imitations": [
+        {
+          "en": "A sport that is very popular with young people is skateboarding.",
+          "zh": "年轻人大受欢迎的一项运动是滑板。"
+        },
+        {
+          "en": "A book that is very popular with children is Harry Potter.",
+          "zh": "孩子们非常喜欢的一本书是《哈利·波特》。"
+        }
+      ]
+    }
+  ]
+}

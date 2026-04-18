@@ -1,0 +1,325 @@
+{
+  "book": "NCE3",
+  "lesson": "13",
+  "title": "Lesson 13",
+  "vocabulary": [
+    {
+      "word": "fancy-dress",
+      "phonetic": "/ˈfænsi dres/",
+      "meanings": [
+        {
+          "pos": "noun (uncountable)",
+          "meaning": "化装服，奇装异服",
+          "usage": "指用于化装舞会等场合的特殊服饰"
+        }
+      ]
+    },
+    {
+      "word": "costume",
+      "phonetic": "/ˈkɒstjuːm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "戏装，（化装舞会的）服饰",
+          "usage": "可指演出、化装活动等的特定服装，也可指某个时期或地区的传统服饰"
+        }
+      ]
+    },
+    {
+      "word": "impatient",
+      "phonetic": "/ɪmˈpeɪʃnt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "不耐烦的，渴望的",
+          "usage": "常见搭配：be impatient to do sth. 迫不及待做某事；be impatient with sb./sth. 对某人/事不耐烦"
+        }
+      ]
+    },
+    {
+      "word": "sheet",
+      "phonetic": "/ʃiːt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "床单；（一）张/片",
+          "usage": "除了指床上用品，还可表示薄的片状物，如a sheet of paper一张纸"
+        }
+      ]
+    },
+    {
+      "word": "effective",
+      "phonetic": "/ɪˈfektɪv/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "有效的，有效果的",
+          "usage": "强调能够产生预期的效果，区别于efficient（高效的，侧重效率）"
+        }
+      ]
+    },
+    {
+      "word": "comfortable",
+      "phonetic": "/ˈkʌmfətəbl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "舒适的，舒服的",
+          "usage": "可形容衣物、家具等让人感觉舒服，也可形容人感觉自在"
+        }
+      ]
+    },
+    {
+      "word": "baker",
+      "phonetic": "/ˈbeɪkə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "面包师，面包店老板",
+          "usage": "由动词bake（烘焙）加表示人的后缀-er构成"
+        }
+      ]
+    },
+    {
+      "word": "frighten",
+      "phonetic": "/ˈfraɪtn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "使惊吓，吓唬",
+          "usage": "常见搭配：frighten sb. 吓到某人；frighten sb. into doing sth. 威胁某人做某事"
+        }
+      ]
+    },
+    {
+      "word": "storeroom",
+      "phonetic": "/ˈstɔːruːm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "储藏室，库房",
+          "usage": "复合名词，由store（储藏）和room（房间）构成"
+        }
+      ]
+    },
+    {
+      "word": "electricity",
+      "phonetic": "/ɪˌlekˈtrɪsəti/",
+      "meanings": [
+        {
+          "pos": "noun (uncountable)",
+          "meaning": "电，电力",
+          "usage": "表示电力、电流的不可数名词，相关形容词为electric（电的）"
+        }
+      ]
+    },
+    {
+      "word": "metre",
+      "phonetic": "/ˈmiːtə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "计量器，仪表；米",
+          "usage": "文中指电表，也可作为长度单位“米”，美式拼写为meter"
+        }
+      ]
+    },
+    {
+      "word": "flee",
+      "phonetic": "/fliː/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "逃走，逃离",
+          "usage": "过去式和过去分词为fled，强调因害怕、危险而快速逃离"
+        }
+      ]
+    },
+    {
+      "word": "slam",
+      "phonetic": "/slæm/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "砰地关上，猛摔",
+          "usage": "可作及物或不及物动词，强调关门等动作的力度大、声音响"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "dress up as",
+      "usage": "表示“装扮成，打扮成”，用于化装、角色扮演等场景",
+      "examples": [
+        {
+          "en": "She intended to dress up as a ghost for the party.",
+          "zh": "她打算在派对上装扮成鬼魂。"
+        },
+        {
+          "en": "Children love dressing up as cartoon characters on Halloween.",
+          "zh": "孩子们喜欢在万圣节装扮成卡通人物。"
+        }
+      ]
+    },
+    {
+      "phrase": "try on",
+      "usage": "表示“试穿（衣物、配饰等）”，是动副短语，宾语为代词时要放在短语中间",
+      "examples": [
+        {
+          "en": "She was impatient to try the new costume on.",
+          "zh": "她迫不及待要试穿那件新的化装服。"
+        },
+        {
+          "en": "You should try the shoes on before buying them.",
+          "zh": "你买鞋之前应该先试穿一下。"
+        }
+      ]
+    },
+    {
+      "phrase": "consist of",
+      "usage": "表示“由……组成，由……构成”，不用于被动语态和进行时态",
+      "examples": [
+        {
+          "en": "The costume consisted only of a sheet, but it was very effective.",
+          "zh": "这件化装服只用了一张床单做成，但效果非常好。"
+        },
+        {
+          "en": "The research team consists of three scientists and two engineers.",
+          "zh": "这个研究团队由三名科学家和两名工程师组成。"
+        }
+      ]
+    },
+    {
+      "phrase": "find out",
+      "usage": "表示“查明，弄清楚”，侧重通过努力、调查等获知事实真相",
+      "examples": [
+        {
+          "en": "She wanted to find out whether the costume was comfortable to wear.",
+          "zh": "她想弄清楚这件化装服穿起来是否舒服。"
+        },
+        {
+          "en": "Please find out when the train leaves.",
+          "zh": "请查一下火车什么时候开。"
+        }
+      ]
+    },
+    {
+      "phrase": "let out a cry",
+      "usage": "表示“大叫一声，发出一声叫喊”，let out可表示发出（声音、光等）",
+      "examples": [
+        {
+          "en": "The man let out a cry and jumped back several paces when he saw the 'ghost'.",
+          "zh": "那个男人看到“鬼魂”的时候大叫一声，往后跳了好几步。"
+        },
+        {
+          "en": "She let out a cry of surprise when she saw the birthday gift.",
+          "zh": "她看到生日礼物的时候发出了一声惊喜的叫喊。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去完成时",
+      "definition": "表示在过去某个动作或时间之前已经完成的动作，强调“过去的过去”",
+      "structure": "had + 动词过去分词",
+      "usage": "常与after, before, by the time等引导的时间状语连用，说明两个过去动作的先后顺序",
+      "examples": [
+        {
+          "en": "After her husband had gone to work, Mrs. Richards sent her children to school.",
+          "zh": "丈夫上班之后，理查兹太太把孩子们送去了学校。"
+        },
+        {
+          "en": "She had made her costume the night before, so she was eager to try it on.",
+          "zh": "她前一天晚上就做好了化装服，所以迫不及待想要试穿。"
+        }
+      ]
+    },
+    {
+      "title": "too...to... 结构",
+      "definition": "表示“太……以至于不能……”，是一种表达否定含义的结构",
+      "structure": "too + 形容词/副词 + to do sth.",
+      "usage": "当主语是不定式的逻辑宾语时，不定式用主动形式表被动含义",
+      "examples": [
+        {
+          "en": "She was too excited to do any housework that morning.",
+          "zh": "那天早上她太兴奋了，什么家务都做不进去。"
+        },
+        {
+          "en": "The box is too heavy for the little boy to carry.",
+          "zh": "这个箱子太重了，小男孩搬不动。"
+        }
+      ]
+    },
+    {
+      "title": "现在分词作原因状语",
+      "definition": "现在分词短语可以在句中作状语，说明主句动作发生的原因，相当于原因状语从句",
+      "structure": "（Not +）现在分词短语, 主句",
+      "usage": "现在分词的逻辑主语要和主句主语保持一致，表否定时not放在现在分词前面",
+      "examples": [
+        {
+          "en": "Not wanting to frighten the poor man, Mrs. Richards quickly hid under the stairs.",
+          "zh": "因为不想吓到这个可怜的人，理查兹太太迅速躲到了楼梯底下。"
+        },
+        {
+          "en": "Feeling tired, he stopped working to have a rest.",
+          "zh": "因为感觉很累，他停下工作休息了一会儿。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "主语 + be too + 形容词 + to do sth.",
+      "original": {
+        "en": "She was too excited to do any housework that morning.",
+        "zh": "那天早上她太兴奋了，什么家务都做不进去。"
+      },
+      "imitations": [
+        {
+          "en": "He was too nervous to say a word in front of the audience.",
+          "zh": "他太紧张了，在观众面前一句话都说不出来。"
+        },
+        {
+          "en": "The coffee is too hot to drink right now.",
+          "zh": "咖啡太烫了，现在没法喝。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + intend to do sth.",
+      "original": {
+        "en": "She intended to dress up as a ghost for the fancy-dress party.",
+        "zh": "她打算在化装舞会上装扮成鬼魂。"
+      },
+      "imitations": [
+        {
+          "en": "I intend to travel to Japan with my family this summer holiday.",
+          "zh": "我打算今年暑假和家人一起去日本旅行。"
+        },
+        {
+          "en": "The company intends to set up a new branch in Guangzhou next year.",
+          "zh": "这家公司打算明年在广州开一家新的分公司。"
+        }
+      ]
+    },
+    {
+      "pattern": "Just as + 从句, 主句",
+      "original": {
+        "en": "Just as Mrs. Richards was entering the dining-room, there was a knock on the front door.",
+        "zh": "就在理查兹太太走进餐厅的时候，前门传来了敲门声。"
+      },
+      "imitations": [
+        {
+          "en": "Just as I was leaving the house, it started to rain heavily.",
+          "zh": "就在我出门的时候，开始下大雨了。"
+        },
+        {
+          "en": "Just as he finished his speech, the audience broke into warm applause.",
+          "zh": "就在他结束演讲的时候，观众爆发出了热烈的掌声。"
+        }
+      ]
+    }
+  ]
+}

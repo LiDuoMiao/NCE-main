@@ -1,0 +1,382 @@
+{
+  "book": "NCE2",
+  "lesson": "32",
+  "title": "Who was the thief?",
+  "vocabulary": [
+    {
+      "word": "honest",
+      "phonetic": "/ˈɒnɪst/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "诚实的，正直的",
+          "usage": "形容人的品格，表示不说谎、不欺骗"
+        }
+      ]
+    },
+    {
+      "word": "temptation",
+      "phonetic": "/tempˈteɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "诱惑，引诱",
+          "usage": "指吸引人做某事的力量或冲动"
+        }
+      ]
+    },
+    {
+      "word": "steal",
+      "phonetic": "/stiːl/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "偷窃，偷东西",
+          "usage": "指非法拿走他人财物"
+        }
+      ]
+    },
+    {
+      "word": "detective",
+      "phonetic": "/dɪˈtektɪv/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "侦探，私家侦探",
+          "usage": "指调查犯罪或收集证据的人"
+        }
+      ]
+    },
+    {
+      "word": "well-dressed",
+      "phonetic": "/ˌwelˈdrest/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "穿着考究的，衣着入时的",
+          "usage": "形容人穿着得体、讲究"
+        }
+      ]
+    },
+    {
+      "word": "article",
+      "phonetic": "/ˈɑːtɪkl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "物品，商品",
+          "usage": "指具体的物件或商品"
+        }
+      ]
+    },
+    {
+      "word": "expensive",
+      "phonetic": "/ɪkˈspensɪv/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "昂贵的，价格高的",
+          "usage": "形容物品价格贵"
+        }
+      ]
+    },
+    {
+      "word": "assistant",
+      "phonetic": "/əˈsɪstənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "店员，助手",
+          "usage": "指商店工作人员或帮手"
+        }
+      ]
+    },
+    {
+      "word": "parcel",
+      "phonetic": "/ˈpɑːsl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "包裹",
+          "usage": "指包装好的物品"
+        }
+      ]
+    },
+    {
+      "word": "arrest",
+      "phonetic": "/əˈrest/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "逮捕，拘留",
+          "usage": "指依法拘留嫌疑人"
+        }
+      ]
+    },
+    {
+      "word": "daughter",
+      "phonetic": "/ˈdɔːtə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "女儿",
+          "usage": "指女性后代"
+        }
+      ]
+    },
+    {
+      "word": "wrap",
+      "phonetic": "/ræp/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "包装，包裹",
+          "usage": "指用纸或盒子包装商品"
+        }
+      ]
+    },
+    {
+      "word": "especially",
+      "phonetic": "/ɪˈspeʃəli/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "尤其，特别地",
+          "usage": "强调某个特定事物"
+        }
+      ]
+    },
+    {
+      "word": "once a week",
+      "phonetic": "/wʌns ə wiːk/",
+      "meanings": [
+        {
+          "pos": "phrase",
+          "meaning": "每周一次",
+          "usage": "表示频率的固定搭配"
+        }
+      ]
+    },
+    {
+      "word": "free",
+      "phonetic": "/friː/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "免费的，无偿的",
+          "usage": "指不收取费用"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "not so...as",
+      "usage": "用于比较，表示前者不如后者",
+      "examples": [
+        {
+          "en": "People are not so honest as they once were.",
+          "zh": "人们不像以前那样诚实了。"
+        },
+        {
+          "en": "This problem is not so difficult as that one.",
+          "zh": "这个问题不像那个那么难。"
+        }
+      ]
+    },
+    {
+      "phrase": "more than ever before",
+      "usage": "比以前任何时候都...，表示程度增加",
+      "examples": [
+        {
+          "en": "The temptation to steal is greater than ever before.",
+          "zh": "偷窃的诱惑比以往任何时候都大。"
+        }
+      ]
+    },
+    {
+      "phrase": "as quickly as possible",
+      "usage": "尽可能快地，表示尽快完成某事",
+      "examples": [
+        {
+          "en": "The assistant wrapped it up as quickly as possible.",
+          "zh": "店员尽快把它包好。"
+        }
+      ]
+    },
+    {
+      "phrase": "walk out of",
+      "usage": "走出，指离开某个地方",
+      "examples": [
+        {
+          "en": "The woman walked out of the shop without paying.",
+          "zh": "那个女人没付款就走出了商店。"
+        }
+      ]
+    },
+    {
+      "phrase": "find out",
+      "usage": "发现，查明，指通过调查了解真相",
+      "examples": [
+        {
+          "en": "The detective found out that the assistant was her daughter.",
+          "zh": "侦探发现那个店员是她女儿。"
+        }
+      ]
+    },
+    {
+      "phrase": "give someone something",
+      "usage": "给某人某物，表示赠送或提供",
+      "examples": [
+        {
+          "en": "The girl gave her mother a free dress once a week.",
+          "zh": "女孩每周给她妈妈一件免费的衣服。"
+        }
+      ]
+    },
+    {
+      "phrase": "once a week",
+      "usage": "每周一次，表示固定频率",
+      "examples": [
+        {
+          "en": "She goes to the gym once a week.",
+          "zh": "她每周去一次健身房。"
+        }
+      ]
+    },
+    {
+      "phrase": "hand something to someone",
+      "usage": "把某物递给某人",
+      "examples": [
+        {
+          "en": "She handed the dress to an assistant.",
+          "zh": "她把裙子递给店员。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "比较结构：not so...as（不像...一样）",
+      "definition": "用于否定比较，表示前者不如后者。结构为：主语 + not so/as + 形容词/副词原级 + as + 比较对象",
+      "structure": "主语 + not so/as + 形容词/副词原级 + as + 比较对象",
+      "usage": "表示两者在某方面不相同，否定前者具有后者同样的程度",
+      "examples": [
+        {
+          "en": "People are not so honest as they once were.",
+          "zh": "人们不像以前那样诚实了。"
+        },
+        {
+          "en": "This film is not so interesting as that one.",
+          "zh": "这部电影不如那部有趣。"
+        },
+        {
+          "en": "She does not sing so well as her sister.",
+          "zh": "她唱歌不如她姐姐好。"
+        }
+      ]
+    },
+    {
+      "title": "过去进行时（Past Continuous Tense）",
+      "definition": "表示在过去某个时刻或时间段正在进行的动作",
+      "structure": "主语 + was/were + 动词-ing",
+      "usage": "用于描述过去正在发生的动作，常与when引导的过去时态连用",
+      "examples": [
+        {
+          "en": "A detective recently watched a well-dressed woman who always went into a large store on Monday mornings.",
+          "zh": "一位侦探最近注意到了一个穿着考究的女人，她总是在星期一早上进入一家大商店。"
+        },
+        {
+          "en": "When I was waiting for the bus, it began to rain.",
+          "zh": "我正在等公交车的时候，开始下雨了。"
+        }
+      ]
+    },
+    {
+      "title": "过去完成时（Past Perfect Tense）",
+      "definition": "表示在过去某个时间之前已经完成的动作",
+      "structure": "主语 + had + 过去分词",
+      "usage": "用于描述发生在过去某一时刻之前的动作，常与before、after、when等连用",
+      "examples": [
+        {
+          "en": "After she had bought a few small articles, she chose one of the most expensive dresses.",
+          "zh": "买了一些小物品之后，她选了一件最贵的裙子。"
+        },
+        {
+          "en": "When he had finished his homework, he went to bed.",
+          "zh": "他完成作业后就去睡觉了。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "主语 + not so + 形容词原级 + as + 比较对象",
+      "original": {
+        "en": "People are not so honest as they once were.",
+        "zh": "人们不像以前那样诚实了。"
+      },
+      "imitations": [
+        {
+          "en": "This book is not so interesting as that one.",
+          "zh": "这本书不如那本有趣。"
+        },
+        {
+          "en": "She is not so tall as her brother.",
+          "zh": "她不如她哥哥高。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + be + 形容词比较级 + than + ever before",
+      "original": {
+        "en": "The temptation to steal is greater than ever before.",
+        "zh": "偷窃的诱惑比以往任何时候都大。"
+      },
+      "imitations": [
+        {
+          "en": "Traffic is heavier than ever before.",
+          "zh": "交通比以往任何时候都拥挤。"
+        },
+        {
+          "en": "The cost of living is higher than ever before.",
+          "zh": "生活成本比以往任何时候都高。"
+        }
+      ]
+    },
+    {
+      "pattern": "When + 过去时态, 主语 + 过去进行时",
+      "original": {
+        "en": "When the woman came in, there were fewer people in the shop.",
+        "zh": "当那个女人进来时，商店里的人比较少。"
+      },
+      "imitations": [
+        {
+          "en": "When I arrived, he was sleeping.",
+          "zh": "当我到达时，他正在睡觉。"
+        },
+        {
+          "en": "When she called, I was cooking dinner.",
+          "zh": "当她打电话时，我正在做晚饭。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + find out + that + 从句",
+      "original": {
+        "en": "The detective found out that the shop assistant was her daughter.",
+        "zh": "侦探发现那个店员是她女儿。"
+      },
+      "imitations": [
+        {
+          "en": "I found out that he was a teacher.",
+          "zh": "我发现他是一名教师。"
+        },
+        {
+          "en": "She found out that the plan was very dangerous.",
+          "zh": "她发现这个计划非常危险。"
+        }
+      ]
+    }
+  ]
+}

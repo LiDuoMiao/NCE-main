@@ -1,0 +1,336 @@
+{
+  "book": "NCE3",
+  "lesson": "27",
+  "title": "Lesson 27",
+  "vocabulary": [
+    {
+      "word": "philosopher",
+      "phonetic": "/fəˈlɒsəfə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "哲学家",
+          "usage": "指研究哲学、构建哲学理论体系的人"
+        }
+      ]
+    },
+    {
+      "word": "priest",
+      "phonetic": "/priːst/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "牧师；神父",
+          "usage": "指基督教会中主持宗教仪式、管理教务的神职人员"
+        }
+      ]
+    },
+    {
+      "word": "spiritual",
+      "phonetic": "/ˈspɪrɪtʃuəl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "精神的；心灵的",
+          "usage": "与物质相对，描述和人的精神、信仰、思想相关的事物"
+        }
+      ]
+    },
+    {
+      "word": "estimate",
+      "phonetic": "/ˈestɪmeɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "估计；估量",
+          "usage": "指对事物的价值、数量、程度等进行大致的判断"
+        }
+      ]
+    },
+    {
+      "word": "grudge",
+      "phonetic": "/ɡrʌdʒ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "不情愿做；吝惜",
+          "usage": "常用结构grudge doing sth/grudge sb sth，表示不愿意给某人某物或不愿意做某事"
+        }
+      ]
+    },
+    {
+      "word": "surgeon",
+      "phonetic": "/ˈsɜːdʒən/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "外科医生",
+          "usage": "指专门从事外科手术的医生，区别于内科医生physician"
+        }
+      ]
+    },
+    {
+      "word": "tramp",
+      "phonetic": "/træmp/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "流浪汉；游民",
+          "usage": "指没有固定住所、四处流浪的人，本文特指不依靠乞讨、追求独立自由的流浪者"
+        }
+      ]
+    },
+    {
+      "word": "exception",
+      "phonetic": "/ɪkˈsepʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "例外",
+          "usage": "常用搭配exception to sth，表示某一规则或情况的例外"
+        }
+      ]
+    },
+    {
+      "word": "arouse",
+      "phonetic": "/əˈraʊz/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "引起；唤起",
+          "usage": "后常接表示情感、反应的名词，如pity, interest, anger等"
+        }
+      ]
+    },
+    {
+      "word": "dignity",
+      "phonetic": "/ˈdɪɡnəti/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "尊严；自尊",
+          "usage": "指人应有的受尊重的地位和身份，不可数名词"
+        }
+      ]
+    },
+    {
+      "word": "deliberately",
+      "phonetic": "/dɪˈlɪbərətli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "故意地；蓄意地",
+          "usage": "强调行为是经过深思熟虑后主动选择的，而非偶然发生"
+        }
+      ]
+    },
+    {
+      "word": "consequence",
+      "phonetic": "/ˈkɒnsɪkwəns/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "后果；结果",
+          "usage": "常指某个行为或决定带来的直接结果，可褒可贬"
+        }
+      ]
+    },
+    {
+      "word": "afflict",
+      "phonetic": "/əˈflɪkt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "折磨；使痛苦",
+          "usage": "常用被动结构sb be afflicted with sth，表示某人受某事物折磨"
+        }
+      ]
+    },
+    {
+      "word": "contempt",
+      "phonetic": "/kənˈtempt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "蔑视；轻视",
+          "usage": "常用搭配speak of sb with contempt，表示以轻蔑的态度谈论某人"
+        }
+      ]
+    },
+    {
+      "word": "envious",
+      "phonetic": "/ˈenviəs/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "羡慕的；嫉妒的",
+          "usage": "常用搭配be envious of sb/sth，表示羡慕/嫉妒某人或某物"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "in the light of",
+      "usage": "介词短语，意为“根据；鉴于”，用于引出做判断或决定的依据，可置于句首或句中",
+      "examples": [
+        {
+          "en": "In the light of recent research, this theory has been proved wrong.",
+          "zh": "根据最近的研究，这个理论已经被证明是错误的。"
+        },
+        {
+          "en": "We revised our plan in the light of the new data.",
+          "zh": "我们根据新的数据修改了计划。"
+        }
+      ]
+    },
+    {
+      "phrase": "in terms of",
+      "usage": "介词短语，意为“就…而言；在…方面”，用于限定讨论的角度或范围",
+      "examples": [
+        {
+          "en": "The job is great in terms of salary, but it has its disadvantages.",
+          "zh": "就薪水而言这份工作很棒，但它也有缺点。"
+        },
+        {
+          "en": "Measured in terms of educational resources, this city is far ahead of others.",
+          "zh": "从教育资源方面衡量，这座城市远远领先于其他城市。"
+        }
+      ]
+    },
+    {
+      "phrase": "be free from",
+      "usage": "形容词短语，意为“不受…影响；没有…的”，用于描述人或事物摆脱了某种不好的状态",
+      "examples": [
+        {
+          "en": "She wants to live in a place that is free from noise.",
+          "zh": "她想住在一个没有噪音的地方。"
+        },
+        {
+          "en": "Regular exercise helps you stay free from illness.",
+          "zh": "经常锻炼能帮你远离疾病。"
+        }
+      ]
+    },
+    {
+      "phrase": "move from place to place",
+      "usage": "动词短语，意为“四处迁徙；奔波”，描述没有固定住所、经常更换居住地点的状态",
+      "examples": [
+        {
+          "en": "As a travel photographer, he has to move from place to place all year round.",
+          "zh": "作为一名旅行摄影师，他常年需要四处奔波。"
+        },
+        {
+          "en": "In ancient times, nomadic tribes moved from place to place to find water and grass for their animals.",
+          "zh": "在古代，游牧部落为了给牲畜寻找水草四处迁徙。"
+        }
+      ]
+    },
+    {
+      "phrase": "in times of",
+      "usage": "介词短语，意为“在…的时候；在…的时期”，后接表示困难、需要等的名词，描述特定的情境阶段",
+      "examples": [
+        {
+          "en": "Friends always help each other in times of difficulty.",
+          "zh": "朋友总会在困难的时候互相帮助。"
+        },
+        {
+          "en": "The company provided enough supplies in times of emergency.",
+          "zh": "公司在紧急时期提供了充足的物资。"
+        }
+      ]
+    },
+    {
+      "phrase": "speak of sb with contempt",
+      "usage": "动词短语，意为“以轻蔑的态度谈论某人”，描述对某人的不尊重态度",
+      "examples": [
+        {
+          "en": "It is impolite to speak of those who made mistakes with contempt.",
+          "zh": "以轻蔑的态度谈论那些犯过错的人是不礼貌的。"
+        },
+        {
+          "en": "He used to speak of his former boss with contempt, but now he admires him a lot.",
+          "zh": "他过去常常轻蔑地谈论他的前老板，但现在他非常敬佩对方。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "It作形式主语的主语从句",
+      "definition": "当主语是较长的从句时，为了避免句子头重脚轻，通常用it作形式主语放在句首，真正的主语从句放在句末",
+      "structure": "It + be + 名词/形容词/过去分词 + that引导的主语从句",
+      "usage": "常用于引出观点、事实、传闻等内容，常见搭配有it is said that, it is possible that, it is well known that等",
+      "examples": [
+        {
+          "en": "It has been said that everyone lives by selling something.",
+          "zh": "有人说，每个人都靠出售某种东西为生。"
+        },
+        {
+          "en": "It is well known that drinking enough water is good for health.",
+          "zh": "众所周知，喝足够的水对健康有益。"
+        },
+        {
+          "en": "It is surprising that he finished the task in only two days.",
+          "zh": "他仅用两天就完成了任务，这真让人惊讶。"
+        }
+      ]
+    },
+    {
+      "title": "There be句型的变形There are times when...",
+      "definition": "该结构意为“有些时候…/有时候会…”，用于描述偶尔发生的情况，when引导的定语从句修饰先行词times",
+      "structure": "There are times when + 陈述句",
+      "usage": "用来引出生活中偶尔出现的某种情境或感受，表达某种情况的偶然性",
+      "examples": [
+        {
+          "en": "There are times when we would willingly give everything we possess to save our lives.",
+          "zh": "有时候，我们为了挽救生命，愿意付出我们所占有的一切。"
+        },
+        {
+          "en": "There are times when I really want to quit my job and travel around the world.",
+          "zh": "有些时候我真的想辞掉工作去环游世界。"
+        },
+        {
+          "en": "There are times when even the most careful person makes mistakes.",
+          "zh": "有时候即使是最细心的人也会犯错。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Though it may be possible to do sth, it is extremely difficult to do sth else.",
+      "original": {
+        "en": "Though it may be possible to measure the value of material goods in terms of money, it is extremely difficult to estimate the true value of the services which people perform for us.",
+        "zh": "虽然物质产品的价值可以用金钱来衡量，但要估算别人为我们提供的服务的真实价值却是极其困难的。"
+      },
+      "imitations": [
+        {
+          "en": "Though it may be possible to learn the basic rules of a language in a few months, it is extremely difficult to master it fluently.",
+          "zh": "虽然可能在几个月内学会一门语言的基本规则，但要流利地掌握它却极其困难。"
+        },
+        {
+          "en": "Though it may be possible to finish the project on time, it is extremely difficult to meet all the requirements perfectly.",
+          "zh": "虽然有可能按时完成这个项目，但要完美满足所有要求却极其困难。"
+        }
+      ]
+    },
+    {
+      "pattern": "We often speak of sb with... and put them in the same class as..., but how many of us can honestly say that...?",
+      "original": {
+        "en": "We often speak of tramps with contempt and put them in the same class as beggars, but how many of us can honestly say that we have not felt a little envious of their simple way of life and their freedom from care?",
+        "zh": "我们经常轻蔑地谈论流浪汉，把他们归为乞丐一类，但我们中有多少人能够坦率地说，我们没有对他们简单的生活方式和无忧无虑的自由感到一丝羡慕呢？"
+      },
+      "imitations": [
+        {
+          "en": "We often speak of full-time artists with admiration and put them in the same class as geniuses, but how many of us can honestly say that we are willing to give up stable income to pursue such a career?",
+          "zh": "我们经常羡慕地谈论全职艺术家，把他们归为天才一类，但我们中有多少人能够坦率地说，我们愿意放弃稳定的收入去追求这样的职业呢？"
+        },
+        {
+          "en": "We often speak of people who quit stable jobs to start businesses with praise and put them in the same class as brave explorers, but how many of us can honestly say that we can bear the risks of failure?",
+          "zh": "我们经常称赞那些辞去稳定工作创业的人，把他们归为勇敢的探索者一类，但我们中有多少人能够坦率地说，我们能承担失败的风险呢？"
+        }
+      ]
+    }
+  ]
+}

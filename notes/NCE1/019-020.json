@@ -1,0 +1,359 @@
+{
+  "book": "NCE1",
+  "lesson": "019-020",
+  "title": "Lesson 19",
+  "vocabulary": [
+    {
+      "word": "tired",
+      "phonetic": "/ˈtaɪəd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "疲倦的；困乏的",
+          "usage": "描述身体或精神上感到疲惫的状态"
+        }
+      ]
+    },
+    {
+      "word": "thirsty",
+      "phonetic": "/ˈθɜːsti/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "口渴的；渴的",
+          "usage": "描述需要喝水的身体状态"
+        }
+      ]
+    },
+    {
+      "word": "matter",
+      "phonetic": "/ˈmætə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "事情；问题",
+          "usage": "常用于What's the matter?固定句型中"
+        }
+      ]
+    },
+    {
+      "word": "ice cream",
+      "phonetic": "/aɪs kriːm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "冰淇淋",
+          "usage": "可数名词，复数形式为ice creams"
+        }
+      ]
+    },
+    {
+      "word": "children",
+      "phonetic": "/ˈtʃɪldrən/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "孩子们（child的复数）",
+          "usage": "child的复数形式，指两个或以上的孩子"
+        }
+      ]
+    },
+    {
+      "word": "sit down",
+      "phonetic": "/sɪt daʊn/",
+      "meanings": [
+        {
+          "pos": "verb phrase",
+          "meaning": "坐下",
+          "usage": "祈使句中常用，命令或请求他人坐下"
+        }
+      ]
+    },
+    {
+      "word": "right",
+      "phonetic": "/raɪt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "好的；正确的",
+          "usage": "在Are you all right?中表示身体状况/感觉如何"
+        }
+      ]
+    },
+    {
+      "word": "look",
+      "phonetic": "lʊk",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "看；瞧",
+          "usage": "引起注意或引导他人注意某物"
+        }
+      ]
+    },
+    {
+      "word": "there",
+      "phonetic": "/ðeə/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "那里；那儿",
+          "usage": "用于指示方位，常与be动词连用"
+        }
+      ]
+    },
+    {
+      "word": "thanks",
+      "phonetic": "/θæŋks/",
+      "meanings": [
+        {
+          "pos": "exclamation",
+          "meaning": "谢谢",
+          "usage": "表示感谢，比thank you更口语化"
+        }
+      ]
+    },
+    {
+      "word": "nice",
+      "phonetic": "/naɪs/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "好的；美味的",
+          "usage": "形容食物味道好或表示令人愉快的"
+        }
+      ]
+    },
+    {
+      "word": "please",
+      "phonetic": "/pliːz/",
+      "meanings": [
+        {
+          "pos": "exclamation",
+          "meaning": "请",
+          "usage": "用于礼貌请求"
+        }
+      ]
+    },
+    {
+      "word": "here",
+      "phonetic": "/hɪə/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "这里；这儿",
+          "usage": "指示位置，Here you are表示给你的东西"
+        }
+      ]
+    },
+    {
+      "word": "mum",
+      "phonetic": "/mʌm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "妈妈（非正式）",
+          "usage": "英式英语中对母亲的称呼，美式英语用mom"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "What's the matter?",
+      "usage": "询问发生了什么事或怎么了",
+      "examples": [
+        {
+          "en": "What's the matter, Tom? You look sad.",
+          "zh": "怎么了，汤姆？你看起来很难过。"
+        }
+      ]
+    },
+    {
+      "phrase": "Sit down here",
+      "usage": "让某人坐在这里，表示邀请或命令",
+      "examples": [
+        {
+          "en": "Sit down here and have a rest.",
+          "zh": "坐在这儿休息一下吧。"
+        }
+      ]
+    },
+    {
+      "phrase": "Are you all right now?",
+      "usage": "询问某人现在是否好了/没事了",
+      "examples": [
+        {
+          "en": "Are you all right now? Do you need a doctor?",
+          "zh": "你现在好了吗？需要看医生吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "There's an ice cream man",
+      "usage": "表示某处有某人或某物存在",
+      "examples": [
+        {
+          "en": "There's a book on the table.",
+          "zh": "桌上有一本书。"
+        }
+      ]
+    },
+    {
+      "phrase": "Two ice cream please",
+      "usage": "点东西时的礼貌请求",
+      "examples": [
+        {
+          "en": "Two coffees please.",
+          "zh": "请来两杯咖啡。"
+        }
+      ]
+    },
+    {
+      "phrase": "Here you are",
+      "usage": "把东西递给某人时的表达",
+      "examples": [
+        {
+          "en": "Here you are. This is your change.",
+          "zh": "给你，这是你的找零。"
+        }
+      ]
+    },
+    {
+      "phrase": "Thanks Mum",
+      "usage": "对母亲的感谢表达",
+      "examples": [
+        {
+          "en": "Thanks Dad for driving me to school.",
+          "zh": "谢谢爸爸开车送我去学校。"
+        }
+      ]
+    },
+    {
+      "phrase": "These ... are nice",
+      "usage": "表示对物品的正面评价",
+      "examples": [
+        {
+          "en": "These flowers are nice. I'll take them.",
+          "zh": "这些花真好看。我要了。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "there be句型（存在句）",
+      "definition": "表示某地存在某人或某物的句型",
+      "structure": "There is/are + 名词 + 地点",
+      "usage": "用于描述某处有某人或某物存在，注意be动词的单复数与后面的名词一致",
+      "examples": [
+        {
+          "en": "There's an ice cream man.",
+          "zh": "那边有个冰淇淋小贩。"
+        },
+        {
+          "en": "There are two ice creams.",
+          "zh": "有两个冰淇淋。"
+        }
+      ]
+    },
+    {
+      "title": "一般现在时（现在进行时概念）",
+      "definition": "描述当前时刻正在发生的动作或存在的状态",
+      "structure": "be (am/is/are) + 动词-ing",
+      "usage": "用于描述说话时正在进行的动作",
+      "examples": [
+        {
+          "en": "We're tired and thirsty.",
+          "zh": "我们又累又渴。"
+        }
+      ]
+    },
+    {
+      "title": "一般疑问句的简略回答",
+      "definition": "对Yes/No问句的简略肯定或否定回答",
+      "structure": "Yes/No + 主语 + be动词",
+      "usage": "避免重复整个句子，用代词或简略形式回答",
+      "examples": [
+        {
+          "en": "Are you all right now? Yes, we are.",
+          "zh": "你现在好了吗？是的，我们好了。"
+        },
+        {
+          "en": "No, we aren't.",
+          "zh": "不，我们还没好。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "What's the matter + (with...)?",
+      "original": {
+        "en": "What's the matter children?",
+        "zh": "怎么了孩子们？"
+      },
+      "imitations": [
+        {
+          "en": "What's the matter with you?",
+          "zh": "你怎么了？"
+        },
+        {
+          "en": "What's the matter, Tom?",
+          "zh": "汤姆，你怎么了？"
+        }
+      ]
+    },
+    {
+      "pattern": "Are you + 状态 now?",
+      "original": {
+        "en": "Are you all right now?",
+        "zh": "你现在好了吗？"
+      },
+      "imitations": [
+        {
+          "en": "Are you tired now?",
+          "zh": "你现在累了吗？"
+        },
+        {
+          "en": "Are you hungry now?",
+          "zh": "你现在饿了吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "There is/are + 名词",
+      "original": {
+        "en": "There's an ice cream man.",
+        "zh": "那边有个冰淇淋小贩。"
+      },
+      "imitations": [
+        {
+          "en": "There's a book on the desk.",
+          "zh": "桌子上有一本书。"
+        },
+        {
+          "en": "There are three children in the room.",
+          "zh": "房间里有三个孩子。"
+        }
+      ]
+    },
+    {
+      "pattern": "Here you are.",
+      "original": {
+        "en": "Here you are children.",
+        "zh": "给你们，孩子们。"
+      },
+      "imitations": [
+        {
+          "en": "Here you are. Enjoy your meal.",
+          "zh": "请慢用。"
+        },
+        {
+          "en": "Here you are, sir. Your coffee.",
+          "zh": "先生，您的咖啡。"
+        }
+      ]
+    }
+  ]
+}

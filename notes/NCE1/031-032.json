@@ -1,0 +1,340 @@
+{
+  "book": "NCE1",
+  "lesson": "031-032",
+  "title": "Lesson 31",
+  "vocabulary": [
+    {
+      "word": "garden",
+      "phonetic": "/ˈɡɑːdn/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "花园，庭院",
+          "usage": "指种植花草树木的地方，也可指菜园"
+        }
+      ]
+    },
+    {
+      "word": "tree",
+      "phonetic": "/triː/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "树，树木",
+          "usage": "指木本植物，通常有树干和树枝"
+        }
+      ]
+    },
+    {
+      "word": "climb",
+      "phonetic": "/klaɪm/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "meaning": "爬，攀爬",
+          "usage": "指用手脚向上移动，也可用于攀登阶梯等"
+        }
+      ]
+    },
+    {
+      "word": "grass",
+      "phonetic": "/ɡrɑːs/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "草，草地",
+          "usage": "指户外的草坪或草原"
+        }
+      ]
+    },
+    {
+      "word": "run",
+      "phonetic": "/rʌn/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "meaning": "跑，奔跑",
+          "usage": "指用脚快速移动，也可用于机器运转等"
+        }
+      ]
+    },
+    {
+      "word": "after",
+      "phonetic": "/ˈɑːftə/",
+      "meanings": [
+        {
+          "pos": "prep.",
+          "meaning": "在...之后；追逐",
+          "usage": "表示时间顺序或空间位置；run after表示追赶"
+        }
+      ]
+    },
+    {
+      "word": "cat",
+      "phonetic": "/kæt/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "猫",
+          "usage": "指家养的猫科动物"
+        }
+      ]
+    },
+    {
+      "word": "dog",
+      "phonetic": "/dɒɡ/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "meaning": "狗",
+          "usage": "指家养的犬科动物"
+        }
+      ]
+    },
+    {
+      "word": "pardon",
+      "phonetic": "/ˈpɑːdn/",
+      "meanings": [
+        {
+          "pos": "interj.",
+          "meaning": "请再说一遍；对不起",
+          "usage": "用于没听清对方说话时请对方重复"
+        }
+      ]
+    },
+    {
+      "word": "under",
+      "phonetic": "/ˈʌndə/",
+      "meanings": [
+        {
+          "pos": "prep.",
+          "meaning": "在...下面",
+          "usage": "表示位置关系，指在某物的正下方"
+        }
+      ]
+    },
+    {
+      "word": "sit",
+      "phonetic": "/sɪt/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "meaning": "坐，坐下",
+          "usage": "指坐在某处，用进行时表示坐着的状态"
+        }
+      ]
+    },
+    {
+      "word": "across",
+      "phonetic": "/əˈkrɒs/",
+      "meanings": [
+        {
+          "pos": "prep.",
+          "meaning": "穿过，横穿",
+          "usage": "表示从一边到另一边的动作"
+        }
+      ]
+    },
+    {
+      "word": "too",
+      "phonetic": "/tuː/",
+      "meanings": [
+        {
+          "pos": "adv.",
+          "meaning": "也，同样",
+          "usage": "用于肯定句句末，表示也适用于其他人或物"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "I beg your pardon",
+      "usage": "礼貌用语，用于没听清或没听懂对方说的话时，请求重复",
+      "examples": [
+        {
+          "en": "I beg your pardon? Could you say that again?",
+          "zh": "请再说一遍好吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "What about",
+      "usage": "用于询问关于某人或某事的情况，或提出建议",
+      "examples": [
+        {
+          "en": "What about the dog?",
+          "zh": "那只狗呢？"
+        }
+      ]
+    },
+    {
+      "phrase": "run after",
+      "usage": "表示追赶、追逐某人或某物",
+      "examples": [
+        {
+          "en": "The dog is running after a cat.",
+          "zh": "那只狗正在追一只猫。"
+        }
+      ]
+    },
+    {
+      "phrase": "across the grass",
+      "usage": "穿过草地，表示从草地的一端到另一端",
+      "examples": [
+        {
+          "en": "It's running across the grass.",
+          "zh": "它正在穿过草地跑。"
+        }
+      ]
+    },
+    {
+      "phrase": "under the tree",
+      "usage": "在树下，表示位置在树的下方",
+      "examples": [
+        {
+          "en": "She's sitting under the tree.",
+          "zh": "她正坐在树下。"
+        }
+      ]
+    },
+    {
+      "phrase": "in the garden",
+      "usage": "在花园里，表示位置在花园内部",
+      "examples": [
+        {
+          "en": "Tim is in the garden.",
+          "zh": "Tim在花园里。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "现在进行时 (Present Continuous Tense)",
+      "definition": "表示正在进行的动作或发生的事，由be动词(am/is/are) + 动词-ing形式构成",
+      "structure": "主语 + am/is/are + 动词-ing + 其他",
+      "usage": "用于描述说话时正在发生的动作",
+      "examples": [
+        {
+          "en": "She's sitting under the tree.",
+          "zh": "她正坐在树下。"
+        },
+        {
+          "en": "He's climbing the tree.",
+          "zh": "他正在爬树。"
+        },
+        {
+          "en": "It's running across the grass.",
+          "zh": "它正在穿过草地跑。"
+        }
+      ]
+    },
+    {
+      "title": "现在进行时的Yes/No疑问句",
+      "definition": "将be动词提到句首构成一般疑问句，语调用升调",
+      "structure": "Is/Are + 主语 + 动词-ing + 其他?",
+      "usage": "用于询问某人是否正在做某事",
+      "examples": [
+        {
+          "en": "Is Tim in the garden, too?",
+          "zh": "Tim也在花园里吗？"
+        },
+        {
+          "en": "Is the cat climbing the tree?",
+          "zh": "那只猫正在爬树吗？"
+        },
+        {
+          "en": "What's she doing?",
+          "zh": "她正在做什么？"
+        }
+      ]
+    },
+    {
+      "title": "Where引导的特殊疑问句",
+      "definition": "用where提问地点，句式为Where + be动词 + 主语?",
+      "structure": "Where + is/are + 主语?",
+      "usage": "用于询问某人或某物在哪里",
+      "examples": [
+        {
+          "en": "Where's Sally, Jack?",
+          "zh": "Sally在哪里，Jack？"
+        },
+        {
+          "en": "Where are the children?",
+          "zh": "孩子们在哪里？"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Where + be动词 + 主语?",
+      "original": {
+        "en": "Where's Sally, Jack?",
+        "zh": "Sally在哪里，Jack？"
+      },
+      "imitations": [
+        {
+          "en": "Where's Tom?",
+          "zh": "Tom在哪里？"
+        },
+        {
+          "en": "Where are my keys?",
+          "zh": "我的钥匙在哪里？"
+        }
+      ]
+    },
+    {
+      "pattern": "What's + 主语 + doing?",
+      "original": {
+        "en": "What's she doing?",
+        "zh": "她正在做什么？"
+      },
+      "imitations": [
+        {
+          "en": "What's Tim doing?",
+          "zh": "Tim正在做什么？"
+        },
+        {
+          "en": "What's the dog doing?",
+          "zh": "那只狗正在做什么？"
+        }
+      ]
+    },
+    {
+      "pattern": "Is/Are + 主语 + 动词-ing + 其他?",
+      "original": {
+        "en": "Is Tim in the garden, too?",
+        "zh": "Tim也在花园里吗？"
+      },
+      "imitations": [
+        {
+          "en": "Is he climbing the tree?",
+          "zh": "他正在爬树吗？"
+        },
+        {
+          "en": "Are the children playing in the garden?",
+          "zh": "孩子们正在花园里玩吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "What about + 名词/代词?",
+      "original": {
+        "en": "What about the dog?",
+        "zh": "那只狗呢？"
+      },
+      "imitations": [
+        {
+          "en": "What about your sister?",
+          "zh": "你姐姐呢？"
+        },
+        {
+          "en": "What about this book?",
+          "zh": "这本书怎么样？"
+        }
+      ]
+    }
+  ]
+}

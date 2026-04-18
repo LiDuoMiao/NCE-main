@@ -1,0 +1,382 @@
+{
+  "book": "NCE2",
+  "lesson": "69",
+  "title": "Do you think that the writer passed his driving test? Why?",
+  "vocabulary": [
+    {
+      "word": "licence",
+      "phonetic": "/ˈlaɪsns/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "许可证，执照",
+          "usage": "通常指官方颁发的许可证书，如驾驶执照 driving licence"
+        }
+      ]
+    },
+    {
+      "word": "traffic",
+      "phonetic": "/ˈtræfɪk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "交通，往来车辆",
+          "usage": "指道路上的车辆和行人流动，heavy traffic 表示交通拥挤"
+        }
+      ]
+    },
+    {
+      "word": "confidence",
+      "phonetic": "/ˈkɒnfɪdəns/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "信心，自信",
+          "usage": "指对自己能力的信任，acquire confidence 表示获得信心"
+        }
+      ]
+    },
+    {
+      "word": "examiner",
+      "phonetic": "/ɪɡˈzæmɪnə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "主考官，审查员",
+          "usage": "指进行考试或检查的人员"
+        }
+      ]
+    },
+    {
+      "word": "performance",
+      "phonetic": "/pəˈfɔːməns/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "表现，表演",
+          "usage": "指某人做事或完成任务的方式"
+        }
+      ]
+    },
+    {
+      "word": "instruct",
+      "phonetic": "/ɪnˈstrʌkt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "指示，命令，教导",
+          "usage": "指给予明确指示或指导，instructed 为过去式/过去分词"
+        }
+      ]
+    },
+    {
+      "word": "suppose",
+      "phonetic": "/səˈpəʊz/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "假设，猜想",
+          "usage": "用于提出假设情况，let us suppose 表示让我们假设"
+        }
+      ]
+    },
+    {
+      "word": "react",
+      "phonetic": "/riˈækt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "反应，回应",
+          "usage": "指对某事物做出反应或回应"
+        }
+      ]
+    },
+    {
+      "word": "brake",
+      "phonetic": "/breɪk/",
+      "meanings": [
+        {
+          "pos": "noun/verb",
+          "meaning": "刹车，制动器；刹车",
+          "usage": "作名词指刹车装置，作动词指刹车动作"
+        }
+      ]
+    },
+    {
+      "word": "pedal",
+      "phonetic": "/ˈpedl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "踏板，脚蹬",
+          "usage": "指用脚操作的装置，如刹车踏板 brake pedal"
+        }
+      ]
+    },
+    {
+      "word": "mournful",
+      "phonetic": "/ˈmɔːnfʊl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "悲伤的，哀痛的",
+          "usage": "形容声音或表情带有深深的悲伤"
+        }
+      ]
+    },
+    {
+      "word": "throw",
+      "phonetic": "/θrəʊ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "扔，投，抛",
+          "usage": "过去式 threw，过去分词 thrown，throw forward 表示向前抛出"
+        }
+      ]
+    },
+    {
+      "word": "press",
+      "phonetic": "/pres/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "按，压",
+          "usage": "指用手或物体对另一物体施加压力，如按刹车"
+        }
+      ]
+    },
+    {
+      "word": "continue",
+      "phonetic": "/kənˈtɪnjuː/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "继续，延续",
+          "usage": "指在中断后继续做某事或不停顿地做下去"
+        }
+      ]
+    },
+    {
+      "word": "acquire",
+      "phonetic": "/əˈkwaɪə/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "获得，取得",
+          "usage": "指通过努力或过程逐渐获得知识、技能或信心"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "be asked to do something",
+      "usage": "被要求做某事，表示被动地接受指示或要求",
+      "examples": [
+        {
+          "en": "I had been asked to drive in heavy traffic.",
+          "zh": "我被要求在拥挤的交通中驾驶。"
+        }
+      ]
+    },
+    {
+      "phrase": "drive out of town",
+      "usage": "开车出城，表示从市区驶出",
+      "examples": [
+        {
+          "en": "After having been instructed to drive out of town, I began to acquire confidence.",
+          "zh": "在接到开车出城的指示后，我开始有了信心。"
+        }
+      ]
+    },
+    {
+      "phrase": "be sure that",
+      "usage": "确信，确信某事会发生或已经发生",
+      "examples": [
+        {
+          "en": "Sure that I had passed, I was almost beginning to enjoy my test.",
+          "zh": "确信自己已经通过了，我几乎开始享受这次考试。"
+        }
+      ]
+    },
+    {
+      "phrase": "must have been",
+      "usage": "表示对过去发生的事情的肯定推测",
+      "examples": [
+        {
+          "en": "The examiner must have been pleased with my performance.",
+          "zh": "主考官一定对我的表现很满意。"
+        }
+      ]
+    },
+    {
+      "phrase": "as soon as",
+      "usage": "一...就...，表示两个动作紧接着发生",
+      "examples": [
+        {
+          "en": "As soon as I tap on the window, you must stop within five feet.",
+          "zh": "我一敲车窗，你就必须在五英尺内停车。"
+        }
+      ]
+    },
+    {
+      "phrase": "take some time",
+      "usage": "花费一些时间，表示某事需要一定的时间才能完成",
+      "examples": [
+        {
+          "en": "It took me a long time to react.",
+          "zh": "我花了很长时间才反应过来。"
+        }
+      ]
+    },
+    {
+      "phrase": "look at someone sadly",
+      "usage": "悲伤地看着某人，表示带着悲伤的表情注视",
+      "examples": [
+        {
+          "en": "The examiner looked at me sadly.",
+          "zh": "主考官悲伤地看着我。"
+        }
+      ]
+    },
+    {
+      "phrase": "in a mournful voice",
+      "usage": "用悲伤的声音，表示以哀伤的语调说话",
+      "examples": [
+        {
+          "en": "He said in a mournful voice.",
+          "zh": "他用悲伤的声音说道。"
+        }
+      ]
+    },
+    {
+      "phrase": "press the brake pedal",
+      "usage": "踩刹车踏板，指驾驶员刹车时的动作",
+      "examples": [
+        {
+          "en": "I suddenly pressed the brake pedal hard.",
+          "zh": "我突然用力踩下刹车踏板。"
+        }
+      ]
+    },
+    {
+      "phrase": "be thrown forward",
+      "usage": "被向前抛出，描述因惯性身体前倾的状态",
+      "examples": [
+        {
+          "en": "We were both thrown forward.",
+          "zh": "我们两个都向前倾倒。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去进行时的被动语态 (Past Continuous Tense - Passive Voice)",
+      "definition": "表示过去某一时刻正在进行的被动动作，由 was/were + being + 过去分词构成",
+      "structure": "主语 + was/were + being + 过去分词",
+      "usage": "用于描述过去某个时刻正在发生的被动动作，强调动作的进行性",
+      "examples": [
+        {
+          "en": "I was being tested for a driving licence for the third time.",
+          "zh": "我正在第三次参加驾照考试。"
+        }
+      ]
+    },
+    {
+      "title": "过去完成时的被动语态 (Past Perfect Tense - Passive Voice)",
+      "definition": "表示在过去某一时刻之前已经完成的被动动作，由 had + been + 过去分词构成",
+      "structure": "主语 + had + been + 过去分词",
+      "usage": "用于描述在过去某个时间点之前已经完成的被动动作，常与 after 连用",
+      "examples": [
+        {
+          "en": "After having been instructed to drive out of town, I began to acquire confidence.",
+          "zh": "在被指示开出城后，我开始有了信心。"
+        }
+      ]
+    },
+    {
+      "title": "情态动词 must 表示对过去的肯定推测 (Must have + 过去分词)",
+      "definition": "must have + 过去分词表示对过去发生的事情的肯定推测，意为\"一定/肯定已经...\"",
+      "structure": "主语 + must have + 过去分词",
+      "usage": "用于根据现有证据或情况对过去的事情做出强有力的推断，语气比 may/might have 更肯定",
+      "examples": [
+        {
+          "en": "The examiner must have been pleased with my performance.",
+          "zh": "主考官一定对我的表现很满意。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "主语 + was/were being + 过去分词",
+      "original": {
+        "en": "I was being tested for a driving licence for the third time.",
+        "zh": "我正在第三次参加驾照考试。"
+      },
+      "imitations": [
+        {
+          "en": "The car was being repaired when I arrived.",
+          "zh": "当我到达时，那辆车正在被修理。"
+        },
+        {
+          "en": "The patient was being examined by the doctor.",
+          "zh": "病人正在被医生检查。"
+        }
+      ]
+    },
+    {
+      "pattern": "After having been + 过去分词...",
+      "original": {
+        "en": "After having been instructed to drive out of town, I began to acquire confidence.",
+        "zh": "在被指示开车出城后，我开始有了信心。"
+      },
+      "imitations": [
+        {
+          "en": "After having been given instructions, we started the project.",
+          "zh": "在接到指示后，我们开始了项目。"
+        },
+        {
+          "en": "After having been told the truth, she felt relieved.",
+          "zh": "在被告知真相后，她感到如释重负。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + must have been + 过去分词",
+      "original": {
+        "en": "The examiner must have been pleased with my performance.",
+        "zh": "主考官一定对我的表现很满意。"
+      },
+      "imitations": [
+        {
+          "en": "She must have been waiting for hours.",
+          "zh": "她一定已经等了好几个小时。"
+        },
+        {
+          "en": "He must have been sleeping when you called.",
+          "zh": "你打电话时他一定正在睡觉。"
+        }
+      ]
+    },
+    {
+      "pattern": "As soon as + 主语 + 动词...",
+      "original": {
+        "en": "As soon as I tap on the window, you must stop within five feet.",
+        "zh": "我一敲车窗，你就必须在五英尺内停车。"
+      },
+      "imitations": [
+        {
+          "en": "As soon as the light turns green, you can go.",
+          "zh": "一绿灯亮起，你就可以走了。"
+        },
+        {
+          "en": "As soon as he saw me, he smiled.",
+          "zh": "他一看到我就笑了。"
+        }
+      ]
+    }
+  ]
+}

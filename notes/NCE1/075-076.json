@@ -1,0 +1,323 @@
+{
+  "book": "NCE1",
+  "lesson": "075-076",
+  "title": "Lesson 75",
+  "vocabulary": [
+    {
+      "word": "uncomfortable",
+      "phonetic": "/ʌnˈkʌmftəbl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "不舒服的",
+          "usage": "形容词，由comfortable加否定前缀un-构成"
+        }
+      ]
+    },
+    {
+      "word": "fashionable",
+      "phonetic": "/ˈfæʃnəbl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "流行的，时兴的",
+          "usage": "描述当前流行的款式或风格"
+        }
+      ]
+    },
+    {
+      "word": "fashion",
+      "phonetic": "/ˈfæʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "时尚，流行款式",
+          "usage": "in fashion表示流行，out of fashion表示过时"
+        }
+      ]
+    },
+    {
+      "word": "size",
+      "phonetic": "/saɪz/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "尺码，尺寸",
+          "usage": "用于询问衣物、鞋子的大小"
+        }
+      ]
+    },
+    {
+      "word": "pair",
+      "phonetic": "/peə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "一双，一对",
+          "usage": "指成双成对的东西，如鞋子、手套"
+        }
+      ]
+    },
+    {
+      "word": "colour",
+      "phonetic": "/ˈkʌlə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "颜色",
+          "usage": "用于询问或描述物品的颜色"
+        }
+      ]
+    },
+    {
+      "word": "wear",
+      "phonetic": "/weə/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "穿，戴",
+          "usage": "表示穿衣服、鞋子、戴帽子等"
+        }
+      ]
+    },
+    {
+      "word": "buy",
+      "phonetic": "/baɪ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "买",
+          "usage": "过去式为bought，用于描述购买行为"
+        }
+      ]
+    },
+    {
+      "word": "get",
+      "phonetic": "/ɡet/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "获得，买到",
+          "usage": "用于请求他人帮忙购买或获取某物"
+        }
+      ]
+    },
+    {
+      "word": "last",
+      "phonetic": "/lɑːst/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "上一个的",
+          "usage": "last month表示上个月，last year表示去年"
+        }
+      ]
+    },
+    {
+      "word": "look",
+      "phonetic": "/lʊk/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "看起来",
+          "usage": "后面接形容词，表示外表看起来如何"
+        }
+      ]
+    },
+    {
+      "word": "always",
+      "phonetic": "/ˈɔːlweɪz/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "总是，一直",
+          "usage": "表示频率很高的副词"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "in fashion",
+      "usage": "表示某物正在流行或时髦",
+      "examples": [
+        {
+          "en": "These shoes are in fashion now.",
+          "zh": "这些鞋子现在很流行。"
+        }
+      ]
+    },
+    {
+      "phrase": "out of fashion",
+      "usage": "表示某物已经过时，不再流行",
+      "examples": [
+        {
+          "en": "They were in fashion last year.",
+          "zh": "它们去年很流行。"
+        }
+      ]
+    },
+    {
+      "phrase": "last month",
+      "usage": "表示上个月，过去的时间",
+      "examples": [
+        {
+          "en": "My sister bought this pair last month.",
+          "zh": "我姐姐上个月买了这双。"
+        }
+      ]
+    },
+    {
+      "phrase": "the year before last",
+      "usage": "表示前年，前两年",
+      "examples": [
+        {
+          "en": "They were in fashion the year before last too.",
+          "zh": "前年它们也很流行。"
+        }
+      ]
+    },
+    {
+      "phrase": "buy something somewhere",
+      "usage": "在某个地方购买某物",
+      "examples": [
+        {
+          "en": "She bought them in the U.S.",
+          "zh": "她是在美国买的。"
+        }
+      ]
+    },
+    {
+      "phrase": "Can you get...for me?",
+      "usage": "请求他人帮忙购买某物",
+      "examples": [
+        {
+          "en": "Can you get a pair for me, please?",
+          "zh": "你能帮我弄一双吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "a pair of",
+      "usage": "一双，一对，用于描述成双的物品",
+      "examples": [
+        {
+          "en": "Can you get a pair for me?",
+          "zh": "你能帮我弄一双吗？"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "一般过去时 (Past Simple Tense)",
+      "definition": "表示过去发生的动作或存在的状态",
+      "structure": "主语 + 动词过去式 + 其他",
+      "usage": "用于描述过去发生的行为、事件或状态，注意不规则动词的变化",
+      "examples": [
+        {
+          "en": "My sister bought this pair last month.",
+          "zh": "我姐姐上个月买了这双。"
+        },
+        {
+          "en": "Did she buy them here?",
+          "zh": "她是在这里买的吗？"
+        },
+        {
+          "en": "We had some shoes like those a month ago.",
+          "zh": "一个月前我们有那种鞋。"
+        }
+      ]
+    },
+    {
+      "title": "一般过去时的否定句",
+      "definition": "在助动词did后面加not，动词恢复原形",
+      "structure": "主语 + did not (didn't) + 动词原形 + 其他",
+      "usage": "用于否定过去发生的动作",
+      "examples": [
+        {
+          "en": "We don't have any.",
+          "zh": "我们没有（现在）。"
+        },
+        {
+          "en": "We didn't have any.",
+          "zh": "我们没有（过去）。"
+        },
+        {
+          "en": "I'm afraid that I can't.",
+          "zh": "恐怕我做不到。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Do you have any + 名词 + like these?",
+      "original": {
+        "en": "Do you have any shoes like these?",
+        "zh": "你们有这样的鞋子吗？"
+      },
+      "imitations": [
+        {
+          "en": "Do you have any bags like these?",
+          "zh": "你们有这样的包吗？"
+        },
+        {
+          "en": "Do you have any dresses like these?",
+          "zh": "你们有这样的裙子吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "What size/colou r+ ?",
+      "original": {
+        "en": "What size? Size five. What colour? Black.",
+        "zh": "什么尺码？五号。什么颜色？黑色。"
+      },
+      "imitations": [
+        {
+          "en": "What size? Size seven. What colour? Blue.",
+          "zh": "什么尺码？七号。什么颜色？蓝色。"
+        },
+        {
+          "en": "What size do you wear? I wear size eight.",
+          "zh": "你穿多大尺码？我穿八号。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + be (is/are) + in fashion / out of fashion",
+      "original": {
+        "en": "They were in fashion last year.",
+        "zh": "它们去年很流行。"
+      },
+      "imitations": [
+        {
+          "en": "This style is in fashion this year.",
+          "zh": "这个款式今年很流行。"
+        },
+        {
+          "en": "That colour is out of fashion now.",
+          "zh": "那个颜色现在过时了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Can you get + 名词 + for me?",
+      "original": {
+        "en": "Can you get a pair for me, please?",
+        "zh": "你能帮我弄一双吗？"
+      },
+      "imitations": [
+        {
+          "en": "Can you get a ticket for me?",
+          "zh": "你能帮我弄一张票吗？"
+        },
+        {
+          "en": "Can you get some coffee for me?",
+          "zh": "你能帮我买杯咖啡吗？"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,401 @@
+{
+  "book": "NCE4",
+  "lesson": "13",
+  "title": "Lesson 13",
+  "vocabulary": [
+    {
+      "word": "strike",
+      "phonetic": "/straɪk/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "发现（石油、矿物等）；击打",
+          "usage": "作“发现”义时，常接oil/gold等矿产类名词；作“击打”义时为不及物或及物动词"
+        }
+      ]
+    },
+    {
+      "word": "boring",
+      "phonetic": "/ˈbɔːrɪŋ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "钻孔；钻屑",
+          "usage": "指钻井作业中钻出的孔洞，也可表示钻井过程中产生的碎屑"
+        }
+      ]
+    },
+    {
+      "word": "diameter",
+      "phonetic": "/daɪˈæmɪtər/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "直径",
+          "usage": "表示圆形物体的直径，常用搭配：in diameter（直径为……）"
+        }
+      ]
+    },
+    {
+      "word": "derrick",
+      "phonetic": "/ˈderɪk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "钻井架；起重机",
+          "usage": "石油行业中特指开采石油的井架，也可指港口的重型起重机"
+        }
+      ]
+    },
+    {
+      "word": "tackle",
+      "phonetic": "/ˈtækl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "滑轮组；用具",
+          "usage": "block and tackle为固定搭配，指滑轮组；也可作动词表示“处理、解决”"
+        }
+      ]
+    },
+    {
+      "word": "rotate",
+      "phonetic": "/rəʊˈteɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "旋转；轮流",
+          "usage": "作“旋转”义时可指物体绕轴转动；作“轮流”义时可指人员轮班"
+        }
+      ]
+    },
+    {
+      "word": "geologist",
+      "phonetic": "/dʒiˈɒlədʒɪst/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "地质学家",
+          "usage": "指研究地球物质结构、历史的专业人员，词根geology为地质学"
+        }
+      ]
+    },
+    {
+      "word": "cylinder",
+      "phonetic": "/ˈsɪlɪndər/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "圆柱体；气缸",
+          "usage": "可指几何形状的圆柱体，也可指发动机的气缸"
+        }
+      ]
+    },
+    {
+      "word": "strata",
+      "phonetic": "/ˈstrɑːtə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "岩层；阶层（stratum的复数）",
+          "usage": "地质学中特指地层，也可引申指社会阶层"
+        }
+      ]
+    },
+    {
+      "word": "circulate",
+      "phonetic": "/ˈsɜːkjəleɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "循环；流通",
+          "usage": "可指液体、气体的循环，也可指信息、货币的流通"
+        }
+      ]
+    },
+    {
+      "word": "endeavour",
+      "phonetic": "/ɪnˈdevər/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "努力；竭力",
+          "usage": "正式用词，搭配endeavour to do sth. 表示努力做某事"
+        }
+      ]
+    },
+    {
+      "word": "romantic",
+      "phonetic": "/rəʊˈmæntɪk/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "浪漫的；不切实际的",
+          "usage": "除指爱情相关的浪漫外，还可表示想法脱离实际、理想化"
+        }
+      ]
+    },
+    {
+      "word": "gusher",
+      "phonetic": "/ˈɡʌʃər/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "喷油井；喷发井",
+          "usage": "石油行业特指会自动喷出石油的油井，词根gush为动词“喷涌”"
+        }
+      ]
+    },
+    {
+      "word": "deposit",
+      "phonetic": "/dɪˈpɒzɪt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "矿床；存款；押金",
+          "usage": "mineral deposit为固定搭配，指矿床；也可指银行存款或租房押金"
+        }
+      ]
+    },
+    {
+      "word": "haul",
+      "phonetic": "/hɔːl/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "（用力）拖，拉",
+          "usage": "指需要付出很大力气拖拽重物，常用于工业、运输场景"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "strike oil",
+      "usage": "字面义为钻探到石油，也可引申为突然发财、交好运",
+      "examples": [
+        {
+          "en": "After three years of exploration, the team finally struck oil in the desert.",
+          "zh": "经过三年勘探，团队终于在沙漠中钻探到了石油。"
+        },
+        {
+          "en": "He struck oil when his small invention was bought by a big company.",
+          "zh": "他的小发明被大公司收购后，他一下子就发了财。"
+        }
+      ]
+    },
+    {
+      "phrase": "mineral deposit",
+      "usage": "固定搭配，指地壳中聚集的矿产资源",
+      "examples": [
+        {
+          "en": "Geologists have found a rich mineral deposit in the mountain area.",
+          "zh": "地质学家在山区发现了一处储量丰富的矿床。"
+        },
+        {
+          "en": "The country's economy relies heavily on the exploitation of its mineral deposits.",
+          "zh": "该国经济严重依赖其矿产资源的开采。"
+        }
+      ]
+    },
+    {
+      "phrase": "put up",
+      "usage": "此处指搭建、建造；还可表示张贴、提供住宿",
+      "examples": [
+        {
+          "en": "They plan to put up a temporary office on the construction site.",
+          "zh": "他们计划在工地上搭建一间临时办公室。"
+        },
+        {
+          "en": "We can put you up for the night if you miss the last train.",
+          "zh": "如果你赶不上末班车，我们可以给你提供一晚住宿。"
+        }
+      ]
+    },
+    {
+      "phrase": "block and tackle",
+      "usage": "固定术语，指滑轮组，用于吊运重物",
+      "examples": [
+        {
+          "en": "Workers used a block and tackle to lift the heavy machine onto the truck.",
+          "zh": "工人们用滑轮组把沉重的机器吊到了卡车上。"
+        },
+        {
+          "en": "The oil derrick is equipped with a block and tackle to handle long drill pipes.",
+          "zh": "钻井架配备了滑轮组来搬运长钻杆。"
+        }
+      ]
+    },
+    {
+      "phrase": "be fitted with",
+      "usage": "表示“装有、配备有”，主语通常为物品",
+      "examples": [
+        {
+          "en": "All new cars in this country are fitted with safety belts as standard.",
+          "zh": "这个国家所有的新车都标配了安全带。"
+        },
+        {
+          "en": "The laboratory is fitted with the latest testing equipment.",
+          "zh": "这个实验室配备了最新的检测设备。"
+        }
+      ]
+    },
+    {
+      "phrase": "every so often",
+      "usage": "表示“偶尔、有时”，相当于occasionally，作时间状语",
+      "examples": [
+        {
+          "en": "Every so often, I go hiking in the hills to relax.",
+          "zh": "我偶尔会去山里徒步放松一下。"
+        },
+        {
+          "en": "You should check the tire pressure every so often to avoid accidents.",
+          "zh": "你应该偶尔检查一下胎压，避免发生事故。"
+        }
+      ]
+    },
+    {
+      "phrase": "by means of",
+      "usage": "正式表达，意为“通过、借助于”，后接名词或动名词",
+      "examples": [
+        {
+          "en": "The rescue team located the trapped miners by means of a special detector.",
+          "zh": "救援队借助一种特殊探测器找到了被困矿工的位置。"
+        },
+        {
+          "en": "We can express our feelings by means of body language when we don't speak the same language.",
+          "zh": "当我们语言不通时，可以借助肢体语言来表达感受。"
+        }
+      ]
+    },
+    {
+      "phrase": "lead off",
+      "usage": "此处指“引导流出、引出”，还可表示“开始、开头”",
+      "examples": [
+        {
+          "en": "Pipes are installed to lead off the excess water from the reservoir.",
+          "zh": "安装了管道来引出水库里多余的水。"
+        },
+        {
+          "en": "The singer will lead off the festival with a popular song.",
+          "zh": "这位歌手将演唱一首流行歌曲，拉开音乐节的序幕。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "被动语态的应用",
+      "definition": "用于强调动作的承受者，或动作的执行者不需要、不便指出的场景，在科普类说明文中使用广泛",
+      "structure": "be + 动词过去分词（+ by + 动作执行者）",
+      "usage": "常用于客观说明事物的原理、操作流程，避免主观表述，增强内容的客观性和专业性",
+      "examples": [
+        {
+          "en": "When it has been decided where we are going to drill, we put up at the surface an oil derrick.",
+          "zh": "当确定了钻探地点后，我们就在地面上搭起钻井架。"
+        },
+        {
+          "en": "This pressure must be under control, and we control it by means of the mud which we circulate down the drill pipe.",
+          "zh": "这种压力必须得到控制，我们通过沿钻杆向下循环的泥浆来控制它。"
+        },
+        {
+          "en": "All the samples will be analyzed in the laboratory next week.",
+          "zh": "所有样本下周都会在实验室进行分析。"
+        }
+      ]
+    },
+    {
+      "title": "定语从句的分隔结构",
+      "definition": "定语从句和所修饰的先行词之间被其他成分分隔，避免句子头重脚轻，常见于较长的复合句中",
+      "structure": "先行词 + 状语/其他修饰成分 + 关系代词/关系副词 + 定语从句",
+      "usage": "当先行词后的定语从句较长，或先行词后需要补充其他必要信息时，会使用分隔结构，识别时需先找准先行词",
+      "examples": [
+        {
+          "en": "It cuts a clean cylinder of rock, from which can be seen the strata the drill has been cutting through.",
+          "zh": "它切下一个光滑的岩石圆柱体，从中可以看到钻头钻过的岩层。"
+        },
+        {
+          "en": "We endeavour to avoid the old, romantic idea of a gusher, which wastes oil and gas.",
+          "zh": "我们努力避免那种旧式的、理想化的井喷现象，这种现象会浪费石油和天然气。"
+        },
+        {
+          "en": "A new teacher will come tomorrow who will teach you geography.",
+          "zh": "明天会来一位新老师，教你们地理。"
+        }
+      ]
+    },
+    {
+      "title": "原因状语从句",
+      "definition": "用于说明主句动作发生的原因，常由because, as, since等连词引导",
+      "structure": "主句 + because/as/since + 原因状语从句",
+      "usage": "because语气最强，用于回答why的提问，说明直接原因；as和since语气较弱，通常表示已知的、显而易见的原因",
+      "examples": [
+        {
+          "en": "It has to be tall because it is like a giant block and tackle and we have to lower into the ground and haul out of the ground great lengths of drill pipe.",
+          "zh": "它必须很高，因为它就像一个巨大的滑轮组，我们得把很长的钻杆放到地下，再从地下拉出来。"
+        },
+        {
+          "en": "Once we get down to the oil, it usually flows to the surface because great pressure either from gas or water, is pushing it.",
+          "zh": "一旦我们钻到石油，石油通常会涌向地表，因为来自天然气或水的巨大压力在推着它。"
+        },
+        {
+          "en": "As the weather is getting colder, we need to prepare more warm clothes for the elderly.",
+          "zh": "由于天气越来越冷，我们需要给老人准备更多保暖衣物。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "... has done more to ... than any other ...",
+      "original": {
+        "en": "The search for oil has done more to improve deep drilling than any other mining activity.",
+        "zh": "钻探石油对改进深钻技术的贡献，比其他任何采矿活动都大。"
+      },
+      "imitations": [
+        {
+          "en": "The development of mobile Internet has done more to change people's way of communication than any other technology in the past 20 years.",
+          "zh": "移动互联网的发展对改变人们沟通方式的贡献，比过去20年其他任何技术都大。"
+        },
+        {
+          "en": "Regular exercise has done more to improve his physical condition than any other health care method.",
+          "zh": "规律锻炼对改善他身体状况的作用，比其他任何保健方法都大。"
+        }
+      ]
+    },
+    {
+      "pattern": "Once ..., ...",
+      "original": {
+        "en": "Once we get down to the oil, it usually flows to the surface because great pressure either from gas or water, is pushing it.",
+        "zh": "一旦我们钻到石油，石油通常会涌向地表，因为来自天然气或水的巨大压力在推着它。"
+      },
+      "imitations": [
+        {
+          "en": "Once you have mastered the basic rules of the language, you will be able to communicate with local people smoothly.",
+          "zh": "一旦你掌握了这门语言的基本规则，就能顺畅地和当地人交流了。"
+        },
+        {
+          "en": "Once the project is approved, we will start the construction work as soon as possible.",
+          "zh": "一旦项目获得批准，我们就会尽快开工建设。"
+        }
+      ]
+    },
+    {
+      "pattern": "... has to be ... because ...",
+      "original": {
+        "en": "It has to be tall because it is like a giant block and tackle and we have to lower into the ground and haul out of the ground great lengths of drill pipe.",
+        "zh": "它必须很高，因为它就像一个巨大的滑轮组，我们得把很长的钻杆放到地下，再从地下拉出来。"
+      },
+      "imitations": [
+        {
+          "en": "The new library has to be designed with large open spaces because it needs to hold thousands of books and accommodate hundreds of readers at the same time.",
+          "zh": "新图书馆必须设计有大面积的开放空间，因为它需要存放数千册图书，同时容纳数百名读者。"
+        },
+        {
+          "en": "The hospital's emergency passage has to be kept clear all the time because ambulances need to pass through at any time.",
+          "zh": "医院的应急通道必须时刻保持畅通，因为救护车随时都需要通行。"
+        }
+      ]
+    }
+  ]
+}

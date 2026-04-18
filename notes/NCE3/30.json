@@ -1,0 +1,377 @@
+{
+  "book": "NCE3",
+  "lesson": "30",
+  "title": "Lesson 30",
+  "vocabulary": [
+    {
+      "word": "haunt",
+      "phonetic": "/hɔːnt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "（鬼魂）出没于（某地）",
+          "usage": "常用于被动语态，表示某地被认为有鬼魂出没"
+        },
+        {
+          "pos": "verb",
+          "meaning": "萦绕在心头，使困扰",
+          "usage": "表示不愉快的回忆或想法一直出现在脑海中"
+        }
+      ]
+    },
+    {
+      "word": "farmhand",
+      "phonetic": "/ˈfɑːmhænd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "农场工人，雇农",
+          "usage": "指受雇在农场从事体力劳动的人"
+        }
+      ]
+    },
+    {
+      "word": "labourer",
+      "phonetic": "/ˈleɪbərə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "体力劳动者，工人",
+          "usage": "尤指从事户外重体力工作的人，美式拼写为laborer"
+        }
+      ]
+    },
+    {
+      "word": "overnight",
+      "phonetic": "/ˌəʊvəˈnaɪt/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "在夜间，一夜之间",
+          "usage": "修饰动词，表示动作发生在夜间"
+        },
+        {
+          "pos": "adjective",
+          "meaning": "夜间的，只供一晚的",
+          "usage": "修饰名词，描述与夜间相关的事物"
+        }
+      ]
+    },
+    {
+      "word": "cowshed",
+      "phonetic": "/ˈkaʊʃed/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "牛棚，牛舍",
+          "usage": "指农场里饲养奶牛的建筑"
+        }
+      ]
+    },
+    {
+      "word": "conscientious",
+      "phonetic": "/ˌkɒnʃiˈenʃəs/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "认真的，尽责的，勤恳的",
+          "usage": "用于形容人做事认真负责，追求尽善尽美"
+        }
+      ]
+    },
+    {
+      "word": "suspect",
+      "phonetic": "/səˈspekt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "怀疑，猜疑",
+          "usage": "后可接that从句，指猜想某事可能存在或属实"
+        }
+      ]
+    },
+    {
+      "word": "astonish",
+      "phonetic": "/əˈstɒnɪʃ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "使惊讶，使吃惊",
+          "usage": "主语通常为事物，宾语为人，常用结构be astonished to do/that"
+        }
+      ]
+    },
+    {
+      "word": "funeral",
+      "phonetic": "/ˈfjuːnərəl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "葬礼，丧礼",
+          "usage": "指为死者举行的安葬仪式"
+        }
+      ]
+    },
+    {
+      "word": "reveal",
+      "phonetic": "/rɪˈviːl/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "揭露，透露，泄露",
+          "usage": "指将此前保密的信息公之于众，后可接名词或that从句"
+        }
+      ]
+    },
+    {
+      "word": "oblige",
+      "phonetic": "/əˈblaɪdʒ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "迫使，责成",
+          "usage": "常用被动结构be obliged to do sth，表示因法律、义务等不得不做某事"
+        }
+      ]
+    },
+    {
+      "word": "desert",
+      "phonetic": "/dɪˈzɜːt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "擅离（部队），开小差",
+          "usage": "指军人未经允许离开所属部队，是违法行为"
+        }
+      ]
+    },
+    {
+      "word": "regiment",
+      "phonetic": "/ˈredʒɪmənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "（军队的）团",
+          "usage": "指军队的一级编制单位"
+        }
+      ]
+    },
+    {
+      "word": "authority",
+      "phonetic": "/ɔːˈθɒrəti/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "当局，官方",
+          "usage": "表示此含义时常用复数形式the authorities"
+        }
+      ]
+    },
+    {
+      "word": "recluse",
+      "phonetic": "/rɪˈkluːs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "隐居者，隐士",
+          "usage": "指选择独自生活、避免与他人接触的人"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "give up one's job",
+      "usage": "表示辞职、放弃工作，可用于主动离职的场景",
+      "examples": [
+        {
+          "en": "He gave up his job in the city to move back to his hometown.",
+          "zh": "他辞去了城里的工作，搬回了家乡。"
+        }
+      ]
+    },
+    {
+      "phrase": "stay up all night",
+      "usage": "表示熬夜，一整晚不睡觉，强调夜间保持清醒的状态",
+      "examples": [
+        {
+          "en": "I had to stay up all night to finish the report before the deadline.",
+          "zh": "我不得不熬一整晚，在截止日期前完成报告。"
+        }
+      ]
+    },
+    {
+      "phrase": "claim to have done sth",
+      "usage": "声称曾经做过某事，to have done是不定式的完成式，表示动作发生在claim之前",
+      "examples": [
+        {
+          "en": "The man claimed to have seen a UFO flying over the park last week.",
+          "zh": "这名男子声称上周看到一个不明飞行物飞过公园上空。"
+        }
+      ]
+    },
+    {
+      "phrase": "in time",
+      "usage": "表示“最终，经过一段时间之后”，强调经过一段时间后某情况发生",
+      "examples": [
+        {
+          "en": "In time, everyone forgot about the argument and became friends again.",
+          "zh": "最终，所有人都忘记了那次争吵，又成了朋友。"
+        }
+      ]
+    },
+    {
+      "phrase": "none other than",
+      "usage": "表示“不是别人，正是……”，用于强调某人的身份出人意料",
+      "examples": [
+        {
+          "en": "The winner of the competition was none other than my little sister.",
+          "zh": "比赛的获胜者不是别人，正是我的小妹妹。"
+        }
+      ]
+    },
+    {
+      "phrase": "be supposed to have done sth",
+      "usage": "表示“被认为已经做了某事”，暗含该认知可能与事实不符的含义",
+      "examples": [
+        {
+          "en": "The ancient temple was supposed to have been destroyed in the war, but it still exists.",
+          "zh": "人们本以为这座古庙已经在战争中被毁了，但它依然存在。"
+        }
+      ]
+    },
+    {
+      "phrase": "in action",
+      "usage": "表示“在战斗中，在行动中”，此处指军事作战场景",
+      "examples": [
+        {
+          "en": "Many soldiers were reported missing in action after the battle.",
+          "zh": "战斗结束后，许多士兵被报失踪。"
+        }
+      ]
+    },
+    {
+      "phrase": "in hiding",
+      "usage": "表示“躲藏着，隐藏着”，是固定搭配，描述躲避他人的状态",
+      "examples": [
+        {
+          "en": "The witness remained in hiding until the criminal was arrested.",
+          "zh": "在罪犯被逮捕之前，证人一直躲着不露面。"
+        }
+      ]
+    },
+    {
+      "phrase": "unaware of",
+      "usage": "表示“不知道，没意识到”，可作状语或表语，后接名词或名词性从句",
+      "examples": [
+        {
+          "en": "He walked straight past his teacher, completely unaware of her presence.",
+          "zh": "他径直从老师身边走过，完全没意识到她在那里。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去完成时",
+      "definition": "表示过去某个时间或动作之前已经发生或完成的动作，即“过去的过去”",
+      "structure": "had + 动词过去分词",
+      "usage": "常用于描述在过去某个已知事件之前发生的背景事件，常和after, before, until等引导的时间状语连用",
+      "examples": [
+        {
+          "en": "Eric had been the eldest son of the family, very much older than his two brothers.",
+          "zh": "埃里克是家里的长子，比他的两个弟弟大很多。"
+        },
+        {
+          "en": "He had been obliged to join the army during the Second World War.",
+          "zh": "第二次世界大战期间，他被迫参军。"
+        }
+      ]
+    },
+    {
+      "title": "it作形式主语/形式宾语",
+      "definition": "当句子的真正主语或宾语是不定式、动名词或从句时，为了避免句子头重脚轻，用it作形式上的主语或宾语，真正的主语/宾语放在句尾",
+      "structure": "作形式主语：It + 谓语 + 名词/形容词 + 真正主语（不定式/that从句）；作形式宾语：主语 + 动词 + it + 宾补 + 真正宾语（不定式/that从句）",
+      "usage": "可让句子结构更平衡，符合英语表达习惯",
+      "examples": [
+        {
+          "en": "It became an accepted fact that the Cox brothers employed a conscientious ghost.",
+          "zh": "考克斯兄弟雇了一个勤恳的鬼魂，这成了人们公认的事实。"
+        },
+        {
+          "en": "His brothers found it impossible to keep the secret any longer.",
+          "zh": "他的弟弟们发现再也没法保守这个秘密了。"
+        }
+      ]
+    },
+    {
+      "title": "used to do 结构",
+      "definition": "表示过去经常性、习惯性的动作或存在的状态，且该动作或状态现在已经不再发生或存在",
+      "structure": "主语 + used to + 动词原形",
+      "usage": "用于今昔对比，强调过去的情况与现在不同",
+      "examples": [
+        {
+          "en": "He used to sleep during the day and work at night.",
+          "zh": "他过去常常白天睡觉，晚上干活。"
+        },
+        {
+          "en": "I used to swim in this lake when I was a child.",
+          "zh": "我小时候经常在这个湖里游泳。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Every time + 从句, 主句",
+      "original": {
+        "en": "Every time a worker gave up his job, he told the same story.",
+        "zh": "每次有工人辞工，都会讲同样的事。"
+      },
+      "imitations": [
+        {
+          "en": "Every time it rains, the old street becomes very muddy.",
+          "zh": "每次下雨，这条老街道就会变得非常泥泞。"
+        },
+        {
+          "en": "Every time I visit my grandmother, she prepares a lot of delicious food for me.",
+          "zh": "每次我去看望奶奶，她都会给我准备很多好吃的。"
+        }
+      ]
+    },
+    {
+      "pattern": "No one suspected that + 从句",
+      "original": {
+        "en": "No one suspected that there might be someone else on the farm who had never been seen.",
+        "zh": "没有人想到农场里可能还有一个从未露过面的人。"
+      },
+      "imitations": [
+        {
+          "en": "No one suspected that the quiet young man was actually a famous painter.",
+          "zh": "没有人想到那个安静的年轻人其实是一位著名画家。"
+        },
+        {
+          "en": "No one suspected that the small village hid such a beautiful secret garden.",
+          "zh": "没有人想到这个小村庄里藏着这么漂亮的秘密花园。"
+        }
+      ]
+    },
+    {
+      "pattern": "When + 时间状语从句, 主语 + think/find + it + 名词/形容词 + to do sth",
+      "original": {
+        "en": "When their father died they thought it their duty to keep Eric in hiding.",
+        "zh": "父亲去世后，他们认为有责任继续把埃里克藏起来。"
+      },
+      "imitations": [
+        {
+          "en": "When he moved to this city, he found it difficult to adapt to the fast-paced life.",
+          "zh": "搬到这个城市后，他发现很难适应这里快节奏的生活。"
+        },
+        {
+          "en": "When we participate in group activities, we all think it important to respect others' opinions.",
+          "zh": "我们参加集体活动时，都认为尊重他人的意见很重要。"
+        }
+      ]
+    }
+  ]
+}

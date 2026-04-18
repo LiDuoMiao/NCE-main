@@ -1,0 +1,288 @@
+{
+  "book": "NCE2",
+  "lesson": "05",
+  "title": "What does 'No wrong numbers' mean?",
+  "vocabulary": [
+    {
+      "word": "garage",
+      "phonetic": "/ˈɡærɑːʒ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "车库；汽车修理厂",
+          "usage": "指停放汽车或进行汽车修理的建筑物"
+        }
+      ]
+    },
+    {
+      "word": "pigeon",
+      "phonetic": "/ˈpɪdʒɪn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "鸽子",
+          "usage": "一种常见的鸟类，文中用于传递信息"
+        }
+      ]
+    },
+    {
+      "word": "message",
+      "phonetic": "/ˈmesɪdʒ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "消息；口信",
+          "usage": "指传递的信息或通讯内容"
+        }
+      ]
+    },
+    {
+      "word": "distance",
+      "phonetic": "/ˈdɪstəns/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "距离",
+          "usage": "指两点之间的空间距离"
+        }
+      ]
+    },
+    {
+      "word": "cover",
+      "phonetic": "/ˈkʌvər/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "覆盖；穿越；行过（距离）",
+          "usage": "表示走过或完成某段距离"
+        }
+      ]
+    },
+    {
+      "word": "urgent",
+      "phonetic": "/ˈɜːrdʒənt/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "紧急的；急迫的",
+          "usage": "形容需要立即处理的事情"
+        }
+      ]
+    },
+    {
+      "word": "request",
+      "phonetic": "/rɪˈkwest/",
+      "meanings": [
+        {
+          "pos": "noun/verb",
+          "meaning": "请求；要求",
+          "usage": "正式地请求某事物"
+        }
+      ]
+    },
+    {
+      "word": "spare",
+      "phonetic": "/sper/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "备用的；多余的",
+          "usage": "用于替换或备用的物品，如spare parts（备件）"
+        }
+      ]
+    },
+    {
+      "word": "private",
+      "phonetic": "/ˈpraɪvɪt/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "私人的；私有的",
+          "usage": "属于个人而非公众的"
+        }
+      ]
+    },
+    {
+      "word": "service",
+      "phonetic": "/ˈsɜːrvɪs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "服务；公共设施",
+          "usage": "指提供的帮助或系统设施"
+        }
+      ]
+    },
+    {
+      "word": "carry",
+      "phonetic": "/ˈkæri/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "携带；运送",
+          "usage": "指将某物从一处带到另一处"
+        }
+      ]
+    },
+    {
+      "word": "begin",
+      "phonetic": "/bɪˈɡɪn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "开始",
+          "usage": "表示启动或着手做某事"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "up to now",
+      "usage": "迄今为止；到现在为止，常与现在完成时连用",
+      "examples": [
+        {
+          "en": "Up to now, he has sent many messages by pigeon.",
+          "zh": "到目前为止，他已经通过鸽子发送了许多信息。"
+        }
+      ]
+    },
+    {
+      "phrase": "a great many",
+      "usage": "许多；大量，后接可数名词复数",
+      "examples": [
+        {
+          "en": "Mr. Scott has received a great many requests.",
+          "zh": "斯科特先生收到了许多请求。"
+        }
+      ]
+    },
+    {
+      "phrase": "carry a message",
+      "usage": "传递消息；送信",
+      "examples": [
+        {
+          "en": "Yesterday, a pigeon carried the first message from Pinhurst to Silbury.",
+          "zh": "昨天，一只鸽子把第一条消息从平赫斯特送到锡尔伯里。"
+        }
+      ]
+    },
+    {
+      "phrase": "in this way",
+      "usage": "用这种方式；通过这种方法",
+      "examples": [
+        {
+          "en": "In this way, he has begun his own private telephone service.",
+          "zh": "就这样，他开始了自己的私人'电话'服务。"
+        }
+      ]
+    },
+    {
+      "phrase": "from one...to the other",
+      "usage": "从一个...到另一个",
+      "examples": [
+        {
+          "en": "He sends messages from one garage to the other.",
+          "zh": "他从一个车库向另一个车库发送信息。"
+        }
+      ]
+    },
+    {
+      "phrase": "cannot get",
+      "usage": "无法获得；不能得到",
+      "examples": [
+        {
+          "en": "Mr. Scott cannot get a telephone for his new garage.",
+          "zh": "斯科特先生无法为他的新车库安装电话。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "现在完成时 (Present Perfect Tense)",
+      "definition": "表示过去发生的动作或存在的状态，对现在造成影响或结果。常与up to now, already, yet等时间状语连用。",
+      "structure": "主语 + have/has + 过去分词",
+      "usage": "用于描述过去发生并持续到现在的情况，或表示经验、成就等",
+      "examples": [
+        {
+          "en": "Mr. Scott has just bought another garage.",
+          "zh": "斯科特先生刚买了另一个车库。"
+        },
+        {
+          "en": "He has sent a great many requests.",
+          "zh": "他已经发送了许多请求。"
+        },
+        {
+          "en": "He has begun his own private telephone service.",
+          "zh": "他已经开始了私人'电话'服务。"
+        }
+      ]
+    },
+    {
+      "title": "has just的用法",
+      "definition": "has just表示'刚刚'，强调动作刚结束不久，用于现在完成时",
+      "structure": "主语 + has just + 过去分词",
+      "usage": "表示最近的过去发生的动作",
+      "examples": [
+        {
+          "en": "He has just bought twelve pigeons.",
+          "zh": "他刚买了十二只鸽子。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "主语 + has/have + just + 过去分词",
+      "original": {
+        "en": "Mr. Scott has just bought another garage.",
+        "zh": "斯科特先生刚买了另一个车库。"
+      },
+      "imitations": [
+        {
+          "en": "She has just finished her homework.",
+          "zh": "她刚完成作业。"
+        },
+        {
+          "en": "They have just arrived at the station.",
+          "zh": "他们刚到达车站。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + has/have + 动词过去分词 + 时间段",
+      "original": {
+        "en": "The bird covered the distance in three minutes.",
+        "zh": "这只鸟用三分钟飞完了这段距离。"
+      },
+      "imitations": [
+        {
+          "en": "He finished the work in two hours.",
+          "zh": "他用两小时完成了工作。"
+        },
+        {
+          "en": "She learned to drive in three months.",
+          "zh": "她用三个月学会了开车。"
+        }
+      ]
+    },
+    {
+      "pattern": "Up to now, 主语 + has/have + 过去分词",
+      "original": {
+        "en": "Up to now, Mr. Scott has sent a great many requests.",
+        "zh": "到目前为止，斯科特先生已经发送了许多请求。"
+      },
+      "imitations": [
+        {
+          "en": "Up to now, she has visited many countries.",
+          "zh": "到目前为止，她已经访问了许多国家。"
+        },
+        {
+          "en": "Up to now, we have learned 500 English words.",
+          "zh": "到目前为止，我们已经学了500个英语单词。"
+        }
+      ]
+    }
+  ]
+}

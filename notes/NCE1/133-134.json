@@ -1,0 +1,394 @@
+{
+  "book": "NCE1",
+  "lesson": "133-134",
+  "title": "Lesson 133",
+  "vocabulary": [
+    {
+      "word": "sensational",
+      "phonetic": "/senˈseɪʃənl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "耸人听闻的，轰动的",
+          "usage": "用于形容引起强烈关注或轰动效应的新闻"
+        }
+      ]
+    },
+    {
+      "word": "retire",
+      "phonetic": "/rɪˈtaɪə/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "退休；退役",
+          "usage": "指停止工作，常用于职业人士退休"
+        }
+      ]
+    },
+    {
+      "word": "reporter",
+      "phonetic": "/rɪˈpɔːtə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "记者",
+          "usage": "指新聞現场采訪人員"
+        }
+      ]
+    },
+    {
+      "word": "mink",
+      "phonetic": "/mɪŋk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "貂；貂皮",
+          "usage": "常用作服裝材料，如mink coat（貂皮大衣）"
+        }
+      ]
+    },
+    {
+      "word": "arrived",
+      "phonetic": "/əˈraɪvd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "到达",
+          "usage": "arrive的过去式，后接地点用at或in"
+        }
+      ]
+    },
+    {
+      "word": "wonder",
+      "phonetic": "/ˈwʌndə/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "想知道；感到疑惑",
+          "usage": "用于表示好奇或想知道某事"
+        }
+      ]
+    },
+    {
+      "word": "tired",
+      "phonetic": "/ˈtaɪəd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "累的；疲倦的",
+          "usage": "形容身体或精神上的疲劳"
+        }
+      ]
+    },
+    {
+      "word": "another",
+      "phonetic": "/əˈnʌðə/",
+      "meanings": [
+        {
+          "pos": "determiner",
+          "meaning": "另一个；再一个",
+          "usage": "用于指另一个同类的事物"
+        }
+      ]
+    },
+    {
+      "word": "newspaper",
+      "phonetic": "/ˈnjuːzˌpeɪpə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "报纸",
+          "usage": "指印刷或數位形式的新闻出版物"
+        }
+      ]
+    },
+    {
+      "word": "film",
+      "phonetic": "/fɪlm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "电影",
+          "usage": "指電影作品，也可作動詞表示拍摄"
+        }
+      ]
+    },
+    {
+      "word": "airport",
+      "phonetic": "/ˈeəpɔːt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "机场",
+          "usage": "指飞机起降的设施"
+        }
+      ]
+    },
+    {
+      "word": "wearing",
+      "phonetic": "/ˈweərɪŋ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "穿着",
+          "usage": "wear的现在分词形式"
+        }
+      ]
+    },
+    {
+      "word": "By our reporter",
+      "phonetic": "/baɪ ˈaʊə rɪˈpɔːtə/",
+      "meanings": [
+        {
+          "pos": "phrase",
+          "meaning": "本報記者",
+          "usage": "新闻报道的署名用语"
+        }
+      ]
+    },
+    {
+      "word": "long time",
+      "phonetic": "/lɒŋ taɪm/",
+      "meanings": [
+        {
+          "pos": "phrase",
+          "meaning": "很长时间",
+          "usage": "表示一段较长的時间"
+        }
+      ]
+    },
+    {
+      "word": "very",
+      "phonetic": "/ˈveri/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "非常；很",
+          "usage": "用于修饰形容词或副词，表示程度"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Sensational news!",
+      "usage": "用于表达令人震惊或轰动的消息",
+      "examples": [
+        {
+          "en": "Sensational news! The famous actress is retiring!",
+          "zh": "爆炸性新闻！这位著名女演员要退休了！"
+        }
+      ]
+    },
+    {
+      "phrase": "Listen to this!",
+      "usage": "用于引起他人注意，让对方听某事",
+      "examples": [
+        {
+          "en": "Listen to this! They are getting married!",
+          "zh": "听这个！他们要结婚了！"
+        }
+      ]
+    },
+    {
+      "phrase": "make another film",
+      "usage": "指再拍另一部电影",
+      "examples": [
+        {
+          "en": "Are you going to make another film?",
+          "zh": "你打算再拍一部电影吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "go to retire / retire",
+      "usage": "指结束职业生涯，退休",
+      "examples": [
+        {
+          "en": "I'm going to retire next year.",
+          "zh": "我打算明年退休。"
+        }
+      ]
+    },
+    {
+      "phrase": "feel very tired",
+      "usage": "表示感觉很累、很疲惫",
+      "examples": [
+        {
+          "en": "I feel very tired after work.",
+          "zh": "下班后我感觉很累。"
+        }
+      ]
+    },
+    {
+      "phrase": "don't want to",
+      "usage": "表示不愿意或不想做某事",
+      "examples": [
+        {
+          "en": "I don't want to make another film for a long time.",
+          "zh": "我很长一段时间都不想再拍电影了。"
+        }
+      ]
+    },
+    {
+      "phrase": "buy a newspaper",
+      "usage": "指购买报纸",
+      "examples": [
+        {
+          "en": "Let's buy a newspaper.",
+          "zh": "我们买份报纸吧。"
+        }
+      ]
+    },
+    {
+      "phrase": "I wonder why",
+      "usage": "用于表达好奇或疑惑",
+      "examples": [
+        {
+          "en": "I wonder why she decided to retire.",
+          "zh": "我想知道她为什么决定退休。"
+        }
+      ]
+    },
+    {
+      "phrase": "arrive at + 地点",
+      "usage": "表示到达某地（较小的地方）",
+      "examples": [
+        {
+          "en": "Karen Marsh arrived at London Airport.",
+          "zh": "凯伦·马什到达了伦敦机场。"
+        }
+      ]
+    },
+    {
+      "phrase": "just made",
+      "usage": "表示刚完成某事",
+      "examples": [
+        {
+          "en": "She told me she had just made a new film.",
+          "zh": "她告诉我她刚拍了一部新电影。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去完成时 (Past Perfect Tense)",
+      "definition": "过去完成时表示在过去某一时刻之前已经完成的動作或狀態，由'had + 过去分词'构成。",
+      "structure": "Subject + had + 过去分词 + (before/by + past time)",
+      "usage": "在叙述過去事件時，若要表達'已經發生'的動作，使用過去完成時。常與一般過去時連用，過去完成時表示更早發生的動作。",
+      "examples": [
+        {
+          "en": "She told me she had just made a new film.",
+          "zh": "她告诉我她刚拍了一部新电影。"
+        },
+        {
+          "en": "She said she was not going to make another.",
+          "zh": "她说她不打算再拍另一部了。"
+        }
+      ]
+    },
+    {
+      "title": "间接引语 - 陈述句 (Reported Speech - Statements)",
+      "definition": "间接引语用于转述他人的话。當轉述別人的陳述時，若主句動詞為過去式（如said, told），間接引語中的時態通常需要後退一步。",
+      "structure": "主句动词 + (that) + 主语 + 动词过去式/过去完成时",
+      "usage": "在新闻报道中常用间接引语转述受访者的讲话。直接引语转為間接引语時：am/is → was, are → were, have/has → had, will → would",
+      "examples": [
+        {
+          "en": "Direct: 'I have just made a new film.' → Reported: She told me she had just made a new film.",
+          "zh": "直接：'我刚拍了一部新电影。' → 间接：她告诉我她刚拍了一部新电影。"
+        },
+        {
+          "en": "Direct: 'I am not going to make another.' → Reported: She said she was not going to make another.",
+          "zh": "直接：'我不打算再拍另一部了。' → 间接：她说不打算再拍另一部了。"
+        }
+      ]
+    },
+    {
+      "title": "一般将来时 (be going to)",
+      "definition": "'be going to'结构表示计划、打算或根据现有证据推测即将发生的事情。",
+      "structure": "Subject + am/is/are + going to + 动词原形",
+      "usage": "在口语中常用be going to表示明确的计划或意图。疑問句中將be動詞提前。",
+      "examples": [
+        {
+          "en": "Are you going to make another?",
+          "zh": "你打算再拍一部电影吗？"
+        },
+        {
+          "en": "I'm going to retire.",
+          "zh": "我打算退休。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Are you going to + 动词原形?",
+      "original": {
+        "en": "Are you going to make another?",
+        "zh": "你打算再拍一部吗？"
+      },
+      "imitations": [
+        {
+          "en": "Are you going to travel abroad?",
+          "zh": "你打算出国旅行吗？"
+        },
+        {
+          "en": "Are you going to buy a new car?",
+          "zh": "你打算买一辆新车吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "I'm going to + 动词原形",
+      "original": {
+        "en": "I'm going to retire.",
+        "zh": "我打算退休。"
+      },
+      "imitations": [
+        {
+          "en": "I'm going to study English.",
+          "zh": "我打算学英语。"
+        },
+        {
+          "en": "I'm going to visit my grandmother.",
+          "zh": "我打算去看望我的祖母。"
+        }
+      ]
+    },
+    {
+      "pattern": "I don't want to + 动词原形 + for a long time",
+      "original": {
+        "en": "I don't want to make another film for a long time.",
+        "zh": "我很长一段时间都不想再拍电影了。"
+      },
+      "imitations": [
+        {
+          "en": "I don't want to work overtime for a long time.",
+          "zh": "我很长一段时间都不想加班了。"
+        },
+        {
+          "en": "I don't want to travel for a long time.",
+          "zh": "我很长一段时间都不想旅行了。"
+        }
+      ]
+    },
+    {
+      "pattern": "I feel (very) + 形容词",
+      "original": {
+        "en": "I feel very tired.",
+        "zh": "我感觉很累。"
+      },
+      "imitations": [
+        {
+          "en": "I feel very happy.",
+          "zh": "我感觉很开心。"
+        },
+        {
+          "en": "I feel a little nervous.",
+          "zh": "我感觉有点紧张。"
+        }
+      ]
+    }
+  ]
+}

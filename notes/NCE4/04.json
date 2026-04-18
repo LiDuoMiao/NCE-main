@@ -1,0 +1,324 @@
+{
+  "book": "NCE4",
+  "lesson": "04",
+  "title": "Lesson 4",
+  "vocabulary": [
+    {
+      "word": "detect",
+      "phonetic": "/dɪˈtekt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "察觉；发现；探测",
+          "usage": "指发现不易被注意到的事物、现象或问题，可接名词或从句作宾语"
+        }
+      ]
+    },
+    {
+      "word": "solid",
+      "phonetic": "/ˈsɒlɪd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "固体的；实心的；坚固的",
+          "usage": "可修饰物体的形态、质地，也可表示“可靠的”"
+        }
+      ]
+    },
+    {
+      "word": "perceive",
+      "phonetic": "/pəˈsiːv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "感知；察觉；理解",
+          "usage": "强调通过感官或直觉意识到事物，可接名词、that从句或wh-从句"
+        }
+      ]
+    },
+    {
+      "word": "safe",
+      "phonetic": "/seɪf/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "保险箱；保险柜",
+          "usage": "指用于存放贵重物品的防盗容器，作形容词时意为“安全的”"
+        }
+      ]
+    },
+    {
+      "word": "bundle",
+      "phonetic": "/ˈbʌndl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "捆；束；包",
+          "usage": "常与of搭配，a bundle of表示“一捆/一包某物”"
+        }
+      ]
+    },
+    {
+      "word": "talent",
+      "phonetic": "/ˈtælənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "天赋；才能；天才",
+          "usage": "可指天生具备的某种能力，have a talent for表示“有……的天赋”"
+        }
+      ]
+    },
+    {
+      "word": "institute",
+      "phonetic": "/ˈɪnstɪtjuːt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "研究所；学院；机构",
+          "usage": "多指教育、科研等专业机构"
+        }
+      ]
+    },
+    {
+      "word": "commission",
+      "phonetic": "/kəˈmɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "委员会；佣金",
+          "usage": "此处指官方成立的专门委员会，作“佣金”讲时不可数"
+        }
+      ]
+    },
+    {
+      "word": "opaque",
+      "phonetic": "/əʊˈpeɪk/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "不透明的；难懂的",
+          "usage": "可修饰物体，也可指语言、含义晦涩难理解"
+        }
+      ]
+    },
+    {
+      "word": "elbow",
+      "phonetic": "/ˈelbəʊ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "肘；肘部",
+          "usage": "指手臂关节处，也可作动词表示“用肘挤”"
+        }
+      ]
+    },
+    {
+      "word": "stocking",
+      "phonetic": "/ˈstɒkɪŋ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "长筒袜",
+          "usage": "通常指女士穿的长筒袜，常用复数形式"
+        }
+      ]
+    },
+    {
+      "word": "slipper",
+      "phonetic": "/ˈslɪpə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "拖鞋",
+          "usage": "通常指室内穿的拖鞋，常用复数形式"
+        }
+      ]
+    },
+    {
+      "word": "outline",
+      "phonetic": "/ˈaʊtlaɪn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "轮廓；大纲；概要",
+          "usage": "可指物体的外部形状，也可指文章、计划的要点"
+        }
+      ]
+    },
+    {
+      "word": "sensitivity",
+      "phonetic": "/ˌsensəˈtɪvəti/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "敏感性；灵敏度",
+          "usage": "是形容词sensitive的名词形式，可表示感官、仪器的灵敏度"
+        }
+      ]
+    },
+    {
+      "word": "blindfold",
+      "phonetic": "/ˈblaɪndfəʊld/",
+      "meanings": [
+        {
+          "pos": "adjective/adverb",
+          "meaning": "被蒙住眼睛的/地",
+          "usage": "作名词时指蒙眼布，作动词时表示“蒙住……的眼睛”"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "second sight",
+      "usage": "固定表达，指预见未来的能力，或文中提到的“第二视觉”（不用眼睛看就能感知事物的能力）",
+      "examples": [
+        {
+          "en": "Some people believe that certain psychics have second sight.",
+          "zh": "一些人相信某些灵媒有预知能力。"
+        }
+      ]
+    },
+    {
+      "phrase": "concern sb/sth",
+      "usage": "表示“与……相关；涉及”，常用于介绍某个事件、情况的对象",
+      "examples": [
+        {
+          "en": "The report concerns the problem of air pollution in cities.",
+          "zh": "这份报告涉及城市空气污染的问题。"
+        }
+      ]
+    },
+    {
+      "phrase": "happen to do sth",
+      "usage": "表示“碰巧做某事；偶然发生某事”，强调偶然性",
+      "examples": [
+        {
+          "en": "I happened to meet my former teacher in the supermarket yesterday.",
+          "zh": "我昨天在超市碰巧遇到了我以前的老师。"
+        }
+      ]
+    },
+    {
+      "phrase": "do up",
+      "usage": "此处表示“捆；包；整理”，还可表示“扣上；修缮”",
+      "examples": [
+        {
+          "en": "Please do up these books and send them to the rural school.",
+          "zh": "请把这些书捆好，寄给那所乡村学校。"
+        }
+      ]
+    },
+    {
+      "phrase": "bring sth to the notice of sb",
+      "usage": "表示“使某人注意到某事”，是被动语态常用结构",
+      "examples": [
+        {
+          "en": "The student's excellent performance brought him to the notice of the professor.",
+          "zh": "这个学生的出色表现让教授注意到了他。"
+        }
+      ]
+    },
+    {
+      "phrase": "a series of",
+      "usage": "表示“一系列；一连串”，后接可数名词复数",
+      "examples": [
+        {
+          "en": "The school will hold a series of activities to celebrate its 100th anniversary.",
+          "zh": "学校将举办一系列活动来庆祝建校100周年。"
+        }
+      ]
+    },
+    {
+      "phrase": "make out",
+      "usage": "此处表示“辨认出；看出”，还可表示“理解；填写”",
+      "examples": [
+        {
+          "en": "It was so dark that I could hardly make out the road sign ahead.",
+          "zh": "天太黑了，我几乎看不清前面的路标。"
+        }
+      ]
+    },
+    {
+      "phrase": "the moment (that)",
+      "usage": "引导时间状语从句，表示“一……就……”，相当于as soon as",
+      "examples": [
+        {
+          "en": "The moment I got home, it began to rain heavily.",
+          "zh": "我一到家，就开始下大雨了。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "定语从句（定语后置分隔）",
+      "definition": "定语从句通常紧跟在先行词之后，但当先行词的定语较短时，为了避免句子头重脚轻，会将定语从句与先行词分隔开",
+      "structure": "名词 + 介词短语/其他短定语 + 定语从句",
+      "usage": "用于修饰前面的名词，解决长定语导致的句子结构失衡问题，翻译时需先判断先行词，再将定语含义补充到先行词前",
+      "examples": [
+        {
+          "en": "Several cases have been reported in Russia recently of people who can read and detect colours with their fingers.",
+          "zh": "最近俄罗斯报道了几起人们能用手指阅读和辨认颜色的案例。"
+        },
+        {
+          "en": "I bought a picture yesterday which was painted by a famous artist.",
+          "zh": "我昨天买了一幅由著名艺术家绘制的画。"
+        }
+      ]
+    },
+    {
+      "title": "被动语态",
+      "definition": "表示主语是动作的承受者，强调动作的承受者或者不需要指出动作的执行者",
+      "structure": "be + 动词过去分词 + （by + 动作执行者）",
+      "usage": "常用于新闻、科普等正式文体中，突出客观事实，避免主观语气",
+      "examples": [
+        {
+          "en": "Vera's curious talent was brought to the notice of a scientific research institute.",
+          "zh": "薇拉奇特的天赋引起了一家科学研究所的注意。"
+        },
+        {
+          "en": "The new library will be completed next month.",
+          "zh": "新图书馆将于下个月完工。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "One case concerns + 名词/名词短语, who/which + 定语从句",
+      "original": {
+        "en": "One case concerns an 11-year-old schoolgirl Vera Petrova, who has normal vision but who can also perceive things with different parts of her skin, and through solid walls.",
+        "zh": "其中一个案例涉及一名11岁的女学生薇拉·佩特洛娃，她视力正常，但也能用身体不同部位的皮肤感知事物，并且能透过实心墙看东西。"
+      },
+      "imitations": [
+        {
+          "en": "One case concerns a 7-year-old boy, who has a poor memory but can remember all the details of the paintings he has seen once.",
+          "zh": "其中一个案例涉及一名7岁的男孩，他记忆力很差，但能记住他只见过一次的画作的所有细节。"
+        },
+        {
+          "en": "One case concerns a small coastal village, which has only 300 residents but attracts thousands of tourists every year.",
+          "zh": "其中一个案例涉及一个沿海小村庄，它只有300名居民，但每年吸引数千名游客。"
+        }
+      ]
+    },
+    {
+      "pattern": "It was also found that + 主语从句, although + 让步状语从句",
+      "original": {
+        "en": "It was also found that although she could perceive things with her fingers this ability ceased the moment her hands were wet.",
+        "zh": "人们还发现，虽然她能用手指感知事物，但她的手一湿，这种能力就消失了。"
+      },
+      "imitations": [
+        {
+          "en": "It was also found that although the new drug can relieve pain effectively, it has obvious side effects on the elderly.",
+          "zh": "人们还发现，虽然这种新药能有效缓解疼痛，但它对老年人有明显的副作用。"
+        },
+        {
+          "en": "It was found that although the device is very convenient to carry, its battery life is less than 5 hours.",
+          "zh": "人们发现，虽然这个设备携带起来很方便，但它的续航时间不到5小时。"
+        }
+      ]
+    }
+  ]
+}

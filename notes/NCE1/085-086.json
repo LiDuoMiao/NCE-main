@@ -1,0 +1,395 @@
+{
+  "book": "NCE1",
+  "lesson": "085-086",
+  "title": "Lesson 85",
+  "vocabulary": [
+    {
+      "word": "cinema",
+      "phonetic": "/ˈsɪnəmə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "电影院",
+          "usage": "指放映电影的场所，英式英语常用，美语多用movie theater"
+        }
+      ]
+    },
+    {
+      "word": "spring",
+      "phonetic": "/sprɪŋ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "春天；春季",
+          "usage": "一年四季之一，通常指3月到5月"
+        }
+      ]
+    },
+    {
+      "word": "beautiful",
+      "phonetic": "/ˈbjuːtɪfl/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "美丽的；漂亮的",
+          "usage": "形容景色、人物或事物外观优美"
+        }
+      ]
+    },
+    {
+      "word": "city",
+      "phonetic": "/ˈsɪti/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "城市",
+          "usage": "指大型城镇，与town相比规模更大"
+        }
+      ]
+    },
+    {
+      "word": "awful",
+      "phonetic": "/ˈɔːfl/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "糟糕的；可怕的",
+          "usage": "形容天气、情况或体验非常不好"
+        }
+      ]
+    },
+    {
+      "word": "rain",
+      "phonetic": "/reɪn/",
+      "meanings": [
+        {
+          "pos": "verb/noun",
+          "meaning": "下雨；雨",
+          "usage": "作动词时表示下雨，作名词时指雨水"
+        }
+      ]
+    },
+    {
+      "word": "visit",
+      "phonetic": "/ˈvɪzɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "参观；访问；拜访",
+          "usage": "指去某个地方或拜访某人"
+        }
+      ]
+    },
+    {
+      "word": "film",
+      "phonetic": "/fɪlm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "电影",
+          "usage": "英式英语常用，美语也用movie"
+        }
+      ]
+    },
+    {
+      "word": "television",
+      "phonetic": "/ˈtelɪvɪʒn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "电视；电视机",
+          "usage": "可指电视节目或设备"
+        }
+      ]
+    },
+    {
+      "word": "already",
+      "phonetic": "/ɔːlˈrɛdi/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "已经",
+          "usage": "用于肯定句中，表示动作已经发生"
+        }
+      ]
+    },
+    {
+      "word": "never",
+      "phonetic": "/ˈnɛvə/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "从未；从来不",
+          "usage": "表示否定，意思是at no time in the past or present"
+        }
+      ]
+    },
+    {
+      "word": "weather",
+      "phonetic": "/ˈwɛðə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "天气",
+          "usage": "指某地区的天气状况，注意与climate（气候）区别"
+        }
+      ]
+    },
+    {
+      "word": "time",
+      "phonetic": "/taɪm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "时间；次；时候",
+          "usage": "all the time表示一直、总是"
+        }
+      ]
+    },
+    {
+      "word": "Paris",
+      "phonetic": "/ˈpærɪs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "巴黎（法国首都）",
+          "usage": "专有名词，法国最大的城市和首都"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Have you just been to...",
+      "usage": "用来询问对方是否刚去过某个地方",
+      "examples": [
+        {
+          "en": "Have you just been to the cinema?",
+          "zh": "你刚去过电影院吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "What's on?",
+      "usage": "用来询问正在上映什么电影或上演什么节目",
+      "examples": [
+        {
+          "en": "What's on at the cinema tonight?",
+          "zh": "今晚电影院上映什么？"
+        }
+      ]
+    },
+    {
+      "phrase": "I've already seen it",
+      "usage": "表示已经完成某事，already常与现在完成时连用",
+      "examples": [
+        {
+          "en": "I've already finished my homework.",
+          "zh": "我已经完成作业了。"
+        }
+      ]
+    },
+    {
+      "phrase": "in the spring",
+      "usage": "表示在春天，介词用in",
+      "examples": [
+        {
+          "en": "Flowers bloom in the spring.",
+          "zh": "春天花开了。"
+        }
+      ]
+    },
+    {
+      "phrase": "all the time",
+      "usage": "表示一直、始终、总是",
+      "examples": [
+        {
+          "en": "It rained all the time during our trip.",
+          "zh": "我们旅行期间一直下雨。"
+        }
+      ]
+    },
+    {
+      "phrase": "Just like...",
+      "usage": "表示...也一样，用于比较两者相同",
+      "examples": [
+        {
+          "en": "The weather here is terrible, just like London.",
+          "zh": "这里天气很差，就像伦敦一样。"
+        }
+      ]
+    },
+    {
+      "phrase": "Have you ever been there?",
+      "usage": "用来询问对方是否曾经去过某地",
+      "examples": [
+        {
+          "en": "Have you ever been to Paris?",
+          "zh": "你去过巴黎吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "in April",
+      "usage": "表示在四月，月份前用介词in",
+      "examples": [
+        {
+          "en": "My birthday is in April.",
+          "zh": "我的生日在四月。"
+        }
+      ]
+    },
+    {
+      "phrase": "an old film",
+      "usage": "表示一部老电影，old描述film的特征",
+      "examples": [
+        {
+          "en": "This is an old film from the 1960s.",
+          "zh": "这是一部六十年代的老电影。"
+        }
+      ]
+    },
+    {
+      "phrase": "be there",
+      "usage": "表示在那个地方",
+      "examples": [
+        {
+          "en": "I was there last summer.",
+          "zh": "去年夏天我在那里。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "现在完成时 (Present Perfect Tense)",
+      "definition": "现在完成时表示过去发生的动作或状态与现在有联系，或强调动作的结果。它由have/has + 过去分词构成。",
+      "structure": "主语 + have/has + 过去分词",
+      "usage": "用于描述过去发生并持续到现在的情况，或表示过去的动作对现在的影响。本课中Have you just been to...?使用just表示刚刚发生。",
+      "examples": [
+        {
+          "en": "Have you just been to the cinema?",
+          "zh": "你刚去过电影院吗？"
+        },
+        {
+          "en": "Yes, I have.",
+          "zh": "是的，我去过了。"
+        },
+        {
+          "en": "I've already seen it.",
+          "zh": "我已经看过了。"
+        }
+      ]
+    },
+    {
+      "title": "现在完成时与一般过去时的区别",
+      "definition": "现在完成时强调与现在的联系，不明确指出动作发生的时间；一般过去时明确指出过去的时间，适用于具体的时间状语。",
+      "structure": "现在完成时: have/has + 过去分词；一般过去时: 主语 + 过去式",
+      "usage": "当有时间状语明确指出过去时间时，用一般过去时；当不强调时间或与现在有关联时，用现在完成时。本课中I was there in April用一般过去时，因为有具体时间April。",
+      "examples": [
+        {
+          "en": "Have you ever been to Paris? (不强调具体时间)",
+          "zh": "你去过巴黎吗？"
+        },
+        {
+          "en": "I was there in April. (有具体时间April)",
+          "zh": "四月我在那里。"
+        },
+        {
+          "en": "I saw it on television last year. (有具体时间last year)",
+          "zh": "我去年在电视上看的。"
+        }
+      ]
+    },
+    {
+      "title": "Have you ever...? 句型",
+      "definition": "Have you ever...? 用来询问某人是否曾经有过某种经历。ever意为“在任何时候；曾经”。",
+      "structure": "Have/Has + 主语 + ever + 过去分词?",
+      "usage": "用于询问经历，答案可用Yes, I have. / No, I've never...等回答",
+      "examples": [
+        {
+          "en": "Have you ever been to Paris?",
+          "zh": "你去过巴黎吗？"
+        },
+        {
+          "en": "Yes, I have.",
+          "zh": "是的，我去过。"
+        },
+        {
+          "en": "No, I've never been there.",
+          "zh": "不，我从未去过。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Have you just been to + 地点?",
+      "original": {
+        "en": "Have you just been to the cinema?",
+        "zh": "你刚去过电影院吗？"
+      },
+      "imitations": [
+        {
+          "en": "Have you just been to the shop?",
+          "zh": "你刚去过商店吗？"
+        },
+        {
+          "en": "Have you just been to the park?",
+          "zh": "你刚去过公园吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "I've already + 过去分词",
+      "original": {
+        "en": "I've already seen it.",
+        "zh": "我已经看过了。"
+      },
+      "imitations": [
+        {
+          "en": "I've already finished my work.",
+          "zh": "我已经完成工作了。"
+        },
+        {
+          "en": "I've already had breakfast.",
+          "zh": "我已经吃过早餐了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Have you ever been to + 地点?",
+      "original": {
+        "en": "Have you ever been to Paris?",
+        "zh": "你去过巴黎吗？"
+      },
+      "imitations": [
+        {
+          "en": "Have you ever been to London?",
+          "zh": "你去过伦敦吗？"
+        },
+        {
+          "en": "Have you ever been to Tokyo?",
+          "zh": "你去过东京吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "It rained all the time",
+      "original": {
+        "en": "It rained all the time.",
+        "zh": "一直下雨。"
+      },
+      "imitations": [
+        {
+          "en": "It snowed all the time.",
+          "zh": "一直在下雪。"
+        },
+        {
+          "en": "It was hot all the time.",
+          "zh": "一直很热。"
+        }
+      ]
+    }
+  ]
+}

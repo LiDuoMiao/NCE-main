@@ -1,0 +1,376 @@
+{
+  "book": "NCE2",
+  "lesson": "63",
+  "title": "Why did Jenny want to leave the wedding reception?",
+  "vocabulary": [
+    {
+      "word": "reception",
+      "phonetic": "/rɪˈsepʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "婚宴；招待会",
+          "usage": "指正式场合的宴会或聚会"
+        }
+      ]
+    },
+    {
+      "word": "admire",
+      "phonetic": "/ədˈmaɪər/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "钦佩；欣赏",
+          "usage": "表达对某人的尊敬和赞赏"
+        }
+      ]
+    },
+    {
+      "word": "humour",
+      "phonetic": "/ˈhjuːmər/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "幽默；幽默感",
+          "usage": "指人的幽默性格或幽默的东西"
+        }
+      ]
+    },
+    {
+      "word": "popular",
+      "phonetic": "/ˈpɒpjʊlər/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "受欢迎的；流行的",
+          "usage": "形容广受大家喜爱"
+        }
+      ]
+    },
+    {
+      "word": "circle",
+      "phonetic": "/ˈsɜːkl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "圈子；圆形",
+          "usage": "指社交圈子或一群人"
+        }
+      ]
+    },
+    {
+      "word": "closest",
+      "phonetic": "/ˈkləʊsɪst/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "最亲密的",
+          "usage": "close的最高级形式"
+        }
+      ]
+    },
+    {
+      "word": "speech",
+      "phonetic": "/spiːtʃ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "演讲；发言",
+          "usage": "指在公共场合的正式发言"
+        }
+      ]
+    },
+    {
+      "word": "carefully",
+      "phonetic": "/ˈkeəfʊlɪ/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "仔细地；小心地",
+          "usage": "修饰动词，表示做事的仔细程度"
+        }
+      ]
+    },
+    {
+      "word": "success",
+      "phonetic": "/səkˈses/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "成功；成就",
+          "usage": "指达到预期目标"
+        }
+      ]
+    },
+    {
+      "word": "disappointed",
+      "phonetic": "/ˌdɪsəˈpɒɪntɪd/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "失望的；沮丧的",
+          "usage": "表达因期望落空而产生的情绪"
+        }
+      ]
+    },
+    {
+      "word": "enjoy",
+      "phonetic": "/ɪnˈdʒɔɪ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "享受；喜爱",
+          "usage": "表示从某事中获得乐趣"
+        }
+      ]
+    },
+    {
+      "word": "surprise",
+      "phonetic": "/səˈpraɪz/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "惊讶；意外",
+          "usage": "表示出乎意料的感觉"
+        }
+      ]
+    },
+    {
+      "word": "laugh",
+      "phonetic": "/lɑːf/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "笑；大笑",
+          "usage": "表示因感到有趣而发出笑声"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "a large circle of friends",
+      "usage": "指拥有很多的社交圈子，朋友很多",
+      "examples": [
+        {
+          "en": "He has a large circle of friends.",
+          "zh": "他有很多朋友。"
+        }
+      ]
+    },
+    {
+      "phrase": "make a speech",
+      "usage": "发表演讲，在公共场合进行正式发言",
+      "examples": [
+        {
+          "en": "He was asked to make a speech at the wedding.",
+          "zh": "他被邀请在婚礼上发表演讲。"
+        }
+      ]
+    },
+    {
+      "phrase": "to his surprise",
+      "usage": "令他惊讶的是，表示出乎意料",
+      "examples": [
+        {
+          "en": "To his surprise, she refused the invitation.",
+          "zh": "令他惊讶的是，她拒绝了邀请。"
+        }
+      ]
+    },
+    {
+      "phrase": "as soon as",
+      "usage": "一...就...，表示两个动作紧接着发生",
+      "examples": [
+        {
+          "en": "As soon as he finished, Jenny left.",
+          "zh": "他一结束，Jenny就离开了。"
+        }
+      ]
+    },
+    {
+      "phrase": "the sort of thing",
+      "usage": "这类事情，某种类型的事物",
+      "examples": [
+        {
+          "en": "This is the sort of thing that he loves.",
+          "zh": "这正是他喜欢的事情。"
+        }
+      ]
+    },
+    {
+      "phrase": "do as + sb + ask",
+      "usage": "按照某人的要求做",
+      "examples": [
+        {
+          "en": "He did as his daughter asked.",
+          "zh": "他按照女儿的要求做了。"
+        }
+      ]
+    },
+    {
+      "phrase": "on the way home",
+      "usage": "在回家的路上",
+      "examples": [
+        {
+          "en": "They talked on the way home.",
+          "zh": "他们在回家的路上交谈。"
+        }
+      ]
+    },
+    {
+      "phrase": "a large number of",
+      "usage": "大量的，许多的，后接可数名词复数",
+      "examples": [
+        {
+          "en": "He told a large number of funny stories.",
+          "zh": "他讲了很多有趣的故事。"
+        }
+      ]
+    },
+    {
+      "phrase": "of course",
+      "usage": "当然，自然不用说",
+      "examples": [
+        {
+          "en": "Of course, it was a great success.",
+          "zh": "当然，这是一次巨大的成功。"
+        }
+      ]
+    },
+    {
+      "phrase": "be disappointed by",
+      "usage": "对...感到失望",
+      "examples": [
+        {
+          "en": "He was a little disappointed by this.",
+          "zh": "他对这件事感到有点失望。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "直接引语和间接引语（Direct and Indirect Speech）",
+      "definition": "当转述别人的话时，可以使用直接引用原话，或将原话转换为转述句。间接引语中，人称、时态、时间状语等通常需要相应变化。",
+      "structure": "主句 + 连词 + 主语 + 动词 + 其他成分；人称变化：第一人称→第二人称，第二人称→第一人称；时态后退（过去时→过去完成时等）",
+      "usage": "用于转述他人说过的话，使叙述更加流畅自然。在口语和书面语中都常用。",
+      "examples": [
+        {
+          "en": "She said she hadn't enjoyed the speech.",
+          "zh": "她说她不喜欢那个演讲。"
+        },
+        {
+          "en": "He asked her why she hadn't enjoyed it.",
+          "zh": "他问她为什么不喜欢。"
+        },
+        {
+          "en": "She told him that she did not like to see so many people laughing at him.",
+          "zh": "她告诉他她不喜欢看到那么多人在笑他。"
+        }
+      ]
+    },
+    {
+      "title": "as soon as 的用法",
+      "definition": "连词词组，表示'一...就...'，强调两个动作紧接着发生。",
+      "structure": "as soon as + 主语 + 动词...，主句",
+      "usage": "用于描述先后发生的两个动作，第一个动作一发生，第二个动作立即开始。常用于叙述故事的发展。",
+      "examples": [
+        {
+          "en": "As soon as he had finished, Jenny told him she wanted to go home.",
+          "zh": "他一讲完，Jenny就告诉他她想回家。"
+        },
+        {
+          "en": "As soon as I arrived, I called my mother.",
+          "zh": "我一到达就给我妈妈打了电话。"
+        }
+      ]
+    },
+    {
+      "title": "过去完成时（Past Perfect Tense）",
+      "definition": "表示在过去某一时刻之前已经完成的动作或状态。由had + 过去分词构成。",
+      "structure": "主语 + had + 过去分词",
+      "usage": "用于描述过去的过去，即两个过去的动作中，先发生的动作用过去完成时。当after, as soon as等连词引导时间状语从句时，主句用过去完成时，从句用一般过去时。",
+      "examples": [
+        {
+          "en": "As soon as he had finished, Jenny told him...",
+          "zh": "他一讲完，Jenny就告诉他..."
+        },
+        {
+          "en": "He had included a large number of funny stories in the speech.",
+          "zh": "他在演讲中加入了大量有趣的故事。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Everybody admires him for his + 名词",
+      "original": {
+        "en": "Everybody admires him for his great sense of humour.",
+        "zh": "每个人都钦佩他的幽默感。"
+      },
+      "imitations": [
+        {
+          "en": "Everybody admires her for her kindness.",
+          "zh": "每个人都钦佩她的善良。"
+        },
+        {
+          "en": "We admire him for his courage.",
+          "zh": "我们钦佩他的勇气。"
+        }
+      ]
+    },
+    {
+      "pattern": "To his + 情绪名词, she + 动词过去式",
+      "original": {
+        "en": "To his surprise, she said she hadn't.",
+        "zh": "令他惊讶的是，她说她没有（喜欢）。"
+      },
+      "imitations": [
+        {
+          "en": "To his disappointment, he failed the exam.",
+          "zh": "令他失望的是，他考试不及格。"
+        },
+        {
+          "en": "To her surprise, everyone agreed with her.",
+          "zh": "令她惊讶的是，每个人都同意她的观点。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + asked + 宾语 + if/why/what + 陈述句/疑问句",
+      "original": {
+        "en": "He asked her why this was so.",
+        "zh": "他问她为什么是这样。"
+      },
+      "imitations": [
+        {
+          "en": "She asked him if he was tired.",
+          "zh": "她问他是否累了。"
+        },
+        {
+          "en": "They asked me why I was late.",
+          "zh": "他们问我为什么迟到。"
+        }
+      ]
+    },
+    {
+      "pattern": "This is the sort of thing that + 主语 + loves/hates",
+      "original": {
+        "en": "This is the sort of thing that Jeremy loves.",
+        "zh": "这正是Jeremy喜欢的事情。"
+      },
+      "imitations": [
+        {
+          "en": "This is the sort of thing that she hates.",
+          "zh": "这正是她讨厌的事情。"
+        },
+        {
+          "en": "That is the sort of book that I enjoy.",
+          "zh": "那正是我喜欢的那种书。"
+        }
+      ]
+    }
+  ]
+}

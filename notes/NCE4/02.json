@@ -1,0 +1,297 @@
+{
+  "book": "NCE4",
+  "lesson": "02",
+  "title": "Lesson 2",
+  "vocabulary": [
+    {
+      "word": "devour",
+      "phonetic": "/dɪˈvaʊə(r)/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "吞食；吞噬；毁灭",
+          "usage": "强调快速、贪婪地吃掉某物，也可引申指自然灾害等彻底毁坏事物"
+        }
+      ]
+    },
+    {
+      "word": "flock",
+      "phonetic": "/flɒk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "羊群；(同类人的)群体",
+          "usage": "特指羊的群体，也可指代鸟群或人群"
+        }
+      ]
+    },
+    {
+      "word": "herd",
+      "phonetic": "/hɜːd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "兽群；牧群(尤指牛群)",
+          "usage": "多指牛、马等大型家畜的群体"
+        }
+      ]
+    },
+    {
+      "word": "fraction",
+      "phonetic": "/ˈfrækʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "小部分；少量；分数",
+          "usage": "强调只占整体的很小一部分"
+        }
+      ]
+    },
+    {
+      "word": "moreover",
+      "phonetic": "/mɔːrˈəʊvə(r)/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "此外；而且",
+          "usage": "用于补充说明，递进逻辑连接词，比furthermore更正式"
+        }
+      ]
+    },
+    {
+      "word": "belongings",
+      "phonetic": "/bɪˈlɒŋɪŋz/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "所有物；财产",
+          "usage": "复数名词，指个人的随身物品或私有财产"
+        }
+      ]
+    },
+    {
+      "word": "related",
+      "phonetic": "/rɪˈleɪtɪd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "有关系的；有亲属关系的；同属一类的",
+          "usage": "常与介词to搭配，表示“与…相关/有亲缘关系”"
+        }
+      ]
+    },
+    {
+      "word": "census",
+      "phonetic": "/ˈsensəs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "统计；普查；人口普查",
+          "usage": "指针对某一范围内的对象进行的全面统计调查"
+        }
+      ]
+    },
+    {
+      "word": "estimate",
+      "phonetic": "/ˈestɪmeɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "估计；估算；判断",
+          "usage": "指根据现有信息进行大致的推算，名词形式为/ˈestɪmət/"
+        }
+      ]
+    },
+    {
+      "word": "acre",
+      "phonetic": "/ˈeɪkə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "英亩(面积单位，约等于4047平方米)",
+          "usage": "计量土地面积的英制单位"
+        }
+      ]
+    },
+    {
+      "word": "content",
+      "phonetic": "/kənˈtent/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "满足的；满意的",
+          "usage": "常与with搭配，表示“对…感到满足”，名词形式/ˈkɒntent/意为“内容”"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "owe sth to sb/sth",
+      "usage": "表示“把…归功于；欠…某物”，用于说明功劳、成果的来源",
+      "examples": [
+        {
+          "en": "We owe a lot to the birds and beasts who eat insects.",
+          "zh": "我们十分感激那些捕食昆虫的鸟类和兽类。"
+        },
+        {
+          "en": "I owe my success to my family's support.",
+          "zh": "我把我的成功归功于家人的支持。"
+        }
+      ]
+    },
+    {
+      "phrase": "put together",
+      "usage": "表示“加起来；总共”，常用于对比某一群体和其他群体总和的差距",
+      "examples": [
+        {
+          "en": "All of them put together kill only a fraction of the number destroyed by spiders.",
+          "zh": "把它们所有加起来，杀死的昆虫数量也只是蜘蛛消灭数量的一小部分。"
+        },
+        {
+          "en": "The profit of this month is more than the profit of the past three months put together.",
+          "zh": "这个月的利润比过去三个月的总和还多。"
+        }
+      ]
+    },
+    {
+      "phrase": "do harm to",
+      "usage": "表示“对…造成伤害/损害”，harm前可加little/any/the least等修饰词",
+      "examples": [
+        {
+          "en": "Spiders never do the least harm to us or our belongings.",
+          "zh": "蜘蛛从不对我们或我们的财物造成丝毫损害。"
+        },
+        {
+          "en": "Smoking does great harm to people's lungs.",
+          "zh": "吸烟对人的肺部有很大伤害。"
+        }
+      ]
+    },
+    {
+      "phrase": "at a glance",
+      "usage": "表示“一眼；一看就”，强调识别、判断的速度非常快",
+      "examples": [
+        {
+          "en": "One can tell the difference almost at a glance.",
+          "zh": "人们几乎一眼就能看出两者的区别。"
+        },
+        {
+          "en": "He recognized his old friend at a glance in the crowd.",
+          "zh": "他在人群里一眼就认出了自己的老朋友。"
+        }
+      ]
+    },
+    {
+      "phrase": "be engaged in",
+      "usage": "表示“忙于；从事于”，侧重指正在参与或忙于某项长期固定的活动",
+      "examples": [
+        {
+          "en": "How many spiders are engaged in this work on our behalf?",
+          "zh": "有多少蜘蛛在为我们做这项工作呢？"
+        },
+        {
+          "en": "He has been engaged in environmental protection for 10 years.",
+          "zh": "他从事环保工作已经10年了。"
+        }
+      ]
+    },
+    {
+      "phrase": "on sb's behalf",
+      "usage": "表示“代表某人；为了某人的利益”，也可写作on behalf of sb",
+      "examples": [
+        {
+          "en": "Lawyers can make statements on their clients' behalf.",
+          "zh": "律师可以代表客户发表声明。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "虚拟条件句（与现在事实相反）",
+      "definition": "用来描述与现在真实情况不符的假设，表达不可能实现或假想的情况",
+      "structure": "If + 主语 + 动词过去式（be动词统一用were）, 主语 + would/could/might + 动词原形",
+      "usage": "用于表达非真实的假设，说明假设情况下会产生的结果",
+      "examples": [
+        {
+          "en": "If it were not for the protection we get from insect eating animals, they would devour all our crops and kill our flocks and herds.",
+          "zh": "若不是我们从食虫动物那里得到保护，它们就会吃光我们所有的庄稼，杀死我们的牛羊。"
+        },
+        {
+          "en": "If I were you, I would choose to study abroad.",
+          "zh": "如果我是你，我会选择出国留学。"
+        }
+      ]
+    },
+    {
+      "title": "as引导的非限制性定语从句（否定转移）",
+      "definition": "as指代整个主句的内容，放在否定句中时，否定含义通常转移到as指代的内容上，表示“正如…不是那样”",
+      "structure": "主语 + 否定谓语 + ..., as + 从句",
+      "usage": "用于纠正大众的错误认知，说明“某件事并不像人们所想的那样”",
+      "examples": [
+        {
+          "en": "Spiders are not insects, as many people think, nor even nearly related to them.",
+          "zh": "蜘蛛并不像很多人认为的那样是昆虫，它们甚至和昆虫完全没有亲缘关系。"
+        },
+        {
+          "en": "The elephant is not as big as you imagine.",
+          "zh": "大象并不像你想象的那么大。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Why, you may wonder, should + 主语 + be + 表语?",
+      "original": {
+        "en": "Why, you may wonder, should spiders be our friends?",
+        "zh": "你可能会好奇，为什么蜘蛛应该是我们的朋友呢？"
+      },
+      "imitations": [
+        {
+          "en": "Why, you may wonder, should trees be so important to cities?",
+          "zh": "你可能会好奇，为什么树木对城市这么重要呢？"
+        },
+        {
+          "en": "Why, you may wonder, should learning history be necessary for students?",
+          "zh": "你可能会好奇，为什么学习历史对学生来说是必要的？"
+        }
+      ]
+    },
+    {
+      "pattern": "It is impossible to do sth, but + 补充说明的分句",
+      "original": {
+        "en": "It is impossible to make more than the wildest guess at how many they kill, but they are hungry creatures, not content with only three meals a day.",
+        "zh": "我们最多只能胡乱猜测它们杀死了多少昆虫，但它们是贪吃的生物，并不满足于一天只吃三餐。"
+      },
+      "imitations": [
+        {
+          "en": "It is impossible to count how many stars are in the sky, but we know there are far more than we can see.",
+          "zh": "我们不可能数清天上有多少星星，但我们知道星星的数量远多于我们能看到的。"
+        },
+        {
+          "en": "It is impossible to remember all the new words in one day, but we can memorize them step by step.",
+          "zh": "我们不可能一天记住所有的新单词，但我们可以一步步记住它们。"
+        }
+      ]
+    },
+    {
+      "pattern": "It has been estimated that + 从句",
+      "original": {
+        "en": "It has been estimated that the weight of all the insects destroyed by spiders in Britain in one year would be greater than the total weight of all the human beings in the country.",
+        "zh": "据估计，英国境内的蜘蛛一年消灭的所有昆虫的总重量，比这个国家所有人口的总重量还要大。"
+      },
+      "imitations": [
+        {
+          "en": "It has been estimated that over 50% of the city's population will choose public transport in 5 years.",
+          "zh": "据估计，五年内这个城市超过50%的人口会选择公共交通。"
+        },
+        {
+          "en": "It has been estimated that the global temperature will rise by 1.5 degrees by 2050 if we don't reduce carbon emissions.",
+          "zh": "据估计，如果我们不减少碳排放，到2050年全球气温将上升1.5度。"
+        }
+      ]
+    }
+  ]
+}

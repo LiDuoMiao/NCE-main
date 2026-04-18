@@ -1,0 +1,448 @@
+{
+  "book": "NCE3",
+  "lesson": "20",
+  "title": "Lesson 20",
+  "vocabulary": [
+    {
+      "word": "pioneer",
+      "phonetic": "/ˌpaɪəˈnɪə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "先驱；先锋；创始人",
+          "usage": "指在某个领域最先开展探索或取得成就的人"
+        },
+        {
+          "pos": "verb",
+          "meaning": "开创；倡导",
+          "usage": "表示率先做某件事或开发某类事物"
+        }
+      ]
+    },
+    {
+      "word": "offer",
+      "phonetic": "/ˈɒfə(r)/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "主动提供；出价",
+          "usage": "后可接名词、双宾语或不定式，常见结构offer sth. to sb. / offer sb. sth."
+        },
+        {
+          "pos": "noun",
+          "meaning": "提议；报价",
+          "usage": "常用搭配make an offer"
+        }
+      ]
+    },
+    {
+      "word": "attempt",
+      "phonetic": "/əˈtempt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "尝试；企图",
+          "usage": "常用搭配make an attempt to do sth. / at doing sth."
+        },
+        {
+          "pos": "verb",
+          "meaning": "尝试；努力",
+          "usage": "后接不定式，attempt to do sth."
+        }
+      ]
+    },
+    {
+      "word": "coast",
+      "phonetic": "/kəʊst/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "海岸；海滨",
+          "usage": "指陆地与海洋交界的狭长地带"
+        }
+      ]
+    },
+    {
+      "word": "engine",
+      "phonetic": "/ˈendʒɪn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "发动机；引擎",
+          "usage": "指为车辆、飞机等提供动力的装置"
+        }
+      ]
+    },
+    {
+      "word": "fail",
+      "phonetic": "/feɪl/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "失灵；失效；失败",
+          "usage": "可表示机器故障，也可表示做某事未成功，常见结构fail to do sth."
+        }
+      ]
+    },
+    {
+      "word": "force",
+      "phonetic": "/fɔːs/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "强迫；迫使",
+          "usage": "常用被动结构be forced to do sth.，表示不得不做某事"
+        },
+        {
+          "pos": "noun",
+          "meaning": "力量；武力",
+          "usage": "可指物理力量或军事力量"
+        }
+      ]
+    },
+    {
+      "word": "float",
+      "phonetic": "/fləʊt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "漂浮；浮动",
+          "usage": "指物体在液体或气体表面停留不沉没"
+        }
+      ]
+    },
+    {
+      "word": "latest",
+      "phonetic": "/ˈleɪtɪst/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "最新的；最近的",
+          "usage": "是late的最高级形式，修饰名词表示最近出现的事物"
+        }
+      ]
+    },
+    {
+      "word": "overland",
+      "phonetic": "/ˈəʊvəlænd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "陆路的；横跨陆地的",
+          "usage": "修饰旅行、飞行等表示经由陆地的"
+        }
+      ]
+    },
+    {
+      "word": "complete",
+      "phonetic": "/kəmˈpliːt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "完成；结束",
+          "usage": "后接名词或动名词，表示完成某项任务或活动"
+        },
+        {
+          "pos": "adjective",
+          "meaning": "完整的；完全的",
+          "usage": "修饰名词表示没有缺失部分的"
+        }
+      ]
+    },
+    {
+      "word": "cover",
+      "phonetic": "/ˈkʌvə(r)/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "行走（一段路程）；覆盖",
+          "usage": "后接距离名词，表示行进了某段长度的路程"
+        }
+      ]
+    },
+    {
+      "word": "test",
+      "phonetic": "/test/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "测试；试验",
+          "usage": "常用搭配test flight表示试飞，test exam表示测验"
+        },
+        {
+          "pos": "verb",
+          "meaning": "测试；检验",
+          "usage": "表示检查事物的功能或人的能力"
+        }
+      ]
+    },
+    {
+      "word": "last",
+      "phonetic": "/lɑːst/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "持续；延续",
+          "usage": "后接表示时间的名词，说明事件持续的时长"
+        }
+      ]
+    },
+    {
+      "word": "local",
+      "phonetic": "/ˈləʊkl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "当地的；本地的",
+          "usage": "修饰人或事物表示属于某个特定地区的"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "take off",
+      "usage": "表示飞机起飞，也可引申为事业突然成功、脱掉衣物等含义",
+      "examples": [
+        {
+          "en": "The plane is scheduled to take off at 9 a.m.",
+          "zh": "这架飞机计划上午9点起飞。"
+        },
+        {
+          "en": "After three years of hard work, his career finally took off.",
+          "zh": "经过三年的努力，他的事业终于腾飞了。"
+        }
+      ]
+    },
+    {
+      "phrase": "pick up",
+      "usage": "此处表示接走、营救某人，也可表示捡起、学会（知识/技能）、接收到信号等含义",
+      "examples": [
+        {
+          "en": "The lifeboat picked up all the survivors from the sunken ship.",
+          "zh": "救生艇救起了沉船上的所有幸存者。"
+        },
+        {
+          "en": "I picked up some Japanese when I was travelling in Tokyo.",
+          "zh": "我在东京旅行的时候学会了一些日语。"
+        }
+      ]
+    },
+    {
+      "phrase": "give up",
+      "usage": "表示放弃、停止做某事，后可接名词或动名词",
+      "examples": [
+        {
+          "en": "No matter how difficult it is, you should never give up your dream.",
+          "zh": "无论有多难，你都不应该放弃自己的梦想。"
+        },
+        {
+          "en": "My father gave up smoking last year for his health.",
+          "zh": "我爸爸为了健康去年戒烟了。"
+        }
+      ]
+    },
+    {
+      "phrase": "it looked as if",
+      "usage": "用来表示“看起来似乎/好像”，可描述真实情况，也可描述虚拟的假设",
+      "examples": [
+        {
+          "en": "It looked as if it was going to rain, so we took an umbrella with us.",
+          "zh": "看起来好像要下雨了，所以我们带了一把伞。"
+        },
+        {
+          "en": "He smiled happily, and it looked as if he had won the game.",
+          "zh": "他笑得很开心，看起来好像已经赢了比赛。"
+        }
+      ]
+    },
+    {
+      "phrase": "set off",
+      "usage": "表示出发、动身，也可表示引爆、引发某事",
+      "examples": [
+        {
+          "en": "We set off at dawn so that we could get to the mountain top before noon.",
+          "zh": "我们黎明就出发，这样就能在中午之前到达山顶。"
+        },
+        {
+          "en": "The news set off a heated discussion among the students.",
+          "zh": "这个消息在学生中引发了激烈的讨论。"
+        }
+      ]
+    },
+    {
+      "phrase": "be forced to do sth.",
+      "usage": "表示“被迫做某事”，强调因外界原因不得不做非主观意愿的事",
+      "examples": [
+        {
+          "en": "Because of the heavy snow, the driver was forced to stop the car.",
+          "zh": "因为大雪，司机被迫把车停下来。"
+        },
+        {
+          "en": "Many small companies were forced to close during the economic crisis.",
+          "zh": "经济危机期间很多小公司被迫倒闭。"
+        }
+      ]
+    },
+    {
+      "phrase": "make an attempt",
+      "usage": "表示“尝试、试图做某事”，后可接to do或at doing",
+      "examples": [
+        {
+          "en": "He made an attempt to pass the driving test, but he failed because of nervousness.",
+          "zh": "他尝试通过驾照考试，但因为紧张失败了。"
+        },
+        {
+          "en": "The team made an attempt at climbing the highest mountain in the country.",
+          "zh": "这支队伍尝试攀登该国最高的山峰。"
+        }
+      ]
+    },
+    {
+      "phrase": "within ... of",
+      "usage": "表示“在距离……不到……的范围内”，用来描述距离、时间等的接近程度",
+      "examples": [
+        {
+          "en": "The hotel is within 10 minutes' walk of the railway station.",
+          "zh": "这家酒店距离火车站步行不到10分钟。"
+        },
+        {
+          "en": "The team was within one point of winning the championship.",
+          "zh": "这支队伍差一分就能赢得冠军。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去完成时",
+      "definition": "表示在过去某个时间或动作之前已经发生或完成的动作，即“过去的过去”",
+      "structure": "主语 + had + 动词过去分词 + 其他",
+      "usage": "常和before, until, when等引导的时间状语从句连用，明确两个过去动作的先后顺序",
+      "examples": [
+        {
+          "en": "He had travelled only seven miles across the Channel when his engine failed.",
+          "zh": "他刚在海峡上飞了7英里，发动机就出故障了。"
+        },
+        {
+          "en": "Bleriot had been making planes since 1905 and this was his latest model.",
+          "zh": "布莱里奥从1905年起就开始制造飞机，这是他最新型号的飞机。"
+        },
+        {
+          "en": "A week before, he had completed a successful overland flight during which he covered twenty-six miles.",
+          "zh": "一周之前，他刚刚成功完成了一次26英里的陆上飞行。"
+        }
+      ]
+    },
+    {
+      "title": "定语从句中的“介词+which”结构",
+      "definition": "当关系代词which在定语从句中作介词的宾语时，可将介词提前到which之前，构成“介词+which”的结构，用来修饰表示事物的先行词",
+      "structure": "先行词（事物） + 介词 + which + 从句其他部分",
+      "usage": "介词的选择通常根据从句中的动词、形容词与介词的固定搭配，或者先行词与介词的搭配来确定",
+      "examples": [
+        {
+          "en": "A week before, he had completed a successful overland flight during which he covered twenty-six miles.",
+          "zh": "一周之前，他刚刚成功完成了一次26英里的陆上飞行。（which指代flight，during which = during the flight）"
+        },
+        {
+          "en": "This is the house in which Lu Xun once lived.",
+          "zh": "这就是鲁迅曾经住过的房子。（which指代house，in which = in the house）"
+        },
+        {
+          "en": "The book for which you are looking is on the shelf.",
+          "zh": "你正在找的那本书在书架上。（which指代book，for which = for the book）"
+        }
+      ]
+    },
+    {
+      "title": "时间状语before引导的时间状语从句",
+      "definition": "before引导时间状语从句时，表示主句的动作发生在从句动作之前，可翻译为“在……之前”“过了多久才……”",
+      "structure": "主句 + before + 从句（一般过去时）",
+      "usage": "当主句描述的是一段时间的流逝时，常翻译为“过了……才发生某事”",
+      "examples": [
+        {
+          "en": "Over a year passed before the first attempt was made.",
+          "zh": "过了一年多人们才进行第一次尝试。"
+        },
+        {
+          "en": "Several months went by before we finished the whole project.",
+          "zh": "过了好几个月我们才完成整个项目。"
+        },
+        {
+          "en": "I had waited for two hours before he finally showed up.",
+          "zh": "我等了两个小时他才终于出现。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "时间 + passed before + 事件",
+      "original": {
+        "en": "Over a year passed before the first attempt was made.",
+        "zh": "过了一年多人们才进行第一次尝试。"
+      },
+      "imitations": [
+        {
+          "en": "Three hours passed before the rescue team arrived at the accident site.",
+          "zh": "过了三个小时救援队才抵达事故现场。"
+        },
+        {
+          "en": "Many years passed before the old temple was rebuilt and opened to the public.",
+          "zh": "过了很多年这座古庙才被重建并对公众开放。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + had done sth. when + 另一过去动作",
+      "original": {
+        "en": "He had travelled only seven miles across the Channel when his engine failed and he was forced to land on the sea.",
+        "zh": "他刚在海峡上飞了7英里，发动机就出故障了，他被迫降落在海面上。"
+      },
+      "imitations": [
+        {
+          "en": "I had just finished my homework when my friend invited me to play basketball.",
+          "zh": "我刚写完作业，我的朋友就邀请我去打篮球。"
+        },
+        {
+          "en": "We had walked only two hundred metres when it started to rain heavily.",
+          "zh": "我们刚走了200米，就开始下大雨了。"
+        }
+      ]
+    },
+    {
+      "pattern": "It looked as if + 从句",
+      "original": {
+        "en": "It looked as if there would be an exciting race across the Channel.",
+        "zh": "看起来似乎会有一场激动人心的横跨海峡的比赛。"
+      },
+      "imitations": [
+        {
+          "en": "It looked as if we would have to cancel the picnic because of the bad weather.",
+          "zh": "看起来我们因为糟糕的天气得取消野餐了。"
+        },
+        {
+          "en": "He looked so pale that it looked as if he was seriously ill.",
+          "zh": "他脸色这么苍白，看起来好像病得很重。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + 动作 + lasted + 时长",
+      "original": {
+        "en": "His great flight lasted thirty-seven minutes.",
+        "zh": "他这次伟大的飞行持续了37分钟。"
+      },
+      "imitations": [
+        {
+          "en": "The opening ceremony of the sports meeting lasted two and a half hours.",
+          "zh": "运动会的开幕式持续了两个半小时。"
+        },
+        {
+          "en": "The heavy rain lasted almost the whole day and caused floods in many areas.",
+          "zh": "这场大雨持续了几乎一整天，在很多地区引发了洪水。"
+        }
+      ]
+    }
+  ]
+}

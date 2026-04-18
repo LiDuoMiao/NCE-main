@@ -1,0 +1,406 @@
+{
+  "book": "NCE3",
+  "lesson": "47",
+  "title": "Lesson 47",
+  "vocabulary": [
+    {
+      "word": "pollution",
+      "phonetic": "/pəˈluːʃən/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "污染，玷污",
+          "usage": "指对环境的损害，如空气、水、噪音污染"
+        }
+      ]
+    },
+    {
+      "word": "overindustrialized",
+      "phonetic": "/ˌəʊvərɪnˈdʌstriəlaɪzd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "过度工业化的",
+          "usage": "描述工业发展过度的状态"
+        }
+      ]
+    },
+    {
+      "word": "overwhelm",
+      "phonetic": "/ˌəʊvəˈwelm/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "压倒，使应接不暇",
+          "usage": "表示数量或力量大到无法处理"
+        }
+      ]
+    },
+    {
+      "word": "pesticide",
+      "phonetic": "/ˈpestɪsaɪd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "杀虫剂，农药",
+          "usage": "用于消灭害虫的化学物质"
+        }
+      ]
+    },
+    {
+      "word": "fertilizer",
+      "phonetic": "/ˈfɜːtɪlaɪzə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "肥料，化肥",
+          "usage": "促进植物生长的物质"
+        }
+      ]
+    },
+    {
+      "word": "insidious",
+      "phonetic": "/ɪnˈsɪdiəs/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "阴险的，狡诈的；暗中为害的",
+          "usage": "形容危险或问题不易察觉但逐渐扩散"
+        }
+      ]
+    },
+    {
+      "word": "urban",
+      "phonetic": "/ˈɜːbən/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "城市的，城镇的",
+          "usage": "与城市相关的，反义词为rural（农村的）"
+        }
+      ]
+    },
+    {
+      "word": "profound",
+      "phonetic": "/prəˈfaʊnd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "深刻的，极度的",
+          "usage": "程度很深，强烈的"
+        }
+      ]
+    },
+    {
+      "word": "irritation",
+      "phonetic": "/ˌɪrɪˈteɪʃən/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "恼怒，烦躁",
+          "usage": "被某事激怒的感觉"
+        }
+      ]
+    },
+    {
+      "word": "incessantly",
+      "phonetic": "/ɪnˈsesəntli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "不停地，持续不断地",
+          "usage": "强调动作或状态的持续性"
+        }
+      ]
+    },
+    {
+      "word": "snore",
+      "phonetic": "/snɔː/",
+      "meanings": [
+        {
+          "pos": "verb/noun",
+          "meaning": "打鼾，打呼噜",
+          "usage": "睡眠时发出的呼吸声"
+        }
+      ]
+    },
+    {
+      "word": "offender",
+      "phonetic": "/əˈfendə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "违规者，冒犯者",
+          "usage": "做错事或违反规则的人"
+        }
+      ]
+    },
+    {
+      "word": "abandon",
+      "phonetic": "/əˈbændən/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "放弃，抛弃",
+          "usage": "放弃某种习惯、信仰或地方"
+        }
+      ]
+    },
+    {
+      "word": "staggering",
+      "phonetic": "/ˈstæɡərɪŋ/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "令人震惊的，踉跄的",
+          "usage": "形容数量或程度令人难以置信"
+        }
+      ]
+    },
+    {
+      "word": "overhead",
+      "phonetic": "/ˈəʊvəhed/",
+      "meanings": [
+        {
+          "pos": "adjective/adverb",
+          "meaning": "在头顶上空的",
+          "usage": "指位于头顶上方的东西"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "when you come to think about it",
+      "usage": "固定表达，意思是'当你仔细想想'，用于引出思考后的结论",
+      "examples": [
+        {
+          "en": "When you come to think about it, there are only four ways to deal with rubbish.",
+          "zh": "当你仔细想想，垃圾处理只有四种方式。"
+        }
+      ]
+    },
+    {
+      "phrase": "lead to",
+      "usage": "动词短语，表示'导致'，后接结果或后果",
+      "examples": [
+        {
+          "en": "The need to produce cheap food leads to a different kind of pollution.",
+          "zh": "生产廉价食品的需求导致了另一种污染。"
+        }
+      ]
+    },
+    {
+      "phrase": "at any time of the day or night",
+      "usage": "固定短语，意思是'无论白天还是黑夜'，强调随时都可能发生",
+      "examples": [
+        {
+          "en": "Burglar alarms going off at any time of the day or night annoy passers-by.",
+          "zh": "无论白天还是黑夜响起防盗警报都会惹恼路人。"
+        }
+      ]
+    },
+    {
+      "phrase": "make contribution to",
+      "usage": "动词短语，表示'对...做出贡献'，to为介词",
+      "examples": [
+        {
+          "en": "New technology has made its own contribution to noise.",
+          "zh": "新技术也对噪音做出了'贡献'。"
+        }
+      ]
+    },
+    {
+      "phrase": "on a scale ranging from...to...",
+      "usage": "固定表达，表示'在从...到...的范围内'，用于描述测量范围",
+      "examples": [
+        {
+          "en": "Noise pollution was rated on a scale ranging from 1 to 7.",
+          "zh": "噪音污染按1到7的等级进行评分。"
+        }
+      ]
+    },
+    {
+      "phrase": "a steady diet of",
+      "usage": "短语，表示'长期大量的某物'，常指频繁接触某事物",
+      "examples": [
+        {
+          "en": "You may have a steady diet of pesticides every time you eat vegetables.",
+          "zh": "每次吃蔬菜时你可能都在大量摄入农药。"
+        }
+      ]
+    },
+    {
+      "phrase": "keep doing something",
+      "usage": "动词短语，表示'继续做某事'，强调动作的持续性",
+      "examples": [
+        {
+          "en": "We keep trying all four methods, but the volume threatens to overwhelm us.",
+          "zh": "我们不断尝试这四种方法，但垃圾量之大让我们难以应对。"
+        }
+      ]
+    },
+    {
+      "phrase": "it seems",
+      "usage": "固定表达，表示'似乎，看来'，用于表达推测",
+      "examples": [
+        {
+          "en": "Silence, it seems, has become a golden memory.",
+          "zh": "看来，静谧已经成为了一段黄金记忆。"
+        }
+      ]
+    },
+    {
+      "phrase": "have the choice of",
+      "usage": "动词短语，表示'有...的选择'，后面接选择的内容",
+      "examples": [
+        {
+          "en": "You have the choice of very expensive organically-grown vegetables.",
+          "zh": "你可以选择非常昂贵的有机蔬菜。"
+        }
+      ]
+    },
+    {
+      "phrase": "think you'll abandon",
+      "usage": "think + that从句的用法，表示'认为你会放弃'",
+      "examples": [
+        {
+          "en": "And if you think you'll abandon meat and become a vegetarian...",
+          "zh": "如果你认为自己会放弃肉类成为素食者..."
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "定语从句（使用that/which/who）",
+      "definition": "定语从句用于修饰名词或代词，由关系代词（that, which, who, whom）或关系副词（where, when, why）引导，置于被修饰词之后。",
+      "structure": "主句 + 名词/代词 + 关系词 + 定语从句",
+      "usage": "用于提供关于名词的额外信息，使句子更加完整和精确。在本课中，多处使用了that/which引导的定语从句。",
+      "examples": [
+        {
+          "en": "The survey that/which revealed these findings was conducted recently.",
+          "zh": "揭示这些发现的调查是最近进行的。"
+        },
+        {
+          "en": "Dogs barking incessantly in the night was rated as the highest form of noise pollution.",
+          "zh": "夜间不断吠叫的狗被评为最高形式的噪音污染。"
+        },
+        {
+          "en": "New technology that has made its own contribution to noise is a concern.",
+          "zh": "对噪音做出'贡献'的新技术令人担忧。"
+        }
+      ]
+    },
+    {
+      "title": "副词的位置和作用",
+      "definition": "副词在句中可以位于句首、句中或句尾，用来修饰动词、形容词或其他副词，表示时间、方式、程度、频率等。",
+      "structure": "副词 + 动词 / 动词 + 副词 / 主语 + 副词 + 动词",
+      "usage": "在本课中，insidiously, constantly, incessantly等副词描述了污染的持续性和隐藏性特点，帮助读者理解问题的严重程度。",
+      "examples": [
+        {
+          "en": "There is an even more insidious kind of pollution that particularly affects urban areas.",
+          "zh": "有一种更为隐蔽的污染，特别影响城市地区。"
+        },
+        {
+          "en": "Car alarms constantly scream at us in the street.",
+          "zh": "汽车警报在街上不断对我们尖叫。"
+        },
+        {
+          "en": "Dogs barking incessantly in the night rated the highest form of noise pollution.",
+          "zh": "夜间持续吠叫的狗被评为最高形式的噪音污染。"
+        }
+      ]
+    },
+    {
+      "title": "百分数表达在描述数据中的应用",
+      "definition": "使用百分数（percent/percentage）来描述统计数据，是学术和新闻写作中的常见表达方式。",
+      "structure": "数字 + % + of + 名词 + 谓语",
+      "usage": "在描述调查结果、人口数据或比例时使用。本课中多处使用百分比来说明打鼾问题的普遍性。",
+      "examples": [
+        {
+          "en": "20% of men in their mid-thirties snore.",
+          "zh": "处于三十五岁左右的男人中有20%打鼾。"
+        },
+        {
+          "en": "This figure rises to a staggering 60% of men in their sixties.",
+          "zh": "这个数字攀升到六十岁男人的惊人60%。"
+        },
+        {
+          "en": "Only 5% of women snore regularly.",
+          "zh": "只有5%的女性经常打鼾。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "...is the price we pay for...",
+      "original": {
+        "en": "Pollution is the price we pay for an overpopulated, overindustrialized planet.",
+        "zh": "污染是我们为这个人口过剩、工业过度发展的星球所付出的代价。"
+      },
+      "imitations": [
+        {
+          "en": "Traffic jams are the price we pay for modernization.",
+          "zh": "交通拥堵是我们为现代化付出的代价。"
+        },
+        {
+          "en": "Stress is the price we pay for a competitive society.",
+          "zh": "压力是我们为竞争社会付出的代价。"
+        }
+      ]
+    },
+    {
+      "pattern": "There are only + 数字 + ways you can...",
+      "original": {
+        "en": "There are only four ways you can deal with rubbish.",
+        "zh": "处理垃圾只有四种方式。"
+      },
+      "imitations": [
+        {
+          "en": "There are only three ways you can solve this problem.",
+          "zh": "解决这个问题只有三种方法。"
+        },
+        {
+          "en": "There are only two choices you can make now.",
+          "zh": "你现在只有两个选择。"
+        }
+      ]
+    },
+    {
+      "pattern": "The price we pay for...may be already too high",
+      "original": {
+        "en": "The price we pay for cheap food may be already too high.",
+        "zh": "我们为廉价食品付出的代价可能已经太高了。"
+      },
+      "imitations": [
+        {
+          "en": "The price we pay for convenience may be already too high.",
+          "zh": "我们为便利付出的代价可能已经太高了。"
+        },
+        {
+          "en": "The price we pay for fast delivery may be already too high.",
+          "zh": "我们为快递付出的代价可能已经太高了。"
+        }
+      ]
+    },
+    {
+      "pattern": "It turned out to be + 名词/动名词",
+      "original": {
+        "en": "It turned out to be snoring!",
+        "zh": "原来是打鼾！"
+      },
+      "imitations": [
+        {
+          "en": "The mysterious noise turned out to be a cat.",
+          "zh": "那个神秘的噪音原来是一只猫。"
+        },
+        {
+          "en": "The solution turned out to be much simpler than expected.",
+          "zh": "解决办法原来比预期的简单得多。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "book": "NCE3",
+  "lesson": "11",
+  "title": "Lesson 11",
+  "vocabulary": [
+    {
+      "word": "guilty",
+      "phonetic": "/ˈɡɪlti/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "内疚的；有罪的",
+          "usage": "既可以指人犯了罪，也可以指人因为做错事而感到愧疚"
+        }
+      ]
+    },
+    {
+      "word": "tolerant",
+      "phonetic": "/ˈtɒlərənt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "宽容的，容忍的",
+          "usage": "常搭配介词towards/of，表示对某事物/某人宽容"
+        }
+      ]
+    },
+    {
+      "word": "declare",
+      "phonetic": "/dɪˈkleə(r)/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "申报（纳税品）；宣布，声明",
+          "usage": "海关场景中特指申报需缴税的物品，也可用于正式宣布决定、消息等"
+        }
+      ]
+    },
+    {
+      "word": "hardened",
+      "phonetic": "/ˈhɑːdnd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "老练的；有经验的； hardened的动词harden意为变硬",
+          "usage": "常修饰有多年不良经历、已经习以为常的人，如hardened criminal（惯犯）"
+        }
+      ]
+    },
+    {
+      "word": "smuggler",
+      "phonetic": "/ˈsmʌɡlə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "走私者，偷运者",
+          "usage": "对应动词smuggle，意为走私、偷运"
+        }
+      ]
+    },
+    {
+      "word": "officious",
+      "phonetic": "/əˈfɪʃəs/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "爱指手画脚的，好管闲事的",
+          "usage": "多含贬义，形容人过度行使权力、多管闲事"
+        }
+      ]
+    },
+    {
+      "word": "confidently",
+      "phonetic": "/ˈkɒnfɪdəntli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "自信地，有信心地",
+          "usage": "修饰动词，表示做某事时的状态很自信，对应形容词confident"
+        }
+      ]
+    },
+    {
+      "word": "dreadful",
+      "phonetic": "/ˈdredfl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "糟透的，可怕的",
+          "usage": "口语中常用来形容事物质量差、情况很糟糕"
+        }
+      ]
+    },
+    {
+      "word": "pounce",
+      "phonetic": "/paʊns/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "猛扑，突然抓住",
+          "usage": "常搭配介词on/upon，指突然抓住机会或者扑向某物/某人"
+        }
+      ]
+    },
+    {
+      "word": "sarcastically",
+      "phonetic": "/sɑːˈkæstɪkli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "讽刺地，挖苦地",
+          "usage": "修饰说话的语气，对应形容词sarcastic"
+        }
+      ]
+    },
+    {
+      "word": "exempt",
+      "phonetic": "/ɪɡˈzempt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "被豁免的，被免除的",
+          "usage": "常搭配介词from，表示免除某项义务、税费等"
+        }
+      ]
+    },
+    {
+      "word": "duty",
+      "phonetic": "/ˈdjuːti/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "税；责任，义务",
+          "usage": "海关场景中特指进口/出口关税，常见搭配import duty（进口税）"
+        }
+      ]
+    },
+    {
+      "word": "gel",
+      "phonetic": "/dʒel/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "凝胶，胶冻",
+          "usage": "这里hair gel指发胶，也可作动词表示胶凝、成型"
+        }
+      ]
+    },
+    {
+      "word": "unscrew",
+      "phonetic": "/ˌʌnˈskruː/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "拧开，旋开",
+          "usage": "前缀un-表示反义，对应动词screw（拧紧）"
+        }
+      ]
+    },
+    {
+      "word": "nostril",
+      "phonetic": "/ˈnɒstrəl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "鼻孔",
+          "usage": "通常用复数形式nostrils表示两个鼻孔"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Green Channel",
+      "usage": "海关场景专有名词，指无需申报物品的旅客通行的“绿色通道”",
+      "examples": [
+        {
+          "en": "If you have nothing to declare, you can take the Green Channel.",
+          "zh": "如果你没有需要申报的物品，你可以走绿色通道。"
+        }
+      ]
+    },
+    {
+      "phrase": "look sb in the eye",
+      "usage": "表示直视某人的眼睛，通常用于坦诚、问心无愧的场景",
+      "examples": [
+        {
+          "en": "He lied to me and couldn't look me in the eye when he spoke.",
+          "zh": "他对我撒了谎，说话的时候不敢直视我的眼睛。"
+        }
+      ]
+    },
+    {
+      "phrase": "go through",
+      "usage": "此处含义是“仔细检查”，还有“经历、度过”的含义",
+      "examples": [
+        {
+          "en": "The police went through all the evidence to find the truth.",
+          "zh": "警方仔细检查了所有证据来找出真相。"
+        }
+      ]
+    },
+    {
+      "phrase": "in a dreadful mess",
+      "usage": "形容东西乱作一团，或者情况非常糟糕",
+      "examples": [
+        {
+          "en": "After the party, the whole house was in a dreadful mess.",
+          "zh": "派对结束后，整栋房子乱得一塌糊涂。"
+        }
+      ]
+    },
+    {
+      "phrase": "light up",
+      "usage": "此处指“（脸上）流露出喜悦、兴奋的神情”，还有“点亮、开灯”的含义",
+      "examples": [
+        {
+          "en": "Her face lit up when she received the admission letter.",
+          "zh": "收到录取通知书的时候，她脸上露出了喜色。"
+        }
+      ]
+    },
+    {
+      "phrase": "pounce on",
+      "usage": "指猛抓住某物，或者突然指出别人的错误、抓住机会",
+      "examples": [
+        {
+          "en": "The reporter pounced on the politician's slip of the tongue.",
+          "zh": "记者立刻抓住了政客的口误进行追问。"
+        }
+      ]
+    },
+    {
+      "phrase": "exempt from",
+      "usage": "表示免除某责任、义务或费用",
+      "examples": [
+        {
+          "en": "Students are exempt from the entrance fee for the museum.",
+          "zh": "学生可以免除这家博物馆的门票费用。"
+        }
+      ]
+    },
+    {
+      "phrase": "import duty",
+      "usage": "专有名词，指进口商品需要缴纳的进口税",
+      "examples": [
+        {
+          "en": "You have to pay import duty on luxury goods brought from abroad.",
+          "zh": "你从国外带回的奢侈品需要缴纳进口税。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "should have done 结构",
+      "definition": "表示“本应该做某事（实际上没做）”，属于虚拟语气的一种，常用来表达责备、后悔、建议等语气",
+      "structure": "should + have + 动词过去分词",
+      "usage": "用于谈论过去本该发生却没有发生的情况，否定形式为should not have done，表“本不该做某事却做了”",
+      "examples": [
+        {
+          "en": "You should have declared that.",
+          "zh": "你本应该申报那个（物品）的。"
+        },
+        {
+          "en": "You should have told me the news earlier.",
+          "zh": "你本应该早点告诉我这个消息的。"
+        },
+        {
+          "en": "We shouldn't have spent so much money on unnecessary things.",
+          "zh": "我们本不该在不必要的东西上花这么多钱的。"
+        }
+      ]
+    },
+    {
+      "title": "过去分词作定语",
+      "definition": "过去分词可以放在名词前面或后面作定语，表被动或者完成的含义",
+      "structure": "及物动词过去分词 + 名词 / 名词 + 过去分词（短语）",
+      "usage": "单个过去分词一般放在被修饰名词前，过去分词短语作定语则放在被修饰名词后，相当于一个被动语态的定语从句",
+      "examples": [
+        {
+          "en": "even if he has five hundred gold watches hidden in his suitcase.",
+          "zh": "即便他的手提箱里藏着500块金表。"
+        },
+        {
+          "en": "The book written by my favorite author sold very well.",
+          "zh": "我最喜欢的作家写的那本书销量非常好。"
+        },
+        {
+          "en": "We need to fix the broken window before it rains.",
+          "zh": "下雨前我们得把那扇碎了的窗户修好。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "..., on the other hand, ...",
+      "original": {
+        "en": "The hardened professional smuggler, on the other hand, is never troubled by such feelings.",
+        "zh": "而另一方面，老练的职业走私犯却从来不会被这种情绪困扰。"
+      },
+      "imitations": [
+        {
+          "en": "Many people enjoy living in big cities. Small towns, on the other hand, are more suitable for people who love quiet life.",
+          "zh": "很多人喜欢在大城市生活，而另一方面，小城镇更适合喜爱安静生活的人。"
+        },
+        {
+          "en": "Online learning is very convenient. Traditional classroom education, on the other hand, allows better interaction between teachers and students.",
+          "zh": "线上学习非常方便，而另一方面，传统课堂教育能让师生有更好的互动。"
+        }
+      ]
+    },
+    {
+      "pattern": "Would you mind doing sth please?",
+      "original": {
+        "en": "Would you mind unlocking this suitcase please?",
+        "zh": "麻烦你打开这个手提箱好吗？"
+      },
+      "imitations": [
+        {
+          "en": "Would you mind passing me the salt on the table please?",
+          "zh": "麻烦你把桌子上的盐递给我好吗？"
+        },
+        {
+          "en": "Would you mind turning down the radio a little? I'm doing my homework.",
+          "zh": "麻烦你把收音机音量调小一点可以吗？我正在做作业。"
+        }
+      ]
+    },
+    {
+      "pattern": "sb was greeted by...",
+      "original": {
+        "en": "He was greeted by an unpleasant smell which convinced him that I was telling the truth.",
+        "zh": "一股难闻的气味扑面而来，让他相信我说的是实话。"
+      },
+      "imitations": [
+        {
+          "en": "When I opened the door of the bakery, I was greeted by the warm smell of fresh bread.",
+          "zh": "我打开面包店的门时，扑面而来的是新鲜面包温暖的香气。"
+        },
+        {
+          "en": "The visitors were greeted by the beautiful song of birds as they walked into the forest.",
+          "zh": "游客们走进森林时，耳边首先传来了鸟儿动听的歌声。"
+        }
+      ]
+    }
+  ]
+}

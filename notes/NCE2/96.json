@@ -1,0 +1,408 @@
+{
+  "book": "NCE2",
+  "lesson": "96",
+  "title": "What happens to the lanterns at the end of the festival?",
+  "vocabulary": [
+    {
+      "word": "festival",
+      "phonetic": "/ˈfestɪvəl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "节日；festivity",
+          "usage": "指文化或宗教庆祝活动"
+        }
+      ]
+    },
+    {
+      "word": "lantern",
+      "phonetic": "/ˈlæntən/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "灯笼；提灯",
+          "usage": "通常指纸糊的照明灯具"
+        }
+      ]
+    },
+    {
+      "word": "the dead",
+      "phonetic": "/ðə ded/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "死者；死去的人",
+          "usage": "the + 形容词，表示一类人"
+        }
+      ]
+    },
+    {
+      "word": "return",
+      "phonetic": "/rɪˈtɜːn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "返回；回来",
+          "usage": "指回到原来的地方"
+        },
+        {
+          "pos": "noun",
+          "meaning": "返回；归还",
+          "usage": "指返回或归还的行为"
+        }
+      ]
+    },
+    {
+      "word": "journey",
+      "phonetic": "/ˈdʒɜːni/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "旅行；旅程",
+          "usage": "指从一个地方到另一个地方的路程"
+        }
+      ]
+    },
+    {
+      "word": "drift",
+      "phonetic": "/drɪft/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "漂流；漂移",
+          "usage": "指随风或水流动"
+        }
+      ]
+    },
+    {
+      "word": "spectacle",
+      "phonetic": "/ˈspektəkəl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "景象；场面；壮观",
+          "usage": "指引人注目的场景或表演"
+        }
+      ]
+    },
+    {
+      "word": "crowd",
+      "phonetic": "/kraʊd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "人群；观众",
+          "usage": "指聚集在一起的一群人"
+        }
+      ]
+    },
+    {
+      "word": "shore",
+      "phonetic": "/ʃɔː/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "海岸；海滨",
+          "usage": "指海洋、湖泊或大河的岸边"
+        }
+      ]
+    },
+    {
+      "word": "welcome",
+      "phonetic": "/ˈwelkəm/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "欢迎；迎接",
+          "usage": "指对来访者表示友好"
+        },
+        {
+          "pos": "adjective",
+          "meaning": "受欢迎的",
+          "usage": "指令人愉快的或受欢迎的"
+        }
+      ]
+    },
+    {
+      "word": "unlucky",
+      "phonetic": "/ʌnˈlʌki/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "不幸的；不吉利的",
+          "usage": "指运气不好或带来坏运气的"
+        }
+      ]
+    },
+    {
+      "word": "moving",
+      "phonetic": "/ˈmuːvɪŋ/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "感人的；动人的",
+          "usage": "指令人感动或情绪激动的"
+        }
+      ]
+    },
+    {
+      "word": "lay out",
+      "phonetic": "/leɪ aʊt/",
+      "meanings": [
+        {
+          "pos": "verb phrase",
+          "meaning": "摆出；铺开",
+          "usage": "指将物品整齐地摆放出来"
+        }
+      ]
+    },
+    {
+      "word": "consider",
+      "phonetic": "/kənˈsɪdə/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "认为；考虑",
+          "usage": "指经过思考后形成某种看法"
+        }
+      ]
+    },
+    {
+      "word": "expect",
+      "phonetic": "/ɪkˈspekt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "期望；预期",
+          "usage": "指认为某事会发生或应该发生"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "be said to",
+      "usage": "据说...；被说成...",
+      "examples": [
+        {
+          "en": "He is said to be very rich.",
+          "zh": "据说他非常富有。"
+        }
+      ]
+    },
+    {
+      "phrase": "be expected to",
+      "usage": "被期望...；应该...",
+      "examples": [
+        {
+          "en": "They are expected to arrive tomorrow.",
+          "zh": "他们预计明天到达。"
+        }
+      ]
+    },
+    {
+      "phrase": "lay out",
+      "usage": "摆放；摆出（食物等）",
+      "examples": [
+        {
+          "en": "Food was laid out on the table.",
+          "zh": "食物摆在桌子上。"
+        }
+      ]
+    },
+    {
+      "phrase": "help someone (to) do something",
+      "usage": "帮助某人做某事",
+      "examples": [
+        {
+          "en": "The lanterns help the dead to find their way.",
+          "zh": "灯笼帮助死者找到路。"
+        }
+      ]
+    },
+    {
+      "phrase": "all night long",
+      "usage": "整夜；一整晚",
+      "examples": [
+        {
+          "en": "People dance and sing all night long.",
+          "zh": "人们整晚唱歌跳舞。"
+        }
+      ]
+    },
+    {
+      "phrase": "in the early morning",
+      "usage": "一大早；清晨",
+      "examples": [
+        {
+          "en": "In the early morning, the food is thrown into the river.",
+          "zh": "一大早，食物被扔进河里。"
+        }
+      ]
+    },
+    {
+      "phrase": "be considered (as)",
+      "usage": "被认为是...",
+      "examples": [
+        {
+          "en": "It is considered unlucky to eat the food.",
+          "zh": "吃那些食物被认为是不吉利的。"
+        }
+      ]
+    },
+    {
+      "phrase": "thousands of",
+      "usage": "成千上万的；数千的",
+      "examples": [
+        {
+          "en": "Thousands of lanterns drift out to sea.",
+          "zh": "成千上万的灯笼漂向大海。"
+        }
+      ]
+    },
+    {
+      "phrase": "drift out to sea",
+      "usage": "漂向大海",
+      "examples": [
+        {
+          "en": "The lanterns slowly drift out to sea.",
+          "zh": "灯笼缓缓漂向大海。"
+        }
+      ]
+    },
+    {
+      "phrase": "until they can be seen no more",
+      "usage": "直到看不见为止",
+      "examples": [
+        {
+          "en": "They watch until they can be seen no more.",
+          "zh": "他们看着直到看不见为止。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "一般过去时的被动语态",
+      "definition": "表示过去发生的动作，且主语是动作的承受者",
+      "structure": "主语 + was/were + 过去分词 + (by + 动作执行者)",
+      "usage": "当强调动作的承受者或不知道动作执行者时使用",
+      "examples": [
+        {
+          "en": "A Festival for the Dead is held once a year.",
+          "zh": "亡魂节每年举行一次。"
+        },
+        {
+          "en": "The food was thrown into a river.",
+          "zh": "食物被扔进河里。"
+        },
+        {
+          "en": "The tiny lanterns were placed into the water.",
+          "zh": "小灯笼被放入水中。"
+        }
+      ]
+    },
+    {
+      "title": "be + 动词不定式（表示计划或安排）",
+      "definition": "表示按计划或安排将要发生的事",
+      "structure": "主语 + am/is/are + to + 动词原形",
+      "usage": "表示将来确定会发生的事或被安排的事",
+      "examples": [
+        {
+          "en": "The dead are said to return to their homes.",
+          "zh": "据说死者会回到他们的家。"
+        },
+        {
+          "en": "The lanterns are to be placed into the water.",
+          "zh": "灯笼要被放入水中。"
+        }
+      ]
+    },
+    {
+      "title": "时间状语从句",
+      "definition": "用来说明动作发生时间的从句",
+      "structure": "when/after/before + 主语 + 动词...",
+      "usage": "用于描述两个动作的时间先后关系",
+      "examples": [
+        {
+          "en": "People dance and sing when the festival is held.",
+          "zh": "节日举行时人们唱歌跳舞。"
+        },
+        {
+          "en": "The lanterns are placed into the water when the festival is over.",
+          "zh": "节日结束时，灯笼被放入水中。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "It is considered + adj. + (for someone) + to do something",
+      "original": {
+        "en": "It is considered unlucky for anyone living to eat it.",
+        "zh": "对于任何活着的人来说，吃它被认为是不吉利的。"
+      },
+      "imitations": [
+        {
+          "en": "It is considered impolite to ask about someone's age.",
+          "zh": "询问别人的年龄被认为是不礼貌的。"
+        },
+        {
+          "en": "It is considered dangerous to swim alone.",
+          "zh": "独自游泳被认为是有危险的。"
+        }
+      ]
+    },
+    {
+      "pattern": "...is/are + 过去分词 + ...",
+      "original": {
+        "en": "Food is laid out for them.",
+        "zh": "食物为他们摆出来。"
+      },
+      "imitations": [
+        {
+          "en": "Books are placed on the desk.",
+          "zh": "书被放在桌子上。"
+        },
+        {
+          "en": "The letter was sent yesterday.",
+          "zh": "信昨天被寄出去了。"
+        }
+      ]
+    },
+    {
+      "pattern": "Thousands of + 复数名词 + 动词",
+      "original": {
+        "en": "Thousands of lanterns slowly drift out to sea.",
+        "zh": "成千上万的灯笼缓缓漂向大海。"
+      },
+      "imitations": [
+        {
+          "en": "Thousands of people gather at the square.",
+          "zh": "成千上万的人聚集在广场上。"
+        },
+        {
+          "en": "Thousands of birds fly south in winter.",
+          "zh": "成千上万的鸟在冬天飞向南方。"
+        }
+      ]
+    },
+    {
+      "pattern": "...until + 主语 + can + be + 过去分词 + no more",
+      "original": {
+        "en": "...until they can be seen no more.",
+        "zh": "直到看不见它们为止。"
+      },
+      "imitations": [
+        {
+          "en": "They watched the boat until it could be seen no more.",
+          "zh": "他们看着那艘船直到看不见为止。"
+        },
+        {
+          "en": "She waited until the light could be seen no more.",
+          "zh": "她等待着直到看不见那光。"
+        }
+      ]
+    }
+  ]
+}

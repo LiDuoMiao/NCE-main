@@ -1,0 +1,390 @@
+{
+  "book": "NCE2",
+  "lesson": "33",
+  "title": "Why was the girl in hospital?",
+  "vocabulary": [
+    {
+      "word": "hospital",
+      "phonetic": "/ˈhɒspɪtəl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "医院",
+          "usage": "指治疗和护理病人的机构"
+        }
+      ]
+    },
+    {
+      "word": "coast",
+      "phonetic": "/kəʊst/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "海岸；海滨",
+          "usage": "指陆地与海洋的交界处"
+        }
+      ]
+    },
+    {
+      "word": "storm",
+      "phonetic": "/stɔːm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "暴风雨；风暴",
+          "usage": "指恶劣的天气现象，通常伴有大风大雨"
+        }
+      ]
+    },
+    {
+      "word": "rock",
+      "phonetic": "/rɒk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "岩石；礁石",
+          "usage": "指海中的大石头或礁石"
+        }
+      ]
+    },
+    {
+      "word": "shore",
+      "phonetic": "/ʃɔː/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "海岸；海滨",
+          "usage": "指海洋、湖泊或河流的岸边"
+        }
+      ]
+    },
+    {
+      "word": "mile",
+      "phonetic": "/maɪl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "英里",
+          "usage": "距离单位，1英里约等于1.6公里"
+        }
+      ]
+    },
+    {
+      "word": "cliff",
+      "phonetic": "/klɪf/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "悬崖；峭壁",
+          "usage": "指陡峭的山崖或海岸边的岩壁"
+        }
+      ]
+    },
+    {
+      "word": "struggle",
+      "phonetic": "/ˈstrʌɡl/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "挣扎；艰难地移动",
+          "usage": "指付出很大努力去做某事"
+        }
+      ]
+    },
+    {
+      "word": "light",
+      "phonetic": "/laɪt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "灯光；光亮",
+          "usage": "指发出的光，可用于指引方向"
+        }
+      ]
+    },
+    {
+      "word": "explain",
+      "phonetic": "/ɪkˈspleɪn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "解释；说明",
+          "usage": "指用言语阐述某事的原因或经过"
+        }
+      ]
+    },
+    {
+      "word": "ahead",
+      "phonetic": "/əˈhed/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "在前面；向前",
+          "usage": "指在前方或朝向未来的方向"
+        }
+      ]
+    },
+    {
+      "word": "remember",
+      "phonetic": "/rɪˈmembə/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "记得；记住",
+          "usage": "指在脑海中回忆起过去的事情"
+        }
+      ]
+    },
+    {
+      "word": "cover",
+      "phonetic": "/ˈkʌvə/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "走过；覆盖",
+          "usage": "指行进一定的距离"
+        }
+      ]
+    },
+    {
+      "word": "arrive",
+      "phonetic": "/əˈraɪv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "到达；抵达",
+          "usage": "指到达某个地点"
+        }
+      ]
+    },
+    {
+      "word": "wake",
+      "phonetic": "/weɪk/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "醒来；唤醒",
+          "usage": "指从睡眠中醒来"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "set out",
+      "usage": "表示出发、启程",
+      "examples": [
+        {
+          "en": "She set out from the coast in a small boat.",
+          "zh": "她乘小船从海岸出发了。"
+        }
+      ]
+    },
+    {
+      "phrase": "be caught in",
+      "usage": "表示陷入（困境、风暴等）",
+      "examples": [
+        {
+          "en": "She was caught in a storm.",
+          "zh": "她遇到了暴风雨。"
+        }
+      ]
+    },
+    {
+      "phrase": "towards evening",
+      "usage": "表示临近傍晚时分",
+      "examples": [
+        {
+          "en": "Towards evening, the boat struck a rock.",
+          "zh": "临近傍晚时，小船撞上了一块礁石。"
+        }
+      ]
+    },
+    {
+      "phrase": "jump into",
+      "usage": "表示跳入",
+      "examples": [
+        {
+          "en": "The girl jumped into the sea.",
+          "zh": "女孩跳入了海中。"
+        }
+      ]
+    },
+    {
+      "phrase": "spend the whole night",
+      "usage": "表示度过整晚",
+      "examples": [
+        {
+          "en": "She spent the whole night in the water.",
+          "zh": "她在水中度过了整晚。"
+        }
+      ]
+    },
+    {
+      "phrase": "near the shore",
+      "usage": "表示靠近海岸",
+      "examples": [
+        {
+          "en": "She knew she was near the shore.",
+          "zh": "她知道自己靠近海岸了。"
+        }
+      ]
+    },
+    {
+      "phrase": "on arriving",
+      "usage": "表示一到达就...（相当于as soon as she arrived）",
+      "examples": [
+        {
+          "en": "On arriving at the shore, the girl struggled up the cliff.",
+          "zh": "一到达海岸，女孩就艰难地向上爬向悬崖。"
+        }
+      ]
+    },
+    {
+      "phrase": "wake up",
+      "usage": "表示醒来",
+      "examples": [
+        {
+          "en": "When she woke up a day later, she found herself in hospital.",
+          "zh": "当她一天后醒来时，她发现自己在医院里。"
+        }
+      ]
+    },
+    {
+      "phrase": "struggle up",
+      "usage": "表示艰难地向上爬/走",
+      "examples": [
+        {
+          "en": "The girl struggled up the cliff towards the light.",
+          "zh": "女孩艰难地向悬崖上的灯光爬去。"
+        }
+      ]
+    },
+    {
+      "phrase": "cover a distance of",
+      "usage": "表示行进了...距离",
+      "examples": [
+        {
+          "en": "During that time she covered a distance of eight miles.",
+          "zh": "在那段时间里，她游了八英里。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去进行时 (Past Continuous Tense)",
+      "definition": "表示在过去某一时刻或某一段时间正在进行的动作",
+      "structure": "主语 + was/were + 动词-ing",
+      "usage": "用于描述过去正在发生的动作，常与when、while等连用",
+      "examples": [
+        {
+          "en": "One afternoon she set out from the coast.",
+          "zh": "一天下午她从海岸出发了。"
+        },
+        {
+          "en": "The boat struck a rock and the girl jumped into the sea.",
+          "zh": "小船撞上了一块礁石，女孩跳入了海中。"
+        }
+      ]
+    },
+    {
+      "title": "时间状语从句 (Time Clause with 'before')",
+      "definition": "用before引导的时间状语从句，表示主句动作发生在从句动作之前",
+      "structure": "主句 + before + 从句 / Before + 从句 + 主句",
+      "usage": "用于描述先后发生的两个动作，强调主句动作在从句动作之前",
+      "examples": [
+        {
+          "en": "Nearly a week passed before the girl was able to explain what had happened.",
+          "zh": "将近一周后，女孩才能解释发生了什么事。"
+        },
+        {
+          "en": "She found herself in hospital when she woke up a day later.",
+          "zh": "当她一天后醒来时，她发现自己在医院里。"
+        }
+      ]
+    },
+    {
+      "title": "过去完成时 (Past Perfect Tense)",
+      "definition": "表示在过去某一时刻之前已经完成的动作",
+      "structure": "主语 + had + 过去分词",
+      "usage": "用于描述过去的过去，常与before、when等连用",
+      "examples": [
+        {
+          "en": "She explained what had happened to her.",
+          "zh": "她解释了她所发生的事情。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "...before + 主语 + was able to do something",
+      "original": {
+        "en": "Nearly a week passed before the girl was able to explain what had happened.",
+        "zh": "将近一周后，女孩才能解释发生了什么事。"
+      },
+      "imitations": [
+        {
+          "en": "Three hours passed before I was able to find my way.",
+          "zh": "三个小时后我才能找到路。"
+        },
+        {
+          "en": "A long time passed before he was able to speak again.",
+          "zh": "很长时间后他才能再次说话。"
+        }
+      ]
+    },
+    {
+      "pattern": "...was/were + 动词-ing when + 过去时",
+      "original": {
+        "en": "The girl was swimming when the boat struck a rock.",
+        "zh": "当小船撞上礁石时，女孩正在游泳。"
+      },
+      "imitations": [
+        {
+          "en": "He was reading when the phone rang.",
+          "zh": "电话响的时候他正在看书。"
+        },
+        {
+          "en": "They were walking along the beach when it started to rain.",
+          "zh": "开始下雨时他们正沿着海滩走。"
+        }
+      ]
+    },
+    {
+      "pattern": "On + 动词-ing, 主语 + 谓语",
+      "original": {
+        "en": "On arriving at the shore, the girl struggled up the cliff.",
+        "zh": "一到达海岸，女孩就艰难地向上爬向悬崖。"
+      },
+      "imitations": [
+        {
+          "en": "On hearing the news, she started to cry.",
+          "zh": "一听到这个消息，她就哭了起来。"
+        },
+        {
+          "en": "On entering the room, he saw a stranger.",
+          "zh": "一进入房间，他就看到一个陌生人。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + spent + 时间 + in + 动词-ing",
+      "original": {
+        "en": "She spent the whole night in the water.",
+        "zh": "她在水中度过了整晚。"
+      },
+      "imitations": [
+        {
+          "en": "He spent two hours in waiting for the bus.",
+          "zh": "他等了两个小时公交车。"
+        },
+        {
+          "en": "They spent the whole day in exploring the city.",
+          "zh": "他们花了一整天探索这座城市。"
+        }
+      ]
+    }
+  ]
+}

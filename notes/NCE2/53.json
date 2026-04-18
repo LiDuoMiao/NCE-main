@@ -1,0 +1,406 @@
+{
+  "book": "NCE2",
+  "lesson": "53",
+  "title": "What caused the fire?",
+  "vocabulary": [
+    {
+      "word": "fireman",
+      "phonetic": "/ˈfaɪəmən/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "消防队员",
+          "usage": "复数形式为firemen，指男性消防员，女性为firefighter"
+        }
+      ]
+    },
+    {
+      "word": "forest",
+      "phonetic": "/ˈfɒrɪst/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "森林",
+          "usage": "常用短语in the forest, forest fire(森林火灾)"
+        }
+      ]
+    },
+    {
+      "word": "cause",
+      "phonetic": "/kɔːz/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "导致；引起",
+          "usage": "cause + n. 表示导致某事发生"
+        },
+        {
+          "pos": "noun",
+          "meaning": "原因",
+          "usage": "the cause of... 表示...的原因"
+        }
+      ]
+    },
+    {
+      "word": "examine",
+      "phonetic": "/ɪɡˈzæmɪn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "检查；仔细观察",
+          "usage": "examine + n. 表示对某物进行仔细检查"
+        }
+      ]
+    },
+    {
+      "word": "accidentally",
+      "phonetic": "/ˌæksɪˈdentəli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "偶然地；意外地",
+          "usage": "修饰动词，表示意外地做某事"
+        }
+      ]
+    },
+    {
+      "word": "remain",
+      "phonetic": "/rɪˈmeɪn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "遗骸；残余物",
+          "usage": "常用复数remains，表示动植物的残骸或遗迹"
+        },
+        {
+          "pos": "verb",
+          "meaning": "保持；留下",
+          "usage": "remain + adj./n. 表示保持某种状态"
+        }
+      ]
+    },
+    {
+      "word": "snake",
+      "phonetic": "/sneɪk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "蛇",
+          "usage": "泛指蛇类动物，无复数变化"
+        }
+      ]
+    },
+    {
+      "word": "wound",
+      "phonetic": "/waʊnd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "缠绕；卷绕",
+          "usage": "wind的过去式，wound round表示缠绕在...上"
+        },
+        {
+          "pos": "noun",
+          "meaning": "伤口",
+          "usage": "指外伤或刀伤"
+        }
+      ]
+    },
+    {
+      "word": "electric",
+      "phonetic": "/ɪˈlektrɪk/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "电的；用电的",
+          "usage": "只修饰名词，如electric wire电线"
+        }
+      ]
+    },
+    {
+      "word": "wire",
+      "phonetic": "/ˈwaɪə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "电线；金属丝",
+          "usage": "指金属线或电缆"
+        }
+      ]
+    },
+    {
+      "word": "volt",
+      "phonetic": "/vəʊlt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "伏特（电压单位）",
+          "usage": "简写为V，用于表示电压大小"
+        }
+      ]
+    },
+    {
+      "word": "power line",
+      "phonetic": "/ˈpaʊə laɪn/",
+      "meanings": [
+        {
+          "pos": "noun phrase",
+          "meaning": "电力线；输电线路",
+          "usage": "固定搭配，指传输电力的线路"
+        }
+      ]
+    },
+    {
+      "word": "explanation",
+      "phonetic": "/ˌekspləˈneɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "解释；说明",
+          "usage": "an explanation of/for something 表示对某事的解释"
+        }
+      ]
+    },
+    {
+      "word": "spark",
+      "phonetic": "/spɑːk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "火花；电火花",
+          "usage": "指小的火星或电火花"
+        },
+        {
+          "pos": "verb",
+          "meaning": "引发；导致",
+          "usage": "spark + n. 表示引发某事"
+        }
+      ]
+    },
+    {
+      "word": "immediately",
+      "phonetic": "/ɪˈmiːdiətli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "立即；马上",
+          "usage": "等于at once，表示立刻"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "put out",
+      "usage": "扑灭（火灾）",
+      "examples": [
+        {
+          "en": "Firemen have put out a big forest fire.",
+          "zh": "消防员已经扑灭了一场大规模的森林火灾。"
+        }
+      ]
+    },
+    {
+      "phrase": "find out",
+      "usage": "查明；发现真相",
+      "examples": [
+        {
+          "en": "They have been trying to find out how the fire began.",
+          "zh": "他们一直试图查明这场火是怎么烧起来的。"
+        }
+      ]
+    },
+    {
+      "phrase": "carelessly throw away",
+      "usage": "随意扔掉",
+      "examples": [
+        {
+          "en": "Cigarette ends which people carelessly throw away often cause fires.",
+          "zh": "人们随意扔掉的烟头经常引发火灾。"
+        }
+      ]
+    },
+    {
+      "phrase": "be able to",
+      "usage": "能够；有能力做某事",
+      "examples": [
+        {
+          "en": "He was able to solve the mystery.",
+          "zh": "他能够解开这个谜团。"
+        }
+      ]
+    },
+    {
+      "phrase": "in this way",
+      "usage": "以这种方式；这样",
+      "examples": [
+        {
+          "en": "In this way, he was able to solve the mystery.",
+          "zh": "就这样，他能够解开这个谜团。"
+        }
+      ]
+    },
+    {
+      "phrase": "snatch up",
+      "usage": "抓起；夺走",
+      "examples": [
+        {
+          "en": "A bird had snatched up the snake from the ground.",
+          "zh": "一只鸟从地上把蛇抓了起来。"
+        }
+      ]
+    },
+    {
+      "phrase": "drop on to",
+      "usage": "扔到...上；投到...上",
+      "examples": [
+        {
+          "en": "The bird dropped it on to the wires.",
+          "zh": "那只鸟把蛇扔到了电线上。"
+        }
+      ]
+    },
+    {
+      "phrase": "wind round",
+      "usage": "缠绕在...上",
+      "examples": [
+        {
+          "en": "The snake wound itself round the wires.",
+          "zh": "蛇把自己缠绕在电线上。"
+        }
+      ]
+    },
+    {
+      "phrase": "send down",
+      "usage": "使...下降；发送下来",
+      "examples": [
+        {
+          "en": "It sent sparks down to the ground.",
+          "zh": "它把火花送到地面上。"
+        }
+      ]
+    },
+    {
+      "phrase": "at last",
+      "usage": "终于；最后",
+      "examples": [
+        {
+          "en": "At last firemen have put out a big forest fire.",
+          "zh": "消防员们终于扑灭了一场大规模的森林火灾。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "现在完成时 (Present Perfect Tense)",
+      "definition": "表示过去发生的事件对现在有影响，或从过去持续到现在的动作。常与already, yet, just, since, for等时间副词连用。",
+      "structure": "主语 + have/has + 过去分词",
+      "usage": "用于描述过去发生并已完成，但强调与现在的联系的事件。",
+      "examples": [
+        {
+          "en": "Firemen have put out a big forest fire.",
+          "zh": "消防员已经扑灭了一场大规模的森林火灾。"
+        },
+        {
+          "en": "They have been trying to find out how the fire began.",
+          "zh": "他们一直试图查明火灾是怎么发生的。"
+        }
+      ]
+    },
+    {
+      "title": "现在完成进行时 (Present Perfect Continuous)",
+      "definition": "表示从过去开始一直持续到现在并可能继续下去的动作，强调动作的持续性。",
+      "structure": "主语 + have/has + been + 动词-ing形式",
+      "usage": "用于强调动作持续进行了一定时间。",
+      "examples": [
+        {
+          "en": "They have been trying to find out how the fire began.",
+          "zh": "他们一直在努力查明火灾发生的原因。"
+        }
+      ]
+    },
+    {
+      "title": "过去进行时 (Past Continuous)",
+      "definition": "表示过去某一时刻或时间段正在进行的动作。",
+      "structure": "主语 + was/were + 动词-ing形式",
+      "usage": "用于描述过去正在发生的动作，常与when, while等连用。",
+      "examples": [
+        {
+          "en": "A fireman was examining the ground when he discovered the snake.",
+          "zh": "一位消防员正在检查地面时发现了那条蛇。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Since + 时间点, 主语 + have/has + 过去分词",
+      "original": {
+        "en": "Since then, they have been trying to find out how the fire began.",
+        "zh": "从那以后，他们一直试图查明火灾发生的原因。"
+      },
+      "imitations": [
+        {
+          "en": "Since last week, I have been learning English.",
+          "zh": "从上个月开始，我一直在学英语。"
+        },
+        {
+          "en": "Since 2020, he has been working here.",
+          "zh": "自从2020年以来，他一直在这里工作。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + be able to + 动词原形",
+      "original": {
+        "en": "In this way, he was able to solve the mystery.",
+        "zh": "就这样，他能够解开这个谜团。"
+      },
+      "imitations": [
+        {
+          "en": "She was able to finish the work on time.",
+          "zh": "她能够按时完成工作。"
+        },
+        {
+          "en": "Were you able to understand the story?",
+          "zh": "你能理解这个故事吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "When + 主语 + 动词-ed, 主语 + 动词-ed",
+      "original": {
+        "en": "When it did so, it sent sparks down to the ground.",
+        "zh": "当它这样做时，它把火花送到地面上。"
+      },
+      "imitations": [
+        {
+          "en": "When he arrived home, it began to rain.",
+          "zh": "当他到家时，开始下雨了。"
+        },
+        {
+          "en": "When she saw the snake, she screamed.",
+          "zh": "当她看到蛇时，她尖叫起来。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + 动词 + 宾语 + 介词短语",
+      "original": {
+        "en": "A bird had snatched up the snake from the ground and then dropped it on to the wires.",
+        "zh": "一只鸟从地上把蛇抓起来，然后把它扔到了电线上。"
+      },
+      "imitations": [
+        {
+          "en": "The cat caught the mouse from the corner.",
+          "zh": "猫从角落里抓住了老鼠。"
+        },
+        {
+          "en": "He picked up the book from the floor.",
+          "zh": "他从地板上捡起了书。"
+        }
+      ]
+    }
+  ]
+}

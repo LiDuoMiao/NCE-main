@@ -1,0 +1,292 @@
+{
+  "book": "NCE3",
+  "lesson": "04",
+  "title": "Lesson 4",
+  "vocabulary": [
+    {
+      "word": "manual",
+      "phonetic": "/ˈmænjuəl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "体力的；手工的",
+          "usage": "通常修饰工作、劳动等需要体力完成的活动"
+        }
+      ]
+    },
+    {
+      "word": "white-collar",
+      "phonetic": "/ˌwaɪt ˈkɒlə(r)/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "白领的；办公室工作的",
+          "usage": "用于描述从事非体力办公室工作的人群或相关属性"
+        }
+      ]
+    },
+    {
+      "word": "sacrifice",
+      "phonetic": "/ˈsækrɪfaɪs/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "牺牲；舍弃",
+          "usage": "常用搭配sacrifice sth for sth，表为了某物舍弃另一物"
+        }
+      ]
+    },
+    {
+      "word": "privilege",
+      "phonetic": "/ˈprɪvəlɪdʒ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "特权；特殊待遇",
+          "usage": "可指社会地位带来的特殊优待，也可表荣幸做某事"
+        }
+      ]
+    },
+    {
+      "word": "curious",
+      "phonetic": "/ˈkjʊəriəs/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "奇特的；奇怪的",
+          "usage": "除表好奇的，还可修饰事物表示不寻常、值得注意的"
+        }
+      ]
+    },
+    {
+      "word": "dustman",
+      "phonetic": "/ˈdʌstmən/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "清洁工；垃圾清运工",
+          "usage": "英式英语表述，对应美式英语garbage man"
+        }
+      ]
+    },
+    {
+      "word": "embarrassed",
+      "phonetic": "/ɪmˈbærəst/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "尴尬的；难堪的",
+          "usage": "用来描述人因处境尴尬、害羞的状态，修饰事物用embarrassing"
+        }
+      ]
+    },
+    {
+      "word": "overalls",
+      "phonetic": "/ˈəʊvərɔːlz/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "工装裤；工作罩衣",
+          "usage": "常用复数形式，指工作时穿的防护性服装"
+        }
+      ]
+    },
+    {
+      "word": "fellow",
+      "phonetic": "/ˈfeləʊ/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "同类的；同伴的",
+          "usage": "放在名词前，指和自己有相同身份、处境的人"
+        }
+      ]
+    },
+    {
+      "word": "status",
+      "phonetic": "/ˈsteɪtəs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "地位；身份",
+          "usage": "指个人在社会、组织中的层级地位，不可数名词"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "refer to sb as",
+      "usage": "将某人称作、把某人称为，用来表达对某人的称谓",
+      "examples": [
+        {
+          "en": "People who work in offices are frequently referred to as 'white-collar workers'.",
+          "zh": "在办公室工作的人常常被称作“白领工人”。"
+        },
+        {
+          "en": "He is often referred to as the best basketball player of his generation.",
+          "zh": "他常被称为他那一代人中最好的篮球运动员。"
+        }
+      ]
+    },
+    {
+      "phrase": "give rise to",
+      "usage": "引起；导致；使发生，后接表示结果类的名词",
+      "examples": [
+        {
+          "en": "This can give rise to curious situations.",
+          "zh": "这就可能引起一些奇怪的现象。"
+        },
+        {
+          "en": "Poor communication may give rise to misunderstandings between team members.",
+          "zh": "沟通不畅可能会导致团队成员之间产生误会。"
+        }
+      ]
+    },
+    {
+      "phrase": "in the case of",
+      "usage": "就……而言；在……的情况下，用来引出具体的例子或情况",
+      "examples": [
+        {
+          "en": "As it did in the case of Alfred Bloggs who worked as a dustman.",
+          "zh": "在阿尔弗雷德·布洛格斯的情况中就是如此，他是埃尔斯米尔公司的清洁工。"
+        },
+        {
+          "en": "The new policy is quite flexible, especially in the case of small businesses.",
+          "zh": "这项新政策很灵活，对小企业来说尤其如此。"
+        }
+      ]
+    },
+    {
+      "phrase": "too ... to ...",
+      "usage": "太……而不能……，用来表达否定含义，说明程度过高导致无法做某事",
+      "examples": [
+        {
+          "en": "Alf was too embarrassed to say anything to his wife about his job.",
+          "zh": "阿尔弗太尴尬了，以至于没法和妻子说自己工作的事。"
+        },
+        {
+          "en": "The little boy was too short to reach the book on the top shelf.",
+          "zh": "这个小男孩太矮了，够不到顶层架子上的书。"
+        }
+      ]
+    },
+    {
+      "phrase": "be well worth",
+      "usage": "非常值得……，后面接名词或动名词，表付出的代价是值得的",
+      "examples": [
+        {
+          "en": "He feels that his rise in status is well worth the loss of money.",
+          "zh": "他觉得地位提升了，损失这点钱是非常值得的。"
+        },
+        {
+          "en": "The view from the mountain top is well worth the two-hour climb.",
+          "zh": "爬两个小时的山来看山顶的景色是非常值得的。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "定语从句 (Attributive Clause)",
+      "definition": "在复合句中修饰名词或代词的从句，用来对先行词进行修饰限定",
+      "structure": "先行词 + 关系代词/关系副词 + 从句剩余部分",
+      "usage": "用来补充说明先行词的特征、属性等，常用关系代词who指代人，which指代物，that既可指人或物",
+      "examples": [
+        {
+          "en": "People who do manual work often receive far more money than people who work in offices.",
+          "zh": "从事体力劳动的人通常比坐办公室的人收入高得多。"
+        },
+        {
+          "en": "The book that you lent me last week is very interesting.",
+          "zh": "你上周借给我的那本书非常有意思。"
+        }
+      ]
+    },
+    {
+      "title": "将来进行时 (Future Continuous Tense)",
+      "definition": "表示将来某个时间正在进行的动作，或者将来某段时间内持续进行的动作",
+      "structure": "will be + 动词的现在分词（doing）",
+      "usage": "用来表达对将来动作的客观描述，比一般将来时更强调动作在未来的持续性、进行状态",
+      "examples": [
+        {
+          "en": "He will soon be working in an office.",
+          "zh": "他不久就要在办公室工作了。"
+        },
+        {
+          "en": "This time tomorrow, I will be flying to Paris.",
+          "zh": "明天这个时候，我正飞往巴黎。"
+        }
+      ]
+    },
+    {
+      "title": "such引导的倒装句",
+      "definition": "为了强调表语部分，将such置于句首，句子需要部分倒装，用来加强语气",
+      "structure": "Such + be + 主语 + that引导的结果状语从句",
+      "usage": "用来突出强调某事物的性质、特点，后接that从句说明该特点带来的结果",
+      "examples": [
+        {
+          "en": "Such is human nature, that a great many people are often willing to sacrifice higher pay for the privilege of becoming white-collar workers.",
+          "zh": "很多人常常愿意牺牲更高的薪水来换取成为白领的优待，这就是人之常情。"
+        },
+        {
+          "en": "Such is the power of music that it can make people forget their sadness.",
+          "zh": "这就是音乐的力量，它能让人们忘记悲伤。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "A receive far more money than B",
+      "original": {
+        "en": "These days, people who do manual work often receive far more money than people who work in offices.",
+        "zh": "如今，从事体力劳动的人通常比坐办公室的人收入高得多。"
+      },
+      "imitations": [
+        {
+          "en": "Nowadays, skilled technicians often receive far more money than ordinary office clerks.",
+          "zh": "如今，技术娴熟的技工通常比普通办公室职员收入高得多。"
+        },
+        {
+          "en": "In many cities, people who work in the catering industry often receive far more money than new graduates.",
+          "zh": "在很多城市，从事餐饮行业的人通常比刚毕业的学生收入高得多。"
+        }
+      ]
+    },
+    {
+      "pattern": "A be willing to sacrifice A for the privilege of B",
+      "original": {
+        "en": "A great many people are often willing to sacrifice higher pay for the privilege of becoming white-collar workers.",
+        "zh": "很多人常常愿意牺牲更高的薪水来换取成为白领的优待。"
+      },
+      "imitations": [
+        {
+          "en": "Many young people are willing to sacrifice their free time for the privilege of studying at a top university.",
+          "zh": "很多年轻人愿意牺牲自己的空闲时间来换取在顶尖大学学习的机会。"
+        },
+        {
+          "en": "He was willing to sacrifice a stable job for the privilege of starting his own business.",
+          "zh": "他愿意牺牲一份稳定的工作来换取自己创业的机会。"
+        }
+      ]
+    },
+    {
+      "pattern": "A do this for + 时间段, and B keep the secret",
+      "original": {
+        "en": "Alf did this for over two years and his fellow dustmen kept his secret.",
+        "zh": "阿尔弗这样做了两年多，他的清洁工同事们都替他保守秘密。"
+      },
+      "imitations": [
+        {
+          "en": "She hid her illness from her family for three months and her close friends kept her secret.",
+          "zh": "她向家人隐瞒了自己的病情三个月，她的密友们都替她保守秘密。"
+        },
+        {
+          "en": "He prepared a surprise birthday party for his wife for a week and all their common friends kept the secret.",
+          "zh": "他为妻子准备惊喜生日派对准备了一周，他们的共同好友都替他保守秘密。"
+        }
+      ]
+    }
+  ]
+}

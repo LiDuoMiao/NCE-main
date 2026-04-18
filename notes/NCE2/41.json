@@ -1,0 +1,398 @@
+{
+  "book": "NCE2",
+  "lesson": "41",
+  "title": "What kind of shopping does the writer enjoy, do you think?",
+  "vocabulary": [
+    {
+      "word": "rude",
+      "phonetic": "/ruːd/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "粗鲁的，无礼的",
+          "usage": "形容人的行为或言语不礼貌"
+        }
+      ]
+    },
+    {
+      "word": "mirror",
+      "phonetic": "/ˈmɪrə(r)/",
+      "meanings": [
+        {
+          "pos": "n",
+          "meaning": "镜子",
+          "usage": "用于反射影像的玻璃制品"
+        }
+      ]
+    },
+    {
+      "word": "modern",
+      "phonetic": "/ˈmɒdn/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "现代的，现代化的",
+          "usage": "形容当代的或新式的物品"
+        }
+      ]
+    },
+    {
+      "word": "regret",
+      "phonetic": "/rɪˈɡret/",
+      "meanings": [
+        {
+          "pos": "v",
+          "meaning": "后悔，遗憾",
+          "usage": "对已做的事感到后悔"
+        }
+      ]
+    },
+    {
+      "word": "remark",
+      "phonetic": "/rɪˈmɑːk/",
+      "meanings": [
+        {
+          "pos": "v/n",
+          "meaning": "评论，谈论",
+          "usage": "发表意见或评论"
+        }
+      ]
+    },
+    {
+      "word": "lighthouse",
+      "phonetic": "/ˈlaɪthaʊs/",
+      "meanings": [
+        {
+          "pos": "n",
+          "meaning": "灯塔",
+          "usage": "海岸边指引船只的塔状建筑"
+        }
+      ]
+    },
+    {
+      "word": "tie",
+      "phonetic": "/taɪ/",
+      "meanings": [
+        {
+          "pos": "n",
+          "meaning": "领带，领结",
+          "usage": "系在领口的服饰配件"
+        }
+      ]
+    },
+    {
+      "word": "need",
+      "phonetic": "/niːd/",
+      "meanings": [
+        {
+          "pos": "v/aux",
+          "meaning": "需要，必须",
+          "usage": "表示必要或需求"
+        }
+      ]
+    },
+    {
+      "word": "hat",
+      "phonetic": "/hæt/",
+      "meanings": [
+        {
+          "pos": "n",
+          "meaning": "帽子",
+          "usage": "戴在头上的遮挡物"
+        }
+      ]
+    },
+    {
+      "word": "lighthouse",
+      "phonetic": "/ˈlaɪthaʊs/",
+      "meanings": [
+        {
+          "pos": "n",
+          "meaning": "灯塔",
+          "usage": "此处形容帽子形状像灯塔"
+        }
+      ]
+    },
+    {
+      "word": "wife",
+      "phonetic": "/waɪf/",
+      "meanings": [
+        {
+          "pos": "n",
+          "meaning": "妻子",
+          "usage": "已婚女性的称呼"
+        }
+      ]
+    },
+    {
+      "word": "minute",
+      "phonetic": "/ˈmɪnɪt/",
+      "meanings": [
+        {
+          "pos": "n",
+          "meaning": "分钟",
+          "usage": "时间单位，60秒"
+        }
+      ]
+    },
+    {
+      "word": "beautiful",
+      "phonetic": "/ˈbjuːtɪfl/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "美丽的，美观的",
+          "usage": "形容外表或物品好看"
+        }
+      ]
+    },
+    {
+      "word": "together",
+      "phonetic": "/təˈɡeðə(r)/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "一起，共同",
+          "usage": "表示共同做某事"
+        }
+      ]
+    },
+    {
+      "word": "buy",
+      "phonetic": "/baɪ/",
+      "meanings": [
+        {
+          "pos": "v",
+          "meaning": "购买，买",
+          "usage": "用钱换取商品"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "You needn't be so rude",
+      "usage": "表示不必如此粗鲁，用于表达对他人不礼貌行为的不满",
+      "examples": [
+        {
+          "en": "You needn't be so rude about it.",
+          "zh": "你不必为此这么粗鲁。"
+        }
+      ]
+    },
+    {
+      "phrase": "looked at herself in the mirror",
+      "usage": "照镜子，描述看着镜中的自己",
+      "examples": [
+        {
+          "en": "My wife looked at herself in the mirror.",
+          "zh": "我妻子看着镜中的自己。"
+        }
+      ]
+    },
+    {
+      "phrase": "buy things we don't need",
+      "usage": "买不需要的东西",
+      "examples": [
+        {
+          "en": "We mustn't buy things we don't need.",
+          "zh": "我们不应该买不需要的东西。"
+        }
+      ]
+    },
+    {
+      "phrase": "I needn't have said that",
+      "usage": "表示本不必说（但已经说了），带有后悔意味",
+      "examples": [
+        {
+          "en": "I regretted saying it almost at once. You needn't have said that.",
+          "zh": "我几乎立刻就后悔说了那句话。你本不必说的。"
+        }
+      ]
+    },
+    {
+      "phrase": "A man can never have too many ties",
+      "usage": "男人永远不会嫌领带太多（自我安慰的话）",
+      "examples": [
+        {
+          "en": "A man can never have too many ties.",
+          "zh": "男人永远不会嫌领带太多。"
+        }
+      ]
+    },
+    {
+      "phrase": "walked out of the shop",
+      "usage": "走出商店",
+      "examples": [
+        {
+          "en": "Ten minutes later we walked out of the shop together.",
+          "zh": "十分钟后我们一起走出了商店。"
+        }
+      ]
+    },
+    {
+      "phrase": "wearing a hat",
+      "usage": "戴着帽子，描述穿戴状态",
+      "examples": [
+        {
+          "en": "My wife was wearing a hat that looked like a lighthouse!",
+          "zh": "我妻子戴着一顶看起来像灯塔的帽子！"
+        }
+      ]
+    },
+    {
+      "phrase": "in front of the mirror",
+      "usage": "在镜子前",
+      "examples": [
+        {
+          "en": "My wife was still in front of the mirror.",
+          "zh": "我妻子还在镜子前。"
+        }
+      ]
+    },
+    {
+      "phrase": "sit down on",
+      "usage": "坐在...上",
+      "examples": [
+        {
+          "en": "I sat down on one of those modern chairs.",
+          "zh": "我坐在一把现代化的椅子上。"
+        }
+      ]
+    },
+    {
+      "phrase": "I needn't remind you",
+      "usage": "我不需要提醒你（暗示对方应该记得）",
+      "examples": [
+        {
+          "en": "I needn't remind you of that terrible tie you bought yesterday.",
+          "zh": "我不需要提醒你那条昨天买的糟糕领带。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "needn't have + 过去分词",
+      "definition": "表示本不必做某事（但实际上已经做了），含有后悔或责备的意味",
+      "structure": "主语 + needn't have + 过去分词",
+      "usage": "用于表达做了不必要的事情，语气中带有遗憾",
+      "examples": [
+        {
+          "en": "You needn't have said that.",
+          "zh": "你本不必说那句话的。"
+        },
+        {
+          "en": "I needn't have worried about you.",
+          "zh": "我本不必担心你的。"
+        },
+        {
+          "en": "She needn't have bought so much food.",
+          "zh": "她本不必买那么多食物的。"
+        }
+      ]
+    },
+    {
+      "title": "mustn't 与 needn't 的区别",
+      "definition": "mustn't表示禁止（不允许），needn't表示不必要（不需要）",
+      "structure": "mustn't = 禁止；needn't = 不必",
+      "usage": "两者含义完全不同，mustn't表示规则或命令禁止做某事，needn't表示没有义务做某事",
+      "examples": [
+        {
+          "en": "We mustn't buy things we don't need.",
+          "zh": "我们不可以买不需要的东西。"
+        },
+        {
+          "en": "You needn't go there today.",
+          "zh": "你今天不必去那里。"
+        }
+      ]
+    },
+    {
+      "title": "can't have too many + 名词",
+      "definition": "永远不会嫌...太多（表示对某物的喜爱或追求）",
+      "structure": "can't have too many + 可数名词复数",
+      "usage": "用于表达对某类物品的喜好，强调想要更多",
+      "examples": [
+        {
+          "en": "A man can never have too many ties.",
+          "zh": "男人永远不会嫌领带太多。"
+        },
+        {
+          "en": "You can't have too many friends.",
+          "zh": "朋友永远不会嫌多。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "You needn't be + adj",
+      "original": {
+        "en": "You needn't be so rude about it.",
+        "zh": "你不必为此这么粗鲁。"
+      },
+      "imitations": [
+        {
+          "en": "You needn't be so angry.",
+          "zh": "你不必这么生气。"
+        },
+        {
+          "en": "You needn't be so sad.",
+          "zh": "你不必这么难过。"
+        }
+      ]
+    },
+    {
+      "pattern": "You needn't have + 过去分词",
+      "original": {
+        "en": "You needn't have said that.",
+        "zh": "你本不必说那句话的。"
+      },
+      "imitations": [
+        {
+          "en": "You needn't have bought that expensive watch.",
+          "zh": "你本不必买那块昂贵的手表。"
+        },
+        {
+          "en": "You needn't have waited for me.",
+          "zh": "你本不必等我的。"
+        }
+      ]
+    },
+    {
+      "pattern": "A man can never have too many + 可数名词复数",
+      "original": {
+        "en": "A man can never have too many ties.",
+        "zh": "男人永远不会嫌领带太多。"
+      },
+      "imitations": [
+        {
+          "en": "A girl can never have too many shoes.",
+          "zh": "女孩子永远不会嫌鞋子太多。"
+        },
+        {
+          "en": "One can never have too much knowledge.",
+          "zh": "人永远不会嫌知识太多。"
+        }
+      ]
+    },
+    {
+      "pattern": "What kind of...do you think?",
+      "original": {
+        "en": "What kind of shopping does the writer enjoy, do you think?",
+        "zh": "你认为作者喜欢什么样的购物？"
+      },
+      "imitations": [
+        {
+          "en": "What kind of music do you enjoy, do you think?",
+          "zh": "你认为他喜欢什么样的音乐？"
+        },
+        {
+          "en": "What kind of food do you prefer, do you think?",
+          "zh": "你认为她喜欢什么样的食物？"
+        }
+      ]
+    }
+  ]
+}

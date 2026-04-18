@@ -1,0 +1,368 @@
+{
+  "book": "NCE3",
+  "lesson": "46",
+  "title": "Do it yourself",
+  "vocabulary": [
+    {
+      "word": "passion",
+      "phonetic": "/ˈpæʃən/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "酷爱，热情",
+          "usage": "通常搭配介词for，表示对某事物的强烈喜爱"
+        }
+      ]
+    },
+    {
+      "word": "plead",
+      "phonetic": "/pliːd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "以…为借口，抗辩",
+          "usage": "后接名词作宾语，常见搭配plead ignorance（声称不知情）"
+        }
+      ]
+    },
+    {
+      "word": "gaily",
+      "phonetic": "/ˈɡeɪli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "快乐地，兴冲冲地",
+          "usage": "修饰动词，描述人做某事时愉快的状态"
+        }
+      ]
+    },
+    {
+      "word": "embark",
+      "phonetic": "/ɪmˈbɑːk/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "开始，从事",
+          "usage": "常搭配介词on/upon，指开始一项新的或重要的活动"
+        }
+      ]
+    },
+    {
+      "word": "cater",
+      "phonetic": "/ˈkeɪtə/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "满足需要，迎合",
+          "usage": "搭配介词for，表示满足某人或某群体的需求"
+        }
+      ]
+    },
+    {
+      "word": "novice",
+      "phonetic": "/ˈnɒvɪs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "新手，初学者",
+          "usage": "指在某一领域没有经验的人"
+        }
+      ]
+    },
+    {
+      "word": "outlet",
+      "phonetic": "/ˈaʊtlet/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "（情感、精力的）发泄途径，出口",
+          "usage": "常搭配介词for，表示释放某种情绪或能量的渠道"
+        }
+      ]
+    },
+    {
+      "word": "resourceful",
+      "phonetic": "/rɪˈsɔːsfəl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "足智多谋的，办法多的",
+          "usage": "用来形容人善于应对各种困难"
+        }
+      ]
+    },
+    {
+      "word": "delusion",
+      "phonetic": "/dɪˈluːʒən/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "错觉，妄想",
+          "usage": "常搭配live under the delusion that，表示抱有错误的想法"
+        }
+      ]
+    },
+    {
+      "word": "haul",
+      "phonetic": "/hɔːl/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "用力拖，拉",
+          "usage": "指费力地搬运重物"
+        }
+      ]
+    },
+    {
+      "word": "dismantle",
+      "phonetic": "/dɪsˈmæntəl/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "拆卸，拆开",
+          "usage": "指把机器、结构等拆成多个部件"
+        }
+      ]
+    },
+    {
+      "word": "snapped",
+      "phonetic": "/snæpt/",
+      "meanings": [
+        {
+          "pos": "verb（过去分词）",
+          "meaning": "断裂，绷断",
+          "usage": "常用来描述细线、链条等硬物突然折断"
+        }
+      ]
+    },
+    {
+      "word": "insurmountable",
+      "phonetic": "/ˌɪnsəˈmaʊntəbəl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "难以克服的，无法解决的",
+          "usage": "常修饰问题、困难等，表示难度极大无法应对"
+        }
+      ]
+    },
+    {
+      "word": "jigsaw",
+      "phonetic": "/ˈdʒɪɡsɔː/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "拼图游戏，错综复杂的事物",
+          "usage": "jigsaw puzzle指拼图，也可比喻复杂难理清的情况"
+        }
+      ]
+    },
+    {
+      "word": "nag",
+      "phonetic": "/næɡ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "唠叨，催促",
+          "usage": "通常指反复抱怨或催促某人做某事"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "get round to",
+      "usage": "抽出时间做（一直想做的事）",
+      "examples": [
+        {
+          "en": "I've been meaning to fix the shelf, but I never got round to it.",
+          "zh": "我一直想修那个架子，但始终抽不出时间做。"
+        }
+      ]
+    },
+    {
+      "phrase": "lay out",
+      "usage": "布置，设计（花园、场地等）",
+      "examples": [
+        {
+          "en": "They spent three months laying out their new garden.",
+          "zh": "他们花了三个月布置新花园。"
+        }
+      ]
+    },
+    {
+      "phrase": "go so far as to",
+      "usage": "甚至做…，竟然到…的地步",
+      "examples": [
+        {
+          "en": "Some fans go so far as to wait outside the hotel for hours just to see the star.",
+          "zh": "一些粉丝甚至在酒店外等好几个小时，就为了看明星一眼。"
+        }
+      ]
+    },
+    {
+      "phrase": "cater for",
+      "usage": "满足需求，迎合",
+      "examples": [
+        {
+          "en": "This restaurant caters for vegetarians with a special menu.",
+          "zh": "这家餐厅有专门的菜单满足素食者的需求。"
+        }
+      ]
+    },
+    {
+      "phrase": "live under the delusion that",
+      "usage": "抱有…的错觉，误以为",
+      "examples": [
+        {
+          "en": "He lives under the delusion that he can win the game without practice.",
+          "zh": "他误以为不用练习就能赢得比赛。"
+        }
+      ]
+    },
+    {
+      "phrase": "call in",
+      "usage": "请来，叫（专业人士）来帮忙",
+      "examples": [
+        {
+          "en": "We had to call in a plumber to fix the blocked pipe.",
+          "zh": "我们不得不请水管工来修堵塞的管道。"
+        }
+      ]
+    },
+    {
+      "phrase": "would not hear of",
+      "usage": "不同意，不接受",
+      "examples": [
+        {
+          "en": "My mother would not hear of me walking home alone at night.",
+          "zh": "我妈妈不同意我晚上独自走路回家。"
+        }
+      ]
+    },
+    {
+      "phrase": "be littered with",
+      "usage": "散落着，堆满了",
+      "examples": [
+        {
+          "en": "The floor was littered with toy bricks after the kids played.",
+          "zh": "孩子们玩过之后，地板上散落着积木。"
+        }
+      ]
+    },
+    {
+      "phrase": "needless to say",
+      "usage": "不用说，显然",
+      "examples": [
+        {
+          "en": "Needless to say, the concert was canceled because of the bad weather.",
+          "zh": "不用说，演唱会因为恶劣天气取消了。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "so...that...引导的倒装句",
+      "definition": "当so+形容词/副词位于句首表示强调时，句子需要部分倒装，用来加强语气",
+      "structure": "So + adj./adv. + be动词/助动词/情态动词 + 主语 + that + 结果状语从句",
+      "usage": "用于强调形容词或副词所描述的程度，引出后面的结果",
+      "examples": [
+        {
+          "en": "So great is our passion for doing things for ourselves, that we are becoming increasingly less dependent on specialized labour.",
+          "zh": "我们自己动手的热情是如此高涨，以至于我们越来越不依赖专业劳动力。"
+        },
+        {
+          "en": "So fast did he run that no one could catch up with him.",
+          "zh": "他跑得太快了，没人能追上他。"
+        }
+      ]
+    },
+    {
+      "title": "虚拟语气在suggest后的宾语从句中的用法",
+      "definition": "当suggest表示“建议”时，后面的宾语从句需要用虚拟语气，即谓语动词为should+动词原形，should可以省略",
+      "structure": "主语 + suggest + that + 主语 + (should) + 动词原形 + 其他",
+      "usage": "用于表达建议、要求、命令等含义的动词后的宾语从句中",
+      "examples": [
+        {
+          "en": "Last spring my wife suggested that I call in a man to look at our lawn mower.",
+          "zh": "去年春天，我妻子建议我请个人来看看我们的割草机。"
+        },
+        {
+          "en": "The teacher suggested that we (should) finish the project before Friday.",
+          "zh": "老师建议我们在周五之前完成这个项目。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Some...go so far as to...",
+      "original": {
+        "en": "Some really keen enthusiasts go so far as to build their own computers.",
+        "zh": "一些真正热衷的人甚至自己组装电脑。"
+      },
+      "imitations": [
+        {
+          "en": "Some pet owners go so far as to buy expensive clothes for their cats.",
+          "zh": "一些宠物主人甚至给他们的猫买昂贵的衣服。"
+        },
+        {
+          "en": "Some students go so far as to stay up all night to prepare for the exam.",
+          "zh": "一些学生甚至通宵复习准备考试。"
+        }
+      ]
+    },
+    {
+      "pattern": "The worst thing about...is that...",
+      "original": {
+        "en": "The worst thing about the do-it-yourself game is that sometimes even men live under the delusion that they can do anything.",
+        "zh": "自己动手最糟糕的一点是，有时候就连男人们也会误以为自己什么都能做。"
+      },
+      "imitations": [
+        {
+          "en": "The worst thing about travelling alone is that you have no one to share the beautiful scenery with.",
+          "zh": "独自旅行最糟糕的一点是，你没有人可以分享美丽的风景。"
+        },
+        {
+          "en": "The worst thing about forgetting your phone is that you can't contact anyone when you need help.",
+          "zh": "忘带手机最糟糕的一点是，你需要帮助的时候联系不上任何人。"
+        }
+      ]
+    },
+    {
+      "pattern": "As far as I could see, it needed only...",
+      "original": {
+        "en": "As far as I could see, it needed only a minor adjustment: a turn of a screw here, a little tightening up there, a drop of oil and it would be as good as new.",
+        "zh": "在我看来，它只需要一点小小的调整：这里拧一下螺丝，那里紧一紧，滴点油，就会跟新的一样了。"
+      },
+      "imitations": [
+        {
+          "en": "As far as I could see, the cake needed only a little more cream on top to be perfect.",
+          "zh": "在我看来，这个蛋糕只需要在顶部多加一点奶油就完美了。"
+        },
+        {
+          "en": "As far as I could see, the plan needed only a few small changes to be workable.",
+          "zh": "在我看来，这个计划只需要几处小改动就可行了。"
+        }
+      ]
+    },
+    {
+      "pattern": "When..., I told her that either...or...",
+      "original": {
+        "en": "When my wife nagged me to do something about it, I told her that either I would have to buy a new mower or let the grass grow.",
+        "zh": "当我妻子催我想想办法的时候，我告诉她要么我买个新的割草机，要么就让草继续长。"
+      },
+      "imitations": [
+        {
+          "en": "When my friend asked where to have dinner, I told her that either we can eat at the new restaurant nearby or order takeout.",
+          "zh": "当我朋友问去哪里吃晚饭的时候，我告诉她要么我们去附近的新餐厅吃，要么点外卖。"
+        },
+        {
+          "en": "When the teacher asked about our weekend plan, I said that either we would visit the museum or go hiking.",
+          "zh": "当老师问起我们的周末计划时，我说我们要么去参观博物馆，要么去远足。"
+        }
+      ]
+    }
+  ]
+}

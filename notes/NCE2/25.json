@@ -1,0 +1,394 @@
+{
+  "book": "NCE2",
+  "lesson": "25",
+  "title": "Do they speak English?",
+  "vocabulary": [
+    {
+      "word": "railway",
+      "phonetic": "/ˈreɪlweɪ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "铁路；铁道",
+          "usage": "通常指铁路系统或火车轨道"
+        }
+      ]
+    },
+    {
+      "word": "station",
+      "phonetic": "/ˈsteɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "车站",
+          "usage": "指火车、地铁等的停靠站点"
+        }
+      ]
+    },
+    {
+      "word": "porter",
+      "phonetic": "/ˈpɔːtə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "行李员；搬运工",
+          "usage": "在火车站、旅馆等处帮人搬行李的人"
+        }
+      ]
+    },
+    {
+      "word": "understand",
+      "phonetic": "/ˌʌndəˈstænd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "理解；懂",
+          "usage": "表示明白某人的意思或某事的含义，过去式为understood"
+        }
+      ]
+    },
+    {
+      "word": "foreigner",
+      "phonetic": "/ˈfɒrənə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "外国人",
+          "usage": "指来自其他国家的人"
+        }
+      ]
+    },
+    {
+      "word": "repeat",
+      "phonetic": "/rɪˈpiːt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "重复；重说",
+          "usage": "指再次说或做同样的事情"
+        }
+      ]
+    },
+    {
+      "word": "dark",
+      "phonetic": "/dɑːk/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "黑暗的；昏暗的",
+          "usage": "形容光线不足，暗的"
+        }
+      ]
+    },
+    {
+      "word": "clearly",
+      "phonetic": "/ˈklɪəli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "清楚地；清晰地",
+          "usage": "形容说话或表达清晰易懂"
+        }
+      ]
+    },
+    {
+      "word": "slowly",
+      "phonetic": "/ˈsləʊli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "缓慢地；慢慢地",
+          "usage": "形容速度慢"
+        }
+      ]
+    },
+    {
+      "word": "smile",
+      "phonetic": "/smaɪl/",
+      "meanings": [
+        {
+          "pos": "verb/noun",
+          "meaning": "微笑",
+          "usage": "作动词时表示微笑，作名词时指微笑的表情"
+        }
+      ]
+    },
+    {
+      "word": "learn",
+      "phonetic": "/lɜːn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "学习；学会",
+          "usage": "指通过学习获得知识或技能"
+        }
+      ]
+    },
+    {
+      "word": "answer",
+      "phonetic": "/ˈɑːnsə(r)/",
+      "meanings": [
+        {
+          "pos": "verb/noun",
+          "meaning": "回答；答案",
+          "usage": "作动词时指回答，作名词时指答案或回应"
+        }
+      ]
+    },
+    {
+      "word": "wonder",
+      "phonetic": "/ˈwʌndə(r)/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "想知道；感到疑惑",
+          "usage": "表示感到好奇或不确定"
+        }
+      ]
+    },
+    {
+      "word": "language",
+      "phonetic": "/ˈlæŋɡwɪdʒ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "语言",
+          "usage": "指人类交流用的语言系统"
+        }
+      ]
+    },
+    {
+      "word": "each",
+      "phonetic": "/iːtʃ/",
+      "meanings": [
+        {
+          "pos": "adjective/pronoun",
+          "meaning": "每个；各自",
+          "usage": "指每一个个体"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "at last",
+      "usage": "终于；最后；最终",
+      "examples": [
+        {
+          "en": "I arrived in London at last.",
+          "zh": "我终于到达伦敦了。"
+        }
+      ]
+    },
+    {
+      "phrase": "not only...but (also)...",
+      "usage": "不仅...而且...",
+      "examples": [
+        {
+          "en": "I not only spoke English very carefully, but very clearly as well.",
+          "zh": "我说英语不仅非常认真，而且非常清晰。"
+        }
+      ]
+    },
+    {
+      "phrase": "several times",
+      "usage": "好几次；几次",
+      "examples": [
+        {
+          "en": "I repeated my question several times.",
+          "zh": "我把我的问题重复了好几次。"
+        }
+      ]
+    },
+    {
+      "phrase": "neither...nor...",
+      "usage": "既不...也不...",
+      "examples": [
+        {
+          "en": "He spoke neither slowly nor clearly.",
+          "zh": "他说得既不慢也不清楚。"
+        }
+      ]
+    },
+    {
+      "phrase": "look at each other",
+      "usage": "互相看着对方",
+      "examples": [
+        {
+          "en": "The porter and I looked at each other and smiled.",
+          "zh": "行李员和我互相看着对方，笑了。"
+        }
+      ]
+    },
+    {
+      "phrase": "in England",
+      "usage": "在英国",
+      "examples": [
+        {
+          "en": "In England, each person speaks a different language.",
+          "zh": "在英国，每个人说不同的语言。"
+        }
+      ]
+    },
+    {
+      "phrase": "understand each other",
+      "usage": "互相理解；彼此明白",
+      "examples": [
+        {
+          "en": "The English understand each other, but I don't understand them.",
+          "zh": "英国人彼此能理解，但我却听不懂他们。"
+        }
+      ]
+    },
+    {
+      "phrase": "the way to",
+      "usage": "去...的路",
+      "examples": [
+        {
+          "en": "I did not know the way to my hotel.",
+          "zh": "我不知道去我酒店的路。"
+        }
+      ]
+    },
+    {
+      "phrase": "ask a porter",
+      "usage": "向行李员询问",
+      "examples": [
+        {
+          "en": "So I asked a porter.",
+          "zh": "所以我向一个行李员询问。"
+        }
+      ]
+    },
+    {
+      "phrase": "you'll soon learn",
+      "usage": "你很快就会学会",
+      "examples": [
+        {
+          "en": "You'll soon learn English!",
+          "zh": "你很快就会学会英语！"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "not only...but (also)... 结构",
+      "definition": "表示不仅有某种情况，而且有另一种情况，强调两个方面的关联性。",
+      "structure": "not only + 形容词/副词/动词 + but (also) + 形容词/副词/动词",
+      "usage": "用于强调不仅有某一特征，还有另一特征，also有时可省略。",
+      "examples": [
+        {
+          "en": "She is not only beautiful but also intelligent.",
+          "zh": "她不仅漂亮而且聪明。"
+        },
+        {
+          "en": "He not only reads but also writes.",
+          "zh": "他不仅阅读而且写作。"
+        }
+      ]
+    },
+    {
+      "title": "neither...nor... 结构",
+      "definition": "表示既不...也不...，用于否定两个并列的事物或动作。",
+      "structure": "neither + A + nor + B (A和B通常为相同的词性)",
+      "usage": "当连接两个主语时，谓语动词与靠近的主语一致（就近一致原则）。",
+      "examples": [
+        {
+          "en": "He is neither tall nor short.",
+          "zh": "他既不高也不矮。"
+        },
+        {
+          "en": "She speaks neither French nor German.",
+          "zh": "她既不会说法语也不会说德语。"
+        }
+      ]
+    },
+    {
+      "title": "一般过去时态",
+      "definition": "表示过去发生的动作或存在的状态。",
+      "structure": "主语 + 动词过去式 + 其他",
+      "usage": "常与表示过去的时间状语连用，如yesterday, last week, at last等。",
+      "examples": [
+        {
+          "en": "I arrived in London at last.",
+          "zh": "我终于到达伦敦了。"
+        },
+        {
+          "en": "I did not know the way to my hotel.",
+          "zh": "我不知道去我酒店的路。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "I did not know the way to + 地点, so I asked + 某人",
+      "original": {
+        "en": "I did not know the way to my hotel, so I asked a porter.",
+        "zh": "我不知道去我酒店的路，所以我向一个行李员询问。"
+      },
+      "imitations": [
+        {
+          "en": "I did not know the way to the station, so I asked a policeman.",
+          "zh": "我不知道去车站的路，所以我向警察询问。"
+        },
+        {
+          "en": "I did not know the way to the museum, so I asked a local.",
+          "zh": "我不知道去博物馆的路，所以我向当地人询问。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + could not + 动词原形",
+      "original": {
+        "en": "The porter, however, could not understand me.",
+        "zh": "然而，那个行李员听不懂我说话。"
+      },
+      "imitations": [
+        {
+          "en": "I could not understand him.",
+          "zh": "我听不懂他说话。"
+        },
+        {
+          "en": "She could not speak English at that time.",
+          "zh": "那时她不会说英语。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + spoke neither + 副词A + nor + 副词B",
+      "original": {
+        "en": "He answered me, but he spoke neither slowly nor clearly.",
+        "zh": "他回答了我，但他说得既不慢也不清楚。"
+      },
+      "imitations": [
+        {
+          "en": "The teacher spoke neither fast nor slowly.",
+          "zh": "老师说得既不快也不慢。"
+        },
+        {
+          "en": "He wrote neither neatly nor clearly.",
+          "zh": "他写得既不工整也不清楚。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + not only + 动词/形容词, but + also + 动词/形容词 + as well",
+      "original": {
+        "en": "I not only spoke English very carefully, but very clearly as well.",
+        "zh": "我说英语不仅非常认真，而且非常清晰。"
+      },
+      "imitations": [
+        {
+          "en": "She not only works hard, but also smartly as well.",
+          "zh": "她不仅工作努力，而且聪明。"
+        },
+        {
+          "en": "He not only came early, but also helped as well.",
+          "zh": "他不仅来得早，而且帮忙了。"
+        }
+      ]
+    }
+  ]
+}

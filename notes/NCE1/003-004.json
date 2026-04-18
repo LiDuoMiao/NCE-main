@@ -1,0 +1,370 @@
+{
+  "book": "NCE1",
+  "lesson": "003-004",
+  "title": "Lesson 3",
+  "vocabulary": [
+    {
+      "word": "umbrella",
+      "phonetic": "/ʌmˈbrelə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "雨伞；伞",
+          "usage": "可数名词，复数为umbrellas"
+        }
+      ]
+    },
+    {
+      "word": "coat",
+      "phonetic": "/kəʊt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "外套；大衣",
+          "usage": "可数名词，复数为coats"
+        }
+      ]
+    },
+    {
+      "word": "ticket",
+      "phonetic": "/ˈtɪkɪt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "票；入场券",
+          "usage": "可数名词，复数为tickets"
+        }
+      ]
+    },
+    {
+      "word": "sorry",
+      "phonetic": "/ˈsɒri/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "对不起；抱歉",
+          "usage": "用于道歉或表示遗憾"
+        }
+      ]
+    },
+    {
+      "word": "please",
+      "phonetic": "/pliːz/",
+      "meanings": [
+        {
+          "pos": "exclamation",
+          "meaning": "请",
+          "usage": "用于礼貌请求"
+        }
+      ]
+    },
+    {
+      "word": "here",
+      "phonetic": "/hɪə/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "这里；在这里",
+          "usage": "表示地点，指代说话人所在的位置"
+        }
+      ]
+    },
+    {
+      "word": "number",
+      "phonetic": "/ˈnʌmbə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "数字；号码",
+          "usage": "可数名词，复数为numbers"
+        }
+      ]
+    },
+    {
+      "word": "very",
+      "phonetic": "/ˈveri/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "非常；很",
+          "usage": "用于修饰形容词或副词，加强程度"
+        }
+      ]
+    },
+    {
+      "word": "much",
+      "phonetic": "/mʌtʃ/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "非常；十分",
+          "usage": "常与very连用，very much表示非常感谢"
+        }
+      ]
+    },
+    {
+      "word": "back",
+      "phonetic": "/bæk/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "回来；返回",
+          "usage": "与get连用表示取回某物"
+        }
+      ]
+    },
+    {
+      "word": "get",
+      "phonetic": "/ɡet/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "得到；获得",
+          "usage": "get back表示取回"
+        }
+      ]
+    },
+    {
+      "word": "listen",
+      "phonetic": "/ˈlɪsn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "听",
+          "usage": "不及物动词，常与to连用"
+        }
+      ]
+    },
+    {
+      "word": "question",
+      "phonetic": "/ˈkwestʃən/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "问题",
+          "usage": "可数名词，复数为questions"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Here is / Here's",
+      "usage": "表示\"这是...\"或\"...在这里\"，用于递东西给别人",
+      "examples": [
+        {
+          "en": "Here is your umbrella.",
+          "zh": "这是你的雨伞。"
+        },
+        {
+          "en": "Here's your ticket.",
+          "zh": "这是你的票。"
+        }
+      ]
+    },
+    {
+      "phrase": "My ... and my ... please",
+      "usage": "用于点单或取东西时的礼貌表达",
+      "examples": [
+        {
+          "en": "My coffee and my cake please.",
+          "zh": "请给我咖啡和蛋糕。"
+        },
+        {
+          "en": "My umbrella and my coat please.",
+          "zh": "请给我雨伞和大衣。"
+        }
+      ]
+    },
+    {
+      "phrase": "Thank you very much",
+      "usage": "表示非常感谢，比单纯的Thank you程度更强",
+      "examples": [
+        {
+          "en": "Thank you very much for your help.",
+          "zh": "非常感谢你的帮助。"
+        },
+        {
+          "en": "Thank you very much.",
+          "zh": "非常感谢。"
+        }
+      ]
+    },
+    {
+      "phrase": "Is this your ...?",
+      "usage": "用于询问某物是否是对方的",
+      "examples": [
+        {
+          "en": "Is this your umbrella?",
+          "zh": "这是你的雨伞吗？"
+        },
+        {
+          "en": "Is this your coat?",
+          "zh": "这是你的外套吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "Yes it is. / No it isn't.",
+      "usage": "用于简短回答Is this...?的问句",
+      "examples": [
+        {
+          "en": "Is this your ticket? Yes it is.",
+          "zh": "这是你的票吗？是的。"
+        },
+        {
+          "en": "Is this your book? No it isn't.",
+          "zh": "这是你的书吗？不是。"
+        }
+      ]
+    },
+    {
+      "phrase": "Sorry sir",
+      "usage": "用于道歉时的礼貌用语，sir是对男性的尊称",
+      "examples": [
+        {
+          "en": "Sorry sir, this is not your umbrella.",
+          "zh": "对不起先生，这不是你的雨伞。"
+        }
+      ]
+    },
+    {
+      "phrase": "Listen to the tape",
+      "usage": "表示听录音的指令",
+      "examples": [
+        {
+          "en": "Listen to the tape and answer the question.",
+          "zh": "听录音并回答问题。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "一般疑问句（Is this...?）",
+      "definition": "用be动词（is）开头，询问某物是否为对方的物品",
+      "structure": "Is + this + your + 名词?",
+      "usage": "用于询问某物是否属于某人，回答用Yes it is.或No it isn't.",
+      "examples": [
+        {
+          "en": "Is this your umbrella?",
+          "zh": "这是你的雨伞吗？"
+        },
+        {
+          "en": "Is this your coat?",
+          "zh": "这是你的外套吗？"
+        }
+      ]
+    },
+    {
+      "title": "缩写形式 isn't",
+      "definition": "is not的缩写形式，用于否定句和否定回答",
+      "structure": "主语 + isn't",
+      "usage": "在口语和书面语中，isn't比is not更常用",
+      "examples": [
+        {
+          "en": "No, it isn't my umbrella.",
+          "zh": "不，这不是我的雨伞。"
+        },
+        {
+          "en": "This isn't my ticket.",
+          "zh": "这不是我的票。"
+        }
+      ]
+    },
+    {
+      "title": "Here is / Here's 句型",
+      "definition": "表示\"这是...\"或\"...在这里\"，here's是here is的缩写",
+      "structure": "Here is/Here's + your + 名词",
+      "usage": "用于递东西给别人或指出某物所在位置",
+      "examples": [
+        {
+          "en": "Here's your umbrella and your coat.",
+          "zh": "这是你的雨伞和外套。"
+        },
+        {
+          "en": "Here is my ticket.",
+          "zh": "这是我的票。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Is this your + 名词?",
+      "original": {
+        "en": "Is this your umbrella?",
+        "zh": "这是你的雨伞吗？"
+      },
+      "imitations": [
+        {
+          "en": "Is this your coat?",
+          "zh": "这是你的外套吗？"
+        },
+        {
+          "en": "Is this your ticket?",
+          "zh": "这是你的票吗？"
+        },
+        {
+          "en": "Is this your bag?",
+          "zh": "这是你的包吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "Yes it is. / No it isn't.",
+      "original": {
+        "en": "Yes it is.",
+        "zh": "是的，它是。"
+      },
+      "imitations": [
+        {
+          "en": "No it isn't.",
+          "zh": "不，它不是。"
+        },
+        {
+          "en": "Yes, it is my umbrella.",
+          "zh": "是的，这是我的雨伞。"
+        },
+        {
+          "en": "No, it isn't my coat.",
+          "zh": "不，这不是我的外套。"
+        }
+      ]
+    },
+    {
+      "pattern": "Here's your + 名词.",
+      "original": {
+        "en": "Here's your umbrella and your coat.",
+        "zh": "这是你的雨伞和外套。"
+      },
+      "imitations": [
+        {
+          "en": "Here's your ticket.",
+          "zh": "这是你的票。"
+        },
+        {
+          "en": "Here's your coffee.",
+          "zh": "这是你的咖啡。"
+        }
+      ]
+    },
+    {
+      "pattern": "My + 名词 + and my + 名词 please.",
+      "original": {
+        "en": "My coat and my umbrella please.",
+        "zh": "请给我外套和雨伞。"
+      },
+      "imitations": [
+        {
+          "en": "My ticket and my bag please.",
+          "zh": "请给我票和包。"
+        },
+        {
+          "en": "My book and my pen please.",
+          "zh": "请给我书和笔。"
+        }
+      ]
+    }
+  ]
+}

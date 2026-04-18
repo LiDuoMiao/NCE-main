@@ -1,0 +1,394 @@
+{
+  "book": "NCE3",
+  "lesson": "21",
+  "title": "Lesson 21",
+  "vocabulary": [
+    {
+      "word": "prizefighter",
+      "phonetic": "/ˈpraɪzfaɪtər/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "以奖金为报酬的拳击手",
+          "usage": "用于指当时没有规则、以奖金为目的的拳击比赛选手"
+        }
+      ]
+    },
+    {
+      "word": "crude",
+      "phonetic": "/kruːd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "粗糙的，粗制的",
+          "usage": "形容缺乏精细规则或技术的体育项目"
+        }
+      ]
+    },
+    {
+      "word": "colourful",
+      "phonetic": "/ˈkʌləfʊl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "丰富多彩的，引人注目的",
+          "usage": "形容人物或事件生动、引人关注"
+        }
+      ]
+    },
+    {
+      "word": "gloves",
+      "phonetic": "/ɡlʌvz/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "（拳击）手套",
+          "usage": "指用于保护拳手的专用手套"
+        }
+      ]
+    },
+    {
+      "word": "academy",
+      "phonetic": "/əˈkædəmi/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "学院，专科学校",
+          "usage": "指专业训练或教学的机构"
+        }
+      ]
+    },
+    {
+      "word": "extravagant",
+      "phonetic": "/ɪkˈstrævəɡənt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "奢侈的，挥霍的",
+          "usage": "形容花费无度、经常欠债的行为"
+        }
+      ]
+    },
+    {
+      "word": "pupil",
+      "phonetic": "/ˈpjuːpɪl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "学生，门徒",
+          "usage": "指接受某位老师或教练指导的人"
+        }
+      ]
+    },
+    {
+      "word": "popularity",
+      "phonetic": "/ˌpɒpjʊˈlærəti/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "受欢迎度，流行",
+          "usage": "指在大众中被喜爱或认可的程度"
+        }
+      ]
+    },
+    {
+      "word": "bet",
+      "phonetic": "/bet/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "打赌，下注",
+          "usage": "指对某事的结果下钱进行赌博"
+        }
+      ]
+    },
+    {
+      "word": "defeated",
+      "phonetic": "/dɪˈfiːtɪd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "被击败的",
+          "usage": "在比赛或斗争中输掉"
+        }
+      ]
+    },
+    {
+      "word": "imprisoned",
+      "phonetic": "/ɪmˈprɪzənd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "被监禁的",
+          "usage": "因债务或其他原因被关进监狱"
+        }
+      ]
+    },
+    {
+      "word": "poverty",
+      "phonetic": "/ˈpɒvəti/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "贫穷，贫困",
+          "usage": "指缺乏金钱和基本生活条件的状态"
+        }
+      ]
+    },
+    {
+      "word": "champion",
+      "phonetic": "/ˈtʃæmpiən/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "冠军",
+          "usage": "指在比赛或竞争中最优秀的人"
+        }
+      ]
+    },
+    {
+      "word": "boxer",
+      "phonetic": "/ˈbɒksər/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "拳击手",
+          "usage": "专门从事拳击运动的人"
+        }
+      ]
+    },
+    {
+      "word": "renowned",
+      "phonetic": "/rɪˈnaʊnd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "著名的，声誉高的",
+          "usage": "指因某方面成就而被广泛认可"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "bring science to the game",
+      "usage": "指把科学的方法或技术引入某项运动，使其更系统化",
+      "examples": [
+        {
+          "en": "Mendoza brought science to the game, revolutionising prizefighting.",
+          "zh": "门多萨把科学带进拳击，使当时的拳击运动发生了革命性变化。"
+        }
+      ]
+    },
+    {
+      "phrase": "enjoy tremendous popularity",
+      "usage": "表示某人或某事在大众中极受欢迎",
+      "examples": [
+        {
+          "en": "Mendoza enjoyed tremendous popularity among all classes.",
+          "zh": "门多萨在各阶层中都极受欢迎。"
+        }
+      ]
+    },
+    {
+      "phrase": "be adored by rich and poor alike",
+      "usage": "形容受到所有社会阶层人们的喜爱",
+      "examples": [
+        {
+          "en": "He was adored by rich and poor alike.",
+          "zh": "无论是富人还是穷人，都对他崇拜不已。"
+        }
+      ]
+    },
+    {
+      "phrase": "rise to fame swiftly",
+      "usage": "指在短时间内迅速成名",
+      "examples": [
+        {
+          "en": "Mendoza rose to fame swiftly after a boxing match at fourteen.",
+          "zh": "门多萨在十四岁时的一场拳击赛后迅速成名。"
+        }
+      ]
+    },
+    {
+      "phrase": "turn against",
+      "usage": "表示从友好或支持转为敌对或反对",
+      "examples": [
+        {
+          "en": "Humphries turned against him after Mendoza's success.",
+          "zh": "在门多萨成功后，汉弗莱斯转向反对他。"
+        }
+      ]
+    },
+    {
+      "phrase": "quarrel bitterly",
+      "usage": "指激烈、愤怒地争吵",
+      "examples": [
+        {
+          "en": "The two men quarrelled bitterly.",
+          "zh": "两人激烈争吵。"
+        }
+      ]
+    },
+    {
+      "phrase": "settle the argument by a fight",
+      "usage": "通过打斗来解决争端",
+      "examples": [
+        {
+          "en": "The argument could only be settled by a fight.",
+          "zh": "这场争论只能通过一场拳赛来解决。"
+        }
+      ]
+    },
+    {
+      "phrase": "bet a great deal of money on",
+      "usage": "指在某人或某事上投入大量赌注",
+      "examples": [
+        {
+          "en": "The public bet a great deal of money on Mendoza.",
+          "zh": "公众在门多萨身上下了大额赌注。"
+        }
+      ]
+    },
+    {
+      "phrase": "be paid as much as £100 for a single appearance",
+      "usage": "指一次出场费高达一百英镑",
+      "examples": [
+        {
+          "en": "He was paid as much as £100 for a single appearance.",
+          "zh": "他一次出场就能得到高达一百英镑的报酬。"
+        }
+      ]
+    },
+    {
+      "phrase": "be sent to prison for failing to pay his debts",
+      "usage": "因未能偿还债务而被监禁",
+      "examples": [
+        {
+          "en": "He was sent to prison for failing to pay his debts.",
+          "zh": "他因未能偿还债务而被送进监狱。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "It was not until ... that ...（强调时间）",
+      "definition": "用于强调某事直到特定时间点才发生。结构为“It is/was not until + 时间/事件 + that + 主语 + 动词（过去式）”。",
+      "structure": "It is/was not until + 时间/事件 + that + 主语 + 动词过去式",
+      "usage": "强调某个迟来的转折点，常用于叙述关键性事件的发生时刻。",
+      "examples": [
+        {
+          "en": "It was not until his third match in 1790 that he finally beat Humphries.",
+          "zh": "直到1790年的第三场比赛，他才终于击败了汉弗莱斯。"
+        },
+        {
+          "en": "It was not until 1860 that gloves were introduced.",
+          "zh": "直到1860年，手套才被引入拳击。"
+        }
+      ]
+    },
+    {
+      "title": "Though / Although + 从句（让步状语从句）",
+      "definition": "表示“虽然/尽管”，用于引出与主句意思相反或出乎意料的情况。",
+      "structure": "Though / Although + 主语 + 动词（一般过去时）, 主句",
+      "usage": "用于对比两个事实，突出主句的重要性。",
+      "examples": [
+        {
+          "en": "Though he was technically a prizefighter, Mendoza brought science to the sport.",
+          "zh": "虽然他在技术上是个奖金拳击手，门多萨却把科学带进了这项运动。"
+        },
+        {
+          "en": "Although boxing was crude, it was extremely popular.",
+          "zh": "尽管拳击很粗糙，却极为流行。"
+        }
+      ]
+    },
+    {
+      "title": "Past Simple 与 Past Perfect 的时序区分",
+      "definition": "Past Simple 用于描述已完成的具体过去动作；Past Perfect 表示在另一过去动作之前已经发生的动作，构成‘过去的过去’。",
+      "structure": "Past Simple: 主语 + 动词过去式 / Past Perfect: 主语 + had + 过去分词",
+      "usage": "在叙述连续发生的过去事件时，先发生的动作用过去完成时，后发生的动作用一般过去时。",
+      "examples": [
+        {
+          "en": "Mendoza rose to fame after he had defeated many opponents.",
+          "zh": "门多萨在击败许多对手后才成名。"
+        },
+        {
+          "en": "He founded an academy after he had become champion.",
+          "zh": "他在成为冠军后才创办了学院。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "The use of X was not introduced until Y.",
+      "original": {
+        "en": "The use of gloves was not introduced until 1860.",
+        "zh": "手套的使用直到1860年才被引入。"
+      },
+      "imitations": [
+        {
+          "en": "The use of safety helmets was not introduced until 1990.",
+          "zh": "安全头盔的使用直到1990年才被引入。"
+        },
+        {
+          "en": "The practice of wearing seat belts was not introduced until the 1970s.",
+          "zh": "佩戴安全带的做法直到20世纪70年代才被引入。"
+        }
+      ]
+    },
+    {
+      "pattern": "It was not until ... that ...",
+      "original": {
+        "en": "It was not until his third match in 1790 that he finally beat Humphries.",
+        "zh": "直到1790年的第三场比赛，他才终于击败了汉弗莱斯。"
+      },
+      "imitations": [
+        {
+          "en": "It was not until the 20th century that women gained the right to vote.",
+          "zh": "直到20世纪，妇女才获得投票权。"
+        },
+        {
+          "en": "It was not until sunrise that the fog lifted.",
+          "zh": "直到日出，雾才散去。"
+        }
+      ]
+    },
+    {
+      "pattern": "Though he was ..., ...",
+      "original": {
+        "en": "Though he was technically a prizefighter, Mendoza brought science to the sport.",
+        "zh": "虽然他在技术上是个奖金拳击手，门多萨却把科学带进了这项运动。"
+      },
+      "imitations": [
+        {
+          "en": "Though she was only fifteen, she mastered three languages.",
+          "zh": "虽然她只有十五岁，她已经掌握了三门语言。"
+        },
+        {
+          "en": "Though the weather was terrible, the game went on.",
+          "zh": "虽然天气很差，比赛仍在进行。"
+        }
+      ]
+    },
+    {
+      "pattern": "He was so ... that ...",
+      "original": {
+        "en": "He was so extravagant that he was always in debt.",
+        "zh": "他太奢侈了，以至于总是负债累累。"
+      },
+      "imitations": [
+        {
+          "en": "She was so nervous that she could not speak.",
+          "zh": "她紧张得说不出话来。"
+        },
+        {
+          "en": "The problem was so complex that no one could solve it.",
+          "zh": "这个问题太复杂，没人能解决。"
+        }
+      ]
+    }
+  ]
+}

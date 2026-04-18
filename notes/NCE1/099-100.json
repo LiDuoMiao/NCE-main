@@ -1,0 +1,398 @@
+{
+  "book": "NCE1",
+  "lesson": "099-100",
+  "title": "Lesson 99",
+  "vocabulary": [
+    {
+      "word": "slip",
+      "phonetic": "/slɪp/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "滑倒；滑落",
+          "usage": "指意外滑倒，常与and连用"
+        }
+      ]
+    },
+    {
+      "word": "fall",
+      "phonetic": "/fɔːl/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "摔倒；落下",
+          "usage": "过去式为fell，表示失去平衡而倒下"
+        }
+      ]
+    },
+    {
+      "word": "downstairs",
+      "phonetic": "/ˌdaʊnˈsteəz/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "在楼下；往楼下",
+          "usage": "表示位置或动作的方向"
+        }
+      ]
+    },
+    {
+      "word": "hurt",
+      "phonetic": "/hɜːt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "使受伤；疼痛",
+          "usage": "过去式和过去分词均为hurt，可指身体或感情上的伤害"
+        }
+      ]
+    },
+    {
+      "word": "back",
+      "phonetic": "/bæk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "背部；后背",
+          "usage": "指人的背部，身体部位"
+        }
+      ]
+    },
+    {
+      "word": "stand up",
+      "phonetic": "/stænd ʌp/",
+      "meanings": [
+        {
+          "pos": "verb phrase",
+          "meaning": "站起来；起立",
+          "usage": "从坐或躺的状态变为站立"
+        }
+      ]
+    },
+    {
+      "word": "get up",
+      "phonetic": "/ɡet ʌp/",
+      "meanings": [
+        {
+          "pos": "verb phrase",
+          "meaning": "起来；起床",
+          "usage": "指从躺着或坐着的姿势起来"
+        }
+      ]
+    },
+    {
+      "word": "afraid",
+      "phonetic": "/əˈfreɪd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "害怕的；担心的",
+          "usage": "常用于I'm afraid that...句型，表示遗憾或歉意"
+        }
+      ]
+    },
+    {
+      "word": "doctor",
+      "phonetic": "/ˈdɒktə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "医生；大夫",
+          "usage": "可缩写为Dr.，用于称呼"
+        }
+      ]
+    },
+    {
+      "word": "phone",
+      "phonetic": "/fəʊn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "打电话",
+          "usage": "相当于call或telephone"
+        }
+      ]
+    },
+    {
+      "word": "X-ray",
+      "phonetic": "/ˈeks reɪ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "X光；X射线",
+          "usage": "用于检查身体内部，如骨折等"
+        }
+      ]
+    },
+    {
+      "word": "matter",
+      "phonetic": "/ˈmætə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "事情；问题",
+          "usage": "常用于What's the matter?询问情况"
+        }
+      ]
+    },
+    {
+      "word": "help",
+      "phonetic": "/help/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "帮助；帮忙",
+          "usage": "let me help you表示主动提供帮助"
+        }
+      ]
+    },
+    {
+      "word": "at once",
+      "phonetic": "/æt wʌns/",
+      "meanings": [
+        {
+          "pos": "adverb phrase",
+          "meaning": "立刻；马上",
+          "usage": "表示立即执行某事"
+        }
+      ]
+    },
+    {
+      "word": "sure",
+      "phonetic": "/ʃʊə/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "确定的；确信的",
+          "usage": "I'm sure that...表示确信某事"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "What's the matter?",
+      "usage": "用于询问他人发生了什么问题或状况",
+      "examples": [
+        {
+          "en": "What's the matter, Andy?",
+          "zh": "怎么了，安迪？"
+        }
+      ]
+    },
+    {
+      "phrase": "slip and fall",
+      "usage": "表示滑倒并摔下来的动作",
+      "examples": [
+        {
+          "en": "I slipped and fell downstairs.",
+          "zh": "我从楼梯上滑倒摔下来了。"
+        }
+      ]
+    },
+    {
+      "phrase": "hurt yourself",
+      "usage": "表示伤害到自己，常用于询问是否受伤",
+      "examples": [
+        {
+          "en": "Have you hurt yourself?",
+          "zh": "你伤到自己了吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "stand up",
+      "usage": "表示站起来的动作",
+      "examples": [
+        {
+          "en": "Can you stand up?",
+          "zh": "你能站起来吗？"
+        }
+      ]
+    },
+    {
+      "phrase": "get up",
+      "usage": "表示从地上或躺着的位置起来",
+      "examples": [
+        {
+          "en": "I'm afraid that I can't get up.",
+          "zh": "恐怕我站不起来了。"
+        }
+      ]
+    },
+    {
+      "phrase": "had better",
+      "usage": "表示建议，意为\"最好\"",
+      "examples": [
+        {
+          "en": "I think that the doctor had better see you.",
+          "zh": "我认为你最好让医生看看。"
+        }
+      ]
+    },
+    {
+      "phrase": "at once",
+      "usage": "表示立即、马上",
+      "examples": [
+        {
+          "en": "The doctor says that he will come at once.",
+          "zh": "医生说他马上就来。"
+        }
+      ]
+    },
+    {
+      "phrase": "I'm sure that",
+      "usage": "表示确信、肯定",
+      "examples": [
+        {
+          "en": "I'm sure that you need an X-ray, Andy.",
+          "zh": "我确信你需要做X光检查，安迪。"
+        }
+      ]
+    },
+    {
+      "phrase": "I'm afraid that",
+      "usage": "表示遗憾地告诉某人某事，或表示担心",
+      "examples": [
+        {
+          "en": "I'm afraid that I can't get up.",
+          "zh": "恐怕我站不起来了。"
+        }
+      ]
+    },
+    {
+      "phrase": "Let me help you",
+      "usage": "主动提供帮助的表达",
+      "examples": [
+        {
+          "en": "Let me help you.",
+          "zh": "让我来帮你。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "现在完成时 (Present Perfect Tense)",
+      "definition": "由have/has + 过去分词构成，表示过去发生的动作对现在造成的影响，或表示动作持续到现在",
+      "structure": "主语 + have/has + 过去分词 + (时间状语/地点)",
+      "usage": "用于描述过去发生但与现在有关联的事情。在本课中，Have you hurt yourself? 询问的是过去发生的动作对现在的 影响",
+      "examples": [
+        {
+          "en": "I have slipped and fallen downstairs.",
+          "zh": "我从楼梯上滑倒摔下来了。"
+        },
+        {
+          "en": "Have you hurt yourself?",
+          "zh": "你伤到自己了吗？"
+        },
+        {
+          "en": "Yes, I have. I think that I've hurt my back.",
+          "zh": "是的，我伤到了。我想我伤到背了。"
+        }
+      ]
+    },
+    {
+      "title": "had better 的用法",
+      "definition": "had better表示建议或劝告，意为\"最好\"，含有轻微的警告或催促意味",
+      "structure": "主语 + had better + 动词原形",
+      "usage": "用于在特定情况下建议某人采取行动，语气比should稍强，比must弱",
+      "examples": [
+        {
+          "en": "I think that the doctor had better see you.",
+          "zh": "我认为你最好让医生看看。"
+        },
+        {
+          "en": "You had better see a doctor.",
+          "zh": "你最好去看医生。"
+        }
+      ]
+    },
+    {
+      "title": "宾语从句 (that引导)",
+      "definition": "由that引导的宾语从句，用于表达思想、观点或确信的内容",
+      "structure": "主语 + think/believe/sure + that + 从句",
+      "usage": "that可省略，用于补充说明主句动词的内容",
+      "examples": [
+        {
+          "en": "I think that I've hurt my back.",
+          "zh": "我想我伤到背了。"
+        },
+        {
+          "en": "I'm sure that you need an X-ray.",
+          "zh": "我确信你需要做X光检查。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "What's the matter + (with sb)?",
+      "original": {
+        "en": "What's the matter, Andy?",
+        "zh": "怎么了，安迪？"
+      },
+      "imitations": [
+        {
+          "en": "What's the matter with you?",
+          "zh": "你怎么了？"
+        },
+        {
+          "en": "What's the matter, Tom?",
+          "zh": "怎么了，汤姆？"
+        }
+      ]
+    },
+    {
+      "pattern": "Have you + 过去分词 + (反身代词)?",
+      "original": {
+        "en": "Have you hurt yourself?",
+        "zh": "你伤到自己了吗？"
+      },
+      "imitations": [
+        {
+          "en": "Have you cut yourself?",
+          "zh": "你划伤自己了吗？"
+        },
+        {
+          "en": "Have you burned yourself?",
+          "zh": "你烫到自己了吗？"
+        }
+      ]
+    },
+    {
+      "pattern": "I think/believe/sure that + 从句",
+      "original": {
+        "en": "I think that I've hurt my back.",
+        "zh": "我想我伤到背了。"
+      },
+      "imitations": [
+        {
+          "en": "I believe that he is sick.",
+          "zh": "我相信他病了。"
+        },
+        {
+          "en": "I'm sure that you need rest.",
+          "zh": "我确信你需要休息。"
+        }
+      ]
+    },
+    {
+      "pattern": "Sb. had better + 动词原形",
+      "original": {
+        "en": "I think that the doctor had better see you.",
+        "zh": "我认为你最好让医生看看。"
+      },
+      "imitations": [
+        {
+          "en": "You had better go home.",
+          "zh": "你最好回家。"
+        },
+        {
+          "en": "She had better see a doctor.",
+          "zh": "她最好去看医生。"
+        }
+      ]
+    }
+  ]
+}

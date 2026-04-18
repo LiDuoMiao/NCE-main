@@ -15,6 +15,7 @@
 - 📖 **中英对照**：逐句显示中英文，便于理解
 - 📝 **单词即点即译**：点击任意单词，弹出词典风格的翻译弹窗
 - 📚 **PDF 教材对照**：集成 PDF 教材查看器，听读与教材同步
+- 📝 **学习笔记**：右侧标签切换查看词汇、短语、语法、句型学习笔记
 - 📱 **响应式设计**：手机，平板、电脑均可流畅使用
 - 🚀 **无需安装**：浏览器直接访问，随时学习
 
@@ -25,6 +26,10 @@
 ![pc_1.jpg](screenshot/pc_1.png)
 
 ![pc_2.jpg](screenshot/pc_2.png)
+
+![pc_3.jpg](screenshot/pc_3.png)
+
+![pc_4.jpg](screenshot/pc_4.png)
 
 ### 📚 四册学习指南
 
@@ -61,6 +66,71 @@
   - [Free Dictionary API](https://dictionaryapi.dev/) - 提供英文释义、音标
   - [LibreTranslate](https://libretranslate.com/) - 开源自托管翻译引擎
   - 完全免费，基于前端调用，直接运行即可使用完整功能
+
+---
+
+### 🚀 安装使用
+
+#### 1. 启动翻译服务（LibreTranslate）
+
+##### 方式一：Docker Compose（推荐）
+
+```bash
+docker-compose up -d
+# 服务地址：http://localhost:5001
+```
+
+##### 方式二：Docker 命令行
+
+```bash
+docker run -d \
+  --name libretranslate \
+  -p 5001:5000 \
+  --restart unless-stopped \
+  libretranslate/libretranslate:latest \
+  --load-only en,zh \
+  --batch-limit 20 \
+  --threads 4 \
+  --req-limit -1 \
+  --char-limit -1
+```
+
+##### 方式三：pip 安装（无 Docker）
+
+```bash
+pip install libretranslate
+libretranslate --load-only en,zh
+libretranslate
+```
+
+#### 2. 部署前端
+
+##### 方式一：Python HTTP 服务器（快速测试）
+
+```bash
+cd NCE-main
+python3 -m http.server 8088
+# 浏览器打开 http://localhost:8088
+```
+
+##### 方式二：Nginx 部署
+
+```nginx
+server {
+    listen 80;
+    server_name your_domain.com;
+    root /path/to/NCE-main;
+    index index.html;
+}
+```
+
+##### 方式三：Tomcat 部署
+
+```bash
+# 直接复制到 webapps 目录
+cp -r NCE-main /path/to/tomcat/webapps/
+# 访问地址：http://localhost:8080/NCE-main/
+```
 
 ---
 
@@ -102,7 +172,7 @@
 
 ### 📦 关于本修改版
 
-本版本基于 [iChochy/NCE](https://github.com/ichochy/nce) 改编，新增了单词即点即译和 PDF 教材同步浏览功能。
+本版本基于 [iChochy/NCE](https://github.com/ichochy/nce) 改编，新增了单词即点即译、PDF教材同步浏览和学习笔记功能。
 
 **修改者**：[LiDuoMiao](https://github.com/LiDuoMiao)
 **GitHub**：https://github.com/LiDuoMiao/NCE-main

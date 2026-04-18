@@ -1,0 +1,397 @@
+{
+  "book": "NCE3",
+  "lesson": "29",
+  "title": "Lesson 29",
+  "vocabulary": [
+    {
+      "word": "amusing",
+      "phonetic": "/əˈmjuːzɪŋ/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "好笑的，有趣的",
+          "usage": "用来描述人、事物或情景能引人发笑的，语义中性偏褒义"
+        }
+      ]
+    },
+    {
+      "word": "universal",
+      "phonetic": "/ˌjuːnɪˈvɜːsl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "普遍的，共同的",
+          "usage": "指适用于所有情况、所有人或所有地区的，没有例外"
+        }
+      ]
+    },
+    {
+      "word": "appeal",
+      "phonetic": "/əˈpiːl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "吸引力，感染力",
+          "usage": "表示人或事物具有的吸引他人的特质，常用搭配have appeal to sb."
+        },
+        {
+          "pos": "verb",
+          "meaning": "呼吁；吸引",
+          "usage": "作动词时常见搭配appeal to sb. for sth.（呼吁）、appeal to sb.（吸引某人）"
+        }
+      ]
+    },
+    {
+      "word": "stem",
+      "phonetic": "/stem/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "起源于，来自",
+          "usage": "不及物动词，固定搭配stem from，用来描述事物的来源或起因"
+        },
+        {
+          "pos": "noun",
+          "meaning": "茎，干",
+          "usage": "指植物的茎部，也可引申为器物的柄、把"
+        }
+      ]
+    },
+    {
+      "word": "comedian",
+      "phonetic": "/kəˈmiːdiən/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "喜剧演员，搞笑艺人",
+          "usage": "指以表演喜剧、讲笑话为职业的人"
+        }
+      ]
+    },
+    {
+      "word": "tragic",
+      "phonetic": "/ˈtrædʒɪk/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "悲惨的，悲剧的",
+          "usage": "用来描述令人悲伤、不幸的事件或情况，与comic（喜剧的）是反义词"
+        }
+      ]
+    },
+    {
+      "word": "distasteful",
+      "phonetic": "/dɪsˈteɪstfl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "令人反感的，讨厌的",
+          "usage": "指事物不符合人的道德审美、让人觉得不舒服，程度比disgusting轻"
+        }
+      ]
+    },
+    {
+      "word": "pester",
+      "phonetic": "/ˈpestə(r)/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "纠缠，烦扰",
+          "usage": "指反复打扰、纠缠某人以达到自己的目的，常用搭配pester sb. to do sth.或pester sb. for sth."
+        }
+      ]
+    },
+    {
+      "word": "dread",
+      "phonetic": "/dred/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "惧怕，害怕",
+          "usage": "强调对将要发生的不好的事感到极度担忧，常用搭配dread doing sth.或dread that从句"
+        }
+      ]
+    },
+    {
+      "word": "plaster",
+      "phonetic": "/ˈplɑːstə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "石膏；灰泥",
+          "usage": "表示石膏时常用搭配in plaster（打了石膏），也可指建筑用的灰泥或者创可贴"
+        }
+      ]
+    },
+    {
+      "word": "miserable",
+      "phonetic": "/ˈmɪzrəbl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "痛苦的，悲惨的",
+          "usage": "用来描述人感觉非常不愉快、处境糟糕，也可形容事物令人难受"
+        }
+      ]
+    },
+    {
+      "word": "console",
+      "phonetic": "/kənˈsəʊl/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "安慰，抚慰",
+          "usage": "指在某人悲伤、失望的时候给予安慰，常用搭配console sb. with sth."
+        }
+      ]
+    },
+    {
+      "word": "hobble",
+      "phonetic": "/ˈhɒbl/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "蹒跚，跛行",
+          "usage": "指因为腿或脚受伤而走路一瘸一拐的"
+        }
+      ]
+    },
+    {
+      "word": "compensate",
+      "phonetic": "/ˈkɒmpenseɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "补偿，弥补",
+          "usage": "常用搭配compensate sb. for sth.，表示为某人的损失、不好的经历给予补偿"
+        }
+      ]
+    },
+    {
+      "word": "mumble",
+      "phonetic": "/ˈmʌmbl/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "含糊地说，咕哝",
+          "usage": "指说话声音小且不清楚，通常因为不开心、醉酒或害羞"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "be bound up with",
+      "usage": "表示事物之间密切相关、密不可分，用来描述两个事物的关联性",
+      "examples": [
+        {
+          "en": "The future of the company is bound up with the development of new technology.",
+          "zh": "这家公司的未来和新技术的发展密切相关。"
+        },
+        {
+          "en": "Personality is bound up with the environment one grows up in.",
+          "zh": "性格和一个人的成长环境密不可分。"
+        }
+      ]
+    },
+    {
+      "phrase": "fail to do sth.",
+      "usage": "表示没能做到某事、未达成某个动作，比can't do更书面正式",
+      "examples": [
+        {
+          "en": "I failed to catch the last bus yesterday, so I had to take a taxi home.",
+          "zh": "我昨天没赶上末班车，所以只好打车回家。"
+        },
+        {
+          "en": "The team failed to win the game even after three months of hard training.",
+          "zh": "尽管经过了三个月的刻苦训练，这支队伍还是没能赢得比赛。"
+        }
+      ]
+    },
+    {
+      "phrase": "be based on",
+      "usage": "表示“以…为基础，根据…”，主语通常是故事、理论、判断等事物",
+      "examples": [
+        {
+          "en": "The movie is based on a real-life story that happened 20 years ago.",
+          "zh": "这部电影是根据20年前发生的真实故事改编的。"
+        },
+        {
+          "en": "Your argument should be based on solid evidence instead of guesses.",
+          "zh": "你的论点应该基于可靠的证据，而不是猜测。"
+        }
+      ]
+    },
+    {
+      "phrase": "in spite of",
+      "usage": "表示“尽管，虽然”，后接名词/名词短语，用来引导让步关系，等同于despite",
+      "examples": [
+        {
+          "en": "In spite of the heavy rain, we still arrived at the meeting on time.",
+          "zh": "尽管下着大雨，我们还是准时到达了会场。"
+        },
+        {
+          "en": "He kept on running in spite of his injured ankle.",
+          "zh": "尽管脚踝受伤了，他还是继续跑步。"
+        }
+      ]
+    },
+    {
+      "phrase": "come into fashion",
+      "usage": "表示“开始流行，成为时尚”，主语通常是某种风格、事物、风潮",
+      "examples": [
+        {
+          "en": "Vintage clothes have come into fashion again among young people these years.",
+          "zh": "这些年复古服装又在年轻人中流行起来了。"
+        },
+        {
+          "en": "Short haircuts came into fashion in the 1920s for women in Western countries.",
+          "zh": "20世纪20年代，短发在西方国家的女性中开始流行。"
+        }
+      ]
+    },
+    {
+      "phrase": "keep on doing sth.",
+      "usage": "表示“持续做某事，反复做某事”，强调动作的持续性和重复性",
+      "examples": [
+        {
+          "en": "If you keep on practicing English every day, you will make great progress soon.",
+          "zh": "如果你坚持每天练习英语，很快就会取得很大进步。"
+        },
+        {
+          "en": "The little boy kept on asking his parents strange questions about the universe.",
+          "zh": "这个小男孩不停问他父母关于宇宙的奇怪问题。"
+        }
+      ]
+    },
+    {
+      "phrase": "take heart",
+      "usage": "表示“鼓起勇气，振作起来”，是不及物短语，用来描述人在受挫后恢复信心",
+      "examples": [
+        {
+          "en": "When you face difficulties in study, take heart and you will find solutions finally.",
+          "zh": "当你在学习中遇到困难时，振作起来，最终会找到解决办法的。"
+        },
+        {
+          "en": "The team took heart after their first victory and performed better in the following matches.",
+          "zh": "这支队伍在首场胜利后振作了起来，在后续的比赛中表现得更好。"
+        }
+      ]
+    },
+    {
+      "phrase": "sure enough",
+      "usage": "表示“果然，果真”，放在句首或句中，用来证明之前的猜测、预料是正确的",
+      "examples": [
+        {
+          "en": "I thought it would rain this afternoon, and sure enough, it started pouring at 3 o'clock.",
+          "zh": "我就觉得今天下午会下雨，果然，三点的时候就开始下大雨了。"
+        },
+        {
+          "en": "She said she would bring me a gift when she came back from Japan, and sure enough, she gave me a delicate handcraft.",
+          "zh": "她说从日本回来的时候会给我带礼物，果然，她给了我一个精致的手工艺品。"
+        }
+      ]
+    },
+    {
+      "phrase": "slip on",
+      "usage": "表示“在…上滑倒”，后接表示路面、地面的名词，强调滑倒的地点/原因",
+      "examples": [
+        {
+          "en": "Be careful not to slip on the wet floor when you enter the room.",
+          "zh": "进房间的时候小心别在湿地板上滑倒。"
+        },
+        {
+          "en": "The old man slipped on the icy road and hurt his arm last winter.",
+          "zh": "去年冬天这位老人在结冰的路上滑倒，伤到了胳膊。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "让步状语从句（No matter/Whether引导）",
+      "definition": "用来表达“尽管、无论”的让步逻辑，说明主句的动作不受从句条件的影响依然成立",
+      "structure": "1. Whether + 陈述句, + 主句；2. No matter + 疑问词（where/who/when等）+ 陈述句, + 主句",
+      "usage": "whether引导时表示两种情况都不影响主句结果；no matter+疑问词引导时表示在任何该疑问词覆盖的情况下主句都成立，用于加强语气",
+      "examples": [
+        {
+          "en": "Whether you like the plan or not, we will carry it out next month.",
+          "zh": "无论你喜不喜欢这个计划，我们下个月都会执行它。"
+        },
+        {
+          "en": "No matter how difficult the task is, we will try our best to finish it on time.",
+          "zh": "无论这个任务有多难，我们都会尽全力按时完成。"
+        }
+      ]
+    },
+    {
+      "title": "定语从句（which/who引导的非限定性定语从句）",
+      "definition": "用来对前面的名词或整个句子进行补充说明，去掉从句后主句依然完整，从句和主句之间通常用逗号隔开",
+      "structure": "主句 + , + which/who + 从句部分",
+      "usage": "which指代事物或前面整句话的内容，who指代人，不能用that引导非限定性定语从句，用来提供额外的补充信息",
+      "examples": [
+        {
+          "en": "My favorite season is autumn, when the leaves turn yellow and the weather is cool.",
+          "zh": "我最喜欢的季节是秋天，那时树叶变黄，天气凉爽。"
+        },
+        {
+          "en": "He passed the final exam, which made his parents very happy.",
+          "zh": "他通过了期末考试，这让他的父母非常开心。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Whether sb. find sth. adj. or not largely depends on ...",
+      "original": {
+        "en": "Whether we find a joke funny or not largely depends on where we have been brought up.",
+        "zh": "我们觉得一个笑话好不好笑，很大程度上取决于我们是在哪里长大的。"
+      },
+      "imitations": [
+        {
+          "en": "Whether people find this movie touching or not largely depends on their own life experiences.",
+          "zh": "人们觉得这部电影感不感人，很大程度上取决于他们自己的人生经历。"
+        },
+        {
+          "en": "Whether students find a subject interesting or not largely depends on the way the teacher teaches it.",
+          "zh": "学生觉得一门课有没有意思，很大程度上取决于老师的授课方式。"
+        }
+      ]
+    },
+    {
+      "pattern": "To compensate for ..., sb. do sth. more than is good for sb.",
+      "original": {
+        "en": "To compensate for his unpleasant experiences in hospital, the man drank a little more than was good for him.",
+        "zh": "为了补偿他在医院的不愉快经历，这个男人喝得有点多，对身体不太好。"
+      },
+      "imitations": [
+        {
+          "en": "To compensate for the time he wasted playing games last month, the boy studied much longer than was good for him every day before the exam.",
+          "zh": "为了补偿上个月玩游戏浪费的时间，这个男孩在考试前每天学习的时间长得对身体都不好。"
+        },
+        {
+          "en": "To compensate for missing her daughter's birthday, the mother bought many gifts more than were good for the child.",
+          "zh": "为了弥补错过了女儿的生日，这位妈妈买了太多对孩子并不好的礼物。"
+        }
+      ]
+    },
+    {
+      "pattern": "The following example of ... will enable you to judge for yourself.",
+      "original": {
+        "en": "The following example of 'sick humour' will enable you to judge for yourself.",
+        "zh": "下面这个“黑色幽默”的例子能让你自己做出判断。"
+      },
+      "imitations": [
+        {
+          "en": "The following example of the new policy's effect will enable you to judge for yourself whether it is beneficial.",
+          "zh": "下面这个关于新政策效果的例子能让你自己判断它是否有益。"
+        },
+        {
+          "en": "The following example of the product's practical use will enable you to judge for yourself if it is worth buying.",
+          "zh": "下面这个关于产品实际使用的例子能让你自己判断它是否值得购买。"
+        }
+      ]
+    }
+  ]
+}

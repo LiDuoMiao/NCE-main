@@ -1,0 +1,394 @@
+{
+  "book": "NCE2",
+  "lesson": "62",
+  "title": "What was the danger to the villages after the fire?",
+  "vocabulary": [
+    {
+      "word": "fireman",
+      "phonetic": "/ˈfaɪəmən/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "消防队员",
+          "usage": "指从事灭火工作的专业人员，复数形式为firemen"
+        }
+      ]
+    },
+    {
+      "word": "forest",
+      "phonetic": "/ˈfɒrɪst/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "森林",
+          "usage": "指大面积的树木覆盖区域"
+        }
+      ]
+    },
+    {
+      "word": "countryside",
+      "phonetic": "/ˈkʌntrisaɪd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "农村，乡村",
+          "usage": "指城市以外的地区"
+        }
+      ]
+    },
+    {
+      "word": "desolate",
+      "phonetic": "/ˈdesələt/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "荒凉的，无人烟的",
+          "usage": "形容荒芜、凄凉的地区"
+        }
+      ]
+    },
+    {
+      "word": "threaten",
+      "phonetic": "/ˈθretn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "威胁，恐吓",
+          "usage": "指对某人或某物构成危险"
+        }
+      ]
+    },
+    {
+      "word": "destruction",
+      "phonetic": "/dɪˈstrʌkʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "破坏，毁灭",
+          "usage": "指严重的损坏或摧毁"
+        }
+      ]
+    },
+    {
+      "word": "flood",
+      "phonetic": "/flʌd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "洪水，水灾",
+          "usage": "指大量水淹没地区"
+        }
+      ]
+    },
+    {
+      "word": "authority",
+      "phonetic": "/ɔːˈθɒrəti/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "当局，官方",
+          "usage": "指有权力的机构或部门，复数形式authorities指当局"
+        }
+      ]
+    },
+    {
+      "word": "spray",
+      "phonetic": "/spreɪ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "喷洒，喷射",
+          "usage": "指把液体喷成小颗粒"
+        }
+      ]
+    },
+    {
+      "word": "aeroplane",
+      "phonetic": "/ˈeərəpleɪn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "飞机",
+          "usage": "英式英语拼写，美式英语为airplane"
+        }
+      ]
+    },
+    {
+      "word": "root",
+      "phonetic": "/ruːt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "根，根源",
+          "usage": "指植物埋在土中的部分，take root表示生根"
+        }
+      ]
+    },
+    {
+      "word": "patch",
+      "phonetic": "/pætʃ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "小块，斑点",
+          "usage": "指一小块区域或与其他部分不同的区域"
+        }
+      ]
+    },
+    {
+      "word": "soil",
+      "phonetic": "/sɔɪl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "土壤，土地",
+          "usage": "指地球表面的泥土层"
+        }
+      ]
+    },
+    {
+      "word": "blacken",
+      "phonetic": "/ˈblækən/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "使变黑，烧黑",
+          "usage": "指使某物变成黑色"
+        }
+      ]
+    },
+    {
+      "word": "ton",
+      "phonetic": "/tʌn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "吨",
+          "usage": "重量单位，several tons表示数吨"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "fight the fire",
+      "usage": "表示救火、灭火",
+      "examples": [
+        {
+          "en": "Firemen had been fighting the forest fire for nearly three weeks.",
+          "zh": "消防队员们与森林大火搏斗了将近三个星期。"
+        }
+      ]
+    },
+    {
+      "phrase": "get under control",
+      "usage": "表示得到控制、被控制住",
+      "examples": [
+        {
+          "en": "Before they could get it under control, the fire had spread widely.",
+          "zh": "在他们能够控制住火势之前，大火已经蔓延开了。"
+        }
+      ]
+    },
+    {
+      "phrase": "cover miles around",
+      "usage": "表示覆盖周围数英里",
+      "examples": [
+        {
+          "en": "Great trees had covered the countryside for miles around.",
+          "zh": "大树覆盖了周围数英里的乡村。"
+        }
+      ]
+    },
+    {
+      "phrase": "take root",
+      "usage": "表示生根、扎根",
+      "examples": [
+        {
+          "en": "In many places the grass had already taken root.",
+          "zh": "在许多地方，草已经生了根。"
+        }
+      ]
+    },
+    {
+      "phrase": "in place of",
+      "usage": "表示代替、取代",
+      "examples": [
+        {
+          "en": "In place of the great trees, patches of green had begun to appear.",
+          "zh": "在原来大树的地方，开始出现了片片绿色。"
+        }
+      ]
+    },
+    {
+      "phrase": "wash away",
+      "usage": "表示冲走、冲刷掉",
+      "examples": [
+        {
+          "en": "Heavy rain would wash away the soil.",
+          "zh": "大雨会冲走土壤。"
+        }
+      ]
+    },
+    {
+      "phrase": "put out",
+      "usage": "表示扑灭、熄灭（火焰等）",
+      "examples": [
+        {
+          "en": "When the fire had at last been put out, the forest authorities ordered grass-seed.",
+          "zh": "当大火终于被扑灭后，森林管理局订购了草籽。"
+        }
+      ]
+    },
+    {
+      "phrase": "order several tons of",
+      "usage": "表示订购数吨的...",
+      "examples": [
+        {
+          "en": "The forest authorities ordered several tons of a special type of grass-seed.",
+          "zh": "森林管理局订购了好几吨一种特殊类型的草籽。"
+        }
+      ]
+    },
+    {
+      "phrase": "grow quickly",
+      "usage": "表示快速生长",
+      "examples": [
+        {
+          "en": "The special grass-seed would grow quickly.",
+          "zh": "这种特殊的草籽会快速生长。"
+        }
+      ]
+    },
+    {
+      "phrase": "come on",
+      "usage": "表示来临、到来（用于季节）",
+      "examples": [
+        {
+          "en": "Winter was coming on and the hills threatened the surrounding villages.",
+          "zh": "冬天即将来临，山丘威胁着周围的村庄。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去完成进行时 (Past Perfect Continuous Tense)",
+      "definition": "表示在过去某一时间点之前已经开始并持续到该时间点的动作，强调动作的持续性和进行过程",
+      "structure": "had been + 动词-ing",
+      "usage": "用于描述持续进行的动作到过去某一点，常与before、when等时间词连用",
+      "examples": [
+        {
+          "en": "Firemen had been fighting the forest fire for nearly three weeks before they could get it under control.",
+          "zh": "消防队员们与森林大火搏斗了将近三个星期，才最终控制住火势。"
+        },
+        {
+          "en": "The planes had been planting seed for nearly a month when it began to rain.",
+          "zh": "飞机已经播种了将近一个月，这时开始下雨了。"
+        }
+      ]
+    },
+    {
+      "title": "Before引导的时间状语从句",
+      "definition": "before引导的从句表示主句动作发生在从句动作之前",
+      "structure": "主句 + before + 从句",
+      "usage": "强调主句动作先发生，或表示'在...之前'",
+      "examples": [
+        {
+          "en": "They could get it under control before they had been fighting for three weeks.",
+          "zh": "他们能够控制住火势在他们搏斗三周之前。（此句语义有误，应为：在搏斗三周后，他们才控制住）"
+        },
+        {
+          "en": "A short time before, great trees had covered the countryside.",
+          "zh": "不久之前，大树还覆盖着这片乡村。"
+        }
+      ]
+    },
+    {
+      "title": "情态动词would的用法",
+      "definition": "would在这里表示推测、可能性或过去的习惯性动作",
+      "structure": "would + 动词原形",
+      "usage": "用于描述过去将要发生的事或对过去的推测",
+      "examples": [
+        {
+          "en": "Heavy rain would not only wash away the soil but would cause serious floods as well.",
+          "zh": "大雨不仅会冲走土壤，而且还会引起严重的洪水。"
+        },
+        {
+          "en": "This would be a disaster for the villages.",
+          "zh": "这将对村庄造成一场灾难。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "主语 + had been + 动词-ing + for...before + 主语 + could + 动词原形",
+      "original": {
+        "en": "Firemen had been fighting the forest fire for nearly three weeks before they could get it under control.",
+        "zh": "消防队员们与森林大火搏斗了将近三个星期，才最终控制住火势。"
+      },
+      "imitations": [
+        {
+          "en": "She had been studying English for two years before she could pass the exam.",
+          "zh": "她学习了两年英语之后才通过了考试。"
+        },
+        {
+          "en": "They had been waiting for the bus for an hour before it finally arrived.",
+          "zh": "他们等了一个小时的公交车，它终于来了。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + had been + 动词-ing + when + 主语 + 动词过去式",
+      "original": {
+        "en": "The planes had been planting seed for nearly a month when it began to rain.",
+        "zh": "飞机已经播种了将近一个月，这时开始下雨了。"
+      },
+      "imitations": [
+        {
+          "en": "I had been reading the book when my friend called me.",
+          "zh": "我正在看书，这时我朋友打电话给我。"
+        },
+        {
+          "en": "He had been cooking dinner when the power went out.",
+          "zh": "他正在做晚饭，这时停电了。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + would + 动词原形 + not only...but (also)...",
+      "original": {
+        "en": "Heavy rain would not only wash away the soil but would cause serious floods as well.",
+        "zh": "大雨不仅会冲走土壤，而且还会引起严重的洪水。"
+      },
+      "imitations": [
+        {
+          "en": "Smoking would not only damage your health but would also waste your money.",
+          "zh": "吸烟不仅会损害你的健康，而且还会浪费你的钱。"
+        },
+        {
+          "en": "The storm would not only destroy the houses but would also flood the fields.",
+          "zh": "暴风雨不仅会摧毁房屋，而且还会淹没农田。"
+        }
+      ]
+    },
+    {
+      "pattern": "In place of + 名词/名词短语, 主语 + 动词...",
+      "original": {
+        "en": "In place of the great trees which had been growing there for centuries, patches of green had begun to appear.",
+        "zh": "在原来生长了几个世纪的大树的地方，开始出现了片片绿色。"
+      },
+      "imitations": [
+        {
+          "en": "In place of the old bridge, a modern one has been built.",
+          "zh": "在旧桥的地方，一座现代化的桥已经建成了。"
+        },
+        {
+          "en": "In place of coal, people now use gas for heating.",
+          "zh": "现在人们用天然气代替煤炭来取暖。"
+        }
+      ]
+    }
+  ]
+}

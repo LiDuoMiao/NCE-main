@@ -1,0 +1,415 @@
+{
+  "book": "NCE4",
+  "lesson": "27",
+  "title": "Lesson 27",
+  "vocabulary": [
+    {
+      "word": "maiden",
+      "phonetic": "/ˈmeɪdn/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "首次的；初次的",
+          "usage": "用于描述交通工具、旅程等第一次执行的任务"
+        },
+        {
+          "pos": "noun",
+          "meaning": "少女；处女",
+          "usage": "指未婚的年轻女性"
+        }
+      ]
+    },
+    {
+      "word": "imperial",
+      "phonetic": "/ɪmˈpɪəriəl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "帝国的；皇帝的",
+          "usage": "用于描述和帝国、君主相关的事物"
+        }
+      ]
+    },
+    {
+      "word": "dictate",
+      "phonetic": "/dɪkˈteɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "指定；决定；命令",
+          "usage": "指权威人士强制规定某事的内容或规则"
+        },
+        {
+          "pos": "verb",
+          "meaning": "口述；听写",
+          "usage": "指口头说出内容让他人记录"
+        }
+      ]
+    },
+    {
+      "word": "armament",
+      "phonetic": "/ˈɑːməmənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "武器装备；军备",
+          "usage": "指军队或军用交通工具配备的武器总称"
+        }
+      ]
+    },
+    {
+      "word": "ferment",
+      "phonetic": "/ˈfɜːment/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "骚动；动荡；激动",
+          "usage": "用于描述人群或社会气氛的兴奋、不安状态"
+        },
+        {
+          "pos": "verb",
+          "meaning": "发酵；挑起动乱",
+          "usage": "指物质发酵的过程，或比喻煽动情绪"
+        }
+      ]
+    },
+    {
+      "word": "ornament",
+      "phonetic": "/ˈɔːnəmənt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "装饰；点缀",
+          "usage": "指添加装饰性元素让事物更美观"
+        },
+        {
+          "pos": "noun",
+          "meaning": "装饰品；饰物",
+          "usage": "指用于装饰的物品"
+        }
+      ]
+    },
+    {
+      "word": "riot",
+      "phonetic": "/ˈraɪət/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "丰富多彩的展示； riot of sth表示大量各种各样的事物",
+          "usage": "用于比喻颜色、元素等丰富杂乱的状态"
+        },
+        {
+          "pos": "noun",
+          "meaning": "暴乱；骚乱",
+          "usage": "指人群的暴力骚乱活动"
+        }
+      ]
+    },
+    {
+      "word": "zoomorphic",
+      "phonetic": "/ˌzəʊəˈmɔːfɪk/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "兽形的；动物形的",
+          "usage": "用于描述艺术、装饰中模仿动物形态的设计"
+        }
+      ]
+    },
+    {
+      "word": "ablaze",
+      "phonetic": "/əˈbleɪz/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "色彩鲜艳的；闪耀的",
+          "usage": "用于描述颜色明亮夺目、发光的状态"
+        },
+        {
+          "pos": "adjective",
+          "meaning": "着火的；燃烧的",
+          "usage": "指物体正在燃烧的状态"
+        }
+      ]
+    },
+    {
+      "word": "portray",
+      "phonetic": "/pɔːˈtreɪ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "描绘；刻画",
+          "usage": "指用艺术、文字等方式呈现人或事物的特征"
+        }
+      ]
+    },
+    {
+      "word": "superstitious",
+      "phonetic": "/ˌsuːpəˈstɪʃəs/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "迷信的",
+          "usage": "用于描述相信迷信、运气等超自然力量的人或行为"
+        }
+      ]
+    },
+    {
+      "word": "salute",
+      "phonetic": "/səˈluːt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "鸣礼炮；敬礼；致敬",
+          "usage": "指表示敬意的礼仪动作或鸣炮行为"
+        },
+        {
+          "pos": "verb",
+          "meaning": "敬礼；致敬",
+          "usage": "指做出致敬的动作"
+        }
+      ]
+    },
+    {
+      "word": "majestic",
+      "phonetic": "/məˈdʒestɪk/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "雄伟的；壮丽的；威严的",
+          "usage": "用于描述气势宏大、给人庄重感的事物"
+        }
+      ]
+    },
+    {
+      "word": "squall",
+      "phonetic": "/skwɔːl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "突起的狂风；飑",
+          "usage": "指海上或陆地上突然出现的强风，常伴随阵雨"
+        }
+      ]
+    },
+    {
+      "word": "list",
+      "phonetic": "/lɪst/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "（船）倾斜",
+          "usage": "专门描述船只向一侧倾斜的状态"
+        },
+        {
+          "pos": "noun",
+          "meaning": "列表；清单",
+          "usage": "指记录一系列事物的清单"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "at the height of",
+      "usage": "表示处于某个活动、状态或事业的顶峰、最鼎盛时期",
+      "examples": [
+        {
+          "en": "He was at the height of his career when he won the Nobel Prize.",
+          "zh": "获得诺贝尔奖时，他正处于事业的顶峰。"
+        },
+        {
+          "en": "At the height of the summer, the temperature can reach 40℃ here.",
+          "zh": "在盛夏时节，这里的温度可达40摄氏度。"
+        }
+      ]
+    },
+    {
+      "phrase": "be intended to",
+      "usage": "表示某事物被设计、计划用于某个特定目的，主语通常是物",
+      "examples": [
+        {
+          "en": "This program is intended to help people with low income.",
+          "zh": "这个项目旨在帮助低收入人群。"
+        },
+        {
+          "en": "The book is intended for children aged 5 to 10.",
+          "zh": "这本书是为5到10岁的儿童编写的。"
+        }
+      ]
+    },
+    {
+      "phrase": "play a leading role in",
+      "usage": "表示在某个领域、活动中起主导作用、担任重要角色",
+      "examples": [
+        {
+          "en": "She played a leading role in organizing the event.",
+          "zh": "她在组织这次活动中起到了主导作用。"
+        },
+        {
+          "en": "China plays a leading role in global climate change cooperation.",
+          "zh": "中国在全球气候变化合作中发挥着重要的引领作用。"
+        }
+      ]
+    },
+    {
+      "phrase": "a riot of",
+      "usage": "用于描述大量丰富多彩、种类繁多的事物，尤指颜色",
+      "examples": [
+        {
+          "en": "The garden is a riot of colour in spring.",
+          "zh": "春天的花园里色彩缤纷，万紫千红。"
+        },
+        {
+          "en": "The parade was a riot of sound and movement as dancers and musicians passed by.",
+          "zh": "当舞者和音乐家经过时，游行队伍充满了喧闹的声响和活跃的身影。"
+        }
+      ]
+    },
+    {
+      "phrase": "stir one's imagination",
+      "usage": "表示激发、唤起某人的想象力",
+      "examples": [
+        {
+          "en": "Science fiction stories always stir children's imagination about space.",
+          "zh": "科幻故事总能激发孩子们对太空的想象力。"
+        },
+        {
+          "en": "The mysterious ancient ruins stirred the archaeologists' imagination.",
+          "zh": "这些神秘的古代遗迹唤起了考古学家的想象。"
+        }
+      ]
+    },
+    {
+      "phrase": "in reply to",
+      "usage": "表示作为对……的回应、答复",
+      "examples": [
+        {
+          "en": "He nodded in reply to my question.",
+          "zh": "他点了点头，作为对我问题的回应。"
+        },
+        {
+          "en": "The company issued a statement in reply to the media's accusations.",
+          "zh": "公司发布了一则声明，回应媒体的指控。"
+        }
+      ]
+    },
+    {
+      "phrase": "seal one's fate",
+      "usage": "表示决定了某人或某事物的最终结局（通常是不幸的），无法再改变",
+      "examples": [
+        {
+          "en": "His careless mistake in the final game sealed the team's fate.",
+          "zh": "他在决赛中那个粗心的失误注定了球队的败局。"
+        },
+        {
+          "en": "When the company lost its biggest client, its fate was sealed.",
+          "zh": "当公司失去了最大的客户时，它的命运就已经注定了。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "非限制性定语从句",
+      "definition": "对主句中某个名词或整个主句的内容进行补充说明，去掉后不影响主句的完整意思，通常和主句之间用逗号隔开",
+      "structure": "主句, which/who/whose/where/when + 从句",
+      "usage": "用于补充额外信息，而非限定修饰的对象，翻译时通常拆分为独立的句子",
+      "examples": [
+        {
+          "en": "In that first glorious hour, the mighty Vasa, which was intended to rule the Baltic, sank with all flags flying.",
+          "zh": "在那荣耀的第一个小时里，本打算统治波罗的海的强大的“瓦萨”号，却在自己的诞生港内，全旗飘扬地沉入了海底。"
+        },
+        {
+          "en": "The old building, which was built in 1890, will be turned into a museum next year.",
+          "zh": "这栋老建筑建于1890年，明年将被改造成一座博物馆。"
+        }
+      ]
+    },
+    {
+      "title": "with的复合结构作伴随状语",
+      "definition": "用\"with + 宾语 + 宾语补足语\"的结构，描述主句动作发生时的伴随状态、背景或原因",
+      "structure": "with + 名词/代词 + 现在分词/过去分词/形容词/副词/介词短语/不定式",
+      "usage": "用于丰富句子的场景描述，让多个动作或状态同时呈现，避免堆砌多个简单句",
+      "examples": [
+        {
+          "en": "As she emerged from her drifting cloud of gun smoke with the water churned to foam beneath her bow, her flags flying, pennants waving, sails filling in the breeze, and the red and gold of her superstructure ablaze with colour, she presented a more majestic spectacle than Stockholmers had ever seen before.",
+          "zh": "当它从弥漫的炮烟中驶出时，船首下的海水翻滚着泡沫，旗帜飘扬，三角旗舞动，风帆在微风中胀满，上层建筑的红金两色光彩夺目，它呈现出斯德哥尔摩人前所未见的雄伟景象。"
+        },
+        {
+          "en": "She walked into the classroom with a book in her hand and a smile on her face.",
+          "zh": "她走进教室，手里拿着一本书，脸上带着微笑。"
+        }
+      ]
+    },
+    {
+      "title": "时间状语从句的省略",
+      "definition": "当时间状语从句的主语和主句主语一致，且从句包含be动词时，可以省略从句的主语和be动词，简化句子结构",
+      "structure": "when/while/as/once/until/if等 + 现在分词/过去分词/形容词/介词短语",
+      "usage": "用于避免重复主语，让句子更简洁紧凑",
+      "examples": [
+        {
+          "en": "As prepared for her maiden voyage on August 10, 1628, Stockholm was in a ferment.",
+          "zh": "1628年8月10日，当它正准备首次航行时，斯德哥尔摩全城沸腾。"
+        },
+        {
+          "en": "When asked about his plan, he said he would go abroad for further study.",
+          "zh": "当被问及他的计划时，他说他会出国深造。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "The story of ... that ... must be one of the strangest tales of ...",
+      "original": {
+        "en": "the story of a galleon that sank at the start of her maiden voyage in 1628 must be one of the strangest tales of the sea.",
+        "zh": "1628年一艘大帆船在处女航刚开始就沉没了，这个故事堪称航海史上最离奇的传说之一。"
+      },
+      "imitations": [
+        {
+          "en": "The story of a young painter that died poor but became world-famous after his death must be one of the strangest tales of the art world.",
+          "zh": "一位年轻画家生前穷困潦倒，去世后却举世闻名，这个故事堪称艺术界最离奇的传说之一。"
+        },
+        {
+          "en": "The story of an old cat that traveled 500 kilometers to return to its owner's home must be one of the strangest tales of animal behavior.",
+          "zh": "一只老猫跋涉500公里回到主人家，这个故事堪称动物行为中最离奇的传说之一。"
+        }
+      ]
+    },
+    {
+      "pattern": "..., which was intended to ..., ...",
+      "original": {
+        "en": "the mighty Vasa, which was intended to rule the Baltic, sank with all flags flying--in the harbour of her birth.",
+        "zh": "本打算统治波罗的海的强大的“瓦萨”号，却在自己的诞生港内，全旗飘扬地沉入了海底。"
+      },
+      "imitations": [
+        {
+          "en": "The grand project, which was intended to solve the city's traffic problem, was stopped due to lack of funds.",
+          "zh": "本打算解决城市交通问题的宏大项目，却因为资金不足被叫停了。"
+        },
+        {
+          "en": "The new policy, which was intended to encourage small businesses, has received widespread support.",
+          "zh": "本打算鼓励小微企业的新政策，得到了广泛的支持。"
+        }
+      ]
+    },
+    {
+      "pattern": "As ... there came a sudden ...",
+      "original": {
+        "en": "As the wind freshened there came a sudden squall and the ship made a strange movement, listing to port.",
+        "zh": "当风力增强时，突然刮来一阵狂风，船奇怪地晃动了一下，向左舷倾斜。"
+      },
+      "imitations": [
+        {
+          "en": "As the meeting was going smoothly there came a sudden objection from a young participant.",
+          "zh": "当会议进展顺利时，突然有一位年轻的参会者提出了反对意见。"
+        },
+        {
+          "en": "As we were enjoying the picnic there came a sudden heavy rain and we had to rush to the car.",
+          "zh": "我们正享受野餐的时候，突然下起了大雨，我们不得不冲向车里。"
+        }
+      ]
+    }
+  ]
+}

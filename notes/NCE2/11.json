@@ -1,0 +1,394 @@
+{
+  "book": "NCE2",
+  "lesson": "11",
+  "title": "Who paid for Tony's dinner?",
+  "vocabulary": [
+    {
+      "word": "restaurant",
+      "phonetic": "/rɪˈstɒrɒnt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "餐馆，餐厅",
+          "usage": "指提供餐食的场所"
+        }
+      ]
+    },
+    {
+      "word": "lawyer",
+      "phonetic": "/ˈlɔːjə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "律师",
+          "usage": "指提供法律服务的人"
+        }
+      ]
+    },
+    {
+      "word": "bank",
+      "phonetic": "/bæŋk/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "银行",
+          "usage": "指存放和借贷货币的金融机构"
+        }
+      ]
+    },
+    {
+      "word": "salary",
+      "phonetic": "/ˈsæləri/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "薪水，工资",
+          "usage": "指固定周期内的工作报酬"
+        }
+      ]
+    },
+    {
+      "word": "borrow",
+      "phonetic": "/ˈbɒrəʊ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "借入，借用",
+          "usage": "指从他人处暂时取得金钱或物品，承诺归还"
+        }
+      ]
+    },
+    {
+      "word": "lend",
+      "phonetic": "/lend/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "借出，借给",
+          "usage": "指把自己的金钱或物品暂时给别人使用"
+        }
+      ]
+    },
+    {
+      "word": "money",
+      "phonetic": "/ˈmʌni/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "钱，金钱",
+          "usage": "指货币或可用于交换的资产"
+        }
+      ]
+    },
+    {
+      "word": "surprise",
+      "phonetic": "/səˈpraɪz/",
+      "meanings": [
+        {
+          "pos": "noun/verb",
+          "meaning": "惊讶，吃惊",
+          "usage": "表示意外或突如其来的感觉"
+        }
+      ]
+    },
+    {
+      "word": "immediately",
+      "phonetic": "/ɪˈmiːdiətli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "立即，马上",
+          "usage": "描述动作在时间上没有延迟"
+        }
+      ]
+    },
+    {
+      "word": "pay",
+      "phonetic": "/peɪ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "支付，付款",
+          "usage": "指付钱以换取商品或服务"
+        }
+      ]
+    },
+    {
+      "word": "dinner",
+      "phonetic": "/ˈdɪnə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "晚餐，正餐",
+          "usage": "指一天中的主餐，通常在晚上进行"
+        }
+      ]
+    },
+    {
+      "word": "table",
+      "phonetic": "/ˈteɪbl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "桌子",
+          "usage": "指用于放置物品或用餐的家具"
+        }
+      ]
+    },
+    {
+      "word": "working",
+      "phonetic": "/ˈwɜːkɪŋ/",
+      "meanings": [
+        {
+          "pos": "verb (现在分词)",
+          "meaning": "工作，任职",
+          "usage": "表示正在进行的工作或职业状态"
+        }
+      ]
+    },
+    {
+      "word": "years ago",
+      "phonetic": "/jɪəz əˈɡəʊ/",
+      "meanings": [
+        {
+          "pos": "phrase",
+          "meaning": "多年前",
+          "usage": "指过去的某个时间段，距今较久"
+        }
+      ]
+    },
+    {
+      "word": "never",
+      "phonetic": "/ˈnevə/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "从不，永不",
+          "usage": "表示某动作从未发生或不存在"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "have never borrowed",
+      "usage": "用于表达到目前为止从未进行过借入的动作",
+      "examples": [
+        {
+          "en": "He has never borrowed money from me.",
+          "zh": "他从未向我借过钱。"
+        }
+      ]
+    },
+    {
+      "phrase": "to my surprise",
+      "usage": "用于引出令人惊讶的情况",
+      "examples": [
+        {
+          "en": "To my surprise, he gave me the money immediately.",
+          "zh": "令我惊讶的是，他立刻把钱给了我。"
+        }
+      ]
+    },
+    {
+      "phrase": "pay for my dinner",
+      "usage": "指为晚餐付款，承担晚餐费用",
+      "examples": [
+        {
+          "en": "Now you can pay for my dinner!",
+          "zh": "现在你可以为我的晚餐付账了！"
+        }
+      ]
+    },
+    {
+      "phrase": "lend me twenty pounds",
+      "usage": "请求对方借给自己二十英镑",
+      "examples": [
+        {
+          "en": "I asked him to lend me twenty pounds.",
+          "zh": "我请他借给我二十英镑。"
+        }
+      ]
+    },
+    {
+      "phrase": "come and sit at the same table",
+      "usage": "表示来到并坐在同一张桌子旁",
+      "examples": [
+        {
+          "en": "Tony saw me and came and sat at the same table.",
+          "zh": "托尼看见我后走过来坐在同一张桌子旁。"
+        }
+      ]
+    },
+    {
+      "phrase": "worked in a lawyer's office years ago",
+      "usage": "描述多年前在律师事务所工作",
+      "examples": [
+        {
+          "en": "He worked in a lawyer's office years ago.",
+          "zh": "他多年前在一家律师事务所工作。"
+        }
+      ]
+    },
+    {
+      "phrase": "gets a good salary",
+      "usage": "指拥有不错的收入",
+      "examples": [
+        {
+          "en": "He gets a good salary, but he always borrows money.",
+          "zh": "他薪水不错，但他总是向朋友借钱。"
+        }
+      ]
+    },
+    {
+      "phrase": "borrows money from his friends and never pays it back",
+      "usage": "描述向朋友借钱且不归还的行为",
+      "examples": [
+        {
+          "en": "He always borrows money from his friends and never pays it back.",
+          "zh": "他总是向朋友借钱且从不归还。"
+        }
+      ]
+    },
+    {
+      "phrase": "while he was eating",
+      "usage": "表示在进食的同时进行另一动作",
+      "examples": [
+        {
+          "en": "While he was eating, I asked him to lend me twenty pounds.",
+          "zh": "在他吃饭的时候，我请他借给我二十英镑。"
+        }
+      ]
+    },
+    {
+      "phrase": "so now you can pay for my dinner",
+      "usage": "用于因果关系，得出结论",
+      "examples": [
+        {
+          "en": "I have never borrowed any money from you, so now you can pay for my dinner!",
+          "zh": "我从未向你借过钱，所以现在你可以为我付晚餐了！"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "现在完成时与否定式 (has/have never + 过去分词)",
+      "definition": "使用 have/has + never + 过去分词 表示到目前为止从未经历某事",
+      "structure": "has/have + never + 过去分词",
+      "usage": "用于强调某动作从未发生，否定意义强烈",
+      "examples": [
+        {
+          "en": "He has never borrowed money from me.",
+          "zh": "他从未向我借过钱。"
+        },
+        {
+          "en": "I have never been to Paris.",
+          "zh": "我从未去过巴黎。"
+        }
+      ]
+    },
+    {
+      "title": "过去进行时 + when 引导的一般过去时 (was/were doing ... when ... did)",
+      "definition": "表示在过去某个时刻正在进行的动作被另一动作中断或同时发生",
+      "structure": "主语 + was/were + 动词‑ing + when + 主语 + 动词过去式",
+      "usage": "用来描述一个进行中的动作，另一个短暂动作在同一时间点发生",
+      "examples": [
+        {
+          "en": "I was having dinner at a restaurant when Tony Steele came in.",
+          "zh": "我正在餐厅吃晚饭时，托尼·斯蒂尔走了进来。"
+        },
+        {
+          "en": "She was reading when the phone rang.",
+          "zh": "她正在看书时电话响了。"
+        }
+      ]
+    },
+    {
+      "title": "used to + 动词原形 (过去习惯或状态)",
+      "definition": "表示过去常常做某事或过去处于某种状态，而现在不再如此",
+      "structure": "used to + 动词原形",
+      "usage": "用于回忆过去的习惯或状态，常与 now/nowadays 对比",
+      "examples": [
+        {
+          "en": "Tony worked in a lawyer's office years ago, but now he is working at a bank.",
+          "zh": "托尼多年前在律师事务所工作，但现在在银行工作。"
+        },
+        {
+          "en": "He used to smoke a lot.",
+          "zh": "他以前抽烟很多。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "I was doing ... when ...",
+      "original": {
+        "en": "I was having dinner at a restaurant when Tony Steele came in.",
+        "zh": "我正在餐厅吃晚饭时，托尼·斯蒂尔走了进来。"
+      },
+      "imitations": [
+        {
+          "en": "I was reading a book when the doorbell rang.",
+          "zh": "我正在看书时门铃响了。"
+        },
+        {
+          "en": "She was cooking dinner when the power went out.",
+          "zh": "她正在做饭时停电了。"
+        }
+      ]
+    },
+    {
+      "pattern": "He has never ...",
+      "original": {
+        "en": "He has never borrowed money from me.",
+        "zh": "他从未向我借过钱。"
+      },
+      "imitations": [
+        {
+          "en": "She has never missed a class.",
+          "zh": "她从未缺过一节课。"
+        },
+        {
+          "en": "I have never tried sushi.",
+          "zh": "我从未吃过寿司。"
+        }
+      ]
+    },
+    {
+      "pattern": "To my surprise, ...",
+      "original": {
+        "en": "To my surprise, he gave me the money immediately.",
+        "zh": "令我惊讶的是，他立刻把钱给了我。"
+      },
+      "imitations": [
+        {
+          "en": "To my surprise, the exam was cancelled.",
+          "zh": "令我惊讶的是，考试取消了。"
+        },
+        {
+          "en": "To her surprise, he remembered her birthday.",
+          "zh": "令她惊讶的是，他记住了她的生日。"
+        }
+      ]
+    },
+    {
+      "pattern": "... so now you can ...",
+      "original": {
+        "en": "I have never borrowed any money from you, so now you can pay for my dinner!",
+        "zh": "我从未向你借过钱，所以现在你可以为我付晚餐了！"
+      },
+      "imitations": [
+        {
+          "en": "You have never helped me, so now you can lend me a hand.",
+          "zh": "你从未帮助过我，所以现在你可以帮我一把。"
+        },
+        {
+          "en": "She has never asked for a favor, so now you can do her a favor.",
+          "zh": "她从未请求过帮忙，所以现在你可以帮她一个忙。"
+        }
+      ]
+    }
+  ]
+}

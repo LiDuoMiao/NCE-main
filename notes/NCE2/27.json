@@ -1,0 +1,398 @@
+{
+  "book": "NCE2",
+  "lesson": "27",
+  "title": "What happened to the boys in the night?",
+  "vocabulary": [
+    {
+      "word": "tent",
+      "phonetic": "/tent/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "帐篷",
+          "usage": "指露营用的临时住所"
+        }
+      ]
+    },
+    {
+      "word": "field",
+      "phonetic": "/fiːld/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "田地；场地",
+          "usage": "指一片开阔的草地或农田"
+        }
+      ]
+    },
+    {
+      "word": "campfire",
+      "phonetic": "/ˈkæmpaɪə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "营火；篝火",
+          "usage": "指露营时在野外生的火"
+        }
+      ]
+    },
+    {
+      "word": "wonderful",
+      "phonetic": "/ˈwʌndəfl/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "精彩的；极好的",
+          "usage": "形容事物非常好、令人愉快"
+        }
+      ]
+    },
+    {
+      "word": "creep",
+      "phonetic": "/kriːp/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "爬行；悄悄地移动",
+          "usage": "过去式为crept，指无声地缓慢移动"
+        }
+      ]
+    },
+    {
+      "word": "sleeping bag",
+      "phonetic": "/ˈsliːpɪŋ bæɡ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "睡袋",
+          "usage": "露营时使用的保暖袋状寝具"
+        }
+      ]
+    },
+    {
+      "word": "soundly",
+      "phonetic": "/ˈsaʊndli/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "香甜地；安稳地",
+          "usage": "形容睡得很沉、很踏实"
+        }
+      ]
+    },
+    {
+      "word": "leap",
+      "phonetic": "/liːp/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "跳；跳跃",
+          "usage": "过去式为leapt，指用力跳出"
+        }
+      ]
+    },
+    {
+      "word": "heavily",
+      "phonetic": "/ˈhevɪli/",
+      "meanings": [
+        {
+          "pos": "adv",
+          "meaning": "大量地；猛烈地",
+          "usage": "形容雨下得很大"
+        }
+      ]
+    },
+    {
+      "word": "stream",
+      "phonetic": "/striːm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "小溪；水流",
+          "usage": "指小的河流或水流"
+        }
+      ]
+    },
+    {
+      "word": "wound",
+      "phonetic": "/waʊnd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "蜿蜒；缠绕",
+          "usage": "wind的过去式，指弯曲延伸"
+        }
+      ]
+    },
+    {
+      "word": "form",
+      "phonetic": "/fɔːm/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "形成；产生",
+          "usage": "指事物从无到有的出现"
+        }
+      ]
+    },
+    {
+      "word": "flow",
+      "phonetic": "/fləʊ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "流动",
+          "usage": "指水或其他液体的流动"
+        }
+      ]
+    },
+    {
+      "word": "midnight",
+      "phonetic": "/ˈmɪdnaɪt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "午夜；半夜",
+          "usage": "指晚上12点"
+        }
+      ]
+    },
+    {
+      "word": "shout",
+      "phonetic": "/ʃaʊt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "喊叫；呼喊",
+          "usage": "指大声喊以引起注意"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "put up",
+      "usage": "搭起；张贴",
+      "examples": [
+        {
+          "en": "The boys put up their tent in the field.",
+          "zh": "男孩们在田地里搭起了帐篷。"
+        }
+      ]
+    },
+    {
+      "phrase": "as soon as",
+      "usage": "一...就...",
+      "examples": [
+        {
+          "en": "As soon as this was done, they cooked a meal.",
+          "zh": "这件事一做完，他们就做饭了。"
+        }
+      ]
+    },
+    {
+      "phrase": "put out",
+      "usage": "熄灭；扑灭",
+      "examples": [
+        {
+          "en": "They put out the fire and crept into their tent.",
+          "zh": "他们熄灭营火然后爬进帐篷。"
+        }
+      ]
+    },
+    {
+      "phrase": "wake up",
+      "usage": "醒来；叫醒",
+      "examples": [
+        {
+          "en": "Two boys woke up and began shouting.",
+          "zh": "两个男孩醒来开始大喊。"
+        }
+      ]
+    },
+    {
+      "phrase": "leap out of",
+      "usage": "从...跳出",
+      "examples": [
+        {
+          "en": "They leapt out of their sleeping bags.",
+          "zh": "他们从睡袋里跳出来。"
+        }
+      ]
+    },
+    {
+      "phrase": "full of",
+      "usage": "充满...的",
+      "examples": [
+        {
+          "en": "The tent was full of water!",
+          "zh": "帐篷里全是水！"
+        }
+      ]
+    },
+    {
+      "phrase": "in the middle of the night",
+      "usage": "在半夜",
+      "examples": [
+        {
+          "en": "In the middle of the night, two boys woke up.",
+          "zh": "在半夜，两个男孩醒来了。"
+        }
+      ]
+    },
+    {
+      "phrase": "wind its way",
+      "usage": "蜿蜒而行",
+      "examples": [
+        {
+          "en": "The stream wound its way across the field.",
+          "zh": "小溪蜿蜒穿过田野。"
+        }
+      ]
+    },
+    {
+      "phrase": "hurry outside",
+      "usage": "匆忙出去",
+      "examples": [
+        {
+          "en": "They hurried outside to see what happened.",
+          "zh": "他们匆忙跑出去看发生了什么。"
+        }
+      ]
+    },
+    {
+      "phrase": "by the campfire",
+      "usage": "在营火旁",
+      "examples": [
+        {
+          "en": "They told stories and sang songs by the campfire.",
+          "zh": "他们在营火旁讲故事、唱歌。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "一般过去时 (Past Simple Tense)",
+      "definition": "表示过去某个时间发生的动作或存在的状态",
+      "structure": "主语 + 动词过去式",
+      "usage": "用于叙述过去发生的事情，描述一系列按时间顺序发生的动作",
+      "examples": [
+        {
+          "en": "The boys put up their tent in the field.",
+          "zh": "男孩们在田地里搭起了帐篷。"
+        },
+        {
+          "en": "They cooked a meal over an open fire.",
+          "zh": "他们在篝火上做了饭。"
+        },
+        {
+          "en": "It began to rain.",
+          "zh": "开始下雨了。"
+        }
+      ]
+    },
+    {
+      "title": "过去进行时 (Past Continuous Tense)",
+      "definition": "表示过去某个时刻正在进行的动作",
+      "structure": "主语 + was/were + 动词-ing",
+      "usage": "用于描述在过去某一时刻正在发生的动作，常与过去进行时连用",
+      "examples": [
+        {
+          "en": "It was raining heavily.",
+          "zh": "雨下得很大。"
+        },
+        {
+          "en": "The stream was flowing under their tent.",
+          "zh": "小溪正在帐篷下面流淌。"
+        }
+      ]
+    },
+    {
+      "title": "as soon as 引导的时间状语从句",
+      "definition": "表示主句动作紧跟在从句动作之后发生",
+      "structure": "As soon as + 主语 + 动词..., 主语 + 动词...",
+      "usage": "强调两个动作紧接着发生，从句用一般过去时，主句也用一般过去时",
+      "examples": [
+        {
+          "en": "As soon as this was done, they cooked a meal.",
+          "zh": "这件事一做完，他们就做饭了。"
+        },
+        {
+          "en": "As soon as the rain stopped, they went out.",
+          "zh": "雨一停，他们就出去了。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "As soon as + 主语 + 动词(过去式)..., 主语 + 动词(过去式)...",
+      "original": {
+        "en": "As soon as this was done, they cooked a meal over an open fire.",
+        "zh": "这件事一做完，他们就在篝火上做了饭。"
+      },
+      "imitations": [
+        {
+          "en": "As soon as the class was over, we went to the library.",
+          "zh": "下课一结束，我们就去了图书馆。"
+        },
+        {
+          "en": "As soon as he arrived, he called his mother.",
+          "zh": "他一到达就给妈妈打了电话。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + 动词 + 时间/地点 + and then + 动词...",
+      "original": {
+        "en": "They put out the fire and crept into their tent.",
+        "zh": "他们熄灭营火然后爬进帐篷。"
+      },
+      "imitations": [
+        {
+          "en": "He finished his homework and then watched TV.",
+          "zh": "他写完作业然后看了电视。"
+        },
+        {
+          "en": "She bought some food and then went home.",
+          "zh": "她买了些食物然后回家了。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + be动词 + 形容词 + and + 主语 + 动词(过去式) + 副词",
+      "original": {
+        "en": "Their sleeping bags were warm and comfortable, so they all slept soundly.",
+        "zh": "他们的睡袋既暖和又舒适，所以他们睡得很香。"
+      },
+      "imitations": [
+        {
+          "en": "The room was clean and tidy, so we felt comfortable.",
+          "zh": "房间干净整洁，所以我们感到很舒服。"
+        },
+        {
+          "en": "The food was delicious and hot, so we ate a lot.",
+          "zh": "食物美味又热乎，所以我们吃了很多。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + 动词 + 介词短语 + and then + 动词 + 介词短语",
+      "original": {
+        "en": "The stream wound its way across the field and then flowed right under their tent.",
+        "zh": "小溪蜿蜒穿过田野，然后正好从他们帐篷下面流过。"
+      },
+      "imitations": [
+        {
+          "en": "The road winds its way through the mountains and then reaches the village.",
+          "zh": "道路蜿蜒穿过群山，然后到达村庄。"
+        },
+        {
+          "en": "The river flows through the city and then enters the sea.",
+          "zh": "河流流经城市，然后汇入大海。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,386 @@
+{
+  "book": "NCE2",
+  "lesson": "07",
+  "title": "Did the detectives save the diamonds?",
+  "vocabulary": [
+    {
+      "word": "detective",
+      "phonetic": "/dɪˈtektɪv/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "侦探",
+          "usage": "指调查犯罪案件的人"
+        }
+      ]
+    },
+    {
+      "word": "diamond",
+      "phonetic": "/ˈdaɪmənd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "钻石",
+          "usage": "一种贵重的宝石"
+        }
+      ]
+    },
+    {
+      "word": "parcel",
+      "phonetic": "/ˈpɑːsl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "包裹",
+          "usage": "包装好的物品，常指邮寄的包裹"
+        }
+      ]
+    },
+    {
+      "word": "valuable",
+      "phonetic": "/ˈvæljuəbl/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "贵重的，值钱的",
+          "usage": "形容物品具有高价值"
+        }
+      ]
+    },
+    {
+      "word": "thief",
+      "phonetic": "/θiːf/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "小偷",
+          "usage": "偷东西的人，复数形式为thieves"
+        }
+      ]
+    },
+    {
+      "word": "steal",
+      "phonetic": "/stiːl/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "偷窃",
+          "usage": "非法拿走他人财物"
+        }
+      ]
+    },
+    {
+      "word": "customs",
+      "phonetic": "/ˈkʌstəmz/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "海关",
+          "usage": "政府检查进口货物和旅客行李的机构"
+        }
+      ]
+    },
+    {
+      "word": "precious",
+      "phonetic": "/ˈpreʃəs/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "珍贵的，宝贵的",
+          "usage": "形容非常有价值的东西"
+        }
+      ]
+    },
+    {
+      "word": "stone",
+      "phonetic": "/stəʊn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "石头，石子",
+          "usage": "硬的天然物质"
+        }
+      ]
+    },
+    {
+      "word": "sand",
+      "phonetic": "/sænd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "沙子",
+          "usage": "细小的岩石颗粒"
+        }
+      ]
+    },
+    {
+      "word": "guard",
+      "phonetic": "/ɡɑːd/",
+      "meanings": [
+        {
+          "pos": "noun/verb",
+          "meaning": "守卫；保卫",
+          "usage": "看守或保护某人/某物"
+        }
+      ]
+    },
+    {
+      "word": "airfield",
+      "phonetic": "/ˈeəfiːld/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "停机坪，机场",
+          "usage": "飞机起飞和降落的区域"
+        }
+      ]
+    },
+    {
+      "word": "expect",
+      "phonetic": "/ɪkˈspekt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "期待，期望",
+          "usage": "认为某事将要发生"
+        }
+      ]
+    },
+    {
+      "word": "arrive",
+      "phonetic": "/əˈraɪv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "到达，抵达",
+          "usage": "表示到达某地"
+        }
+      ]
+    },
+    {
+      "word": "South Africa",
+      "phonetic": "/saʊθ ˈæfrɪkə/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "南非",
+          "usage": "非洲南部的国家"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "keep guard",
+      "usage": "守卫，看守",
+      "examples": [
+        {
+          "en": "Two detectives were keeping guard at the door.",
+          "zh": "两名侦探在门口看守。"
+        }
+      ]
+    },
+    {
+      "phrase": "take off",
+      "usage": "拿下，取下",
+      "examples": [
+        {
+          "en": "Two men took the parcel off the plane.",
+          "zh": "两个人把包裹从飞机上拿下来。"
+        }
+      ]
+    },
+    {
+      "phrase": "carry into",
+      "usage": "搬进，带进",
+      "examples": [
+        {
+          "en": "They carried it into the Customs House.",
+          "zh": "他们把它搬进了海关大楼。"
+        }
+      ]
+    },
+    {
+      "phrase": "to one's surprise",
+      "usage": "令某人惊讶的是",
+      "examples": [
+        {
+          "en": "To their surprise, the parcel was full of stones.",
+          "zh": "令他们惊讶的是，包裹里满是石头。"
+        }
+      ]
+    },
+    {
+      "phrase": "all morning",
+      "usage": "整个上午",
+      "examples": [
+        {
+          "en": "Detectives were waiting at the airport all morning.",
+          "zh": "侦探们整个上午都在机场等待。"
+        }
+      ]
+    },
+    {
+      "phrase": "a few hours earlier",
+      "usage": "几个小时前",
+      "examples": [
+        {
+          "en": "A few hours earlier, someone had told the police.",
+          "zh": "几个小时前，有人告诉了警察。"
+        }
+      ]
+    },
+    {
+      "phrase": "be full of",
+      "usage": "充满，装满",
+      "examples": [
+        {
+          "en": "The precious parcel was full of stones and sand.",
+          "zh": "这个珍贵的包裹里装满了石头和沙子。"
+        }
+      ]
+    },
+    {
+      "phrase": "take...off",
+      "usage": "把...从...取下/拿下",
+      "examples": [
+        {
+          "en": "They took the parcel off the plane.",
+          "zh": "他们把包裹从飞机上拿下来。"
+        }
+      ]
+    },
+    {
+      "phrase": "wait at the airport",
+      "usage": "在机场等待",
+      "examples": [
+        {
+          "en": "Detectives were waiting at the airport all morning.",
+          "zh": "侦探们整个上午都在机场等待。"
+        }
+      ]
+    },
+    {
+      "phrase": "expect...from",
+      "usage": "期待...从...来",
+      "examples": [
+        {
+          "en": "They were expecting a parcel from South Africa.",
+          "zh": "他们正期待从南非来的包裹。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去进行时 (Past Continuous Tense)",
+      "definition": "表示在过去某一时刻或时间段正在进行的动作",
+      "structure": "主语 + was/were + 动词-ing",
+      "usage": "用于描述过去正在进行的动作，常与when/while等连词搭配使用",
+      "examples": [
+        {
+          "en": "The plane was late and detectives were waiting at the airport.",
+          "zh": "飞机晚点了，侦探们正在机场等候。"
+        },
+        {
+          "en": "While two detectives were keeping guard, two others opened the parcel.",
+          "zh": "当两名侦探在门口看守时，另外两人打开了包裹。"
+        }
+      ]
+    },
+    {
+      "title": "过去进行时与一般过去时的对比 (Past Continuous vs Past Simple)",
+      "definition": "过去进行时表示正在进行的动作，一般过去时表示已完成的动作",
+      "structure": "过去进行时: was/were + doing / 一般过去时: did",
+      "usage": "当两个过去动作同时发生时，用while连接进行时态的动作；表示短暂动作或主句动作用一般过去时",
+      "examples": [
+        {
+          "en": "When the plane arrived, some detectives were waiting inside.",
+          "zh": "当飞机到达时，一些侦探正在里面等候。"
+        },
+        {
+          "en": "Two men took the parcel off the plane.",
+          "zh": "两个人把包裹从飞机上拿下来。"
+        }
+      ]
+    },
+    {
+      "title": "过去完成时 (Past Perfect Tense)",
+      "definition": "表示在过去某一时间之前已经完成的动作",
+      "structure": "主语 + had + 过去分词",
+      "usage": "用于描述过去的过去发生的事情，常与a few hours earlier等时间状语连用",
+      "examples": [
+        {
+          "en": "A few hours earlier, someone had told the police.",
+          "zh": "几个小时前，有人已经告诉过警察了。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "主语 + was/were + 动词-ing + 时间/地点",
+      "original": {
+        "en": "Detectives were waiting at the airport all morning.",
+        "zh": "侦探们整个上午都在机场等待。"
+      },
+      "imitations": [
+        {
+          "en": "I was reading a book in the library all evening.",
+          "zh": "我整个晚上都在图书馆看书。"
+        },
+        {
+          "en": "She was working in the office yesterday.",
+          "zh": "她昨天一直在办公室工作。"
+        }
+      ]
+    },
+    {
+      "pattern": "When + 一般过去时 + 主句(过去进行时)",
+      "original": {
+        "en": "When the plane arrived, some detectives were waiting inside.",
+        "zh": "当飞机到达时，一些侦探正在里面等待。"
+      },
+      "imitations": [
+        {
+          "en": "When the teacher came in, students were talking.",
+          "zh": "当老师进来时，学生们正在聊天。"
+        }
+      ]
+    },
+    {
+      "pattern": "While + 主语 + was/were + 动词-ing + 主语 + 动词-ed",
+      "original": {
+        "en": "While two detectives were keeping guard, two others opened the parcel.",
+        "zh": "当两名侦探在门口看守时，另外两人打开了包裹。"
+      },
+      "imitations": [
+        {
+          "en": "While my mother was cooking, I was doing my homework.",
+          "zh": "当我妈妈做饭时，我正在做作业。"
+        },
+        {
+          "en": "While he was sleeping, it was raining outside.",
+          "zh": "当他在睡觉时，外面正在下雨。"
+        }
+      ]
+    },
+    {
+      "pattern": "To one's surprise + 主句",
+      "original": {
+        "en": "To their surprise, the parcel was full of stones and sand.",
+        "zh": "令他们惊讶的是，包裹里满是石头和沙子。"
+      },
+      "imitations": [
+        {
+          "en": "To our surprise, he passed the exam easily.",
+          "zh": "令我们惊讶的是，他轻松通过了考试。"
+        },
+        {
+          "en": "To his surprise, the gift was a beautiful watch.",
+          "zh": "令他惊讶的是，礼物是一块漂亮的手表。"
+        }
+      ]
+    }
+  ]
+}

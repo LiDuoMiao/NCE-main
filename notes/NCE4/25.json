@@ -1,0 +1,341 @@
+{
+  "book": "NCE4",
+  "lesson": "25",
+  "title": "Lesson 25",
+  "vocabulary": [
+    {
+      "word": "non-auditory",
+      "phonetic": "/ˌnɒn ˈɔːdətri/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "非听觉的",
+          "usage": "由前缀non-（表否定）和auditory（听觉的）构成，用于描述与听觉无关的事物"
+        }
+      ]
+    },
+    {
+      "word": "abatement",
+      "phonetic": "/əˈbeɪtmənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "减少，减轻，消除",
+          "usage": "不可数名词，常与表示负面事物的名词搭配，如noise abatement（降噪），pollution abatement（污染治理）"
+        }
+      ]
+    },
+    {
+      "word": "discredit",
+      "phonetic": "/dɪsˈkredɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "败坏…的名声，使不可信",
+          "usage": "及物动词，宾语可以是人或某类主张、事业，常用被动结构be discredited"
+        }
+      ]
+    },
+    {
+      "word": "allegation",
+      "phonetic": "/ˌæləˈɡeɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "（无证据的）说法，指控",
+          "usage": "可数名词，常搭配make an allegation that... 表示“提出某一未经证实的说法”"
+        }
+      ]
+    },
+    {
+      "word": "striking",
+      "phonetic": "/ˈstraɪkɪŋ/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "引人注目的，显著的",
+          "usage": "可修饰人、事物或特征，用于描述容易引起注意的对象"
+        }
+      ]
+    },
+    {
+      "word": "distress",
+      "phonetic": "/dɪˈstres/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "痛苦，忧虑，窘迫",
+          "usage": "不可数名词，指精神或身体上的痛苦状态，in a state of distress表示“处于痛苦状态”"
+        }
+      ]
+    },
+    {
+      "word": "caption",
+      "phonetic": "/ˈkæpʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "（图片的）说明文字，字幕",
+          "usage": "可数名词，特指图片、视频旁边或下方的解释性文字"
+        }
+      ]
+    },
+    {
+      "word": "snag",
+      "phonetic": "/snæɡ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "潜在的问题，障碍",
+          "usage": "非正式用词，指计划、情况中未预料到的小问题，the snag in sth.表示“某事物中的问题”"
+        }
+      ]
+    },
+    {
+      "word": "anecdote",
+      "phonetic": "/ˈænɪkdəʊt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "轶事，趣闻，传闻",
+          "usage": "可数名词，指基于个人经历的小故事，通常未经过科学证实"
+        }
+      ]
+    },
+    {
+      "word": "slander",
+      "phonetic": "/ˈslɑːndə(r)/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "诽谤，诋毁",
+          "usage": "及物动词，指通过说不实的话损害他人名誉，宾语为被诽谤的对象"
+        }
+      ]
+    },
+    {
+      "word": "persecute",
+      "phonetic": "/ˈpɜːsɪkjuːt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "迫害，骚扰",
+          "usage": "及物动词，常指因种族、宗教、观点等原因恶意对待他人，常用被动be persecuted"
+        }
+      ]
+    },
+    {
+      "word": "psychiatric",
+      "phonetic": "/ˌsaɪkiˈætrɪk/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "精神病学的，精神疾病的",
+          "usage": "用于修饰和精神疾病、精神病治疗相关的名词，如psychiatric interview（精神科访谈）"
+        }
+      ]
+    },
+    {
+      "word": "diagnosis",
+      "phonetic": "/ˌdaɪəɡˈnəʊsɪs/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "诊断（结果）",
+          "usage": "可数/不可数名词，复数形式为diagnoses，medical diagnosis表示“医学诊断”"
+        }
+      ]
+    },
+    {
+      "word": "orphanage",
+      "phonetic": "/ˈɔːfənɪdʒ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "孤儿院",
+          "usage": "可数名词，也可指孤儿的身份，本文中表示机构含义"
+        }
+      ]
+    },
+    {
+      "word": "hazard",
+      "phonetic": "/ˈhæzəd/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "危险，危害",
+          "usage": "可数名词，health hazard表示“健康危害”，safety hazard表示“安全隐患”"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "a waste of time",
+      "usage": "表示认为某件事没有价值、不值得花费时间，常用在regard/consider sth. as a waste of time结构中",
+      "examples": [
+        {
+          "en": "Many people regard debating this trivial issue as a waste of time.",
+          "zh": "很多人认为争论这个无关紧要的问题是浪费时间。"
+        }
+      ]
+    },
+    {
+      "phrase": "on the other hand",
+      "usage": "用于引出对比的另一方面观点或情况，常和on the one hand搭配使用，也可单独使用",
+      "examples": [
+        {
+          "en": "Online courses are very convenient. On the other hand, they lack the face-to-face interaction of traditional classes.",
+          "zh": "在线课程非常方便。另一方面，它们缺少传统课堂的面对面互动。"
+        }
+      ]
+    },
+    {
+      "phrase": "plea for",
+      "usage": "表示对某事物的恳求、请求，plea为名词，后接介词for引出请求的对象",
+      "examples": [
+        {
+          "en": "The local residents made a plea for more public green spaces in the community.",
+          "zh": "当地居民恳求在社区内建设更多公共绿地。"
+        }
+      ]
+    },
+    {
+      "phrase": "distinguish cause and effect",
+      "usage": "表示区分因果关系，是学术讨论、逻辑分析中的常用表达，也可写作distinguish between cause and effect",
+      "examples": [
+        {
+          "en": "When studying social phenomena, it is often difficult to distinguish cause and effect clearly.",
+          "zh": "研究社会现象时，往往很难清晰地区分因果关系。"
+        }
+      ]
+    },
+    {
+      "phrase": "be cautious about",
+      "usage": "表示对某事持谨慎态度，about后接名词或动名词",
+      "examples": [
+        {
+          "en": "You should be cautious about believing information from unknown sources on the Internet.",
+          "zh": "你要谨慎对待互联网上来源不明的信息，不要轻信。"
+        }
+      ]
+    },
+    {
+      "phrase": "in the case of",
+      "usage": "用于引出特定的讨论对象，意为“就…而言，在…的情况下”",
+      "examples": [
+        {
+          "en": "In the case of emergency, press the red button to cut off the power immediately.",
+          "zh": "在紧急情况下，按下红色按钮立即切断电源。"
+        }
+      ]
+    },
+    {
+      "phrase": "be reduced to",
+      "usage": "表示“沦落到…的境地，陷入某种（糟糕的）状态”，to为介词，后接名词或动名词",
+      "examples": [
+        {
+          "en": "After losing his job and savings, he was reduced to begging on the street.",
+          "zh": "失去工作和积蓄后，他沦落到在街上乞讨的地步。"
+        }
+      ]
+    },
+    {
+      "phrase": "mental health hazard",
+      "usage": "固定搭配，表示“心理健康危害”，用于描述会对人的精神状态造成负面影响的因素",
+      "examples": [
+        {
+          "en": "Long-term excessive use of social media has been proved to be a mental health hazard for teenagers.",
+          "zh": "长期过度使用社交媒体已被证实会对青少年的心理健康造成危害。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "插入语结构",
+      "definition": "插入语是句子中不充当主干成分、用于补充说明信息、调整语气的结构，去掉后句子的语法仍然完整",
+      "structure": "句子主干 + , 插入语, + 剩余句子成分 / 句首 + 插入语, + 句子主干",
+      "usage": "可以是介词短语、从句、固定表达等，用于补充背景、引出例子、表明说话者态度，使句子逻辑更连贯",
+      "examples": [
+        {
+          "en": "A recent article in a weekly newspaper, for instance, was headed with a striking illustration of a lady in a state of considerable distress.",
+          "zh": "例如，某周报的一篇文章开头配了一张引人注目的插图，图中是一位极度痛苦的女士。"
+        },
+        {
+          "en": "This restaurant, in my opinion, serves the best Italian food in the city.",
+          "zh": "在我看来，这家餐厅供应全市最好吃的意大利菜。"
+        }
+      ]
+    },
+    {
+      "title": "if引导的条件状语从句（表让步推测）",
+      "definition": "if除了引导真实条件句，还可以引导带有让步含义的推测条件句，表示“即使、就算（某情况属实）”，用于先退一步承认可能的情况，再引出更重要的观点",
+      "structure": "If + 主语 + 表示可能性的谓语（如there is any, should be等）, 主句",
+      "usage": "常用于议论文中，体现论证的严谨性，先认可对方观点的可能性，再进一步提出更有说服力的结论",
+      "examples": [
+        {
+          "en": "If there is any effect of noise upon mental health, it must be so small that present methods of psychiatric diagnosis cannot find it.",
+          "zh": "就算噪音对心理健康有任何影响，这种影响也一定非常小，以至于目前的精神科诊断方法都无法检测出来。"
+        },
+        {
+          "en": "If this new policy has some side effects, its benefits for the majority of people far outweigh the disadvantages.",
+          "zh": "就算这项新政策有一些副作用，它对大多数人的好处也远远大于弊端。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "This is a pity, because... really is a good cause, and it is likely to... if it gets to be associated with...",
+      "original": {
+        "en": "This is a pity, because noise abatement really is a good cause, and it is likely to be discredited if it gets to be associated with bad science.",
+        "zh": "这很遗憾，因为降噪确实是一项有益的事业，如果它和不严谨的科学联系在一起，很可能会名声受损。"
+      },
+      "imitations": [
+        {
+          "en": "This is a pity, because animal protection really is a good cause, and it is likely to be questioned if it gets to be associated with extreme behavior.",
+          "zh": "这很遗憾，因为动物保护确实是一项有益的事业，如果它和极端行为联系在一起，很可能会遭到质疑。"
+        },
+        {
+          "en": "This is a pity, because traditional culture promotion really is a good cause, and it is likely to be disliked if it gets to be associated with excessive commercialization.",
+          "zh": "这很遗憾，因为传统文化推广确实是一项有益的事业，如果它和过度商业化联系在一起，很可能会遭到人们的反感。"
+        }
+      ]
+    },
+    {
+      "pattern": "Now the snag in this sort of... is of course that one cannot...",
+      "original": {
+        "en": "Now the snag in this sort of anecdote is of course that one cannot distinguish cause and effect.",
+        "zh": "当然，这类传闻的问题在于人们无法区分因果关系。"
+      },
+      "imitations": [
+        {
+          "en": "Now the snag in this sort of survey is of course that one cannot guarantee the authenticity of the respondents' answers.",
+          "zh": "当然，这类调查的问题在于人们无法保证受访者回答的真实性。"
+        },
+        {
+          "en": "Now the snag in this sort of weight loss method is of course that one cannot maintain the effect for a long time.",
+          "zh": "当然，这类减肥方法的问题在于人们无法长期维持效果。"
+        }
+      ]
+    },
+    {
+      "pattern": "That does not prove that...; but it does mean that...",
+      "original": {
+        "en": "That does not prove that it does not exist; but it does mean that noise is less dangerous than, say being brought up in an orphanage --which really is a mental health hazard.",
+        "zh": "那并不能证明这种影响不存在，但它确实说明，噪音的危害比比如在孤儿院长大这样真正的心理健康危害要小。"
+      },
+      "imitations": [
+        {
+          "en": "That does not prove that this approach is completely useless; but it does mean that it is not suitable for large-scale promotion at this stage.",
+          "zh": "那并不能证明这个方法完全没用，但它确实说明，现阶段它不适合大规模推广。"
+        },
+        {
+          "en": "That does not prove that he is lying; but it does mean that his description of the incident has many questionable points.",
+          "zh": "那并不能证明他在撒谎，但它确实说明，他对事件的描述存在很多疑点。"
+        }
+      ]
+    }
+  ]
+}

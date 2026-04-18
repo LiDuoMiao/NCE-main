@@ -1,0 +1,412 @@
+{
+  "book": "NCE4",
+  "lesson": "48",
+  "title": "Lesson 48",
+  "vocabulary": [
+    {
+      "word": "portfolio",
+      "phonetic": "/pɔːtˈfəʊliəʊ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "投资组合；作品集；公文包",
+          "usage": "在金融语境中特指个人或机构持有的各类投资产品的集合"
+        }
+      ]
+    },
+    {
+      "word": "tipster",
+      "phonetic": "/ˈtɪpstə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "提供内幕消息的人；（股票、赛马等的）情报贩子",
+          "usage": "尤指向他人提供投资、博彩等建议以获利的人，常带有一定贬义"
+        }
+      ]
+    },
+    {
+      "word": "fritter",
+      "phonetic": "/ˈfrɪtə(r)/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "浪费（金钱、时间）",
+          "usage": "常和away搭配，构成fritter sth away的结构，表示毫无意义地消耗资源"
+        }
+      ]
+    },
+    {
+      "word": "reputable",
+      "phonetic": "/ˈrepjətəbl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "声誉好的，值得信赖的",
+          "usage": "用于形容机构、个人等拥有良好的公众口碑，可信度高"
+        }
+      ]
+    },
+    {
+      "word": "moral",
+      "phonetic": "/ˈmɒrəl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "寓意，教训",
+          "usage": "指从事件、故事中总结出的具有指导意义的道理"
+        }
+      ]
+    },
+    {
+      "word": "sink",
+      "phonetic": "/sɪŋk/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "投入（资金）",
+          "usage": "金融语境中表示将资金投入某一项目、投资产品中，常带有投入大量资金的含义"
+        }
+      ]
+    },
+    {
+      "word": "mortgage",
+      "phonetic": "/ˈmɔːɡɪdʒ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "房屋抵押贷款，按揭",
+          "usage": "指以房产为抵押向银行申请的贷款，用于购房等用途"
+        }
+      ]
+    },
+    {
+      "word": "pension",
+      "phonetic": "/ˈpenʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "养老金，退休金",
+          "usage": "指人们退休后定期领取的生活保障资金"
+        }
+      ]
+    },
+    {
+      "word": "reserve",
+      "phonetic": "/rɪˈzɜːv/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "储备（金），储备物",
+          "usage": "多指为应对特殊情况预留的资金、物资等，常用复数形式reserves"
+        }
+      ]
+    },
+    {
+      "word": "psychology",
+      "phonetic": "/saɪˈkɒlədʒi/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "心理特点；心理学",
+          "usage": "此处指影响人决策的心理特质、心理状态"
+        }
+      ]
+    },
+    {
+      "word": "boost",
+      "phonetic": "/buːst/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "增加，提高；促进",
+          "usage": "常搭配income、confidence、economy等名词，表示提升相关事物的水平"
+        }
+      ]
+    },
+    {
+      "word": "preserve",
+      "phonetic": "/prɪˈzɜːv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "保护，保存，维持",
+          "usage": "此处指保障资金不受损失，也可表示保存文物、维持现状等含义"
+        }
+      ]
+    },
+    {
+      "word": "priority",
+      "phonetic": "/praɪˈɒrəti/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "优先事项，最重要的事",
+          "usage": "表示需要优先处理、重点关注的事务，常用搭配为top priority"
+        }
+      ]
+    },
+    {
+      "word": "sanguine",
+      "phonetic": "/ˈsæŋɡwɪn/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "乐观的，充满信心的",
+          "usage": "用于形容人性格乐观，对未来持有积极态度"
+        }
+      ]
+    },
+    {
+      "word": "aggressive",
+      "phonetic": "/əˈɡresɪv/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "积极进取的；激进的",
+          "usage": "在投资语境中指愿意承担较高风险追求高收益的风格，也可形容人有进取心或行为好斗"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "get-rich-quick",
+      "usage": "形容词性短语，用于描述希望在短时间内迅速获得大量财富的想法、机会或行为，常带有不切实际的隐含意味",
+      "examples": [
+        {
+          "en": "Many people fall for scams that promise get-rich-quick schemes.",
+          "zh": "很多人落入了承诺快速致富的骗局。"
+        },
+        {
+          "en": "He abandoned the get-rich-quick mindset and focused on long-term career development.",
+          "zh": "他摒弃了快速致富的心态，专注于长期的职业发展。"
+        }
+      ]
+    },
+    {
+      "phrase": "go about doing sth",
+      "usage": "动词短语，表示着手做、处理某件事，强调做事的方式和过程",
+      "examples": [
+        {
+          "en": "If you want to apply for this scholarship, you should go about preparing the required documents first.",
+          "zh": "如果你想申请这个奖学金，你应该首先着手准备所需的文件。"
+        },
+        {
+          "en": "I have no idea how to go about repairing this broken laptop.",
+          "zh": "我不知道该怎么着手修理这台坏了的笔记本电脑。"
+        }
+      ]
+    },
+    {
+      "phrase": "sort out",
+      "usage": "动词短语，意为整理好、解决、处理妥当，多用于表示理清复杂的事务或解决问题",
+      "examples": [
+        {
+          "en": "You need to sort out your travel itinerary before you leave for the trip.",
+          "zh": "你出发旅行之前需要整理好你的行程安排。"
+        },
+        {
+          "en": "It took me two hours to sort out the messy files on my desk.",
+          "zh": "我花了两个小时才整理好我桌上乱糟糟的文件。"
+        }
+      ]
+    },
+    {
+      "phrase": "be blessed with",
+      "usage": "固定搭配，表示有幸拥有、天生具有（某种好的特质、条件等），带有感激的意味",
+      "examples": [
+        {
+          "en": "She is blessed with a beautiful voice and has won many singing competitions.",
+          "zh": "她天生有一副好嗓子，已经赢得了很多歌唱比赛。"
+        },
+        {
+          "en": "This small town is blessed with clear lakes and lush mountains, attracting lots of tourists every year.",
+          "zh": "这个小镇有幸拥有清澈的湖泊和葱郁的山峦，每年都吸引很多游客。"
+        }
+      ]
+    },
+    {
+      "phrase": "suffer sleepless nights over sth",
+      "usage": "习语，意为为某事焦虑得睡不着觉，强调因担忧某件事而产生巨大的心理压力",
+      "examples": [
+        {
+          "en": "Many students suffer sleepless nights over their final exam results.",
+          "zh": "很多学生因为担心期末考试成绩而焦虑得睡不着觉。"
+        },
+        {
+          "en": "He has been suffering sleepless nights over the upcoming important business negotiation.",
+          "zh": "他因为即将到来的重要商务谈判而焦虑得夜夜失眠。"
+        }
+      ]
+    },
+    {
+      "phrase": "set sb up as",
+      "usage": "动词短语，此处表示使某人处于（某种不利的境地），也可表示扶持某人创业、使某人担任某个职位",
+      "examples": [
+        {
+          "en": "If you don't buy insurance for your car, you're setting yourself up as a target for huge losses in case of accidents.",
+          "zh": "如果你不给你的车买保险，一旦发生事故你就会面临巨额损失的风险。"
+        },
+        {
+          "en": "His parents set him up as the manager of the family business after he graduated from university.",
+          "zh": "他大学毕业后，他的父母扶持他当上了家族企业的经理。"
+        }
+      ]
+    },
+    {
+      "phrase": "hostage to fortune",
+      "usage": "固定习语，指可能带来风险的事物、处境，意为“担风险的事；容易受到不利影响的处境”",
+      "examples": [
+        {
+          "en": "Putting all your savings into a single high-risk stock is a hostage to fortune.",
+          "zh": "把你所有的积蓄都投入一只高风险的股票是一件非常冒险的事。"
+        },
+        {
+          "en": "Revealing too much personal information online can make you a hostage to fortune.",
+          "zh": "在网上透露太多个人信息会让你处于容易受伤害的风险中。"
+        }
+      ]
+    },
+    {
+      "phrase": "solid financial position",
+      "usage": "名词性短语，意为经济状况稳定、财务状况良好，用于描述个人或机构的财务状态健康",
+      "examples": [
+        {
+          "en": "Only people in a solid financial position can consider buying such an expensive property.",
+          "zh": "只有财务状况稳定的人才可以考虑购买这么贵的房产。"
+        },
+        {
+          "en": "The company is in a solid financial position after three years of steady growth.",
+          "zh": "经过三年的稳定增长，该公司的财务状况十分良好。"
+        }
+      ]
+    },
+    {
+      "phrase": "spread your risk",
+      "usage": "金融领域常用短语，意为分散风险，指通过投资不同品类的资产来降低整体投资的风险",
+      "examples": [
+        {
+          "en": "When planning investments, the first rule is to spread your risk to avoid losing all your money at once.",
+          "zh": "规划投资时，首要原则是分散风险，避免一次性损失你所有的钱。"
+        },
+        {
+          "en": "Financial advisors always remind clients to spread their risk instead of focusing on one type of asset.",
+          "zh": "理财顾问总是提醒客户要分散风险，不要只盯着一种资产投资。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "条件状语从句的真实条件句（零/第一条件句）",
+      "definition": "用于描述真实存在、可能发生的情况及对应的结果，是对现实情况的合理假设和推断",
+      "structure": "If + 一般现在时/现在相关时态，主句用一般现在时/将来时/情态动词（may/might/should/can等）+ 动词原形",
+      "usage": "常用于提出建议、说明规律、描述假设的情况及其合理结果，在说明事理、给出指导的文体中十分常见",
+      "examples": [
+        {
+          "en": "If you are older, you have less time to recover from any major losses.",
+          "zh": "如果你年龄较大，你从重大损失中恢复的时间就更少。"
+        },
+        {
+          "en": "If it rains tomorrow, we will cancel the outdoor sports meeting.",
+          "zh": "如果明天下雨，我们就取消户外运动会。"
+        },
+        {
+          "en": "If you have any questions during the class, you can ask the teacher for help at any time.",
+          "zh": "如果你上课期间有任何问题，你可以随时向老师求助。"
+        }
+      ]
+    },
+    {
+      "title": "破折号的解释说明用法",
+      "definition": "英文中破折号常用来对前文的内容进行补充说明、解释、举例，或者引出转折、强调的内容，使句子逻辑更清晰，补充信息更突出",
+      "structure": "完整句子 + 破折号 + 解释/补充/说明内容",
+      "usage": "在书面语中可以替代括号、冒号等，用来插入补充信息，既不打断主句的流畅性，又能突出补充的内容",
+      "examples": [
+        {
+          "en": "The serious investor needs a proper 'portfolio' --a well-planned selection of investments, with a definite structure and a clear aim.",
+          "zh": "认真的投资者需要一份正规的“投资组合”——即经过周密计划选定的投资项目，有明确的结构和清晰的目标。"
+        },
+        {
+          "en": "Everything in the house was covered with dust --it had been empty for more than ten years.",
+          "zh": "房子里的所有东西都盖着一层灰——这房子已经空了十多年了。"
+        },
+        {
+          "en": "She said she would come to the party tonight --that is, if she finishes her work on time.",
+          "zh": "她说她今晚会来参加派对——也就是说，前提是她能按时完成她的工作。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "There is no shortage of ... offering ...",
+      "original": {
+        "en": "There is no shortage of tipsters around offering 'get-rich-quick' opportunities.",
+        "zh": "周围不乏情报贩子，向人们提供“快速致富”的机遇。"
+      },
+      "imitations": [
+        {
+          "en": "There is no shortage of influencers online offering shortcuts to learning English.",
+          "zh": "网上不乏博主，向人们提供学习英语的捷径。"
+        },
+        {
+          "en": "There is no shortage of shops in the tourist area offering local specialty products.",
+          "zh": "旅游区里不乏商店，向游客售卖当地特产。"
+        }
+      ]
+    },
+    {
+      "pattern": "If you ..., you're likely to ... -- even if ...",
+      "original": {
+        "en": "if you go to five reputable stock brokers and ask them what you should do with your money, you're likely to get five different answers, -- even if you give all the relevant information about your age, family, finances and what you want from your investments.",
+        "zh": "如果你去找5位信誉良好的股票经纪人，问他们你应该用你的钱做什么，你很可能会得到5个不同的答案——即便你提供了所有相关信息，包括你的年龄、家庭、财务状况以及你想从投资中获得的目标。"
+      },
+      "imitations": [
+        {
+          "en": "If you ask ten people for their opinions on this movie, you're likely to get ten different comments -- even if they all watched the same version.",
+          "zh": "如果你问10个人对这部电影的看法，你很可能会得到10种不同的评价——即便他们看的都是同一个版本。"
+        },
+        {
+          "en": "If you travel to a new city, you're likely to meet some unexpected troubles -- even if you have made a very detailed travel plan.",
+          "zh": "如果你去一座新城市旅行，你很可能会遇到一些意想不到的麻烦——即便你已经做了非常详尽的旅行计划。"
+        }
+      ]
+    },
+    {
+      "pattern": "These are partly a matter of ..., partly a matter of ...",
+      "original": {
+        "en": "These are partly a matter of personal circumstances, partly a matter of psychology.",
+        "zh": "这些一方面取决于个人的经济状况，另一方面取决于个人的心理因素。"
+      },
+      "imitations": [
+        {
+          "en": "Whether a person can succeed in a career is partly a matter of personal effort, partly a matter of opportunity.",
+          "zh": "一个人能否在事业上取得成功，一方面取决于个人的努力，另一方面取决于机遇。"
+        },
+        {
+          "en": "The price of this kind of agricultural product is partly a matter of output, partly a matter of market demand.",
+          "zh": "这种农产品的价格一方面取决于产量，另一方面取决于市场需求。"
+        }
+      ]
+    },
+    {
+      "pattern": "The golden rule here is ... -- if you ..., you're ...",
+      "original": {
+        "en": "The golden rule here is spread your risk -- if you put all of your money into Periwigs International, you're setting yourself up as a hostage to fortune.",
+        "zh": "这里的黄金原则是分散风险——如果你把所有的钱都投入佩里威格斯国际公司，你就是在把自己置于风险之中。"
+      },
+      "imitations": [
+        {
+          "en": "The golden rule here is to respect others -- if you always speak ill of people behind their backs, you're going to lose all your friends sooner or later.",
+          "zh": "这里的黄金原则是尊重他人——如果你总是在背后说别人的坏话，你迟早会失去所有的朋友。"
+        },
+        {
+          "en": "The golden rule for preparing for exams is to review steadily every day -- if you only cram the night before the exam, you're unlikely to get a good score.",
+          "zh": "备考的黄金原则是每天稳步复习——如果你只在考试前一晚临时抱佛脚，你不太可能取得好成绩。"
+        }
+      ]
+    }
+  ]
+}

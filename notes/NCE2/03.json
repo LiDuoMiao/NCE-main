@@ -1,0 +1,327 @@
+{
+  "book": "NCE2",
+  "lesson": "03",
+  "title": "How many cards did the writer send?",
+  "vocabulary": [
+    {
+      "word": "spoil",
+      "phonetic": "/spɔɪl/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "破坏，使索然无味",
+          "usage": "指破坏某事物的完美或乐趣"
+        }
+      ]
+    },
+    {
+      "word": "holiday",
+      "phonetic": "/ˈhɒlədeɪ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "假期，假日",
+          "usage": "英式英语多用holiday，美式英语多用vacation"
+        }
+      ]
+    },
+    {
+      "word": "museum",
+      "phonetic": "/mjuˈziːəm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "博物馆",
+          "usage": "指收藏和展示艺术品、历史文物等的场所"
+        }
+      ]
+    },
+    {
+      "word": "public garden",
+      "phonetic": "/ˈpʌblɪk ˈɡɑːdn/",
+      "meanings": [
+        {
+          "pos": "noun phrase",
+          "meaning": "公共花园",
+          "usage": "指对公众开放的花园或公园"
+        }
+      ]
+    },
+    {
+      "word": "friendly",
+      "phonetic": "/ˈfrendli/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "友好的，友善的",
+          "usage": "描述人的性格特征，意为kind"
+        }
+      ]
+    },
+    {
+      "word": "waiter",
+      "phonetic": "/ˈweɪtə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "服务员，侍者",
+          "usage": "通常指餐厅里的男服务员"
+        }
+      ]
+    },
+    {
+      "word": "lend",
+      "phonetic": "/lend/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "借出，把…借给",
+          "usage": "lend sb sth = lend sth to sb，表示把东西借给别人"
+        }
+      ]
+    },
+    {
+      "word": "understand",
+      "phonetic": "/ˌʌndəˈstænd/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "理解，懂得",
+          "usage": "过去式为understood，规则变化"
+        }
+      ]
+    },
+    {
+      "word": "decision",
+      "phonetic": "/dɪˈsɪʒn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "决定，抉择",
+          "usage": "make a decision表示做决定"
+        }
+      ]
+    },
+    {
+      "word": "single",
+      "phonetic": "/ˈsɪŋɡl/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "单一的，单个的",
+          "usage": "not a single表示一个也没有"
+        }
+      ]
+    },
+    {
+      "word": "everyday",
+      "phonetic": "/ˈevrideɪ/",
+      "meanings": [
+        {
+          "pos": "adj",
+          "meaning": "每天的，日常的",
+          "usage": "作形容词用，修饰名词，如everyday life日常生活"
+        }
+      ]
+    },
+    {
+      "word": "pass",
+      "phonetic": "/pɑːs/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "（时间）流逝，经过",
+          "usage": "描述时间推移，常用过去式passed"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "a few words of",
+      "usage": "表示会说某种语言的几个词",
+      "examples": [
+        {
+          "en": "He taught me a few words of Italian.",
+          "zh": "他教了我几句意大利语。"
+        }
+      ]
+    },
+    {
+      "phrase": "thought about",
+      "usage": "think about的过去式，表示思考、考虑",
+      "examples": [
+        {
+          "en": "Everyday I thought about postcards.",
+          "zh": "每天我都在想着明信片。"
+        }
+      ]
+    },
+    {
+      "phrase": "made a big decision",
+      "usage": "做出重大决定",
+      "examples": [
+        {
+          "en": "On the last day I made a big decision.",
+          "zh": "在最后一天我做了一个重大决定。"
+        }
+      ]
+    },
+    {
+      "phrase": "got up early",
+      "usage": "早起",
+      "examples": [
+        {
+          "en": "I got up early and bought thirty-seven cards.",
+          "zh": "我早早起来买了37张明信片。"
+        }
+      ]
+    },
+    {
+      "phrase": "spent the whole day",
+      "usage": "花了一整天时间做某事",
+      "examples": [
+        {
+          "en": "I spent the whole day in my room.",
+          "zh": "我在房间里待了一整天。"
+        }
+      ]
+    },
+    {
+      "phrase": "not...a single",
+      "usage": "表示一点都不…，一个也没有",
+      "examples": [
+        {
+          "en": "I did not write a single card!",
+          "zh": "我一张明信片都没写！"
+        }
+      ]
+    },
+    {
+      "phrase": "lend me a book",
+      "usage": "借给我一本书，lend后接双宾语",
+      "examples": [
+        {
+          "en": "He lent me a book.",
+          "zh": "他借给我一本书。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "一般过去时 (Past Simple Tense)",
+      "definition": "表示过去发生的动作或存在的状态",
+      "structure": "主语 + 动词过去式 + 其他",
+      "usage": "用于描述过去发生的事件，常与yesterday, last week, last summer等时间状语连用",
+      "examples": [
+        {
+          "en": "I went to Italy last summer.",
+          "zh": "去年夏天我去了意大利。"
+        },
+        {
+          "en": "I bought thirty-seven cards.",
+          "zh": "我买了37张明信片。"
+        }
+      ]
+    },
+    {
+      "title": "but表示转折的用法",
+      "definition": "but是并列连词，连接两个意义相反或相对的成分",
+      "structure": "句子1 + but + 句子2",
+      "usage": "but后面的分句语气转折，常译为但是、然而",
+      "examples": [
+        {
+          "en": "I spent the whole day in my room, but I did not write a single card!",
+          "zh": "我在房间里待了一整天，但我一张明信片都没写！"
+        },
+        {
+          "en": "My holidays passed quickly, but I did not send cards to my friends.",
+          "zh": "我的假期过得很快，但我没有给朋友们寄明信片。"
+        }
+      ]
+    },
+    {
+      "title": "一般过去时的否定句",
+      "definition": "在肯定句中的动词前加did not (didn't)，动词还原为原形",
+      "structure": "主语 + did not + 动词原形 + 其他",
+      "usage": "用于否定过去发生的动作",
+      "examples": [
+        {
+          "en": "I did not understand a word.",
+          "zh": "我一个字都看不懂。"
+        },
+        {
+          "en": "I did not send cards to my friends.",
+          "zh": "我没有给朋友们寄明信片。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "主语 + 动词过去式 + 时间/地点",
+      "original": {
+        "en": "I visited museums and sat in public gardens.",
+        "zh": "我参观了博物馆，还在公共花园里坐着。"
+      },
+      "imitations": [
+        {
+          "en": "I went to the park and sat under a tree.",
+          "zh": "我去公园坐在了一棵树下。"
+        },
+        {
+          "en": "She visited her grandmother last Sunday.",
+          "zh": "她上周日去看望了奶奶。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + spent the whole day + 地点/doing",
+      "original": {
+        "en": "I spent the whole day in my room.",
+        "zh": "我在房间里待了一整天。"
+      },
+      "imitations": [
+        {
+          "en": "He spent the whole day at the library.",
+          "zh": "他在图书馆待了一整天。"
+        },
+        {
+          "en": "They spent the whole day cooking.",
+          "zh": "他们做了一整天的饭。"
+        }
+      ]
+    },
+    {
+      "pattern": "主语 + did not + 动词原形 + a single + 名词",
+      "original": {
+        "en": "I did not write a single card!",
+        "zh": "我一张明信片都没写！"
+      },
+      "imitations": [
+        {
+          "en": "I did not eat a single apple!",
+          "zh": "我一个苹果都没吃！"
+        },
+        {
+          "en": "She did not say a single word.",
+          "zh": "她一句话都没说。"
+        }
+      ]
+    },
+    {
+      "pattern": "Everyday + 主语 + 动词过去式 + ..., but + 主语 + did not + 动词原形",
+      "original": {
+        "en": "Everyday I thought about postcards. My holidays passed quickly, but I did not send cards to my friends.",
+        "zh": "每天我都在想着明信片。假期很快就过去了，但我没有给朋友们寄明信片。"
+      },
+      "imitations": [
+        {
+          "en": "Everyday I wanted to study, but I did not open my book.",
+          "zh": "每天我都想学习，但我没有翻开书。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,345 @@
+{
+  "book": "NCE3",
+  "lesson": "40",
+  "title": "Lesson 40",
+  "vocabulary": [
+    {
+      "word": "hoax",
+      "phonetic": "/həʊks/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "骗局；恶作剧",
+          "usage": "指故意制造的欺骗他人取乐的虚假事件"
+        }
+      ]
+    },
+    {
+      "word": "pneumatic",
+      "phonetic": "/njuːˈmætɪk/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "气动的；由压缩空气操作的",
+          "usage": "常用来描述靠气体压力工作的工具或设备"
+        }
+      ]
+    },
+    {
+      "word": "drill",
+      "phonetic": "/drɪl/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "钻；钻头",
+          "usage": "指用于钻孔的工具，pneumatic drill即风钻、气动钻机"
+        }
+      ]
+    },
+    {
+      "word": "deception",
+      "phonetic": "/dɪˈsepʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "欺骗；欺诈",
+          "usage": "指故意误导他人的行为或手段"
+        }
+      ]
+    },
+    {
+      "word": "indulge",
+      "phonetic": "/ɪnˈdʌldʒ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "沉迷于；沉溺于",
+          "usage": "常用搭配indulge in sth，表示放任自己做某事"
+        }
+      ]
+    },
+    {
+      "word": "victim",
+      "phonetic": "/ˈvɪktɪm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "受害者；受骗者",
+          "usage": "指受到伤害、欺骗或不利影响的人"
+        }
+      ]
+    },
+    {
+      "word": "grateful",
+      "phonetic": "/ˈɡreɪtfl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "感激的；感谢的",
+          "usage": "常用搭配be grateful to sb for sth，表示因某事感谢某人"
+        }
+      ]
+    },
+    {
+      "word": "advance",
+      "phonetic": "/ədˈvɑːns/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "预先的；提前的",
+          "usage": "用于描述在事件发生前给出的信息、通知等"
+        }
+      ]
+    },
+    {
+      "word": "archway",
+      "phonetic": "/ˈɑːtʃweɪ/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "拱廊；拱门通道",
+          "usage": "指带有拱形顶的通道或入口"
+        }
+      ]
+    },
+    {
+      "word": "threaten",
+      "phonetic": "/ˈθretn/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "威胁；恐吓",
+          "usage": "常用搭配threaten to do sth，表示扬言要做某事"
+        }
+      ]
+    },
+    {
+      "word": "remonstrate",
+      "phonetic": "/ˈremənstreɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "抗议；规劝",
+          "usage": "常用搭配remonstrate with sb，表示向某人提出异议或规劝"
+        }
+      ]
+    },
+    {
+      "word": "fiercely",
+      "phonetic": "/ˈfɪəsli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "激烈地；凶猛地",
+          "usage": "用来描述动作或情绪的强烈程度"
+        }
+      ]
+    },
+    {
+      "word": "ironically",
+      "phonetic": "/aɪˈrɒnɪkli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "讽刺地；说反话地",
+          "usage": "用于描述带有讽刺意味的说话或行为方式"
+        }
+      ]
+    },
+    {
+      "word": "grant",
+      "phonetic": "/ɡrɑːnt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "同意；准予",
+          "usage": "表示正式允许某人做某事，常用被动语态permission was granted"
+        }
+      ]
+    },
+    {
+      "word": "accompany",
+      "phonetic": "/əˈkʌmpəni/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "陪伴；陪同",
+          "usage": "表示和某人一起去某处，常用搭配accompany sb to sp"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "specialize in",
+      "usage": "表示专门从事、专攻某一领域或活动",
+      "examples": [
+        {
+          "en": "The company specializes in organic skincare products.",
+          "zh": "这家公司专门生产有机护肤产品。"
+        }
+      ]
+    },
+    {
+      "phrase": "dress up as",
+      "usage": "表示装扮成、打扮成特定的样子",
+      "examples": [
+        {
+          "en": "The little girl dressed up as a princess for the Halloween party.",
+          "zh": "小女孩在万圣节派对上装扮成了公主。"
+        }
+      ]
+    },
+    {
+      "phrase": "put out",
+      "usage": "此处表示熄灭、扑灭（火）",
+      "examples": [
+        {
+          "en": "It took the firefighters three hours to put out the forest fire.",
+          "zh": "消防员花了三个小时才扑灭这场森林火灾。"
+        }
+      ]
+    },
+    {
+      "phrase": "take sb seriously",
+      "usage": "表示认真对待某人、把某人的话当回事",
+      "examples": [
+        {
+          "en": "Don't take him seriously - he's always making silly jokes.",
+          "zh": "别把他的话当真，他总爱开无聊的玩笑。"
+        }
+      ]
+    },
+    {
+      "phrase": "play jokes on sb",
+      "usage": "表示开某人的玩笑、捉弄某人",
+      "examples": [
+        {
+          "en": "The boys love to play jokes on their classmates on April Fool's Day.",
+          "zh": "男孩子们喜欢在愚人节那天捉弄同学。"
+        }
+      ]
+    },
+    {
+      "phrase": "on the scene",
+      "usage": "表示在现场、到场",
+      "examples": [
+        {
+          "en": "The police were on the scene within five minutes of receiving the emergency call.",
+          "zh": "警察接到紧急电话后五分钟内就赶到了现场。"
+        }
+      ]
+    },
+    {
+      "phrase": "by force",
+      "usage": "表示靠武力、用强制手段",
+      "examples": [
+        {
+          "en": "The security guards had to remove the troublemaker by force.",
+          "zh": "保安不得不强行把闹事者带走。"
+        }
+      ]
+    },
+    {
+      "phrase": "lose one's temper",
+      "usage": "表示发脾气、发火",
+      "examples": [
+        {
+          "en": "He lost his temper when he found his laptop had been damaged.",
+          "zh": "当他发现自己的笔记本电脑被弄坏时，他发了脾气。"
+        }
+      ]
+    },
+    {
+      "phrase": "under arrest",
+      "usage": "表示被逮捕、被拘留",
+      "examples": [
+        {
+          "en": "The suspect was under arrest for stealing cars.",
+          "zh": "这名嫌疑人因盗窃车辆被逮捕。"
+        }
+      ]
+    },
+    {
+      "phrase": "make a telephone call",
+      "usage": "表示打电话",
+      "examples": [
+        {
+          "en": "I need to make a telephone call to my parents to tell them I'll be home late.",
+          "zh": "我得给我父母打个电话，告诉他们我会晚点儿回家。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "only引导的部分倒装句",
+      "definition": "当\"only+状语（从句）\"位于句首时，句子需要使用部分倒装结构，即将助动词、情态动词或be动词提到主语之前，强调该状语的条件性",
+      "structure": "Only + 状语/状语从句 + 助动词/情态动词/be动词 + 主语 + 谓语剩余部分",
+      "usage": "用于强调只有在某个条件下才会发生某事，突出条件的重要性",
+      "examples": [
+        {
+          "en": "Only when he saw that the man was actually telephoning the police did he realize that they had all been the victims of a hoax.",
+          "zh": "当他看到那个人真的在给警察打电话时，他才意识到他们所有人都成了一场恶作剧的受害者。"
+        },
+        {
+          "en": "Only by practicing every day can you improve your spoken English quickly.",
+          "zh": "只有每天练习，你才能快速提高英语口语。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "It has never been explained why...",
+      "original": {
+        "en": "It has never been explained why university students seem to enjoy practical jokes more than anyone else.",
+        "zh": "为什么大学生似乎比其他人更喜欢搞恶作剧，这一点一直没有得到解释。"
+      },
+      "imitations": [
+        {
+          "en": "It has never been explained why this ancient custom disappeared suddenly hundreds of years ago.",
+          "zh": "为什么这个古老的习俗在几百年前突然消失，一直没有得到解释。"
+        },
+        {
+          "en": "It has never been explained why he quit his well-paid job without telling anyone.",
+          "zh": "为什么他没告诉任何人就辞掉了高薪工作，这一点没人说得清。"
+        }
+      ]
+    },
+    {
+      "pattern": "As soon as sb had done sth, sb did sth else",
+      "original": {
+        "en": "As soon as he had hung up, he went over to the workmen and told them that if a policeman ordered them to go away, they were not to take him seriously.",
+        "zh": "他一挂电话，就走到工人那里，告诉他们如果有警察命令他们离开，不要把他当回事。"
+      },
+      "imitations": [
+        {
+          "en": "As soon as she had finished her homework, she went to the park to walk her dog.",
+          "zh": "她一做完作业，就去公园遛狗了。"
+        },
+        {
+          "en": "As soon as the guests had left, he started to clean up the messy living room.",
+          "zh": "客人一走，他就开始打扫乱糟糟的客厅。"
+        }
+      ]
+    },
+    {
+      "pattern": "At this, sb did sth",
+      "original": {
+        "en": "At this, the police pointed out ironically that this would hardly be necessary as the men were already under arrest.",
+        "zh": "听到这话，警察讽刺地指出，这几乎没有必要，因为这两个人已经被逮捕了。"
+      },
+      "imitations": [
+        {
+          "en": "At this, the little girl burst into tears and ran to her mother.",
+          "zh": "听到这话，小女孩突然哭了起来，跑向她的妈妈。"
+        },
+        {
+          "en": "At this, the manager smiled and nodded to show his agreement with the proposal.",
+          "zh": "听到这里，经理笑了笑，点头表示他同意这个提议。"
+        }
+      ]
+    }
+  ]
+}

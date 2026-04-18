@@ -1,0 +1,355 @@
+{
+  "book": "NCE3",
+  "lesson": "17",
+  "title": "Lesson 17",
+  "vocabulary": [
+    {
+      "word": "suspension",
+      "phonetic": "/səˈspenʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "悬，吊；悬架",
+          "usage": "常用搭配suspension bridge表示悬索桥，也可指暂停、中止"
+        }
+      ]
+    },
+    {
+      "word": "agreeable",
+      "phonetic": "/əˈɡriːəbl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "宜人的；令人愉快的",
+          "usage": "可修饰地点、天气、氛围等，也可表示“欣然同意的”"
+        }
+      ]
+    },
+    {
+      "word": "locate",
+      "phonetic": "/ləʊˈkeɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "位于；坐落于；查找位置",
+          "usage": "常用被动语态be located in/on/at表示地点位置"
+        }
+      ]
+    },
+    {
+      "word": "immortal",
+      "phonetic": "/ɪˈmɔːtl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "不朽的；流芳百世的",
+          "usage": "可形容人、名声、作品等长久被铭记，反义词为mortal"
+        }
+      ]
+    },
+    {
+      "word": "span",
+      "phonetic": "/spæn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "跨度；跨距；持续时间",
+          "usage": "可表示桥梁的跨度，也可指attention span（注意力持续时间）等"
+        },
+        {
+          "pos": "verb",
+          "meaning": "跨越；持续",
+          "usage": "后面可接时间或地点范围"
+        }
+      ]
+    },
+    {
+      "word": "support",
+      "phonetic": "/səˈpɔːt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "支撑；支持；养活",
+          "usage": "可指物理上的承重，也可指情感、观点上的支持"
+        },
+        {
+          "pos": "noun",
+          "meaning": "支持；支撑物",
+          "usage": "常用搭配in support of表示“支持”"
+        }
+      ]
+    },
+    {
+      "word": "immense",
+      "phonetic": "/ɪˈmens/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "巨大的；极大的",
+          "usage": "强调尺寸、规模、程度非常大，比large程度更强"
+        }
+      ]
+    },
+    {
+      "word": "platform",
+      "phonetic": "/ˈplætfɔːm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "平台；站台；讲台",
+          "usage": "可指建筑结构的平台，也可指公共交通的站台、线上平台等"
+        }
+      ]
+    },
+    {
+      "word": "concrete",
+      "phonetic": "/ˈkɒŋkriːt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "混凝土",
+          "usage": "不可数名词，指建筑材料"
+        },
+        {
+          "pos": "adjective",
+          "meaning": "具体的；实在的",
+          "usage": "与abstract（抽象的）相对"
+        }
+      ]
+    },
+    {
+      "word": "extend",
+      "phonetic": "/ɪkˈstend/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "延伸；扩大；延长",
+          "usage": "可指空间上的延伸，也可指时间、范围的扩大"
+        }
+      ]
+    },
+    {
+      "word": "estimate",
+      "phonetic": "/ˈestɪmeɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "估计；估算",
+          "usage": "常用结构It is estimated that...表示“据估计”"
+        },
+        {
+          "pos": "noun",
+          "meaning": "估计；估算",
+          "usage": "常用搭配at a rough estimate表示“据粗略估计”"
+        }
+      ]
+    },
+    {
+      "word": "capacity",
+      "phonetic": "/kəˈpæsəti/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "容量；承载量；能力",
+          "usage": "可指容器、建筑的容纳量，也可指人的能力"
+        }
+      ]
+    },
+    {
+      "word": "immensity",
+      "phonetic": "/ɪˈmensəti/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "巨大；庞大",
+          "usage": "是immense的名词形式，强调规模的宏大"
+        }
+      ]
+    },
+    {
+      "word": "elegant",
+      "phonetic": "/ˈelɪɡənt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "优雅的；雅致的；精巧的",
+          "usage": "可形容人的举止、物品的设计、建筑的风格等"
+        }
+      ]
+    },
+    {
+      "word": "fulfill",
+      "phonetic": "/fʊlˈfɪl/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "实现；履行；满足",
+          "usage": "常用搭配fulfill a dream/goal/duty表示实现梦想/达成目标/履行职责"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "by no means",
+      "usage": "表示否定含义，意为“绝不，一点也不”，属于副词短语，可放在句首（需倒装）、句中或句末",
+      "examples": [
+        {
+          "en": "Though Verrazano is by no means considered to be a great explorer, his name will probably remain immortal.",
+          "zh": "虽然韦拉扎诺绝对算不上一个伟大的探险家，但他的名字很可能会流芳百世。"
+        },
+        {
+          "en": "This is by no means the end of the project, we still have a lot of work to do.",
+          "zh": "这绝不是项目的终点，我们还有很多工作要做。"
+        }
+      ]
+    },
+    {
+      "phrase": "name after",
+      "usage": "动词短语，意为“以……命名”，常用被动结构be named after sb",
+      "examples": [
+        {
+          "en": "The longest suspension bridge in the world was named after him.",
+          "zh": "世界上最长的悬索桥是以他的名字命名的。"
+        },
+        {
+          "en": "The street is named after the famous scientist who made great contributions to the city.",
+          "zh": "这条街是以那位为这座城市做出巨大贡献的著名科学家的名字命名的。"
+        }
+      ]
+    },
+    {
+      "phrase": "take into account",
+      "usage": "动词短语，意为“考虑到，把……考虑在内”，相当于take into consideration，宾语可放在短语中间或account后面",
+      "examples": [
+        {
+          "en": "The bridge is so long that the shape of the earth had to be taken into account by its designer.",
+          "zh": "这座桥太长了，以至于设计者必须把地球的形状考虑在内。"
+        },
+        {
+          "en": "When planning the trip, we need to take the weather into account.",
+          "zh": "计划旅行的时候，我们需要把天气因素考虑在内。"
+        }
+      ]
+    },
+    {
+      "phrase": "be packed with",
+      "usage": "形容词短语，意为“挤满，塞满”，强调人或物的密度非常大",
+      "examples": [
+        {
+          "en": "It has been estimated that if the bridge were packed with cars, it would still only be carrying a third of its total capacity.",
+          "zh": "据估计，即使桥上挤满了汽车，它的载重量也仍然只有总承载量的三分之一。"
+        },
+        {
+          "en": "During the Spring Festival, the train station is always packed with passengers going home.",
+          "zh": "春节期间，火车站总是挤满了回家的旅客。"
+        }
+      ]
+    },
+    {
+      "phrase": "in the midst of",
+      "usage": "介词短语，意为“在……之中，在……中间”，可指地理位置的中间，也可指处于某种事件的过程中",
+      "examples": [
+        {
+          "en": "He described it as 'a very agreeable situation located within two small hills in the midst of which flowed a great river.'",
+          "zh": "他把它描述为“一个非常宜人的地方，坐落在两座小山之间，中间流淌着一条大河。”"
+        },
+        {
+          "en": "The country is in the midst of an economic recovery.",
+          "zh": "这个国家正处于经济复苏的过程中。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "介词+关系代词引导的定语从句",
+      "definition": "当定语从句的谓语动词和先行词之间需要加介词构成搭配时，常将介词提前到关系代词which（指物）或whom（指人）之前，构成“介词+which/whom”的结构引导定语从句",
+      "structure": "先行词 + 介词 + which/whom + 定语从句",
+      "usage": "介词的选择通常根据先行词的搭配、从句谓语的固定搭配或者句子的语义决定，这种结构多用于正式文体中",
+      "examples": [
+        {
+          "en": "Verrazano, an Italian about whom little is known, sailed into New York Harbour in 1524.",
+          "zh": "1524年，一位鲜为人知的意大利人韦拉扎诺驶入了纽约港。"
+        },
+        {
+          "en": "They support the cables from which the bridge has been suspended.",
+          "zh": "它们支撑着悬吊桥梁的缆索。"
+        },
+        {
+          "en": "The book for which you are looking is on the shelf.",
+          "zh": "你正在找的那本书在架子上。"
+        }
+      ]
+    },
+    {
+      "title": "与现在事实相反的虚拟条件句",
+      "definition": "用来描述与现在实际情况不相符的假设，从句描述假设的条件，主句描述该条件下会产生的结果",
+      "structure": "If + 主语 + 动词过去式（be动词一律用were）, 主语 + would/could/might + 动词原形",
+      "usage": "用于表达不可能发生或者发生概率极低的假设，突出假设的非真实性",
+      "examples": [
+        {
+          "en": "It has been estimated that if the bridge were packed with cars, it would still only be carrying a third of its total capacity.",
+          "zh": "据估计，即使桥上挤满了汽车，它的载重量也仍然只有总承载量的三分之一。"
+        },
+        {
+          "en": "If I were you, I would choose to study abroad after graduation.",
+          "zh": "如果我是你，我会选择毕业后出国留学。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "Though sb/sth is by no means considered to be..., sb/sth will..., for...",
+      "original": {
+        "en": "Though Verrazano is by no means considered to be a great explorer, his name will probably remain immortal, for on November 21st, 1964, the longest suspension bridge in the world was named after him.",
+        "zh": "虽然韦拉扎诺绝对算不上一个伟大的探险家，但他的名字很可能会流芳百世，因为1964年11月21日，世界上最长的悬索桥是以他的名字命名的。"
+      },
+      "imitations": [
+        {
+          "en": "Though this small town is by no means considered to be a famous tourist attraction, it will attract more visitors in the future, for its special local customs are gradually known by people.",
+          "zh": "虽然这个小镇绝对算不上著名的旅游景点，但它未来会吸引更多游客，因为它独特的当地习俗正逐渐被人们所知。"
+        },
+        {
+          "en": "Though the young writer is by no means considered to be a master of literature, his works will be remembered by many readers, for his stories always touch people's hearts.",
+          "zh": "虽然这位年轻作家绝对算不上文学大师，但他的作品会被很多读者记住，因为他的故事总能触动人心。"
+        }
+      ]
+    },
+    {
+      "pattern": "sth is so + adj + that...",
+      "original": {
+        "en": "The bridge is so long that the shape of the earth had to be taken into account by its designer.",
+        "zh": "这座桥太长了，以至于设计者必须把地球的形状考虑在内。"
+      },
+      "imitations": [
+        {
+          "en": "The problem is so complicated that we need to spend more time discussing it.",
+          "zh": "这个问题太复杂了，以至于我们需要花更多时间来讨论。"
+        },
+        {
+          "en": "The lecture is so interesting that all the students listen to it carefully.",
+          "zh": "这个讲座太有趣了，以至于所有学生都在认真听讲。"
+        }
+      ]
+    },
+    {
+      "pattern": "Despite its + n, it is both + adj + and + adj, doing sth",
+      "original": {
+        "en": "Despite its immensity, it is both simple and elegant, fulfilling its designer's dream to creat 'an enormous object drawn as faintly as possible'.",
+        "zh": "尽管它规模宏大，但它既简洁又优雅，实现了设计师“用尽可能淡的线条勾勒出庞然大物”的梦想。"
+      },
+      "imitations": [
+        {
+          "en": "Despite its high price, this phone is both functional and portable, meeting most users' needs for work and entertainment.",
+          "zh": "尽管它价格很高，这款手机既实用又便携，满足了大多数用户工作和娱乐的需求。"
+        },
+        {
+          "en": "Despite its small size, this device is both efficient and easy to operate, helping people complete daily tasks quickly.",
+          "zh": "尽管它体积很小，这个设备既高效又易操作，帮助人们快速完成日常任务。"
+        }
+      ]
+    }
+  ]
+}

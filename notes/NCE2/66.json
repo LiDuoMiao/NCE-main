@@ -1,0 +1,395 @@
+{
+  "book": "NCE2",
+  "lesson": "66",
+  "title": "What was 'sweet as honey' and why?",
+  "vocabulary": [
+    {
+      "word": "crash",
+      "phonetic": "/kræʃ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "坠毁；撞毁",
+          "usage": "指飞机、车辆等猛烈撞击或坠落"
+        },
+        {
+          "pos": "noun",
+          "meaning": "坠毁；碰撞",
+          "usage": "用于描述交通工具的事故"
+        }
+      ]
+    },
+    {
+      "word": "remote",
+      "phonetic": "/rɪˈməʊt/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "偏远的；遥远的",
+          "usage": "形容地理位置偏僻、人迹罕至的地方"
+        }
+      ]
+    },
+    {
+      "word": "undisturbed",
+      "phonetic": "/ˌʌndɪˈstɜːbd/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "未受干扰的；原封不动的",
+          "usage": "指保持原样、没有被打扰的状态"
+        }
+      ]
+    },
+    {
+      "word": "aerial survey",
+      "phonetic": "/ˈeəriəl ˈsɜːveɪ/",
+      "meanings": [
+        {
+          "pos": "noun phrase",
+          "meaning": "航空测量；空中勘察",
+          "usage": "指从飞机上进行的地形或区域勘察"
+        }
+      ]
+    },
+    {
+      "word": "enthusiast",
+      "phonetic": "/ɪnˈθjuːziæst/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "爱好者；热衷者",
+          "usage": "指对某事物有强烈兴趣和热情的人"
+        }
+      ]
+    },
+    {
+      "word": "restore",
+      "phonetic": "/rɪˈstɔː/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "修复；恢复",
+          "usage": "指将损坏的东西修复到原来的状态"
+        }
+      ]
+    },
+    {
+      "word": "engine",
+      "phonetic": "/ˈendʒɪn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "发动机；引擎",
+          "usage": "指机器或车辆的动力装置"
+        }
+      ]
+    },
+    {
+      "word": "colony",
+      "phonetic": "/ˈkɒləni/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "群体；殖民地",
+          "usage": " colony of bees 蜂群"
+        }
+      ]
+    },
+    {
+      "word": "preserve",
+      "phonetic": "/prɪˈzɜːv/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "保存；保护",
+          "usage": "指保持某物的原有状态，防止损坏"
+        }
+      ]
+    },
+    {
+      "word": "condition",
+      "phonetic": "/kənˈdɪʃn/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "状况；条件",
+          "usage": "指某人或某物的状态或情况"
+        }
+      ]
+    },
+    {
+      "word": "package",
+      "phonetic": "/ˈpækɪdʒ/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "包装；打包",
+          "usage": "指将物品装箱或包裹以便运输"
+        }
+      ]
+    },
+    {
+      "word": "rediscover",
+      "phonetic": "/ˌriːdɪˈskʌvə/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "重新发现",
+          "usage": "指再次发现之前被遗忘的东西"
+        }
+      ]
+    },
+    {
+      "word": "honey",
+      "phonetic": "/ˈhʌni/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "蜂蜜；甜蜜的东西",
+          "usage": "指蜜蜂酿造的甜物质，也比喻甜蜜美好"
+        }
+      ]
+    },
+    {
+      "word": "beeswax",
+      "phonetic": "/ˈbiːzwæks/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "蜂蜡",
+          "usage": "指蜜蜂分泌的黄色蜡状物质，用于建造蜂巢"
+        }
+      ]
+    },
+    {
+      "word": "rescue",
+      "phonetic": "/ˈreskjuː/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "拯救；营救",
+          "usage": "指从危险或困境中救出"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "a colony of bees",
+      "usage": "表示一群蜜蜂，用于描述蜂群",
+      "examples": [
+        {
+          "en": "A colony of bees had turned the engine into a hive.",
+          "zh": "一群蜜蜂把这个发动机变成了蜂巢。"
+        }
+      ]
+    },
+    {
+      "phrase": "sweet as honey",
+      "usage": "形容某物像蜂蜜一样甜，文中用于形容发动机保存完好",
+      "examples": [
+        {
+          "en": "The fourth engine was sweet as honey--still in perfect condition.",
+          "zh": "第四台发动机甜如蜂蜜——状况仍然完美。"
+        }
+      ]
+    },
+    {
+      "phrase": "in reasonable condition",
+      "usage": "表示状况良好/尚可",
+      "examples": [
+        {
+          "en": "A Lancaster bomber in reasonable condition was rare.",
+          "zh": "状况良好的兰开斯特轰炸机很罕见。"
+        }
+      ]
+    },
+    {
+      "phrase": "break open",
+      "usage": "表示打开、撬开",
+      "examples": [
+        {
+          "en": "They broke open the packing cases.",
+          "zh": "他们撬开了包装箱。"
+        }
+      ]
+    },
+    {
+      "phrase": "in parts",
+      "usage": "表示拆分成零件/部件",
+      "examples": [
+        {
+          "en": "The French authorities had the plane packaged and moved in parts back to France.",
+          "zh": "法国当局把飞机包装好，拆成部件运回法国。"
+        }
+      ]
+    },
+    {
+      "phrase": "turn into",
+      "usage": "表示变成、成为",
+      "examples": [
+        {
+          "en": "The bees had turned the engine into a hive.",
+          "zh": "蜜蜂把发动机变成了蜂巢。"
+        }
+      ]
+    },
+    {
+      "phrase": "over the years",
+      "usage": "表示这些年来的时间流逝",
+      "examples": [
+        {
+          "en": "But over the years the crash was forgotten.",
+          "zh": "但这些年来，坠机事故被遗忘了。"
+        }
+      ]
+    },
+    {
+      "phrase": "be worth doing",
+      "usage": "表示值得做某事",
+      "examples": [
+        {
+          "en": "It was rare and worth rescuing.",
+          "zh": "它很罕见，值得拯救。"
+        }
+      ]
+    },
+    {
+      "phrase": "by this time",
+      "usage": "表示到那时、到这个时候",
+      "examples": [
+        {
+          "en": "By this time, a Lancaster bomber in reasonable condition was rare.",
+          "zh": "到这时，状况良好的兰开斯特轰炸机已经很少见了。"
+        }
+      ]
+    },
+    {
+      "phrase": "accidentally rediscovered",
+      "usage": "表示意外重新发现",
+      "examples": [
+        {
+          "en": "The plane was accidentally rediscovered in an aerial survey.",
+          "zh": "这架飞机在一次航空测量中被意外重新发现。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "过去完成时 (Past Perfect Tense)",
+      "definition": "表示在过去某个时间点之前已经完成的动作，或用于描述过去的过去",
+      "structure": "had + 过去分词",
+      "usage": "在叙述过去事件时，用于描述在叙述时间点之前已经发生的动作，常与一般过去时连用",
+      "examples": [
+        {
+          "en": "The crash was forgotten and the wreck remained undisturbed. (crash是26年前的事)",
+          "zh": "坠机事故被遗忘了，残骸未被扰动。"
+        },
+        {
+          "en": "A colony of bees had turned the engine into a hive.",
+          "zh": "一群蜜蜂把发动机变成了蜂巢。"
+        }
+      ]
+    },
+    {
+      "title": "被动语态 (Passive Voice)",
+      "definition": "当主语是动作的承受者时，使用被动语态",
+      "structure": "be + 过去分词",
+      "usage": "强调动作的承受者，或不知道动作的执行者时使用",
+      "examples": [
+        {
+          "en": "The plane was accidentally rediscovered in an aerial survey.",
+          "zh": "这架飞机在一次航空测量中被意外重新发现。"
+        },
+        {
+          "en": "The French authorities had the plane packaged and moved in parts back to France.",
+          "zh": "法国当局把飞机包装好，拆成部件运回法国。"
+        }
+      ]
+    },
+    {
+      "title": "过去进行时 (Past Continuous Tense)",
+      "definition": "表示在过去某个时刻正在进行的动作",
+      "structure": "was/were + 现在分词",
+      "usage": "用于描述过去正在发生的事情，或与一般过去时连用表示背景",
+      "examples": [
+        {
+          "en": "The plane wasn't too badly damaged.",
+          "zh": "飞机损坏得不太严重。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "In + 年份, ...",
+      "original": {
+        "en": "In 1963 a Lancaster bomber crashed on Wallis Island.",
+        "zh": "1963年，一架兰开斯特轰炸机坠毁在瓦利斯岛上。"
+      },
+      "imitations": [
+        {
+          "en": "In 2008 she graduated from university.",
+          "zh": "2008年她从大学毕业了。"
+        },
+        {
+          "en": "In 1995 this building was constructed.",
+          "zh": "1995年这栋建筑被建造。"
+        }
+      ]
+    },
+    {
+      "pattern": "...was/were + 形容词 + and + 谓语",
+      "original": {
+        "en": "The plane wasn't too badly damaged, but over the years the crash was forgotten.",
+        "zh": "飞机损坏得不太严重，但这些年来坠机事故被遗忘了。"
+      },
+      "imitations": [
+        {
+          "en": "The book was very interesting and I read it in one day.",
+          "zh": "这本书很有趣，我一天就读完了。"
+        },
+        {
+          "en": "The problem was quite serious and needed immediate action.",
+          "zh": "这个问题相当严重，需要立即处理。"
+        }
+      ]
+    },
+    {
+      "pattern": "It has/had + 数量词 + 名词",
+      "original": {
+        "en": "It has four Rolls-Royce Merlin engines.",
+        "zh": "它有四台劳斯莱斯 Merlin 引擎。"
+      },
+      "imitations": [
+        {
+          "en": "The house has three bedrooms and a garden.",
+          "zh": "这栋房子有三间卧室和一个花园。"
+        },
+        {
+          "en": "The team has five members from different countries.",
+          "zh": "这个团队有来自不同国家的五名成员。"
+        }
+      ]
+    },
+    {
+      "pattern": "Imagine + 情感名词 + when...",
+      "original": {
+        "en": "Imagine their surprise and delight when they broke open the packing cases.",
+        "zh": "想象一下当他们撬开包装箱时的惊讶和喜悦。"
+      },
+      "imitations": [
+        {
+          "en": "Imagine his disappointment when he heard the news.",
+          "zh": "想象一下当他听到这个消息时的失望。"
+        },
+        {
+          "en": "Imagine our excitement when we won the lottery.",
+          "zh": "想象一下当我们中彩票时的兴奋。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "book": "NCE4",
+  "lesson": "35",
+  "title": "Lesson 35",
+  "vocabulary": [
+    {
+      "word": "colonise",
+      "phonetic": "/ˈkɒlənaɪz/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "在……建立殖民地；（大批）移居，殖民",
+          "usage": "可指人类向其他星球或未开发地区移民定居，也可指生物在新地区生长繁殖"
+        }
+      ]
+    },
+    {
+      "word": "hub",
+      "phonetic": "/hʌb/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "（活动、兴趣等的）中心，枢纽",
+          "usage": "常用来指交通、产业、文化等的核心区域，常见搭配：industrial hub 工业中心，transport hub 交通枢纽"
+        }
+      ]
+    },
+    {
+      "word": "lunar",
+      "phonetic": "/ˈluːnə(r)/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "月球的，月亮的",
+          "usage": "仅用于名词前，常见搭配：lunar rock 月球岩石，lunar eclipse 月食，lunar calendar 农历"
+        }
+      ]
+    },
+    {
+      "word": "gravity",
+      "phonetic": "/ˈɡrævəti/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "重力，引力；严重性",
+          "usage": "表示物理意义上的引力时为不可数名词；表示“严重性”时也为不可数名词，如：the gravity of the situation 局势的严重性"
+        }
+      ]
+    },
+    {
+      "word": "accelerate",
+      "phonetic": "/əkˈseləreɪt/",
+      "meanings": [
+        {
+          "pos": "verb",
+          "meaning": "（使）加速，加快；促进",
+          "usage": "可作及物或不及物动词，既可以指物理速度的提升，也可以指进程、节奏的加快"
+        }
+      ]
+    },
+    {
+      "word": "dweller",
+      "phonetic": "/ˈdwelə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "居民，居住者",
+          "usage": "通常与表示地点的名词搭配使用，如：city dweller 城市居民，moon dweller 月球居民"
+        }
+      ]
+    },
+    {
+      "word": "terrestrial",
+      "phonetic": "/təˈrestriəl/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "地球的，陆地的；陆生的",
+          "usage": "正式用词，常用来与太空、海洋等概念相对，如：terrestrial life 地球生物，terrestrial ecosystem 陆地生态系统"
+        }
+      ]
+    },
+    {
+      "word": "revolutionary",
+      "phonetic": "/ˌrevəˈluːʃənəri/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "革命性的，创新的，突破性的",
+          "usage": "用来形容观点、发明、技术等具有颠覆性的重大突破，可修饰抽象或具体名词"
+        }
+      ]
+    },
+    {
+      "word": "phase",
+      "phonetic": "/feɪz/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "阶段，时期",
+          "usage": "指事物发展过程中的特定阶段，常见搭配：phase of development 发展阶段，enter a new phase 进入新阶段"
+        }
+      ]
+    },
+    {
+      "word": "permanently",
+      "phonetic": "/ˈpɜːmənəntli/",
+      "meanings": [
+        {
+          "pos": "adverb",
+          "meaning": "永久地，长期地",
+          "usage": "修饰动词，表示动作或状态是持续不变的，反义词为temporarily"
+        }
+      ]
+    },
+    {
+      "word": "voyager",
+      "phonetic": "/ˈvɔɪɪdʒə(r)/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "航行者，旅行者，航天旅行者",
+          "usage": "指进行长途旅行，尤其是航海或太空旅行的人"
+        }
+      ]
+    },
+    {
+      "word": "enthusiast",
+      "phonetic": "/ɪnˈθjuːziæst/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "热衷于……的人，爱好者",
+          "usage": "常与表示领域的名词搭配，如：space enthusiast 太空爱好者，sports enthusiast 体育爱好者"
+        }
+      ]
+    },
+    {
+      "word": "savage",
+      "phonetic": "/ˈsævɪdʒ/",
+      "meanings": [
+        {
+          "pos": "adjective",
+          "meaning": "猛烈的，恶劣的；野蛮的",
+          "usage": "形容自然现象时表示“非常恶劣的、极具破坏性的”，形容人或行为时表示“野蛮的、残暴的”"
+        }
+      ]
+    },
+    {
+      "word": "chasm",
+      "phonetic": "/ˈkæzəm/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "裂缝，峡谷；鸿沟，巨大分歧",
+          "usage": "既可指地表巨大的裂缝，也可比喻观点、利益等方面的巨大差异，如：a chasm between two sides 双方的巨大分歧"
+        }
+      ]
+    },
+    {
+      "word": "settlement",
+      "phonetic": "/ˈsetlmənt/",
+      "meanings": [
+        {
+          "pos": "noun",
+          "meaning": "定居点，聚居地；解决，处理",
+          "usage": "表示“定居点”时为可数名词；表示“（问题、争端的）解决”时为不可数名词，如：peace settlement 和平解决"
+        }
+      ]
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "in the form of",
+      "usage": "表示“以……的形式”，用于说明事物呈现的具体形态",
+      "examples": [
+        {
+          "en": "The rocket fuel is easily obtainable from the lunar rocks in the form of liquid oxygen.",
+          "zh": "火箭燃料很容易从月球岩石中以液态氧的形式获取。"
+        },
+        {
+          "en": "The company will provide help in the form of financial support.",
+          "zh": "该公司将以资金支持的形式提供帮助。"
+        }
+      ]
+    },
+    {
+      "phrase": "lie in",
+      "usage": "表示“在于，存在于”，用于说明原因、问题、优势等的所在，主语通常为抽象名词",
+      "examples": [
+        {
+          "en": "The reason lies in its gravity.",
+          "zh": "原因在于它的引力。"
+        },
+        {
+          "en": "The key to solving the problem lies in sufficient communication.",
+          "zh": "解决这个问题的关键在于充分的沟通。"
+        }
+      ]
+    },
+    {
+      "phrase": "accelerate to",
+      "usage": "表示“加速到……（速度）”，后面接具体的速度数值或目标速度",
+      "examples": [
+        {
+          "en": "It takes much less energy to accelerate to that 1.5mps than it does on Earth.",
+          "zh": "加速到每秒1.5英里所需的能量比在地球上少得多。"
+        },
+        {
+          "en": "The train accelerated to 300 kilometers per hour within five minutes.",
+          "zh": "火车在五分钟内加速到了每小时300公里。"
+        }
+      ]
+    },
+    {
+      "phrase": "pass through",
+      "usage": "表示“经历，经过；穿过”，可指经历某个阶段、过程，也可指从某个空间穿过",
+      "examples": [
+        {
+          "en": "Arthur C.Clark once suggested a revolutionary idea passes through three phases.",
+          "zh": "阿瑟·C·克拉克曾提出，一个革命性的想法要经历三个阶段。"
+        },
+        {
+          "en": "You need to pass through three security checks before boarding the plane.",
+          "zh": "登机前你需要经过三次安检。"
+        }
+      ]
+    },
+    {
+      "phrase": "have a fascination for",
+      "usage": "表示“对……有极大的吸引力，使……着迷”，主语通常是具有吸引力的事物，宾语是被吸引的人",
+      "examples": [
+        {
+          "en": "Mars has an extraordinary fascination for would-be voyagers.",
+          "zh": "火星对想要成为太空旅行者的人有着非凡的吸引力。"
+        },
+        {
+          "en": "Ancient history has a special fascination for this young scholar.",
+          "zh": "古代史对这位年轻学者有着特殊的吸引力。"
+        }
+      ]
+    },
+    {
+      "phrase": "dream of",
+      "usage": "表示“梦想，渴望”，后面接名词或动名词，指向往某个还未实现的目标",
+      "examples": [
+        {
+          "en": "Many senior scientists dream of sending people to Mars.",
+          "zh": "许多资深科学家梦想着把人类送上火星。"
+        },
+        {
+          "en": "She dreamed of becoming a professional dancer when she was a child.",
+          "zh": "她小时候梦想成为一名专业舞者。"
+        }
+      ]
+    },
+    {
+      "phrase": "would-be",
+      "usage": "作为形容词表示“想要成为的，未来可能的”，放在名词前修饰想要成为某类人或想要实现某件事的对象",
+      "examples": [
+        {
+          "en": "Mars has an extraordinary fascination for would-be voyagers.",
+          "zh": "火星对想要成为太空旅行者的人有着非凡的吸引力。"
+        },
+        {
+          "en": "The college offers special training courses for would-be teachers.",
+          "zh": "这所学院为想要成为教师的人提供特殊培训课程。"
+        }
+      ]
+    }
+  ],
+  "grammar": [
+    {
+      "title": "比较状语从句 (Comparative Adverbial Clause)",
+      "definition": "用于两者之间进行比较，说明人或事物的属性、程度等方面的差异，常由than引导",
+      "structure": "主语 + 谓语 + 形容词/副词比较级 + than + 比较对象 + （谓语部分，常可省略与主句相同的内容）",
+      "usage": "用于两者比较，若比较的是两个句子结构，从句中与主句相同的部分可以省略，避免重复；也可用于数量、程度的比较",
+      "examples": [
+        {
+          "en": "It requires 97% less energy to travel the quarter of a million miles from the Moon to Earth-orbit than the 200 mile-journey from Earth's surface into orbit!",
+          "zh": "从月球到地球轨道25万英里的旅程，比从地球表面进入轨道200英里的旅程所需的能量少97%！"
+        },
+        {
+          "en": "It takes much less time to go there by high-speed train than by bus.",
+          "zh": "坐高铁去那里比坐公共汽车花费的时间少得多。"
+        }
+      ]
+    },
+    {
+      "title": "原因状语从句 (Adverbial Clause of Cause)",
+      "definition": "用来解释主句动作发生的原因，常用引导词有because, since, as, for等",
+      "structure": "Because/Since/As + 原因状语从句, 主句 / 主句 + because + 原因状语从句",
+      "usage": "because引导的从句表示直接的、明确的原因，语气最强，可用来回答why的提问，位置可在主句前或后；当原因是已知的、显而易见的，常用since或as，语气较弱，常放在句首",
+      "examples": [
+        {
+          "en": "Because the gravity on the Moon's surface is only a sixth of Earth's, it takes much less energy to accelerate to that 1.5mps than it does on Earth.",
+          "zh": "因为月球表面的引力只有地球的六分之一，所以加速到每秒1.5英里所需的能量比在地球上少得多。"
+        },
+        {
+          "en": "Because it was raining heavily, we had to put off the outdoor sports meeting.",
+          "zh": "因为雨下得很大，我们不得不推迟户外运动会。"
+        }
+      ]
+    },
+    {
+      "title": "时间状语从句 (Adverbial Clause of Time)",
+      "definition": "用来表示主句动作发生的时间，常用引导词有when, while, as, before, after, until等",
+      "structure": "When/While + 时间状语从句, 主句 / 主句 + when + 时间状语从句",
+      "usage": "when引导的从句中动词既可以是延续性动词也可以是非延续性动词，可表示从句动作和主句动作同时发生，或从句动作先于主句动作发生；当主句为将来时态时，从句常用一般现在时表将来",
+      "examples": [
+        {
+          "en": "The idea of colonising Mars will move decisively from the second phase to the third, when a significant number of people are living permanently in space.",
+          "zh": "当有大量人口永久在太空居住时，殖民火星的想法就会果断地从第二阶段进入第三阶段。"
+        },
+        {
+          "en": "I will call you when I arrive at the hotel.",
+          "zh": "我到酒店的时候会给你打电话。"
+        }
+      ]
+    }
+  ],
+  "sentencePatterns": [
+    {
+      "pattern": "It is + possible/important/difficult + for sb. to do sth.",
+      "original": {
+        "en": "When will it be possible for us to think seriously about colonising Mars?",
+        "zh": "我们什么时候才有可能认真考虑殖民火星？"
+      },
+      "imitations": [
+        {
+          "en": "It is important for students to develop a good learning habit.",
+          "zh": "对学生来说养成良好的学习习惯很重要。"
+        },
+        {
+          "en": "It is very difficult for beginners to speak English fluently in a short time.",
+          "zh": "对初学者来说短时间内流利说英语很难。"
+        }
+      ]
+    },
+    {
+      "pattern": "Sb. once suggested (that) + 从句",
+      "original": {
+        "en": "Arthur C.Clark once suggested a revolutionary idea passes through three phases.",
+        "zh": "阿瑟·C·克拉克曾提出，一个革命性的想法要经历三个阶段。"
+      },
+      "imitations": [
+        {
+          "en": "The educator once suggested that children should be given more time to develop their hobbies.",
+          "zh": "这位教育家曾提出，应该给孩子更多时间发展他们的爱好。"
+        },
+        {
+          "en": "He once suggested that we should adjust our plan according to the new situation.",
+          "zh": "他曾建议我们应该根据新情况调整计划。"
+        }
+      ]
+    },
+    {
+      "pattern": "It is the one + 名词 + that is most like + 比较对象",
+      "original": {
+        "en": "It is the one world in the Solar System that is most like the Earth.",
+        "zh": "它是太阳系中最像地球的行星。"
+      },
+      "imitations": [
+        {
+          "en": "This is the one novel that is most like the author's real life experience.",
+          "zh": "这是最像作者真实生活经历的一部小说。"
+        },
+        {
+          "en": "It is the one city in the country that is most like my hometown.",
+          "zh": "这是这个国家里最像我家乡的一座城市。"
+        }
+      ]
+    }
+  ]
+}
