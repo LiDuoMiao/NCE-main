@@ -30,7 +30,9 @@ class ReadingSystem {
       translationMode: 'show',
       availableSpeeds: [0.5, 0.75, 1.0, 1.25, 1.5, 2.0],
       savedPlayTime: 0,
-      isProgressDragging: false
+      isProgressDragging: false,
+      currentTab: 'pdf',
+      currentNotes: null
     };
 
     // PDF 相关
@@ -63,7 +65,10 @@ class ReadingSystem {
       toggleTranslationBtn: qs('#toggleTranslationBtn'),
       wordPopup: qs('#wordPopup'),
       wordPopupOverlay: qs('#wordPopupOverlay'),
-      wordPopupClose: qs('#wordPopupClose')
+      wordPopupClose: qs('#wordPopupClose'),
+      viewTabs: qsa('.tab-btn'),
+      pdfContainer: qs('#pdfContainer'),
+      notesContainer: qs('#notesContainer')
     };
 
     this.lyricLineEls = [];
@@ -423,6 +428,11 @@ class ReadingSystem {
     this.loadPlayTime();
     this.loadSavedSpeed();
     this.prefetchUnit(unitIndex + 1);
+
+    // 在 loadUnitByIndex 方法末尾，当前单元变化时重置笔记
+    if (this.state.currentTab === 'notes') {
+      this.loadNotes();
+    }
   }
 
   resetPlayer() {
@@ -786,6 +796,17 @@ class ReadingSystem {
     this.bindNavigation();
     this.bindTranslationToggle();
     this.bindWordPopupEvents();
+    this.bindTabSwitching();
+
+    // 笔记区域的单词点击
+    document.addEventListener('click', (event) => {
+      if (event.target.classList.contains('word')) {
+        const word = event.target.dataset.word;
+        if (word) {
+          this.handleWordClick(event.target, word);
+        }
+      }
+    });
 
     window.addEventListener('hashchange', () => {
       const newKey = location.hash.slice(1).trim() || DEFAULT_BOOK_KEY;
@@ -828,6 +849,188 @@ class ReadingSystem {
         }
       });
     });
+  }
+
+  bindTabSwitching() {
+    this.dom.viewTabs.forEach(btn => {
+      btn.addEventListener('click', () => {
+        const tab = btn.dataset.tab;
+        this.switchTab(tab);
+      });
+    });
+  }
+
+  switchTab(tab) {
+    // 更新按钮状态
+    this.dom.viewTabs.forEach(btn => {
+      btn.classList.toggle('active', btn.dataset.tab === tab);
+    });
+
+    // 更新容器显示
+    if (tab === 'pdf') {
+      this.dom.pdfContainer.hidden = false;
+      this.dom.notesContainer.hidden = true;
+    } else {
+      this.dom.pdfContainer.hidden = true;
+      this.dom.notesContainer.hidden = false;
+      // 如果笔记未加载，则加载
+      if (!this.state.currentNotes) {
+        this.loadNotes();
+      }
+    }
+
+    this.state.currentTab = tab;
+  }
+
+  async loadNotes() {
+    const notesContainer = this.dom.notesContainer;
+
+    // 根据当前课本和课程下标构建笔记文件路径
+    const bookKeyMap = {
+      'NCE1': 'NCE1',
+      'NCE2': 'NCE2',
+      'NCE3': 'NCE3',
+      'NCE4': 'NCE4',
+      'NCE1(85)': 'NCE1',
+      'NCE2(85)': 'NCE2',
+      'NCE3(85)': 'NCE3',
+      'NCE4(85)': 'NCE4'
+    };
+
+    const bookKey = bookKeyMap[this.state.bookKey] || this.state.bookKey;
+    const unit = this.state.units[this.state.currentUnitIndex];
+    if (!unit) return;
+
+    // 从unit.title或filename提取课次编号
+    let lessonKey = '001';
+    if (unit.filename) {
+      const match = unit.filename.match(/(\d{3}-\d{3}|\d{2})/);
+      if (match) {
+        lessonKey = match[1];
+      }
+    }
+
+    const notesPath = `notes/${bookKey}/${lessonKey}.json`;
+
+    try {
+      notesContainer.innerHTML = '<div class="notes-placeholder">加载笔记中...</div>';
+      const response = await fetch(notesPath);
+      if (!response.ok) {
+        throw new Error('笔记加载失败');
+      }
+      const notes = await response.json();
+      this.state.currentNotes = notes;
+      this.renderNotes(notes);
+    } catch (error) {
+      console.error('加载笔记失败:', error);
+      notesContainer.innerHTML = '<div class="notes-placeholder">暂无笔记内容</div>';
+    }
+  }
+
+  renderNotes(notes) {
+    const notesContainer = this.dom.notesContainer;
+
+    let html = '';
+
+    // 渲染核心词汇
+    if (notes.vocabulary && notes.vocabulary.length) {
+      html += '<div class="notes-section">';
+      html += '<h3 class="notes-section-title">核心词汇</h3>';
+      notes.vocabulary.forEach(vocab => {
+        html += '<div class="vocab-item">';
+        html += `<span class="vocab-word">${this.wrapWords(vocab.word)}</span>`;
+        if (vocab.phonetic) {
+          html += `<span class="vocab-phonetic">${vocab.phonetic}</span>`;
+        }
+        html += '<div class="vocab-meanings">';
+        vocab.meanings.forEach(m => {
+          html += '<div class="vocab-meaning">';
+          html += `<span class="vocab-pos">${m.pos}</span>`;
+          html += `<span class="vocab-meaning-text">${m.meaning}</span>`;
+          if (m.usage) {
+            html += `<div class="vocab-usage">${m.usage}</div>`;
+          }
+          html += '</div>';
+        });
+        html += '</div></div>';
+      });
+      html += '</div>';
+    }
+
+    // 渲染重点短语
+    if (notes.phrases && notes.phrases.length) {
+      html += '<div class="notes-section">';
+      html += '<h3 class="notes-section-title">重点短语</h3>';
+      notes.phrases.forEach(phrase => {
+        html += '<div class="phrase-item">';
+        html += `<div class="phrase-text">${this.wrapWords(phrase.phrase)}</div>`;
+        if (phrase.usage) {
+          html += `<div class="phrase-usage">${phrase.usage}</div>`;
+        }
+        if (phrase.examples) {
+          phrase.examples.forEach(ex => {
+            html += `<div class="phrase-example">${this.wrapWords(ex.en)} - ${ex.zh}</div>`;
+          });
+        }
+        html += '</div>';
+      });
+      html += '</div>';
+    }
+
+    // 渲染语法讲解
+    if (notes.grammar && notes.grammar.length) {
+      html += '<div class="notes-section">';
+      html += '<h3 class="notes-section-title">语法讲解</h3>';
+      notes.grammar.forEach(g => {
+        html += '<div class="grammar-item">';
+        html += `<div class="grammar-title">${g.title}</div>`;
+        if (g.definition) {
+          html += `<div class="grammar-detail"><strong>定义：</strong>${g.definition}</div>`;
+        }
+        if (g.structure) {
+          html += `<div class="grammar-detail"><strong>结构：</strong>${g.structure}</div>`;
+        }
+        if (g.usage) {
+          html += `<div class="grammar-detail"><strong>用法：</strong>${g.usage}</div>`;
+        }
+        if (g.examples) {
+          html += '<div class="grammar-examples">';
+          g.examples.forEach(ex => {
+            html += `<div class="phrase-example">${this.wrapWords(ex.en)} - ${ex.zh}</div>`;
+          });
+          html += '</div>';
+        }
+        html += '</div>';
+      });
+      html += '</div>';
+    }
+
+    // 渲染句型仿写
+    if (notes.sentencePatterns && notes.sentencePatterns.length) {
+      html += '<div class="notes-section">';
+      html += '<h3 class="notes-section-title">句型仿写</h3>';
+      notes.sentencePatterns.forEach(p => {
+        html += '<div class="pattern-item">';
+        html += `<div class="pattern-title">${p.pattern}</div>`;
+        if (p.original) {
+          html += `<div class="pattern-original">原文：${this.wrapWords(p.original.en)} - ${p.original.zh}</div>`;
+        }
+        if (p.imitations) {
+          p.imitations.forEach((im, i) => {
+            html += `<div class="pattern-imitation">仿写${i+1}：${this.wrapWords(im.en)} - ${im.zh}</div>`;
+          });
+        }
+        html += '</div>';
+      });
+      html += '</div>';
+    }
+
+    notesContainer.innerHTML = html;
+  }
+
+  wrapWords(text) {
+    // 将英文单词包裹为<span class="word">单词</span>
+    return text.replace(/\b([a-zA-Z]+)\b/g, '<span class="word" data-word="$1">$1</span>');
   }
 
   bindTranslationToggle() {
@@ -1398,6 +1601,10 @@ class ReadingSystem {
     const overlay = qs('#wordPopupOverlay');
     if (popup) popup.hidden = true;
     if (overlay) overlay.hidden = true;
+  }
+
+  handleWordClick(element, word) {
+    this.showWordPopup(word);
   }
 
   bindPlayerControls() {
