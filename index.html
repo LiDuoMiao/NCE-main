@@ -204,8 +204,18 @@
 
         <!-- 新增：右侧 PDF 预览区 -->
         <aside class="pdf-viewer desktop-only">
-            <div id="pdfContainer">
+            <!-- 标签切换 -->
+            <div class="view-tabs">
+                <button class="tab-btn active" data-tab="pdf">课本</button>
+                <button class="tab-btn" data-tab="notes">学习笔记</button>
+            </div>
+            <!-- PDF容器 -->
+            <div id="pdfContainer" class="content-container">
                 <div class="pdf-placeholder">选择一个课本开始学习...</div>
+            </div>
+            <!-- 笔记容器 -->
+            <div id="notesContainer" class="content-container notes-container" hidden>
+                <div class="notes-placeholder">选择一个课程查看学习笔记...</div>
             </div>
         </aside>
     </div>
