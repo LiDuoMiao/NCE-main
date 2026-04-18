@@ -1801,3 +1801,209 @@ body::-webkit-scrollbar-thumb:hover,
     width: 100%;
   }
 }
+
+/* 标签切换样式 */
+.view-tabs {
+    display: flex;
+    gap: 8px;
+    padding: 8px 12px;
+    background: var(--glass);
+    border-bottom: 1px solid var(--border);
+}
+
+.tab-btn {
+    padding: 6px 16px;
+    border-radius: var(--radius-sm);
+    border: 1px solid var(--border);
+    background: var(--paper-2);
+    color: var(--ink-2);
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.tab-btn:hover {
+    background: var(--accent-3);
+    border-color: var(--accent-1);
+}
+
+.tab-btn.active {
+    background: var(--accent-1);
+    color: #ffffff;
+    border-color: var(--accent-1);
+}
+
+.content-container {
+    flex: 1;
+    overflow-y: auto;
+}
+
+/* 笔记容器 */
+.notes-container {
+    padding: 16px;
+}
+
+.notes-placeholder {
+    text-align: center;
+    color: var(--ink-3);
+    font-size: 14px;
+    padding: 40px 20px;
+}
+
+/* 笔记内容样式 */
+.notes-section {
+    margin-bottom: 24px;
+}
+
+.notes-section-title {
+    font-size: 16px;
+    font-weight: 700;
+    color: var(--accent-1);
+    margin-bottom: 12px;
+    padding-bottom: 6px;
+    border-bottom: 2px solid var(--accent-3);
+}
+
+/* 词汇项 */
+.vocab-item {
+    margin-bottom: 16px;
+    padding: 12px;
+    background: var(--paper-2);
+    border-radius: var(--radius-sm);
+    border: 1px solid var(--border);
+}
+
+.vocab-word {
+    font-size: 18px;
+    font-weight: 700;
+    color: var(--ink-1);
+    font-family: var(--font-display);
+}
+
+.vocab-phonetic {
+    font-size: 13px;
+    color: var(--ink-2);
+    font-family: var(--font-mono);
+    margin-left: 8px;
+}
+
+.vocab-meanings {
+    margin-top: 8px;
+}
+
+.vocab-meaning {
+    margin-bottom: 6px;
+}
+
+.vocab-pos {
+    display: inline-block;
+    font-size: 11px;
+    font-weight: 600;
+    color: var(--accent-1);
+    background: var(--accent-3);
+    padding: 2px 6px;
+    border-radius: 4px;
+    margin-right: 6px;
+}
+
+.vocab-meaning-text {
+    font-size: 14px;
+    color: var(--ink-1);
+}
+
+.vocab-usage {
+    font-size: 12px;
+    color: var(--ink-3);
+    margin-top: 4px;
+}
+
+/* 短语项 */
+.phrase-item {
+    margin-bottom: 14px;
+    padding: 12px;
+    background: var(--paper-2);
+    border-radius: var(--radius-sm);
+    border: 1px solid var(--border);
+}
+
+.phrase-text {
+    font-size: 16px;
+    font-weight: 600;
+    color: var(--accent-1);
+    font-family: var(--font-display);
+}
+
+.phrase-usage {
+    font-size: 13px;
+    color: var(--ink-2);
+    margin: 6px 0;
+}
+
+.phrase-example {
+    font-size: 13px;
+    color: var(--ink-1);
+    margin: 4px 0;
+    padding-left: 12px;
+    border-left: 3px solid var(--accent-3);
+}
+
+/* 语法项 */
+.grammar-item {
+    margin-bottom: 16px;
+    padding: 14px;
+    background: var(--paper-2);
+    border-radius: var(--radius-sm);
+    border: 1px solid var(--border);
+}
+
+.grammar-title {
+    font-size: 15px;
+    font-weight: 700;
+    color: var(--ink-1);
+    margin-bottom: 8px;
+}
+
+.grammar-detail {
+    font-size: 13px;
+    color: var(--ink-2);
+    margin: 4px 0;
+}
+
+.grammar-examples {
+    margin-top: 8px;
+}
+
+/* 句型仿写项 */
+.pattern-item {
+    margin-bottom: 16px;
+    padding: 14px;
+    background: var(--paper-2);
+    border-radius: var(--radius-sm);
+    border: 1px solid var(--border);
+}
+
+.pattern-title {
+    font-size: 14px;
+    font-weight: 700;
+    color: var(--accent-1);
+    margin-bottom: 8px;
+    font-family: var(--font-mono);
+}
+
+.pattern-original {
+    font-size: 14px;
+    color: var(--ink-1);
+    margin: 6px 0;
+    padding: 8px;
+    background: var(--paper-3);
+    border-radius: 6px;
+}
+
+.pattern-imitation {
+    font-size: 13px;
+    color: var(--ink-2);
+    margin: 6px 0;
+    padding-left: 12px;
+    border-left: 3px solid var(--teal);
+}
