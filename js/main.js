@@ -32,7 +32,9 @@ class ReadingSystem {
       savedPlayTime: 0,
       isProgressDragging: false,
       currentTab: 'pdf',
-      currentNotes: null
+      currentNotes: null,
+      qaMode: false,  // 是否处于问答模式
+      qaTapeIndex: {}  // QA 音频索引缓存
     };
 
     // PDF 相关
@@ -66,9 +68,12 @@ class ReadingSystem {
       wordPopup: qs('#wordPopup'),
       wordPopupOverlay: qs('#wordPopupOverlay'),
       wordPopupClose: qs('#wordPopupClose'),
-      viewTabs: qsa('.tab-btn'),
+      viewTabs: qsa('.view-tabs .tab-btn'),
       pdfContainer: qs('#pdfContainer'),
-      notesContainer: qs('#notesContainer')
+      notesContainer: qs('#notesContainer'),
+      dialogBtn: document.getElementById('dialogBtn'),
+      qaBtn: document.getElementById('qaBtn'),
+      qaToggle: document.querySelector('.qa-toggle')
     };
 
     this.lyricLineEls = [];
@@ -277,7 +282,35 @@ class ReadingSystem {
     this.persistBookPreference(this.state.bookKey);
 
     this.updateBookSelects();
+    // NCE1 显示问答切换按钮
+    const isNCE1 = bookKey === 'NCE1';
+    if (this.dom.qaToggle) {
+      this.dom.qaToggle.style.display = isNCE1 ? 'flex' : 'none';
+    }
+    // 切换书籍时重置为对话模式
+    if (this.dom.dialogBtn && this.dom.qaBtn) {
+      this.dom.dialogBtn.classList.add('active');
+      this.dom.qaBtn.classList.remove('active');
+      console.log('Reset QA buttons to dialog active', {
+        dialogHasActive: this.dom.dialogBtn.classList.contains('active'),
+        qaHasActive: this.dom.qaBtn.classList.contains('active')
+      });
+    }
+    this.state.qaMode = false;
     await this.loadBookConfig();
+    // 加载 QA 音频索引（NCE1 专用）
+    if (isNCE1) {
+      fetch(`qa_tape/index.json`)
+          .then(r => r.json())
+          .then(index => {
+            this.state.qaTapeIndex = index;
+          })
+          .catch(() => {
+            this.state.qaTapeIndex = {};
+          });
+    } else {
+      this.state.qaTapeIndex = {};
+    }
     this.renderUnitList();
     this.renderUnitSelect();
     this.resetUnitListScroll();
@@ -342,9 +375,9 @@ class ReadingSystem {
     if (!this.dom.bookSelects.length || !this.state.books.length) return;
 
     const options = this.state.books
-      .filter((book) => book && book.key && book.title && book.bookPath)
-      .map((book) => `<option value="${book.key}">${book.title}</option>`)
-      .join('');
+        .filter((book) => book && book.key && book.title && book.bookPath)
+        .map((book) => `<option value="${book.key}">${book.title}</option>`)
+        .join('');
 
     this.dom.bookSelects.forEach((select) => {
       select.innerHTML = `${options}`;
@@ -358,22 +391,22 @@ class ReadingSystem {
     if (!this.dom.unitList) return;
 
     this.dom.unitList.innerHTML = this.state.units
-      .map(
-        (unit, index) => `
+        .map(
+            (unit, index) => `
       <div class="unit-item" data-unit-index="${index}" tabindex="0" role="button" aria-label="打开 ${unit.title}">
         <h3>${unit.title}</h3>
       </div>
     `
-      )
-      .join('');
+        )
+        .join('');
   }
 
   renderUnitSelect() {
     if (!this.dom.unitSelect) return;
 
     const options = this.state.units
-      .map((unit, index) => `<option value="${index}">${unit.title}</option>`)
-      .join('');
+        .map((unit, index) => `<option value="${index}">${unit.title}</option>`)
+        .join('');
 
     this.dom.unitSelect.innerHTML = `${options}`;
   }
@@ -384,8 +417,8 @@ class ReadingSystem {
     const stored = localStorage.getItem(`${this.state.bookPath}/currentUnitIndex`);
     const parsed = stored ? parseInt(stored) : 0;
     const safeIndex = Number.isFinite(parsed)
-      ? clamp(parsed, 0, this.state.units.length - 1)
-      : 0;
+        ? clamp(parsed, 0, this.state.units.length - 1)
+        : 0;
 
     await this.loadUnitByIndex(safeIndex, { shouldScrollUnitIntoView: true });
   }
@@ -425,6 +458,15 @@ class ReadingSystem {
       this.dom.audioPlayer.load();
     }
 
+    // 如果处于问答模式，重新加载问答音频
+    if (this.state.qaMode) {
+      const qaUrl = this.getQAAudioUrl(unitIndex);
+      if (qaUrl) {
+        this.dom.audioPlayer.src = qaUrl;
+        this.dom.audioPlayer.load();
+      }
+    }
+
     this.loadPlayTime();
     this.loadSavedSpeed();
     this.prefetchUnit(unitIndex + 1);
@@ -433,6 +475,60 @@ class ReadingSystem {
     if (this.state.currentTab === 'notes') {
       this.loadNotes();
     }
+  }
+
+  setQAMode(isQA) {
+    const { qaToggle, dialogBtn, qaBtn, prevBtn, nextBtn, toggleTranslationBtn, lyricsContainer } = this.dom;
+
+    console.log('setQAMode called', { isQA, qaToggle, dialogBtn, qaBtn });
+
+    if (!qaToggle) return;
+
+    this.state.qaMode = isQA;
+
+    // 更新按钮状态
+    if (dialogBtn && qaBtn) {
+      dialogBtn.classList.toggle('active', !isQA);
+      qaBtn.classList.toggle('active', isQA);
+      console.log('Toggled buttons', {
+        isQA,
+        dialogHasActive: dialogBtn.classList.contains('active'),
+        qaHasActive: qaBtn.classList.contains('active')
+      });
+    }
+
+    if (isQA) {
+      // 加载问答音频
+      const qaIndex = this.state.currentUnitIndex;
+      const qaUrl = this.getQAAudioUrl(qaIndex);
+      if (qaUrl && this.dom.audioPlayer) {
+        this.dom.audioPlayer.src = qaUrl;
+        this.dom.audioPlayer.load();
+      }
+
+      // 隐藏不需要的按钮
+      if (prevBtn) prevBtn.style.display = 'none';
+      if (nextBtn) nextBtn.style.display = 'none';
+      if (toggleTranslationBtn) toggleTranslationBtn.style.display = 'none';
+      if (lyricsContainer) lyricsContainer.style.display = 'none';
+    } else {
+      // 恢复对话音频
+      const unit = this.state.units[this.state.currentUnitIndex];
+      if (unit && unit.audio && this.dom.audioPlayer) {
+        this.dom.audioPlayer.src = unit.audio;
+        this.dom.audioPlayer.load();
+      }
+
+      // 显示所有按钮
+      if (prevBtn) prevBtn.style.display = '';
+      if (nextBtn) nextBtn.style.display = '';
+      if (toggleTranslationBtn) toggleTranslationBtn.style.display = '';
+      if (lyricsContainer) lyricsContainer.style.display = '';
+    }
+  }
+
+  getQAAudioUrl(unitIndex) {
+    return this.state.qaTapeIndex?.[unitIndex] || null;
   }
 
   resetPlayer() {
@@ -490,8 +586,8 @@ class ReadingSystem {
     }
 
     this.dom.lyricsDisplay.innerHTML = this.state.currentLyrics
-      .map(
-        (lyric, index) => `
+        .map(
+            (lyric, index) => `
       <div class="lyric-line" data-index="${index}" data-time="${lyric.time}" tabindex="0" role="button" aria-label="播放第 ${index + 1} 句">
         <div class="lyric-content">
           <div class="lyric-text">${this.wrapWordsWithSpan(lyric.english)}</div>
@@ -504,8 +600,8 @@ class ReadingSystem {
         </button>
       </div>
     `
-      )
-      .join('');
+        )
+        .join('');
 
     this.lyricLineEls = qsa('.lyric-line', this.dom.lyricsDisplay);
     this.state.currentLyricIndex = -1;
@@ -514,13 +610,13 @@ class ReadingSystem {
   wrapWordsWithSpan(text) {
     if (!text) return '';
     return text
-      .split(/(\s+)/)
-      .map(part => {
-        if (part.trim() === '') return part;
-        const word = part.trim().replace(/[^a-zA-Z]/g, '');
-        return `<span class="word" data-word="${word.toLowerCase()}">${part}</span>`;
-      })
-      .join('');
+        .split(/(\s+)/)
+        .map(part => {
+          if (part.trim() === '') return part;
+          const word = part.trim().replace(/[^a-zA-Z]/g, '');
+          return `<span class="word" data-word="${word.toLowerCase()}">${part}</span>`;
+        })
+        .join('');
   }
 
   handleLyricActivate(line) {
@@ -765,9 +861,9 @@ class ReadingSystem {
 
     if (unit.lrc && !this.lrcCache.has(unit.lrc)) {
       fetch(unit.lrc)
-        .then((response) => response.text())
-        .then((text) => this.lrcCache.set(unit.lrc, text))
-        .catch(() => {});
+          .then((response) => response.text())
+          .then((text) => this.lrcCache.set(unit.lrc, text))
+          .catch(() => {});
     }
 
     if (unit.audio && !this.audioPreload.has(unit.audio)) {
@@ -794,6 +890,7 @@ class ReadingSystem {
     this.bindLyrics();
     this.bindPlayerControls();
     this.bindNavigation();
+    this.bindQAToggle();
     this.bindTranslationToggle();
     this.bindWordPopupEvents();
     this.bindTabSwitching();
@@ -1609,8 +1706,8 @@ class ReadingSystem {
   playPronunciation(word, lang) {
     // 使用 Free Dictionary API 的音频
     const audioUrl = lang === 'uk'
-      ? `https://api.dictionaryapi.dev/media/pronunciations/en/${word}-uk.mp3`
-      : `https://api.dictionaryapi.dev/media/pronunciations/en/${word}-us.ogg`;
+        ? `https://api.dictionaryapi.dev/media/pronunciations/en/${word}-uk.mp3`
+        : `https://api.dictionaryapi.dev/media/pronunciations/en/${word}-us.ogg`;
 
     const audio = new Audio(audioUrl);
     audio.play().catch(() => {
@@ -1641,11 +1738,11 @@ class ReadingSystem {
 
   bindPlayerControls() {
     if (
-      !this.dom.playPauseBtn ||
-      !this.dom.speedBtn ||
-      !this.dom.progressBar ||
-      !this.dom.audioPlayer ||
-      !this.dom.playModeBtn
+        !this.dom.playPauseBtn ||
+        !this.dom.speedBtn ||
+        !this.dom.progressBar ||
+        !this.dom.audioPlayer ||
+        !this.dom.playModeBtn
     ) {
       return;
     }
@@ -1754,6 +1851,24 @@ class ReadingSystem {
         this.loadNextUnit();
       });
     }
+  }
+
+  bindQAToggle() {
+    const dialogBtn = document.getElementById('dialogBtn');
+    const qaBtn = document.getElementById('qaBtn');
+
+    console.log('bindQAToggle called', { dialogBtn, qaBtn });
+
+    if (!dialogBtn || !qaBtn) return;
+
+    dialogBtn.addEventListener('click', () => {
+      console.log('dialogBtn clicked, calling setQAMode(false)');
+      this.setQAMode(false);
+    });
+    qaBtn.addEventListener('click', () => {
+      console.log('qaBtn clicked, calling setQAMode(true)');
+      this.setQAMode(true);
+    });
   }
 }
 
