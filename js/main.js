@@ -478,23 +478,17 @@ class ReadingSystem {
   }
 
   setQAMode(isQA) {
-    const { qaToggle, dialogBtn, qaBtn, prevBtn, nextBtn, toggleTranslationBtn, lyricsContainer } = this.dom;
-
-    console.log('setQAMode called', { isQA, qaToggle, dialogBtn, qaBtn });
+    const { qaToggle, dialogBtn, qaBtn, prevUnitBtn, nextUnitBtn, toggleTranslationBtn, lyricsDisplay } = this.dom;
 
     if (!qaToggle) return;
 
     this.state.qaMode = isQA;
+    this.resetPlayer();
 
     // 更新按钮状态
     if (dialogBtn && qaBtn) {
       dialogBtn.classList.toggle('active', !isQA);
       qaBtn.classList.toggle('active', isQA);
-      console.log('Toggled buttons', {
-        isQA,
-        dialogHasActive: dialogBtn.classList.contains('active'),
-        qaHasActive: qaBtn.classList.contains('active')
-      });
     }
 
     if (isQA) {
@@ -507,10 +501,14 @@ class ReadingSystem {
       }
 
       // 隐藏不需要的按钮
-      if (prevBtn) prevBtn.style.display = 'none';
-      if (nextBtn) nextBtn.style.display = 'none';
+      if (prevUnitBtn) prevUnitBtn.style.display = 'none';
+      if (nextUnitBtn) nextUnitBtn.style.display = 'none';
       if (toggleTranslationBtn) toggleTranslationBtn.style.display = 'none';
-      if (lyricsContainer) lyricsContainer.style.display = 'none';
+
+      // 保留歌词区域外框，显示提示文字
+      if (lyricsDisplay) {
+        lyricsDisplay.innerHTML = '<p class="placeholder">听录音回答问题，请参考课本内容</p>';
+      }
     } else {
       // 恢复对话音频
       const unit = this.state.units[this.state.currentUnitIndex];
@@ -520,10 +518,12 @@ class ReadingSystem {
       }
 
       // 显示所有按钮
-      if (prevBtn) prevBtn.style.display = '';
-      if (nextBtn) nextBtn.style.display = '';
+      if (prevUnitBtn) prevUnitBtn.style.display = '';
+      if (nextUnitBtn) nextUnitBtn.style.display = '';
       if (toggleTranslationBtn) toggleTranslationBtn.style.display = '';
-      if (lyricsContainer) lyricsContainer.style.display = '';
+
+      // 恢复歌词显示
+      this.renderLyrics();
     }
   }
 

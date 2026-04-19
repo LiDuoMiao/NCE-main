@@ -37,6 +37,8 @@
 
 ![pc_4.jpg](screenshot/pc_4.png)
 
+![pc_5.jpg](screenshot/pc_5.png)
+
 ### 📚 四册学习指南
 
 #### 📕 第一册：《First Things First》

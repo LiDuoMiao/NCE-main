@@ -1839,7 +1839,7 @@ body::-webkit-scrollbar-thumb:hover,
 .qa-toggle {
   display: flex;
   gap: 8px;
-  margin-left: 16px;
+  margin-right: 40px;
 }
 
 .qa-toggle .tab-btn {
