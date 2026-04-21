@@ -1767,6 +1767,7 @@ body::-webkit-scrollbar-thumb:hover,
   overflow: hidden;
   display: flex;
   flex-direction: column;
+  position: relative;
 }
 
 #pdfContainer {
@@ -1777,6 +1778,52 @@ body::-webkit-scrollbar-thumb:hover,
   align-items: center;
   padding: 8px;
   gap: 8px;
+}
+
+/* 自定义滚动条滑块样式 */
+#pdfContainer::-webkit-scrollbar {
+  width: 8px;
+}
+
+#pdfContainer::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+#pdfContainer::-webkit-scrollbar-thumb {
+  background: var(--border);
+  border-radius: 4px;
+}
+
+#pdfContainer::-webkit-scrollbar-thumb:hover {
+  background: var(--accent-1);
+}
+
+/* PDF 页码输入框 - 浮在底部中央 */
+.pdf-page-input {
+  position: absolute;
+  bottom: 16px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(255, 255, 255, 0.95);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 6px 14px;
+  font-size: 13px;
+  color: var(--ink-1);
+  text-align: center;
+  width: 110px;
+  outline: none;
+  transition: border-color 0.2s, box-shadow 0.2s;
+  box-shadow: var(--shadow-sm);
+}
+
+.pdf-page-input:hover {
+  border-color: var(--accent-1);
+  box-shadow: var(--shadow-md);
+}
+
+.pdf-page-input::placeholder {
+  color: var(--ink-3);
 }
 
 #pdfContainer canvas {
