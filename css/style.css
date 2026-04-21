@@ -1809,7 +1809,7 @@ body::-webkit-scrollbar-thumb:hover,
   border-radius: var(--radius-sm);
   padding: 6px 14px;
   font-size: 13px;
-  color: var(--ink-1);
+  color: #333333;
   text-align: center;
   width: 110px;
   outline: none;
@@ -1823,7 +1823,7 @@ body::-webkit-scrollbar-thumb:hover,
 }
 
 .pdf-page-input::placeholder {
-  color: var(--ink-3);
+  color: #999999;
 }
 
 #pdfContainer canvas {

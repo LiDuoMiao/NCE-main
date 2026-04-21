@@ -1097,9 +1097,17 @@ class ReadingSystem {
     if (tab === 'pdf') {
       this.dom.pdfContainer.style.display = '';
       this.dom.notesContainer.style.display = 'none';
+      // 显示页码输入框
+      if (this.dom.pageInput) {
+        this.dom.pageInput.style.display = '';
+      }
     } else {
       this.dom.pdfContainer.style.display = 'none';
       this.dom.notesContainer.style.display = '';
+      // 隐藏页码输入框
+      if (this.dom.pageInput) {
+        this.dom.pageInput.style.display = 'none';
+      }
       // 如果笔记未加载，则加载
       if (!this.state.currentNotes) {
         this.loadNotes();
